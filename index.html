@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="logo.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ransomware Guardian</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="panel leftPanel">
+        <h2>
+          "What is Ransomware Guardian?":
+          <br />
+          <br />
+          Ransomware Guardian is a new platform designed to provide
+          fast, accurate, and real-time tracking of ransomware activities. 
+          <br />
+          <br />
+          By leveraging advanced data aggregation, expert analysis, and
+          multiple API sources, we deliver unparalleled insights into
+          emerging ransomware threats.
+          <br />
+          <br />
+          "Why is Ransomware Guardian Needed?"
+          <br />
+          <br />
+          In 2022, there were approximately 493.3 million ransomware attacks.
+          <br />
+          <br />
+          Ransomware attacks increased by over 37% in 2023, with the average enterprise ransom payment exceeding $100,000 with a $5.3 million average demand.
+          <br />
+          There are currently around 1.7 million ransomware attacks every single day.
+          <br />
+          <br />
+          Ransomware Guardian allows users to track daily Victim posts quickly, accurately and easily.
+        
+        </h2>
+      </div>
+      <div class="panel middlePanel">
+        <h2><img src="textLogo.png" alt="" /></h2>
+        <img src="logo.png" alt="Logo"/>
+        Ransomware Guardian is owned and maintained by: Veraknis
+        <a href="https://github.com/Veraknis">GitHub.com/Veraknis</a>
+        <br />
+        <br />
+        This project is in an active development phase, and it will continue to evolve and improve as we expand its scope over time.      
+        <br />
+        <br />
+        Current Development Stage: V1.0 
+      </div>
+      <div class="panel secondMiddlePanel">
+        RansomwareNewsBot:
+        <a
+          class="twitter-timeline"
+          data-theme="dark"
+          data-tweet-limit="20"
+          href="https://x.com/TMRansomMon?ref_src=twsrc%5Etfw"
+          >Tweets by RansomwareNews</a
+        >
+        <script
+          async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"
+        ></script>
+      </div>
+      <div class="panel rightPanel"> 
+    <header>
+        <h2>Latest ransomware Victims: Updated Daily.</h2>
+    </header>
+    <div class="scroll-container">
+        <ul></ul>
+    </div>
+</div>
+          <script>
+            const listEl = document.querySelector("ul");
+
+            fetch("./output.json")
+              .then((res) => res.json())
+              .then((data) => {
+                data.forEach((post) => {
+                  listEl.insertAdjacentHTML(
+                    "beforeend",
+                    `<li>Title: ${post.post_title}</li>`
+                  );
+                  listEl.insertAdjacentHTML(
+                    "beforeend",
+                    `<li>Discovered: ${post.discovered}</li>`
+                  );
+                  listEl.insertAdjacentHTML(
+                    "beforeend",
+                    `<li>Group: ${post.group_name}</li>`
+                  );
+
+                  listEl.insertAdjacentHTML("beforeend", `<li>&nbsp;</li>`);
+                });
+              })
+              .catch((error) => {
+                console.error("Error fetching JSON:", error);
+                listEl.insertAdjacentHTML(
+                  "beforeend",
+                  `<li>Error loading data</li>`
+                );
+              });
+          </script>
+        </header>
+      </div>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
+<!---->
