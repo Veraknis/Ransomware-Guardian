@@ -1,35 +1,40 @@
-name: Update output.json
+name: Update Output File
 
 on:
   schedule:
-    - cron: "0 0,14,16 * * *" # Every day at 00:00am, 3:00pm, and 6:00pm UTC (UTC is one hour BEHIND UK Time)
-  workflow_dispatch: # Manual trigger via GitHub UI
+    # These are UTC times corresponding to UK time (BST or GMT).
+    - cron: "0 8 * * *" # 9:00 AM UK
+    - cron: "30 14 * * *" # 3:30 PM UK
+    - cron: "0 19 * * *" # 8:00 PM UK
+  workflow_dispatch:
 
 jobs:
-  update-json:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # This is automatically provided
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run ApiCall.py
-        run: python ApiCall.py
+      - name: Run update script
+        run: python ApiCall.py # Replace with the actual script name
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add output.json
           git commit -m "Auto-update output.json" || echo "No changes to commit"
           git push
