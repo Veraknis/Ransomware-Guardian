@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[veraknis.github.io/Ransomware-Guardian](veraknis.github.io/Ransomware-Guardian)
+https://veraknis.github.io/Ransomware-Guardian/
 
   
   
