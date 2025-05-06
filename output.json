@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "ehlers-inc.com",
+        "discovered": "2025-05-06 19:38:34.176004",
+        "description": "Ehlers is an industry-leading municipal advisory firm serving Minnesota, Wisconsin, Colorado, Illinois and Kansas. We leverage centuries of combined experience and specialized expertise to deliver innovative, fully integrated public finance solutions...",
+        "link": "/post/7gAczZ5ot4BSxdCe681a3b761cffd",
+        "magnet": null,
+        "screen": "screenshots/lockbit3/ehlers-inccom.png",
+        "group_name": "lockbit3"
+    },
+    {
+        "post_title": "Balance Diagnostics",
+        "discovered": "2025-05-06 18:36:10.552370",
+        "description": "",
+        "link": "/news/Balance_Diagnostics/",
+        "magnet": null,
+        "screen": "screenshots/everest/Balance Diagnostics.png",
+        "group_name": "everest"
+    },
+    {
         "post_title": "Commune de Jemeppe-sur-Sambre",
         "discovered": "2025-05-06 15:37:00.429200",
         "description": "",
@@ -133,131 +151,5 @@
         "magnet": null,
         "screen": "screenshots/rhysida/Mediprobe Research.png",
         "group_name": "rhysida"
-    },
-    {
-        "post_title": "ATI Systems",
-        "discovered": "2025-05-05 20:34:35.319516",
-        "description": "",
-        "link": "topic.php?id=m4lXiwKz6wVy0S",
-        "magnet": null,
-        "screen": "screenshots/play/ATI Systems.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Novosit",
-        "discovered": "2025-05-05 20:34:34.468937",
-        "description": "",
-        "link": "topic.php?id=61RvjQVTdRTi5c",
-        "magnet": null,
-        "screen": "screenshots/play/Novosit.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Downtown Travel",
-        "discovered": "2025-05-05 20:34:33.622431",
-        "description": "",
-        "link": "topic.php?id=6zBwPmXRCFDID2",
-        "magnet": null,
-        "screen": "screenshots/play/Downtown Travel.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Rand Technology",
-        "discovered": "2025-05-05 20:34:32.730421",
-        "description": "",
-        "link": "topic.php?id=9kpDirJ2r7IKZg",
-        "magnet": null,
-        "screen": "screenshots/play/Rand Technology.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Alberta Construction Safety Association",
-        "discovered": "2025-05-05 20:34:31.876199",
-        "description": "",
-        "link": "topic.php?id=XgeKC9nRrphQrI",
-        "magnet": null,
-        "screen": "screenshots/play/Alberta Construction Safety Association.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Breen Construction Services",
-        "discovered": "2025-05-05 20:34:31.012988",
-        "description": "",
-        "link": "topic.php?id=IiEHUrsb29z5ar",
-        "magnet": null,
-        "screen": "screenshots/play/Breen Construction Services.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Trybus",
-        "discovered": "2025-05-05 20:34:30.169018",
-        "description": "",
-        "link": "topic.php?id=7t4vpHQsbL4st3",
-        "magnet": null,
-        "screen": "screenshots/play/Trybus.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Sugar Lake Lodge",
-        "discovered": "2025-05-05 20:34:29.295806",
-        "description": "",
-        "link": "topic.php?id=ZAmJ5XgXEKzMwa",
-        "magnet": null,
-        "screen": "screenshots/play/Sugar Lake Lodge.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Marine Technical Surveyors",
-        "discovered": "2025-05-05 20:34:28.420264",
-        "description": "",
-        "link": "topic.php?id=WRH1S1do4O2Pk",
-        "magnet": null,
-        "screen": "screenshots/play/Marine Technical Surveyors.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Webcor",
-        "discovered": "2025-05-05 20:34:27.501671",
-        "description": "",
-        "link": "topic.php?id=F4WnY8Z76hy9Lo",
-        "magnet": null,
-        "screen": "screenshots/play/Webcor.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Technical Die-Casting",
-        "discovered": "2025-05-05 19:37:24.449375",
-        "description": "",
-        "link": "topic.php?id=Ln447hDQPz4qqQ",
-        "magnet": null,
-        "screen": "screenshots/play/Technical Die-Casting.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "GPF Lewis",
-        "discovered": "2025-05-05 19:37:07.501900",
-        "description": "",
-        "link": "/companies/3075119938",
-        "magnet": null,
-        "screen": "screenshots/hunters/GPF Lewis.png",
-        "group_name": "hunters"
-    },
-    {
-        "post_title": "Sioux Chief",
-        "discovered": "2025-05-05 19:37:06.636082",
-        "description": "",
-        "link": "/companies/4204983931",
-        "magnet": null,
-        "screen": "screenshots/hunters/Sioux Chief.png",
-        "group_name": "hunters"
-    },
-    {
-        "post_title": "SIMCO Electronics (UPDATE 5/5/2025)",
-        "discovered": "2025-05-05 19:37:05.056022",
-        "description": "SIMCO Electronics is a leading provider of calibration and software solutions for technology companies. Founded in 1962 to serve NASA and Silicon Valley firms.",
-        "link": "/post/B029BD33337F4B229A5812CF5A0B2AD2",
-        "magnet": null,
-        "screen": "screenshots/bert/SIMCO Electronics (UPDATE 552025).png",
-        "group_name": "bert"
     }
 ]
