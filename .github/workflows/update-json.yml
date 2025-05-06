@@ -1,0 +1,35 @@
+name: Update output.json
+
+on:
+  schedule:
+    - cron: "0 0,14,16 * * *" # Every day at 00:00am, 3:00pm, and 6:00pm UTC (UTC is one hour BEHIND UK Time)
+  workflow_dispatch: # Manual trigger via GitHub UI
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ApiCall.py
+        run: python ApiCall.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output.json
+          git commit -m "Auto-update output.json" || echo "No changes to commit"
+          git push
