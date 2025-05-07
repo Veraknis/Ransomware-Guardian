@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Amtech Software",
+        "discovered": "2025-05-07 20:42:01.951994",
+        "description": "Enterprise Resource Planning (ERP) Software",
+        "link": "/blog/79296199a4f112d4be2996b7f1f7288fa0a02db21fd752c9ccc203e7c6bd4162/",
+        "magnet": null,
+        "screen": "screenshots/monti/Amtech Software.png",
+        "group_name": "monti"
+    },
+    {
         "post_title": "Transport Lutztulln",
         "discovered": "2025-05-07 00:41:13.543980",
         "description": "\u200bLutz GmbH, operating under the name Transport Lutz Tulln, is a privately held...",
@@ -52,23 +61,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/gates-coopercom.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "ehlers-inc.com",
-        "discovered": "2025-05-06 19:38:34.176004",
-        "description": "Ehlers is an industry-leading municipal advisory firm serving Minnesota, Wisconsin, Colorado, Illinois and Kansas. We leverage centuries of combined experience and specialized expertise to deliver innovative, fully integrated public finance solutions...",
-        "link": "/post/7gAczZ5ot4BSxdCe681a3b761cffd",
-        "magnet": null,
-        "screen": "screenshots/lockbit3/ehlers-inccom.png",
-        "group_name": "lockbit3"
-    },
-    {
-        "post_title": "Balance Diagnostics",
-        "discovered": "2025-05-06 18:36:10.552370",
-        "description": "",
-        "link": "/news/Balance_Diagnostics/",
-        "magnet": null,
-        "screen": "screenshots/everest/Balance Diagnostics.png",
-        "group_name": "everest"
     }
 ]
