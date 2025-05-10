@@ -1,11 +1,20 @@
 [
     {
+        "post_title": "American Eagle Logistics - Full Leak",
+        "discovered": "2025-05-10 18:37:35.139290",
+        "description": "www.aeagleoilfield.com",
+        "link": "/blog/3455587bd83dc1208ce17d662972ee350216ecdf624c956e6c96050fee82a060/",
+        "magnet": null,
+        "screen": "screenshots/monti/American Eagle Logistics - Full Leak.png",
+        "group_name": "monti"
+    },
+    {
         "post_title": "Municipality of Pisa",
         "discovered": "2025-05-10 16:38:23.002447",
         "description": "The website comune.pisa.it is the official portal of the Municipality of Pisa, Italy. It serves as the primary online resource for residents, busine...",
         "link": "PISA",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/Municipality of Pisa.png",
         "group_name": "nova"
     },
     {
@@ -34,41 +43,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman"
-    },
-    {
-        "post_title": "EMX Enterprises",
-        "discovered": "2025-05-09 19:33:38.759150",
-        "description": "",
-        "link": "topic.php?id=7uP61FNOQOXarQ",
-        "magnet": null,
-        "screen": "screenshots/play/EMX Enterprises.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Verrex",
-        "discovered": "2025-05-09 19:33:37.907262",
-        "description": "",
-        "link": "topic.php?id=rZyewzltYUmALK",
-        "magnet": null,
-        "screen": "screenshots/play/Verrex.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Sweet Shop USA",
-        "discovered": "2025-05-09 19:33:37.021380",
-        "description": "",
-        "link": "topic.php?id=wFEF20CwU8Ink",
-        "magnet": null,
-        "screen": "screenshots/play/Sweet Shop USA.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Gistic Research",
-        "discovered": "2025-05-09 19:33:36.087496",
-        "description": "",
-        "link": "topic.php?id=9EY3lkouXUF4iD",
-        "magnet": null,
-        "screen": "screenshots/play/Gistic Research.png",
-        "group_name": "play"
     }
 ]
