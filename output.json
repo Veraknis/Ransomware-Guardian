@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Municipality of Pisa",
+        "discovered": "2025-05-10 16:38:23.002447",
+        "description": "The website comune.pisa.it is the official portal of the Municipality of Pisa, Italy. It serves as the primary online resource for residents, busine...",
+        "link": "PISA",
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova"
+    },
+    {
+        "post_title": "SIMCO Electronics (UPDATE 5/10/2025)",
+        "discovered": "2025-05-10 10:37:04.984545",
+        "description": "SIMCO Electronics is a leading provider of calibration and software solutions for technology companies. Founded in 1962 to serve NASA and Silicon Valley firms.",
+        "link": "/post/B029BD33337F4B229A5812CF5A0B2AD2",
+        "magnet": null,
+        "screen": "screenshots/bert/SIMCO Electronics (UPDATE 5102025).png",
+        "group_name": "bert"
+    },
+    {
         "post_title": "Pienaar Brothers (DevMan Ransomware)",
         "discovered": "2025-05-10 03:34:51.878429",
         "description": "",
@@ -52,23 +70,5 @@
         "magnet": null,
         "screen": "screenshots/play/Gistic Research.png",
         "group_name": "play"
-    },
-    {
-        "post_title": "hennessyfunds.com",
-        "discovered": "2025-05-09 15:41:55.088700",
-        "description": "The Hennessy Funds are offered only to United States residents, and information on this web site is intended only for such persons.",
-        "link": "/post/w6g1L0OoFFe7gg6n681dd79919a5b",
-        "magnet": null,
-        "screen": "screenshots/lockbit3/hennessyfundscom.png",
-        "group_name": "lockbit3"
-    },
-    {
-        "post_title": "Mountain View Mushrooms",
-        "discovered": "2025-05-09 12:47:04.104634",
-        "description": "Mountain View Mushrooms\nMountain View Mushrooms was established in 2003. We are the largest producer and wholesaler of fresh mushrooms in the Intermountain West.\n\n\n\nMore",
-        "link": "archive.php?company=187",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Mountain View Mushrooms.png",
-        "group_name": "rhysida"
     }
 ]
