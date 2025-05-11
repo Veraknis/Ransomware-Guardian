@@ -61,23 +61,5 @@
         "magnet": null,
         "screen": "screenshots/monti/American Eagle Logistics - Full Leak.png",
         "group_name": "monti"
-    },
-    {
-        "post_title": "Municipality of Pisa",
-        "discovered": "2025-05-10 16:38:23.002447",
-        "description": "The website comune.pisa.it is the official portal of the Municipality of Pisa, Italy. It serves as the primary online resource for residents, busine...",
-        "link": "PISA",
-        "magnet": null,
-        "screen": "screenshots/nova/Municipality of Pisa.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "SIMCO Electronics (UPDATE 5/10/2025)",
-        "discovered": "2025-05-10 10:37:04.984545",
-        "description": "SIMCO Electronics is a leading provider of calibration and software solutions for technology companies. Founded in 1962 to serve NASA and Silicon Valley firms.",
-        "link": "/post/B029BD33337F4B229A5812CF5A0B2AD2",
-        "magnet": null,
-        "screen": "screenshots/bert/SIMCO Electronics (UPDATE 5102025).png",
-        "group_name": "bert"
     }
 ]
