@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "adamjeeinsurance.co",
+        "discovered": "2025-05-16 09:34:29.159584",
+        "description": "",
+        "link": "/post/TgZFaDl2qrzEQMnr65e3732a0b067",
+        "magnet": null,
+        "screen": "screenshots/lockbit3/adamjeeinsuranceco.png",
+        "group_name": "lockbit3"
+    },
+    {
+        "post_title": "olympusaero.com",
+        "discovered": "2025-05-16 00:37:52.661867",
+        "description": "",
+        "link": "#olympusaero",
+        "magnet": null,
+        "screen": "screenshots/safepay/olympusaerocom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "azpiaran.com",
+        "discovered": "2025-05-15 23:37:52.445013",
+        "description": "",
+        "link": "#azpiaran",
+        "magnet": null,
+        "screen": "screenshots/safepay/azpiarancom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "wnyenergy.com",
+        "discovered": "2025-05-15 23:37:51.563708",
+        "description": "",
+        "link": "#wnyenergy",
+        "magnet": null,
+        "screen": "screenshots/safepay/wnyenergycom.png",
+        "group_name": "safepay"
+    },
+    {
         "post_title": "O...D...",
         "discovered": "2025-05-15 20:38:18.743392",
         "description": "To be announced...",
@@ -61,14 +97,5 @@
         "magnet": null,
         "screen": "screenshots/black suit/Gloucester County Virginia.png",
         "group_name": "black suit"
-    },
-    {
-        "post_title": "GARDNER ORTHOPEDICS",
-        "discovered": "2025-05-15 03:32:01.622191",
-        "description": "",
-        "link": "/blog/disclosures/68197136c51c99b3e26ddf21",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/GARDNER ORTHOPEDICS.png",
-        "group_name": "inc ransom"
     }
 ]
