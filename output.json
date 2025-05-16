@@ -1,5 +1,59 @@
 [
     {
+        "post_title": "finanzconsult-immobilien.de",
+        "discovered": "2025-05-16 20:34:01.329560",
+        "description": "",
+        "link": "/blog/disclosures/68277673ba68908013e8ea67",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/finanzconsult-immobiliende.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "www.davisdavisco.com",
+        "discovered": "2025-05-16 20:33:59.547810",
+        "description": "",
+        "link": "/blog/disclosures/68277779ba68908013e8f8f6",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwdavisdaviscocom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "alpha-steuer.de",
+        "discovered": "2025-05-16 19:38:15.897776",
+        "description": "",
+        "link": "/blog/disclosures/68276f65ba68908013e8a209",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/alpha-steuerde.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "npfy.org",
+        "discovered": "2025-05-16 19:38:14.992114",
+        "description": "",
+        "link": "/blog/disclosures/68277413ba68908013e8c9f3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/npfyorg.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "ros.eu",
+        "discovered": "2025-05-16 18:38:57.650297",
+        "description": "",
+        "link": "/blog/disclosures/6827639fba68908013e81090",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/roseu.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "ccrcda.org",
+        "discovered": "2025-05-16 17:36:58.659998",
+        "description": "",
+        "link": "/blog/disclosures/68274db3ba68908013e7120a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ccrcdaorg.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "Triple Jump",
         "discovered": "2025-05-16 15:36:23.117464",
         "description": "",
@@ -88,23 +142,5 @@
         "magnet": null,
         "screen": "screenshots/safepay/wnyenergycom.png",
         "group_name": "safepay"
-    },
-    {
-        "post_title": "O...D...",
-        "discovered": "2025-05-15 20:38:18.743392",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata"
-    },
-    {
-        "post_title": "ITinSell group",
-        "discovered": "2025-05-15 20:37:59.972135",
-        "description": "The ITinSell group is made up of several companies working hand in hand with a common objective: to collect, structure, exploit and secure data!\n\nWith ITinSell Software we offer a 100% Saas platform to improve the experience and performance            ...",
-        "link": "/site/view?uuid=bbaf9f6d-f55e-3efe-ac9b-c5d7f75a19ac",
-        "magnet": null,
-        "screen": "screenshots/qilin/ITinSell group.png",
-        "group_name": "qilin"
     }
 ]
