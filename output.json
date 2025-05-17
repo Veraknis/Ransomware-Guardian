@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "greenpac.com.sg",
+        "discovered": "2025-05-17 20:25:52.725896",
+        "description": "",
+        "link": "#greenpac",
+        "magnet": null,
+        "screen": "screenshots/safepay/greenpaccomsg.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "mylikowines.co.uk",
+        "discovered": "2025-05-17 20:25:51.888722",
+        "description": "",
+        "link": "#mylikowines",
+        "magnet": null,
+        "screen": "screenshots/safepay/mylikowinescouk.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "ngca.net",
+        "discovered": "2025-05-17 20:25:51.048347",
+        "description": "",
+        "link": "#ngca",
+        "magnet": null,
+        "screen": "screenshots/safepay/ngcanet.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "distribution2.com",
+        "discovered": "2025-05-17 20:25:50.209093",
+        "description": "",
+        "link": "#distribution2",
+        "magnet": null,
+        "screen": "screenshots/safepay/distribution2com.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "redsquaredentalcare.com",
+        "discovered": "2025-05-17 20:25:49.316309",
+        "description": "",
+        "link": "#redsquaredentalcare",
+        "magnet": null,
+        "screen": "screenshots/safepay/redsquaredentalcarecom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "overheadtyler.com",
+        "discovered": "2025-05-17 20:25:48.459606",
+        "description": "",
+        "link": "#overheadtyler",
+        "magnet": null,
+        "screen": "screenshots/safepay/overheadtylercom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "clarkmechanicalinc.com",
+        "discovered": "2025-05-17 20:25:47.609054",
+        "description": "",
+        "link": "#clarkmechanicalinc",
+        "magnet": null,
+        "screen": "screenshots/safepay/clarkmechanicalinccom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "prais.ro",
+        "discovered": "2025-05-17 20:25:46.769356",
+        "description": "",
+        "link": "#prais",
+        "magnet": null,
+        "screen": "screenshots/safepay/praisro.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "aplusmachining.com",
+        "discovered": "2025-05-17 20:25:45.859911",
+        "description": "",
+        "link": "#aplusmachining",
+        "magnet": null,
+        "screen": "screenshots/safepay/aplusmachiningcom.png",
+        "group_name": "safepay"
+    },
+    {
         "post_title": "Av Alumitran",
         "discovered": "2025-05-17 03:55:48.878918",
         "description": "AV Alumitran is an established company with more than 40 years ofexperience in aluminium extrusion.We are going to upload more than 80GB of corporate data. A lot ofproject data (descriptions, drawings and so on), agreements, very detailed financial data (audits, payment details, reports, invoices), etc.",
@@ -223,59 +304,5 @@
         "magnet": null,
         "screen": "screenshots/safepay/zvaonlinecom.png",
         "group_name": "safepay"
-    },
-    {
-        "post_title": "finanzconsult-immobilien.de",
-        "discovered": "2025-05-16 20:34:01.329560",
-        "description": "",
-        "link": "/blog/disclosures/68277673ba68908013e8ea67",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/finanzconsult-immobiliende.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "www.davisdavisco.com",
-        "discovered": "2025-05-16 20:33:59.547810",
-        "description": "",
-        "link": "/blog/disclosures/68277779ba68908013e8f8f6",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwdavisdaviscocom.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "alpha-steuer.de",
-        "discovered": "2025-05-16 19:38:15.897776",
-        "description": "",
-        "link": "/blog/disclosures/68276f65ba68908013e8a209",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/alpha-steuerde.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "npfy.org",
-        "discovered": "2025-05-16 19:38:14.992114",
-        "description": "",
-        "link": "/blog/disclosures/68277413ba68908013e8c9f3",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/npfyorg.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "ros.eu",
-        "discovered": "2025-05-16 18:38:57.650297",
-        "description": "",
-        "link": "/blog/disclosures/6827639fba68908013e81090",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/roseu.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "ccrcda.org",
-        "discovered": "2025-05-16 17:36:58.659998",
-        "description": "",
-        "link": "/blog/disclosures/68274db3ba68908013e7120a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ccrcdaorg.png",
-        "group_name": "inc ransom"
     }
 ]
