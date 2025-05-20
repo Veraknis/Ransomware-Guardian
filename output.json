@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "Semple & Cooper",
+        "discovered": "2025-05-20 20:34:36.858145",
+        "description": "https://semplecpa.com\n\t\t\t\t\t\t\t\t\tSemple, Marchal & Cooper, LLP is a leading regional Certified Public Accounting firm based in the Southwest, offering a range of professional services including accounting, auditing, tax planning, compliance, and management consulting. The firm is dedicated to serving various sectors such as technology, healthcare, retail, and non-profits, emphasizing innovation and personalized solutions for each client.",
+        "link": "http://6mwjyc64rnkht3qc4bv7svpufmbvm3k73vekxgdlsbqzx5toueq3ndyd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Semple & Cooper.png",
+        "group_name": "interlock"
+    },
+    {
+        "post_title": "durhamarts.org",
+        "discovered": "2025-05-20 20:34:35.096247",
+        "description": "Durham Arts Council",
+        "link": "/detail?code=durhamarts-org-usa-59-3gb",
+        "magnet": null,
+        "screen": "screenshots/kairos/durhamartsorg.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "tennsco.com",
+        "discovered": "2025-05-20 18:33:28.228285",
+        "description": "All data of this company will be available for download on 1.06.2025.Founded in 1961, Tennsco manufactures and supplies storage and archiving systems, steel office furniture, industrial and institutional systems, shelving, lockers, and commer            ...",
+        "link": "/site/view?uuid=a6c1cccb-c03f-34e3-bc92-04966f7b267a",
+        "magnet": null,
+        "screen": "screenshots/qilin/tennscocom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "The Vascular Experts",
+        "discovered": "2025-05-20 17:30:57.116172",
+        "description": "",
+        "link": "/blog/disclosures/682c9465ba689080131a80b3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/The Vascular Experts.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Rommel's Ac\\Rommel Electric\\Rommel Harley - Davidson",
+        "discovered": "2025-05-20 17:30:53.786090",
+        "description": "Rommel's Ace is part of Rommel Holdings, Inc., a mid-sized holding company located in Fruitland, MD. Rommel Holdings has owned andoperated a variety of businesses dating back to the 1950's.We are going to upload about 2 GB of corporate data. This is not much but there is so much personal information of almost every employee including terminated ones. Passport numbers, addresses, personal emails, SSNs, medical records and is on. You will also find a lot of accounting and projects files of Rommel Electric and Rommel Harley - Davidson companies.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
         "post_title": "MSM International (TOYOMI)",
         "discovered": "2025-05-20 16:34:29.796245",
         "description": "TOYOMI was established in the year 1992 as a professional marketing unit of MSM Metal Industries Sdn Bhd (MSM) to provide sheet metal forming services to the manufacturing and engineering sector both in Malaysia and internationally. We are going to upload more than 6 GB of corporate documents suchas: employee personal documents, lot of detailed accounting files of their partners, projects files.",
@@ -88,14 +133,5 @@
         "magnet": null,
         "screen": "screenshots/lynx/Runtec.png",
         "group_name": "lynx"
-    },
-    {
-        "post_title": "NSSF KENYA",
-        "discovered": "2025-05-19 18:59:23.975472",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
     }
 ]
