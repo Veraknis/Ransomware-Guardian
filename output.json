@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Anglo American plc",
+        "discovered": "2025-05-21 19:34:52.917642",
+        "description": "",
+        "link": "/anglo-american-plc/",
+        "magnet": null,
+        "screen": "screenshots/arkana security/Anglo American plc.png",
+        "group_name": "arkana security"
+    },
+    {
+        "post_title": "ndsohio.org",
+        "discovered": "2025-05-21 19:34:50.556490",
+        "description": "Neighborhood Development Services",
+        "link": "/detail?code=ndsohio-org-usa-228gb",
+        "magnet": null,
+        "screen": "screenshots/kairos/ndsohioorg.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "Rivers Academy West London",
+        "discovered": "2025-05-21 17:36:39.057920",
+        "description": "",
+        "link": "/blog/disclosures/682dd5eaba689080132ad398",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Rivers Academy West London.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "JDC Air & Sea Freight (HEUEL LOGISTICS Group)",
         "discovered": "2025-05-21 14:34:00.657105",
         "description": "The JDC Air & Sea Freight is part of the HEUEL LOGISTICS Group. As an international freight forwarder, the company has its focus on air and sea cargo, as well as contract logistics.We are going to upload about 20 GB of corporate data. Employee personal information, lots of agreements and contracts, client information, detailed financial data.",
@@ -79,50 +106,5 @@
         "magnet": null,
         "screen": "screenshots/rhysida/Florida Lung.png",
         "group_name": "rhysida"
-    },
-    {
-        "post_title": "Semple & Cooper",
-        "discovered": "2025-05-20 20:34:36.858145",
-        "description": "https://semplecpa.com\n\t\t\t\t\t\t\t\t\tSemple, Marchal & Cooper, LLP is a leading regional Certified Public Accounting firm based in the Southwest, offering a range of professional services including accounting, auditing, tax planning, compliance, and management consulting. The firm is dedicated to serving various sectors such as technology, healthcare, retail, and non-profits, emphasizing innovation and personalized solutions for each client.",
-        "link": "http://6mwjyc64rnkht3qc4bv7svpufmbvm3k73vekxgdlsbqzx5toueq3ndyd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Semple & Cooper.png",
-        "group_name": "interlock"
-    },
-    {
-        "post_title": "durhamarts.org",
-        "discovered": "2025-05-20 20:34:35.096247",
-        "description": "Durham Arts Council",
-        "link": "/detail?code=durhamarts-org-usa-59-3gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/durhamartsorg.png",
-        "group_name": "kairos"
-    },
-    {
-        "post_title": "tennsco.com",
-        "discovered": "2025-05-20 18:33:28.228285",
-        "description": "All data of this company will be available for download on 1.06.2025.Founded in 1961, Tennsco manufactures and supplies storage and archiving systems, steel office furniture, industrial and institutional systems, shelving, lockers, and commer            ...",
-        "link": "/site/view?uuid=a6c1cccb-c03f-34e3-bc92-04966f7b267a",
-        "magnet": null,
-        "screen": "screenshots/qilin/tennscocom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "The Vascular Experts",
-        "discovered": "2025-05-20 17:30:57.116172",
-        "description": "",
-        "link": "/blog/disclosures/682c9465ba689080131a80b3",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/The Vascular Experts.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "Rommel's Ac\\Rommel Electric\\Rommel Harley - Davidson",
-        "discovered": "2025-05-20 17:30:53.786090",
-        "description": "Rommel's Ace is part of Rommel Holdings, Inc., a mid-sized holding company located in Fruitland, MD. Rommel Holdings has owned andoperated a variety of businesses dating back to the 1950's.We are going to upload about 2 GB of corporate data. This is not much but there is so much personal information of almost every employee including terminated ones. Passport numbers, addresses, personal emails, SSNs, medical records and is on. You will also find a lot of accounting and projects files of Rommel Electric and Rommel Harley - Davidson companies.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
     }
 ]
