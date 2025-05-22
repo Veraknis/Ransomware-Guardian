@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "radiologue.paris",
+        "discovered": "2025-05-22 17:39:09.447108",
+        "description": "The radiological groups IMEF and RIM Maussins Nollet have joined forces to form a single medical structure that is completely independent of non-medical financial groups. Our values are those of a human radiology, based on coherent medical pr            ...",
+        "link": "/site/view?uuid=07740f75-e76d-35fe-ad07-a920ad8d9a66",
+        "magnet": null,
+        "screen": "screenshots/qilin/radiologueparis.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "piercecountylibrary.org",
         "discovered": "2025-05-22 14:44:27.989101",
         "description": "",
@@ -169,32 +178,5 @@
         "magnet": null,
         "screen": "screenshots/safepay/schoene-aussicht-kasselde.png",
         "group_name": "safepay"
-    },
-    {
-        "post_title": "Anglo American plc",
-        "discovered": "2025-05-21 19:34:52.917642",
-        "description": "",
-        "link": "/anglo-american-plc/",
-        "magnet": null,
-        "screen": "screenshots/arkana security/Anglo American plc.png",
-        "group_name": "arkana security"
-    },
-    {
-        "post_title": "ndsohio.org",
-        "discovered": "2025-05-21 19:34:50.556490",
-        "description": "Neighborhood Development Services",
-        "link": "/detail?code=ndsohio-org-usa-228gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/ndsohioorg.png",
-        "group_name": "kairos"
-    },
-    {
-        "post_title": "Rivers Academy West London",
-        "discovered": "2025-05-21 17:36:39.057920",
-        "description": "",
-        "link": "/blog/disclosures/682dd5eaba689080132ad398",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Rivers Academy West London.png",
-        "group_name": "inc ransom"
     }
 ]
