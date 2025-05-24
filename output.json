@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "elitavia.com",
+        "discovered": "2025-05-24 14:33:52.406893",
+        "description": "One of Europe's largest mixed fleet business aircraft operators, Elit'Avia is a fully-integrated provider of business aircraft sales, leasing, charter, aircraft management and related services, including flight operations management, staff pr            ...",
+        "link": "/site/view?uuid=12343598-a7ac-3dbe-b8e4-ced7db1ef60c",
+        "magnet": null,
+        "screen": "screenshots/qilin/elitaviacom.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Kalamazoo Public School District",
         "discovered": "2025-05-23 23:40:47.280462",
         "description": "https://www.kalamazoopublicschools.com\n\t\t\t\t\t\t\t\t\tKalamazoo Public Schools oversees 25 public schools in the district . Provides educational services for students ranging from preschool to high school. The district offers diverse programs including adult education, special education, and various extracurricular activities to support student growth. It aims to serve the local community by fostering academic excellence and personal development among students. Additionally, it collaborates with various community organizations to enhance educational outcomes and support for families.",
@@ -61,41 +70,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/Berko I\u0307la\u00e7 Ve Ki\u0307mya San A\u015f.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "French Gov 2025",
-        "discovered": "2025-05-23 13:38:52.577649",
-        "description": "We present a comprehensive leak including full email addresses and password hashes from multiple high-profile French government organizations: Carsat, Finance, Retraite, and IGAS -AAF - AFT - ac-lyoun.fr - cnaf.fr - cnsa.fr.......",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous"
-    },
-    {
-        "post_title": "www.paragonradiology.com",
-        "discovered": "2025-05-23 12:42:24.311651",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
-    },
-    {
-        "post_title": "netstar.co.za",
-        "discovered": "2025-05-23 12:42:23.361079",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
-    },
-    {
-        "post_title": "NSSF KENYA(negotiation started)",
-        "discovered": "2025-05-23 12:42:22.465483",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
     }
 ]
