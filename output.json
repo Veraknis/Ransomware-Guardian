@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Mediclinic Group",
+        "discovered": "2025-05-26 14:34:25.203064",
+        "description": "",
+        "link": "/news/Mediclinic_Group/",
+        "magnet": null,
+        "screen": "screenshots/everest/Mediclinic Group.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Department of Culture and Tourism Abu Dhabi",
+        "discovered": "2025-05-26 14:34:24.332026",
+        "description": "",
+        "link": "/news/Department_of_Culture_and_Tourism_Abu_Dhabi/",
+        "magnet": null,
+        "screen": "screenshots/everest/Department of Culture and Tourism Abu Dhabi.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Carrera Chevrolet",
+        "discovered": "2025-05-26 12:32:54.661035",
+        "description": "Carrera Chevrolet\nCarrera Acelera Veiculos specializes in the sale of new, semi-new, and used vehicles from various brands such as Chevrolet, Volkswagen, and Nissan.\n\n\n\nMore",
+        "link": "archive.php?company=192",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Carrera Chevrolet.png",
+        "group_name": "rhysida"
+    },
+    {
         "post_title": "Antea Luce",
         "discovered": "2025-05-26 04:31:39.408991",
         "description": "Days00006666Hours22223333Minutes55550000Seconds11112222\n\n\nwww.antealuce.com\nOur adventure began over 40 years ago and over the years has led to a gre\u2026",
@@ -61,41 +88,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "el dorado"
-    },
-    {
-        "post_title": "SAVE THIS PGP MESSAGE",
-        "discovered": "2025-05-25 15:32:42.632184",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
-    },
-    {
-        "post_title": "www.nijar.es",
-        "discovered": "2025-05-25 15:32:41.699270",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
-    },
-    {
-        "post_title": "vazirilaw.com",
-        "discovered": "2025-05-25 13:33:49.787935",
-        "description": "Vaziri Law Group has the expertise, dedication and experience combines extensive experience, deep knowledge of the law and dedication to protecting the rights of accident victims to get you justice. Whether you were the victim of a personal injury",
-        "link": "",
-        "magnet": null,
-        "screen": null,
-        "group_name": "3am"
-    },
-    {
-        "post_title": "D****v.org",
-        "discovered": "2025-05-25 12:32:54.033485",
-        "description": "For The Leadership Of D**a-C**e S*****s Inc We have compromised your main server D****v.org we also took copy of all [\u2026]",
-        "link": "http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion/?p=443",
-        "magnet": null,
-        "screen": "screenshots/fsociety/D****vorg.png",
-        "group_name": "fsociety"
     }
 ]
