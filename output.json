@@ -1,11 +1,20 @@
 [
     {
+        "post_title": "Valiant Energy Solutions",
+        "discovered": "2025-05-27 18:33:36.628270",
+        "description": "",
+        "link": "/companies/0886726786",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Valiant Energy Solutions.png",
+        "group_name": "worldleaks"
+    },
+    {
         "post_title": "educo",
         "discovered": "2025-05-27 15:31:59.379627",
         "description": "\u200b\u200b\u200b\u200b\u200b Educo El Salvador, the Salvadoran branch of Educo, an international non-governmental organization (NGO) dedicated to...",
         "link": "edusv",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/educo.png",
         "group_name": "nova"
     },
     {
@@ -385,14 +394,5 @@
         "magnet": null,
         "screen": "screenshots/safepay/rtblegalcomau.png",
         "group_name": "safepay"
-    },
-    {
-        "post_title": "Gobierno del Estado de Colima",
-        "discovered": "2025-05-26 19:33:33.934260",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
     }
 ]
