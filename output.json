@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "lantro.com",
+        "discovered": "2025-05-31 18:33:56.438432",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman"
+    },
+    {
+        "post_title": "ASCOMA Cameroon",
+        "discovered": "2025-05-31 17:36:09.834445",
+        "description": "",
+        "link": "/companies/5809730023",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/ASCOMA Cameroon.png",
+        "group_name": "worldleaks"
+    },
+    {
+        "post_title": "radicon",
+        "discovered": "2025-05-31 17:36:08.396259",
+        "description": "The Radicon product range, not only consists of the traditional standard product offering of worm gears, geared motors, couplings and industrial reducers, but also includes custom engineered gearboxes with an output torque range over 50 milli            ...",
+        "link": "/site/view?uuid=35f3c41a-8f1b-320f-86a6-f3f284be3e0b",
+        "magnet": null,
+        "screen": "screenshots/qilin/radicon.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Chrisman Commercial",
         "discovered": "2025-05-31 14:35:29.082797",
         "description": "Chrisman Commercial is a professional Boulder Commercial Real Estate firm specia...",
@@ -160,41 +187,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/office-national.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "www.shautoparts.com",
-        "discovered": "2025-05-30 19:36:33.251188",
-        "description": "At SH Auto Parts, we leverage cutting-edge computerized and robotic technologies to deliver precision-engineered auto components. Our fully automated smart factory ensures the highest levels of quality and safety throughout the manufacturing             ...",
-        "link": "/site/view?uuid=5e082a20-c32e-3ec9-9fbe-b01766662976",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwshautopartscom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Tri-Point Solutions",
-        "discovered": "2025-05-30 17:33:59.294970",
-        "description": "",
-        "link": "topic.php?id=bWiwjkgeJaXwbE",
-        "magnet": null,
-        "screen": "screenshots/play/Tri-Point Solutions.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "W.E. Bowers",
-        "discovered": "2025-05-30 17:33:58.437886",
-        "description": "",
-        "link": "topic.php?id=RxBsnvb7TLDn8j",
-        "magnet": null,
-        "screen": "screenshots/play/WE Bowers.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Anchor Industries",
-        "discovered": "2025-05-30 17:33:57.424439",
-        "description": "",
-        "link": "topic.php?id=2tu8yPwQHYT4Ut",
-        "magnet": null,
-        "screen": "screenshots/play/Anchor Industries.png",
-        "group_name": "play"
     }
 ]
