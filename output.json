@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "DSI Tech",
+        "discovered": "2025-06-01 19:42:42.172111",
+        "description": "DSI Tech (founded in 1991) is a certified minority-owned small business that has grown into a it value-add reseller and service provider of industry vendor products and solutions. DSI Tech corporate office is located in 44670 Cape Ct Ste 100, Ashburn, Virginia, 20147, United States and has 223 employees. The total amount of data leakage is 399.10 GB",
+        "link": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=57c2c91ea2e788c24ed20d5b0e61ceb8",
+        "magnet": null,
+        "screen": "screenshots/medusa/DSI Tech.png",
+        "group_name": "medusa"
+    },
+    {
+        "post_title": "Bailey's",
+        "discovered": "2025-06-01 19:41:39.854829",
+        "description": "Bailey's the company provides catering services including both home cooking and gourmet menus. Bailey's Catering is part of a family of restaurants that include Bailey's Seafood and Grill and Ema's Restaurant in Lafayette, Louisiana. Bailey Support Services corporate office is located in 3639 Ambassador Caffery Pkwy Ste 408, Lafayette, Louisiana, 70503, United States and has 14 employees. ",
+        "link": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=6543e4535a92ce07df465bd116162d08",
+        "magnet": null,
+        "screen": "screenshots/medusa/Bailey's.png",
+        "group_name": "medusa"
+    },
+    {
+        "post_title": "Presort First Class",
+        "discovered": "2025-06-01 19:39:15.019121",
+        "description": "Presort First Class - offer a complete array of design, print, and mail services. Presort First Class corporate office is located in 2621 SE 15th St, Oklahoma City, Oklahoma, 73129, United States and has 85 employees. The total amount of data leakage is 279.30 GB",
+        "link": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=98a8f69c749f8bb704474312e6c1c115",
+        "magnet": null,
+        "screen": "screenshots/medusa/Presort First Class.png",
+        "group_name": "medusa"
+    },
+    {
+        "post_title": "RE/MAX",
+        "discovered": "2025-06-01 19:38:28.610993",
+        "description": "RE/MAX (founded in 1973) is the global real estate franchisors and a subsidiary of RE/MAX Holdings.RE/MAX corporate office is located in 5075 S Syracuse St, Denver, Colorado, 80237, United States and has 140,000 employees. The total amount of data leakage is 151.80 GB",
+        "link": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=6f9fa4ac9a3f177df43c64b2a92d64f9",
+        "magnet": null,
+        "screen": "screenshots/medusa/REMAX.png",
+        "group_name": "medusa"
+    },
+    {
+        "post_title": "Town of North Providence Rhode Island corporate office",
+        "discovered": "2025-06-01 19:37:53.247040",
+        "description": "The Town of North Providence provides a variety of municipal services to its residents, including online permitting, tax payment options, and community events. Town of North Providence Rhode Island corporate office is located in 2000 Smith St, North Providence, Rhode Island, 02911, United States and has 40 employees. ",
+        "link": "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=202e7cec01be11b585641d10e1844913",
+        "magnet": null,
+        "screen": "screenshots/medusa/Town of North Providence Rhode Island corporate office.png",
+        "group_name": "medusa"
+    },
+    {
         "post_title": "Dcsdev.org",
         "discovered": "2025-06-01 07:32:06.568609",
         "description": "For The Leadership Of Data-Core Systems Inc In 2016 Data-Core Systems Inc. founded Data-Core The Automation Company, with a focus",
@@ -43,32 +88,5 @@
         "magnet": null,
         "screen": "screenshots/safepay/universityacademyorg.png",
         "group_name": "safepay"
-    },
-    {
-        "post_title": "lantro.com",
-        "discovered": "2025-05-31 18:33:56.438432",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman"
-    },
-    {
-        "post_title": "ASCOMA Cameroon",
-        "discovered": "2025-05-31 17:36:09.834445",
-        "description": "",
-        "link": "/companies/5809730023",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/ASCOMA Cameroon.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "radicon",
-        "discovered": "2025-05-31 17:36:08.396259",
-        "description": "The Radicon product range, not only consists of the traditional standard product offering of worm gears, geared motors, couplings and industrial reducers, but also includes custom engineered gearboxes with an output torque range over 50 milli            ...",
-        "link": "/site/view?uuid=35f3c41a-8f1b-320f-86a6-f3f284be3e0b",
-        "magnet": null,
-        "screen": "screenshots/qilin/radicon.png",
-        "group_name": "qilin"
     }
 ]
