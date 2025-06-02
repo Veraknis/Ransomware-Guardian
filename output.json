@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Wilkie Sanderson",
+        "discovered": "2025-06-02 03:33:05.009814",
+        "description": "On time. Every time.\n Customer enthusiasm is built on a foundation of integrity,...",
+        "link": "/leaks/682d5a7ee2d7f43c8fbb786f",
+        "magnet": null,
+        "screen": "screenshots/lynx/Wilkie Sanderson.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "valuestoreit",
+        "discovered": "2025-06-02 01:32:46.945152",
+        "description": "",
+        "link": "/blog/disclosures/683847d0ba68908013a95761",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/valuestoreit.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Universidad T\u00e9cnica del Norte Ecuador",
+        "discovered": "2025-06-02 01:32:46.016269",
+        "description": "",
+        "link": "/blog/disclosures/683848d0ba68908013a960ad",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Universidad T\u00e9cnica del Norte Ecuador.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "DSI Tech",
         "discovered": "2025-06-01 19:42:42.172111",
         "description": "DSI Tech (founded in 1991) is a certified minority-owned small business that has grown into a it value-add reseller and service provider of industry vendor products and solutions. DSI Tech corporate office is located in 44670 Cape Ct Ste 100, Ashburn, Virginia, 20147, United States and has 223 employees. The total amount of data leakage is 399.10 GB",
@@ -43,50 +70,5 @@
         "magnet": null,
         "screen": "screenshots/medusa/Town of North Providence Rhode Island corporate office.png",
         "group_name": "medusa"
-    },
-    {
-        "post_title": "Dcsdev.org",
-        "discovered": "2025-06-01 07:32:06.568609",
-        "description": "For The Leadership Of Data-Core Systems Inc In 2016 Data-Core Systems Inc. founded Data-Core The Automation Company, with a focus",
-        "link": "http://flock4cvoeqm4c62gyohvmncx6ck2e7ugvyqgyxqtrumklhd5ptwzpqd.onion/?p=443",
-        "magnet": null,
-        "screen": "screenshots/fsociety/Dcsdevorg.png",
-        "group_name": "fsociety"
-    },
-    {
-        "post_title": "daycohost.com",
-        "discovered": "2025-06-01 02:30:55.399974",
-        "description": "",
-        "link": "/posts/683b971dc4bd670d16342937/683b971dc4bd670d16342937/",
-        "magnet": null,
-        "screen": "screenshots/j group/daycohostcom.png",
-        "group_name": "j group"
-    },
-    {
-        "post_title": "nokotapackers.com",
-        "discovered": "2025-06-01 02:30:54.500625",
-        "description": "",
-        "link": "/posts/683b8a14c4bd670d16342772/683b8a14c4bd670d16342772/",
-        "magnet": null,
-        "screen": "screenshots/j group/nokotapackerscom.png",
-        "group_name": "j group"
-    },
-    {
-        "post_title": "immobilia.hu",
-        "discovered": "2025-06-01 02:30:53.532319",
-        "description": "",
-        "link": "/posts/683b8afec4bd670d163427cb/683b8afec4bd670d163427cb/",
-        "magnet": null,
-        "screen": "screenshots/j group/immobiliahu.png",
-        "group_name": "j group"
-    },
-    {
-        "post_title": "universityacademy.org",
-        "discovered": "2025-05-31 22:34:44.638471",
-        "description": "",
-        "link": "#universityacademy",
-        "magnet": null,
-        "screen": "screenshots/safepay/universityacademyorg.png",
-        "group_name": "safepay"
     }
 ]
