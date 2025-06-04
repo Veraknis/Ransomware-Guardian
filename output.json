@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "Kettering Health",
+        "discovered": "2025-06-04 15:31:11.174033",
+        "description": "https://www.ketteringhealth.org\n\t\t\t\t\t\t\t\t\tKettering Health - is an organization headquartered in Kettering, Ohio, that operates hospitals, freestanding acute care facilities, clinics, and Kettering College. Kettering Health serves residents of Greater Dayton and surrounding communities. It includes nine hospitals, 12 freestanding acute care facilities, 188 clinics, more than 1,900 physicians, and more than 14,000 employees.",
+        "link": "http://jqtid6srueyxf6vwllcjdqip34usp2pulacs32wdo3moayl7r7mexjid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Kettering Health.png",
+        "group_name": "interlock"
+    },
+    {
+        "post_title": "university of chile",
+        "discovered": "2025-06-04 14:34:54.723826",
+        "description": "Universidad de Chile, located in Santiago, is the oldest and the most prestigiou...",
+        "link": "/leaks/6839b62ae2d7f43c8f590791",
+        "magnet": null,
+        "screen": "screenshots/lynx/university of chile.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "cemeteries.local",
+        "discovered": "2025-06-04 14:34:53.084270",
+        "description": "",
+        "link": "/blog/disclosures/6839c3abba68908013ba2bd3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cemeterieslocal.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Funktel GmbH",
+        "discovered": "2025-06-04 13:32:18.718852",
+        "description": "",
+        "link": "/blog/disclosures/684026b4ba68908013fc3d04",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Funktel GmbH.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "bridgestoneshepparton.com.au",
+        "discovered": "2025-06-04 12:32:12.690832",
+        "description": "Solar City Tyre Service Visitors: 150 ",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "el dorado"
+    },
+    {
         "post_title": "Jordan Kuwait Bank - Full leak published",
         "discovered": "2025-06-04 04:31:58.386251",
         "description": "",
@@ -88,77 +133,5 @@
         "magnet": null,
         "screen": "screenshots/lynx/yahtec.png",
         "group_name": "lynx"
-    },
-    {
-        "post_title": "VANTAGE",
-        "discovered": "2025-06-03 16:32:28.910438",
-        "description": "By allowing over 2TB of sensitive data \u2014 primarily client information \u2014 to be exfiltrated, the company has demonstrated a blatant disregard for the privacy and trust of its customers.\nThey now have exactly 150 hours to make contact. If t            ...",
-        "link": "/site/view?uuid=62922b41-fba2-3c59-8c09-99d2657f642d",
-        "magnet": null,
-        "screen": "screenshots/qilin/VANTAGE.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "basakkent",
-        "discovered": "2025-06-03 16:32:28.019838",
-        "description": "Ba\u015fakkent Law and Mediation Office is a distinguished legal practice offering a comprehensive range of services in both law and alternative dispute resolution. We are honored to serve a diverse clientele, including embassies, international c            ...",
-        "link": "/site/view?uuid=4b810c5d-fa8e-39fb-a1b0-8172956bb4b1",
-        "magnet": null,
-        "screen": "screenshots/qilin/basakkent.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "sky",
-        "discovered": "2025-06-03 16:32:27.057659",
-        "description": "Established in 1987, Sky-mac is specialised in Air-Conditioning and Mechanical Ventilation (ACMV), HVAC system, related services, which encompasses the designing, installation, service, maintenance and repair of ACMV systems.\n\nSky-mac has o            ...",
-        "link": "/site/view?uuid=4a08f285-8f75-35f5-a6c3-979a14e7d441",
-        "magnet": null,
-        "screen": "screenshots/qilin/sky.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Sandhills Medical Foundation",
-        "discovered": "2025-06-03 14:34:18.620832",
-        "description": "",
-        "link": "/blog/disclosures/6839cdd6ba68908013baabaf",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Sandhills Medical Foundation.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "navesinkrehab.com",
-        "discovered": "2025-06-03 13:31:11.872000",
-        "description": "Navesink Rehab Visitors: 6 ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "el dorado"
-    },
-    {
-        "post_title": "solarcity.org",
-        "discovered": "2025-06-03 13:31:11.014167",
-        "description": "Solar City Visitors: 6 ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "el dorado"
-    },
-    {
-        "post_title": "www.lumenation.net",
-        "discovered": "2025-06-03 13:31:10.072306",
-        "description": "Lumenation Visitors: 2 Release DATAafter 6days23h 35m 21s Solar City Visitors: 6 Release DATAafter 6days23h 5m 42s Navesink Rehab Visitors: 6 Release DATAafter 6days23h 2m 4s Riverdell Construction Visitors: 94 Release DATAafter 6days5h 56m 44s MCM Construction Visitors: 824 Neurosurgeons Visitors: 2345 Quick Frames USA Visitors: 721 Release DATAafter 1day12h 55m 51s Lac La Biche Transport Visitors: 1371 Reliance Heating Visitors: 1512 TOHO CO., LTD. Visitors: 7298 Rees NDT Inspection Services Visitors: 35699 EVAS Group Visitors: 839637 Akantha Visitors: 1107913 HIDROCARBUROS ARGENTINOS S.A. Visitors: 1345154 Inventory Management\nand Counting Solutions Visitors: 525232 D&G Enviro-Group Visitors: 308296 Relate Infotech Visitors: 32339 Acumen Group Visitors: 157277 Light Speed Design Visitors: 378644 Kandelaar Electrotechniek Visitors: 1167581 First Baptist Church Visitors: 699068 Midland Turbo Visitors: 1102899 LA LUCKY Brand Visitors: 180086 Tiendas Carrion & Fernandez Visitors: 1428385 Bells Tax Service Visitors: 714487 PC AfterHours Visitors: 450128 Nations Homes\nCommercial & Residential Construction\nSouth Carolina, United States Visitors: 1321955 The PHOENIX Visitors: 953278 The Municipal Administration\nof Barranquitas and its\nDepartment of Finance Visitors: 763427 Keizer's Collision CSN & Automotive Visitors: 770614 Compra LTD Aruba Visitors: 718379 Business Systems House FZ-LLC Visitors: 1897204 GC Custom Metal Fabricationsoon Visitors: 140347 Data Campos Sistemas Visitors: 51509 Cucina Tagliani Visitors: 707327 Mullen Wylie, LLC Visitors: 1537695 Patrick Sanders and Company, P.C. Visitors: 46470 Pensacola Visitors: 2476066 A-1 Mobile Lock & Key Visitors: 73333 Adams Homes Visitors: 731471 ANKERSKA PLOVIDBA d.d. Visitors: 556390 New River Electrical Corporation Visitors: 1336215 Panzer Solutions LLC Business Services Visitors: 830930 avioesforza.it Visitors: 28630 CelPlan Technologies, Inc. Visitors: 125638 Alliance Industries, LLC. Visitors: 491918 A & L Auto Recyclers Visitors: 224380 BUROTEC S.A. Visitors: 43704 Kennedy Funding Visitors: 694072 Gough Construction Visitors: 8090 HTE Technologies Visitors: 718255 LINDOSTAR Visitors: 8942 Premier Packaging Visitors: 31510 TBM Consulting Group, Inc. Visitors: 449409 UCC Retrievals, Inc. Visitors: 198193 K-State College of Veterinary Medicine Visitors: 27275 ATD-American Visitors: 802695 Fleet Equipment Center, Inc. Visitors: 13941 ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "el dorado"
-    },
-    {
-        "post_title": "Semple, Marchal & Cooper, LLP",
-        "discovered": "2025-06-03 10:31:39.032024",
-        "description": "https://semplecpa.com\n\t\t\t\t\t\t\t\t\tSemple, Marchal & Cooper, LLP is a leading regional Certified Public Accounting firm based in the Southwest, offering a range of professional services including accounting, auditing, tax planning, compliance, and management consulting. The firm is dedicated to serving various sectors such as technology, healthcare, retail, and non-profits, emphasizing innovation and personalized solutions for each client.",
-        "link": "http://6mwjyc64rnkht3qc4bv7svpufmbvm3k73vekxgdlsbqzx5toueq3ndyd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Semple, Marchal & Cooper, LLP.png",
-        "group_name": "interlock"
     }
 ]
