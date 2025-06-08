@@ -313,32 +313,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman"
-    },
-    {
-        "post_title": "Ticketmaster",
-        "discovered": "2025-06-07 00:31:53.298184",
-        "description": "",
-        "link": "/ticketmaster/",
-        "magnet": null,
-        "screen": "screenshots/arkana security/Ticketmaster.png",
-        "group_name": "arkana security"
-    },
-    {
-        "post_title": "rinaldi.com.br",
-        "discovered": "2025-06-06 23:31:49.730360",
-        "description": "Data of 1,000 registered distributors and sellers \u2013 employee and customer information \u2013 admin login passwords \u2013 email addresses, phone numbers, full names \u2013 and more...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous"
-    },
-    {
-        "post_title": "In'Tech Industries",
-        "discovered": "2025-06-06 23:31:07.994960",
-        "description": "https://www.intech-ind.com\n\t\t\t\t\t\t\t\t\tInTech Industries, Inc. specializes in full-service manufacturing, offering services such as 3D printing, design, tooling, injection molding, and precision CNC machining. They serve a wide range of industries, including life sciences, medical devices, dental, and personal safety. Their clients include businesses in a variety of sectors, such as pharmaceuticals, home care devices, and the optical industry.",
-        "link": "http://gd2cx4zvobqui6ssbbroferiv6oxlqyyy447aqpp2socxvvdu5rooyid.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/In'Tech Industries.png",
-        "group_name": "interlock"
     }
 ]
