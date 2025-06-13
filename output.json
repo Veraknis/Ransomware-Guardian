@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Central Point School District 6",
+        "discovered": "2025-06-13 20:22:07.210671",
+        "description": "https://www.district6.org\n\t\t\t\t\t\t\t\t\tCentral Point School District 6 is a school district in Oregon that operates schools in the communities of Central Point, Gold Hill, and Sams Valley. There are 11 schools and 4,861 students in Central Point School District 6. Central Point School District 6 spends $11,800 per student each year. Its annual revenue is $66,555,000.",
+        "link": "http://vdo2l4ujgxfcucbhnzdd4745sbbd2vnnkj4csyf5blds2qomguubx5yd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Central Point School District 6.png",
+        "group_name": "interlock"
+    },
+    {
         "post_title": "faycom",
         "discovered": "2025-06-13 15:22:57.507286",
         "description": "Faycom specializes in providing replacement parts and accessories for various types of vehicles, including trucks, vans, and agricultural machinery. Their extensive product range includes special lighting, safety components, and equipment for            ...",
@@ -70,50 +79,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "datacarry"
-    },
-    {
-        "post_title": "frazierbowles.com",
-        "discovered": "2025-06-12 20:22:28.921610",
-        "description": "Frazier Bowles is a full-service law firm specializing in Real Estate, Business ...",
-        "link": "/leaks/684af100e2d7f43c8fb1a0c9",
-        "magnet": null,
-        "screen": "screenshots/lynx/frazierbowlescom.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "Biogest",
-        "discovered": "2025-06-12 20:22:27.908730",
-        "description": "Biogest offers its PowerRing technology to customers in the Greek market. The Po...",
-        "link": "/leaks/683d9f89e2d7f43c8f6a427d",
-        "magnet": null,
-        "screen": "screenshots/lynx/Biogest.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "Frazier & Bowles",
-        "discovered": "2025-06-12 18:30:28.459769",
-        "description": "Frazier Bowles is a full-service law firm specializing in Real Estate, Business ...",
-        "link": "/leaks/684af100e2d7f43c8fb1a0c9",
-        "magnet": null,
-        "screen": "screenshots/lynx/Frazier & Bowles.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "550madison.com",
-        "discovered": "2025-06-12 17:22:35.957853",
-        "description": "All data of this company will be available for download on 23.06.2025. 550 Madison is an architectural landmark in New York City, a building managed by The Olayan Group(https://olayan.com/)\nAnticipated clients include companies seeking a pre            ...",
-        "link": "/site/view?uuid=d100ed0c-798b-3774-9843-3a0c0082d2f4",
-        "magnet": null,
-        "screen": "screenshots/qilin/550madisoncom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "talismancivil.com",
-        "discovered": "2025-06-12 17:22:35.046092",
-        "description": "All data of this company will be available for download on 23.06.2025.Talisman Civil Consultants is a full-service design and surveying firm,based in Salt Lake City, specializing in civil engineering, land surveying and innovative design solu            ...",
-        "link": "/site/view?uuid=e5b243ef-6eca-3750-a3c8-7b4d1bf30b2b",
-        "magnet": null,
-        "screen": "screenshots/qilin/talismancivilcom.png",
-        "group_name": "qilin"
     }
 ]
