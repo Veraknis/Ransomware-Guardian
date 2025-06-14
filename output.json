@@ -1,11 +1,74 @@
 [
     {
+        "post_title": "Sweeney",
+        "discovered": "2025-06-14 20:30:44.854450",
+        "description": "Sweeney is an always open and transparent residential design-build remodeling firm that caters to homeowner professionals in Dane County, specifically Madison, Stoughton, Fitchburg, Maple Bluff, McFarland, Middleton, Monona, Oregon, Shorewood Hills, Sun Prairie, Verona, and Waunakee.We are going to upload about 200(!)GB of corporate data. Just a few financial files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Dyrham Park",
+        "discovered": "2025-06-14 20:30:43.983843",
+        "description": "Dyrham Park Country Club is a private members golf and country club in Barnet.We are going to upload about 38GB of corporate data. Lots of documents with client (and family members) personal information (DOB,Emails address, address, phone, driver license), financial data,contracts and agreements, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Patron Insurance Services",
+        "discovered": "2025-06-14 20:30:43.092440",
+        "description": "Patron Insurance Services has been serving its clients\u2019 needs throughout the Metropolitan Washington D.C. area including Maryland,Virginia, and Washington D.C. since 1984.We are going to upload about 7 GB of corporate data. Lots of documents with client personal information (DOB, Emails address, address, phones, driver licenses), detailed financial data, contractsand agreements, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Professional TestingCorporation (PTC)",
+        "discovered": "2025-06-14 20:30:41.613155",
+        "description": "Professional Testing Corporation (PTC) is an established global leader in testing and assessment services.We are going to upload about 5 GB of corporate data. Employee personal documents, medical records, confidentiality agreements, contracts, client information, detailed financial data, project data.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "codesco.com",
+        "discovered": "2025-06-14 19:31:42.412631",
+        "description": "",
+        "link": "#codesco",
+        "magnet": null,
+        "screen": "screenshots/safepay/codescocom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "packagesteel.com",
+        "discovered": "2025-06-14 19:31:41.487580",
+        "description": "",
+        "link": "#packagesteel",
+        "magnet": null,
+        "screen": "screenshots/safepay/packagesteelcom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "099 ISP Hacked",
+        "discovered": "2025-06-14 18:30:13.252024",
+        "description": "Israel 099 ISP Hacked 099 Primo Telecomunications LTD Now, the Handala Hack has successfully infiltrated the internal infrastructure of 099 ISP , a central node in the digital grid. Over 150,000 public warning emails have been dispatched via their official mail servers! We could have severed access. We could have blacked the screens and silenced\u2026",
+        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=332",
+        "magnet": null,
+        "screen": "screenshots/handala/099 ISP Hacked.png",
+        "group_name": "handala"
+    },
+    {
         "post_title": "hohmannoilandplumbing.com",
         "discovered": "2025-06-14 16:22:39.070225",
         "description": "",
         "link": "#hohmannoilandplumbing",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/safepay/hohmannoilandplumbingcom.png",
         "group_name": "safepay"
     },
     {
@@ -50,7 +113,7 @@
         "description": "",
         "link": "#liberty",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/safepay/liberty-townshipcom.png",
         "group_name": "safepay"
     },
     {
@@ -95,7 +158,7 @@
         "description": "",
         "link": "#realschule",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/safepay/realschule-karlstadtorg.png",
         "group_name": "safepay"
     },
     {
@@ -160,14 +223,5 @@
         "magnet": null,
         "screen": "screenshots/killsec3/StudentKare\u00a0studentkarecom.png",
         "group_name": "killsec3"
-    },
-    {
-        "post_title": "Central Point School District 6",
-        "discovered": "2025-06-13 20:22:07.210671",
-        "description": "https://www.district6.org\n\t\t\t\t\t\t\t\t\tCentral Point School District 6 is a school district in Oregon that operates schools in the communities of Central Point, Gold Hill, and Sams Valley. There are 11 schools and 4,861 students in Central Point School District 6. Central Point School District 6 spends $11,800 per student each year. Its annual revenue is $66,555,000.",
-        "link": "http://vdo2l4ujgxfcucbhnzdd4745sbbd2vnnkj4csyf5blds2qomguubx5yd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Central Point School District 6.png",
-        "group_name": "interlock"
     }
 ]
