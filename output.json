@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "SecurU",
+        "discovered": "2025-06-15 09:29:38.972119",
+        "description": "Site: securu.com\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Business Service\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma"
+    },
+    {
+        "post_title": "bulentklise.com.tr",
+        "discovered": "2025-06-15 01:32:25.312343",
+        "description": "Customer names, identification numbers, production orders, client records, delivery tracking data, customer information, logos, and more",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous"
+    },
+    {
+        "post_title": "Brett-Robinson",
+        "discovered": "2025-06-15 00:23:26.619102",
+        "description": "",
+        "link": "/companies/4824802907",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Brett-Robinson.png",
+        "group_name": "worldleaks"
+    },
+    {
+        "post_title": "Project Partners",
+        "discovered": "2025-06-14 21:22:46.123575",
+        "description": "",
+        "link": "topic.php?id=W39ibVaPKRNjsl",
+        "magnet": null,
+        "screen": "screenshots/play/Project Partners.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "S&H Express",
+        "discovered": "2025-06-14 21:22:45.260048",
+        "description": "",
+        "link": "topic.php?id=eeVTVG42G5YAQj",
+        "magnet": null,
+        "screen": "screenshots/play/S&H Express.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "Rollex",
+        "discovered": "2025-06-14 21:22:44.399128",
+        "description": "",
+        "link": "topic.php?id=WQL91ej9qNN77n",
+        "magnet": null,
+        "screen": "screenshots/play/Rollex.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "NPD Products",
+        "discovered": "2025-06-14 21:22:43.469300",
+        "description": "",
+        "link": "topic.php?id=U9ghMirSoOQPf",
+        "magnet": null,
+        "screen": "screenshots/play/NPD Products.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "Sacred Heart School",
+        "discovered": "2025-06-14 21:22:32.461801",
+        "description": "https://www.shscullman.com\n\t\t\t\t\t\t\t\t\tSacred Heart School this is a catholic school with about 25 employees. Sacred Heart School fosters the religious, academic and social developmen. In school, serving students of all faiths within a Christian atmosphere and school fosters the continuous growth of the faculty, the parents and the students.",
+        "link": "http://5hiynrduugrjbzxluostnxmitaer62obvfyrfxnqkdeog2ejpxhzuqid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Sacred Heart School.png",
+        "group_name": "interlock"
+    },
+    {
         "post_title": "Sweeney",
         "discovered": "2025-06-14 20:30:44.854450",
         "description": "Sweeney is an always open and transparent residential design-build remodeling firm that caters to homeowner professionals in Dane County, specifically Madison, Stoughton, Fitchburg, Maple Bluff, McFarland, Middleton, Monona, Oregon, Shorewood Hills, Sun Prairie, Verona, and Waunakee.We are going to upload about 200(!)GB of corporate data. Just a few financial files.",
@@ -178,50 +250,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "imn crew"
-    },
-    {
-        "post_title": "Y.G. New Idan Hacked",
-        "discovered": "2025-06-14 08:22:56.112333",
-        "description": "Y.G. New Idan Ltd, the secret arm of Israel\u2019s Ministry of War, has been compromised This is the entity that designs and builds your military bases and now, everything you\u2019ve hidden is ours. 339 gigabytes of classified data are in our possession, and they will be leaked soon, for everyone to see. What you thought\u2026",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=328",
-        "magnet": null,
-        "screen": "screenshots/handala/YG New Idan Hacked.png",
-        "group_name": "handala"
-    },
-    {
-        "post_title": "Israel\u2019s fuel supply system Hacked",
-        "discovered": "2025-06-14 07:31:12.087045",
-        "description": "Delkol and Delek have been compromised Your fuel systems are exposed. and so are your secrets. Over 2 terabytes of classified data are no longer in your hands. Your fuel stations are vulnerable. If you\u2019re smart, you\u2019ll act now. Fuel up immediately , before you\u2019re left with nothing but empty roads and silent jets. Time\u2026",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=320",
-        "magnet": null,
-        "screen": "screenshots/handala/Israel\u2019s fuel supply system Hacked.png",
-        "group_name": "handala"
-    },
-    {
-        "post_title": "Aerodreams Hacked",
-        "discovered": "2025-06-14 07:31:11.128253",
-        "description": "Aerodreams has been compromised They used to fly for the Air Force , now they hide behind Aerodreams. A silent front for sensitive drone programs, elite pilot training, and covert logistics. What they thought was untouchable\u2026 has already been breached. 400 gigabytes of internal data are in our hands , and soon, in everyone else\u2019s.\u2026",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=324",
-        "magnet": null,
-        "screen": "screenshots/handala/Aerodreams Hacked.png",
-        "group_name": "handala"
-    },
-    {
-        "post_title": "NewGen\u00a0nglogisticsllc.com",
-        "discovered": "2025-06-14 03:24:01.061584",
-        "description": "nglogisticsllc.com",
-        "link": "?pid=im5brMZjZZDC9ESRDqm5MO96",
-        "magnet": null,
-        "screen": "screenshots/killsec3/NewGen\u00a0nglogisticsllccom.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "StudentKare\u00a0studentkare.com",
-        "discovered": "2025-06-14 03:24:00.158676",
-        "description": "studentkare.com",
-        "link": "?pid=AwuQDU1W0mh1j2cv7UC4TQ5y",
-        "magnet": null,
-        "screen": "screenshots/killsec3/StudentKare\u00a0studentkarecom.png",
-        "group_name": "killsec3"
     }
 ]
