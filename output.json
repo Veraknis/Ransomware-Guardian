@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Jasper Products",
+        "discovered": "2025-06-16 20:21:05.239930",
+        "description": "",
+        "link": "topic.php?id=08lX5JW0TJCkQ6",
+        "magnet": null,
+        "screen": "screenshots/play/Jasper Products.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "NF Stroth & Associates",
+        "discovered": "2025-06-16 20:21:03.883052",
+        "description": "",
+        "link": "topic.php?id=Bc4z6Eq1trLlcx",
+        "magnet": null,
+        "screen": "screenshots/play/NF Stroth & Associates.png",
+        "group_name": "play"
+    },
+    {
         "post_title": "Agaris",
         "discovered": "2025-06-16 16:21:21.926214",
         "description": "",
@@ -70,32 +88,5 @@
         "magnet": null,
         "screen": "screenshots/worldleaks/Freedman HealthCare.png",
         "group_name": "worldleaks"
-    },
-    {
-        "post_title": "spg.net",
-        "discovered": "2025-06-15 19:22:27.555147",
-        "description": "The full leak will be published soon, unless a company representative contacts us via the channels provided. SPG Construction LLC specializes in heavy industrial construction and process systems for capital-intensive projects across the Unite            ...",
-        "link": "/site/view?uuid=855d2dfb-0fcc-3858-a775-265fc4061839",
-        "magnet": null,
-        "screen": "screenshots/qilin/spgnet.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "moserengineering.com",
-        "discovered": "2025-06-15 19:22:26.586996",
-        "description": "The full leak will be published soon, unless a company representative contacts us via the channels provided. Moser Engineering manufactures and sells High Performance Rear-ends, drive-line components, brakes and suspension parts to the afterm            ...",
-        "link": "/site/view?uuid=f3f38dfb-60c0-3325-8fc1-8787d8682fac",
-        "magnet": null,
-        "screen": "screenshots/qilin/moserengineeringcom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Israel\u2019s fuel supply system Data",
-        "discovered": "2025-06-15 18:22:04.401245",
-        "description": "Delkol and Delek have been compromised Your fuel systems are exposed. and so are your secrets. Over 2 terabytes of classified data are no longer in your hands. Your fuel stations are vulnerable. If you\u2019re smart, you\u2019ll act now. Fuel up immediately , before you\u2019re left with nothing but empty roads and silent jets. Time\u2026",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=336",
-        "magnet": null,
-        "screen": "screenshots/handala/Israel\u2019s fuel supply system Data.png",
-        "group_name": "handala"
     }
 ]
