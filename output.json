@@ -1,5 +1,59 @@
 [
     {
+        "post_title": "Comelesa",
+        "discovered": "2025-06-20 03:33:46.401925",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire"
+    },
+    {
+        "post_title": "SUSTA-STAMPI",
+        "discovered": "2025-06-19 23:23:11.052260",
+        "description": "Susta Srl is a dynamic company operating in the manufacturing sector, headquartered in Castellalto, Abruzzo, Italy. The company employs between 20 and 49 people and generates annual revenues in the range of \u20ac5 to \u20ac10 million.\n\nThanks to            ...",
+        "link": "/site/view?uuid=c498fed7-eead-3f1e-b747-c5d2f4f0de68",
+        "magnet": null,
+        "screen": "screenshots/qilin/SUSTA-STAMPI.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "januschke.at",
+        "discovered": "2025-06-19 23:23:10.133756",
+        "description": "Our mission is to provide the fastest, most effective, and secure solution to your issue. We operate at the highest professional level, supported by modern infrastructure and a comprehensive, client-focused approach. Your interests are our to            ...",
+        "link": "/site/view?uuid=1fa43a74-5b6e-3d4b-be9b-fde57b05beca",
+        "magnet": null,
+        "screen": "screenshots/qilin/januschkeat.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "taoscounty.org",
+        "discovered": "2025-06-19 22:24:50.290730",
+        "description": "Taos County",
+        "link": "/detail?code=taoscounty-org-usa-1-94tb",
+        "magnet": null,
+        "screen": "screenshots/kairos/taoscountyorg.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "Vacation Myrtle Beach",
+        "discovered": "2025-06-19 21:23:21.093063",
+        "description": "",
+        "link": "topic.php?id=Nr6fD4Vvfh0U",
+        "magnet": null,
+        "screen": "screenshots/play/Vacation Myrtle Beach.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "Place Homes",
+        "discovered": "2025-06-19 21:23:20.106606",
+        "description": "",
+        "link": "topic.php?id=zBPjwnIpoPSAzR",
+        "magnet": null,
+        "screen": "screenshots/play/Place Homes.png",
+        "group_name": "play"
+    },
+    {
         "post_title": "siamgas and petrochemicals public company ltd",
         "discovered": "2025-06-19 18:22:52.122991",
         "description": "Siamgas and Petrochemicals Public Company Limited, together with its subsidiarie...",
@@ -97,122 +151,5 @@
         "magnet": null,
         "screen": "screenshots/medusa/Sun Direct.png",
         "group_name": "medusa"
-    },
-    {
-        "post_title": "RADIX",
-        "discovered": "2025-06-19 07:32:52.077068",
-        "description": "Site: radix.ch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Non-profit, private-law foundation\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Switzerland",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "sarcoma"
-    },
-    {
-        "post_title": "THAIRUNG GROUP",
-        "discovered": "2025-06-18 22:23:46.871446",
-        "description": "Thairung Group is a leading group of companies in the automobile business.",
-        "link": "articles/THAIRUNG_GROUP.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/THAIRUNG GROUP.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "GB Group",
-        "discovered": "2025-06-18 22:23:46.036393",
-        "description": "GBGroup is in the process of developing innovative solutions for their clients.",
-        "link": "articles/GB_Group.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/GB Group.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "nipro.com",
-        "discovered": "2025-06-18 22:23:40.263868",
-        "description": "All data of this company will be available for download on 01.07.2025.Nipro Medical Corporation, headquartered in Bridgewater, is a subsidiary of Nipro Corporation, headquartered in Osaka, Japan. Founded in 1954, our parent company has over 2            ...",
-        "link": "/site/view?uuid=50efc66e-3f04-35c7-83d6-98a8a0d9f126",
-        "magnet": null,
-        "screen": "screenshots/qilin/niprocom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "gmaxequine.com",
-        "discovered": "2025-06-18 22:23:39.391141",
-        "description": "All data of this company will be available for download on 29.06.2025.Gmax Technology develops products and services that will maximize your horse's performance and well-being. Accurate measurement of factors such as heart rate, intermediate             ...",
-        "link": "/site/view?uuid=4f940bb2-4ae9-3f8d-9c57-ab91fa70f15e",
-        "magnet": null,
-        "screen": "screenshots/qilin/gmaxequinecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "fiestafranchise.com",
-        "discovered": "2025-06-18 22:23:38.465017",
-        "description": "All data of this company will be available for download on 30.06.2025.Founded in 1999 and headquartered in Santa Ana, California, Fiesta Auto Insurance Centers operates as an insurance brokerage firm. The firm offers auto insurance and tax pr            ...",
-        "link": "/site/view?uuid=03b8834b-1c8f-3ee9-ba16-ebea28b56f4c",
-        "magnet": null,
-        "screen": "screenshots/qilin/fiestafranchisecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "realityfinance.com",
-        "discovered": "2025-06-18 21:23:58.915470",
-        "description": "All data of this company will be available for download on 27.06.2025.Reality Finance is an independent asset finance broker based in the UK with offices in Godalming, Surrey and Leeds. Established in 2000, our team of asset finance brokers h            ...",
-        "link": "/site/view?uuid=cfafaeba-4d5c-3320-8dc3-eb2c1f399bdb",
-        "magnet": null,
-        "screen": "screenshots/qilin/realityfinancecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "nardinifire.com",
-        "discovered": "2025-06-18 21:23:57.941793",
-        "description": "All data of this company will be available for download on 28.06.2025.Nardini Fire Equipment is a family owned and operated company based in Minnesota and North Dakota, specializing in complete fire protection solutions for businesses of all             ...",
-        "link": "/site/view?uuid=e41d400d-e0ae-3062-a25d-f51a2c71e2e7",
-        "magnet": null,
-        "screen": "screenshots/qilin/nardinifirecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "hparchitecture.com",
-        "discovered": "2025-06-18 21:23:57.017287",
-        "description": "All data of this company will be available for download on 30.06.2025.A Chicago-based architectural, planning and interior design firm that has been in business nationally since 1987.\n1.A memo from the architectural and development team sent            ...",
-        "link": "/site/view?uuid=034df112-b6ab-3ac1-97df-569f339a069b",
-        "magnet": null,
-        "screen": "screenshots/qilin/hparchitecturecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "kontek.com",
-        "discovered": "2025-06-18 21:23:56.147157",
-        "description": "All data of this company will be available for download on 29.06.2025.KONTEK Systems partners with customers to design, integrate and support audio-visual technology solutions.",
-        "link": "/site/view?uuid=97a9b10e-afb4-3ca8-bbef-02b9a6650f27",
-        "magnet": null,
-        "screen": "screenshots/qilin/kontekcom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "mileschristi.org",
-        "discovered": "2025-06-18 21:23:55.315539",
-        "description": "All data of this company will be available for download on 29.06.2025.Miles Christi (English Soldier of Christ, postnominal abbreviation MC) is a spiritual religious order in the Catholic Church based in the Archdiocese of La Plata, Argentina            ...",
-        "link": "/site/view?uuid=fda85ab0-a749-39f8-aafa-c4ed50846376",
-        "magnet": null,
-        "screen": "screenshots/qilin/mileschristiorg.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "accu-search.com",
-        "discovered": "2025-06-18 21:23:54.463143",
-        "description": "All data of this company will be available for download on 30.06.2025.Established in 1984, Accu-Search Inc.'s Edmonton and Calgary offices have grown to become the largest provider of NUANS\u00ae corporate name search and incorporation services i            ...",
-        "link": "/site/view?uuid=ace78f32-8bbb-322f-ab44-5d7218e4f7f4",
-        "magnet": null,
-        "screen": "screenshots/qilin/accu-searchcom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "spacebridge.com",
-        "discovered": "2025-06-18 21:23:53.552864",
-        "description": "All data of this company will be available for download on 01.07.2025.SpaceBridge specializes in innovative satellite solutions that span broadband, tactical defense, backhaul cellular and broadcasting. The company's products include various             ...",
-        "link": "/site/view?uuid=6a5dee93-98df-3c25-9761-6245eae055f2",
-        "magnet": null,
-        "screen": "screenshots/qilin/spacebridgecom.png",
-        "group_name": "qilin"
     }
 ]
