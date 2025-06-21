@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "ALFA Testing Equipment (Turkey)",
+        "discovered": "2025-06-21 03:34:22.088629",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire"
+    },
+    {
+        "post_title": "Levinzon CPA",
+        "discovered": "2025-06-21 02:26:42.865073",
+        "description": "Whether you're an employee relocating to the U.S, a domestic or foreign investor...",
+        "link": "/leaks/684a9ccfe2d7f43c8fafd99a",
+        "magnet": null,
+        "screen": "screenshots/lynx/Levinzon CPA.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "doradosoftware.com",
+        "discovered": "2025-06-21 00:26:53.132958",
+        "description": "",
+        "link": "/blog/disclosures/6855daacba68908013e5ef08",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/doradosoftwarecom.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "Disneyland Paris",
         "discovered": "2025-06-20 16:33:48.420246",
         "description": "Confidential Disneyland documents.",
@@ -61,59 +88,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Comelesa",
-        "discovered": "2025-06-20 03:33:46.401925",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire"
-    },
-    {
-        "post_title": "SUSTA-STAMPI",
-        "discovered": "2025-06-19 23:23:11.052260",
-        "description": "Susta Srl is a dynamic company operating in the manufacturing sector, headquartered in Castellalto, Abruzzo, Italy. The company employs between 20 and 49 people and generates annual revenues in the range of \u20ac5 to \u20ac10 million.\n\nThanks to            ...",
-        "link": "/site/view?uuid=c498fed7-eead-3f1e-b747-c5d2f4f0de68",
-        "magnet": null,
-        "screen": "screenshots/qilin/SUSTA-STAMPI.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "januschke.at",
-        "discovered": "2025-06-19 23:23:10.133756",
-        "description": "Our mission is to provide the fastest, most effective, and secure solution to your issue. We operate at the highest professional level, supported by modern infrastructure and a comprehensive, client-focused approach. Your interests are our to            ...",
-        "link": "/site/view?uuid=1fa43a74-5b6e-3d4b-be9b-fde57b05beca",
-        "magnet": null,
-        "screen": "screenshots/qilin/januschkeat.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "taoscounty.org",
-        "discovered": "2025-06-19 22:24:50.290730",
-        "description": "Taos County",
-        "link": "/detail?code=taoscounty-org-usa-1-94tb",
-        "magnet": null,
-        "screen": "screenshots/kairos/taoscountyorg.png",
-        "group_name": "kairos"
-    },
-    {
-        "post_title": "Vacation Myrtle Beach",
-        "discovered": "2025-06-19 21:23:21.093063",
-        "description": "",
-        "link": "topic.php?id=Nr6fD4Vvfh0U",
-        "magnet": null,
-        "screen": "screenshots/play/Vacation Myrtle Beach.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Place Homes",
-        "discovered": "2025-06-19 21:23:20.106606",
-        "description": "",
-        "link": "topic.php?id=zBPjwnIpoPSAzR",
-        "magnet": null,
-        "screen": "screenshots/play/Place Homes.png",
-        "group_name": "play"
     }
 ]
