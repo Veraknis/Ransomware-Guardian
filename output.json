@@ -1,5 +1,113 @@
 [
     {
+        "post_title": "Arlington Occupational Health and Wellness",
+        "discovered": "2025-06-24 03:34:09.552840",
+        "description": "",
+        "link": "/news/arlingtonohw/",
+        "magnet": null,
+        "screen": "screenshots/everest/Arlington Occupational Health and Wellness.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "PeopleCheck",
+        "discovered": "2025-06-24 03:34:08.493118",
+        "description": "",
+        "link": "/news/PeopleCheckcom/",
+        "magnet": null,
+        "screen": "screenshots/everest/PeopleCheck.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Katz & Doorakian Law Firm, P.L.",
+        "discovered": "2025-06-24 03:34:07.658519",
+        "description": "",
+        "link": "/news/katzlawpl/",
+        "magnet": null,
+        "screen": "screenshots/everest/Katz & Doorakian Law Firm, PL.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Avantic Medical Lab",
+        "discovered": "2025-06-24 03:34:06.817029",
+        "description": "",
+        "link": "/news/avanticmedicallab/",
+        "magnet": null,
+        "screen": "screenshots/everest/Avantic Medical Lab.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Fishman, Larsen & Callister",
+        "discovered": "2025-06-24 03:34:05.977963",
+        "description": "",
+        "link": "/news/flclaw/",
+        "magnet": null,
+        "screen": "screenshots/everest/Fishman, Larsen & Callister.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "gouverneur.com",
+        "discovered": "2025-06-24 03:34:00.312678",
+        "description": "Gouvernor Hotels \n Discover Quebec with Gouverneur Hotels! The H\u00f4tels Gouverneur...",
+        "link": "/leaks/684b79dee2d7f43c8fb4ffda",
+        "magnet": null,
+        "screen": "screenshots/lynx/gouverneurcom.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "hy-vee.com",
+        "discovered": "2025-06-24 01:32:28.978352",
+        "description": "Access to Hy-Vee\u2019s environment was obtained through compromised Atlassian accounts, including tools such as Confluence and Jira.\n                             Internal documents, infrastructure diagrams, employee data, training materials, and technical information related to several operational systems were extracted. These include:",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous"
+    },
+    {
+        "post_title": "caldine",
+        "discovered": "2025-06-23 23:32:37.862485",
+        "description": "Fratellanza Popolare Caldine is a company that operates in the Training industry. It employs 50to99 people and has 10Mto25M of revenue. The company is headquartered in Fiesole, Tuscany, Italy.",
+        "link": "/site/view?uuid=71d55d33-1bc4-340e-88d7-bd9dc0b90b9e",
+        "magnet": null,
+        "screen": "screenshots/qilin/caldine.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Lexington & Richland County School District Five",
+        "discovered": "2025-06-23 23:32:34.042481",
+        "description": "https://www.lexrich5.org\n\t\t\t\t\t\t\t\t\tSchool District Five of Lexington & Richland Counties, commonly referred to as District Five, was organized by action of the Lexington County Board of Education in 1951 and the Richland County Board of Education in 1952. The school district has three attendance areas: Chapin, Dutch Fork, and Irmo. District Five operates elementary schools, intermediate schools, middle schools, high schools, a Center for Advanced Technical Studies and an alternative school.",
+        "link": "http://rqkmahiz55v6bgogfgyni5h7v4sq3bgayycpa6u4c7if7kpvrylcrmad.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Lexington & Richland County School District Five.png",
+        "group_name": "interlock"
+    },
+    {
+        "post_title": "mccn.org",
+        "discovered": "2025-06-23 22:33:40.561607",
+        "description": "",
+        "link": "#mccn",
+        "magnet": null,
+        "screen": "screenshots/safepay/mccnorg.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "stopzbugs.com/USA/146GB",
+        "discovered": "2025-06-23 22:33:07.224431",
+        "description": "Scherzinger",
+        "link": "/detail?code=stopzbugs-com-usa-146gb",
+        "magnet": null,
+        "screen": "screenshots/kairos/stopzbugscomUSA146GB.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "mlderm.com",
+        "discovered": "2025-06-23 21:32:32.888934",
+        "description": "",
+        "link": "#mlderm",
+        "magnet": null,
+        "screen": "screenshots/safepay/mldermcom.png",
+        "group_name": "safepay"
+    },
+    {
         "post_title": "Estes Forwarding Worldwide",
         "discovered": "2025-06-23 19:32:45.300222",
         "description": "Estes Forwarding Worldwide (EFW) is a leading provider of high-touch, door-to-door logistics and freight forwarding solutions. Headquartered in Richmond, Virginia, and a subsidiary of Estes\u2014the largest privately held freight transportation             ...",
