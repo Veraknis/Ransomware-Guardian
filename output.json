@@ -1,65 +1,56 @@
 [
     {
-        "post_title": "Tech Mahindra",
-        "discovered": "2025-06-28 06:31:20.299724",
-        "description": "",
-        "link": "/companies/2150963645",
+        "post_title": "Welthungerhilfe",
+        "discovered": "2025-06-29 07:28:57.848067",
+        "description": "Welthungerhilfe\nWelthungerhilfe (WHH) is one of the largest private aid agencies in Germany; politically and religiously independent. \n\n\n\nMore",
+        "link": "archive.php?company=197",
         "magnet": null,
-        "screen": "screenshots/worldleaks/Tech Mahindra.png",
+        "screen": "screenshots/rhysida/Welthungerhilfe.png",
+        "group_name": "rhysida"
+    },
+    {
+        "post_title": "Tiscali SPA",
+        "discovered": "2025-06-28 22:32:19.373773",
+        "description": "",
+        "link": "/companies/0478583208",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Tiscali SPA.png",
         "group_name": "worldleaks"
     },
     {
-        "post_title": "wyomingcountyny.gov",
-        "discovered": "2025-06-28 05:45:19.078165",
+        "post_title": "ONGC Petro Additions Limited",
+        "discovered": "2025-06-28 22:32:18.517622",
         "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/3am/wyomingcountynygov.png",
-        "group_name": "3am"
+        "link": "/companies/6147038372",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/ONGC Petro Additions Limited.png",
+        "group_name": "worldleaks"
     },
     {
-        "post_title": "Carter Manufacturing",
-        "discovered": "2025-06-27 21:32:41.090415",
+        "post_title": "Four Quarters",
+        "discovered": "2025-06-28 22:32:17.646306",
         "description": "",
-        "link": "topic.php?id=LOGDjmJfBG2CyR",
+        "link": "/companies/4547071781",
         "magnet": null,
-        "screen": "screenshots/play/Carter Manufacturing.png",
-        "group_name": "play"
+        "screen": "screenshots/worldleaks/Four Quarters.png",
+        "group_name": "worldleaks"
     },
     {
-        "post_title": "Emtech Inc",
-        "discovered": "2025-06-27 21:32:40.222610",
+        "post_title": "Landscape Hawaii",
+        "discovered": "2025-06-28 22:32:16.806770",
         "description": "",
-        "link": "topic.php?id=V5Nvy4FGEDOvn0",
+        "link": "/companies/1829380564",
         "magnet": null,
-        "screen": "screenshots/play/Emtech Inc.png",
-        "group_name": "play"
+        "screen": "screenshots/worldleaks/Landscape Hawaii.png",
+        "group_name": "worldleaks"
     },
     {
-        "post_title": "View Zuellig Industrial",
-        "discovered": "2025-06-27 21:32:39.331337",
+        "post_title": "Dynamic Netsoft",
+        "discovered": "2025-06-28 22:32:15.901651",
         "description": "",
-        "link": "topic.php?id=pixmDSseNm5dx2",
+        "link": "/companies/9154968486",
         "magnet": null,
-        "screen": "screenshots/play/View Zuellig Industrial.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "elpasoglass.com",
-        "discovered": "2025-06-27 21:32:22.718516",
-        "description": "We are commited to being one of the best and highest quality commercial contract glazing firms in the rocky mountain region. While specializing in Curtainwall, Storefront and Commercial windows we understand how important scheduling and compl            ...",
-        "link": "/site/view?uuid=23f31887-16ff-305f-919a-18c38a3f3be6",
-        "magnet": null,
-        "screen": "screenshots/qilin/elpasoglasscom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "greatcdltraining.com",
-        "discovered": "2025-06-27 21:32:21.754297",
-        "description": "Over more than 30 years, Driver Solutions has specialized in providing affordable driver training and quality trucking job opportunities to new drivers.  We do this by offering a company-sponsored CDL training program that allows new drivers             ...",
-        "link": "/site/view?uuid=41005975-7373-333d-bc45-7a2c25708b6b",
-        "magnet": null,
-        "screen": "screenshots/qilin/greatcdltrainingcom.png",
-        "group_name": "qilin"
+        "screen": "screenshots/worldleaks/Dynamic Netsoft.png",
+        "group_name": "worldleaks"
     }
 ]
