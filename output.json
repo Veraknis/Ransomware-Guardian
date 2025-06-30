@@ -34,59 +34,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "el dorado"
-    },
-    {
-        "post_title": "Welthungerhilfe",
-        "discovered": "2025-06-29 07:28:57.848067",
-        "description": "Welthungerhilfe\nWelthungerhilfe (WHH) is one of the largest private aid agencies in Germany; politically and religiously independent. \n\n\n\nMore",
-        "link": "archive.php?company=197",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Welthungerhilfe.png",
-        "group_name": "rhysida"
-    },
-    {
-        "post_title": "Tiscali SPA",
-        "discovered": "2025-06-28 22:32:19.373773",
-        "description": "",
-        "link": "/companies/0478583208",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Tiscali SPA.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "ONGC Petro Additions Limited",
-        "discovered": "2025-06-28 22:32:18.517622",
-        "description": "",
-        "link": "/companies/6147038372",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/ONGC Petro Additions Limited.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Four Quarters",
-        "discovered": "2025-06-28 22:32:17.646306",
-        "description": "",
-        "link": "/companies/4547071781",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Four Quarters.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Landscape Hawaii",
-        "discovered": "2025-06-28 22:32:16.806770",
-        "description": "",
-        "link": "/companies/1829380564",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Landscape Hawaii.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Dynamic Netsoft",
-        "discovered": "2025-06-28 22:32:15.901651",
-        "description": "",
-        "link": "/companies/9154968486",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Dynamic Netsoft.png",
-        "group_name": "worldleaks"
     }
 ]
