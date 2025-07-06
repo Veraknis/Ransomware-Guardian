@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Eurofins",
+        "discovered": "2025-07-06 04:51:08.910421",
+        "description": "Eurofins Scientific is a global network of life sciences companies that offers a comprehensive range of analytical testing services to clients across various industries. The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic product testing...",
+        "link": "eurofins",
+        "magnet": null,
+        "screen": "screenshots/nova/Eurofins.png",
+        "group_name": "nova"
+    },
+    {
         "post_title": "Assetlabs",
         "discovered": "2025-07-05 17:34:31.038062",
         "description": "Days00006666Hours22223333Minutes33333333Seconds00003333\n\n\nassetlabs.com\nStreamline365 provides a data intelligence platform designed to transform inv\u2026",
@@ -52,32 +61,5 @@
         "magnet": null,
         "screen": "screenshots/fsociety/S******hcom.png",
         "group_name": "fsociety"
-    },
-    {
-        "post_title": "Kentfield Hospital",
-        "discovered": "2025-07-04 23:54:33.660789",
-        "description": "",
-        "link": "/companies/8439943131",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Kentfield Hospital.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Integrated Silicon Solution Inc.",
-        "discovered": "2025-07-04 23:54:32.722253",
-        "description": "",
-        "link": "/companies/6928687881",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Integrated Silicon Solution Inc.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "cityofgardendale.com",
-        "discovered": "2025-07-04 21:50:27.298696",
-        "description": "",
-        "link": "/blog/disclosures/68653213ba689080139d80d9",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cityofgardendalecom.png",
-        "group_name": "inc ransom"
     }
 ]
