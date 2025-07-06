@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "www.selt-sistemi.com",
+        "discovered": "2025-07-06 17:33:23.305803",
+        "description": "The first part of leak\n\nhttp://t3uouzfvsaqurb2rzoe2mkpetp54d7lgtl45ply34v5lugsnzysmkhid.onion/...",
+        "link": "/news/4e5b7fed7acc410f70673f68004518ba",
+        "magnet": null,
+        "screen": "screenshots/kraken/wwwselt-sistemicom.png",
+        "group_name": "kraken"
+    },
+    {
+        "post_title": "www.ctntelco.com",
+        "discovered": "2025-07-06 17:33:22.482808",
+        "description": "Cyber security, cloud services?\n\nHah... ok\n\nPwned\n\nhttp://zq3k4odlfpbzc5y4sxqgolivelxepceaakru3xqo4ll2czmvvtek2ryd.onion/...",
+        "link": "/news/25eb189364eef213dd0ae4582c45eb51",
+        "magnet": null,
+        "screen": "screenshots/kraken/wwwctntelcocom.png",
+        "group_name": "kraken"
+    },
+    {
+        "post_title": "www.sanmarti.es",
+        "discovered": "2025-07-06 17:33:21.643056",
+        "description": "Transportes Sanmarti SA\n\nhttp://3cxvgnwvbzzfm2abzxidi76uib53vsjudsavgzm4viaj26drkcdl6wad.onion/...",
+        "link": "/news/864bfb802a2c20d2d4b4334691a075e8",
+        "magnet": null,
+        "screen": "screenshots/kraken/wwwsanmarties.png",
+        "group_name": "kraken"
+    },
+    {
+        "post_title": "studionotarile.com",
+        "discovered": "2025-07-06 17:32:54.271601",
+        "description": "Viggiani\u202fBullone\u202fGirardi",
+        "link": "/blog/4821b80070a6e4cec911a0f632e4702e30d7342375f19a0ad50809abd1ebc631/",
+        "magnet": null,
+        "screen": "screenshots/satanlock/studionotarilecom.png",
+        "group_name": "satanlock"
+    },
+    {
+        "post_title": "https://klinikdrindrajana.com/",
+        "discovered": "2025-07-06 17:32:53.326910",
+        "description": "Klinik Dr. Indrajana",
+        "link": "/blog/3483b78af6ee44881238e7fc60509b54c0e83edce7687f606c2682e60ab9b981/",
+        "magnet": null,
+        "screen": "screenshots/satanlock/klinikdrindrajanacom.png",
+        "group_name": "satanlock"
+    },
+    {
         "post_title": "gotec.com",
         "discovered": "2025-07-06 15:30:02.565449",
         "description": "6.45 million USD...",
@@ -421,32 +466,5 @@
         "magnet": null,
         "screen": "screenshots/nova/Eurofins.png",
         "group_name": "nova"
-    },
-    {
-        "post_title": "Assetlabs",
-        "discovered": "2025-07-05 17:34:31.038062",
-        "description": "Days00006666Hours22223333Minutes33333333Seconds00003333\n\n\nassetlabs.com\nStreamline365 provides a data intelligence platform designed to transform inv\u2026",
-        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=517",
-        "magnet": null,
-        "screen": "screenshots/arcus media/Assetlabs.png",
-        "group_name": "arcus media"
-    },
-    {
-        "post_title": "BD Group",
-        "discovered": "2025-07-05 17:34:29.559668",
-        "description": "Days00006666Hours22223333Minutes33333333Seconds00003333\n\n\nbdgroup.com.bd\nToday, BD Group products are a household name in Bangladesh and enjoyed by o\u2026",
-        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=515",
-        "magnet": null,
-        "screen": "screenshots/arcus media/BD Group.png",
-        "group_name": "arcus media"
-    },
-    {
-        "post_title": "RG Mexico",
-        "discovered": "2025-07-05 17:34:28.629741",
-        "description": "Days00006666Hours22223333Minutes33333333Seconds00003333\n\n\nrgmexico.com.mx\nRG Mexico, 30 years of providing peace of mind and security in: We have a s\u2026",
-        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=513",
-        "magnet": null,
-        "screen": "screenshots/arcus media/RG Mexico.png",
-        "group_name": "arcus media"
     }
 ]
