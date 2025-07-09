@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "Confartigianato Imprese",
+        "discovered": "2025-07-09 18:32:02.775038",
+        "description": "Serve aiuto per fare impresa? Confartigianato d\u00e0 risposte su misura per gli arti...",
+        "link": "/leaks/686e8c13cc2d2d4e688ed9e6",
+        "magnet": null,
+        "screen": "screenshots/lynx/Confartigianato Imprese.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "Lamberts Business Systems",
+        "discovered": "2025-07-09 18:31:58.574667",
+        "description": "",
+        "link": "/blog/disclosures/686e8d2fc7b82dfe0ba7f988",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Lamberts Business Systems.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "TBC",
+        "discovered": "2025-07-09 18:31:57.711027",
+        "description": "",
+        "link": "/blog/disclosures/686e8fc3c7b82dfe0ba81ef4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/TBC.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Emphail.com",
+        "discovered": "2025-07-09 18:31:44.965392",
+        "description": "Unknown",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "global"
+    },
+    {
+        "post_title": "Majestic",
+        "discovered": "2025-07-09 17:31:27.889143",
+        "description": "",
+        "link": "/blog/disclosures/686e84a4c7b82dfe0ba78e73",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Majestic.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "Leaked Documents Reveal Identities of Iran International Staff",
         "discovered": "2025-07-09 15:30:48.541796",
         "description": "Arghavan ShamsArghavan Shams is a journalist and the person responsible for promoting LGBTQ-related issues inside Iran, currently working with Iran International network. \u00a0 Nadia Tariqi Nadia, You\u2019ve operated behind the curtain long enough. For years, your fingerprints have been on the editorial pulse of Iran International. The headlines, the angles, the frames , many\u2026",
@@ -214,50 +259,5 @@
         "magnet": null,
         "screen": "screenshots/handala/Official Statement from Handala.png",
         "group_name": "handala"
-    },
-    {
-        "post_title": "Wfmt",
-        "discovered": "2025-07-08 18:30:22.237379",
-        "description": "",
-        "link": "topic.php?id=I7SJU535XjpRra",
-        "magnet": null,
-        "screen": "screenshots/play/Wfmt.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Wood, Patel & Associates",
-        "discovered": "2025-07-08 18:30:20.807745",
-        "description": "",
-        "link": "topic.php?id=WAin06XgTbVfTg",
-        "magnet": null,
-        "screen": "screenshots/play/Wood, Patel & Associates.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Tyree Oil",
-        "discovered": "2025-07-08 18:30:19.924566",
-        "description": "",
-        "link": "topic.php?id=oi6jsjwS9drIA",
-        "magnet": null,
-        "screen": "screenshots/play/Tyree Oil.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Milberg",
-        "discovered": "2025-07-08 17:30:29.282670",
-        "description": "Site: milberg.com\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Law firm\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: USA",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "sarcoma"
-    },
-    {
-        "post_title": "Florida Hand Center",
-        "discovered": "2025-07-08 17:30:22.840200",
-        "description": "Florida Hand Center\nFlorida Hand Center specializes in non-surgical and minimally invasive treatments for hand, wrist, and elbow conditions, serving patients in Punta Gorda, Port Charlotte, and Fort Myers, Florida.\n\n\n\nMore",
-        "link": "archive.php?company=198",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Florida Hand Center.png",
-        "group_name": "rhysida"
     }
 ]
