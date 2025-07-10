@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "brennytransportation.com",
+        "discovered": "2025-07-10 20:31:32.470591",
+        "description": "",
+        "link": "/blog/disclosures/686ffd3bc7b82dfe0bb88dcc",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/brennytransportationcom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "tiergesundheitszentrum-koenigslutter.de",
+        "discovered": "2025-07-10 20:31:31.498178",
+        "description": "",
+        "link": "/blog/disclosures/687000e9c7b82dfe0bb8c2ad",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tiergesundheitszentrum-koenigslutterde.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Warisan TC Holdings Berhad",
+        "discovered": "2025-07-10 20:10:31.455951",
+        "description": "We have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of wtc - TOURPLAN, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crypto24/Warisan TC Holdings Berhad.png",
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "Nactarome",
+        "discovered": "2025-07-10 19:32:50.316304",
+        "description": "Founded in 2018 and headquartered in Bresso, Italy, Nactarome specializes in dev...",
+        "link": "/leaks/686eb993cc2d2d4e688f6db7",
+        "magnet": null,
+        "screen": "screenshots/lynx/Nactarome.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "Accu Reference Medical Lab",
+        "discovered": "2025-07-10 19:32:48.685271",
+        "description": "About Accu Reference Medical Lab\nAccu Reference is a state-of-the-art medical testing laboratory service that provides a complete range of tests for diagnosis, screening or evaluation of diseases and health conditions. We are certified under            ...",
+        "link": "/site/view?uuid=f499e5d7-4f64-3190-8da6-c3a012f2f4d5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Accu Reference Medical Lab.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Tan Chong Motor Holdings Berhad",
+        "discovered": "2025-07-10 19:16:39.999771",
+        "description": "Data Size: 300GB\r\n\r\nWe have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of tanchong - NAV, BRASSTAX, VTS, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crypto24/Tan Chong Motor Holdings Berhad.png",
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "A-Qroup S\u0131\u011forta \u015eirk\u0259ti",
+        "discovered": "2025-07-10 19:16:05.686800",
+        "description": "Data Size: 730GB\r\n\r\nThe entire InsureAZ database has been leaked \u2014 including real insurance documents and all related materials such as medical, auto, and internal corporate records.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crypto24/A-Qroup S\u0131\u011forta \u015eirk\u0259ti.png",
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "Artemis Healthcare, Inc",
+        "discovered": "2025-07-10 19:15:36.188071",
+        "description": "1TB\r\n\r\nIt contains sensitive personal data, including medical records, official documents, and imaging files of millions of patients, as well as various databases.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crypto24/Artemis Healthcare, Inc.png",
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "Sagence AI",
+        "discovered": "2025-07-10 19:14:52.185421",
+        "description": "Data Size: 2.4TB\r\n\r\nThis leak contains the full TSMC 5nm and 7nm Process Design Kits, UMC 40ULP PDK and FDK, along with confidential AI-related project data from internal R&D, including simulation models, layout files, hardware accelerator designs, and proprietary training architectures, all sourced directly from foundry servers.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crypto24/Sagence AI.png",
+        "group_name": "crypto24"
+    },
+    {
         "post_title": "www.wheelsauto.com",
         "discovered": "2025-07-10 16:31:20.446229",
         "description": "\"For over 35 years Wheels Automotive Dealer Supplies has been Canada\u2019s leader in Automotive retail products - as a manufacturer,...",
@@ -88,50 +169,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Confartigianato Imprese",
-        "discovered": "2025-07-09 18:32:02.775038",
-        "description": "Serve aiuto per fare impresa? Confartigianato d\u00e0 risposte su misura per gli arti...",
-        "link": "/leaks/686e8c13cc2d2d4e688ed9e6",
-        "magnet": null,
-        "screen": "screenshots/lynx/Confartigianato Imprese.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "Lamberts Business Systems",
-        "discovered": "2025-07-09 18:31:58.574667",
-        "description": "",
-        "link": "/blog/disclosures/686e8d2fc7b82dfe0ba7f988",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Lamberts Business Systems.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "TBC",
-        "discovered": "2025-07-09 18:31:57.711027",
-        "description": "",
-        "link": "/blog/disclosures/686e8fc3c7b82dfe0ba81ef4",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/TBC.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "Emphail.com",
-        "discovered": "2025-07-09 18:31:44.965392",
-        "description": "Unknown",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "global"
-    },
-    {
-        "post_title": "Majestic",
-        "discovered": "2025-07-09 17:31:27.889143",
-        "description": "",
-        "link": "/blog/disclosures/686e84a4c7b82dfe0ba78e73",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Majestic.png",
-        "group_name": "inc ransom"
     }
 ]
