@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "nod.ro",
+        "discovered": "2025-07-12 19:25:58.116869",
+        "description": "",
+        "link": "#nod",
+        "magnet": null,
+        "screen": "screenshots/safepay/nodro.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "bartec.com",
+        "discovered": "2025-07-12 19:25:57.187902",
+        "description": "",
+        "link": "#bartec",
+        "magnet": null,
+        "screen": "screenshots/safepay/barteccom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "Plane Business Kayan Aero",
+        "discovered": "2025-07-12 16:55:29.343955",
+        "description": "",
+        "link": "/companies/6805662265",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Plane Business Kayan Aero.png",
+        "group_name": "worldleaks"
+    },
+    {
         "post_title": "Genesis Billing Services",
         "discovered": "2025-07-12 04:53:10.776749",
         "description": "Genesis Pathology Billing Service specializes in pathology billing, offering robust software solutions designed to optimize financial outcomes for pathology groups and labs.We are ready to upload 3 GB of corporate documents. Lots of clients financial files.",
@@ -115,77 +142,5 @@
         "magnet": null,
         "screen": "screenshots/everest/Katz & Doorakian Law Firm, PL - Filetree upload.png",
         "group_name": "everest"
-    },
-    {
-        "post_title": "Fishman, Larsen & Callister - Full leak published",
-        "discovered": "2025-07-11 20:32:14.803590",
-        "description": "",
-        "link": "/news/flclaw/",
-        "magnet": null,
-        "screen": "screenshots/everest/Fishman, Larsen & Callister - Full leak published.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "Department of Culture and Tourism Abu Dhabi - Download link updated",
-        "discovered": "2025-07-11 20:32:13.648165",
-        "description": "",
-        "link": "/news/Department_of_Culture_and_Tourism_Abu_Dhabi/",
-        "magnet": null,
-        "screen": "screenshots/everest/Department of Culture and Tourism Abu Dhabi - Download link updated.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "Darien Telephone",
-        "discovered": "2025-07-11 20:31:25.601826",
-        "description": "Darien Telephone Company is a family-owned independent communications provider that offers high-speed internet, telephone, and cable services. They cater to both residential and business customers with a focus on rural community needs. Their             ...",
-        "link": "/site/view?uuid=45d602e9-2f75-38f6-b5f5-ab38e82aecb3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Darien Telephone.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "EIA Global",
-        "discovered": "2025-07-11 19:32:05.891619",
-        "description": "",
-        "link": "topic.php?id=oKgg1wuLGZeRXU",
-        "magnet": null,
-        "screen": "screenshots/play/EIA Global.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "CyberlinkASP",
-        "discovered": "2025-07-11 19:32:04.944133",
-        "description": "",
-        "link": "topic.php?id=QjMwGKmoQYIeeW",
-        "magnet": null,
-        "screen": "screenshots/play/CyberlinkASP.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "FormWood Industries",
-        "discovered": "2025-07-11 18:33:28.718311",
-        "description": "",
-        "link": "topic.php?id=waIDKJ3bgonzk6",
-        "magnet": null,
-        "screen": "screenshots/play/FormWood Industries.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "nexa.bb",
-        "discovered": "2025-07-11 18:32:52.222085",
-        "description": "Nexa is a professional service firm based in Barbados providing client focused accounting, advisory, auditing, consulting, corporate and tax services. At nexa we strive to build strong and long-lasting relationships with our clients. We aim t            ...",
-        "link": "/site/view?uuid=e04bf608-5bda-35db-91e2-f8f40d871ecd",
-        "magnet": null,
-        "screen": "screenshots/qilin/nexabb.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "sol*d*r*.com",
-        "discovered": "2025-07-11 17:31:54.792810",
-        "description": "7.25 million USD...400GB exfiled",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
     }
 ]
