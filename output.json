@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "solidere.com",
+        "discovered": "2025-07-13 19:52:58.204880",
+        "description": "7.25 million USD...400GB exfiled",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2"
+    },
+    {
+        "post_title": "www.e***.gov.eg",
+        "discovered": "2025-07-13 19:52:57.220915",
+        "description": "2.27 million USD...58GB exfiled",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2"
+    },
+    {
+        "post_title": "Twaweza",
+        "discovered": "2025-07-13 18:45:13.568058",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire"
+    },
+    {
+        "post_title": "Tuna Processors Phillipines, Inc",
+        "discovered": "2025-07-13 18:45:12.669266",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire"
+    },
+    {
+        "post_title": "conasa infraestrutura s.a.",
+        "discovered": "2025-07-13 18:45:11.730855",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire"
+    },
+    {
         "post_title": "pinnacle Roofing and Exteriors",
         "discovered": "2025-07-13 14:52:29.872132",
         "description": "Pinnacle Roofing and Exteriors, Inc. is a roofing and exteriors company located in Charlotte, NC, specializing in a variety of roofing solutions including metal, slate, and traditional shingles, as well as gutter services and custom metal fab            ...",
@@ -34,32 +79,5 @@
         "magnet": null,
         "screen": "screenshots/nova/Dansoft.png",
         "group_name": "nova"
-    },
-    {
-        "post_title": "nod.ro",
-        "discovered": "2025-07-12 19:25:58.116869",
-        "description": "",
-        "link": "#nod",
-        "magnet": null,
-        "screen": "screenshots/safepay/nodro.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "bartec.com",
-        "discovered": "2025-07-12 19:25:57.187902",
-        "description": "",
-        "link": "#bartec",
-        "magnet": null,
-        "screen": "screenshots/safepay/barteccom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "Plane Business Kayan Aero",
-        "discovered": "2025-07-12 16:55:29.343955",
-        "description": "",
-        "link": "/companies/6805662265",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Plane Business Kayan Aero.png",
-        "group_name": "worldleaks"
     }
 ]
