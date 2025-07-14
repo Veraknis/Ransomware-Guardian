@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "\u0421onasa",
+        "discovered": "2025-07-14 16:33:42.045425",
+        "description": "35",
+        "link": "/2yd3hse308wt2z31qkrzdp4f01x84ful",
+        "magnet": null,
+        "screen": null,
+        "group_name": "cicada3301"
+    },
+    {
+        "post_title": "Hulberg & Associates",
+        "discovered": "2025-07-14 16:33:40.397449",
+        "description": "",
+        "link": "topic.php?id=mqAtbba1yHctAZ",
+        "magnet": null,
+        "screen": "screenshots/play/Hulberg & Associates.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "Rockrose Development",
+        "discovered": "2025-07-14 16:33:39.424258",
+        "description": "",
+        "link": "topic.php?id=Iw5iKkTofWdVUa",
+        "magnet": null,
+        "screen": "screenshots/play/Rockrose Development.png",
+        "group_name": "play"
+    },
+    {
+        "post_title": "Belk",
+        "discovered": "2025-07-14 14:31:07.849805",
+        "description": "Headquartered in Monroe, North Carolina, Belk is a department store that offers apparel, shoes, accessories, cosmetics, home furnishings and wedding registry on...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "dwllp.ca/ Leaked by www.etornetworks.com",
+        "discovered": "2025-07-14 11:30:44.636272",
+        "description": "",
+        "link": "/blog/disclosures/686dfcd8c7b82dfe0ba2d72a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/dwllpca Leaked by wwwetornetworkscom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "lstlaw.ca/ Leaked by www.etornetworks.com",
+        "discovered": "2025-07-14 11:30:43.547266",
+        "description": "",
+        "link": "/blog/disclosures/686dfd9ec7b82dfe0ba2d994",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/lstlawca Leaked by wwwetornetworkscom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Trilinklogistics Inc / Leacked by www.etornetworks.com/",
+        "discovered": "2025-07-14 11:30:42.635392",
+        "description": "",
+        "link": "/blog/disclosures/686e5e6fc7b82dfe0ba60101",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Trilinklogistics Inc  Leacked by wwwetornetworkscom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "National Institute of Water Resources",
+        "discovered": "2025-07-14 11:30:41.556025",
+        "description": "",
+        "link": "/blog/disclosures/68712b9ac7b82dfe0bc88929",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/National Institute of Water Resources.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "CARSTAR Business Group",
         "discovered": "2025-07-14 09:54:15.500535",
         "description": "Site: carstar.ca\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Automotive Service & Collision Repair\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Canada",
@@ -52,14 +124,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire"
-    },
-    {
-        "post_title": "pinnacle Roofing and Exteriors",
-        "discovered": "2025-07-13 14:52:29.872132",
-        "description": "Pinnacle Roofing and Exteriors, Inc. is a roofing and exteriors company located in Charlotte, NC, specializing in a variety of roofing solutions including metal, slate, and traditional shingles, as well as gutter services and custom metal fab            ...",
-        "link": "/site/view?uuid=5f2cf6ad-8648-3730-ba3e-eb24309529bc",
-        "magnet": null,
-        "screen": "screenshots/qilin/pinnacle Roofing and Exteriors.png",
-        "group_name": "qilin"
     }
 ]
