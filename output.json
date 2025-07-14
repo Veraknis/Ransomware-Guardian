@@ -1,11 +1,56 @@
 [
     {
+        "post_title": "American Hospital Dubai | 40TB",
+        "discovered": "2025-07-14 20:32:42.520125",
+        "description": "Industry: Health Care | Location: Dubai, UAE | \n                https://www.ahdubai.com",
+        "link": "/american hospital dubai/",
+        "magnet": null,
+        "screen": "screenshots/gunra/American Hospital Dubai | 40TB.png",
+        "group_name": "gunra"
+    },
+    {
+        "post_title": "Justicia Penal Militar | 45TB",
+        "discovered": "2025-07-14 20:32:41.669305",
+        "description": "Industry: Gobierno | Location: Colombia | \n                http://www.justiciamilitar.gov.co/home",
+        "link": "/juspemil.co",
+        "magnet": null,
+        "screen": "screenshots/gunra/Justicia Penal Militar | 45TB.png",
+        "group_name": "gunra"
+    },
+    {
+        "post_title": "Lar ***",
+        "discovered": "2025-07-14 20:32:31.410978",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "inspiredbeauty.com",
+        "discovered": "2025-07-14 19:32:42.836852",
+        "description": "www.inspiredbeauty.com",
+        "link": "/detail?code=inspiredbeauty-com-usa-1-55tb",
+        "magnet": null,
+        "screen": "screenshots/kairos/inspiredbeautycom.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "loraincountyauditor.gov",
+        "discovered": "2025-07-14 17:32:27.970419",
+        "description": "Lots of private information. Bank accounts and more.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "global"
+    },
+    {
         "post_title": "\u0421onasa",
         "discovered": "2025-07-14 16:33:42.045425",
         "description": "35",
         "link": "/2yd3hse308wt2z31qkrzdp4f01x84ful",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/cicada3301/\u0421onasa.png",
         "group_name": "cicada3301"
     },
     {
@@ -79,50 +124,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "sarcoma"
-    },
-    {
-        "post_title": "solidere.com",
-        "discovered": "2025-07-13 19:52:58.204880",
-        "description": "7.25 million USD...400GB exfiled",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "www.e***.gov.eg",
-        "discovered": "2025-07-13 19:52:57.220915",
-        "description": "2.27 million USD...58GB exfiled",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "Twaweza",
-        "discovered": "2025-07-13 18:45:13.568058",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire"
-    },
-    {
-        "post_title": "Tuna Processors Phillipines, Inc",
-        "discovered": "2025-07-13 18:45:12.669266",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire"
-    },
-    {
-        "post_title": "conasa infraestrutura s.a.",
-        "discovered": "2025-07-13 18:45:11.730855",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire"
     }
 ]
