@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "CARSTAR Business Group",
+        "discovered": "2025-07-14 09:54:15.500535",
+        "description": "Site: carstar.ca\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Automotive Service & Collision Repair\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma"
+    },
+    {
         "post_title": "solidere.com",
         "discovered": "2025-07-13 19:52:58.204880",
         "description": "7.25 million USD...400GB exfiled",
@@ -52,32 +61,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/pinnacle Roofing and Exteriors.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "North Country HealthCare",
-        "discovered": "2025-07-13 06:58:37.705780",
-        "description": "Health information for 600,000 patients has been accessed from the North Country Health (NCH) care",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous"
-    },
-    {
-        "post_title": "Rezayat Group",
-        "discovered": "2025-07-13 04:51:25.361131",
-        "description": "",
-        "link": "/news/rezayat/",
-        "magnet": null,
-        "screen": "screenshots/everest/Rezayat Group.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "Dansoft",
-        "discovered": "2025-07-13 01:58:23.788025",
-        "description": "Dansoft, established in 1989, originally focused on defense projects but shifted to develop ERP and enterprise software systems across various industries. The company offers IT executive, cloud hosting...",
-        "link": "Dansoft",
-        "magnet": null,
-        "screen": "screenshots/nova/Dansoft.png",
-        "group_name": "nova"
     }
 ]
