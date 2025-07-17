@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "KEP Credit Union KEP",
+        "discovered": "2025-07-17 17:31:18.861119",
+        "description": "KEP Credit Union offers professional and personal financial services tailored to the needs of its members, focusing on saving, investment, and lending. The organization aims to provide flexible loan options and facilitate investment opportuni            ...",
+        "link": "/site/view?uuid=6b64cb00-af0c-3a3d-9fd5-a9bd1510efe2",
+        "magnet": null,
+        "screen": "screenshots/qilin/KEP Credit Union KEP.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Sou ***",
         "discovered": "2025-07-17 14:33:18.143013",
         "description": "",
@@ -169,32 +178,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/joseantoniorodriguezcom.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "C3 Group",
-        "discovered": "2025-07-16 19:31:06.880678",
-        "description": "C3 Group is a large, well-established engineering company offering a wide range of services, from restoration and industrial injection to water treatment and geotechnical projects.",
-        "link": "/posts/6877df329b4c8f1e07fe6913",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/C3 Group.png",
-        "group_name": "nitrogen"
-    },
-    {
-        "post_title": "Morrison Companies",
-        "discovered": "2025-07-16 17:33:48.824651",
-        "description": "",
-        "link": "topic.php?id=7PYkve2hI0W86g",
-        "magnet": null,
-        "screen": "screenshots/play/Morrison Companies.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "IMSSA Manufacturing",
-        "discovered": "2025-07-16 17:33:47.893567",
-        "description": "",
-        "link": "topic.php?id=GQQQDFOMKIFM6",
-        "magnet": null,
-        "screen": "screenshots/play/IMSSA Manufacturing.png",
-        "group_name": "play"
     }
 ]
