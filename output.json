@@ -1,5 +1,59 @@
 [
     {
+        "post_title": "GreenLight Biosciences",
+        "discovered": "2025-07-18 08:33:20.824202",
+        "description": "Founded in 2008, GreenLight Bioscience is a pre-commercial stage synthetic biology company with a proprietary cell-free ribonucleic acid (RNA) production platform for the discovery, development and commercialization of high-performing products. The company is based in Medford, Massachusetts.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte"
+    },
+    {
+        "post_title": "T2 Group",
+        "discovered": "2025-07-18 08:33:19.957065",
+        "description": "We are people that value the journey towards excellence, actively seeking individuals who share this commitment \u2014 both within our team and among our clients. In collaboration, we operate as a unified force, sharing the ambition to achieve remarkable results that outshine the competition, redefine industries, and make meaningful impact.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte"
+    },
+    {
+        "post_title": "Ark Consultancy",
+        "discovered": "2025-07-18 08:33:19.130560",
+        "description": "ARK Consultancy Limited is a leading management and technical consultancy specializing in social housing, dedicated to supporting local authorities and housing associations throughout the UK. They offer a wide range of services that include asset management, decarbonization, resident engagement, and strategic governance.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte"
+    },
+    {
+        "post_title": "Allstarmg",
+        "discovered": "2025-07-18 08:33:18.294509",
+        "description": "Founded in 1999, Allstar Marketing Group is a Performance Marketing company that has been directly responsible for some of the most successful consumer products in history. Allstar works with brands who are on the precipice of becoming a household name, but are unable to market and distribute to retail at a larger scale.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte"
+    },
+    {
+        "post_title": "Helpsonv",
+        "discovered": "2025-07-18 08:33:17.389751",
+        "description": "HELP of Southern Nevada provides assistance to families and individuals in overcoming barriers to self-sufficiency through various direct services, training, and referrals to community resources. Their offerings include adult and family housing programs, behavioral health services, and a diaper bank, among others.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte"
+    },
+    {
+        "post_title": "Home Solutions of Iowa",
+        "discovered": "2025-07-18 04:34:01.257912",
+        "description": "Home Solutions of Iowa is a comprehensive exterior remodeling company that specializes in offering high-quality LeafGuard\u00ae gutters, roofing solutions, and insul...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
         "post_title": "KEP Credit Union KEP",
         "discovered": "2025-07-17 17:31:18.861119",
         "description": "KEP Credit Union offers professional and personal financial services tailored to the needs of its members, focusing on saving, investment, and lending. The organization aims to provide flexible loan options and facilitate investment opportuni            ...",
@@ -97,86 +151,5 @@
         "magnet": null,
         "screen": "screenshots/worldleaks/Racine Olson.png",
         "group_name": "worldleaks"
-    },
-    {
-        "post_title": "lawforpersonalinjury.com",
-        "discovered": "2025-07-17 08:32:08.184990",
-        "description": "Prince & Schmidt Personal Injury Lawyers specializes in personal injury law, representing clients in cases such as medical malpractice, vehicle accidents, civil rights violations, and premises liability. Based in Santa Fe, NM, the firm serves            ...",
-        "link": "/site/view?uuid=89e6574f-7cd9-3671-8e82-090e28b5a7d3",
-        "magnet": null,
-        "screen": "screenshots/qilin/lawforpersonalinjurycom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Media Broadcast Satellite",
-        "discovered": "2025-07-17 07:31:11.309414",
-        "description": "Media Broadcast Satellite GmbH is a trusted service integrator and managed gateway operator that specializes in satellite and data network communications. The company offers a variety of solutions, including SATCOM as a Service, Infrastructur            ...",
-        "link": "/site/view?uuid=2166505c-7d17-33c5-bb1a-e7a8f13328d1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Media Broadcast Satellite.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "mol.go.th",
-        "discovered": "2025-07-17 03:32:02.714343",
-        "description": "15  million USD...300GB exfiled",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "ashland.k12.ma.us",
-        "discovered": "2025-07-17 00:33:34.526553",
-        "description": "",
-        "link": "#ashland",
-        "magnet": null,
-        "screen": "screenshots/safepay/ashlandk12maus.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "divgroup.eu",
-        "discovered": "2025-07-17 00:33:33.688544",
-        "description": "",
-        "link": "#divgroup",
-        "magnet": null,
-        "screen": "screenshots/safepay/divgroupeu.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "hlb.ie",
-        "discovered": "2025-07-17 00:33:32.856694",
-        "description": "",
-        "link": "#hlb",
-        "magnet": null,
-        "screen": "screenshots/safepay/hlbie.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "palmasdelixcan.com",
-        "discovered": "2025-07-17 00:33:32.014640",
-        "description": "",
-        "link": "#palmasdelixcan",
-        "magnet": null,
-        "screen": "screenshots/safepay/palmasdelixcancom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "accademia.it",
-        "discovered": "2025-07-17 00:33:31.106805",
-        "description": "",
-        "link": "#accademia",
-        "magnet": null,
-        "screen": "screenshots/safepay/accademiait.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "joseantoniorodriguez.com",
-        "discovered": "2025-07-16 22:33:54.001329",
-        "description": "For over 40 years, we have provided  tax and accounting consulting , labor consulting , management , legal consulting , insurance brokerage , and real estate agency services . We have offices in Santander, Cabez\u00f3n de la Sal, San Vicente de l            ...",
-        "link": "/site/view?uuid=b961bb2b-b910-3040-b8c9-e1ee58abb8bc",
-        "magnet": null,
-        "screen": "screenshots/qilin/joseantoniorodriguezcom.png",
-        "group_name": "qilin"
     }
 ]
