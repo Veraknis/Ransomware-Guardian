@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "sequoiadental.com",
+        "discovered": "2025-07-19 11:30:12.528985",
+        "description": "Sequoia Dental Office provides a wide range of dental services including general, cosmetic, orthodontic, and restorative dentistry. Located in Visalia, CA, they are dedicated to patient comfort and use advanced technology to enhance care, offering",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am"
+    },
+    {
         "post_title": "RICHARD MILLE ASIA PTE. LTD & D'LEAGUE PTE. LTD.",
         "discovered": "2025-07-19 03:32:42.787917",
         "description": "Data from various companies in Dave Tan's holding.",
@@ -286,95 +295,5 @@
         "magnet": null,
         "screen": "screenshots/worldleaks/Proactive Engineering Consultants.png",
         "group_name": "worldleaks"
-    },
-    {
-        "post_title": "diasdeprimavera.com.br",
-        "discovered": "2025-07-18 16:32:44.409605",
-        "description": "28",
-        "link": "/qgv8r44n0xp59me10570dd3cg7cekjqn",
-        "magnet": null,
-        "screen": "screenshots/cicada3301/diasdeprimaveracombr.png",
-        "group_name": "cicada3301"
-    },
-    {
-        "post_title": "gatlogistica.com.br",
-        "discovered": "2025-07-18 16:32:43.571425",
-        "description": "22",
-        "link": "/klj7rrlpqo32tltz5lqlhqyxvjgdy3re",
-        "magnet": null,
-        "screen": "screenshots/cicada3301/gatlogisticacombr.png",
-        "group_name": "cicada3301"
-    },
-    {
-        "post_title": "B&amp;M - Expertise - Audit",
-        "discovered": "2025-07-18 16:32:42.723787",
-        "description": "23",
-        "link": "/ru1zmctt4ihc651caoriojb1xh3sizb3",
-        "magnet": null,
-        "screen": "screenshots/cicada3301/B&amp;M - Expertise - Audit.png",
-        "group_name": "cicada3301"
-    },
-    {
-        "post_title": "Burnham Nationwide",
-        "discovered": "2025-07-18 16:32:41.868448",
-        "description": "20",
-        "link": "/lswsprrsv5zwzsgj4olbanag5dq7gxod",
-        "magnet": null,
-        "screen": "screenshots/cicada3301/Burnham Nationwide.png",
-        "group_name": "cicada3301"
-    },
-    {
-        "post_title": "Sensical",
-        "discovered": "2025-07-18 16:32:40.943172",
-        "description": "20",
-        "link": "/7zl4ydf8x78l0e1h7hb682gkp8ow293n",
-        "magnet": null,
-        "screen": "screenshots/cicada3301/Sensical.png",
-        "group_name": "cicada3301"
-    },
-    {
-        "post_title": "Tiger Communications",
-        "discovered": "2025-07-18 15:34:41.931864",
-        "description": "If the company does not contact us by 25/07/2025, their files will be published\n\nFull file directory: [coming soon]\n\n-- Files of interest --\n\nList of customers and their contracts:\ntiger/E$/Sha            ...",
-        "link": "/site/view?uuid=0a3838be-10d5-33fc-8157-602bbcbeab06",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tiger Communications.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "pt.e*i*.com",
-        "discovered": "2025-07-18 14:32:52.236939",
-        "description": "4 million USD...450GB exfiled",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "Eurofins Scientific",
-        "discovered": "2025-07-18 14:32:51.246830",
-        "description": "Eurofins Scientific is a global network of life sciences companies that offers a comprehensive range of analytical testing services to clients across various industries. The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic product testing...",
-        "link": "eurofins",
-        "magnet": null,
-        "screen": "screenshots/nova/Eurofins Scientific.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "Ritenour School District",
-        "discovered": "2025-07-18 14:32:49.216375",
-        "description": "The Ritenour School District, located in Northwest St. Louis County, is one of the oldest districts in the metropolitan area. They have grown from that one room cabin into 10 schools, an early childhood center and a large adult community prog            ...",
-        "link": "/site/view?uuid=1a05c618-febc-3dda-a9fc-f1f5d3a4fb5a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ritenour School District.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Eurofins Healthcare",
-        "discovered": "2025-07-18 12:31:10.304772",
-        "description": "Eurofins Scientific is a global network of life sciences companies that offers a comprehensive range of analytical testing services to clients across various industries. The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic product testing...",
-        "link": "eurofins",
-        "magnet": null,
-        "screen": "screenshots/nova/Eurofins Healthcare.png",
-        "group_name": "nova"
     }
 ]
