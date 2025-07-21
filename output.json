@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Thompson+Hanson",
+        "discovered": "2025-07-21 20:54:39.756617",
+        "description": "thompsonhanson.com",
+        "link": "/detail_post/FBkIuvZP5AkSllFqhzrM",
+        "magnet": null,
+        "screen": "screenshots/payoutsking/Thompson+Hanson.png",
+        "group_name": "payoutsking"
+    },
+    {
+        "post_title": "chainstoreguide.com",
+        "discovered": "2025-07-21 18:52:42.874540",
+        "description": "Chain Store Guide is the leader in Retail Foodservice sales leads, market research, and geocoded locational data, offering a 7-day free trial access to company profiles and contact information. With 97.6% data accuracy and 15 years of histori            ...",
+        "link": "/site/view?uuid=6e96602a-6ad2-3495-8c11-26896c067faa",
+        "magnet": null,
+        "screen": "screenshots/qilin/chainstoreguidecom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Studio Associato Callatroni Bianchi",
+        "discovered": "2025-07-21 17:55:18.076123",
+        "description": "STUDIO_C - IT Consulting and Services.We are going to upload company data soon. Accounting and financial data, client data, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Publication hold announcement",
+        "discovered": "2025-07-21 17:42:53.145841",
+        "description": "Hello everyone!\r\n\r\nWe have a substantial queue of companies waiting for their data to be published, but nothing has been released yet. The reason is simple: the datasets we process often exceed tens of terabytes. We know publishing this kind of raw, chaotic \"data mush\" makes no sense \u2014 it's impossible to download or use effectively.\r\n\r\nWhile we acknowledge that some groups opt to publish raw data volumes as a standard practice, we've chosen to aim higher. Our team is actively testing a software solution designed to streamline the publication of large datasets. We're not ready to share details yet, but the new format will make the data easy to access and use for everyone involved.\r\n\r\nTo companies in our publication queue: don't assume you have time to fix problems later. For some of you, the window to address critical issues in your data may already be closed.\r\n\r\nStay tuned for updates.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/secp0/Publication hold announcement.png",
+        "group_name": "secp0"
+    },
+    {
         "post_title": "Dell Technologies",
         "discovered": "2025-07-21 13:51:11.758399",
         "description": "",
