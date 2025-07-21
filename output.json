@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Dell Technologies",
+        "discovered": "2025-07-21 13:51:11.758399",
+        "description": "",
+        "link": "/companies/6057273603",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Dell Technologies.png",
+        "group_name": "worldleaks"
+    },
+    {
         "post_title": "Krusell",
         "discovered": "2025-07-21 09:47:24.710222",
         "description": "Adiantes is a Thailand-based manufacturer specializing in premium quality sustainable leather goods, including handmade handbags, belts, and various accessories. The company focuses on bespoke product design, blending traditional craftsmanshi            ...",
@@ -25,41 +34,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman2"
-    },
-    {
-        "post_title": "Universidad Mayor",
-        "discovered": "2025-07-20 13:52:28.881485",
-        "description": "Universidad Mayor (UM), acreditaci\u00f3n institucional con la Middle States Commission on Higher Education de los EE.UU (MSCHE).",
-        "link": "articles/Universidad_Mayor.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Universidad Mayor.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "Anadolu Hastaneleri",
-        "discovered": "2025-07-20 13:52:28.048933",
-        "description": "Anadolu Hospitals strives to become the preferred brand in the region with its experienced healthcare staff.",
-        "link": "articles/Anadolu.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Anadolu Hastaneleri.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "Pergamon Status Di\u015f Ticaret A \u015e",
-        "discovered": "2025-07-20 13:52:26.273236",
-        "description": "Pergamon Status Di\u015f Ticaret A \u015e is a company that operates in the international trade industry.",
-        "link": "articles/Pergamon.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Pergamon Status Di\u015f Ticaret A \u015e.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "Akribis Systems",
-        "discovered": "2025-07-20 13:52:25.352461",
-        "description": "Akribis Systems is a global designer and manufacturer of direct drive motors, stages, positioning systems.",
-        "link": "articles/Akribis_Systems.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Akribis Systems.png",
-        "group_name": "direwolf"
     }
 ]
