@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "Windsor Door",
+        "discovered": "2025-07-22 15:28:50.162083",
+        "description": "Windsor Door, Inc., founded in 1976 and based in Little Rock, Arkansas, is a recognized manufacturer specializing in garage door solutions for both residential and commercial applications. The company\u2019s offerings include embossed steel pane            ...",
+        "link": "/site/view?uuid=f5bd281d-1762-3c99-8806-8f8c266b22fb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Windsor Door.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "TOMEI GROUP Inc.",
+        "discovered": "2025-07-22 15:28:48.895795",
+        "description": "",
+        "link": "/blog/disclosures/687f8bd5c7b82dfe0bac795a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/TOMEI GROUP Inc.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Eurofins Scientific (Healthcare)",
+        "discovered": "2025-07-22 14:29:31.827876",
+        "description": "Eurofins Scientific is a global network of life sciences companies that offers a comprehensive range of analytical testing services to clients across various industries. The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic product testing...",
+        "link": "eurofins",
+        "magnet": null,
+        "screen": "screenshots/nova/Eurofins Scientific (Healthcare).png",
+        "group_name": "nova"
+    },
+    {
+        "post_title": "Able Home Care",
+        "discovered": "2025-07-22 12:27:53.333667",
+        "description": "",
+        "link": "/companies/7937370901",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Able Home Care.png",
+        "group_name": "worldleaks"
+    },
+    {
+        "post_title": "http://www.balkankalip.com",
+        "discovered": "2025-07-22 12:27:51.883026",
+        "description": "Founded in Istanbul in 1998, Balkan Kal\u0131p is a company that produces molds and mass-produces parts to meet the needs of the automotive industry. With a solution-oriented approach and a vision of sustainable and continuous development, Balkan            ...",
+        "link": "/site/view?uuid=5f28cdfe-a16e-3d4f-9f45-9b008e72deee",
+        "magnet": null,
+        "screen": "screenshots/qilin/wwwbalkankalipcom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "www.optyma.co.uk",
+        "discovered": "2025-07-22 11:28:24.942621",
+        "description": "Established in 1987, Optyma is a principle provider of integrated security systems. Our expertise in the design, implementation,...",
+        "link": "/news/322ce2ea5ef9baa18c8fa730e9202701",
+        "magnet": null,
+        "screen": "screenshots/kraken/wwwoptymacouk.png",
+        "group_name": "kraken"
+    },
+    {
+        "post_title": "Primoris",
+        "discovered": "2025-07-22 10:27:41.697207",
+        "description": "",
+        "link": "/companies/1511237272",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Primoris.png",
+        "group_name": "worldleaks"
+    },
+    {
+        "post_title": "ARCTICGROUP",
+        "discovered": "2025-07-22 10:27:40.177975",
+        "description": "Arctic Glacier is North America\u2019s leading manufacturer and direct-to-store distributor (DSD) of premium quality packaged ice, ice equipment and related services. Since its start in 1882, Arctic Glacier has grown significantly through strate            ...",
+        "link": "/site/view?uuid=9ba0729e-3c0b-35d3-b547-ccb14418ddac",
+        "magnet": null,
+        "screen": "screenshots/qilin/ARCTICGROUP.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "reizenlaw.com",
         "discovered": "2025-07-22 08:28:29.348709",
         "description": "",
@@ -241,14 +313,5 @@
         "magnet": null,
         "screen": "screenshots/secp0/Publication hold announcement.png",
         "group_name": "secp0"
-    },
-    {
-        "post_title": "Dell Technologies",
-        "discovered": "2025-07-21 13:51:11.758399",
-        "description": "",
-        "link": "/companies/6057273603",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Dell Technologies.png",
-        "group_name": "worldleaks"
     }
 ]
