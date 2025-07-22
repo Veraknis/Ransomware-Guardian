@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "www.reliablecontrols.com",
+        "discovered": "2025-07-22 19:27:24.976457",
+        "description": "",
+        "link": "/blog/disclosures/687fbb27c7b82dfe0bb02445",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwreliablecontrolscom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "SOUBEIRAN CHOBET S.R.L.",
+        "discovered": "2025-07-22 18:27:36.921318",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24"
+    },
+    {
+        "post_title": "Nippn TH",
+        "discovered": "2025-07-22 17:27:21.332633",
+        "description": "Nippn, founded in 1896, is a diversified food company with core operations in fl...",
+        "link": "/leaks/687fa16dcc2d2d4e68d84c81",
+        "magnet": null,
+        "screen": "screenshots/lynx/Nippn TH.png",
+        "group_name": "lynx"
+    },
+    {
         "post_title": "Windsor Door",
         "discovered": "2025-07-22 15:28:50.162083",
         "description": "Windsor Door, Inc., founded in 1976 and based in Little Rock, Arkansas, is a recognized manufacturer specializing in garage door solutions for both residential and commercial applications. The company\u2019s offerings include embossed steel pane            ...",
@@ -277,41 +304,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "qilin-securotrop"
-    },
-    {
-        "post_title": "Thompson+Hanson",
-        "discovered": "2025-07-21 20:54:39.756617",
-        "description": "thompsonhanson.com",
-        "link": "/detail_post/FBkIuvZP5AkSllFqhzrM",
-        "magnet": null,
-        "screen": "screenshots/payoutsking/Thompson+Hanson.png",
-        "group_name": "payoutsking"
-    },
-    {
-        "post_title": "chainstoreguide.com",
-        "discovered": "2025-07-21 18:52:42.874540",
-        "description": "Chain Store Guide is the leader in Retail Foodservice sales leads, market research, and geocoded locational data, offering a 7-day free trial access to company profiles and contact information. With 97.6% data accuracy and 15 years of histori            ...",
-        "link": "/site/view?uuid=6e96602a-6ad2-3495-8c11-26896c067faa",
-        "magnet": null,
-        "screen": "screenshots/qilin/chainstoreguidecom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Studio Associato Callatroni Bianchi",
-        "discovered": "2025-07-21 17:55:18.076123",
-        "description": "STUDIO_C - IT Consulting and Services.We are going to upload company data soon. Accounting and financial data, client data, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Publication hold announcement",
-        "discovered": "2025-07-21 17:42:53.145841",
-        "description": "Hello everyone!\r\n\r\nWe have a substantial queue of companies waiting for their data to be published, but nothing has been released yet. The reason is simple: the datasets we process often exceed tens of terabytes. We know publishing this kind of raw, chaotic \"data mush\" makes no sense \u2014 it's impossible to download or use effectively.\r\n\r\nWhile we acknowledge that some groups opt to publish raw data volumes as a standard practice, we've chosen to aim higher. Our team is actively testing a software solution designed to streamline the publication of large datasets. We're not ready to share details yet, but the new format will make the data easy to access and use for everyone involved.\r\n\r\nTo companies in our publication queue: don't assume you have time to fix problems later. For some of you, the window to address critical issues in your data may already be closed.\r\n\r\nStay tuned for updates.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/secp0/Publication hold announcement.png",
-        "group_name": "secp0"
     }
 ]
