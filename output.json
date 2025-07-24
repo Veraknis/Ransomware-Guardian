@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Sementes Jotabasso",
+        "discovered": "2025-07-23 23:28:23.528364",
+        "description": "",
+        "link": "/blog/disclosures/6881498bc7b82dfe0bd06d92",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Sementes Jotabasso.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Creditinfo",
+        "discovered": "2025-07-23 21:29:09.854459",
+        "description": "creditinfo.com",
+        "link": "/detail_post/dLzWlth23bgmQbUmoLfN",
+        "magnet": null,
+        "screen": "screenshots/payoutsking/Creditinfo.png",
+        "group_name": "payoutsking"
+    },
+    {
         "post_title": "Palm Bay International",
         "discovered": "2025-07-23 18:27:36.355028",
         "description": "One of the largest importers and distributors of wines and spirits in the U.S. market.",
@@ -88,86 +106,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/wwwbalkankalipcom.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "blueridgesl.com",
-        "discovered": "2025-07-22 21:27:49.836119",
-        "description": "",
-        "link": "#blueridgesl",
-        "magnet": null,
-        "screen": "screenshots/safepay/blueridgeslcom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "rhschool.org",
-        "discovered": "2025-07-22 21:27:48.622815",
-        "description": "",
-        "link": "#rhschool",
-        "magnet": null,
-        "screen": "screenshots/safepay/rhschoolorg.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "qtmi.net",
-        "discovered": "2025-07-22 21:27:47.753006",
-        "description": "",
-        "link": "#qtmi",
-        "magnet": null,
-        "screen": "screenshots/safepay/qtminet.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "horanbarker.com",
-        "discovered": "2025-07-22 21:27:46.895846",
-        "description": "",
-        "link": "#horanbarker",
-        "magnet": null,
-        "screen": "screenshots/safepay/horanbarkercom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "naxis.net",
-        "discovered": "2025-07-22 21:27:46.041490",
-        "description": "",
-        "link": "#naxis",
-        "magnet": null,
-        "screen": "screenshots/safepay/naxisnet.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "landwwilson.co.uk",
-        "discovered": "2025-07-22 21:27:45.180619",
-        "description": "",
-        "link": "#landwwilson",
-        "magnet": null,
-        "screen": "screenshots/safepay/landwwilsoncouk.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "salemma.com.py",
-        "discovered": "2025-07-22 21:27:44.323871",
-        "description": "",
-        "link": "#salemma",
-        "magnet": null,
-        "screen": "screenshots/safepay/salemmacompy.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "stichtingjohannesbosco.com",
-        "discovered": "2025-07-22 21:27:43.446352",
-        "description": "",
-        "link": "#stichtingjohannesbosco",
-        "magnet": null,
-        "screen": "screenshots/safepay/stichtingjohannesboscocom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "bisa.com.pe",
-        "discovered": "2025-07-22 21:27:31.054800",
-        "description": "",
-        "link": "#bisa",
-        "magnet": null,
-        "screen": "screenshots/safepay/bisacompe.png",
-        "group_name": "safepay"
     }
 ]
