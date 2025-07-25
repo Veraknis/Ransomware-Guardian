@@ -1,5 +1,68 @@
 [
     {
+        "post_title": "Crumbl",
+        "discovered": "2025-07-25 16:29:31.570053",
+        "description": "",
+        "link": "/news/Crumbl/",
+        "magnet": null,
+        "screen": "screenshots/everest/Crumbl.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Best Price Financial Services",
+        "discovered": "2025-07-25 16:29:30.644371",
+        "description": "",
+        "link": "/news/Best_Price_Financial_Services/",
+        "magnet": null,
+        "screen": "screenshots/everest/Best Price Financial Services.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Astro Industries Inc.",
+        "discovered": "2025-07-25 16:29:13.748792",
+        "description": "Astro Industries, Inc. is engaged in the manufacturing and distribution of Military and Commercial wire, cable, cable assemblies, shrink tubing, and value-added products and services. We also stock a variety of military and commercial knobs,             ...",
+        "link": "/site/view?uuid=48c95de3-421a-31df-ba28-f6be7a3323c1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Astro Industries Inc.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "lafavoritaservice.it",
+        "discovered": "2025-07-25 16:29:10.616175",
+        "description": "An Italian company specializing in maintenance, optimization, and eco-efficient upgrades of kilns and dryers for the ceramic tile industry, helping reduce energy consumption and production costs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "global"
+    },
+    {
+        "post_title": "moelco.es",
+        "discovered": "2025-07-25 16:29:09.670930",
+        "description": "A Spanish industrial group focused on vacuum cooling systems for the agri-food sector, offering manufacturing, rental, and maintenance services to extend the freshness and shelf life of perishable produce.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "global"
+    },
+    {
+        "post_title": "md-labels-gmbh.com",
+        "discovered": "2025-07-25 11:27:22.613576",
+        "description": "Property of the Company\nProduction of product labels.\n\nBrief description of Mehmet-Serif Dalyanoglu, label production, \"MD Labels\"\nMehmet-Serif Dalyanoglu, labe...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "Emerson Chiropractic",
+        "discovered": "2025-07-25 11:27:21.606113",
+        "description": "Emerson Chiropractic has been serving the Southside of Indianapolis, Greenwood, and surrounding communities for over 25 years. Dr. Christian Carter is dedicated...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
         "post_title": "www.mada.com.kw",
         "discovered": "2025-07-25 07:55:47.402156",
         "description": "Mada Communications formerly known as ARAB TELECOMMUNICATIONS (ArabTel) is a leading service provider, offering wireless broadba...",
@@ -187,50 +250,5 @@
         "magnet": null,
         "screen": "screenshots/walocker/WayUp \u2013 Brasil .png",
         "group_name": "walocker"
-    },
-    {
-        "post_title": "Gallon, Takacs & Boissoneault",
-        "discovered": "2025-07-24 16:31:21.495822",
-        "description": "",
-        "link": "/news/GallonTakacsBoissoneault/",
-        "magnet": null,
-        "screen": "screenshots/everest/Gallon, Takacs & Boissoneault.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "moonsafari",
-        "discovered": "2025-07-24 16:31:07.240183",
-        "description": "Moon Safari est une agence d\u2019architecture et d\u2019urbanisme pluridisciplinaire, volontairement \u00e9clectique et ouverte ; tertiaire, logement, \u00e9ducation, sport, industrie ou \u00e9quipement, tous les projets attirent notre attention. Nous pensons            ...",
-        "link": "/site/view?uuid=238c6c8a-8d54-35a5-9136-e66a689bce73",
-        "magnet": null,
-        "screen": "screenshots/qilin/moonsafari.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "jaegerndorfer.at",
-        "discovered": "2025-07-24 14:27:44.361717",
-        "description": "Dear lovers of railways and cable car models!\nIf something breaks down, do not worry, we will be happy to help.",
-        "link": "/site/view?uuid=050ab522-081f-3821-af3f-a6199fb58b83",
-        "magnet": null,
-        "screen": "screenshots/qilin/jaegerndorferat.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "New American Funding - Full leak published",
-        "discovered": "2025-07-24 11:27:31.250645",
-        "description": "",
-        "link": "/news/newamericanfunding/",
-        "magnet": null,
-        "screen": "screenshots/everest/New American Funding - Full leak published.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "Metricon Homes",
-        "discovered": "2025-07-24 10:28:57.890490",
-        "description": "Founded in 1976, Metricon Homes is one of Australia's largest and most reputable residential home builders. With nearly five decades of experience, the company has established a strong presence across the country, offering a diverse portfolio            ...",
-        "link": "/site/view?uuid=952b25c1-3fb2-38ec-94fa-7bc4e27c76e0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Metricon Homes.png",
-        "group_name": "qilin"
     }
 ]
