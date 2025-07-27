@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "bussepc.com",
+        "discovered": "2025-07-26 21:28:09.450490",
+        "description": "",
+        "link": "#bussepc",
+        "magnet": null,
+        "screen": "screenshots/safepay/bussepccom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "swfldermatology.com",
+        "discovered": "2025-07-26 21:28:08.308716",
+        "description": "",
+        "link": "#swfldermatology",
+        "magnet": null,
+        "screen": "screenshots/safepay/swfldermatologycom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "havtechpa.com",
+        "discovered": "2025-07-26 21:28:07.377269",
+        "description": "",
+        "link": "#havtechpa",
+        "magnet": null,
+        "screen": "screenshots/safepay/havtechpacom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "appagroup.com",
+        "discovered": "2025-07-26 21:28:06.456871",
+        "description": "",
+        "link": "#appagroup",
+        "magnet": null,
+        "screen": "screenshots/safepay/appagroupcom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "briar-group.com",
+        "discovered": "2025-07-26 21:28:05.525668",
+        "description": "",
+        "link": "#briar-group",
+        "magnet": null,
+        "screen": "screenshots/safepay/briar-groupcom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "teamsignal.com",
+        "discovered": "2025-07-26 21:28:04.622280",
+        "description": "",
+        "link": "#teamsignal",
+        "magnet": null,
+        "screen": "screenshots/safepay/teamsignalcom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "tele-optics.com",
+        "discovered": "2025-07-26 21:28:01.110882",
+        "description": "",
+        "link": "#tele-optics",
+        "magnet": null,
+        "screen": "screenshots/safepay/tele-opticscom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "appsnw.com",
+        "discovered": "2025-07-26 21:28:00.148450",
+        "description": "",
+        "link": "#appsnw",
+        "magnet": null,
+        "screen": "screenshots/safepay/appsnwcom.png",
+        "group_name": "safepay"
+    },
+    {
+        "post_title": "wta-inc.com",
+        "discovered": "2025-07-26 21:27:59.147603",
+        "description": "",
+        "link": "#wta",
+        "magnet": null,
+        "screen": "screenshots/safepay/wta-inccom.png",
+        "group_name": "safepay"
+    },
+    {
         "post_title": "Morrow Equipment",
         "discovered": "2025-07-26 14:27:49.851164",
         "description": "proof of attack",
@@ -88,50 +169,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "abyss-data"
-    },
-    {
-        "post_title": "I.P. One LTD",
-        "discovered": "2025-07-26 02:28:18.508804",
-        "description": "Days00006666Hours22223333Minutes22222222Seconds11114444\n\n\nI.P. One was established in 1972. We are proud to be the first Thai company who formulate \u2026",
-        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=526",
-        "magnet": null,
-        "screen": "screenshots/arcus media/IP One LTD.png",
-        "group_name": "arcus media"
-    },
-    {
-        "post_title": "Bouey & Black LLP",
-        "discovered": "2025-07-26 00:27:47.234751",
-        "description": "Bouey & Black LLP",
-        "link": "/detail?code=bouey-black-llp-usa-101gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/Bouey & Black LLP.png",
-        "group_name": "kairos"
-    },
-    {
-        "post_title": "Dunlap Codding",
-        "discovered": "2025-07-25 21:52:17.327940",
-        "description": "Dunlap Codding is a law firm, based in Oklahoma City, serves sophisticated international, national, and regional clients. We are ready to upload over 19 GB of corporate documents. Lots ofclient personal files, financial documents, project data, lots of patent documents, courts files, hearing notes, protocols, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Helical Auto Technology (India)",
-        "discovered": "2025-07-25 21:52:16.422072",
-        "description": "Helical Technology has been established for over 50 years and hasa global presence with production facilities in the UK, India and China. The company designs and manufactures springs, valve rotators, actuators and so on.We are ready to upload over 17 GB of corporate documents. Financial documents, HR files (employee docs), project data, NDAs, customer information, data of the UK departments, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "jorgefernandez.es",
-        "discovered": "2025-07-25 21:52:14.002795",
-        "description": "",
-        "link": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/s/mmlVsXDzuGNbYFn1ROYUfNmQB5iNy1QJ3HrL58+NMZfVb0eRZ0gpmFTqCXj+XOno+HS4kx8AZlgcy2B5tsljcHlXYThYM1JX",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/jorgefernandezes.png",
-        "group_name": "brain cipher"
     }
 ]
