@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Devon",
+        "discovered": "2025-07-31 06:50:28.387061",
+        "description": "",
+        "link": "/blog/disclosures/687ff86ec7b82dfe0bb4b86d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Devon.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "eFunda, Inc.",
+        "discovered": "2025-07-31 00:00:09.601818",
+        "description": "\r\nDomain: efunda.com (270+ subdomains)\r\nActive Since: 1999\r\nData Size: ~670 GB (encrypted)\r\nPayment Status: Unpaid (200 XMR requested)\r\nLeak Type: Full database + backups\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/bqtlock/eFunda, Inc.png",
+        "group_name": "bqtlock"
+    },
+    {
+        "post_title": "USA Military Alumni Networks",
+        "discovered": "2025-07-30 23:59:29.428250",
+        "description": "\r\nDomains: isabrd.com, varsityo.com, letterwinner.com, whoglue.net, whoglue.com, whoware.com, mail.usna87.com\r\nActive Since: 2000-\r\nData Size: ~159 GB (encrypted)\r\nPayment Status: unpaid (500 XMR requested)\r\nLeak Type: Full database + backups\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/bqtlock/USA Military Alumni Networks.png",
+        "group_name": "bqtlock"
+    },
+    {
         "post_title": "PDC www.cobranzasbeta.com.co",
         "discovered": "2025-07-30 18:50:14.282150",
         "description": "Promociones y Cobranzas Beta was created in 1987 as a collection unit of the then Banco Superior, which was acquired by\nDavivienda in 2006. Since then, it has established itself as the subsidiary specialized in the collection and financial a            ...",
@@ -79,77 +106,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "blackbyte-crux"
-    },
-    {
-        "post_title": "gimaex.com",
-        "discovered": "2025-07-30 09:53:26.071945",
-        "description": "",
-        "link": "/posts/6888df56c4bd670d163441f3/6888df56c4bd670d163441f3/",
-        "magnet": null,
-        "screen": "screenshots/j group/gimaexcom.png",
-        "group_name": "j group"
-    },
-    {
-        "post_title": "Druni",
-        "discovered": "2025-07-30 05:56:17.880147",
-        "description": "DRUNI offers a wide range of online beauty products including perfumes, makeup, and cosmetics at competitive prices. We are ready to upload over 40 GB of corporate documents. Employee files like DNI and so on, detailed financials, project data, customers information, contracts and agreements with L'oreal, Dior,Channel and others big names.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Hertz Farm Management",
-        "discovered": "2025-07-30 05:56:16.982770",
-        "description": "Hertz Farm Management specializes in professional farm management, land real estate services, and agricultural appraisals.We are going to upload 9 GB of corporate documents. A huge numberof employee personal files (passports, DLs, birth certs and so on), NDAs, detailed financial data, client information, project information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Mount  Vernon Property Management",
-        "discovered": "2025-07-30 05:56:16.084661",
-        "description": "Mount  Vernon Property Management specializes in property management services in Sarasota, offering tailored full-service solutions for landlords and investors. We are going to upload company data soon. You will find inancial data (payment details, financial reports, invoices), A bit of personal files (DLs) and customers data.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Blanco Creek Farms",
-        "discovered": "2025-07-30 05:56:14.847604",
-        "description": "Blanco creek farms is a food & beverages company based out of United States.We are ready to upload more than 24GB of essential corporate documents such as:  financial data (audits, payment details, invoices), employees and customers information (phones, e-mails, addresses, passports, SSNs, DLs and other documents), NDA  etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Built Environment Engineers",
-        "discovered": "2025-07-29 23:29:01.085127",
-        "description": "Built Environment Engineers is a mechanical, electrical, and plumbing consulting...",
-        "link": "/leaks/68892f1388b6823fa2a4e5be",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Built Environment Engineers.png",
-        "group_name": "sinobi"
-    },
-    {
-        "post_title": "Mid West Fabricating",
-        "discovered": "2025-07-29 23:29:00.143989",
-        "description": "Mid West Fabricating Company, Inc. provides special steel fasteners and formed r...",
-        "link": "/leaks/6889316188b6823fa2a4e7b7",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Mid West Fabricating.png",
-        "group_name": "sinobi"
-    },
-    {
-        "post_title": "KMDI",
-        "discovered": "2025-07-29 23:28:59.150889",
-        "description": "KMDI is a leading manufacturer and installer specializing in custom architectura...",
-        "link": "/leaks/688930ec88b6823fa2a4e74b",
-        "magnet": null,
-        "screen": "screenshots/sinobi/KMDI.png",
-        "group_name": "sinobi"
     }
 ]
