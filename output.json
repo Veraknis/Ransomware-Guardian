@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Franklin Pierce Schools",
+        "discovered": "2025-08-01 15:42:35.238880",
+        "description": "Franklin Pierce Schools is a school district located in Tacoma, Washington. It is made up of 15 schools, which include nine elementary schools, two middle schools & four high schools. Franklin Pierce Schools corporate office is located in 315 129th St S, Tacoma, Washington, 98444, United States and has 658 employees. The total amount of data leakage is 821.30 GB",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Franklin Pierce Schools.png",
+        "group_name": "medusa"
+    },
+    {
+        "post_title": "White Coffee Corporation",
+        "discovered": "2025-08-01 15:41:40.550727",
+        "description": "White Coffee Corporation is a family-owned business with over 85 years of experience, specializing in coffee roasting and co-packing services for beverage brands, hospitality providers, and entrepreneurs. White Coffee corporate office is located in 1835 Steinway Pl, Astoria, New York, 11105, United States and has 90 employees. The total amount of data leakage is 88.40 GB",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/White Coffee Corporation.png",
+        "group_name": "medusa"
+    },
+    {
         "post_title": "kw****.tw",
         "discovered": "2025-08-01 02:28:21.889605",
         "description": "1 million USD...200GB exfiled",
@@ -169,23 +187,5 @@
         "magnet": null,
         "screen": "screenshots/everest/Mailchimp.png",
         "group_name": "everest"
-    },
-    {
-        "post_title": "Crumbl - Full leak published",
-        "discovered": "2025-07-31 15:27:30.139854",
-        "description": "",
-        "link": "/news/Crumbl/",
-        "magnet": null,
-        "screen": "screenshots/everest/Crumbl - Full leak published.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "www.afmco.jo",
-        "discovered": "2025-07-31 14:28:53.820365",
-        "description": "ABOUT THE AQABA SPECIAL ECONOMIC ZONE AUTHORITY (ASEZA) The Aqaba Special Economic Zone Authority plays a leading role at the administrative and governmental level in the Hashemite Kingdom of Jordan and applies the principle of good governanc            ...",
-        "link": "/site/view?uuid=d45983e2-cee0-3e1a-9add-07bb3149f403",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwafmcojo.png",
-        "group_name": "qilin"
     }
 ]
