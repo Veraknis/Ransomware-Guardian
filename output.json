@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Onegolditalia.it",
+        "discovered": "2025-08-02 16:28:22.917765",
+        "description": "One Gold Srl was founded in 2000 from twenty years of experience in the gold and silver sector. The company, specialized in the processing of precious and non-precious metals, produces accessories on commission for the customer metals and costume jewellery for the luxury sector, paying meticulous attention attention to all phases of production of semi-finished and finished products and ensuring integration of the entire production chain.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "imn crew"
+    },
+    {
+        "post_title": "Clemens Construction",
+        "discovered": "2025-08-02 15:27:54.486374",
+        "description": "(Banking, insurance, financial, and HR documentation. Audit. Client documentation.) Clemens Construction is a reputable construction firm based in Philadelphia,...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "Pitman Farms",
+        "discovered": "2025-08-02 15:27:53.472554",
+        "description": "(Financial, banking, and audit documentation. Suppliers, clients, mail correspondence, and many more interesting things about how to significantly increase prof...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "Cookeville Regional Medical Center",
+        "discovered": "2025-08-02 12:27:31.422911",
+        "description": "Cookeville Regional Medical Center\nAt Cookeville Regional Medical Center, we are dedicated to providing the highest quality care to our patients and making a positive impact on our community.\n\n\n\nMore",
+        "link": "archive.php?company=201",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Cookeville Regional Medical Center.png",
+        "group_name": "rhysida"
+    },
+    {
         "post_title": "Lincoln Law",
         "discovered": "2025-08-01 23:27:22.938134",
         "description": "Established in 2001 and headquartered in Orem, Utah, Lincoln Law is a law firm t...",
@@ -97,23 +133,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "akira"
-    },
-    {
-        "post_title": "Franklin Pierce Schools",
-        "discovered": "2025-08-01 15:42:35.238880",
-        "description": "Franklin Pierce Schools is a school district located in Tacoma, Washington. It is made up of 15 schools, which include nine elementary schools, two middle schools & four high schools. Franklin Pierce Schools corporate office is located in 315 129th St S, Tacoma, Washington, 98444, United States and has 658 employees. The total amount of data leakage is 821.30 GB",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Franklin Pierce Schools.png",
-        "group_name": "medusa"
-    },
-    {
-        "post_title": "White Coffee Corporation",
-        "discovered": "2025-08-01 15:41:40.550727",
-        "description": "White Coffee Corporation is a family-owned business with over 85 years of experience, specializing in coffee roasting and co-packing services for beverage brands, hospitality providers, and entrepreneurs. White Coffee corporate office is located in 1835 Steinway Pl, Astoria, New York, 11105, United States and has 90 employees. The total amount of data leakage is 88.40 GB",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/White Coffee Corporation.png",
-        "group_name": "medusa"
     }
 ]
