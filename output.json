@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "gid-it.de",
+        "discovered": "2025-08-03 00:28:35.038694",
+        "description": "GID GmbH is a system house operating throughout Germany based in Cologne. As a s...",
+        "link": "/leaks/688e8daccc2d2d4e681f7297",
+        "magnet": null,
+        "screen": "screenshots/lynx/gid-itde.png",
+        "group_name": "lynx"
+    },
+    {
         "post_title": "Onegolditalia.it",
         "discovered": "2025-08-02 16:28:22.917765",
         "description": "One Gold Srl was founded in 2000 from twenty years of experience in the gold and silver sector. The company, specialized in the processing of precious and non-precious metals, produces accessories on commission for the customer metals and costume jewellery for the luxury sector, paying meticulous attention attention to all phases of production of semi-finished and finished products and ensuring integration of the entire production chain.",
@@ -34,23 +43,5 @@
         "magnet": null,
         "screen": "screenshots/rhysida/Cookeville Regional Medical Center.png",
         "group_name": "rhysida"
-    },
-    {
-        "post_title": "Lincoln Law",
-        "discovered": "2025-08-01 23:27:22.938134",
-        "description": "Established in 2001 and headquartered in Orem, Utah, Lincoln Law is a law firm t...",
-        "link": "/leaks/688d23e1cc2d2d4e681abab6",
-        "magnet": null,
-        "screen": "screenshots/lynx/Lincoln Law.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "chamberlainhuckeriede.com",
-        "discovered": "2025-08-01 21:27:55.077130",
-        "description": "",
-        "link": "#chamberlainhuckeriede",
-        "magnet": null,
-        "screen": "screenshots/safepay/chamberlainhuckeriedecom.png",
-        "group_name": "safepay"
     }
 ]
