@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "aym.com.mx",
+        "discovered": "2025-08-05 15:57:44.365482",
+        "description": "",
+        "link": "/posts/6892067b0b175cbc06955a42/6892067b0b175cbc06955a42/",
+        "magnet": null,
+        "screen": "screenshots/j group/aymcommx.png",
+        "group_name": "j group"
+    },
+    {
+        "post_title": "Newton Electrical Contractors",
+        "discovered": "2025-08-05 15:57:41.050400",
+        "description": "High profile NICEIC Approved Electrical Contractors based in Harrogate and Ripon. We pride ourselves on our quality workmanship within our local family run busi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "Origene",
+        "discovered": "2025-08-05 13:57:59.812650",
+        "description": "",
+        "link": "/companies/1742838557",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Origene.png",
+        "group_name": "worldleaks"
+    },
+    {
         "post_title": "ruff.com.br",
         "discovered": "2025-08-05 00:55:30.569397",
         "description": "1 million USD...220GB exfiled",
@@ -124,50 +151,5 @@
         "magnet": null,
         "screen": "screenshots/brain cipher/bw-lvde.png",
         "group_name": "brain cipher"
-    },
-    {
-        "post_title": "K2L",
-        "discovered": "2025-08-04 15:53:45.218489",
-        "description": "Die Digitalisierung schreitet mit Riesenschritten voran. Seit unserer Gr\u00fcndung im Jahr 2003 beraten wir stets  auf dem neuesten technischen Stand und unterst\u00fctz...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Wedlich",
-        "discovered": "2025-08-04 15:53:44.309705",
-        "description": "WEDLICH. Immobilien & Projektentwicklung war bis 2023 ein Fullservice-Logistiker mit Hauptsitz in Bayreuth. Unser Unternehmen bietet seit 2024 bundesweit zuverl...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Koenig Hausverwaltung",
-        "discovered": "2025-08-04 15:53:43.323577",
-        "description": "Seit mehr als 30 Jahren besch\u00e4ftigen wir uns zuverl\u00e4ssig, kompetent und mit gro\u00dfem Engagement mit der Verwaltung",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Seoul Guarantee Insurance | 13.2T pure compressed oracle database",
-        "discovered": "2025-08-04 11:55:09.862283",
-        "description": "Seoul Guarantee Insurance | 13.2T pure compressed oracle database",
-        "link": "/#",
-        "magnet": null,
-        "screen": "screenshots/gunra/Seoul Guarantee Insurance | 132T pure compressed oracle database.png",
-        "group_name": "gunra"
-    },
-    {
-        "post_title": "SEGUROS AM\u00c9RICA | 1 Million customer data",
-        "discovered": "2025-08-04 10:55:16.558910",
-        "description": "SEGUROS AM\u00c9RICA | 1 Million customer data",
-        "link": "/SEGUROS AM\u00c9RICA",
-        "magnet": null,
-        "screen": "screenshots/gunra/SEGUROS AM\u00c9RICA | 1 Million customer data.png",
-        "group_name": "gunra"
     }
 ]
