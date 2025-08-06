@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "Afpa",
+        "discovered": "2025-08-06 20:27:53.534820",
+        "description": "",
+        "link": "/blog/disclosures/68938d1dc7b82dfe0b10065d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Afpa.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "BRUNTON-SHAW.COM",
+        "discovered": "2025-08-06 19:28:24.386689",
+        "description": "",
+        "link": "/news/bruntonshaw/",
+        "magnet": null,
+        "screen": "screenshots/everest/BRUNTON-SHAWCOM.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Budinger&Associates",
+        "discovered": "2025-08-06 19:28:08.648691",
+        "description": "",
+        "link": "Budinger&Associates/",
+        "magnet": null,
+        "screen": "screenshots/qilin-securotrop/Budinger&Associates.png",
+        "group_name": "qilin-securotrop"
+    },
+    {
+        "post_title": "Kengen",
+        "discovered": "2025-08-06 19:28:06.617887",
+        "description": "Kenya Electricity Generating Company abbreviated to KenGen, is a government enterprise in the Republic of Kenya charged with the production of electricity for the country  and around East Africa. KenGen is the largest electric power producer             ...",
+        "link": "/site/view?uuid=a44799a2-c39d-33d0-abe2-0a0ead0ca3e8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kengen.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ferrocortes",
+        "discovered": "2025-08-06 19:28:05.689044",
+        "description": "Ferrocortes S.A.S is a leader in high-quality steel solutions for heavy machinery and hardware from Colombia. The company provides customized steel products such as sheets and profiles, catering to various industrial sectors including mining,            ...",
+        "link": "/site/view?uuid=a57889b8-433d-3676-b24a-f0d2ba705761",
+        "magnet": null,
+        "screen": "screenshots/qilin/ferrocortes.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "MGM Transformer",
+        "discovered": "2025-08-06 19:28:03.839697",
+        "description": "MGM Transformers specializes in manufacturing a wide range of transformers, including medium voltage dry type, oil-filled, and custom-designed options, serving various sectors such as data centers, renewables, commercial industrial, and utilitiesWe are ready to upload more than 60GB files of essential corporate documents such as: financial data (audits, payment details, financial reports, invoices), employees and customers information (medical information, passports, driver's license, SSNs, DLs and other documents), confidential information, NDA and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "brunton-shaw.com",
+        "discovered": "2025-08-06 18:28:33.627981",
+        "description": "",
+        "link": "/news//",
+        "magnet": null,
+        "screen": "screenshots/everest/brunton-shawcom.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "F&P Georgia Mfg Inc",
+        "discovered": "2025-08-06 17:28:39.409643",
+        "description": "Tier-1 supplier of suspension components to the automotive industry.",
+        "link": "/posts/689365fac30ad6f553fe6911",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/F&P Georgia Mfg Inc.png",
+        "group_name": "nitrogen"
+    },
+    {
+        "post_title": "Diversified Project Services International",
+        "discovered": "2025-08-06 17:28:36.045472",
+        "description": "Diversified Project Services International, Inc. (DPSI) is a leader in engineering, geomatics (surveying), planning, permitting, inspection, energy management a...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
         "post_title": "TANI & ABE www.taniabe.co.jp",
         "discovered": "2025-08-06 16:07:50.451401",
         "description": "TANI & ABE is a patent and trademark law firm established in 1977 and headquartered in Tokyo, Japan.\r\nRevenue: 5000000\r\nCategory: Law Firms & Legal Services\r\nIn Stock: 0 files\r\nData Size:\r\nLast Updated: 7/27/2025, 1:44:51 PM",
@@ -348,41 +429,5 @@
         "magnet": null,
         "screen": "screenshots/direwolf/Kingsford Development & LEADBUILD Construction Pte Ltd.png",
         "group_name": "direwolf"
-    },
-    {
-        "post_title": "Carrollton Ear Nose and Throat",
-        "discovered": "2025-08-05 20:38:56.041089",
-        "description": "",
-        "link": "/blog/disclosures/688bdec3c7b82dfe0b97ff72",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Carrollton Ear Nose and Throat.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "melland.bright-futures.co.uk",
-        "discovered": "2025-08-05 19:53:07.092309",
-        "description": "Melland High School",
-        "link": "/detail?code=melland-bright-futures-co-uk-uk-666gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/mellandbright-futurescouk.png",
-        "group_name": "kairos"
-    },
-    {
-        "post_title": "kixat.com",
-        "discovered": "2025-08-05 17:57:31.360301",
-        "description": "$13M\r\n\r\nKixat is a shopping platform that offers a personalized way for customers to shop. It aims to enhance the shopping experience by providing tailored options to meet individual preferences. The company targets a diverse clientele looking for a customized shopping adventure. With an emphasis on convenience and customer satisfaction, ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/ransomedvc2/kixatcom.png",
-        "group_name": "ransomedvc2"
-    },
-    {
-        "post_title": "ppmrecruit.com",
-        "discovered": "2025-08-05 16:56:40.714407",
-        "description": "",
-        "link": "/posts/68920d4f0b175cbc06955b7a/68920d4f0b175cbc06955b7a/",
-        "magnet": null,
-        "screen": "screenshots/j group/ppmrecruitcom.png",
-        "group_name": "j group"
     }
 ]
