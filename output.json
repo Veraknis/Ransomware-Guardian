@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Pacific HealthWorks",
+        "discovered": "2025-08-08 11:53:07.060767",
+        "description": "",
+        "link": "/news/Pacific/",
+        "magnet": null,
+        "screen": "screenshots/everest/Pacific HealthWorks.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "La Perouse",
+        "discovered": "2025-08-08 11:53:06.076343",
+        "description": "",
+        "link": "/news//",
+        "magnet": null,
+        "screen": "screenshots/everest/La Perouse.png",
+        "group_name": "everest"
+    },
+    {
         "post_title": "multichem.net",
         "discovered": "2025-08-08 09:54:47.906986",
         "description": "",
@@ -232,77 +250,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/azurewavecom.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Prime Beverage Group",
-        "discovered": "2025-08-07 16:27:54.622422",
-        "description": "",
-        "link": "/companies/5414479604",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Prime Beverage Group.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "The Gisborne Group",
-        "discovered": "2025-08-07 16:27:53.691869",
-        "description": "",
-        "link": "/companies/0602516211",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/The Gisborne Group.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Neway Valve",
-        "discovered": "2025-08-07 16:27:52.705242",
-        "description": "",
-        "link": "/companies/9195577978",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Neway Valve.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "BRIDGEWATER ASSOCIATES",
-        "discovered": "2025-08-07 14:31:13.664093",
-        "description": "https://www.bridgewater.com Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors. Our investment process is driven by a tireless pursuit to understand how the world\u2019s markets and economies\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=273",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/BRIDGEWATER ASSOCIATES.png",
-        "group_name": "d4rk4rmy"
-    },
-    {
-        "post_title": "MAGELLAN FINANCIAL GROUP",
-        "discovered": "2025-08-07 14:31:12.710489",
-        "description": "https://www.magellangroup.com.au Founded in 2006 and headquartered in Australia, an active asset manager specializing in global equity and infrastructure strategies. they search the world for high-quality companies that we believe have a sustainable competitive advantage and will compound returns over the\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=271",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/MAGELLAN FINANCIAL GROUP.png",
-        "group_name": "d4rk4rmy"
-    },
-    {
-        "post_title": "ONEX CANADA ASSET MANAGEMENT INC",
-        "discovered": "2025-08-07 14:31:11.806300",
-        "description": "https://onex.com Onex Partners is a private equity platform focused on the upper-middle market in the United States, Canada, and Europe. Our successful track record is built on deep sector specialization and a disciplined, hands-on approach to private equity investing. they\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=274",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/ONEX CANADA ASSET MANAGEMENT INC.png",
-        "group_name": "d4rk4rmy"
-    },
-    {
-        "post_title": "TSAI CAPITAL",
-        "discovered": "2025-08-07 14:31:10.906173",
-        "description": "https://tsaicapital.com Tsai Capital\u2122 is an investment management firm focused on the preservation and long-term growth of capital on behalf of select families and organizations. With more than two decades of experience, and as a third-generation investor whose financial roots date\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=272",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/TSAI CAPITAL.png",
-        "group_name": "d4rk4rmy"
-    },
-    {
-        "post_title": "MIZUHA FINANCIAL GROUP",
-        "discovered": "2025-08-07 14:31:09.896092",
-        "description": "https://www.mizuhogroup.com In 2002, Dai\u2013Ichi Kangyo Bank, Fuji Bank, and the Industrial Bank of Japan merged to form the Mizuho Financial Group. Since then, Mizuho has developed an extensive network in Asia and the rest of the world through a consistent\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=270",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/MIZUHA FINANCIAL GROUP.png",
-        "group_name": "d4rk4rmy"
     }
 ]
