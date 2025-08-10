@@ -61,32 +61,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "bqtlock"
-    },
-    {
-        "post_title": "NEAS",
-        "discovered": "2025-08-09 20:27:20.814501",
-        "description": "",
-        "link": "topic.php?id=p0YuZmFNowijo",
-        "magnet": null,
-        "screen": "screenshots/play/NEAS.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "RHI Supply",
-        "discovered": "2025-08-09 20:27:19.876250",
-        "description": "",
-        "link": "topic.php?id=xm2zSDYx2GfpDn",
-        "magnet": null,
-        "screen": "screenshots/play/RHI Supply.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "CFI Tire Service",
-        "discovered": "2025-08-09 20:27:18.535709",
-        "description": "",
-        "link": "topic.php?id=GlOA4swyFHMRe7",
-        "magnet": null,
-        "screen": "screenshots/play/CFI Tire Service.png",
-        "group_name": "play"
     }
 ]
