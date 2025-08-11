@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Alascom",
+        "discovered": "2025-08-10 21:27:42.251629",
+        "description": "Alascom\nIt has been operating for over 20 years as a system integrator and supplier of technical consulting services in the ICT and industrial automation sector with a fundamental knowledge of telecommunication networks and IP technologies.\n\n\n\nMore",
+        "link": "archive.php?company=202",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Alascom.png",
+        "group_name": "rhysida"
+    },
+    {
         "post_title": "Howard Financial & Associates",
         "discovered": "2025-08-10 14:28:10.094065",
         "description": "",
@@ -52,14 +61,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/formacompany.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "European Business Server Cluster",
-        "discovered": "2025-08-09 23:27:43.747515",
-        "description": "Domains:\n\nwww.bizoneo.com\nwww.bizosoft.eu\nmeeting.wandsoft.com\ndataprotectionact.ie\nbizoneo.com\nwww.bizoneo.eu\nwww.bizoneo-membership.eu\nwww.tourguides.ie\nbizoneo-membership.eu\ncleanrooms-ireland.ie\nwww.cleanrooms-ireland.ie\nmembers.tourguides.ie\n+138 more\n\n\n\nActive Since:\n2005-\n\n\nData Size:\nShown in video\n\n\nPayment Status:\nUnpaid (private XMR requested)\n\n\nEncrypted Type:\nFull computer and database backups",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "bqtlock"
     }
 ]
