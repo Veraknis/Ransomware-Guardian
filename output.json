@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Louis Tieu DDS MD",
+        "discovered": "2025-08-11 15:27:47.435994",
+        "description": "",
+        "link": "/blog/disclosures/6899c53ac7b82dfe0b7dd41a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Louis Tieu DDS MD.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "Alascom",
         "discovered": "2025-08-10 21:27:42.251629",
         "description": "Alascom\nIt has been operating for over 20 years as a system integrator and supplier of technical consulting services in the ICT and industrial automation sector with a fundamental knowledge of telecommunication networks and IP technologies.\n\n\n\nMore",
@@ -7,59 +16,5 @@
         "magnet": null,
         "screen": "screenshots/rhysida/Alascom.png",
         "group_name": "rhysida"
-    },
-    {
-        "post_title": "Howard Financial & Associates",
-        "discovered": "2025-08-10 14:28:10.094065",
-        "description": "",
-        "link": "/blog/disclosures/6898811ec7b82dfe0b66967e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Howard Financial & Associates.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "L3Harris Technologies",
-        "discovered": "2025-08-10 13:27:37.487247",
-        "description": "",
-        "link": "/companies/6950310213",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/L3Harris Technologies.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "St Thomas More Catholic High School",
-        "discovered": "2025-08-10 12:28:37.349325",
-        "description": "St. Thomas More Catholic High School is one of the most famous and prestigious schools in Louisiana, USA. Every child in Lafayette wants to study here, and parents are willing to pay a lot to get their child into this elite environment. On th            ...",
-        "link": "/site/view?uuid=a731f219-57d1-30ca-bed2-6bf08160f8b4",
-        "magnet": null,
-        "screen": "screenshots/qilin/St Thomas More Catholic High School.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "getech.com",
-        "discovered": "2025-08-10 12:28:36.426789",
-        "description": "Getech applies world-leading geoscience data and unique geospatial software products to locate the subsurface resources that are vital for energy security and a sustainable transition. It has offices in the UK, USA and operates worldwide. And            ...",
-        "link": "/site/view?uuid=96003626-d05b-395e-aa98-448f999cdec0",
-        "magnet": null,
-        "screen": "screenshots/qilin/getechcom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "jtekt.eu",
-        "discovered": "2025-08-10 12:28:35.502884",
-        "description": "JTEKT Corporation manufactures and sells steering systems, transmission components, bearings, machine tools, electronic control devices, home appliances, etc. It has its headquarters in Japan and offices in Europe, North America, Asia, Oceani            ...",
-        "link": "/site/view?uuid=41e6c6be-5769-3bbb-b7e9-35c949a52950",
-        "magnet": null,
-        "screen": "screenshots/qilin/jtekteu.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "formacompany",
-        "discovered": "2025-08-10 12:28:34.495823",
-        "description": "Formacompany & Co is a company that operates a gray business money laundering scheme. They declare that: \"Our staff have experience in incorporating companies worldwide including Europe and tax efficient Offshore Jurisdictions. We have expand            ...",
-        "link": "/site/view?uuid=aefe86f4-cd79-33f7-af3d-88239d965743",
-        "magnet": null,
-        "screen": "screenshots/qilin/formacompany.png",
-        "group_name": "qilin"
     }
 ]
