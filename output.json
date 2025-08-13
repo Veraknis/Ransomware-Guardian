@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Charak Center for Health",
+        "discovered": "2025-08-13 17:29:10.204777",
+        "description": "Charak Health and Wellness Center, USA: an organization providing mental health services and treatment for alcoholism and drug addiction. The widest range of psychiatric services in northeastern Ohio. The publication of internal company data             ...",
+        "link": "/site/view?uuid=049c3bd7-9dba-3842-8a64-7ad990e375a0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Charak Center for Health.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ffs.com",
+        "discovered": "2025-08-13 17:29:09.176250",
+        "description": "Flavor & Fragrance Specialties is now a Lucta brand specializing in flavorings for coffee and other beverages. Our dedicated teams in the US will continue to provide unique market insights and customized flavor and fragrance solutions for our            ...",
+        "link": "/site/view?uuid=a22d710d-a647-391e-9b3d-6c2f9c8a2753",
+        "magnet": null,
+        "screen": "screenshots/qilin/ffscom.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Ahtna Incorporated",
         "discovered": "2025-08-13 14:41:43.518528",
         "description": "Ahtna Inc., provides construction and integrated services. The company is headquartered in Glennallen, Alaska. Ahtna, Incorporated is Alaska Native Regional Corporations established by Congress under terms of the Alaska Native Claims Settleme            ...",
@@ -96,33 +114,6 @@
         "link": "/site/view?uuid=1fb0e044-ccd5-394a-9501-2d7c6a497e57",
         "magnet": null,
         "screen": "screenshots/qilin/venturecreditunioncom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Haeger & Schmidt Logistics",
-        "discovered": "2025-08-12 18:58:57.995557",
-        "description": "Haeger & Schmidt Logistics is a German transport and logistics company that has been operating in the cargo transportation market since 1887. We do not know what exactly this company transported for the Nazis. Much more is known about the com            ...",
-        "link": "/site/view?uuid=9458ba25-3631-3cb8-a621-7bf5919bbe72",
-        "magnet": null,
-        "screen": "screenshots/qilin/Haeger & Schmidt Logistics.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Epperson Law Group",
-        "discovered": "2025-08-12 17:58:42.470400",
-        "description": "https://www.epplaw.com\n\t\t\t\t\t\t\t\t\tThe law firm called \"Epperson Law Group\" paid with their safety and the safety of their clients, because they were negligent and indifferent to their safety! Many people's data was compromised, and the work in the system was completely broken!",
-        "link": "http://dnyyuk3nevegj37tnv3xav57c5twomc7uqsfbjlkwto3p4spzfop47qd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Epperson Law Group.png",
-        "group_name": "interlock"
-    },
-    {
-        "post_title": "Assisted Living Pharmacy Service LLC",
-        "discovered": "2025-08-12 16:57:16.947307",
-        "description": "Assisted Living Pharmacy Service LLC operates in the field of providing medicines and assistance in selecting medications in WL, USA. The company states that \u201cOur mission is to provide the best services in the industry at the highest level             ...",
-        "link": "/site/view?uuid=4b92c5b4-7247-3ea9-8c06-195811785aae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Assisted Living Pharmacy Service LLC.png",
         "group_name": "qilin"
     }
 ]
