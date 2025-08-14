@@ -115,23 +115,5 @@
         "magnet": null,
         "screen": "screenshots/anubis/Advanced HPC.png",
         "group_name": "anubis"
-    },
-    {
-        "post_title": "Charak Center for Health",
-        "discovered": "2025-08-13 17:29:10.204777",
-        "description": "Charak Health and Wellness Center, USA: an organization providing mental health services and treatment for alcoholism and drug addiction. The widest range of psychiatric services in northeastern Ohio. The publication of internal company data             ...",
-        "link": "/site/view?uuid=049c3bd7-9dba-3842-8a64-7ad990e375a0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Charak Center for Health.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "ffs.com",
-        "discovered": "2025-08-13 17:29:09.176250",
-        "description": "Flavor & Fragrance Specialties is now a Lucta brand specializing in flavorings for coffee and other beverages. Our dedicated teams in the US will continue to provide unique market insights and customized flavor and fragrance solutions for our            ...",
-        "link": "/site/view?uuid=a22d710d-a647-391e-9b3d-6c2f9c8a2753",
-        "magnet": null,
-        "screen": "screenshots/qilin/ffscom.png",
-        "group_name": "qilin"
     }
 ]
