@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Avv Emilio Marco Casali",
+        "discovered": "2025-08-14 16:27:31.996571",
+        "description": "",
+        "link": "articles/avvocatocasali.html",
+        "magnet": null,
+        "screen": "screenshots/direwolf/Avv Emilio Marco Casali.png",
+        "group_name": "direwolf"
+    },
+    {
+        "post_title": "Immigration Advice Service",
+        "discovered": "2025-08-14 16:27:31.069087",
+        "description": "",
+        "link": "articles/iasservices.org.uk.html",
+        "magnet": null,
+        "screen": "screenshots/direwolf/Immigration Advice Service.png",
+        "group_name": "direwolf"
+    },
+    {
+        "post_title": "ksubsea-group",
+        "discovered": "2025-08-14 16:27:30.088468",
+        "description": "",
+        "link": "articles/K_Subsea.html",
+        "magnet": null,
+        "screen": "screenshots/direwolf/ksubsea-group.png",
+        "group_name": "direwolf"
+    },
+    {
+        "post_title": "smefazur.fr",
+        "discovered": "2025-08-14 15:28:12.878782",
+        "description": "SMEF AZUR, France, is a company operating in the field of climate engineering. The company deals with all technical aspects of construction: refrigeration, air conditioning, and multi-functional services. This means it has detailed drawings a            ...",
+        "link": "/site/view?uuid=930b755d-f48d-3f47-a4d5-1d1e0f1aff6d",
+        "magnet": null,
+        "screen": "screenshots/qilin/smefazurfr.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Manhattan Retirement Foundation",
         "discovered": "2025-08-14 09:28:44.455984",
         "description": "Continuing Care Retirement Community in Manhattan Kansas serving Manhattan and the surrounding communities providing Independent Living, Assisted LIving, Healthcare and Transitional Care services.",
@@ -96,15 +132,6 @@
         "link": "/site/view?uuid=a22d710d-a647-391e-9b3d-6c2f9c8a2753",
         "magnet": null,
         "screen": "screenshots/qilin/ffscom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Ahtna Incorporated",
-        "discovered": "2025-08-13 14:41:43.518528",
-        "description": "Ahtna Inc., provides construction and integrated services. The company is headquartered in Glennallen, Alaska. Ahtna, Incorporated is Alaska Native Regional Corporations established by Congress under terms of the Alaska Native Claims Settleme            ...",
-        "link": "/site/view?uuid=64872037-b7d8-3761-b516-9fd362c2c292",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ahtna Incorporated.png",
         "group_name": "qilin"
     }
 ]
