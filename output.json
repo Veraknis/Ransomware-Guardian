@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "eurofins",
+        "discovered": "2025-08-17 15:03:26.784653",
+        "description": "\u200b\u200b",
+        "link": "eurofins",
+        "magnet": null,
+        "screen": "screenshots/nova/eurofins.png",
+        "group_name": "nova"
+    },
+    {
+        "post_title": "Rehabilitative Health Svc",
+        "discovered": "2025-08-17 11:55:06.761598",
+        "description": "Rehabilitative Health Services (RHS) is a comprehensive medical and mental health facility located in Ammon, ID, offering a diverse array of services including Addiction and Recovery, Family Medicine, Therapy, Counseling, and Psychological Testing. Established to provide quality therapy options, RHS aims to help clients overcome past trauma and navigate various mental health challenges through professional counseling and support services. With over 25 years in the community, RHS is dedicated to addressing both the physical and mental well-being of clients from childhood to adulthood. The facility also emphasizes community support and operates programs specifically designed for youth and individuals with severe mental illnesses",
+        "link": "/card/rehabilitative_health_svc",
+        "magnet": null,
+        "screen": "screenshots/beast/Rehabilitative Health Svc.png",
+        "group_name": "beast"
+    },
+    {
         "post_title": "Panorama",
         "discovered": "2025-08-17 08:31:49.405899",
         "description": "Acquiring goods in Israel is a complex stain which requires professional expertise in the property sector by perfectly understanding the local market and the laws governing the country.That is why our agents will advise you in your research of real estates, by taking our criteria into account, your budget and your personal situation. We will answer and even anticipate all financial, lawful and legislative questions linked to the acquisition of your good. Wherever you are in Israel or abroad, our agent will assist you and offer you current property. They will also stay in permanent relation with you up to handing over the keys. Our site Panorama www.panorama1.net allows you to consult real-time announcements, to choose the type of property you are looking for and to ask us questions.- Database- Financial documents- Personal information of employees and clients\nhttps://panorama1.net/index.php?language=2",
@@ -25,41 +43,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "warlock"
-    },
-    {
-        "post_title": "Hytrol",
-        "discovered": "2025-08-16 16:28:07.977781",
-        "description": "Hytrol Conveyor Company, Inc. was founded in 1947. The Company's line of business includes manufacturing conveyors and conveying equipment. The company is headquartered in Jonesboro, ArkansasWe are ready to upload more than 20GB files of essential corporate documents such as: financial data (audit, payment details,financial reports, invoices), employees and customers (and even relatives) information (Social Security Card, death certificate, medical information) and other documents with detailed personal information so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "CMS Legal Services EEIG",
-        "discovered": "2025-08-16 11:27:48.197705",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24"
-    },
-    {
-        "post_title": "THE MILLENNIUM GROUP",
-        "discovered": "2025-08-16 10:27:27.961838",
-        "description": "https://www.tmgofficeservices.com The Millennium Group (TMG) is a global provider of document management and workplace services with more than 40 years of operations. TMG is certified as a Minority Business Enterprise (MBE) and a Woman-Owned Business Enterprise (WBE). The company operates\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=308",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/THE MILLENNIUM GROUP.png",
-        "group_name": "d4rk4rmy"
-    },
-    {
-        "post_title": "VINSON & ELKINS LLP",
-        "discovered": "2025-08-16 10:27:26.924594",
-        "description": "https://www.velaw.com Vinson & Elkins is a century-strong global law firm that partners with leading companies across key industries on wide\u2011ranging, complex matters. Blending deep experience with forward\u2011thinking counsel and close client collaboration, the firm helps organizations pursue goals and navigate\u2026",
-        "link": "http://d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd.onion/?p=307",
-        "magnet": null,
-        "screen": "screenshots/d4rk4rmy/VINSON & ELKINS LLP.png",
-        "group_name": "d4rk4rmy"
     }
 ]
