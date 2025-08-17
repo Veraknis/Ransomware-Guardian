@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Clinical Diagnosis",
+        "discovered": "2025-08-17 17:01:04.702144",
+        "description": "The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic\u200b\u200b",
+        "link": "Eurofins",
+        "magnet": null,
+        "screen": "screenshots/nova/Clinical Diagnosis.png",
+        "group_name": "nova"
+    },
+    {
         "post_title": "eurofins",
         "discovered": "2025-08-17 15:03:26.784653",
         "description": "\u200b\u200b",
@@ -34,14 +43,5 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/mycpaconnectioncom.png",
         "group_name": "inc ransom"
-    },
-    {
-        "post_title": "hitachi-hta.com",
-        "discovered": "2025-08-16 17:27:46.434895",
-        "description": "all data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock"
     }
 ]
