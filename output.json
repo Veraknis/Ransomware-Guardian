@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Advanced Security Systems",
+        "discovered": "2025-08-18 14:28:01.430721",
+        "description": "Advanced Security Systems has been a leader in the security industry for over 45...",
+        "link": "/leaks/689cf59888b6823fa2af35c3",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Advanced Security Systems.png",
+        "group_name": "sinobi"
+    },
+    {
+        "post_title": "IQgistics",
+        "discovered": "2025-08-18 10:28:04.817806",
+        "description": "IQgistics offers innovative GPS fleet tracking solutions designed to enhance logistics management for businesses of all sizes. Their comprehensive suite includes advanced tracking software and cellular products, providing tailored solutions that optimize fleet productivity and reduce operational costs. Utilizing cutting-edge technology, including AI-driven algorithms, IQgistics empowers clients to gain actionable insights and control over their logistics. With a dedicated support team, they ensure clients can focus on their core business while benefiting from scalable and flexible platform solutions.",
+        "link": "/card/iqgistics",
+        "magnet": null,
+        "screen": "screenshots/beast/IQgistics.png",
+        "group_name": "beast"
+    },
+    {
+        "post_title": "Escauto Centro Automotivo",
+        "discovered": "2025-08-18 10:28:03.185237",
+        "description": "Escauto Centro Automotivo is a company that operates in the Automobile Parts Stores industry. It employs 5to9 people and has 500Kto1M of revenue. The company is headquartered in Varzea Grande, Mato Grosso, Brazil.",
+        "link": "/card/escauto_centro_automotivo",
+        "magnet": null,
+        "screen": "screenshots/beast/Escauto Centro Automotivo.png",
+        "group_name": "beast"
+    },
+    {
         "post_title": "International Freight & Commerce",
         "discovered": "2025-08-18 07:27:43.184046",
         "description": "",
@@ -196,23 +223,5 @@
         "magnet": null,
         "screen": "screenshots/nova/Clinical Diagnosis.png",
         "group_name": "nova"
-    },
-    {
-        "post_title": "eurofins",
-        "discovered": "2025-08-17 15:03:26.784653",
-        "description": "\u200b\u200b",
-        "link": "eurofins",
-        "magnet": null,
-        "screen": "screenshots/nova/eurofins.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "Rehabilitative Health Svc",
-        "discovered": "2025-08-17 11:55:06.761598",
-        "description": "Rehabilitative Health Services (RHS) is a comprehensive medical and mental health facility located in Ammon, ID, offering a diverse array of services including Addiction and Recovery, Family Medicine, Therapy, Counseling, and Psychological Testing. Established to provide quality therapy options, RHS aims to help clients overcome past trauma and navigate various mental health challenges through professional counseling and support services. With over 25 years in the community, RHS is dedicated to addressing both the physical and mental well-being of clients from childhood to adulthood. The facility also emphasizes community support and operates programs specifically designed for youth and individuals with severe mental illnesses",
-        "link": "/card/rehabilitative_health_svc",
-        "magnet": null,
-        "screen": "screenshots/beast/Rehabilitative Health Svc.png",
-        "group_name": "beast"
     }
 ]
