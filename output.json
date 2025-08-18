@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "Atlas Transfer & Storage",
+        "discovered": "2025-08-18 20:44:07.161883",
+        "description": "Atlas Transfer & Storage not only handles residential and commercial relocations, but we also provide premier storage solutions. We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, financial reports, invoices), employees and customers information: driver's license and a bit of personal files and customers data.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "infoniqa.com",
+        "discovered": "2025-08-18 19:59:44.007314",
+        "description": "165g data, including internal documents, financial documents, employee information, CRM database, HR database, SaaS database",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "warlock"
+    },
+    {
+        "post_title": "Uganda Electricity Transmission Company Limited",
+        "discovered": "2025-08-18 19:59:41.742095",
+        "description": "Uganda Electricity Transmission Company Limited organizes the delivery of electricity within the country and to nearby countries. the company actively cooperates with other countries such as the USA. UETCL buys technology and equipment from t            ...",
+        "link": "/site/view?uuid=e086b35d-3b27-34ef-bbb3-2e22f197f1ce",
+        "magnet": null,
+        "screen": "screenshots/qilin/Uganda Electricity Transmission Company Limited.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "apderm.com",
+        "discovered": "2025-08-18 19:59:40.722684",
+        "description": "APDerm is the largest physician-owned dermatology clinic in New England, with 25 locations in New Hampshire, Massachusetts, and Rhode Island. The company offers a full range of innovative medical, surgical, and cosmetic procedures to help pat            ...",
+        "link": "/site/view?uuid=3fa9668d-b5c3-3e86-9560-ec9b4d80e6aa",
+        "magnet": null,
+        "screen": "screenshots/qilin/apdermcom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Palmgold Management Sdn Bhd",
+        "discovered": "2025-08-18 18:24:22.844140",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24"
+    },
+    {
         "post_title": "Advanced Security Systems",
         "discovered": "2025-08-18 14:28:01.430721",
         "description": "Advanced Security Systems has been a leader in the security industry for over 45...",
@@ -214,14 +259,5 @@
         "magnet": null,
         "screen": "screenshots/everest/Matiss.png",
         "group_name": "everest"
-    },
-    {
-        "post_title": "Clinical Diagnosis",
-        "discovered": "2025-08-17 17:01:04.702144",
-        "description": "The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic\u200b\u200b",
-        "link": "Eurofins",
-        "magnet": null,
-        "screen": "screenshots/nova/Clinical Diagnosis.png",
-        "group_name": "nova"
     }
 ]
