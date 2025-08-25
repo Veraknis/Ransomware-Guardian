@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "airfastindonesia.com",
+        "discovered": "2025-08-25 19:28:45.473165",
+        "description": "all user data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "warlock"
+    },
+    {
+        "post_title": "Van Hook Dental Studio",
+        "discovered": "2025-08-25 18:27:45.410546",
+        "description": "Van Hook Dental Studio is a privately-owned dental laboratory that serves as an extension to dental practices. With 40 years of experience, they offer a range of products including fixed, removable, and implant restorations. Their services encompass custom shades, imaging, clinical advising, and on-site assistance. All products are FDA cleared and manufactured in the U.S.A.",
+        "link": "/card/van_hook_dental_studio",
+        "magnet": null,
+        "screen": "screenshots/beast/Van Hook Dental Studio.png",
+        "group_name": "beast"
+    },
+    {
+        "post_title": "nrlassoc.com",
+        "discovered": "2025-08-25 17:27:23.743397",
+        "description": "NRL Associates, Inc. USA. The company manufactures machine tooled parts for a variety of customers. 10 years ago, the company significantly expanded and moved into a new 55,000 square foot state-of-the-art facility. They now have the most mod            ...",
+        "link": "/site/view?uuid=144a0ed2-bda0-33f2-b513-16187b45cfd2",
+        "magnet": null,
+        "screen": "screenshots/qilin/nrlassoccom.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Exel Composites",
         "discovered": "2025-08-25 16:28:08.227947",
         "description": "",
