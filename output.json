@@ -1,5 +1,23 @@
 [
     {
+        "post_title": "Firelands Scientific",
+        "discovered": "2025-08-28 19:28:11.725147",
+        "description": "Firelands Scientific\nFirelands Scientific is an Ohio-based cannabis company that combines the best of nature, science and technology to provide customers and patients with a range of cannabis products to meet their needs.\n\n\n\nMore",
+        "link": "archive.php?company=206",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Firelands Scientific.png",
+        "group_name": "rhysida"
+    },
+    {
+        "post_title": "summitcollege.edu/USA/370GB",
+        "discovered": "2025-08-28 17:27:57.046531",
+        "description": "Summit College",
+        "link": "/detail?code=summitcollege-edu-usa-370gb",
+        "magnet": null,
+        "screen": "screenshots/kairos/summitcollegeeduUSA370GB.png",
+        "group_name": "kairos"
+    },
+    {
         "post_title": "Acon Labs has been fully leaked!",
         "discovered": "2025-08-28 15:27:14.195614",
         "description": "Full Data weight: 543GB \n#DataLeak #Breached",
@@ -61,50 +79,5 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/climaxportablecom.png",
         "group_name": "inc ransom"
-    },
-    {
-        "post_title": "allmaxnutrition.com",
-        "discovered": "2025-08-27 18:27:17.153802",
-        "description": "",
-        "link": "/blog/disclosures/68af2572c7b82dfe0be94412",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/allmaxnutritioncom.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "The Smile Spa",
-        "discovered": "2025-08-27 17:27:36.922562",
-        "description": "At the Smile Spa in Baton Rouge, LA, Dr. Aimee Russo-Mounger provides a variety of dental and spa services. Schedule a dentist appointment or fun spa day.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Grupo DIRIA",
-        "discovered": "2025-08-27 17:27:35.965930",
-        "description": "Grupo Diria is a provider of luxury accommodation in Tamarindo Beach, Costa Rica, offering a range of hotels and resorts. The company is committed to respecting...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "ZCORP",
-        "discovered": "2025-08-27 17:27:34.072718",
-        "description": "ZCORP\nZCORP is a technology enterprise based in Princeton, NJ, specializing in providing innovative products, services, and tools to help clients navigate the challenges of a rapidly evolving marketplace.\n\n\n\nMore",
-        "link": "archive.php?company=205",
-        "magnet": null,
-        "screen": "screenshots/rhysida/ZCORP.png",
-        "group_name": "rhysida"
-    },
-    {
-        "post_title": "Dance Brothers",
-        "discovered": "2025-08-27 17:27:32.863277",
-        "description": "Dance Brothers, Inc. is a full service cast-in-place concrete contractor that sp...",
-        "link": "/leaks/68972bb688b6823fa2ab5b8d",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Dance Brothers.png",
-        "group_name": "sinobi"
     }
 ]
