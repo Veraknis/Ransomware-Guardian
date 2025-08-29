@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "M... A...",
+        "discovered": "2025-08-29 20:28:04.235874",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata"
+    },
+    {
+        "post_title": "allphaselandscape.net",
+        "discovered": "2025-08-29 18:27:25.168339",
+        "description": "All Phase Landscape, USA is a company engaged in landscaping, design, and service of green areas in parks, around administrative, office, and residential buildings. Making the surrounding space more beautiful and environmentally friendly is o            ...",
+        "link": "/site/view?uuid=34196581-6e2a-3eba-9882-31375cbeca3a",
+        "magnet": null,
+        "screen": "screenshots/qilin/allphaselandscapenet.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ibew1547.org",
+        "discovered": "2025-08-29 18:27:24.271788",
+        "description": "IBEW Local 1547, USA - a union in Alaska that is supposed to provide safety and protect the rights of electric utility and communications workers, local officials, health care workers, and many other professionals. Safety - failed. Protection            ...",
+        "link": "/site/view?uuid=e3d43e12-5834-3c2d-9aa9-94c04df9a442",
+        "magnet": null,
+        "screen": "screenshots/qilin/ibew1547org.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ogdenpubs.com",
+        "discovered": "2025-08-29 18:27:23.341635",
+        "description": "Ogden Publications Inc., USA - history repeats itself. One of the oldest publishing houses in the USA repeats its mistake time after time and has no experience. There is no other word than \u201cidiocy\u201d for their approach to problem solving. O            ...",
+        "link": "/site/view?uuid=dd935ebb-d8b4-39a5-8237-16d59de2fe06",
+        "magnet": null,
+        "screen": "screenshots/qilin/ogdenpubscom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Loyola College",
+        "discovered": "2025-08-29 18:27:20.416109",
+        "description": "https://www.loyola.vic.edu.au\n\t\t\t\t\t\t\t\t\tLoyola College - is a large educational institution with thousands of students! Hundreds of employees! This college is very poorly protected in our reality, and therefore data was compromised! The full history and database of all students and all their private information were freely available! Also, a large number of financial, legal and other documents!",
+        "link": "http://ewalffgokvo5x547bygn6c7ne56urhhwrl6q6t34fnryq65qf4oqnoqd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Loyola College.png",
+        "group_name": "interlock"
+    },
+    {
         "post_title": "www.sbdl.net",
         "discovered": "2025-08-29 14:27:31.518447",
         "description": "",
@@ -160,23 +205,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/gmcontractinginccom.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Firelands Scientific",
-        "discovered": "2025-08-28 19:28:11.725147",
-        "description": "Firelands Scientific\nFirelands Scientific is an Ohio-based cannabis company that combines the best of nature, science and technology to provide customers and patients with a range of cannabis products to meet their needs.\n\n\n\nMore",
-        "link": "archive.php?company=206",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Firelands Scientific.png",
-        "group_name": "rhysida"
-    },
-    {
-        "post_title": "summitcollege.edu/USA/370GB",
-        "discovered": "2025-08-28 17:27:57.046531",
-        "description": "Summit College",
-        "link": "/detail?code=summitcollege-edu-usa-370gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/summitcollegeeduUSA370GB.png",
-        "group_name": "kairos"
     }
 ]
