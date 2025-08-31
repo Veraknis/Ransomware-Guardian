@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "Tri Thuc Software ( Vietnam )",
+        "discovered": "2025-08-31 09:27:32.380838",
+        "description": "",
+        "link": "/victim/3f3f4013-f375-4279-8089-0a7d185b3fd6",
+        "magnet": null,
+        "screen": "screenshots/desolator/Tri Thuc Software ( Vietnam ).png",
+        "group_name": "desolator"
+    },
+    {
+        "post_title": "Construcciones  Sala ( Colombia )",
+        "discovered": "2025-08-31 09:27:31.380132",
+        "description": "",
+        "link": "/victim/242d6188-7cf7-4f6e-a8cd-de66cb1237b5",
+        "magnet": null,
+        "screen": "screenshots/desolator/Construcciones  Sala ( Colombia ).png",
+        "group_name": "desolator"
+    },
+    {
+        "post_title": "L&S Proline",
+        "discovered": "2025-08-31 01:53:00.721389",
+        "description": "L&S Proline, USA - Drill, baby, drill! L&S Proline is a full-service company specializing in solutions for the oil and gas industry, offering a range of products and services, including measurement control equipment, structural fabrication, a            ...",
+        "link": "/site/view?uuid=a0274812-a742-3400-81ff-4e102ca8ac24",
+        "magnet": null,
+        "screen": "screenshots/qilin/L&S Proline.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Tecnolog\u00eda Especializada Asociada de M\u00e9xico",
+        "discovered": "2025-08-31 01:02:38.476763",
+        "description": "Tecnolog\u00eda Especializada Asociada de M\u00e9xico, not a dream TEAM. The company positions itself as a \u2018strategic link between producers, distribution channels and end consumers\u2019. In reality, behind the buzzwords they try to hide the reality.            ...",
+        "link": "/site/view?uuid=99dea152-620d-3149-8580-ac797388b8c9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tecnolog\u00eda Especializada Asociada de M\u00e9xico.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ESIC_TR",
+        "discovered": "2025-08-30 23:01:23.557883",
+        "description": "ESIC University, Spain, is a higher education institution focused on the world of marketing. In other words, they teach how to sell products and ideas. One of the main principles of marketing is that people don't know what they need until we             ...",
+        "link": "/site/view?uuid=8191696b-215b-37ae-919f-0ec63190749b",
+        "magnet": null,
+        "screen": "screenshots/qilin/ESIC_TR.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "sandersonmanagement.com",
         "discovered": "2025-08-30 19:55:28.601857",
         "description": "Sanderson Management is a renowned property management company based in the United States, specializing in the efficient and effective management \u2026",
@@ -70,104 +115,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "dragonforce"
-    },
-    {
-        "post_title": "OB GYN Associates",
-        "discovered": "2025-08-30 02:27:17.396259",
-        "description": "",
-        "link": "/blog/disclosures/68af6736c7b82dfe0beddacc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/OB GYN Associates.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "atlanta neighborhood charter school",
-        "discovered": "2025-08-30 00:28:57.336743",
-        "description": "Atlanta Neighborhood Charter School (ANCS) is a K-8 public charter school in Atlanta, recognized for its academic excellence and innovative programs. However, they could not make a program to protect their own students. All information on the            ...",
-        "link": "/site/view?uuid=48c9fa88-79f1-3716-9865-27c207e07ec8",
-        "magnet": null,
-        "screen": "screenshots/qilin/atlanta neighborhood charter school.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "lipcare.de",
-        "discovered": "2025-08-29 23:28:18.308161",
-        "description": "Lipcare, operated by KHK GmbH in Germany, is a specialized manufacturer of natural and conventional cosmetics, with a particular focus \u2026",
-        "link": "/blog/post/lipcarede/",
-        "magnet": null,
-        "screen": "screenshots/safepay/lipcarede.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "companionsandhomemakers.com",
-        "discovered": "2025-08-29 23:28:17.392640",
-        "description": "Companions & Homemakers, based in Connecticut, is a nonprofit home-care service provider with more than 30 years of experience. It \u2026",
-        "link": "/blog/post/companionsandhomemakerscom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/companionsandhomemakerscom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "camaravalencia.com",
-        "discovered": "2025-08-29 23:28:16.436909",
-        "description": "The C\u00e1mara de Valencia, officially known as the Chamber of Commerce, Industry, Services and Navigation of Valencia, was founded in \u2026",
-        "link": "/blog/post/camaravalenciacom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/camaravalenciacom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "dasmeshschool.com",
-        "discovered": "2025-08-29 23:28:15.510272",
-        "description": "Dasmesh Punjabi School in Winnipeg, Manitoba, is a private independent institution that integrates the provincial curriculum with Punjabi language, Sikh \u2026",
-        "link": "/blog/post/dasmeshschoolcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/dasmeshschoolcom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "zanettisrl.it",
-        "discovered": "2025-08-29 23:28:14.587903",
-        "description": "Zanetti S.r.l., headquartered in Florence, Italy, is a leading architectural company specializing in the design and construction of glass and \u2026",
-        "link": "/blog/post/zanettisrlit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/zanettisrlit.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "uwock.ca",
-        "discovered": "2025-08-29 23:28:13.626136",
-        "description": "Information Chatham-Kent is a nonprofit service based in Ontario, Canada, and operated under United Way Chatham-Kent. It serves as a \u2026",
-        "link": "/blog/post/uwockca/",
-        "magnet": null,
-        "screen": "screenshots/safepay/uwockca.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "hardwicktactical.com",
-        "discovered": "2025-08-29 23:28:12.689397",
-        "description": "Hardwick Tactical Corporation, located in Cleveland, Tennessee, is a historic American manufacturer of military and professional uniforms. Founded in 1880, \u2026",
-        "link": "/blog/post/hardwicktacticalcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/hardwicktacticalcom.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "templeemanu-el.org",
-        "discovered": "2025-08-29 23:28:11.753098",
-        "description": "Temple Emanu-El, located in Dallas, Texas, is one of the largest and most historically significant Reform Jewish congregations in the \u2026",
-        "link": "/blog/post/templeemanu-elorg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/templeemanu-elorg.png",
-        "group_name": "safepay"
-    },
-    {
-        "post_title": "thecelestehotel.com",
-        "discovered": "2025-08-29 23:28:10.297476",
-        "description": "The Celeste Hotel is a boutique hotel located in Orlando, Florida, within the University of Central Florida (UCF) campus area. \u2026",
-        "link": "/blog/post/thecelestehotelcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/thecelestehotelcom.png",
-        "group_name": "safepay"
     }
 ]
