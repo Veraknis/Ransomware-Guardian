@@ -1,5 +1,50 @@
 [
     {
+        "post_title": "GCC of America, inc.",
+        "discovered": "2025-09-02 16:27:03.455816",
+        "description": "Data breach at one of the largest cement and concrete producers in North America.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Asg1vLVgtMWCThQS7SBlG+At7Rb0esZj5zyA3GAw5hCb3JLkyqLRh880RXKhEsz9VwaJlzmYq7e1TE5l+F8mVrQnplaWxz",
+        "magnet": null,
+        "screen": "screenshots/anubis/GCC of America, inc.png",
+        "group_name": "anubis"
+    },
+    {
+        "post_title": "Cordeiro Guerra & Associati",
+        "discovered": "2025-09-02 15:27:30.486165",
+        "description": "",
+        "link": "/news/Cordeiro_Guerra___Associati/",
+        "magnet": null,
+        "screen": "screenshots/everest/Cordeiro Guerra & Associati.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "Artists&Clients",
+        "discovered": "2025-09-02 15:22:58.833418",
+        "description": "We have breached the website Artists&Clients to steal and encrypt all its data. If you are a user of this website, you are urged to contact the owners and insist that they pay our ransom. If the ransom is not paid, we will release all data publicly on this Tor site, including source code and personal data of users. Additionally, we will submit all artwork to AI companies to be added to training datasets.\r\n\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lunalock/Artists&Clients.png",
+        "group_name": "lunalock"
+    },
+    {
+        "post_title": "Pooler Enterprises",
+        "discovered": "2025-09-02 14:27:43.227969",
+        "description": "Pooler Enterprises is a seasoned provider of commercial land development services based in Fishers, NY, with over three decades ofexperience. We are ready to upload more than 15Gb files of essential corporate documents such as: financial data (payment details, invoices), employees and customers information (emails, phones, addresses) confidential information and other documents with detailed personal information so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Natare",
+        "discovered": "2025-09-02 14:27:42.242276",
+        "description": "Natare Pools specializes in designing, building, and installing custom stainless steel pools, spas, and related equipment for various applications including competition, commercial, and communityuse. We are ready to upload more than 10Gb files of essential corporate documents such as: financial data (audit, payment details, financial reports invoices), employees and customers information (emails, phones, addresses) confidential information and other documents with detailed personal information so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
         "post_title": "ellison-mills.com",
         "discovered": "2025-09-02 02:28:07.435511",
         "description": "Ellison-Mills Contracting is a family-oriented company specializing in wet utility and roadway infrastructure in Southern Arizona. They are committed to cultivating strong relationships with clients and team members while delivering quality construction management for various project types. With extensive experience in multimillion-dollar projects, the company prides itself on its ability to complete work on time and under budget across several contracting methods.",
@@ -160,77 +205,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "dragonforce"
-    },
-    {
-        "post_title": "oakland-museum-of-california",
-        "discovered": "2025-09-01 14:27:34.764239",
-        "description": "Established in 1969, Oakland Museum of California provides collections, exhibiti...",
-        "link": "/leaks/68b1ce64cc2d2d4e68cbff30",
-        "magnet": null,
-        "screen": "screenshots/lynx/oakland-museum-of-california.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "Construse\u00f1ales S.A. ( Colombia )",
-        "discovered": "2025-09-01 13:27:32.732999",
-        "description": "",
-        "link": "/victim/242d6188-7cf7-4f6e-a8cd-de66cb1237b5",
-        "magnet": null,
-        "screen": "screenshots/desolator/Construse\u00f1ales SA ( Colombia ).png",
-        "group_name": "desolator"
-    },
-    {
-        "post_title": "Arboris",
-        "discovered": "2025-09-01 12:28:19.480063",
-        "description": "",
-        "link": "topic.php?id=twUT3fW77B2hOw",
-        "magnet": null,
-        "screen": "screenshots/play/Arboris.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Juggernaut",
-        "discovered": "2025-09-01 12:28:18.580122",
-        "description": "",
-        "link": "topic.php?id=ryJmablNGEFN0o",
-        "magnet": null,
-        "screen": "screenshots/play/Juggernaut.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Vanderpool Construction",
-        "discovered": "2025-09-01 12:28:17.673578",
-        "description": "",
-        "link": "topic.php?id=CqQn67OQTdpeKd",
-        "magnet": null,
-        "screen": "screenshots/play/Vanderpool Construction.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "All States Materials Group",
-        "discovered": "2025-09-01 12:28:16.745639",
-        "description": "",
-        "link": "topic.php?id=kXBxyM44shpqhH",
-        "magnet": null,
-        "screen": "screenshots/play/All States Materials Group.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "LEVEL ( USA )",
-        "discovered": "2025-09-01 12:28:14.553630",
-        "description": "",
-        "link": "/victim/6b8dca34-38b5-49ce-9435-b23f07bfab85",
-        "magnet": null,
-        "screen": "screenshots/desolator/LEVEL ( USA ).png",
-        "group_name": "desolator"
-    },
-    {
-        "post_title": "PathoQuest-Biotechnology Research",
-        "discovered": "2025-09-01 11:29:56.931335",
-        "description": "PathoQuest-Biotechnology Research, USA-France The company conducts research on innovative biopharmaceuticals under complex testing conditions on two continents. PathoQuest offers a proven next-generation sequencing (NGS) approach to biosafety            ...",
-        "link": "/site/view?uuid=220d6ec3-12a9-3c46-a5c7-88f5f304cf0b",
-        "magnet": null,
-        "screen": "screenshots/qilin/PathoQuest-Biotechnology Research.png",
-        "group_name": "qilin"
     }
 ]
