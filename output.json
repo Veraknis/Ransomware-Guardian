@@ -1,5 +1,68 @@
 [
     {
+        "post_title": "promisedland.com.tw",
+        "discovered": "2025-09-03 20:27:22.544665",
+        "description": "1 million USD...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2"
+    },
+    {
+        "post_title": "www.pure-chemical.com",
+        "discovered": "2025-09-03 20:27:21.613213",
+        "description": "5 million USD...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2"
+    },
+    {
+        "post_title": "stthom.edu",
+        "discovered": "2025-09-03 19:28:10.446252",
+        "description": "",
+        "link": "/blog/disclosures/68b86fbd115cdd929182b959",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/stthomedu.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "The Bank of Romney",
+        "discovered": "2025-09-03 18:27:52.431166",
+        "description": "The Bank of Romney is a locally owned and operated community bankserving Hampshire County and surrounding areas since 1888. The bank offers a range of personal and business banking services, including checking and savings accounts, various loan options, and merchant services.We are going to upload corporate data soon. You will find financial information, clients information, a bit of accounting files, employee files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Jack Resnick & Sons",
+        "discovered": "2025-09-03 18:27:51.503457",
+        "description": "Jack Resnick & Sons provide a variety of real estate availabilities, including notable residential buildings like Symphony House and Gracie Mews.We are going to upload corporate data soon. You will find lots ofcontracts and form containing clients DOB, addresses, phones, emails, financial and accounting files, payment details, and other data.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "blytheco.com",
+        "discovered": "2025-09-03 17:27:48.601301",
+        "description": "Blytheco is a full-service consulting firm that has been working with small and medium-sized businesses since 1980. Blytheco offers a wide range of business management software (ERP, CRM, HCM, marketing automation), backed by exceptional prof            ...",
+        "link": "/site/view?uuid=d1d4836e-7e74-3408-88fa-6fd0a364278b",
+        "magnet": null,
+        "screen": "screenshots/qilin/blythecocom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Commission scolaire des Appalaches",
+        "discovered": "2025-09-03 17:27:47.311819",
+        "description": "",
+        "link": "/blog/disclosures/68b8543e115cdd92917fc683",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Commission scolaire des Appalaches.png",
+        "group_name": "inc ransom"
+    },
+    {
         "post_title": "Risen Energy Co.",
         "discovered": "2025-09-03 15:27:28.412487",
         "description": "",
@@ -88,32 +151,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/identicbe.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Bartek Ingredients",
-        "discovered": "2025-09-02 19:27:01.955144",
-        "description": "",
-        "link": "/blog/disclosures/68b72571115cdd92917103ca",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Bartek Ingredients.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "Level ",
-        "discovered": "2025-09-02 16:56:12.605227",
-        "description": "Level is a B2B2C fintech company comprised of a diverse team from industry-leading companies like Square, Oscar, Google, Uber, and Airbnb. Together, were creating a new payments tech stack to help employers offer more accessible and personalized benefits for their teams. company is headquartered in PO Box 176, New York City, New York, 10013, United State. 167 Employees ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Level .png",
-        "group_name": "medusa"
-    },
-    {
-        "post_title": "TEAM GROUP",
-        "discovered": "2025-09-02 16:55:40.334121",
-        "description": "TEAM GROUP is one of the leading integrated consulting firms in Thailand and region with more than 40 years of experience in comprehensive consulting services in the areas of Building and Infrastructure, Water Resources, Environmental Management, Transport and Logistics, as well as Power and Energy. TEAM GROUP has accomplished more than 2,500 projects in Thailand and overseas including the Xayaburi Hydroelectric Power Project, Suvarnabhumi Airport, Government Complex, and MRT Blue Line Extension. company is headquartered in TEAM Building, 151 Nuan Chan Road, Nuan Chan, Bueng Kum, Bangkok 10230 Thailand 1028 Employees. The total amount of data leakage is 2.25 TB ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/TEAM GROUP.png",
-        "group_name": "medusa"
     }
 ]
