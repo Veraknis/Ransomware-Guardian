@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Nathan\u00a0nathanhr.com",
+        "discovered": "2025-09-07 16:25:13.103027",
+        "description": "nathanhr.com",
+        "link": "?pid=llamSrPev39eB26Yaymbq7e6",
+        "magnet": null,
+        "screen": "screenshots/killsec3/Nathan\u00a0nathanhrcom.png",
+        "group_name": "killsec3"
+    },
+    {
+        "post_title": "Purwana Group",
+        "discovered": "2025-09-07 15:27:15.933161",
+        "description": "",
+        "link": "articles/Purwana_Group.html",
+        "magnet": null,
+        "screen": "screenshots/direwolf/Purwana Group.png",
+        "group_name": "direwolf"
+    },
+    {
+        "post_title": "Taiwan Flex Electronics",
+        "discovered": "2025-09-07 15:27:14.976226",
+        "description": "",
+        "link": "articles/Taiwan_Flex_Electronics.html",
+        "magnet": null,
+        "screen": "screenshots/direwolf/Taiwan Flex Electronics.png",
+        "group_name": "direwolf"
+    },
+    {
         "post_title": "Expert E-commerce GmbH",
         "discovered": "2025-09-07 09:10:33.239854",
         "description": "Expert E-commerce GmbH is a company specializes in E-commerce Services. It offers services that provide the participating specialist stores of the expert group (Expert SE) via online support. The company was formed in 1999 and is based in Langenhagen, Germany. The total amount of data leakage is 114 GB",
@@ -79,50 +106,5 @@
         "magnet": null,
         "screen": "screenshots/black nevas/OftalTech Solutions oftaltechcom.png",
         "group_name": "black nevas"
-    },
-    {
-        "post_title": "www.s*i***gr*u*.com",
-        "discovered": "2025-09-06 15:28:20.107544",
-        "description": "91 million USD...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "Suiza Lab\u00a0suizalab.com",
-        "discovered": "2025-09-06 14:28:39.626837",
-        "description": "suizalab.com",
-        "link": "?pid=TZ9ihM6cU9Hs6asng7Kah7Eq",
-        "magnet": null,
-        "screen": "screenshots/killsec3/Suiza Lab\u00a0suizalabcom.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "MedicSolution+\u00a0medicsolution.app",
-        "discovered": "2025-09-06 12:27:42.260611",
-        "description": "medicsolution.app",
-        "link": "?pid=m0aEokwi733tnFZzfJj2pMvM",
-        "magnet": null,
-        "screen": "screenshots/killsec3/MedicSolution+\u00a0medicsolutionapp.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "eMedicoERP\u00a0emedicoerp.com",
-        "discovered": "2025-09-06 12:27:41.305911",
-        "description": "emedicoerp.com",
-        "link": "?pid=jUAueZigjrYI1iYhbNB4pZA5",
-        "magnet": null,
-        "screen": "screenshots/killsec3/eMedicoERP\u00a0emedicoerpcom.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "GoTelemedicina\u00a0gotelemedicina.co",
-        "discovered": "2025-09-06 12:27:40.399137",
-        "description": "gotelemedicina.co",
-        "link": "?pid=XA8vdNbZ6RQiEBqY3ViIe9iU",
-        "magnet": null,
-        "screen": "screenshots/killsec3/GoTelemedicina\u00a0gotelemedicinaco.png",
-        "group_name": "killsec3"
     }
 ]
