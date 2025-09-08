@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "https://gazomet.pl & https://cgas.pl",
+        "discovered": "2025-09-08 06:29:30.277063",
+        "description": "~200 GB data has been stolenClientsProjectsFinancial documentationetc.",
+        "link": "blog_1-20",
+        "magnet": null,
+        "screen": "screenshots/mydata/gazometpl & https:cgaspl.png",
+        "group_name": "mydata"
+    },
+    {
         "post_title": "rose-acre-farms-inc",
         "discovered": "2025-09-07 20:33:34.768016",
         "description": "www.goodegg.com\n www.roseacre.com\n Established in 1939 and headquartered in Seym...",
@@ -34,59 +43,5 @@
         "magnet": null,
         "screen": "screenshots/direwolf/Taiwan Flex Electronics.png",
         "group_name": "direwolf"
-    },
-    {
-        "post_title": "Expert E-commerce GmbH",
-        "discovered": "2025-09-07 09:10:33.239854",
-        "description": "Expert E-commerce GmbH is a company specializes in E-commerce Services. It offers services that provide the participating specialist stores of the expert group (Expert SE) via online support. The company was formed in 1999 and is based in Langenhagen, Germany. The total amount of data leakage is 114 GB",
-        "link": "detail?id=43f98039ab671d0d64ca69f9e608e552",
-        "magnet": null,
-        "screen": "screenshots/medusa/Expert E-commerce GmbH.png",
-        "group_name": "medusa"
-    },
-    {
-        "post_title": "Rad-Solutions, LLC",
-        "discovered": "2025-09-07 09:10:32.307717",
-        "description": "Rad-Solutions, LLC is a North American company that specializes in energy curable raw materials, specialty coatings, and innovative products for various industries including graphic arts and cosmetics. Their product range encompasses Radsol brand acrylate diluents, oligomers, and unique items such as adhesion promoters and proprietary stabilizers. With a management team of experienced chemists and engineers, the company imports and markets a diverse array of raw materials, ensuring availability through strategic alliances with global manufacturers. Additionally, Rad-Solutions offers formulating assistance and contract manufacturing to meet the needs of their clients.\ncompany is headquartered in 2221 Justin Road Suit 119-142 Flower Mound, TX",
-        "link": "detail?id=c767b57a9a78cb972437a1df4b34f3f3",
-        "magnet": null,
-        "screen": "screenshots/medusa/Rad-Solutions, LLC.png",
-        "group_name": "medusa"
-    },
-    {
-        "post_title": "TuftsMedicine",
-        "discovered": "2025-09-07 09:07:13.525398",
-        "description": "",
-        "link": "/tufts",
-        "magnet": null,
-        "screen": "screenshots/cloak/TuftsMedicine.png",
-        "group_name": "cloak"
-    },
-    {
-        "post_title": "Archer Health\u00a0archerhealthinc.com",
-        "discovered": "2025-09-07 08:27:12.894172",
-        "description": "archerhealthinc.com",
-        "link": "?pid=Uf9MI7G9HFRDnZ21X8RR75Bc",
-        "magnet": null,
-        "screen": "screenshots/killsec3/Archer Health\u00a0archerhealthinccom.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "GPS Trackit\u00a0gpstrackit.com",
-        "discovered": "2025-09-07 07:27:56.034735",
-        "description": "gpstrackit.com",
-        "link": "?pid=AYyZ4suEWKGRH0MCaubbHQbO",
-        "magnet": null,
-        "screen": "screenshots/killsec3/GPS Trackit\u00a0gpstrackitcom.png",
-        "group_name": "killsec3"
-    },
-    {
-        "post_title": "Gordon Rees Scully Mansukhani LLP",
-        "discovered": "2025-09-07 04:27:14.918286",
-        "description": "Law Firms & Legal Services - California, United States - 2,500 Employees. Gordon & Rees was founded in\u2026",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata"
     }
 ]
