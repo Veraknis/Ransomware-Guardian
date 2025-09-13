@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "CBL-SRL",
+        "discovered": "2025-09-13 09:27:19.285457",
+        "description": "",
+        "link": "/blog/disclosures/68c515c8115cdd929156ec7c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/CBL-SRL.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "Milj\u00f6data (1 day left)\ud83c\uddf8\ud83c\uddea",
+        "discovered": "2025-09-13 05:27:39.116477",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "datacarry"
+    },
+    {
+        "post_title": "Cariri",
+        "discovered": "2025-09-13 00:54:29.139546",
+        "description": "The Institute was established in 1970 as an initiative of the Government of Trinidad and Tobago with financial and technical support from the United Nations Development Programme (UNDP) and United Nations Industrial Development Organization (UNIDO). It was incorporated under Act of Parliament no. 19 of 1971, which was subsequently amended by Act no. 33 of 1981. Although established with funding from the Government and the aforementioned international agencies, at the outset the Institute's mandate catered for the provision of services to the Caribbean region. Traditionally, the Institute's service base has been quite diverse, comprising the provision of laboratory-based analytical and engineering services (testing utilizing state-of-the-art, internationally accredited facilities), as well as associated consultancy support, training and applied Research and Development (primarily investigative/developmental work). The base was expanded in 2014 with the establishment of CARIRI's flagshipdevelopment, the Centre for Enterprise Development (CED). Presently, the Institute provides a range of technology/technology based support services to the public and private sectors, encompassing Laboratory testing/analytical services via our St Augustine and Macoya laboratory facilities. The Institute provides Research, Entrepreneurship, Innovation, Development (REID) and ICT Consultancy Services through our Innovation Ecosystem at the Centre for Enterprise Development (CED), Freeport. company is headquartered in The University of the West Indies St Augustine Campus Trinidad and Tobago 62 Employees. The total amount of data leakage is 678.3 GB",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Cariri.png",
+        "group_name": "medusa"
+    },
+    {
         "post_title": "cityofmiddletown.org",
         "discovered": "2025-09-12 20:27:26.463091",
         "description": "The City of Middletown, located in Ohio, United States, operates as a municipal government dedicated to providing essential services and \u2026",
@@ -106,50 +133,5 @@
         "magnet": null,
         "screen": "screenshots/worldleaks/Survival Flight Inc.png",
         "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Menten Truck Service N.V., Hoeselt, Belgium",
-        "discovered": "2025-09-12 09:27:00.560287",
-        "description": "Menten Truck Service. Industrielaan 1084 3730 Hoeselt Tel +32 89 41 12 22. Fax +32 89 41 24 29. Email info@menten.be",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "Namibia | Epia Financial Services | Windhoek",
-        "discovered": "2025-09-12 09:26:59.694402",
-        "description": "+264816013040. Mail. info@epiafs.com. Home. No 17 Eulenweg Street, Hochland Park, Windhoek ,Namibia. RELATABLE PARTNERS. NAMRA \u00b7 NAMFISA. NBWPF. CIFNAMIBIA",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "Compagnie des Guides de Chamonix",
-        "discovered": "2025-09-12 09:26:58.615220",
-        "description": "Chamonix Office +33 (0)4 50 53 00 88, Maison de la montagne, 190 place de l'\u00e9glise, 74400 Chamonix\nArgenti\u00e8re Office +33 (0)4 50 54 17 94 , 24 Route du village, 74400 Argenti\u00e8re",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "TAKwest",
-        "discovered": "2025-09-12 02:27:13.897673",
-        "description": "Broadband data leak. Those who provide access to new digital opportunities have failed to ensure their own cybersecurity. TAK West Shore is a subsidiary of TAK Broadband. They offer comprehensive service solutions in the field of fiber optic             ...",
-        "link": "/site/view?uuid=3d4e3a20-2ad5-3f81-94da-8b3b9af5beab",
-        "magnet": null,
-        "screen": "screenshots/qilin/TAKwest.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "CARTONAJES BERNABEU SAU www.cartonajesbernabeu.com serviced by IT company Verne Group www.",
-        "discovered": "2025-09-11 21:26:51.884132",
-        "description": "serviced by IT company Verne Group www.vernegroup.com (Cybersecurity and monitoring)CARTONAJES BERNABEU SAU www.cartonajesbernabeu.com CARTONAJES BERNABEU SAU, a company specialising in the production and sale of cardboard containers and packaging, was founded in 1965. Its headquarters are in Manises (Valencia, Spain). The company is part of the Cartonajes Bernabeu group and has production and warehouse facilities. The company offers customised packaging solutions for various industries.list of files, we will provide any file from the list upon request:https://gofile.io/d/hu4njf787k files1.2 TB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "black nevas"
     }
 ]
