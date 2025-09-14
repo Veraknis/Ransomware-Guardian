@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "Office Of The Registrar Of Political Parties",
+        "discovered": "2025-09-14 16:27:45.247428",
+        "description": "The Office of the Registrar of Political Parties (ORPP) is a state office in Kenya responsible for the registration, regulation, and funding of political parties as mandated by the Constitution and the Political Parties Act. It aims to promot            ...",
+        "link": "/site/view?uuid=9b578dea-1096-350f-b534-c82d2075f96f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Office Of The Registrar Of Political Parties.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Milj\u00f6data\ud83c\uddf8\ud83c\uddea",
         "discovered": "2025-09-14 05:26:40.845746",
         "description": "",
@@ -7,14 +16,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "datacarry"
-    },
-    {
-        "post_title": "BRIGHT SYSTEM JAPAN CO., LTD",
-        "discovered": "2025-09-13 10:28:36.936717",
-        "description": "",
-        "link": "/blog/disclosures/68c51868115cdd929157100f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/BRIGHT SYSTEM JAPAN CO, LTD.png",
-        "group_name": "inc ransom"
     }
 ]
