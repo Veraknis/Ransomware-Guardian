@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Trailer Transit Inc",
+        "discovered": "2025-09-15 20:27:11.090909",
+        "description": "Nationwide power-only transport services with 40+ years of experience. Trust Trailer Transit for dependable and accurate trailer transport solutions.\nRevenue: $22 M",
+        "link": "/0AFC:886e8c4fa199a1f1a777eaa804bf4423d49265be993f52c224246a41f3387d0b/0AFC:f2c34acc569ac67c4d481ca9d5c74a0a9b49c4453cf7d6283b3e040124500eb5/0AFC:9012e1fb285d41745146a5a750c879692bb110db62ee909d7ad0dcaf1ac2049d",
+        "magnet": null,
+        "screen": "screenshots/metaencryptor/Trailer Transit Inc.png",
+        "group_name": "metaencryptor"
+    },
+    {
+        "post_title": "R F Owens Co, Inc./ Trucchi's Supermarkets Distribution Center",
+        "discovered": "2025-09-15 17:27:15.334270",
+        "description": "https://www.bloomberg.com/profile/company/0078232D:US , R F OWENS CO INC , 1062 BROADWAY, RAYNHAM MAO2767-7944",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "radar"
+    },
+    {
+        "post_title": "jsgroup",
+        "discovered": "2025-09-15 17:27:13.100178",
+        "description": "",
+        "link": "/blog/disclosures/68c820cf115cdd929181ab91",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/jsgroup.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "CyberData",
+        "discovered": "2025-09-15 17:27:11.664039",
+        "description": "CyberData Corporation is a leading OEM design and manufacturing firm with more than 40 years of experience. They specialize in IP Endpoints for the VoIP marketplace, VoIP and POS (Point-of-Sale) connectivity solutions, and POS protocol conversion technologies.We are going to upload 9GB of corporate data. Employees' personalinformation, client data, partners data, a bit of finance and accounting files, lots of project files, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
         "post_title": "Volumex Lease",
         "discovered": "2025-09-15 16:28:00.600806",
         "description": "Volumex, specialist in leasing vans, trucks, tractors & trailers. Industrielaan 53, 3730 Hoeselt, Belgium.  +32 2 899 8 899 , info@volumex.be, Volumex HQ Industrielaan 53, 3730 Hoeselt. \nLuik, Volumex Lease, Rue Ars\u00e8ne Falla 40, 4621 Fl\u00e9ron. Beringen, Volumex Lease Schemkensstraat 8, 3583 Beringen. JULIEN H\u00d6HNE |  Volumex Lease, Industrielaan 53, 3730 Hoeselt | Rue Ars\u00e8ne Falla 40, 4621 Fl\u00e9ron | Schemkensstraat 8, 3583 Beringen, email:   administration@volumex.be   tel:  02 899 8 899 ",
@@ -258,33 +294,6 @@
         "link": "/site/view?uuid=337bb8d0-c3d1-388e-bda5-2de8080d4d4e",
         "magnet": null,
         "screen": "screenshots/qilin/Eagle Excavation.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "olarra",
-        "discovered": "2025-09-14 20:29:56.701624",
-        "description": "www.olarra.com\n Olarra is specialized in long products manufacturing. Olarra is ...",
-        "link": "/leaks/68c704c0cc2d2d4e68520617",
-        "magnet": null,
-        "screen": "screenshots/lynx/olarra.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "bio3g.com",
-        "discovered": "2025-09-14 17:28:57.831543",
-        "description": "The BIO3G offering is based on a complex of innovative biostimulants based on affordable and complementary lines. Our solutions are generally based on original and patented formulas, rich in biostimulants and specific natural compounds that c            ...",
-        "link": "/site/view?uuid=9fb14622-4b5d-3737-91ce-bda9a27f63fd",
-        "magnet": null,
-        "screen": "screenshots/qilin/bio3gcom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "opso.us",
-        "discovered": "2025-09-14 17:28:56.959680",
-        "description": "The Orleans Parish Sheriff's Office and Sheriff Marlin N. Guzman are responsible for the custody, care, and control of inmates in one of the largest urban correctional facilities in the United States.\n1.The document is a summary report on in            ...",
-        "link": "/site/view?uuid=c9c9db6e-3010-3456-88cf-0f3c4d3f39e7",
-        "magnet": null,
-        "screen": "screenshots/qilin/opsous.png",
         "group_name": "qilin"
     }
 ]
