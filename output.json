@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "BMW",
+        "discovered": "2025-09-17 16:02:29.288475",
+        "description": "",
+        "link": "/news/BMW/",
+        "magnet": null,
+        "screen": "screenshots/everest/BMW.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "www.vdyne.com",
+        "discovered": "2025-09-17 14:58:43.762126",
+        "description": "VDyne, USA is a clinical-stage medical device company dedicated to developing transcatheter valve solutions for the treatment of debilitating and life-threatening Tricuspid Regurgitation (TR). They are developing medical micro-prostheses that            ...",
+        "link": "/site/view?uuid=fd5f98d0-94b1-3cdb-89f2-0e57e140f87a",
+        "magnet": null,
+        "screen": "screenshots/qilin/wwwvdynecom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "RAC Consultoria",
+        "discovered": "2025-09-17 12:26:20.787571",
+        "description": "Rac Consulting began operations in June 2008, driven by its founder, Rinna Acosta, in offering solutions for companies' human and intellectual capital needs that enable them to improve their internal processes and effectively achieve their strategic objectives.Initially, it entered the market providing labor consulting and human resources management services. Today, it offers high-impact project administration and management services for companies, including improvement management, technological innovations, and organizational restructuring, among others.- SQL- Financial documents- Personal information of employees and clients\nhttps://www.racconsultoria.net/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/85/rac-consultoria",
+        "magnet": null,
+        "screen": "screenshots/space bears/RAC Consultoria.png",
+        "group_name": "space bears"
+    },
+    {
+        "post_title": "Pieffe Auto Group",
+        "discovered": "2025-09-17 12:25:55.582975",
+        "description": "Pieffe Auto Group is a leading multi-brand automotive dealership network based in the Abruzzo region of Italy. \nThe group represents a wide portfolio of car brands, including Peugeot, Citro\u00ebn, DS Automobiles, Opel, Fiat, Jeep, Alfa Romeo, H            ...",
+        "link": "/site/view?uuid=c7dd47e5-89cd-31ba-b587-2e45e310ffa5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Pieffe Auto Group.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "IAD GmbH",
         "discovered": "2025-09-17 09:51:14.186471",
         "description": "Site: iad.de\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Consulting\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Germany",
@@ -160,95 +196,5 @@
         "magnet": null,
         "screen": "screenshots/kairos/ekonomipoolenseSweden32GB.png",
         "group_name": "kairos"
-    },
-    {
-        "post_title": "JAFICA Telecomunicaciones",
-        "discovered": "2025-09-16 15:56:03.177610",
-        "description": "JAFICA Telecomunicaciones is a Mexican internet service provider.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/lunalock/JAFICA Telecomunicaciones.png",
-        "group_name": "lunalock"
-    },
-    {
-        "post_title": "SK Telecom",
-        "discovered": "2025-09-16 15:42:35.727322",
-        "description": "South Koreas largest wireless carrier offering mobile services broadband IPTV and cutting-edge AI and IoT solutions",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/SK Telecom.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Desjardins Banking/Group",
-        "discovered": "2025-09-16 15:41:49.429573",
-        "description": "Desjardins founded the Caisses Populaires Desjardins (Desjardins Group). First headquartered in Levis, the group grew to become the largest association of credit unions in North America. Today, Desjardins Group has headquarters in Montreal and is headed by Mr. Monique Leroux, President and Chief Executive Officer, who is leading a team of over forty thousand devoted officials. They serve clients in Canada and around the world. The group maintains a network of 536 local branches and has more than",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Desjardins BankingGroup.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "AdScale",
-        "discovered": "2025-09-16 15:41:19.228144",
-        "description": "AdScale is an AI-driven advertising platform tailored for e\u2011commerce and digital marketers, offering unified campaign management across Google Search, Google Shopping, Display, Facebook, Instagram, and more. Its key solutions include an AI Campaign Builder, automated ad creation and optimization (including ad copy via ChatGPT), smart audience segmentation, BI analytics, and even SMS/email marketing tools. AdScale streamlines multichannel ad campaigns, optimizing bids and budgets in real time to",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/AdScale.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Dreyfuss Williams & Associates Co , LPA",
-        "discovered": "2025-09-16 15:40:45.768204",
-        "description": "Dreyfuss Williams Attorneys & Counselors at Law is a law firm specializing in Health Care Law, offering legal representation to hospitals and medical providers on Third Party Claim Reimbursement Issues. Their services include handling various matters such as ERISA, government payer disputes, health insurance, and managed care. The firm operates in Ohio and aims to be a solution for hospitals regarding claim resolutions. Their intended clients primarily comprise hospitals and medical service prov",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Dreyfuss Williams & Associates Co , LPA.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Focus R Technologies Pvt",
-        "discovered": "2025-09-16 15:40:20.083086",
-        "description": "Focus R Technologies is a leading technology consulting firm that specializes in delivering tailored software solutions and IT services to help businesses achieve digital transformation. With a focus on innovation and operational efficiency, FocusR Technologies provides a comprehensive suite of services, including custom software development, system integration, cloud solutions, and data analytics. The firm partners with clients across diverse industries\u2014such as healthcare, finance, retail, and",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Focus R Technologies Pvt.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "NTT Data/Vectorform",
-        "discovered": "2025-09-16 15:39:47.389122",
-        "description": "NTT Data is a global IT services provider based in Japan, delivering innovative solutions across a variety of industries including finance, healthcare, manufacturing, and public services. As a subsidiary of the NTT Group, NTT Data focuses on digital transformation, offering services such as cloud computing, AI, IoT, cybersecurity, and system integration. The company is recognized for helping clients improve operational efficiency and accelerate business growth through advanced technology solutio",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/NTT DataVectorform.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Wakefield & Associates",
-        "discovered": "2025-09-16 15:39:12.128963",
-        "description": "Wakefield & Associates is a financial services company specializing in debt collection and billing services. Wakefield & Associates helps clients improve cash flow and reduce financial risk through efficient, effective debt recovery strategies.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Wakefield & Associates.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Concord New Energy Group",
-        "discovered": "2025-09-16 14:28:17.733594",
-        "description": "Concord New Energy Group Limited (CNE) specializes in wind and solar power operation. To date, we are the only pure vertical integrated clean energy power compa...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
-    },
-    {
-        "post_title": "Medpeds",
-        "discovered": "2025-09-16 12:27:48.412015",
-        "description": "MedPeds Associates, located in Sarasota, Florida, specializes in Internal Medicine and Pediatrics with a strong emphasis on preventive care for adults, seniors, and children. The practice is recognized as a Level 3 Patient Centered Medical Home by the National Committee for Quality Assurance, showcasing its commitment to high-quality healthcare practices. They offer a full spectrum of medical services including same day lab services, chronic care management, and telehealth options. Their goal is to promote good health through proper nutrition, regular professional care, and the establishment of good habits.",
-        "link": "/card/medpeds",
-        "magnet": null,
-        "screen": "screenshots/beast/Medpeds.png",
-        "group_name": "beast"
     }
 ]
