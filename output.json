@@ -1,5 +1,14 @@
 [
     {
+        "post_title": "ZEF",
+        "discovered": "2025-09-21 17:28:25.001410",
+        "description": "ZEF, Germany - Center for Development Research University of Bonn. ZEF conducts interdisciplinary research in the fields of political, economic, and general development. The institute advises governments, national and international organizati            ...",
+        "link": "/site/view?uuid=02bee2a8-2b22-3bfc-97fd-016e718320ea",
+        "magnet": null,
+        "screen": "screenshots/qilin/ZEF.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Pennsylvania Office of Attorney General",
         "discovered": "2025-09-21 02:27:51.202109",
         "description": "",
@@ -25,23 +34,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/NV ELMAR.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Alta\u015f",
-        "discovered": "2025-09-20 19:27:42.972273",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/2",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Alta\u015f.png",
-        "group_name": "blackshrantac"
-    },
-    {
-        "post_title": "Klinglnberg india pvt ltd",
-        "discovered": "2025-09-20 19:27:42.035964",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/1",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Klinglnberg india pvt ltd.png",
-        "group_name": "blackshrantac"
     }
 ]
