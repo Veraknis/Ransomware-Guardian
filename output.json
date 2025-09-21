@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Pennsylvania Office of Attorney General",
+        "discovered": "2025-09-21 02:27:51.202109",
+        "description": "",
+        "link": "/blog/disclosures/68ce70ab115cdd9291e10134",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Pennsylvania Office of Attorney General.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "goodcents.com",
+        "discovered": "2025-09-20 22:27:18.038145",
+        "description": "Goodcents, USA - Cheap food outlets are part of Custom Foods Inc., a company that produces frozen dough. The company manufactures a wide range of products, including dough for pizza, bread, cookies, and much more. The company supplies its pro            ...",
+        "link": "/site/view?uuid=20934d60-3d66-369e-9667-6ed16007302d",
+        "magnet": null,
+        "screen": "screenshots/qilin/goodcentscom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "NV ELMAR",
+        "discovered": "2025-09-20 21:27:50.207587",
+        "description": "A blackout in Aruba is only a matter of time. The incompetence and unprofessionalism of NV ELMAR managers \u2014 the only electricity supplier on the island \u2014 could send the entire island back to the Stone Age. It has long been known that thin            ...",
+        "link": "/site/view?uuid=d7a381ff-234f-32cf-9e59-ac2505ee1def",
+        "magnet": null,
+        "screen": "screenshots/qilin/NV ELMAR.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Alta\u015f",
         "discovered": "2025-09-20 19:27:42.972273",
         "description": "",
@@ -25,32 +52,5 @@
         "magnet": null,
         "screen": "screenshots/leaknet/Major Cyber Incident: Descon Group Data Breach.png",
         "group_name": "leaknet"
-    },
-    {
-        "post_title": "Promociones Luis Barros",
-        "discovered": "2025-09-20 06:27:33.850388",
-        "description": "Promociones Luis Barros is a Galician family firm specializing in the construction and promotion of luxury residences in southern Pontevedra. \nThey offer high-end housing solutions, including custom-built homes, catering to discerning client            ...",
-        "link": "/site/view?uuid=3c70f508-54ec-3713-9800-c5b082faf24e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Promociones Luis Barros.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "United Machine",
-        "discovered": "2025-09-19 21:27:23.643981",
-        "description": "",
-        "link": "topic.php?id=Mjw1Cr36I5KapA",
-        "magnet": null,
-        "screen": "screenshots/play/United Machine.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "Alan Shintani, Inc",
-        "discovered": "2025-09-19 21:27:06.283857",
-        "description": "Photos and blueprints of government facilities.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/2l86LxERQhD4wdumWQV0zKsRdk9ACtaSTcvCOWV8WHSf8XGUrX+74qxQDqm9BMFw9+5KciDQrYLgjT48kFteGxTT1Jz",
-        "magnet": null,
-        "screen": "screenshots/anubis/Alan Shintani, Inc.png",
-        "group_name": "anubis"
     }
 ]
