@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Kido Schools",
+        "discovered": "2025-09-24 20:14:51.709602",
+        "description": "We\u2019re integrating advances in design, technology, and pedagogy to create the highest quality nurseries and preschools across the world. Our nurseries are magical places where children play, learn, grow, and thrive. Combining classical philosophies like Montessori and Reggio Emilia with cutting-edge research, we\u2019ve created the most advanced early years program anywhere. Since 2014, over 15,000 families worldwide have trusted their children to Kido.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/radiant group/Kido Schools.png",
+        "group_name": "radiant group"
+    },
+    {
+        "post_title": "www.officepro.cl",
+        "discovered": "2025-09-24 18:27:17.773403",
+        "description": "Office Pro, Chile - a leading distributor of office supplies. The company began operations in 1991 in the Vitacura district under the name Distribuidora Capri. Over many years of operation, the company has accumulated a huge number of custome            ...",
+        "link": "/site/view?uuid=81f0dc17-2726-302a-b1df-e35498145bc2",
+        "magnet": null,
+        "screen": "screenshots/qilin/wwwofficeprocl.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "www.mpmimports.com.cy",
+        "discovered": "2025-09-24 17:27:44.780871",
+        "description": "MPM IMPORTS LTD, Cyprus - is a family owned business which has been established in September 2013 as a spin off from the MPM GROUP of companies. The company supplies cosmetics, car tires, and other consumer goods to the island. Over the years            ...",
+        "link": "/site/view?uuid=c270410f-471f-3567-a306-d301fb01be5d",
+        "magnet": null,
+        "screen": "screenshots/qilin/wwwmpmimportscomcy.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "curaleaf.com",
         "discovered": "2025-09-24 16:38:05.941258",
         "description": "",
@@ -151,95 +178,5 @@
         "magnet": null,
         "screen": "screenshots/kairos/wwwmilkagroskSlovakia335GB.png",
         "group_name": "kairos"
-    },
-    {
-        "post_title": "Madison Healthcare Services",
-        "discovered": "2025-09-23 20:26:44.122212",
-        "description": "",
-        "link": "/companies/3970341507",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Madison Healthcare Services.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Pyramid Global Hospitality",
-        "discovered": "2025-09-23 20:26:43.192404",
-        "description": "",
-        "link": "/companies/1474966950",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Pyramid Global Hospitality.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Mavis Tire Supply",
-        "discovered": "2025-09-23 20:26:42.270812",
-        "description": "",
-        "link": "/companies/3751814793",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Mavis Tire Supply.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "KIPP DC",
-        "discovered": "2025-09-23 20:26:41.368275",
-        "description": "",
-        "link": "/companies/8829494102",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/KIPP DC.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Sapp Bros",
-        "discovered": "2025-09-23 20:26:40.478381",
-        "description": "",
-        "link": "/companies/6910645140",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Sapp Bros.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "Washington Prime Group Inc",
-        "discovered": "2025-09-23 20:26:39.590211",
-        "description": "",
-        "link": "/companies/6929855856",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Washington Prime Group Inc.png",
-        "group_name": "worldleaks"
-    },
-    {
-        "post_title": "www.margaritavilleatsea.com",
-        "discovered": "2025-09-23 20:26:38.536014",
-        "description": "Margaritaville at Sea Cruises offers a unique offshore resort experience with fu...",
-        "link": "/leaks/68d2d396cc2d2d4e68aaf197",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwmargaritavilleatseacom.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "Cadisa",
-        "discovered": "2025-09-23 20:26:37.119757",
-        "description": "www.cadisa.mx https://www.zoominfo.com/c/cadisa-sa/455575374 Cadisa is a comprehensive service provider specializing in the sale and maintenance of trucks for various industries, offering a wide array of truck models including LT, CT, MV, HV, and City series. They provide original diesel spare parts, tailored maintenance plans, and 24/7 assistance, ensuring customers receive support throughout the truck's lifecycle. Their services also include a dedicated monitoring platform for real-time vehicle tracking and roadside assistance for unexpected repairs. Cadisa prioritizes customer satisfaction by ensuring that clients have access to expert advice and quality services to keep their trucks operational.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen"
-    },
-    {
-        "post_title": "Speed Art Museum",
-        "discovered": "2025-09-23 18:28:06.667911",
-        "description": "",
-        "link": "/blog/disclosures/68d2bf7cfa0b6f4bdf061fae",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Speed Art Museum.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "siball.net",
-        "discovered": "2025-09-23 17:28:18.195396",
-        "description": "all data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock"
     }
 ]
