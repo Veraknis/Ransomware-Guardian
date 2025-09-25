@@ -1,5 +1,59 @@
 [
     {
+        "post_title": "MACMA Werbeartikel oHG",
+        "discovered": "2025-09-25 07:28:01.519056",
+        "description": "Site: macma.de\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Manufacturing\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Germany",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma"
+    },
+    {
+        "post_title": "pactchangeslives.com",
+        "discovered": "2025-09-25 00:27:23.417669",
+        "description": "Porter County PACT is a company that operates in the Government industry. It emp...",
+        "link": "/leaks/68d46dd9cc2d2d4e68b7978b",
+        "magnet": null,
+        "screen": "screenshots/lynx/pactchangeslivescom.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "lwginc.net",
+        "discovered": "2025-09-25 00:27:22.457239",
+        "description": "LWG Construction offers end-to-end commercial construction services, focusing on...",
+        "link": "/leaks/68d46b6fcc2d2d4e68b77d72",
+        "magnet": null,
+        "screen": "screenshots/lynx/lwgincnet.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "awo-ka-land.de",
+        "discovered": "2025-09-25 00:27:20.383634",
+        "description": "",
+        "link": "/blog/disclosures/68cc4f4c115cdd9291c2e4f2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/awo-ka-landde.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "VIR",
+        "discovered": "2025-09-24 23:28:24.416084",
+        "description": "Vir Biotechnology is a clinical-stage immunology company that focuses on combini...",
+        "link": "/leaks/68d45d40cc2d2d4e68b6ec54",
+        "magnet": null,
+        "screen": "screenshots/lynx/VIR.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "Valufinder Group",
+        "discovered": "2025-09-24 21:28:30.661887",
+        "description": "Valufinder Group, Inc. is a boutique investment banking firm, recognized as a leader in providing comprehensive advisory services to mid-sized firms. Our seasoned professionals have mastered both the art and science of presenting businesses for financing or sale. We combine a highly personalized, service-oriented approach with a proven system for maximizing an owner's value, while minimizing risk, maintaining confidentiality, and anticipating and meeting the many challenges inherent in the process",
+        "link": "/card/valufinder_group",
+        "magnet": null,
+        "screen": "screenshots/beast/Valufinder Group.png",
+        "group_name": "beast"
+    },
+    {
         "post_title": "Kido Schools",
         "discovered": "2025-09-24 20:14:51.709602",
         "description": "We\u2019re integrating advances in design, technology, and pedagogy to create the highest quality nurseries and preschools across the world. Our nurseries are magical places where children play, learn, grow, and thrive. Combining classical philosophies like Montessori and Reggio Emilia with cutting-edge research, we\u2019ve created the most advanced early years program anywhere. Since 2014, over 15,000 families worldwide have trusted their children to Kido.",
@@ -97,86 +151,5 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/TLD Lawcom.png",
         "group_name": "inc ransom"
-    },
-    {
-        "post_title": "FAI Aviation Group (fai.ag) - The biggest leak ever",
-        "discovered": "2025-09-24 00:28:14.943852",
-        "description": "",
-        "link": "/posts/68d2f944f0cd632fbb8953ce/68d2f944f0cd632fbb8953ce/",
-        "magnet": null,
-        "screen": "screenshots/j group/FAI Aviation Group (faiag) - The biggest leak ever.png",
-        "group_name": "j group"
-    },
-    {
-        "post_title": "www.cr-installers.com",
-        "discovered": "2025-09-24 00:28:12.202115",
-        "description": "Chris Rodriguez Installers, USA - The company specializes in the installation, delivery, and warehousing of system furniture for federal, regional, and commercial organizations. CRI also operates a 50,000-square-foot warehouse conveniently lo            ...",
-        "link": "/site/view?uuid=c335dd58-26d4-332f-9b66-9122b8c2d3fd",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwcr-installerscom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "www.chinup.com.tw",
-        "discovered": "2025-09-24 00:28:11.213201",
-        "description": "Chinup Technology Co., Taiwan - Chinup specializes in manufacturing Cutting Presses, Die Cutting Machines, Automated Cutting Systems, and Card Processing Machinery. Established in 2001, the company expanded its expertise to include solar modu            ...",
-        "link": "/site/view?uuid=8d704162-d530-372b-b2b3-484ae77a9df1",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwchinupcomtw.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "www.apm-finance.de",
-        "discovered": "2025-09-23 23:28:26.000983",
-        "description": "APM Finance GmbH, Germany specializes in outsourced accounting services specifically designed for the automotive industry. The company offers comprehensive accounting, payroll, management accounting, and control consulting services. The compa            ...",
-        "link": "/site/view?uuid=2a59cabb-993c-35c8-ab2b-cf8627f43b09",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwapm-financede.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "www.meduane-habitat.fr",
-        "discovered": "2025-09-23 23:28:24.989897",
-        "description": "MEDUANE HABITAT, France - The company builds and rents out social housing. Today, M\u00e9duane Habitat manages 6,300 housing units, mainly in Laval, but since 1996, the company has expanded its activities to other municipalities in the Laval aggl            ...",
-        "link": "/site/view?uuid=c3c06bfa-7cce-32dc-a567-55d1ac941eb5",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwmeduane-habitatfr.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "HELUKABEL",
-        "discovered": "2025-09-23 22:27:54.321510",
-        "description": "Leaked 29/04/2025 | Encrypted 23/04/2025",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/HELUKABEL.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "\u200b\u200b\u200b\u200bagromate",
-        "discovered": "2025-09-23 22:27:53.400094",
-        "description": "Leaked 29/04/2025 | Encrypted 19/04/2025",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/\u200b\u200b\u200b\u200bagromate.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "\u200b\u200b\u200b\u200bbettininformatica - suporteon",
-        "discovered": "2025-09-23 22:27:52.473134",
-        "description": "Leaked 29/04/2025 | Encrypted 19/04/2025",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/\u200b\u200b\u200b\u200bbettininformatica - suporteon.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "www.milkagro.sk/Slovakia/335GB",
-        "discovered": "2025-09-23 21:27:50.683369",
-        "description": "Milk Agro",
-        "link": "/detail?code=www-milkagro-sk-slovakia-335gb",
-        "magnet": null,
-        "screen": "screenshots/kairos/wwwmilkagroskSlovakia335GB.png",
-        "group_name": "kairos"
     }
 ]
