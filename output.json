@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "BAM",
+        "discovered": "2025-09-28 20:28:18.049196",
+        "description": "Industry: TBD\nRevenue: ???\nWebsite: ???",
+        "link": "/companies/bam",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/BAM.png",
+        "group_name": "coinbase cartel"
+    },
+    {
+        "post_title": "BW-RF",
+        "discovered": "2025-09-28 20:28:17.079180",
+        "description": "Industry: Financial Services\nRevenue: $50m\nWebsite: Not provided",
+        "link": "/companies/bw",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/BW-RF.png",
+        "group_name": "coinbase cartel"
+    },
+    {
+        "post_title": "PTR Asset Management",
+        "discovered": "2025-09-28 18:28:46.960047",
+        "description": "PTR Asset Management, KoreanLeak3 - A shell company that jumps from bed to bed. Meet PTR Asset Management. An investment company from South Korea. As they state on their official website, PTR Asset Management engages in value investing, ident            ...",
+        "link": "/site/view?uuid=70b22f04-a02c-3026-a076-e99fc6cb9859",
+        "magnet": null,
+        "screen": "screenshots/qilin/PTR Asset Management.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "relationmedia.dk",
         "discovered": "2025-09-28 15:27:37.230494",
         "description": "",
@@ -142,14 +169,5 @@
         "magnet": null,
         "screen": "screenshots/play/Atlas Pressed Metals.png",
         "group_name": "play"
-    },
-    {
-        "post_title": "Amos Spacecom Hacked",
-        "discovered": "2025-09-27 18:28:19.025778",
-        "description": "We, the Handala Hack, have successfully breached the security systems of Spacecom (Space Communication Ltd.), the operator of the critical AMOS satellite network. Every piece of sensitive information, including military, governmental, and security data transmitted and stored within their infrastructure, is now fully in our possession. Spacecom\u2019s AMOS satellites serve a wide array of functions,\u2026",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=487",
-        "magnet": null,
-        "screen": "screenshots/handala/Amos Spacecom Hacked.png",
-        "group_name": "handala"
     }
 ]
