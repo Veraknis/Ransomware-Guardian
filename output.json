@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "hsjlawyers.com",
+        "discovered": "2025-10-02 20:52:55.238293",
+        "description": "Founded in 1971, HSJ Lawyers is a prominent law firm located in Prince George, British Columbia, serving the legal needs of clients throughout Northern BC. With a team of 15 lawyers and 25 staff members, the firm specializes in various areas including business law, family law, employment law, personal injury law, real estate, and criminal law. HSJ Lawyers is known for its community involvement and is recognized as one of the largest and most comprehensive law firms in the region. Their clientele includes both individuals and businesses seeking trusted, local, and experienced legal representation. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/hsjlawyerscom.png",
+        "group_name": "3am"
+    },
+    {
+        "post_title": "F....el L....t",
+        "discovered": "2025-10-02 19:27:15.260124",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata"
+    },
+    {
+        "post_title": "sagchip.org",
+        "discovered": "2025-10-02 19:26:55.507672",
+        "description": "the Saginaw Chippewa Indian Tribe of Michigan, USA - It's impossible to keep a poker face now. This small community of about 3,000 people is located in Isabella County, near Mount Pleasant. The tribe owns gas stations, a water park, a hotel,             ...",
+        "link": "/site/view?uuid=2d26a17f-2c7a-3549-8faa-909f1ab8f327",
+        "magnet": null,
+        "screen": "screenshots/qilin/sagchiporg.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Mitchell Industries",
+        "discovered": "2025-10-02 19:26:54.557162",
+        "description": "Mitchell Industries, USA - like sand through one's fingers. The company manufactures Accu-Weld\u00a2 wedge wire screens for applications in both the petroleum and refining industries. The family-owned company has been in business for many years a            ...",
+        "link": "/site/view?uuid=83c659b1-b351-303f-a633-92081b019901",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mitchell Industries.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "wilsenergy.com/USA/77.1GB",
+        "discovered": "2025-10-02 19:26:50.367946",
+        "description": "Wilsenergy",
+        "link": "/detail?code=wilsenergy-com-usa-77-1gb",
+        "magnet": null,
+        "screen": "screenshots/kairos/wilsenergycomUSA771GB.png",
+        "group_name": "kairos"
+    },
+    {
+        "post_title": "Operation \u2013 \u201cEnter Upon Them By The Gate\u201d \u2013 0x01 : safety-car",
+        "discovered": "2025-10-02 18:27:39.919013",
+        "description": "\ud83d\udd34Bismillah\u2026\u2014 \u201cEnter Upon Them By The Gate\u201d \u2014\u2014 \u201c\u0627\u062f\u0652\u062e\u064f\u0644\u064f\u0648\u0652\u0627 \u0639\u064e\u0644\u064e\u06cc\u0652\u0647\u0650\u0645\u064f \u0627\u0644\u0652\u0628\u064e\u0627\u0628\u064e\u201d \u2014We here at Cyber Toufan decided not to keep you wait any longer and give you a small yet interesting leak for a company that were able to successfully breach and Exfiltrate their data\u2026This should be a reminder to you and your government that [\u2026]",
+        "link": "https://toufanleaks.org/?p=182",
+        "magnet": null,
+        "screen": "screenshots/toufan/Operation \u2013 \u201cEnter Upon Them By The Gate\u201d \u2013 0x01 : safety-car.png",
+        "group_name": "toufan"
+    },
+    {
+        "post_title": "Weber Flavors",
+        "discovered": "2025-10-02 18:27:19.693255",
+        "description": "",
+        "link": "/r/32cff47cc194c40ccb6862491dd1b7fc949481aa",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Weber Flavors.png",
+        "group_name": "ransomhouse"
+    },
+    {
+        "post_title": "suratisweetmart.com",
+        "discovered": "2025-10-02 18:27:17.810542",
+        "description": "We have over 600 GB of your data, if you dont want your data leak or sold, let u...",
+        "link": "/leaks/68de99b0cc2d2d4e68068d47",
+        "magnet": null,
+        "screen": "screenshots/lynx/suratisweetmartcom.png",
+        "group_name": "lynx"
+    },
+    {
+        "post_title": "Xebec Building",
+        "discovered": "2025-10-02 18:27:15.486641",
+        "description": "Xebec Building Company is a premier design build and general construction firm, providing services throughout the major Los Angeles and Southern California submarkets.We are going to upload corporate data soon. Detailed employee information (Name, DOB, DLs and other docs), financial and accounting files, clients and customers information, contracts and agreements, projects, lots of policies, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira"
+    },
+    {
+        "post_title": "Shamir Medical Center",
+        "discovered": "2025-10-02 17:27:55.901281",
+        "description": "We have successfully infiltrated and gained full access to your systems at Shamir Hospital, the largest medical facility in Israel. Over the course of our operation, we have exfiltrated approximately 8 terabytes of sensitive and confidential             ...",
+        "link": "/site/view?uuid=839cffc8-d981-3d0a-88fc-cab81e2c4afd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Shamir Medical Center.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Dual Temp",
         "discovered": "2025-10-02 15:27:18.168245",
         "description": "Dual Temp is a leader in mechanical engineering specializing in design, build and service of HVAC/R, Plumbing and Automated Building Control Systems in Eastern Pennsylvania.We are going to upload corporate data soon. Detailed employee information (DLs of more than 100 employees, photos and other employee files), detailed financials, information about customers, confidentiality agreements, projects, NDA, etc.",
@@ -205,77 +295,5 @@
         "magnet": null,
         "screen": "screenshots/toufan/Operation \u201c\u0627\u062f\u0652\u062e\u064f\u0644\u064f\u0648\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u064f \u0627\u0644\u0652\u0628\u064e\u0627\u0628\u064e\u201d \u2013 \u201cEnter Upon Them By The Gate\u201d \u2013 0x04.png",
         "group_name": "toufan"
-    },
-    {
-        "post_title": "t*t*a**o**.com",
-        "discovered": "2025-10-01 20:27:00.901943",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "a**h*y*in*er**t**nal.c*m",
-        "discovered": "2025-10-01 20:27:00.026832",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "www.profimetrics.com",
-        "discovered": "2025-10-01 20:26:59.150442",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "e***.o*g",
-        "discovered": "2025-10-01 20:26:58.294931",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "Mitrani Rynor Adamsky & Toland",
-        "discovered": "2025-10-01 20:26:56.382173",
-        "description": "The company has failed to contact us.\n\nFull file directory: http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/data/12/\n\n-- Files of interest --\n\nTrial list including discovery and perso            ...",
-        "link": "/site/view?uuid=0edae59e-dfcc-3453-9a19-151405d469ab",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mitrani Rynor Adamsky & Toland.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Allardyce Bower Consulting",
-        "discovered": "2025-10-01 19:27:06.881981",
-        "description": "If the company does not contact us by 17/10/2025 the files will be published.<br><br><br>-- Files of interest --<br><br>Employee hourly rates and salary:<br>\u2514\u2500\u2500files/Finance/Employee Rate Sheet/2025 ABC Employee Rates.xlsx<br>/home/abc2/Users/brent.allardyce/Desktop/temp/Copy of Monthly Employee Cost January 2022.xlsx<br><br>Contract list with client name and profit margins:<br>\u2514\u2500\u2500files/Finance/Reports/Entropy Profitability.xlsx<br><br>Major client list with project names:<br>\u251c\u2500\u2500files/Finance/Monthly Reports ABC/2025 ABC Monthly Financials/11. July 2025/New folder/Unearned Revenue Accrual Calculation Spreadsheet Jul 31'25.pdf<br>\u2514\u2500\u2500files/Finance/2025 ABC INVOICE TRACKING - JUL 31.pdf<br><br>Project folder with technical details and AutoCAD files:<br>\u251c\u2500\u2500files/ABC_Projects<br>\u2514\u2500\u2500files/Entropy<br><br>Profit&Loss statement:<br>\u2514\u2500\u2500files/Finance/Monthly Reports ABC/2025 ABC Monthly Financials/10. June 2025/ABC P&L - June 2025.pdf<br><br>Corporate credit card details:<br>\u2514\u2500\u2500files/Finance/MasterCard Statements/Copy of Cards<br><br>Bank and investment balances:<br>\u2514\u2500\u2500files/Finance/Bank Reconciliatons (BMO, Investorline, BMONB)<br><br>Cyber insurance limits:<br>\u2514\u2500\u2500files/ABC Office Administration/Insurance Information/2025-26 Renewal Documents/Cyber 25-26.pdf<br><br>NDAs and legal documents:<br>\u2514\u2500\u2500files/ABC Office Administration/Legal",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop"
-    },
-    {
-        "post_title": "The Plainview Volunteer FD",
-        "discovered": "2025-10-01 18:26:52.673484",
-        "description": "",
-        "link": "/r/4ae7be57744abcc2807029a834d038714a72b6ec",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/The Plainview Volunteer FD.png",
-        "group_name": "ransomhouse"
-    },
-    {
-        "post_title": "Barr and Barr",
-        "discovered": "2025-10-01 17:27:36.979563",
-        "description": "Barr & Barr, Inc is a construction management company that provides building information modeling & construction management.We are going to upload 323gb of corporate data. Employee detailedinformation (name, address, DOB, phones, scanned passports, DLs,death reports and so on), financials, clients information, contracts and agreements, projects, and of other files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
     }
 ]
