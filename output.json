@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "hillsidelibrary.org",
+        "discovered": "2025-10-05 09:27:37.964236",
+        "description": "",
+        "link": "/blog/disclosures/68e1f7bffa0b6f4bdfe0de63",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/hillsidelibraryorg.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "stalkerradar.com",
+        "discovered": "2025-10-05 07:27:42.322616",
+        "description": "",
+        "link": "/blog/disclosures/68e1f834fa0b6f4bdfe0e5a6",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/stalkerradarcom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "ocmaine.com",
+        "discovered": "2025-10-05 06:27:26.213917",
+        "description": "",
+        "link": "/blog/disclosures/68e1e908fa0b6f4bdfe01689",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ocmainecom.png",
+        "group_name": "inc ransom"
+    },
+    {
+        "post_title": "SD Soluciones Digitales",
+        "discovered": "2025-10-05 03:27:33.193920",
+        "description": "Soluciones Digitales is a company that operates in the Commercial Printing industry. It employs 10to19 people and has 5Mto10M of revenue. The company is headquartered in Guadalajara, Jalisco, Mexico - 80GB data include invoices and resources , billing , Documents , reports etc",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/SD Soluciones Digitales.png",
+        "group_name": "nova"
+    },
+    {
+        "post_title": "Rihatec.de",
+        "discovered": "2025-10-05 01:27:09.901104",
+        "description": "Rihatec Systeml\u00f6sungen, Germany - Automation of control systems, innovative solutions, cooperation with large corporations. Sounds impressive, doesn't it? However, there is one caveat. Rihatec Systeml\u00f6sungen GmbH was founded in 1995 near Mu            ...",
+        "link": "/site/view?uuid=8784b9e3-ac0d-3524-a08d-8bb4c4b927b6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Rihatecde.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "uhlcompany.com",
+        "discovered": "2025-10-05 01:27:08.142917",
+        "description": "Imagine that the building where you live or work has gone haywire. You can't turn the lights on or off, the heating and air conditioning systems are out of order, and the video cameras have stopped focusing on the right areas. Do you think th            ...",
+        "link": "/site/view?uuid=be835848-e570-3cfe-a4de-eab12065da76",
+        "magnet": null,
+        "screen": "screenshots/qilin/uhlcompanycom.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Mill Bay Marine Group",
+        "discovered": "2025-10-04 23:27:21.132066",
+        "description": "If the company does not contact us by 06/10/2025 the data will be published.<br><br>For early access to data, questions and inquiries message us on Tox: BAFBD2AE7FC859F27D49471EF83365DD7E345EB3908B0612BFE83FEF33F79919A6C636A4E543<br><br>-- Files of interest --<br><br>Paying customer list:<br>\u251c\u2500\u2500files/ServerFolders/MBM$/ACCOUNTING/2025 Prepaid.xlsx<br>\u2514\u2500\u2500files/ServerFolders/MBM$/CUSTOMERS/2024 Renewals.xlsx<br><br>Customer email list:<br>\u2514\u2500\u2500files/ServerFolders/Bridgemans$/Customer Contacts.xlsx<br><br>Insurance contracts:<br>\u2514\u2500\u2500files/ServerFolders/Acct$/Insurance<br><br>Staff contact information:<br>\u2514\u2500\u2500files/ServerFolders/MBM$/STAFF/10 July 2025 Staff Contacts.xlsx<br><br>Payment terminal information:<br>\u2514\u2500\u2500files/ServerFolders/Acct$/Moneris and Global Info<br><br>Owned property documents:<br>\u2514\u2500\u2500files/ServerFolders/Acct$/Property Tax/2025 Property Tax/Assessments<br>",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop"
+    },
+    {
+        "post_title": "KillSec 4.0\u00a0?",
+        "discovered": "2025-10-04 21:28:04.719041",
+        "description": "?",
+        "link": "?pid=xm67yLy0Lr5rsAb3g1tp7oOz",
+        "magnet": null,
+        "screen": "screenshots/killsec3/KillSec 40\u00a0.png",
+        "group_name": "killsec3"
+    },
+    {
+        "post_title": "AIP Asset Management",
+        "discovered": "2025-10-04 21:27:48.240668",
+        "description": "AIP Asset Management, KoreanLeak3 - is a global financial error.  A company with a market-leading specialization in alternative investment strategies. AIP provides institutional and retail clients with access to customized investments that gi            ...",
+        "link": "/site/view?uuid=da5572b9-1c56-38a2-bad3-2f9bfdca98f0",
+        "magnet": null,
+        "screen": "screenshots/qilin/AIP Asset Management.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Standard Fiber",
         "discovered": "2025-10-04 17:27:46.283281",
         "description": "",
@@ -120,78 +201,6 @@
         "post_title": "AUSA Soluciones Logisticas",
         "discovered": "2025-10-04 12:27:52.601844",
         "description": "https://www.zoominfo.com/c/ausa-soluciones-logisticas-sa/405951553 www.ausa.com.pe Somos AUSA, uno de los operadores log\u00edsticos l\u00edderes en el sector con m\u00e1s de 35 a\u00f1os de experiencia en la simplificaci\u00f3n de las operaciones de comercio internacional. Iniciamos nuestras operaciones brindando el servicio de Aduanas, pero en el transcurso de los a\u00f1os hemos complementado nuestra oferta, lo cual nos ha convertido en un operador capaz de ofrecer todos los servicios de la cadena log\u00edstica local e internacional: Seguimiento Pre-Embarque, Forwarding, Agenciamiento Aduanero, Transporte y Almacenes, y Distribuci\u00f3n. AUSA Soluciones Logisticas SA is a company that operates in the Freight & Logistics Services industry. It employs 500to999 people and has 25Mto50M of revenue. The company is headquartered in Lima, Lima Province, Peru.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen"
-    },
-    {
-        "post_title": "Corban OneSource",
-        "discovered": "2025-10-04 02:26:53.473668",
-        "description": "Corban OneSource, USA - maximize risks to compliance. Company provides comprehensive HR outsourcing services, including payroll administration, employee benefits management, and HR support, aimed at reducing risks and improving organizational            ...",
-        "link": "/site/view?uuid=c5416f5c-ae26-3d3b-9798-fb573376b611",
-        "magnet": null,
-        "screen": "screenshots/qilin/Corban OneSource.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "IONODES",
-        "discovered": "2025-10-04 02:26:52.569899",
-        "description": "IONODES, Canada - Privacy? No, we don't know about that. The company supplies and configures solutions for IP video storage, management, and display. Its products include smart devices such as IP video encoders and decoders, NVR servers, reco            ...",
-        "link": "/site/view?uuid=6620e7b0-69b5-3aef-bbb3-8400af963921",
-        "magnet": null,
-        "screen": "screenshots/qilin/IONODES.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Western Orthopaedics",
-        "discovered": "2025-10-04 02:26:48.560235",
-        "description": "The orthopaedic surgery, musculoskeletal conditions, sports injuries and spinal conditions",
-        "link": "Companies/western-ortho",
-        "magnet": null,
-        "screen": "screenshots/pear/Western Orthopaedics.png",
-        "group_name": "pear"
-    },
-    {
-        "post_title": "Dnc",
-        "discovered": "2025-10-03 21:49:47.303392",
-        "description": "dnc is an innovative company that offers a range of services including business consulting, facility management, eBusiness solutions, and GDPR compliance. The company aims to help businesses enhance their image and profitability. They serve a variety of clients looking for expertise in improving operational efficiencies and adherence to regulations. dnc is also recognized as an official partner of Heron - we have 130GB of data include billing , plans , costumers full names , phone numbers , gmails , genders , plans , payments and invoices and lot more",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova"
-    },
-    {
-        "post_title": "Waterborne Environmental",
-        "discovered": "2025-10-03 21:27:31.259778",
-        "description": "",
-        "link": "topic.php?id=04ztFj23A8fhcP",
-        "magnet": null,
-        "screen": "screenshots/play/Waterborne Environmental.png",
-        "group_name": "play"
-    },
-    {
-        "post_title": "www.hameshakem.co.il",
-        "discovered": "2025-10-03 21:27:12.624402",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "teeuwissen.com",
-        "discovered": "2025-10-03 21:27:11.721653",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2"
-    },
-    {
-        "post_title": "Astra Otoparts / PT. Inti Ganda Perdana",
-        "discovered": "2025-10-03 21:27:09.169074",
-        "description": "Stock Symbol AUTO.JK www.astra-otoparts.com http://www.igpgroup.astra.co.id https://www.zoominfo.com/c/pt-astra-otoparts-tbk/344291036 https://rocketreach.co/pt-inti-ganda-perdana-profile_b5c1ba2ff42e08d3 20 billion USD revenue. Astra Otoparts is an Indonesia-based manufacturing company. The Company is engaged in the trading of automotive components for domestic and international markets, including other Asian countries, the Middle East and Africa. It is also engaged in the manufacture of metal, automotive components and plastics. PT. Inti Ganda Perdana mainly manufactures rear axle and propeller shafts, and has decided on its mission to become a reliable drive shaft and drive axle manufacturer, with a vision to become a company with competitive advantage on the global market.",
         "link": null,
         "magnet": null,
         "screen": null,
