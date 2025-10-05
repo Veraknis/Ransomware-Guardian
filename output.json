@@ -88,23 +88,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/AIP Asset Management.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Standard Fiber",
-        "discovered": "2025-10-04 17:27:46.283281",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/3",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Standard Fiber.png",
-        "group_name": "blackshrantac"
-    },
-    {
-        "post_title": "Medstar Health",
-        "discovered": "2025-10-04 17:27:26.538316",
-        "description": "Medstar Health\nMedStar Health, founded in 1998, is a not-for-profit healthcare system serving Maryland and the Washington, D.C. region. The organization operates a network of 10 hospitals, multiple ambulatory care facilities, and urgent care centers.  Over 7 million pieces of patient personal data!SQL databases, diagnoses, pharmaceuticals, and much more!\n\n\n\nMore",
-        "link": "archive.php?company=211",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Medstar Health.png",
-        "group_name": "rhysida"
     }
 ]
