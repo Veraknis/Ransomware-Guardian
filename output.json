@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Integlia",
+        "discovered": "2025-10-11 20:24:57.159236",
+        "description": "Tax & Bookkeeping Solution",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood"
+    },
+    {
+        "post_title": "Citizens' Committee for Children of New York",
+        "discovered": "2025-10-11 20:24:56.255990",
+        "description": "Organizations",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood"
+    },
+    {
+        "post_title": "O'Connor Capital Partners",
+        "discovered": "2025-10-11 20:24:32.838792",
+        "description": "O'Connor Capital Partners is a real estate investment firm specializing in retail, office, industrial, lodging, and multifamily, which are located in the metropolitan markets of North America and Europe. The firm was founded in 1983 and is ba            ...",
+        "link": "/site/view?uuid=a63c6f1b-34e5-3d37-98bf-de7d198be101",
+        "magnet": null,
+        "screen": "screenshots/qilin/O'Connor Capital Partners.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "ShapeCorp",
+        "discovered": "2025-10-11 17:33:05.585883",
+        "description": "Shape Corp. is a global leader in automotive engineering and manufacturing, providing advanced crash management and body structure solutions utilizing ultra-high strength steel roll forming, tight tolerance aluminum extrusions and large tonnage injection molding. The company specializes in producing lightweight and innovative products that maximize performance while minimizing environmental impact.\n[[ Data extracted include Engineering design files, Marketing and presentation assets, CAD, mechanical designs, CNC programs, project documentation, automation data, brand media, financial, production, and quality assurance records etc.. ]] - (Update 11/10/2025) Tree sample Provided. highly proprietary data. Vendor Companies like Ford Motor, General Motors, Jaguar Land Rover, Magna International and other.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/ShapeCorp.png",
+        "group_name": "nova"
+    },
+    {
         "post_title": "Mandom Corporation",
         "discovered": "2025-10-11 16:32:03.465430",
         "description": "",
@@ -232,32 +268,5 @@
         "magnet": null,
         "screen": "screenshots/pear/Brevard Skin.png",
         "group_name": "pear"
-    },
-    {
-        "post_title": "Artan Holding",
-        "discovered": "2025-10-10 19:58:57.432196",
-        "description": "Artan Holding is a Qatari family-owned holding company with a diverse portfolio of leading businesses in the Education, Real Estate, and Industrial sectors operating primarily in Qatar. Since its founding more than 25 years ago Artan Holding             ...",
-        "link": "/site/view?uuid=55758ce1-0dce-31b1-ba2e-146262f782be",
-        "magnet": null,
-        "screen": "screenshots/qilin/Artan Holding.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "grupocaparros.com",
-        "discovered": "2025-10-10 18:28:45.334328",
-        "description": "Caparr\u00f3s, Spain - One of the leading companies at the national level for the sale of agricultural products abroad. The company sells local products: tomatoes, peppers, cucumbers, eggplants, zucchini and watermelons. The main sales market is             ...",
-        "link": "/site/view?uuid=7c453a39-36e5-37b6-9f26-a98511d7954f",
-        "magnet": null,
-        "screen": "screenshots/qilin/grupocaparroscom.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Den Hartogh Logistics",
-        "discovered": "2025-10-10 17:31:56.091591",
-        "description": "Data leak at one of the world's leading logistics service providers",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Y7OnM4Gx4xWneD7K1P1EM+uQ9tv6DLI3odLi2TRnzbJIoWesbf+w3pVU9SfCOL6RHTVsrHtWs1Um8jYR1HjjjV2Q3hyTXNO",
-        "magnet": null,
-        "screen": "screenshots/anubis/Den Hartogh Logistics.png",
-        "group_name": "anubis"
     }
 ]
