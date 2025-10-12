@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "Valtorta",
+        "discovered": "2025-10-12 20:33:20.676760",
+        "description": "Valtorta, Italy -  develops and manufactures industrial cranes. Valtorta is the natural evolution of TRASMEC srl that has been especially operating in the sector of the bridge cranes since 1969. Its highly skilled staff includes a lot of tech            ...",
+        "link": "/site/view?uuid=1fd0a673-8c64-3736-bf05-ca8cc832ff04",
+        "magnet": null,
+        "screen": "screenshots/qilin/Valtorta.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "HARVARD.EDU",
+        "discovered": "2025-10-12 19:42:14.985481",
+        "description": "Headquarters:\r\nMassachusetts Hall, Cambridge, Massachusetts, 02138, United States\r\nPhone:\r\n(617) 495-1000\r\nWebsite:\r\nwww.harvard.edu\r\nRevenue:\r\n$6.1 Billion\r\nIndustry:\r\nColleges & Universities, Education ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/HARVARDEDU.png",
+        "group_name": "clop"
+    },
+    {
+        "post_title": "Ministerio de Salud de la Naci\u00f3n argentina",
+        "discovered": "2025-10-12 16:57:18.701067",
+        "description": "The Ministry of Health of Argentina is the agency responsible for coordinating and overseeing public health policy in the country. Its objective is to strengthen the health system in a federal and equitable manner, ensuring access to quality health services for the population. Since September 30, 2024, the Minister of Health is Mario Lugones, who assumed the position following the departure of Mario Russo. The ministry is also responsible for epidemiology, vaccination campaigns, and border health control, among other functions - The data include high sansitive informations for more then 2 millions patients in xlsx files , (APPLICATION_DATE;\nMONTH;PROVINCE;\nDEPARTMENT;\nLOCALITY;\nVACCINE;\nCONDITION;\nAGE_RANGE;\nREGISTRATION_DELAY_RANGE_DAYS;\nSEX;GENERIC_DOSE;\nQUANTITY - FECHA_APLICACION;\nMES;PROVINCIA;\nDEPARTAMENTO;LOCALIDAD;\nVACUNA;\nCONDICION;\nRANGO_ETARIO;\nRANGO_DEMORA_REGISTRO_DIAS;\nSEXO;DOSIS_GENERICA;\nCANTIDAD and lot more) \nwe don't provide samples becouse its very private data but we provide tree to folders , all files in XLSx-organized files, get in touch",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Ministerio de Salud de la Naci\u00f3n argentina.png",
+        "group_name": "nova"
+    },
+    {
         "post_title": "Spectra Logic+DATA",
         "discovered": "2025-10-12 12:28:09.776757",
         "description": "ALL THE DATE IS AVAILABLE FOR DOWNLOAD \nSpectra Logic, USA - data protection and storage company LMAOOOAHHAHA I'm dead!!! Sorry, but this is really really funny. PROTECTION! STORAGE! DATA!!!! On our blog, yes. So, Spectra Logic helps organiz            ...",
@@ -43,41 +70,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "bqtlock"
-    },
-    {
-        "post_title": "Integlia",
-        "discovered": "2025-10-11 20:24:57.159236",
-        "description": "Tax & Bookkeeping Solution",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood"
-    },
-    {
-        "post_title": "Citizens' Committee for Children of New York",
-        "discovered": "2025-10-11 20:24:56.255990",
-        "description": "Organizations",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood"
-    },
-    {
-        "post_title": "O'Connor Capital Partners",
-        "discovered": "2025-10-11 20:24:32.838792",
-        "description": "O'Connor Capital Partners is a real estate investment firm specializing in retail, office, industrial, lodging, and multifamily, which are located in the metropolitan markets of North America and Europe. The firm was founded in 1983 and is ba            ...",
-        "link": "/site/view?uuid=a63c6f1b-34e5-3d37-98bf-de7d198be101",
-        "magnet": null,
-        "screen": "screenshots/qilin/O'Connor Capital Partners.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "ShapeCorp",
-        "discovered": "2025-10-11 17:33:05.585883",
-        "description": "Shape Corp. is a global leader in automotive engineering and manufacturing, providing advanced crash management and body structure solutions utilizing ultra-high strength steel roll forming, tight tolerance aluminum extrusions and large tonnage injection molding. The company specializes in producing lightweight and innovative products that maximize performance while minimizing environmental impact.\n[[ Data extracted include Engineering design files, Marketing and presentation assets, CAD, mechanical designs, CNC programs, project documentation, automation data, brand media, financial, production, and quality assurance records etc.. ]] - (Update 11/10/2025) Tree sample Provided. highly proprietary data. Vendor Companies like Ford Motor, General Motors, Jaguar Land Rover, Magna International and other.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/ShapeCorp.png",
-        "group_name": "nova"
     }
 ]
