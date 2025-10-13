@@ -1,5 +1,59 @@
 [
     {
+        "post_title": "michigancityin.gov",
+        "discovered": "2025-10-13 07:54:51.659930",
+        "description": "",
+        "link": "/leaks/10",
+        "magnet": null,
+        "screen": "screenshots/obscura/michigancityingov.png",
+        "group_name": "obscura"
+    },
+    {
+        "post_title": "Dynamic Precision Sverige",
+        "discovered": "2025-10-12 23:31:15.198118",
+        "description": "Dynamic Precision Sverige, Norway - is a company that operates in the Electronics industry. The company designs and builds complex microelectronics, starting from an idea, through prototyping and production line development to a mass producti            ...",
+        "link": "/site/view?uuid=ca993b69-6fe1-3070-b514-2a34e3716306",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dynamic Precision Sverige.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Frisquet",
+        "discovered": "2025-10-12 23:31:14.305404",
+        "description": "Frisquet, France - is a manufacturer specializing in gas boilers and renewable energy solutions, offering a range of products including heat pumps, hot water tanks, and hybrid systems. Their offerings are aimed at both residential and collect            ...",
+        "link": "/site/view?uuid=2b200a55-c6f4-303c-9ac8-7ba779bfe554",
+        "magnet": null,
+        "screen": "screenshots/qilin/Frisquet.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "IDB Clinicas",
+        "discovered": "2025-10-12 23:31:09.708388",
+        "description": "Grupo de Clinicas IDB provides business services. Contact them directly for more...",
+        "link": "/leaks/68ec0c9688b6823fa281f98a",
+        "magnet": null,
+        "screen": "screenshots/sinobi/IDB Clinicas.png",
+        "group_name": "sinobi"
+    },
+    {
+        "post_title": "CMF",
+        "discovered": "2025-10-12 23:31:08.741690",
+        "description": "CMF Inc specializes in expert design assistance, fabrication, and installation s...",
+        "link": "/leaks/68ec0d8a88b6823fa282010f",
+        "magnet": null,
+        "screen": "screenshots/sinobi/CMF.png",
+        "group_name": "sinobi"
+    },
+    {
+        "post_title": "Sunbelt Design & Development",
+        "discovered": "2025-10-12 23:31:07.602867",
+        "description": "Sunbelt Design & Development, Inc. specializes in ground handling equipment, lif...",
+        "link": "/leaks/68ec0e8988b6823fa2820a0f",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Sunbelt Design & Development.png",
+        "group_name": "sinobi"
+    },
+    {
         "post_title": "Valtorta",
         "discovered": "2025-10-12 20:33:20.676760",
         "description": "Valtorta, Italy -  develops and manufactures industrial cranes. Valtorta is the natural evolution of TRASMEC srl that has been especially operating in the sector of the bridge cranes since 1969. Its highly skilled staff includes a lot of tech            ...",
@@ -34,41 +88,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/Spectra Logic+DATA.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Team Schierl Companies",
-        "discovered": "2025-10-12 03:26:04.554191",
-        "description": "Team Schierl Companies is an organization of retail businesses and real estate development. TSC was founded in 1956 and is currently headquartered in Stevens Point, Wisconsin. Today, the family owned and operated Team Schierl Companies passed            ...",
-        "link": "/site/view?uuid=3c2c6aec-b284-3ec1-87e6-cc187699735d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Team Schierl Companies.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Streebo",
-        "discovered": "2025-10-12 01:02:42.208891",
-        "description": "",
-        "link": "/news/streebo/",
-        "magnet": null,
-        "screen": "screenshots/everest/Streebo.png",
-        "group_name": "everest"
-    },
-    {
-        "post_title": "Adore UAE",
-        "discovered": "2025-10-11 22:01:01.671927",
-        "description": "Domains:\n\nadoreuae.com\nwww.adoreuae.com\n\n\n\nActive Since:\n2017\n\n\nData Size:\n~private (encrypted)\n\n\nPayment Status:\nUnpaid (66 XMR requested)\n\n\nEncrypted Type:\nAll servers and data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "bqtlock"
-    },
-    {
-        "post_title": "EPS FUJ Private School UAE",
-        "discovered": "2025-10-11 22:01:00.756232",
-        "description": "Domains:\n\nepsfuj.com\nwww.epsfuj.com\n\n\n\nActive Since:\n2024\n\n\nData Size:\n~private(encrypted)\n\n\nPayment Status:\nUnpaid (50 XMR requested)\n\n\nEncrypted Type:\nAll servers and data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "bqtlock"
     }
 ]
