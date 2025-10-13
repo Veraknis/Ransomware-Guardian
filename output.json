@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "****** embassy D.C",
+        "discovered": "2025-10-13 21:01:18.255066",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2"
+    },
+    {
+        "post_title": "SourceOne Corporation",
+        "discovered": "2025-10-13 21:01:16.415446",
+        "description": "SourceOne Corporation, USA - specializes in managing all phases of Outside Plant (OSP) and Inside Plant (ISP) projects, offering comprehensive solutions including fiber design, permitting, construction, and final inspection. The company provi            ...",
+        "link": "/site/view?uuid=7f590f16-c8cd-353a-9072-7fe001d60114",
+        "magnet": null,
+        "screen": "screenshots/qilin/SourceOne Corporation.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Fountains Condominium Operations",
+        "discovered": "2025-10-13 21:01:13.725256",
+        "description": "Fountains Condominium Operations Inc. is an in-house management company dedicated to ensuring the beauty, safety, and stability of the area, promoting neighborl...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce"
+    },
+    {
+        "post_title": "hautsdefrance.fr",
+        "discovered": "2025-10-13 18:39:49.847782",
+        "description": "The Regional Council manages regional programs (economy, transport, education, vocational training, culture/sports, ecology).\n1.passports\n2.Personal data\n3.School incident report",
+        "link": "/site/view?uuid=80d021bf-eb14-3630-80dc-57fbe4295d7e",
+        "magnet": null,
+        "screen": "screenshots/qilin/hautsdefrancefr.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "Undefasa www.undefasa.com",
         "discovered": "2025-10-13 16:43:15.398209",
         "description": "Ceramicists since 1967We are a family-run business that was established in the heat of the Sierra, and since then Undefasa has made its mark at the heart of Spain\u2019s thriving ceramics industry.Over the years, we have cemented our position with the firm belief that each of our products truly reflects the tradition and passion of well-crafted ceramics.These values have been shaped by our long history, experience, hard work and dedication.To transmit our passion for ceramics to our customers, through unique products, which provide the habitat with safety values due to their quality and differentiation.Versatile and excellent products in terms of their design that remain durable and unalterable over time, both for their style and the resistance of their materials.At Undefasa, the human factor is fundamental to our corporate culture. We firmly believe that only by creating a strong culture can we generate lasting value over time, building on and enhancing the experience of the past.The concepts of design and innovation thus take on a more significant value as they coexist with the company\u2019s memory and heritage.We work with an integrated management system based on continuous improvement in all phases of the production process, from conception and design to the distribution and sale of our materials.As a family-owned company, we have undergone a process of constant evolution and adaptation as we have faced the changing environment.Throughout our history, we have learned to respond flexibly to challenges, always striving for excellence.A company rooted in the past and looking to the future.We strive to meet the expectations of consumers and their current demands through the generation of new ideas, innovation and design.To transmit our passion for ceramics to our customers, through unique products that bring to the habitat safety values for their quality and differentiation.Multipurpose products, and excellent in terms of design that remain durable and unalterable over time, both for its style and the strength of its materials.Our premise is to design products that coexist with us, that add value and allow us to create unique spaces._ALWAYS BESIDE YOUOur motto \u201cAlways beside you\u201d is our raison d\u2019\u00eatre, always close to our customers102634 files2.3 TBhttps://gofile.io/d/2teefQ",
@@ -14,7 +50,7 @@
         "description": "Furuno Electric\nFURUNO strives to contribute to realisation of the pleasant society filled with safety and peace of mind by giving visual form to that previously invisible, such as underwater condition, situation around ships, accurate time, people's physical conditions, etc.\n\n\n\nMore",
         "link": "archive.php?company=214",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/rhysida/Furuno Electric.png",
         "group_name": "rhysida"
     },
     {
@@ -178,32 +214,5 @@
         "magnet": null,
         "screen": "screenshots/sinobi/Sunbelt Design & Development.png",
         "group_name": "sinobi"
-    },
-    {
-        "post_title": "Valtorta",
-        "discovered": "2025-10-12 20:33:20.676760",
-        "description": "Valtorta, Italy -  develops and manufactures industrial cranes. Valtorta is the natural evolution of TRASMEC srl that has been especially operating in the sector of the bridge cranes since 1969. Its highly skilled staff includes a lot of tech            ...",
-        "link": "/site/view?uuid=1fd0a673-8c64-3736-bf05-ca8cc832ff04",
-        "magnet": null,
-        "screen": "screenshots/qilin/Valtorta.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "HARVARD.EDU",
-        "discovered": "2025-10-12 19:42:14.985481",
-        "description": "Headquarters:\r\nMassachusetts Hall, Cambridge, Massachusetts, 02138, United States\r\nPhone:\r\n(617) 495-1000\r\nWebsite:\r\nwww.harvard.edu\r\nRevenue:\r\n$6.1 Billion\r\nIndustry:\r\nColleges & Universities, Education ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/HARVARDEDU.png",
-        "group_name": "clop"
-    },
-    {
-        "post_title": "Ministerio de Salud de la Naci\u00f3n argentina",
-        "discovered": "2025-10-12 16:57:18.701067",
-        "description": "The Ministry of Health of Argentina is the agency responsible for coordinating and overseeing public health policy in the country. Its objective is to strengthen the health system in a federal and equitable manner, ensuring access to quality health services for the population. Since September 30, 2024, the Minister of Health is Mario Lugones, who assumed the position following the departure of Mario Russo. The ministry is also responsible for epidemiology, vaccination campaigns, and border health control, among other functions - The data include high sansitive informations for more then 2 millions patients in xlsx files , (APPLICATION_DATE;\nMONTH;PROVINCE;\nDEPARTMENT;\nLOCALITY;\nVACCINE;\nCONDITION;\nAGE_RANGE;\nREGISTRATION_DELAY_RANGE_DAYS;\nSEX;GENERIC_DOSE;\nQUANTITY - FECHA_APLICACION;\nMES;PROVINCIA;\nDEPARTAMENTO;LOCALIDAD;\nVACUNA;\nCONDICION;\nRANGO_ETARIO;\nRANGO_DEMORA_REGISTRO_DIAS;\nSEXO;DOSIS_GENERICA;\nCANTIDAD and lot more) \nwe don't provide samples becouse its very private data but we provide tree to folders , all files in XLSx-organized files, get in touch",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Ministerio de Salud de la Naci\u00f3n argentina.png",
-        "group_name": "nova"
     }
 ]
