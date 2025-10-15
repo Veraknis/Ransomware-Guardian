@@ -1,5 +1,194 @@
 [
     {
+        "post_title": "Global Go",
+        "discovered": "2025-10-15 09:25:23.012583",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3"
+    },
+    {
+        "post_title": "ICET Studios",
+        "discovered": "2025-10-15 08:25:05.232017",
+        "description": "www.icetstudios.com All'interno delle proprie strutture la ICET Studios dispone di personale qualificato in tutte le attivit\u00e0 legate alla realizzazione di scenografie (falegnami, pittori, decoratori, fabbri, elettricisti e montatori) e di personale esperto nelle problematiche di progettazione e gestione delle produzioni cinetelevisive e pubblicitarie, nonch\u00e9 nell'organizzazione e gestione di eventi e fiere. \u00c8 in grado di fornire ai clienti un servizio \"chiavi in mano\" e di operare sia in Italia sia all'estero.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen"
+    },
+    {
+        "post_title": "Rihatec Systeml\u00f6sungen",
+        "discovered": "2025-10-15 02:25:00.775767",
+        "description": "Rihatec specializes in the construction of control cabinets and automation solutions for machines and systems. Based in Munich, the company serves clients in the DACH region with a range of products, including standard and customizable contro            ...",
+        "link": "/site/view?uuid=3eaff551-5b65-3b5b-9882-94845a844fa6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Rihatec Systeml\u00f6sungen.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Executive Cabinetry",
+        "discovered": "2025-10-15 02:24:59.849560",
+        "description": "Located in Simpsonville, South Carolina, Executive Cabinetry is an industry leader in semi-custom and custom cabinetry. The Executive Cabinetry facility encompasses 226,000 square feet of vertically integrated manufacturing space. Simply stat            ...",
+        "link": "/site/view?uuid=3ba3c58a-1620-3b55-b8a3-b73f619e4977",
+        "magnet": null,
+        "screen": "screenshots/qilin/Executive Cabinetry.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Alu Perpignan",
+        "discovered": "2025-10-15 02:24:58.917094",
+        "description": "ALU Perpignan specializes in PVC and aluminum joinery for individuals and professionals, working on both residential and commercial projects. Drawing on its expertise and know-how, the company offers a wide range of products, including window            ...",
+        "link": "/site/view?uuid=9ddf1c6c-7e52-329b-b2da-56a3c538ab2e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Alu Perpignan.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Home/ Schramm Udo Dipl Kfm Steuerberater",
+        "discovered": "2025-10-15 02:24:57.974794",
+        "description": "The Marcus Schramm Law Firm offers competent legal advice and an experienced team. We specialize in various areas of law and place the highest priority on quality and professionalism.\nThe amount of downloaded data is unknown at the moment. I            ...",
+        "link": "/site/view?uuid=178b15e0-6438-3828-a649-1fd662b4e2e8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Home Schramm Udo Dipl Kfm Steuerberater.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Roger RENARD Entreprise",
+        "discovered": "2025-10-15 02:24:57.040441",
+        "description": "A family business founded in 1951 in Am\u00e9lie-les-Bains (66) by Roger RENARD, we specialize in air conditioning, heating, air handling, smoke extraction, plumbing, water treatment, and thermal process installations.\nWe operate nationwide, bot            ...",
+        "link": "/site/view?uuid=3c6d0a58-7134-3b4f-8bf5-02a4e00205f8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Roger RENARD Entreprise.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Hunter Construction Group",
+        "discovered": "2025-10-15 02:24:56.125470",
+        "description": "With a relentless drive to exceed excellence, Jason and West Hunter III, have grown Hunter Construction Group exponentially from a small landscaping company to one of the most respected contractors in the industry. As an unlimited licensed ge            ...",
+        "link": "/site/view?uuid=0d96ba6f-149c-34f5-8302-4148479cff70",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hunter Construction Group.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Urban Linker",
+        "discovered": "2025-10-15 02:24:55.215227",
+        "description": "Urban Linker is a recruitment agency that specializes in sourcing and placing digital and tech professionals. Founded over eight years ago, the company has a strong presence in France with offices in Paris, Lyon, Toulouse, and Bordeaux, and i            ...",
+        "link": "/site/view?uuid=f3eb6919-36a4-30ae-951c-bd9bc08cc082",
+        "magnet": null,
+        "screen": "screenshots/qilin/Urban Linker.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Alqueria",
+        "discovered": "2025-10-15 02:24:54.313493",
+        "description": "Productos Naturales de la Sabana S.A.S., doing business as Alquer\u00eda, is a Colombian company that produces food, especially dairy products and beverages. Founded between 1958 and 1959, it currently has 7 processing plants and 21 distribution             ...",
+        "link": "/site/view?uuid=80abe74b-1d86-3c3f-b2f3-6001db7c2407",
+        "magnet": null,
+        "screen": "screenshots/qilin/Alqueria.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "SICE",
+        "discovered": "2025-10-15 02:24:53.382453",
+        "description": "SICE is a leading multinational company in technology integration for public infrastructure management. With over 100 years of history, it has become an international benchmark in the areas of ITS, tunnels, transportation, mobility and smart             ...",
+        "link": "/site/view?uuid=19650561-99ff-3c4a-8140-8c24391190c8",
+        "magnet": null,
+        "screen": "screenshots/qilin/SICE.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Landmark Management",
+        "discovered": "2025-10-15 02:24:52.478420",
+        "description": "Landmark Management, Inc., manages 90 projects, consisting of 2,462 units across 5 states. Whether you are searching for an apartment to rent or a reliable company to manage your rural development property, let us put our thirty-six years of             ...",
+        "link": "/site/view?uuid=88a12bf2-f21a-388b-8f89-422645cffa1b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Landmark Management.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "SFG Technology Sdn Bhd",
+        "discovered": "2025-10-15 02:24:51.534615",
+        "description": "SFG Technology specializes in high voltage and medium voltage electrical power systems, solar renewable energy, and smart grid solutions. Their product offerings include electrical network management systems, power factor capacitors, and test            ...",
+        "link": "/site/view?uuid=7762f78d-9e97-3e7a-b868-1bf3a5715d45",
+        "magnet": null,
+        "screen": "screenshots/qilin/SFG Technology Sdn Bhd.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "WebCut Converting",
+        "discovered": "2025-10-15 02:24:50.608178",
+        "description": "WebCut Converting, Inc. specializes in contract slitting, laminating, and sheeting services tailored for the printing, converting, medical, and industrial markets. They process a variety of substrates including films, foams, non-wovens, and p            ...",
+        "link": "/site/view?uuid=8ae71cf0-3fe7-37de-a1f5-0e3ba221b030",
+        "magnet": null,
+        "screen": "screenshots/qilin/WebCut Converting.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Kecy Metal Technologies",
+        "discovered": "2025-10-15 02:24:49.695010",
+        "description": "Kecy Metal Technologies (formerly Kecy Corporation) was established in 1988 as a supplier of NVH components for Tier 1 Japanese transplants. Kecy has since doubled its capacity to 160,000 ft and consistently increased sales year over year. Ke            ...",
+        "link": "/site/view?uuid=994ba82f-dc5c-36f5-9006-04b1a7dfdef9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kecy Metal Technologies.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Volkswagen Group France",
+        "discovered": "2025-10-15 02:24:48.057692",
+        "description": "Volkswagen Group France, a subsidiary of Volkswagen AG, is a prominent player in the automotive industry committed to sustainable mobility. The company focuses on innovation and environmental responsibility through its six brands, addressing             ...",
+        "link": "/site/view?uuid=826b0da1-6b16-3761-9f7d-288e18c59dc4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Volkswagen Group France.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Pro-Fab",
+        "discovered": "2025-10-15 02:24:47.094084",
+        "description": "Pro Fab, Inc. specializes in custom design and fabrication products and services primarily for cleanrooms and industries such as semiconductor manufacturing, medical pharmaceutical labs, and American defense. They offer a wide range of produc            ...",
+        "link": "/site/view?uuid=878a5488-4ff5-3139-a4c6-d9f0ffe7d491",
+        "magnet": null,
+        "screen": "screenshots/qilin/Pro-Fab.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "New Jersey Property-Liability Insurance Guaranty Association",
+        "discovered": "2025-10-15 02:24:46.147959",
+        "description": "New Jersey Property-Liability Insurance Guaranty Association, USA - is committed to excellence in providing outstanding claims service to claimants and policyholders in accordance with the Association's statutory responsibilities on behalf of            ...",
+        "link": "/site/view?uuid=ad5e9ded-920a-373f-81d8-d061d3373d43",
+        "magnet": null,
+        "screen": "screenshots/qilin/New Jersey Property-Liability Insurance Guaranty Association.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "All Truck Transportation Co., Inc.",
+        "discovered": "2025-10-15 02:24:45.255804",
+        "description": "All Truck Transportation Co., Inc. is an asset-based carrier offering local and regional truckload transportation solutions. We are headquartered in Chicago, Illinois with a vast network of terminals throughout the Midwest. We operate within             ...",
+        "link": "/site/view?uuid=3f715ff6-1941-3351-b399-971ff185d481",
+        "magnet": null,
+        "screen": "screenshots/qilin/All Truck Transportation Co, Inc.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Charles River Properties",
+        "discovered": "2025-10-15 02:24:44.305156",
+        "description": "Charles River Properties, USA -  a real estate brokerage based in Waltham, Massachusetts, that handles residential and commercial sales and rentals. The company works only with very large properties. In its portfolio you will not find real es            ...",
+        "link": "/site/view?uuid=aa9731e9-d5d3-324b-8a41-21f6da22a19e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Charles River Properties.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Ganther Construction",
+        "discovered": "2025-10-15 00:26:23.000046",
+        "description": "Established in 1979, GCI is headquartered in Anchorage, Alaska. They are a telec...",
+        "link": "/leaks/6897636788b6823fa2ab7fdc",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Ganther Construction.png",
+        "group_name": "sinobi"
+    },
+    {
         "post_title": "Clifford Paper",
         "discovered": "2025-10-14 20:24:54.672816",
         "description": "Clifford Paper is a family-owned business with a deep legacy in the forest products industry, operating since 1985. They specialize in providing paper products and value-added services, focusing on production management and packaging solution            ...",
@@ -268,95 +457,5 @@
         "magnet": null,
         "screen": "screenshots/qilin/M&E Global Group.png",
         "group_name": "qilin"
-    },
-    {
-        "post_title": "Schedler-translog",
-        "discovered": "2025-10-14 09:25:21.606420",
-        "description": "Industry: Logistics\nRevenue: $30 Million\nWebsite: schedler-translog.de",
-        "link": "/companies/schedler",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Schedler-translog.png",
-        "group_name": "coinbase cartel"
-    },
-    {
-        "post_title": "Speed Inter Transport",
-        "discovered": "2025-10-14 07:25:16.999902",
-        "description": "",
-        "link": "articles/Speedth.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Speed Inter Transport.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "Miguel Veiga, Neiva Santos e Associados.",
-        "discovered": "2025-10-14 07:25:16.067563",
-        "description": "",
-        "link": "articles/MVNS.html",
-        "magnet": null,
-        "screen": "screenshots/direwolf/Miguel Veiga, Neiva Santos e Associados.png",
-        "group_name": "direwolf"
-    },
-    {
-        "post_title": "Business Integra",
-        "discovered": "2025-10-14 03:26:15.594259",
-        "description": "Business Integra provides solutions for scientific, engineering, information technology, cyber-security, and more.We are ready to upload 16gb of corporate documents. Detailed employees personal information (complete I-9 forms, passports, DLs, SSNs, address, emails and so on), customers/clients information, financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Karnes Electric Cooperative",
-        "discovered": "2025-10-14 02:25:19.332530",
-        "description": "Karnes Electric Cooperative, USA is a not-for-profit electric distribution utility that serves 12 counties in South Texas and the Coastal Bend region. Headquartered in Karnes City, Texas, it offers competitive rates and innovative solutions t            ...",
-        "link": "/site/view?uuid=7c108f95-3389-3635-b034-4966ffbca219",
-        "magnet": null,
-        "screen": "screenshots/qilin/Karnes Electric Cooperative.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Bank3",
-        "discovered": "2025-10-14 00:25:14.276967",
-        "description": "Bank3, USA - it's a disaster for the clients. Bank3 is a community-driven banking institution offering personal and business banking services, as well as mortgage lending. The bank serves clients in various locations including Memphis, Nashvi            ...",
-        "link": "/site/view?uuid=22d0393e-aed9-3488-a49d-eb90d220d4fd",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bank3.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "www.mercantetubos.com.br",
-        "discovered": "2025-10-13 23:26:33.988567",
-        "description": "Mangueira Ind\u00fastria e Com\u00e9rcio de Tubos e A\u00e7os Especiais Ltda. was founded on October 3, 1972, with the objective of importing DIN ST 52 steel mechanical tubes. Later, when Mannesmann S.A. began industrializing this product line, Mangueira obtained a distribution quota for DIN ST 52 mechanical tu...Read more \u21d2",
-        "link": "blog_1-25",
-        "magnet": null,
-        "screen": "screenshots/mydata/wwwmercantetuboscombr.png",
-        "group_name": "mydata"
-    },
-    {
-        "post_title": "San Bernard Electric Cooperative",
-        "discovered": "2025-10-13 23:26:32.957984",
-        "description": "San Bernard Electric Cooperative, USA - offers a range of services including outage reporting, generator installation, and energy efficiency programs. Its intended clients are members of the community who utilize electric services, as well as            ...",
-        "link": "/site/view?uuid=16a87d22-eb7d-3d38-87a8-424cdeb3e2b3",
-        "magnet": null,
-        "screen": "screenshots/qilin/San Bernard Electric Cooperative.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "BHI Co., Ltd.",
-        "discovered": "2025-10-13 23:26:31.973483",
-        "description": "BHI Co., Ltd. engages in the manufacturing and supplying of power plant equipment worldwide. It offers pulverized coal fired boilers, heat recovery steam generators, circulating fluidized bed combustion boilers, oil and gas boilers, industria            ...",
-        "link": "/site/view?uuid=6ce4c97a-761b-34ca-b767-96125359b050",
-        "magnet": null,
-        "screen": "screenshots/qilin/BHI Co, Ltd.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Indaco Warna Dunia",
-        "discovered": "2025-10-13 21:49:52.817934",
-        "description": "Indonesia\nWholesale building materials\nRevenue  6,4 million $\nEmployees  281",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Indaco Warna Dunia.png",
-        "group_name": "nova"
     }
 ]
