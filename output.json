@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "EMERSON.COM - (EBS)",
+        "discovered": "2025-10-18 14:34:55.410681",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/clop/EMERSONCOM - (EBS).png",
+        "group_name": "clop"
+    },
+    {
+        "post_title": "AA.COM - (EBS)",
+        "discovered": "2025-10-18 14:33:49.129247",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/clop/AACOM - (EBS).png",
+        "group_name": "clop"
+    },
+    {
+        "post_title": "WITS.AC.ZA",
+        "discovered": "2025-10-18 14:33:09.294195",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/clop/WITSACZA.png",
+        "group_name": "clop"
+    },
+    {
         "post_title": "Madagascar Airlines",
         "discovered": "2025-10-18 02:25:54.416840",
         "description": "https://www.zoominfo.com/c/madagascar-airlines/1311973684 www.madagascarairlines.com Madagascar Airlines offers regular flights to major cities in Madagascar from Antananarivo, providing an online booking platform for travelers. The airline features a range of services including real-time flight schedules, special offers, and additional travel options such as cargo transport. Their clientele includes both local and international travelers looking to explore Madagascar and its surrounding regions. With a focus on customer service and travel comfort, Madagascar Airlines aims to deliver an unforgettable travel experience.",
@@ -178,59 +205,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "akira"
-    },
-    {
-        "post_title": "WEBER",
-        "discovered": "2025-10-17 16:25:52.454391",
-        "description": "",
-        "link": "/r/d89cfb668815e70e7af9c0263c78eb2f613f79da",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/WEBER.png",
-        "group_name": "ransomhouse"
-    },
-    {
-        "post_title": "Alitech",
-        "discovered": "2025-10-17 14:26:01.112417",
-        "description": "Poland\n\nFounded in 1996 as a family business, over the years of distribution of measuring quality control systems, Alitech continuously builds its position as a specialist in precision measurement engineering. Our portfolio includes with a top of 1000 entities, to which over the years we continuously supply the highest quality measuring equipment, physical size recorders, temperature, pressure, electrical size and mechanical quantities and advanced electronics of renowned manufacturers.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Alitech.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "Consolidated Restaurant Operations, Inc.",
-        "discovered": "2025-10-17 14:25:58.345869",
-        "description": "Consolidated Restaurant Operations, Inc. (CRO) operates more full-service and franchise restaurants internationally in addition tocatering events.We are ready to upload 38gb of corporate documents. Scans of employee documents (Passports, driver licenses, medical information, SSNs and other docs), lots of confidentiality agreements, detailed financials, NDAs, police reports, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "Plastics Extrusion Machinery",
-        "discovered": "2025-10-17 14:25:57.268738",
-        "description": "Plastics Extrusion Machinery LLC, known as PEM, is a leading provider of innovative downstream equipment tailored for the PVC pipeand custom profile industries. We We are ready to upload more than 350GB data. There are lots ofessential corporate documents such as: financial data (audit, payment details,financial reports, invoices), detailed employees and customers information ( Dl numbers, Social Security Numbers, medical information, emails, phones) confidential information, NDAsand other documents with detailed personal information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira"
-    },
-    {
-        "post_title": "GEIGER",
-        "discovered": "2025-10-17 12:24:41.549993",
-        "description": "GEIGER\nGEIGER Antriebstechnik is a leading manufacturer of innovative mechanical and electric drive solutions for sun protection products such as blinds, awnings, and shutters, employing over 250 staff.\n\n\n\nMore",
-        "link": "archive.php?company=217",
-        "magnet": null,
-        "screen": "screenshots/rhysida/GEIGER.png",
-        "group_name": "rhysida"
-    },
-    {
-        "post_title": "gardiners solicitors",
-        "discovered": "2025-10-17 11:24:50.701674",
-        "description": "We are a small firm of solicitors based in West Kensington, close to Olympia, established in 1997 by Paul Gardiner. We specialise in:\n\n- Property\n- Shared Owner...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce"
     }
 ]
