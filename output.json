@@ -1,5 +1,32 @@
 [
     {
+        "post_title": "AT&T Careers",
+        "discovered": "2025-10-22 16:25:02.618771",
+        "description": "",
+        "link": "/news/att/",
+        "magnet": null,
+        "screen": "screenshots/everest/AT&T Careers.png",
+        "group_name": "everest"
+    },
+    {
+        "post_title": "KIS Asset Evaluation",
+        "discovered": "2025-10-22 16:24:45.344272",
+        "description": "KIS Asset Evaluation, Korea - company operating in the financial market, strives to become the No. 1 company in the field of financial asset valuation. KIS Pricing offers a wide range of services and solutions required in the financial indust            ...",
+        "link": "/site/view?uuid=c6292008-0426-320e-835c-f9f205b626df",
+        "magnet": null,
+        "screen": "screenshots/qilin/KIS Asset Evaluation.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "PT Pupuk Iskandar Muda",
+        "discovered": "2025-10-22 11:24:52.764688",
+        "description": "www.pim.co.id https://www.zoominfo.com/c/pt-pupuk-iskandar-muda/372769605 PT Pupuk Iskandar Muda is a chemical manufacturing company based in Lhokseumawe, Aceh. As a subsidiary of PT PIHC, they focus on producing two key agricultural products: urea and ammonia fertilizers. Their factory helps farmers across Indonesia grow better crops by creating high-quality chemical fertilizers that improve soil nutrition and support agricultural productivity.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen"
+    },
+    {
         "post_title": "Applied Technology Resources",
         "discovered": "2025-10-22 09:24:45.313138",
         "description": "Applied Technology Resources, Inc. is an international leader in Title Search Exams throughout the United States, offering unmatched accuracy and turnaround times through their proprietary information system. The company specializes in custom            ...",
@@ -250,50 +277,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "akira"
-    },
-    {
-        "post_title": "marquscompanies.com",
-        "discovered": "2025-10-21 15:25:08.782664",
-        "description": "Marquis Companies offers healthcare services. The Company offers assisted living...",
-        "link": "/leaks/68f77fa12423bc3ce0bfb555",
-        "magnet": null,
-        "screen": "screenshots/lynx/marquscompaniescom.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "U.S. Vanadium Holding Company LLC",
-        "discovered": "2025-10-21 15:25:00.966406",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24"
-    },
-    {
-        "post_title": "BRDSoft",
-        "discovered": "2025-10-21 12:24:27.967842",
-        "description": "I.T and Telecomunications company.  Help telecomunications company, callcenters, hosting companies, datacenter a ISP on a high number of solutions to make his business work bether.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/BRDSoft.png",
-        "group_name": "nova"
-    },
-    {
-        "post_title": "trailridgeenergy",
-        "discovered": "2025-10-21 11:24:40.722699",
-        "description": "Trail Ridge Energy Partners II LLC is a privately held oil and gas exploration a...",
-        "link": "/leaks/68f742cb2423bc3ce0bd32f2",
-        "magnet": null,
-        "screen": "screenshots/lynx/trailridgeenergy.png",
-        "group_name": "lynx"
-    },
-    {
-        "post_title": "www.dekalbcountyga.gov",
-        "discovered": "2025-10-21 11:24:39.788299",
-        "description": "DeKalb County is the third most populated county in the state of Georgia and is ...",
-        "link": "/leaks/68f7444d2423bc3ce0bd40e0",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwdekalbcountygagov.png",
-        "group_name": "lynx"
     }
 ]
