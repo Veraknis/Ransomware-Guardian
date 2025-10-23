@@ -1,5 +1,86 @@
 [
     {
+        "post_title": "Real Estate Specialists",
+        "discovered": "2025-10-23 00:25:33.973088",
+        "description": "Real Estate Specialists is dedicated to managing and maintaining rental properties in southeast Wisconsin, focusing on enhancing their performance since 1982. They offer a comprehensive range of property management services, catering to prope            ...",
+        "link": "/site/view?uuid=bee3a0f0-d933-338f-8e34-2384dd6297ed",
+        "magnet": null,
+        "screen": "screenshots/qilin/Real Estate Specialists.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Samera Health",
+        "discovered": "2025-10-23 00:25:33.074154",
+        "description": "Samera Health is a Third Party Administrator (TPA) that provides Health, Dental, and Vision benefits for employer groups. The company focuses on delivering innovative and cost-saving solutions while ensuring a positive customer experience thr            ...",
+        "link": "/site/view?uuid=f9c51682-1c8a-33ec-80d3-7c94a6d0186b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Samera Health.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "CHDFS",
+        "discovered": "2025-10-23 00:25:32.169304",
+        "description": "CHDFS Inc is dedicated to providing social services and support for individuals, families, and communities in need. They offer a range of programs including OPWDD, OMH, Early Intervention, and Health Home Care Management. Their mission focuse            ...",
+        "link": "/site/view?uuid=6e4fc989-4548-39f2-8b7e-426500b14c84",
+        "magnet": null,
+        "screen": "screenshots/qilin/CHDFS.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "NurseSpring",
+        "discovered": "2025-10-23 00:25:31.281043",
+        "description": "NurseSpring specializes in home health care, health care staffing, and nurse recruitment services. They prioritize compassion, dignity, and respect while delivering care, ensuring clients receive the right care at the right time. Their intend            ...",
+        "link": "/site/view?uuid=e23f4a42-d27c-3df4-ae9f-4fe8e183ed4c",
+        "magnet": null,
+        "screen": "screenshots/qilin/NurseSpring.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Integral Networks",
+        "discovered": "2025-10-23 00:25:30.386041",
+        "description": "Integral Networks, Inc. is a leading IT services provider in Sacramento, specializing in responsive IT support tailored to the needs of legal firms and various other industries including construction, manufacturing, and finance. They offer a             ...",
+        "link": "/site/view?uuid=f69b29b6-bbd3-38bc-98bf-80eeee2416ba",
+        "magnet": null,
+        "screen": "screenshots/qilin/Integral Networks.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Signet Armorlite, Inc.",
+        "discovered": "2025-10-23 00:25:29.501330",
+        "description": "Founded in 1947, Signet Armorlite, Inc., an optical company, designs and manufactures glass ophthalmic lenses and molds. It also distributes lenses worldwide and adhesive optical supply products in the United States. Signet Armorlite is headq            ...",
+        "link": "/site/view?uuid=b7ba324e-8bb8-3811-b5d9-64fa988227dc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Signet Armorlite, Inc.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "All Truck Transportation",
+        "discovered": "2025-10-23 00:25:28.606840",
+        "description": "All Truck Transportation Co., Inc. is an asset-based carrier offering local and regional truckload transportation solutions. We are headquartered in Chicago, Illinois with a vast network of terminals throughout the Midwest. We operate within             ...",
+        "link": "/site/view?uuid=a389c060-ba7f-3ccb-b4b0-c6955773016c",
+        "magnet": null,
+        "screen": "screenshots/qilin/All Truck Transportation.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Grupo Promasa",
+        "discovered": "2025-10-23 00:25:27.685672",
+        "description": "Grupo Promasa is a company that operates in the Building Materials industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in San Pedro Sula, Cortes, Honduras. The amount of downloaded data is unknown at            ...",
+        "link": "/site/view?uuid=4e3651f1-3e84-3e70-8508-f1e4622e2ac9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Promasa.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "KHL Printing",
+        "discovered": "2025-10-22 21:25:05.454730",
+        "description": "KHL Printing, Singapore -  one of the largest printing companies in Southeast Asia with the most comprehensive range of services. KHL Printing offers end-to-end solutions from conceptualization to delivery of print products and other platform            ...",
+        "link": "/site/view?uuid=408c74a0-a583-3c29-8c75-05011e921d36",
+        "magnet": null,
+        "screen": "screenshots/qilin/KHL Printing.png",
+        "group_name": "qilin"
+    },
+    {
         "post_title": "United Lube Oil",
         "discovered": "2025-10-22 20:24:49.252488",
         "description": "",
@@ -61,113 +142,5 @@
         "magnet": null,
         "screen": null,
         "group_name": "the gentlemen"
-    },
-    {
-        "post_title": "Applied Technology Resources",
-        "discovered": "2025-10-22 09:24:45.313138",
-        "description": "Applied Technology Resources, Inc. is an international leader in Title Search Exams throughout the United States, offering unmatched accuracy and turnaround times through their proprietary information system. The company specializes in custom            ...",
-        "link": "/site/view?uuid=be44afef-bbf4-3d16-88cd-04e761f06977",
-        "magnet": null,
-        "screen": "screenshots/qilin/Applied Technology Resources.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Northern Light Technologies",
-        "discovered": "2025-10-22 09:24:44.444091",
-        "description": "Founded in 1984, Northern Light Technologies (NLT) designs and manufactures underground lighting and networking solutions for the mining and tunnelling industries with manufacturing/assembly locations in Canada, Australia and Chile. Northern             ...",
-        "link": "/site/view?uuid=0f4e1896-6567-3b05-8cfa-48e0b0f6726d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Northern Light Technologies.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "MILGARD.COM",
-        "discovered": "2025-10-22 09:11:13.431684",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/MILGARDCOM.png",
-        "group_name": "clop"
-    },
-    {
-        "post_title": "COPELAND.COM",
-        "discovered": "2025-10-22 09:10:47.354081",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/COPELANDCOM.png",
-        "group_name": "clop"
-    },
-    {
-        "post_title": "Capital Reinforcing LTD.",
-        "discovered": "2025-10-22 06:26:18.510900",
-        "description": "Steel fabricator in Birkenhead, England\u044e Address: Capital House, 1 Bromborough Pool Business Park, Prices Way, Bromborough CH62 4LP, United Kingdom. Phone: +44 151 644 1559",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "ROBERT G. DASHIELL, JR., P.E., INC.",
-        "discovered": "2025-10-22 06:26:16.793850",
-        "description": "Robert G Dashiell Jr PE Inc is a reputable engineering firm based in Norfolk, VA, specializing in providing professional engineering services. Around ~500GB of confidential data. The leak of internal company documents contains a huge variety of personal documents and information of clients, employees private data, private contacts, confidential contracts, confidential projects, orders, IDs, SSN, email conversations. Bank documents: statements, balances, Tax bills, signatures, checks. Video - https://streamable.com/4wn1jk , screenshots - https://imgur.com/a/Er9J1Kp, all contacts - http://4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion/RGELECTRIC_part2/dataRobert%20G%20Dashiel/contacts.csv",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "Epia Financial Services",
-        "discovered": "2025-10-22 06:26:15.813902",
-        "description": "+264816013040. Mail. info@epiafs.com. Home. No 17 Eulenweg Street, Hochland Park, Windhoek ,Namibia. RELATABLE PARTNERS. NAMRA \u00b7 NAMFISA. NBWPF. CIFNAMIBIA",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar"
-    },
-    {
-        "post_title": "Kumwell",
-        "discovered": "2025-10-22 03:24:42.382314",
-        "description": "",
-        "link": "/blog/disclosures/68f7c786e1a4e4b3ffef6de5",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kumwell.png",
-        "group_name": "inc ransom"
-    },
-    {
-        "post_title": "Tri City Foods",
-        "discovered": "2025-10-22 00:25:08.088837",
-        "description": "Founded in 2003 and headquartered in Downers Grove, Illinois, Tri City Foods is a franchisee of the Burger King restaurant chain. The company owns and operates locations in and around Chicago, Illinois.\nA group of companies was attacked: lmc            ...",
-        "link": "/site/view?uuid=f4e5ab1a-de9a-33d1-943e-e26c1db815d0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tri City Foods.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "SANHUA INTERNATIONAL",
-        "discovered": "2025-10-21 22:24:53.284109",
-        "description": "Sanhua International is delivering on its commitment to offer eco-friendly produ...",
-        "link": "/leaks/68f7ce3188b6823fa2be78e0",
-        "magnet": null,
-        "screen": "screenshots/sinobi/SANHUA INTERNATIONAL.png",
-        "group_name": "sinobi"
-    },
-    {
-        "post_title": "Prime Dental",
-        "discovered": "2025-10-21 21:25:22.987865",
-        "description": "Our practice specializes in procedures ranging from cosmetic dentistry, preventi...",
-        "link": "/leaks/68f7cece88b6823fa2be7dc6",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Prime Dental.png",
-        "group_name": "sinobi"
-    },
-    {
-        "post_title": "Crave Management",
-        "discovered": "2025-10-21 21:25:22.104615",
-        "description": "Crave Management Group is a fast-food franchisee operator based in Montana, know...",
-        "link": "/leaks/68f7d0d288b6823fa2be87c1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Crave Management.png",
-        "group_name": "sinobi"
     }
 ]
