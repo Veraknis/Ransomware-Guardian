@@ -1,163 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="icon" href="logo.png" />
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Ransomware Guardian</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#071025" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <div class="panel leftPanel">
-        <h2>
-          "What is Ransomware Guardian?":
-          <br />
-          <br />
-          Ransomware Guardian is a new platform designed to provide
-          fast, accurate, and real-time tracking of ransomware activities. 
-          <br />
-          <br />
-          By leveraging advanced data aggregation, expert analysis, and
-          multiple API sources, we deliver unparalleled insights into
-          emerging ransomware threats.
-          <br />
-          <br />
-          "Why is Ransomware Guardian Needed?"
-          <br />
-          <br />
-          In 2022, there were approximately 493.3 million ransomware attacks.
-          <br />
-          <br />
-          Ransomware attacks increased by over 37% in 2023, with the average enterprise ransom payment exceeding $100,000 with a $5.3 million average demand.
-          <br />
-          There are currently around 1.7 million ransomware attacks every single day.
-          <br />
-          <br />
-          Ransomware Guardian allows users to track daily Victim posts quickly, accurately and easily.
-        
-        </h2>
-      </div>
-      <div class="panel middlePanel">
-        <h2><img src="textLogo.png" alt="" /></h2>
-        <img src="logo.png" alt="Logo"/>
-        Ransomware Guardian is owned and maintained by: Veraknis
-        <a href="https://github.com/Veraknis">GitHub.com/Veraknis</a>
-        <br />
-        <br />
-        This project is in an active development phase, and it will continue to evolve and improve as we expand its scope over time.      
-        <br />
-        <br />
-        Current Development Stage: V1.0 
-      </div>
-      <div class="panel secondMiddlePanel">
-        We encourage our users to follow these Twitter accounts for timely updates and insights on ransomware activity:
-<div class="twitter-accounts-panel" style="display: flex; flex-direction: column; gap: 1em; background: #1a1a1a; padding: 1em; border-radius: 8px; color: #fff;">
-  <!-- TMRansomMon -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/TMRansomMon" alt="@TMRansomMon" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/TMRansomMon" target="_blank" style="color: #1da1f2; text-decoration: none;">@TMRansomMon</a>
-  </div>
+    <div id="app" class="app">
+      <header class="topbar">
+        <div class="brand">
+          <h1>Ransomware Guardian</h1>
+          <img
+            src="logo.png"
+            alt="Ransomware Guardian Logo"
+            width="100"
+            height="100"
+          />
+          <p class="tag">
+            Latest Ransomware Victims — Search · Filter · Export
+          </p>
+        </div>
+        <div class="actions">
+          <input
+            id="search"
+            class="search"
+            type="search"
+            placeholder="Search victims, group or description..."
+            aria-label="Search"
+          />
+          <select
+            id="sectorSelect"
+            class="sector-select"
+            aria-label="Filter by sector"
+          >
+            <option value="">All sectors</option>
+          </select>
+          <button id="clearBtn" class="btn small ghost" title="Clear filters">
+            Clear
+          </button>
+          <button
+            id="exportBtn"
+            class="btn small"
+            title="Export visible records as CSV"
+          >
+            Export
+          </button>
+          <button id="refreshBtn" class="btn small" title="Refresh data">
+            Refresh
+          </button>
+        </div>
+      </header>
 
-  <!-- BleepinComputer -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/BleepinComputer" alt="@BleepinComputer" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/BleepinComputer" target="_blank" style="color: #1da1f2; text-decoration: none;">@BleepinComputer</a>
-  </div>
+      <main class="main">
+        <section class="list">
+          <div class="list-controls">
+            <div id="chips" class="chips" aria-hidden="false"></div>
+            <div class="stats">
+              <div><strong id="count">—</strong> records</div>
+              <div><small id="lastUpdated" class="muted">—</small></div>
+            </div>
+          </div>
 
-  <!-- RansomwareLeaks -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/RansomwareLeaks" alt="@RansomwareLeaks" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/RansomwareLeaks" target="_blank" style="color: #1da1f2; text-decoration: none;">@RansomwareLeaks</a>
-  </div>
+          <div id="grid" class="grid" role="list">
+            <!-- victim cards injected here -->
+          </div>
 
-  <!-- Ido Cohen -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/ido_cohen2" alt="@ido_cohen2" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/ido_cohen2" target="_blank" style="color: #1da1f2; text-decoration: none;">@ido_cohen2</a>
-  </div>
+          <nav class="pagination" aria-label="Pagination">
+            <button id="prev" class="pagebtn">Prev</button>
+            <span id="pageInfo">1 / 1</span>
+            <button id="next" class="pagebtn">Next</button>
+          </nav>
 
-  <!-- RansomwareLive -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/RansomwareLive" alt="@RansomwareLive" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/RansomwareLive" target="_blank" style="color: #1da1f2; text-decoration: none;">@RansomwareLive</a>
-  </div>
+          <div id="empty" class="empty muted" hidden>No matching victims.</div>
+        </section>
+      </main>
 
-  <!-- vxunderground -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/vxunderground" alt="@vxunderground" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/vxunderground" target="_blank" style="color: #1da1f2; text-decoration: none;">@vxunderground</a>
-  </div>
-
-  <!-- RansomwareNews -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/RansomwareNews" alt="@RansomwareNews" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/RansomwareNews" target="_blank" style="color: #1da1f2; text-decoration: none;">@RansomwareNews</a>
-  </div>
-  
-  <!-- malwrhunterteam -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/malwrhunterteam" alt="@malwrhunterteam" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/malwrhunterteam" target="_blank" style="color: #1da1f2; text-decoration: none;">@malwrhunterteam</a>
-  </div>
-
-  <!-- cyberfeeddigest -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://unavatar.io/twitter/cyberfeeddigest" alt="@cyberfeeddigest" width="40" height="40" style="border-radius: 50%;">
-    <a href="https://x.com/cyberfeeddigest" target="_blank" style="color: #1da1f2; text-decoration: none;">@cyberfeeddigest</a>
-  </div>
-</div>
-
-
-        <script
-          async
-          src="https://platform.twitter.com/widgets.js"
-          charset="utf-8"
-        ></script>
-      </div>
-      <div class="panel rightPanel"> 
-    <header>
-        <h2>Latest ransomware Victims: Updated Daily.</h2>
-    </header>
-    <div class="scroll-container">
-        <ul></ul>
+      <footer class="footer">
+        <div>
+          Ransomware Guardian — powered by your Python enrichment (output.json)
+        </div>
+        <small class="muted">Installable PWA • Offline ready</small>
+      </footer>
     </div>
-</div>
-          <script>
-            const listEl = document.querySelector("ul");
 
-            fetch("./output.json")
-              .then((res) => res.json())
-              .then((data) => {
-                data.forEach((post) => {
-                  listEl.insertAdjacentHTML(
-                    "beforeend",
-                    `<li>Title: ${post.post_title}</li>`
-                  );
-                  listEl.insertAdjacentHTML(
-                    "beforeend",
-                    `<li>Discovered: ${post.discovered}</li>`
-                  );
-                  listEl.insertAdjacentHTML(
-                    "beforeend",
-                    `<li>Group: ${post.group_name}</li>`
-                  );
-
-                  listEl.insertAdjacentHTML("beforeend", `<li>&nbsp;</li>`);
-                });
-              })
-              .catch((error) => {
-                console.error("Error fetching JSON:", error);
-                listEl.insertAdjacentHTML(
-                  "beforeend",
-                  `<li>Error loading data</li>`
-                );
-              });
-          </script>
+    <template id="cardTpl">
+      <article class="card" role="listitem">
+        <header class="card-head">
+          <div class="title-row">
+            <h3 class="title"></h3>
+            <div class="sector pill"></div>
+          </div>
+          <div class="meta muted"></div>
         </header>
-      </div>
-    </div>
-    <script src="scripts.js"></script>
+        <div class="desc muted"></div>
+        <footer class="card-foot">
+          <div class="group muted"></div>
+          <button class="copy btn tiny ghost">Copy</button>
+        </footer>
+      </article>
+    </template>
+
+    <script src="script.js" defer></script>
   </body>
 </html>
-<!---->
