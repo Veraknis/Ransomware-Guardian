@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "ClearCare Periodontal & Implant Centre",
+        "discovered": "2025-10-24 08:25:10.956230",
+        "description": "The ClearCare Periodontal & Implant Centre was attacked on 13 of October 2025. At the time of the attack, critical data on customers and their employees was uploaded. The company was informed of the colossal data leak, but ignored demands to             ...",
+        "link": "/site/view?uuid=c3964e6f-78b0-3576-95eb-f8e67a6dd38c",
+        "magnet": null,
+        "screen": "screenshots/qilin/ClearCare Periodontal & Implant Centre.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "Adichunchanagiri Institute Of Technology",
+        "discovered": "2025-10-24 03:25:15.715648",
+        "description": "Educational Institute \u2013 2500 Students \u2013 150 Staff",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kryptos"
+    },
+    {
+        "post_title": "OCI International Holdings",
+        "discovered": "2025-10-24 00:24:56.265777",
+        "description": "",
+        "link": "/r/dcdb1b1cd88437db9b96d85ab83e95241e3ab009",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/OCI International Holdings.png",
+        "group_name": "ransomhouse"
+    },
+    {
+        "post_title": "Kurogane Kasei Co.",
+        "discovered": "2025-10-24 00:24:55.296631",
+        "description": "",
+        "link": "/r/30060efc59f61cff0830b97ac69e3596e589cddd",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Kurogane Kasei Co.png",
+        "group_name": "ransomhouse"
+    },
+    {
+        "post_title": "[DISCLOSED]WEBER",
+        "discovered": "2025-10-24 00:24:54.160047",
+        "description": "",
+        "link": "/r/2346d673f2c6bb743c2912bc55f1caaf4534c064",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]WEBER.png",
+        "group_name": "ransomhouse"
+    },
+    {
+        "post_title": "Gericke AG",
+        "discovered": "2025-10-23 23:25:06.705184",
+        "description": "The Swiss Gericke Group has been designing and manufacturing equipment and systems for modern bulk material processes, as well as providing design and consultation services, for more than 125 years. Gericke bulk materials processing technolog            ...",
+        "link": "/site/view?uuid=10396695-a081-3d49-a8ca-d45e35b55d78",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gericke AG.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "IREM companies",
+        "discovered": "2025-10-23 23:25:05.780395",
+        "description": "IREM companies, USA - is an international institute for real estate and asset managers, promoting management through education and information exchange. IREM conducts real estate management training courses, organizes national meetings of rea            ...",
+        "link": "/site/view?uuid=bf2175ec-9878-36de-92ac-d98b5991bc3c",
+        "magnet": null,
+        "screen": "screenshots/qilin/IREM companies.png",
+        "group_name": "qilin"
+    },
+    {
+        "post_title": "UniCursos, Brazil",
+        "discovered": "2025-10-23 22:25:16.150783",
+        "description": "UniCursos, Brazil - Offers preparation courses for public sector exams in S\u00e3o Jos\u00e9 dos Campos and surrounding areas in the state of S\u00e3o Paulo.",
+        "link": "/blog/15f2b93e929d7acc1e24dfd6b25ab9f5c7144e70d305869c0d3685e63525bf40/",
+        "magnet": null,
+        "screen": "screenshots/tengu/UniCursos, Brazil.png",
+        "group_name": "tengu"
+    },
+    {
         "post_title": "S Food Co., Ltd.",
         "discovered": "2025-10-23 20:24:25.041786",
         "description": "",
@@ -115,86 +187,5 @@
         "magnet": "",
         "screen": "screenshots/clop/LKQCORPCOM.png",
         "group_name": "clop"
-    },
-    {
-        "post_title": "Real Estate Specialists",
-        "discovered": "2025-10-23 00:25:33.973088",
-        "description": "Real Estate Specialists is dedicated to managing and maintaining rental properties in southeast Wisconsin, focusing on enhancing their performance since 1982. They offer a comprehensive range of property management services, catering to prope            ...",
-        "link": "/site/view?uuid=bee3a0f0-d933-338f-8e34-2384dd6297ed",
-        "magnet": null,
-        "screen": "screenshots/qilin/Real Estate Specialists.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Samera Health",
-        "discovered": "2025-10-23 00:25:33.074154",
-        "description": "Samera Health is a Third Party Administrator (TPA) that provides Health, Dental, and Vision benefits for employer groups. The company focuses on delivering innovative and cost-saving solutions while ensuring a positive customer experience thr            ...",
-        "link": "/site/view?uuid=f9c51682-1c8a-33ec-80d3-7c94a6d0186b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Samera Health.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "CHDFS",
-        "discovered": "2025-10-23 00:25:32.169304",
-        "description": "CHDFS Inc is dedicated to providing social services and support for individuals, families, and communities in need. They offer a range of programs including OPWDD, OMH, Early Intervention, and Health Home Care Management. Their mission focuse            ...",
-        "link": "/site/view?uuid=6e4fc989-4548-39f2-8b7e-426500b14c84",
-        "magnet": null,
-        "screen": "screenshots/qilin/CHDFS.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "NurseSpring",
-        "discovered": "2025-10-23 00:25:31.281043",
-        "description": "NurseSpring specializes in home health care, health care staffing, and nurse recruitment services. They prioritize compassion, dignity, and respect while delivering care, ensuring clients receive the right care at the right time. Their intend            ...",
-        "link": "/site/view?uuid=e23f4a42-d27c-3df4-ae9f-4fe8e183ed4c",
-        "magnet": null,
-        "screen": "screenshots/qilin/NurseSpring.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Integral Networks",
-        "discovered": "2025-10-23 00:25:30.386041",
-        "description": "Integral Networks, Inc. is a leading IT services provider in Sacramento, specializing in responsive IT support tailored to the needs of legal firms and various other industries including construction, manufacturing, and finance. They offer a             ...",
-        "link": "/site/view?uuid=f69b29b6-bbd3-38bc-98bf-80eeee2416ba",
-        "magnet": null,
-        "screen": "screenshots/qilin/Integral Networks.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Signet Armorlite, Inc.",
-        "discovered": "2025-10-23 00:25:29.501330",
-        "description": "Founded in 1947, Signet Armorlite, Inc., an optical company, designs and manufactures glass ophthalmic lenses and molds. It also distributes lenses worldwide and adhesive optical supply products in the United States. Signet Armorlite is headq            ...",
-        "link": "/site/view?uuid=b7ba324e-8bb8-3811-b5d9-64fa988227dc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Signet Armorlite, Inc.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "All Truck Transportation",
-        "discovered": "2025-10-23 00:25:28.606840",
-        "description": "All Truck Transportation Co., Inc. is an asset-based carrier offering local and regional truckload transportation solutions. We are headquartered in Chicago, Illinois with a vast network of terminals throughout the Midwest. We operate within             ...",
-        "link": "/site/view?uuid=a389c060-ba7f-3ccb-b4b0-c6955773016c",
-        "magnet": null,
-        "screen": "screenshots/qilin/All Truck Transportation.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "Grupo Promasa",
-        "discovered": "2025-10-23 00:25:27.685672",
-        "description": "Grupo Promasa is a company that operates in the Building Materials industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in San Pedro Sula, Cortes, Honduras. The amount of downloaded data is unknown at            ...",
-        "link": "/site/view?uuid=4e3651f1-3e84-3e70-8508-f1e4622e2ac9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo Promasa.png",
-        "group_name": "qilin"
-    },
-    {
-        "post_title": "KHL Printing",
-        "discovered": "2025-10-22 21:25:05.454730",
-        "description": "KHL Printing, Singapore -  one of the largest printing companies in Southeast Asia with the most comprehensive range of services. KHL Printing offers end-to-end solutions from conceptualization to delivery of print products and other platform            ...",
-        "link": "/site/view?uuid=408c74a0-a583-3c29-8c75-05011e921d36",
-        "magnet": null,
-        "screen": "screenshots/qilin/KHL Printing.png",
-        "group_name": "qilin"
     }
 ]
