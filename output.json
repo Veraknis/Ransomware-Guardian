@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "constructiondprovost.com",
+        "discovered": "2025-10-24 22:25:08.423137",
+        "description": "Construction Donald Provost is a regional general contracting firm established in Mont-Tremblant that specialises in high-quality residential and light-commercial construction, …",
+        "link": "/blog/post/constructiondprovostcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/constructiondprovostcom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "xortec.de",
+        "discovered": "2025-10-24 22:25:07.557466",
+        "description": "Xortec GmbH is a German value-added distributor and systems integrator for professional video surveillance, IP network infrastructure and security-tech solutions. …",
+        "link": "/blog/post/xortecde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/xortecde.png",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "mino-in.co.jp",
+        "discovered": "2025-10-24 22:25:06.670372",
+        "description": "MINO Group is a long-established Japanese manufacturer (founded 1946) that designs and builds screen-printing machines, stencil makers, dryers, printing accessories …",
+        "link": "/blog/post/mino-incojp/",
+        "magnet": null,
+        "screen": "screenshots/safepay/mino-incojp.png",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "bannenbergandrowell.com",
+        "discovered": "2025-10-24 22:25:05.805269",
+        "description": "Bannenberg & Rowell is a luxury studio specialising in superyacht exterior and interior design, founded as the direct successor to …",
+        "link": "/blog/post/bannenbergandrowellcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/bannenbergandrowellcom.png",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "greenhouseapt.com",
+        "discovered": "2025-10-24 22:25:04.918918",
+        "description": "The Greenhouse is an apartment building and management/letting operation in Boston’s Back Bay / South End that offers 1–3 bedroom …",
+        "link": "/blog/post/greenhouseaptcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/greenhouseaptcom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Le MULTI LABORATOIRE LC2A",
+        "discovered": "2025-10-24 22:25:02.622812",
+        "description": "Le Multi Laboratoire LC2A offers a platform for businesses looking to test or analyze their products by configuring their ideal analytical project online",
+        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Le MULTI LABORATOIRE LC2A.png",
+        "group_name": "tengu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hanson-inc.com",
+        "discovered": "2025-10-24 22:24:40.941178",
+        "description": "Hanson Professional Services Inc. is a national consulting firm that specializes in engineering, planning, and allied services. They provide a wide range of services including aviation, asset management, construction support, and sustainability solutions, catering to various sectors such as healthca…",
+        "link": "/zI05fEpYNVWprdwn8dXyMq2ZrS08bR98/hanson-inc-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/hanson-inccom.png",
+        "group_name": "chaos",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Doha British School",
         "discovered": "2025-10-24 18:24:32.608887",
         "description": "Doha British School, Qatar - is one of the leading British international schools in Qatar, operating in the country since 1997. After 28 years, DBS has grown into a group of three outstanding campuses offering the English National Curriculum             ...",
@@ -68,85 +138,5 @@
         "screen": "screenshots/lynx/simmerscranecom.png",
         "group_name": "lynx",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "ClearCare Periodontal & Implant Centre",
-        "discovered": "2025-10-24 08:25:10.956230",
-        "description": "The ClearCare Periodontal & Implant Centre was attacked on 13 of October 2025. At the time of the attack, critical data on customers and their employees was uploaded. The company was informed of the colossal data leak, but ignored demands to             ...",
-        "link": "/site/view?uuid=c3964e6f-78b0-3576-95eb-f8e67a6dd38c",
-        "magnet": null,
-        "screen": "screenshots/qilin/ClearCare Periodontal & Implant Centre.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Adichunchanagiri Institute Of Technology",
-        "discovered": "2025-10-24 03:25:15.715648",
-        "description": "Educational Institute – 2500 Students – 150 Staff",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kryptos",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "OCI International Holdings",
-        "discovered": "2025-10-24 00:24:56.265777",
-        "description": "",
-        "link": "/r/dcdb1b1cd88437db9b96d85ab83e95241e3ab009",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/OCI International Holdings.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kurogane Kasei Co.",
-        "discovered": "2025-10-24 00:24:55.296631",
-        "description": "",
-        "link": "/r/30060efc59f61cff0830b97ac69e3596e589cddd",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Kurogane Kasei Co.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED]WEBER",
-        "discovered": "2025-10-24 00:24:54.160047",
-        "description": "",
-        "link": "/r/2346d673f2c6bb743c2912bc55f1caaf4534c064",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]WEBER.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gericke AG",
-        "discovered": "2025-10-23 23:25:06.705184",
-        "description": "The Swiss Gericke Group has been designing and manufacturing equipment and systems for modern bulk material processes, as well as providing design and consultation services, for more than 125 years. Gericke bulk materials processing technolog            ...",
-        "link": "/site/view?uuid=10396695-a081-3d49-a8ca-d45e35b55d78",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gericke AG.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "IREM companies",
-        "discovered": "2025-10-23 23:25:05.780395",
-        "description": "IREM companies, USA - is an international institute for real estate and asset managers, promoting management through education and information exchange. IREM conducts real estate management training courses, organizes national meetings of rea            ...",
-        "link": "/site/view?uuid=bf2175ec-9878-36de-92ac-d98b5991bc3c",
-        "magnet": null,
-        "screen": "screenshots/qilin/IREM companies.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "UniCursos, Brazil",
-        "discovered": "2025-10-23 22:25:16.150783",
-        "description": "UniCursos, Brazil - Offers preparation courses for public sector exams in São José dos Campos and surrounding areas in the state of São Paulo.",
-        "link": "/blog/15f2b93e929d7acc1e24dfd6b25ab9f5c7144e70d305869c0d3685e63525bf40/",
-        "magnet": null,
-        "screen": "screenshots/tengu/UniCursos, Brazil.png",
-        "group_name": "tengu",
-        "sector": "Government"
     }
 ]
