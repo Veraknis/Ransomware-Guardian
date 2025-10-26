@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "auge.com",
+        "discovered": "2025-10-26 19:24:40.770815",
+        "description": "",
+        "link": "/blog/disclosures/68fe080ce1a4e4b3ff538e00",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/augecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "InfraCom Group",
+        "discovered": "2025-10-26 18:24:57.691868",
+        "description": "InfraCom Group AB (publ) is a leading player in IT infrastructure, offering services like mobile and fixed telephony, cloud PBX, fiber internet, server hosting, and web platforms since 1999. The company serves approximately 20,000 clients, pr            ...",
+        "link": "/site/view?uuid=b91da6cf-4c42-3299-a32e-623955b62fe7",
+        "magnet": null,
+        "screen": "screenshots/qilin/InfraCom Group.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "South Alabama Regional Planning Commission",
+        "discovered": "2025-10-26 16:24:34.255599",
+        "description": "SARPC is a locally controlled and organized instrument of local government in Southwestern Alabama, serving Mobile, Baldwin, and Escambia counties, along with twenty-nine municipalities. The organization provides programs and services focused            ...",
+        "link": "/site/view?uuid=3ebaf509-eb22-3ea5-8813-16a215910c85",
+        "magnet": null,
+        "screen": "screenshots/qilin/South Alabama Regional Planning Commission.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
         "post_title": "Unimed do Brasil",
         "discovered": "2025-10-26 08:24:53.101245",
         "description": "Site: unimed.coop.br\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Insurance\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Brazil",
@@ -78,125 +108,5 @@
         "screen": "screenshots/qilin/Essential Cabinetry Group.png",
         "group_name": "qilin",
         "sector": "Retail"
-    },
-    {
-        "post_title": "Svenska Kraftnät",
-        "discovered": "2025-10-25 18:21:08.912842",
-        "description": "",
-        "link": "/news/svk/",
-        "magnet": null,
-        "screen": "screenshots/everest/Svenska Kraftnät.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Imagicle ",
-        "discovered": "2025-10-25 18:21:07.860711",
-        "description": "Founded in 2010, Imagicle is head-quartered in Italy and has a fully owned subsidiary in Dubai and Miami. Imagicle operates almost in all over the world serving enterprises, multinational companies, as well family businesses, universities, central government, public administrations, hospitals and prestigious hotels. Imagicle is Cisco Preferred Solution Partner and Imagicle Apps - Advanced Directory Services, Attendant Console, Advanced Queueing and Auto Attendant, Call Accounting & Billing, IP Fax Server, and Hospitality Pack - have been selected by Cisco as their official solutions, being available worldwide on Cisco GPL through the Solutions Plus program.\ncompany is headquartered in Via Fondacci 272, 55054 Massarosa (LU), Italy.\n132 Employees",
-        "link": "detail?id=3b18e81d7260e19566d659c3a8f61ec9",
-        "magnet": null,
-        "screen": "screenshots/medusa/Imagicle .png",
-        "group_name": "medusa",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Linxx Global Solutions",
-        "discovered": "2025-10-25 18:21:06.999439",
-        "description": "Linxx Global Solutions is a leading provider of mission-critical support services specializing in Training, Security, and Cyber Security solutions. Their primary goal is to enhance the safety, security, resiliency, and productivity of their clients through innovative problem-solving and a commitment to excellence. The company has established a strong reputation by successfully supporting various contracts, including those with the U.S. Navy and the U.S. Army. With their focus on delivering high-quality services, they serve a diverse range of clients in government and military sectors.\ncompany is headquartered in 2901 S Lynnhaven Rd Ste 450, Virginia Beach, VA 23452, United States.\n724 Employees",
-        "link": "detail?id=82f424a65906e1ae0d4ce8b9233cd550",
-        "magnet": null,
-        "screen": "screenshots/medusa/Linxx Global Solutions.png",
-        "group_name": "medusa",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "DALCANS",
-        "discovered": "2025-10-25 18:21:06.081846",
-        "description": "Otherwise, DALCANS will not make any exchange or refund of products ordered. Any product given back will be returned to DALCANS in its original condition and packaging and must include all of the product and its accessories. Any risk associated with returning the product is the responsibility of the Buyer. Failure to follow the procedure outlined above and specified period, the Purchaser cannot make any claim for nonconformity or defect of goods delivered, the products being deemed conformable and free from defect.\ncompany is headquartered in 36, rue des Petits Champs, 75002 Paris, France.\n<25 Employees, The total amount of data leakage is 1 TB.",
-        "link": "detail?id=2681e5abe695b4fe95c45401115b4aae",
-        "magnet": null,
-        "screen": "screenshots/medusa/DALCANS.png",
-        "group_name": "medusa",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Adore Children and Family Services",
-        "discovered": "2025-10-25 18:21:05.158692",
-        "description": "Adore Children and Family Services is a foster care agency dedicated to providing substitute care for children in need. The organization offers a comprehensive range of services, including individual case management, behavioral assessments, and training for foster families.",
-        "link": "detail?id=9e14d88b0261ed97cde237330ccb55e7",
-        "magnet": null,
-        "screen": "screenshots/medusa/Adore Children and Family Services.png",
-        "group_name": "medusa",
-        "sector": "Education"
-    },
-    {
-        "post_title": "ATIRG",
-        "discovered": "2025-10-25 18:21:04.240100",
-        "description": "ATIRG (Association pour le Traitement de l’Insuffisance Rénale en Guyane) is a non-profit medical organization located in French Guiana, dedicated to providing dialysis treatment and kidney care for patients suffering from chronic renal failure. Established in 1981, ATIRG operates several autodialysis centers in Cayenne, Kourou, and Saint-Laurent-du-Maroni, offering patients the opportunity to manage their own dialysis under professional supervision. The organization focuses on improving patients’ quality of life through medical care, training, and nutritional support. ATIRG works closely with local hospitals and healthcare professionals to ensure safe, effective, and continuous kidney treatment across the region.\ncompany is headquartered in 1361 Route de Baduel, 97300 Cayenne, French Guiana.",
-        "link": "detail?id=94b263b82b7111168b1e46266efef67f",
-        "magnet": null,
-        "screen": "screenshots/medusa/ATIRG.png",
-        "group_name": "medusa",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Cooperativa Esercenti Farmacia Scrl",
-        "discovered": "2025-10-25 18:21:01.173995",
-        "description": "Cooperativa Esercenti Farmacia Scrl provides a range of services focused on supporting pharmacy operators. The organization facilitates communication and offers institutional updates relevant to its members. It aims to serve pharmacists and pharmacy-related entities, ensuring they have the resources and information needed for effective operation. The cooperative is committed to quality and compliance with regulations, promoting mutual support among its clientele.Company is headquartered in Via Achille Grandi 18, 25125 Brescia (BS), Italy. 469 Employees",
-        "link": "detail?id=977496d1da6f9933ffea66746cc55294",
-        "magnet": null,
-        "screen": "screenshots/medusa/Cooperativa Esercenti Farmacia Scrl.png",
-        "group_name": "medusa",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Alissa Group ",
-        "discovered": "2025-10-25 18:21:00.272601",
-        "description": "Alissa Group established in the 1940s, by Abdulatif Alissa with a primary focus in textiles and food stuff trading, over the past decades, Alissa Group has developed into a diversified trading completed group. later , in the late 1940s, when the Kingdom was just trying to have a place for itself in the economy world map, Sheikh Abdullatif Al Issa noticed the enormous potential of this sector , so he started by panning a strategy includes diversifying the companys activities, trading in the global transportation sector as well as participating in the privet transportation sector.\ncompany is headquartered in 2nd Floor, The Building Behind McDonald’s (Al Tebian Tower), Olaya Street, Riyadh 11411, Saudi Arabia.\n378 Employees",
-        "link": "detail?id=482f254f72bb02d641fa8c65a1190df1",
-        "magnet": null,
-        "screen": "screenshots/medusa/Alissa Group .png",
-        "group_name": "medusa",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "City of Sugar Land",
-        "discovered": "2025-10-25 17:24:49.853870",
-        "description": "Founded as a sugar plantation in the early mid-20th century and incorporated in 1959, Sugar Land is a city in the state of Texas, in the United States. The city is within the Houston, The Woodlands and Sugar Land metropolitan area and Fort Be            ...",
-        "link": "/site/view?uuid=3e8467fa-2653-362b-9290-f03b07c419cc",
-        "magnet": null,
-        "screen": "screenshots/qilin/City of Sugar Land.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Zacho-Lind",
-        "discovered": "2025-10-25 17:24:48.942746",
-        "description": "Zacho-Lind A/S is a construction company based in Copenhagen with over 85 years of experience, specializing in infrastructure, concrete, and utility services. The company undertakes projects for both public and private clients, focusing on ar            ...",
-        "link": "/site/view?uuid=5c38c609-1241-3e01-bf8c-6351e9479399",
-        "magnet": null,
-        "screen": "screenshots/qilin/Zacho-Lind.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Kaufman & Stigger",
-        "discovered": "2025-10-25 17:24:48.067450",
-        "description": "When you call Kaufman & Stigger, PLLC Injury Lawyers, you will talk to a team with decades of experience helping people injured after an accident. Our Louisville-based law firm is focused exclusively on providing counsel to injured clients th            ...",
-        "link": "/site/view?uuid=f68940e3-fb1b-37fb-9b84-68d521ae1ac1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kaufman & Stigger.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Omrin",
-        "discovered": "2025-10-25 17:24:46.590590",
-        "description": "Omrin is a leading waste management company in the Netherlands, dedicated to creating a clean and sustainable world. They provide a range of services including waste collection for over 1.6 million residents and 10,000 businesses, as well as             ...",
-        "link": "/site/view?uuid=0882797d-14ea-3714-b672-7f7db9f40607",
-        "magnet": null,
-        "screen": "screenshots/qilin/Omrin.png",
-        "group_name": "qilin",
-        "sector": "Utilities"
     }
 ]
