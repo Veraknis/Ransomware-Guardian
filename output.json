@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Unimed do Brasil",
+        "discovered": "2025-10-26 08:24:53.101245",
+        "description": "Site: unimed.coop.br\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Insurance\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Brazil",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Latona Trucking",
+        "discovered": "2025-10-26 08:24:51.595901",
+        "description": "latonatrucking.com is a company that operates in the Transportation industry. It employs 100to249 people and has 1Mto5M of revenue.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Saturn Machine",
+        "discovered": "2025-10-26 08:24:50.690953",
+        "description": "Saturn Machine is a leading designer and manufacturer of equipment for major steel companies in North America, specializing in steel fabrication, machining, las...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "West Welch Reed Engineers",
+        "discovered": "2025-10-26 08:24:49.428681",
+        "description": "West, Welch, Reed Engineers, Inc. offers engineering services focused on transforming ideas into tangible projects. They cater to a diverse range of clients, pr...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Papsud",
+        "discovered": "2025-10-26 00:25:05.788753",
+        "description": "Papsud is a company that operates in the Office Products Retail & Distribution industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Marseille, Provence-Alpes-Cote d'Azur, France - 100GB of data taking include gov billing and costumers infos, invoices and IDs details etc",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Papsud.png",
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Precision Machined Products",
+        "discovered": "2025-10-25 22:25:09.380319",
+        "description": "Precision Machined Products is a tier one supplier of downhole equipment for the Oil and Gas Industry.We are ready to upload more than 12gb of corporate documents. Employee information and other HR files, projects, internal confidential files, clients confidential files, lots of specifications and drawings, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Air Arabia",
+        "discovered": "2025-10-25 21:24:47.472629",
+        "description": "",
+        "link": "/news/airarabia/",
+        "magnet": null,
+        "screen": "screenshots/everest/Air Arabia.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Essential Cabinetry Group",
+        "discovered": "2025-10-25 21:24:30.043874",
+        "description": "Simpsonville, SC-based Essential Cabinetry is a manufacturer of custom, semi-custom and stock-plus kitchen and bathroom cabinetry that is sold primarily through the dealer channel. Through its three market-leading brands (Tedd Wood Fine Cabin            ...",
+        "link": "/site/view?uuid=eeecd40d-180a-3ff1-9e8c-ac73885e9659",
+        "magnet": null,
+        "screen": "screenshots/qilin/Essential Cabinetry Group.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
         "post_title": "Svenska Kraftnät",
         "discovered": "2025-10-25 18:21:08.912842",
         "description": "",
@@ -177,76 +257,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "constructiondprovost.com",
-        "discovered": "2025-10-24 22:25:08.423137",
-        "description": "Construction Donald Provost is a regional general contracting firm established in Mont-Tremblant that specialises in high-quality residential and light-commercial construction, …",
-        "link": "/blog/post/constructiondprovostcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/constructiondprovostcom.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "xortec.de",
-        "discovered": "2025-10-24 22:25:07.557466",
-        "description": "Xortec GmbH is a German value-added distributor and systems integrator for professional video surveillance, IP network infrastructure and security-tech solutions. …",
-        "link": "/blog/post/xortecde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/xortecde.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "mino-in.co.jp",
-        "discovered": "2025-10-24 22:25:06.670372",
-        "description": "MINO Group is a long-established Japanese manufacturer (founded 1946) that designs and builds screen-printing machines, stencil makers, dryers, printing accessories …",
-        "link": "/blog/post/mino-incojp/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mino-incojp.png",
-        "group_name": "safepay",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "bannenbergandrowell.com",
-        "discovered": "2025-10-24 22:25:05.805269",
-        "description": "Bannenberg & Rowell is a luxury studio specialising in superyacht exterior and interior design, founded as the direct successor to …",
-        "link": "/blog/post/bannenbergandrowellcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/bannenbergandrowellcom.png",
-        "group_name": "safepay",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "greenhouseapt.com",
-        "discovered": "2025-10-24 22:25:04.918918",
-        "description": "The Greenhouse is an apartment building and management/letting operation in Boston’s Back Bay / South End that offers 1–3 bedroom …",
-        "link": "/blog/post/greenhouseaptcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/greenhouseaptcom.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Le MULTI LABORATOIRE LC2A",
-        "discovered": "2025-10-24 22:25:02.622812",
-        "description": "Le Multi Laboratoire LC2A offers a platform for businesses looking to test or analyze their products by configuring their ideal analytical project online",
-        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Le MULTI LABORATOIRE LC2A.png",
-        "group_name": "tengu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hanson-inc.com",
-        "discovered": "2025-10-24 22:24:40.941178",
-        "description": "Hanson Professional Services Inc. is a national consulting firm that specializes in engineering, planning, and allied services. They provide a wide range of services including aviation, asset management, construction support, and sustainability solutions, catering to various sectors such as healthca…",
-        "link": "/zI05fEpYNVWprdwn8dXyMq2ZrS08bR98/hanson-inc-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/hanson-inccom.png",
-        "group_name": "chaos",
         "sector": "Finance"
     }
 ]
