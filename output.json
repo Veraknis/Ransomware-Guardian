@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Meinhardt Group",
+        "discovered": "2025-10-27 05:24:30.356474",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bayu Buana Travel",
+        "discovered": "2025-10-27 04:24:48.587035",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "dwgra.com",
+        "discovered": "2025-10-27 02:25:29.604435",
+        "description": "",
+        "link": "/blog/disclosures/68fe0cbfe1a4e4b3ff53d421",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/dwgracom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "partitio.com",
+        "discovered": "2025-10-27 02:25:28.671779",
+        "description": "",
+        "link": "/blog/disclosures/68feb914e1a4e4b3ff5ef260",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/partitiocom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dublin Airport",
+        "discovered": "2025-10-26 23:24:44.380491",
+        "description": "",
+        "link": "/news/dublinairport/",
+        "magnet": null,
+        "screen": "screenshots/everest/Dublin Airport.png",
+        "group_name": "everest",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Limocar by Transdev.ca",
+        "discovered": "2025-10-26 23:24:25.785532",
+        "description": "Industry: Transport\nRevenue: $33.1 Million\nWebsite: limocar.ca",
+        "link": "/companies/limocar",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Limocar by Transdevca.png",
+        "group_name": "coinbase cartel",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Donacoop (VinaCapital)",
+        "discovered": "2025-10-26 21:24:54.267031",
+        "description": "https://www.zoominfo.com/c/vinacapital/345647395 DonaCoop is a major Vietnamese conglomerate based in Dong Nai province that evolved from agricultural and handicraft cooperatives into large-scale real estate and infrastructure development acting as a key investor in metro line extension projects with VinaCapital and developing major projects like Dong Nai Waterfront City in partnership with Keppel Land while also participating in philanthropic efforts such as donating.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "LaBonne",
+        "discovered": "2025-10-26 20:25:23.239036",
+        "description": "",
+        "link": "topic.php?id=AvkLqYqjo5pqqS",
+        "magnet": null,
+        "screen": "screenshots/play/LaBonne.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Metal Pros",
+        "discovered": "2025-10-26 20:25:22.297020",
+        "description": "",
+        "link": "topic.php?id=I1WCFDUZcW71f",
+        "magnet": null,
+        "screen": "screenshots/play/Metal Pros.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "auge.com",
         "discovered": "2025-10-26 19:24:40.770815",
         "description": "",
@@ -28,85 +118,5 @@
         "screen": "screenshots/qilin/South Alabama Regional Planning Commission.png",
         "group_name": "qilin",
         "sector": "Government"
-    },
-    {
-        "post_title": "Unimed do Brasil",
-        "discovered": "2025-10-26 08:24:53.101245",
-        "description": "Site: unimed.coop.br\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Insurance\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Brazil",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "sarcoma",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Latona Trucking",
-        "discovered": "2025-10-26 08:24:51.595901",
-        "description": "latonatrucking.com is a company that operates in the Transportation industry. It employs 100to249 people and has 1Mto5M of revenue.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Saturn Machine",
-        "discovered": "2025-10-26 08:24:50.690953",
-        "description": "Saturn Machine is a leading designer and manufacturer of equipment for major steel companies in North America, specializing in steel fabrication, machining, las...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "West Welch Reed Engineers",
-        "discovered": "2025-10-26 08:24:49.428681",
-        "description": "West, Welch, Reed Engineers, Inc. offers engineering services focused on transforming ideas into tangible projects. They cater to a diverse range of clients, pr...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Papsud",
-        "discovered": "2025-10-26 00:25:05.788753",
-        "description": "Papsud is a company that operates in the Office Products Retail & Distribution industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Marseille, Provence-Alpes-Cote d'Azur, France - 100GB of data taking include gov billing and costumers infos, invoices and IDs details etc",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Papsud.png",
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Precision Machined Products",
-        "discovered": "2025-10-25 22:25:09.380319",
-        "description": "Precision Machined Products is a tier one supplier of downhole equipment for the Oil and Gas Industry.We are ready to upload more than 12gb of corporate documents. Employee information and other HR files, projects, internal confidential files, clients confidential files, lots of specifications and drawings, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Air Arabia",
-        "discovered": "2025-10-25 21:24:47.472629",
-        "description": "",
-        "link": "/news/airarabia/",
-        "magnet": null,
-        "screen": "screenshots/everest/Air Arabia.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Essential Cabinetry Group",
-        "discovered": "2025-10-25 21:24:30.043874",
-        "description": "Simpsonville, SC-based Essential Cabinetry is a manufacturer of custom, semi-custom and stock-plus kitchen and bathroom cabinetry that is sold primarily through the dealer channel. Through its three market-leading brands (Tedd Wood Fine Cabin            ...",
-        "link": "/site/view?uuid=eeecd40d-180a-3ff1-9e8c-ac73885e9659",
-        "magnet": null,
-        "screen": "screenshots/qilin/Essential Cabinetry Group.png",
-        "group_name": "qilin",
-        "sector": "Retail"
     }
 ]
