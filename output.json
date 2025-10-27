@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "MotorsportMarkt.de",
+        "discovered": "2025-10-27 15:25:04.446538",
+        "description": "",
+        "link": "/news/MotorsportMarkt.de/",
+        "magnet": null,
+        "screen": "screenshots/everest/MotorsportMarktde.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ANIA KRUK",
+        "discovered": "2025-10-27 15:25:02.563140",
+        "description": "",
+        "link": "/news/ANIA_KRUK/",
+        "magnet": null,
+        "screen": "screenshots/everest/ANIA KRUK.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Miami Management",
+        "discovered": "2025-10-27 13:24:02.515509",
+        "description": "A licensed and insured company providing a full range of property management services",
+        "link": "Companies/miamimanagement",
+        "magnet": null,
+        "screen": "screenshots/pear/Miami Management.png",
+        "group_name": "pear",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Malgor",
+        "discovered": "2025-10-27 11:24:45.194445",
+        "description": "Founded in 1926 in San Juan, Puerto Rico, Malgor & Co., Inc. is a leader in supplying proprietary lines of food and miscellaneous items, as well as recognized brands through special distribution agreements. They serve a diverse clientele that            ...",
+        "link": "/site/view?uuid=1aa0e145-1929-3c12-9377-609aedd96227",
+        "magnet": null,
+        "screen": "screenshots/qilin/Malgor.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Flegenheimer International",
+        "discovered": "2025-10-27 11:24:43.344966",
+        "description": "Flegenheimer International is Licensed Customs Broker company based out of 227 W Grand Ave, El Segundo, CA, United States.We are ready to upload more than 16gb of corporate documents. Employee information (address, phones and so on), customer information, accounting and other business files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "GeBePro",
+        "discovered": "2025-10-27 10:25:39.829161",
+        "description": "The company's activities include the operational management of technical systems, project management, trading/distribution of technical systems and their products, business consulting, expert opinions, and service provision. The company may acquire similar or similar companies, participate in them, represent them, and establish branches. The company is authorized to conduct all transactions that are suitable for furthering the company's purpose.",
+        "link": "/card/gebepro",
+        "magnet": null,
+        "screen": "screenshots/beast/GeBePro.png",
+        "group_name": "beast",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Bolt Electricity, Oil & Gas",
+        "discovered": "2025-10-27 10:25:38.827061",
+        "description": "Bolt Energy specializes in providing energy solutions aimed at reducing costs by at least 25% for high voltage companies, and offering clean and affordable energy for residential and small business customers. They also deliver customized energy solutions for power plants. Established in 2010, Bolt Energy operates in both the free and captive markets, helping clients achieve significant energy savings. The company is actively engaged in energy generation and commercialization, focusing on efficient energy solutions",
+        "link": "/card/bolt_electricity__oil___gas",
+        "magnet": null,
+        "screen": "screenshots/beast/Bolt Electricity, Oil & Gas.png",
+        "group_name": "beast",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Meinhardt Group",
         "discovered": "2025-10-27 05:24:30.356474",
         "description": "",
