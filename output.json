@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "The Petroecuador company’s systems were fully compromised.",
+        "discovered": "2025-10-27 19:24:38.228805",
+        "description": "Exclusive information. Full data leak.",
+        "link": "view_article.php?article=o4YPpmXr77W2N6HWQYlVMwvmqrMXg2bnbsDEYwbs7hry5fJeb10deKw0jPXC1G68",
+        "magnet": null,
+        "screen": "screenshots/leaknet/The Petroecuador company’s systems were fully compromised.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cavalry Consulting",
+        "discovered": "2025-10-27 19:24:32.036270",
+        "description": "Cavalry Co is a prominent player in Australia's face-to-face sales and marketing...",
+        "link": "/leaks/68ffa7f788b6823fa2f0a247",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Cavalry Consulting.png",
+        "group_name": "sinobi",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "glawitsch-sutter",
+        "discovered": "2025-10-27 19:24:31.121037",
+        "description": "The predecessor of Glawitsch Sutter Rechtsanwälte GmbH was founded in 1932 by Dr...",
+        "link": "/leaks/68ffa92988b6823fa2f0a755",
+        "magnet": null,
+        "screen": "screenshots/sinobi/glawitsch-sutter.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SanDiego Automotive Museum",
+        "discovered": "2025-10-27 19:24:30.211907",
+        "description": "The San Diego Automotive Museum is a premier transportation museum located in Ba...",
+        "link": "/leaks/68ffae0188b6823fa2f0bff6",
+        "magnet": null,
+        "screen": "screenshots/sinobi/SanDiego Automotive Museum.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Luis Garratón",
+        "discovered": "2025-10-27 19:24:29.318333",
+        "description": "Luis Garratón, LLC is a full-service distributor specializing in pharmaceutical ...",
+        "link": "/leaks/68ffaf8988b6823fa2f0c79d",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Luis Garratón.png",
+        "group_name": "sinobi",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Deltta + Unique data center",
+        "discovered": "2025-10-27 18:24:41.498398",
+        "description": "Unique DataCenter provides tailored cloud computing solutions designed to enhanc...",
+        "link": "/leaks/68ffa76488b6823fa2f0a102",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Deltta + Unique data center.png",
+        "group_name": "sinobi",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Engineered Profiles",
+        "discovered": "2025-10-27 17:24:25.296746",
+        "description": "Engineered Profiles specializes in high-quality plastic extrusion, design, and advanced manufacturing technologies.We are ready to upload more than 56gb of corporate documents. Employee information (social security cards, driver licenses, medical information, addresses, phones and so on), projects, customer information, accounting, confidentiality agreements, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
+        "discovered": "2025-10-27 17:24:23.857995",
+        "description": "You will get access to files these companies soon. Here is what we got: 70gb of corporate documents. We've taken lots of personal files (passports, social security cards, driver licenses, medicalinformation, address, phones and other information of numerous people), confidential files, projects, customer information, detailed accounting, confidentiality agreements, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Maki Building Centers",
+        "discovered": "2025-10-27 17:24:21.889158",
+        "description": "http://www.makicorp.com\n\t\t\t\t\t\t\t\t\tMaki Building Centers is a company engaged in commerce and manufacturing with three branches in central Massachusetts. The company has warehouses, manufacturing facilities, large volumes, and financial resources! Security was very low, and the entire system was successfully compromised and taken over. Company, employee, and customer data ended up in our hands and, accordingly, in the public!",
+        "link": "http://u2q76zahlrpgvktr3i2j6o2emzcre67et2kvz43kj2gbrhokc2othqyd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Maki Building Centers.png",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Abilene Family Medical Associates",
+        "discovered": "2025-10-27 17:24:19.628945",
+        "description": "Abilene Family Medical Associates\nAbilene Family Medical Associates is a family medicine practice located in Abilene, Texas, providing comprehensive medical care to patients of all ages, from children to seniors.\n\n\n\nMore",
+        "link": "archive.php?company=220",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Abilene Family Medical Associates.png",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "MotorsportMarkt.de",
         "discovered": "2025-10-27 15:25:04.446538",
         "description": "",
@@ -158,35 +258,5 @@
         "screen": "screenshots/play/Metal Pros.png",
         "group_name": "play",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "auge.com",
-        "discovered": "2025-10-26 19:24:40.770815",
-        "description": "",
-        "link": "/blog/disclosures/68fe080ce1a4e4b3ff538e00",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/augecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "InfraCom Group",
-        "discovered": "2025-10-26 18:24:57.691868",
-        "description": "InfraCom Group AB (publ) is a leading player in IT infrastructure, offering services like mobile and fixed telephony, cloud PBX, fiber internet, server hosting, and web platforms since 1999. The company serves approximately 20,000 clients, pr            ...",
-        "link": "/site/view?uuid=b91da6cf-4c42-3299-a32e-623955b62fe7",
-        "magnet": null,
-        "screen": "screenshots/qilin/InfraCom Group.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "South Alabama Regional Planning Commission",
-        "discovered": "2025-10-26 16:24:34.255599",
-        "description": "SARPC is a locally controlled and organized instrument of local government in Southwestern Alabama, serving Mobile, Baldwin, and Escambia counties, along with twenty-nine municipalities. The organization provides programs and services focused            ...",
-        "link": "/site/view?uuid=3ebaf509-eb22-3ea5-8813-16a215910c85",
-        "magnet": null,
-        "screen": "screenshots/qilin/South Alabama Regional Planning Commission.png",
-        "group_name": "qilin",
-        "sector": "Government"
     }
 ]
