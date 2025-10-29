@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "Pritchard Brown & Chillicothe Metal",
+        "discovered": "2025-10-29 07:24:25.284752",
+        "description": "https://www.pritchardbrown.com & https://www.cmcousa.com\n\t\t\t\t\t\t\t\t\tPritchard Brown and Chillicothe Metal Company (CMCO) are two manufacturers that collaborate to develop comprehensive solutions in the field of protective enclosures and microclimate control systems. Founded in 1947, Pritchard Brown specializes in custom-designed protective enclosures, offering a range of weatherproof, weather-resistant, and noise-absorbing models specifically designed for harsh operating environments. With over 50 years of experience, Chillicothe Metal Company complements Pritchard Brown's offerings by specializing in protective enclosures and complete generator sets. Operating in a wide range of industries, including energy, utilities, petrochemical, mining, and defense, CMCO has completed more than 40,000 projects at facilities around the world. Its expertise in design, engineering, and manufacturing is evidenced by its work on high-profile projects such as the Statue of Liberty and NASA.",
+        "link": "http://5s2rv76limdt3eelmoh2vw6xovckjl563tjdifplvyxezdchcyn5xxyd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Pritchard Brown & Chillicothe Metal.png",
+        "group_name": "interlock",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Federal Auto Holdings Berhad",
+        "discovered": "2025-10-29 06:24:11.977793",
+        "description": "",
+        "link": "/leaks/12",
+        "magnet": null,
+        "screen": "screenshots/obscura/Federal Auto Holdings Berhad.png",
+        "group_name": "obscura",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Spijkermat",
+        "discovered": "2025-10-29 04:24:51.890430",
+        "description": "Spijkermat specializes in acupressure mats designed to enhance relaxation, alleviate pain, and improve sleep...",
+        "link": "spijkermat",
+        "magnet": null,
+        "screen": "screenshots/radiant group/Spijkermat.png",
+        "group_name": "radiant group",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Heimbrock",
+        "discovered": "2025-10-28 23:25:15.537104",
+        "description": "Heimbrock Inc. is a national refractory contractor.",
+        "link": "/feb6c5c0b2acddc96ed8/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Heimbrock.png",
+        "group_name": "genesis",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "WarmBlue",
+        "discovered": "2025-10-28 23:24:54.368301",
+        "description": "Small company",
+        "link": "/leaks/69013a0888b6823fa2fa33d0",
+        "magnet": null,
+        "screen": "screenshots/sinobi/WarmBlue.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Florida-Spectrum Environmental Services",
+        "discovered": "2025-10-28 23:24:53.481769",
+        "description": "Florida-Spectrum Environmental Services, Inc. is a premier full-service environm...",
+        "link": "/leaks/69013d0188b6823fa2fa48a1",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Florida-Spectrum Environmental Services.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NSC PLUS CO, LTD",
+        "discovered": "2025-10-28 21:25:13.794119",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sangeetha Mobiles",
+        "discovered": "2025-10-28 21:25:12.897685",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KONCISE COMPANY LIMITED",
+        "discovered": "2025-10-28 21:25:12.016292",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "romar industrial company limited",
+        "discovered": "2025-10-28 21:25:11.072034",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Gemini Group",
+        "discovered": "2025-10-28 21:24:47.538193",
+        "description": "Gemini Group\nFounded in 1972 and headquartered in Bad Axe, Michigan, Gemini Group is a company that designs and manufactures engineering plastic and metal products.\n\n\n\nMore",
+        "link": "archive.php?company=222",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Gemini Group.png",
+        "group_name": "rhysida",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Alios Finance Group",
+        "discovered": "2025-10-28 20:24:49.823401",
+        "description": "",
+        "link": "/blog/disclosures/69010efde1a4e4b3ff83a7ad",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Alios Finance Group.png",
+        "group_name": "inc ransom",
+        "sector": "Finance"
+    },
+    {
         "post_title": "MASTEC.COM",
         "discovered": "2025-10-28 19:24:06.714116",
         "description": "",
@@ -15,7 +135,7 @@
         "description": "",
         "link": "/news/att/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/everest/AT&T Careers - Database Leaked.png",
         "group_name": "everest",
         "sector": "Unknown"
     },
@@ -25,7 +145,7 @@
         "description": "",
         "link": "/news/dublinairport/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/everest/Dublin Airport DataBase on sale for $1 Million.png",
         "group_name": "everest",
         "sector": "Transportation"
     },
@@ -35,7 +155,7 @@
         "description": "",
         "link": "/news/airarabia/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/everest/Air Arabia DataBase on sale for $2 Million.png",
         "group_name": "everest",
         "sector": "Unknown"
     },
@@ -507,66 +627,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "ciphbit",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Advantage CDC",
-        "discovered": "2025-10-28 05:25:08.233923",
-        "description": "A company that provides long-term loans",
-        "link": "/cf4ccd0aad02d49e77da/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Advantage CDC.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kipp & Christian",
-        "discovered": "2025-10-28 05:25:07.322891",
-        "description": "A law firm located in Salt Lake City",
-        "link": "/b70dd25a3891a86f2354/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Kipp & Christian.png",
-        "group_name": "genesis",
-        "sector": "Government"
-    },
-    {
-        "post_title": "DeCeTe",
-        "discovered": "2025-10-28 03:24:37.707722",
-        "description": "DeCeTe Duisburger Container-Terminalgesellschaft mbH",
-        "link": "/FR6bO1HYJoY61qaDdLK12cqmVohNGJoN/decete",
-        "magnet": null,
-        "screen": "screenshots/chaos/DeCeTe.png",
-        "group_name": "chaos",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cohen's Fashion Optical",
-        "discovered": "2025-10-28 01:24:58.619246",
-        "description": "Cohen's Fashion Optical (formerly known as Cohen's Optical) is an optical retail...",
-        "link": "/leaks/68ffb0f388b6823fa2f0d016",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Cohen's Fashion Optical.png",
-        "group_name": "sinobi",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Navigator Business Solutions",
-        "discovered": "2025-10-27 21:25:01.608448",
-        "description": "Life Sciences/Biotechnology, Distribution, and Consumer Products Organizations c...",
-        "link": "/leaks/68fb89622423bc3ce0ecbe18",
-        "magnet": null,
-        "screen": "screenshots/lynx/Navigator Business Solutions.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Trojan Construction & Holding Group www.trojan.ae",
-        "discovered": "2025-10-27 20:24:29.108931",
-        "description": "Over 3 terabytes of project and financial reporting data for 2024–2025. https://gofile.io/d/4Uf42V For an example of what data we have and sell at a high price, please write to us if you are interested: Qualitydatarecovery@mail.comTrojan Holding is an Abu Dhabi-based construction company founded in 2012. It is a diversified group of companies engaged in a wide range of construction projects, including high-rise buildings, hospitals, schools, resorts, and residential complexes. The company is a leader in the construction sector in the UAE and the region, with a large project portfolio and is a subsidiary of Alpha Dhabi Holding.The Group currently has eight subsidiaries:Trojan General Contracting,National Projects & Construction,Royal Advance Electromechanical Works,Reem Emirates Aluminum,Hi-Tech Concrete Products,Al Maha Modular Industries,Phoenix Timber Factory andReem Readymix.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "black nevas",
         "sector": "Finance"
     }
 ]
