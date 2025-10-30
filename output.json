@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "ApleNet Co., Ltd",
+        "discovered": "2025-10-30 04:24:57.624439",
+        "description": "",
+        "link": "http://jvkpexgkuaw5toiph7fbgucycvnafaqmfvakymfh5pdxepvahw3xryqd.onion/targets/21",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/ApleNet Co, Ltd.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "fsbgroup.ca",
+        "discovered": "2025-10-30 02:25:15.462169",
+        "description": "",
+        "link": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/s/FOZZeQMuNKEZbGKbHFwXcIdfAsbXFXEsrn35NxL0EEpxomDzFR8pmdYX5iTibe76c21dKwJ76QV+8lSF2h2zHBnZUViTmo3",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/fsbgroupca.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "semag.fr",
+        "discovered": "2025-10-30 02:25:14.647931",
+        "description": "",
+        "link": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/s/OU4F2PgCxlTt5Y0l3nGgUemptQ6GNUOlXTFfIXloXmB79iZBiM8GSKmecPJLywUBtYyS3RdP4GdsWorDeXHySlRObEFJb0R6",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/semagfr.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "axxia.fr",
+        "discovered": "2025-10-30 02:25:13.795963",
+        "description": "",
+        "link": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/s/yQKGUT4rW2IA0F1GJTg+2SWPWwoyji+eHP8vtNj1ZECEBy9svi2S4Zkqqm7BDaFmoJRNsHrKmq2UCsUNae7VD2FJNDZVYlVs",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/axxiafr.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "nationalcoatingsinc.com",
+        "discovered": "2025-10-30 01:24:52.422098",
+        "description": "National Coatings is a trusted commercial and industrial painting company servin...",
+        "link": "/leaks/690140502423bc3ce02c28b9",
+        "magnet": null,
+        "screen": "screenshots/lynx/nationalcoatingsinccom.png",
+        "group_name": "lynx",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "News for recovery companies",
+        "discovered": "2025-10-29 23:25:08.127044",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Kolbus",
+        "discovered": "2025-10-29 21:24:57.899087",
+        "description": "kolbus.de",
+        "link": "/post/oKY1d9ecPiblLrKXQb8y",
+        "magnet": null,
+        "screen": "screenshots/payoutsking/Kolbus.png",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bariatrix Nutrition",
+        "discovered": "2025-10-29 21:24:56.994826",
+        "description": "bariatrix.com",
+        "link": "/post/5p2EHbutxBZj61evrdE1",
+        "magnet": null,
+        "screen": "screenshots/payoutsking/Bariatrix Nutrition.png",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Medialab",
+        "discovered": "2025-10-29 21:24:56.106803",
+        "description": "medialab3dsolutions.com",
+        "link": "/post/PtvoALIb7ymu4dlUTGJi",
+        "magnet": null,
+        "screen": "screenshots/payoutsking/Medialab.png",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "OpenEyes Technologies Inc.",
+        "discovered": "2025-10-29 20:25:07.877021",
+        "description": "Confidential data from two companies OpenEyes Technologies Inc. and OpenEyes Software Solutions Pvt. Ltd (OPC) Corporate office, Suite #405, 4th Floor, Iscon Atria 1, Gotri Road, Vadodara – 390021, Gujarat – India . OpenEyes Technologies Inc. Headquarter · 1629 K Street, NW Suite 300. Washington, DC 20006 · +1.202.349.5858. Email address. dc@theOpenEyes.com ; ODC (India)",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "radar",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SK-Telecom",
+        "discovered": "2025-10-29 20:25:04.605007",
+        "description": "Industry: Technology\nRevenue: $13.5 Billion\nWebsite: sktelecom.com",
+        "link": "/companies/sktel",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/SK-Telecom.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "TBM Service Group",
+        "discovered": "2025-10-29 20:25:00.821435",
+        "description": "Industry: Business Services\nRevenue: $354.9 Million\nWebsite: tbmservicegroup.com",
+        "link": "/companies/tbm",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/TBM Service Group.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PF / PS",
+        "discovered": "2025-10-29 20:24:59.899788",
+        "description": "Industry: Technology\nRevenue: Undisclosed\nWebsite: Not provided",
+        "link": "/companies/pf",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/PF  PS.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Time Equities",
         "discovered": "2025-10-29 19:25:06.692666",
         "description": "timeequities.com",
@@ -148,125 +278,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "Pritchard Brown & Chillicothe Metal",
-        "discovered": "2025-10-29 07:24:25.284752",
-        "description": "https://www.pritchardbrown.com & https://www.cmcousa.com\n\t\t\t\t\t\t\t\t\tPritchard Brown and Chillicothe Metal Company (CMCO) are two manufacturers that collaborate to develop comprehensive solutions in the field of protective enclosures and microclimate control systems. Founded in 1947, Pritchard Brown specializes in custom-designed protective enclosures, offering a range of weatherproof, weather-resistant, and noise-absorbing models specifically designed for harsh operating environments. With over 50 years of experience, Chillicothe Metal Company complements Pritchard Brown's offerings by specializing in protective enclosures and complete generator sets. Operating in a wide range of industries, including energy, utilities, petrochemical, mining, and defense, CMCO has completed more than 40,000 projects at facilities around the world. Its expertise in design, engineering, and manufacturing is evidenced by its work on high-profile projects such as the Statue of Liberty and NASA.",
-        "link": "http://5s2rv76limdt3eelmoh2vw6xovckjl563tjdifplvyxezdchcyn5xxyd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Pritchard Brown & Chillicothe Metal.png",
-        "group_name": "interlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Federal Auto Holdings Berhad",
-        "discovered": "2025-10-29 06:24:11.977793",
-        "description": "",
-        "link": "/leaks/12",
-        "magnet": null,
-        "screen": "screenshots/obscura/Federal Auto Holdings Berhad.png",
-        "group_name": "obscura",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Spijkermat",
-        "discovered": "2025-10-29 04:24:51.890430",
-        "description": "Spijkermat specializes in acupressure mats designed to enhance relaxation, alleviate pain, and improve sleep...",
-        "link": "spijkermat",
-        "magnet": null,
-        "screen": "screenshots/radiant group/Spijkermat.png",
-        "group_name": "radiant group",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Heimbrock",
-        "discovered": "2025-10-28 23:25:15.537104",
-        "description": "Heimbrock Inc. is a national refractory contractor.",
-        "link": "/feb6c5c0b2acddc96ed8/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Heimbrock.png",
-        "group_name": "genesis",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "WarmBlue",
-        "discovered": "2025-10-28 23:24:54.368301",
-        "description": "Small company",
-        "link": "/leaks/69013a0888b6823fa2fa33d0",
-        "magnet": null,
-        "screen": "screenshots/sinobi/WarmBlue.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Florida-Spectrum Environmental Services",
-        "discovered": "2025-10-28 23:24:53.481769",
-        "description": "Florida-Spectrum Environmental Services, Inc. is a premier full-service environm...",
-        "link": "/leaks/69013d0188b6823fa2fa48a1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Florida-Spectrum Environmental Services.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NSC PLUS CO, LTD",
-        "discovered": "2025-10-28 21:25:13.794119",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sangeetha Mobiles",
-        "discovered": "2025-10-28 21:25:12.897685",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KONCISE COMPANY LIMITED",
-        "discovered": "2025-10-28 21:25:12.016292",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "romar industrial company limited",
-        "discovered": "2025-10-28 21:25:11.072034",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Gemini Group",
-        "discovered": "2025-10-28 21:24:47.538193",
-        "description": "Gemini Group\nFounded in 1972 and headquartered in Bad Axe, Michigan, Gemini Group is a company that designs and manufactures engineering plastic and metal products.\n\n\n\nMore",
-        "link": "archive.php?company=222",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Gemini Group.png",
-        "group_name": "rhysida",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Alios Finance Group",
-        "discovered": "2025-10-28 20:24:49.823401",
-        "description": "",
-        "link": "/blog/disclosures/69010efde1a4e4b3ff83a7ad",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Alios Finance Group.png",
-        "group_name": "inc ransom",
-        "sector": "Finance"
     }
 ]
