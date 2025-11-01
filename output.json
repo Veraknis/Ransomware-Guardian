@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "****.com.au",
+        "discovered": "2025-11-01 18:24:51.708984",
+        "description": "",
+        "link": "/posts/69060ed83114e6b96fd5e1a2/69060ed83114e6b96fd5e1a2/",
+        "magnet": null,
+        "screen": "screenshots/j group/****comau.png",
+        "group_name": "j group",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The CPA company was breached, and a significant amount of data was compromised.",
+        "discovered": "2025-11-01 17:25:00.086401",
+        "description": "Currently publishing only 1% of all data.",
+        "link": "view_article.php?article=xJql7mxUkDQCGhOQj1JlNLE8vHVKc8caQuIpfeZcEmyhICXmlZ6YI6097x0RLH5X",
+        "magnet": null,
+        "screen": "screenshots/leaknet/The CPA company was breached, and a significant amount of data was compromised.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Professional's Choice Sports",
+        "discovered": "2025-11-01 16:25:20.825453",
+        "description": "",
+        "link": "topic.php?id=k4FlvbeSuw9U2L",
+        "magnet": null,
+        "screen": "screenshots/play/Professional's Choice Sports.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Encore Repair Services",
+        "discovered": "2025-11-01 16:25:19.917629",
+        "description": "",
+        "link": "topic.php?id=7ob91on6oatTlQ",
+        "magnet": null,
+        "screen": "screenshots/play/Encore Repair Services.png",
+        "group_name": "play",
+        "sector": "Services"
+    },
+    {
+        "post_title": "Tavo Packaging Inc",
+        "discovered": "2025-11-01 16:25:19.021424",
+        "description": "",
+        "link": "topic.php?id=vsfSiG325wu2w8",
+        "magnet": null,
+        "screen": "screenshots/play/Tavo Packaging Inc.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wright Tool",
+        "discovered": "2025-11-01 16:25:18.099623",
+        "description": "",
+        "link": "topic.php?id=2QwYEV1BcjdMYx",
+        "magnet": null,
+        "screen": "screenshots/play/Wright Tool.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Lidera Network",
         "discovered": "2025-11-01 15:24:41.782547",
         "description": "",
@@ -98,35 +158,5 @@
         "screen": "screenshots/inc ransom/aa-llpcom (aalaw).png",
         "group_name": "inc ransom",
         "sector": "Legal"
-    },
-    {
-        "post_title": "holtzofficesupport.com",
-        "discovered": "2025-10-31 18:25:10.026676",
-        "description": "Holtz Office Support GmbH is a family-owned, medium-sized German company headquartered in Wiesbaden, founded in 1956. The company specializes in …",
-        "link": "/blog/post/holtzofficesupportcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/holtzofficesupportcom.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Medical company hacked, first set of files released online - 1% of APMG data is here!",
-        "discovered": "2025-10-31 18:24:51.750165",
-        "description": "#Announce #DataLeak",
-        "link": "view_article.php?article=ooWglOKisiPcqr2HdwwrrEuerNWbF3Mlh6VOD1MZoh9Um9OmEMWfvm0f0Z4NxjpJ",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Medical company hacked, first set of files released online - 1% of APMG data is here!.png",
-        "group_name": "leaknet",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Fouad Alghanim & Sons Group of Companies Holding W.L.L.",
-        "discovered": "2025-10-31 16:24:38.532917",
-        "description": "The full company name associated with the website falghanim.com is Alghanim International General Trading & Contracting Co. WLL. This company is an associate of the Fouad Alghanim & Sons Group of Companies, a separate entity from the similarly named Alghanim Industries (which uses the website alghanim.com).  Files Marked Confidential - http://4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion/falghanim.com%20KUWAIT/Files%20Marked%20Confidential.txt . Contact us to remove the files from our servers!",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar",
-        "sector": "Finance"
     }
 ]
