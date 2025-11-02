@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Deco Dental",
+        "discovered": "2025-11-02 19:25:00.525670",
+        "description": "Healthcare Services",
+        "link": "/site/view?uuid=b9104640-7928-3e4b-8883-6110e108eb1e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Deco Dental.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Castilla",
+        "discovered": "2025-11-02 17:24:35.947632",
+        "description": "Castilla is a company that operates in the Consumer Services industry. It employs 5to9 people and has 1Mto5M of revenue. The company is headquartered in Soria, Castille and Leon, Spain.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Castilla.png",
+        "group_name": "nova",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "m*c*e*ic*l.com",
         "discovered": "2025-11-01 22:24:53.895950",
         "description": "",
@@ -7,66 +27,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "****.com.au",
-        "discovered": "2025-11-01 18:24:51.708984",
-        "description": "",
-        "link": "/posts/69060ed83114e6b96fd5e1a2/69060ed83114e6b96fd5e1a2/",
-        "magnet": null,
-        "screen": "screenshots/j group/****comau.png",
-        "group_name": "j group",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The CPA company was breached, and a significant amount of data was compromised.",
-        "discovered": "2025-11-01 17:25:00.086401",
-        "description": "Currently publishing only 1% of all data.",
-        "link": "view_article.php?article=xJql7mxUkDQCGhOQj1JlNLE8vHVKc8caQuIpfeZcEmyhICXmlZ6YI6097x0RLH5X",
-        "magnet": null,
-        "screen": "screenshots/leaknet/The CPA company was breached, and a significant amount of data was compromised.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Professional's Choice Sports",
-        "discovered": "2025-11-01 16:25:20.825453",
-        "description": "",
-        "link": "topic.php?id=k4FlvbeSuw9U2L",
-        "magnet": null,
-        "screen": "screenshots/play/Professional's Choice Sports.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Encore Repair Services",
-        "discovered": "2025-11-01 16:25:19.917629",
-        "description": "",
-        "link": "topic.php?id=7ob91on6oatTlQ",
-        "magnet": null,
-        "screen": "screenshots/play/Encore Repair Services.png",
-        "group_name": "play",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Tavo Packaging Inc",
-        "discovered": "2025-11-01 16:25:19.021424",
-        "description": "",
-        "link": "topic.php?id=vsfSiG325wu2w8",
-        "magnet": null,
-        "screen": "screenshots/play/Tavo Packaging Inc.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wright Tool",
-        "discovered": "2025-11-01 16:25:18.099623",
-        "description": "",
-        "link": "topic.php?id=2QwYEV1BcjdMYx",
-        "magnet": null,
-        "screen": "screenshots/play/Wright Tool.png",
-        "group_name": "play",
         "sector": "Unknown"
     }
 ]
