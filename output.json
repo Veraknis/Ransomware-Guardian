@@ -68,55 +68,5 @@
         "screen": "screenshots/play/Wright Tool.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Lidera Network",
-        "discovered": "2025-11-01 15:24:41.782547",
-        "description": "",
-        "link": "/companies/8096496775",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Lidera Network.png",
-        "group_name": "worldleaks",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Central Plate Services Limitited",
-        "discovered": "2025-11-01 15:24:40.882018",
-        "description": "",
-        "link": "/companies/7329815422",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Central Plate Services Limitited.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kobayashi",
-        "discovered": "2025-11-01 15:24:39.908289",
-        "description": "",
-        "link": "/companies/5218015704",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Kobayashi.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Saturday Files",
-        "discovered": "2025-11-01 12:24:55.646174",
-        "description": "Saturdays may be ordinary on your calendar, but for us, they mark a day of revelation, a day when we shake the foundations of your artificial calm with the tremor of truth. Today, once again, we bring seven more names from your ranks out of the darkness and into the light, seven faces from the…",
-        "link": "https://handala-hack.to/the-saturday-files/",
-        "magnet": null,
-        "screen": "screenshots/handala/The Saturday Files.png",
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Red Phoenix Construction",
-        "discovered": "2025-11-01 11:24:37.562905",
-        "description": "Construction",
-        "link": "/site/view?uuid=3bb4f15d-37b1-327d-a556-df3f43ff5d59",
-        "magnet": null,
-        "screen": "screenshots/qilin/Red Phoenix Construction.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
