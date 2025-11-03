@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "University of Gävle",
+        "discovered": "2025-11-03 08:24:51.835792",
+        "description": "University of Gävle is a university college located in Gävle, Sweden. The university was established in 1977 and is currently organized into three academies and nine departments. The university offers around 45 masters- and bachelor's degrees and 800 courses in technology, social- and natural sciences and the humanities. \n\nZoomInfo: https://www.zoominfo.com/c/ga%CC%88vle/1142576926 / Domain: https://www.hig.se/",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/University of Gävle.png",
+        "group_name": "nova",
+        "sector": "Education"
+    },
+    {
+        "post_title": "https://www.unterkofler.info",
+        "discovered": "2025-11-03 03:24:47.058475",
+        "description": "117 GB data has stolen5611 Grossarl | Marktstr. 109+43 (0) 6414 / 2760",
+        "link": "blog_1-28",
+        "magnet": null,
+        "screen": "screenshots/mydata/wwwunterkoflerinfo.png",
+        "group_name": "mydata",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.automotiveml.com",
+        "discovered": "2025-11-03 03:24:45.530012",
+        "description": "www.automotiveml.com",
+        "link": "blog_1-29",
+        "magnet": null,
+        "screen": "screenshots/mydata/wwwautomotivemlcom.png",
+        "group_name": "mydata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mayco International [www.maycointernational.com]",
+        "discovered": "2025-11-03 01:24:53.159194",
+        "description": "Data breach at automotive industry leader.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+Ux7ZGwb+wgrPFOpEZAPcrEbDNULtEza6f7gmyh1TvoWxcevgNeFRvtThKLhZ0VfAIHZqLM8p1w++ZKWbeZS+kY2ajUxTE1k",
+        "magnet": null,
+        "screen": "screenshots/anubis/Mayco International [wwwmaycointernationalcom].png",
+        "group_name": "anubis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Mayco International",
+        "discovered": "2025-11-03 00:25:12.843451",
+        "description": "Data breach at automotive industry leader.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+Ux7ZGwb+wgrPFOpEZAPcrEbDNULtEza6f7gmyh1TvoWxcevgNeFRvtThKLhZ0VfAIHZqLM8p1w++ZKWbeZS+kY2ajUxTE1k",
+        "magnet": null,
+        "screen": "screenshots/anubis/Mayco International.png",
+        "group_name": "anubis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
+        "discovered": "2025-11-03 00:25:09.693177",
+        "description": "Industry: Logistics\nRevenue: $20.2 Billion\nWebsite: cevalogistics.com",
+        "link": "/companies/ceva",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/CEVA LOGISTICS - THIS DATABASE IS FOR SALE.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Deco Dental",
         "discovered": "2025-11-02 19:25:00.525670",
         "description": "Healthcare Services",
@@ -17,16 +77,6 @@
         "magnet": null,
         "screen": "screenshots/nova/Castilla.png",
         "group_name": "nova",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "m*c*e*ic*l.com",
-        "discovered": "2025-11-01 22:24:53.895950",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
         "sector": "Unknown"
     }
 ]
