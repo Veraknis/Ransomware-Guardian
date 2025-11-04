@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "General Micro Systems",
+        "discovered": "2025-11-04 13:24:41.069609",
+        "description": "General Micro Systems (GMS) is the rugged server company. The company is known as the industry expert in highest-density, modular,compute-intensive, and rugged small form-factor embedded computing systems, servers, and switches.We will upload corporate documents soon. Detailed project information, a bit of client information, financials, confidential military information, NDA, the most interesting thing here is confidential files of Intel corporation concerning Thunderbolt. And they don't care about such data leaked. We'll upload the files soon.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Invacare",
+        "discovered": "2025-11-04 09:24:48.990685",
+        "description": "Invacare\nInvacare, founded in 1885 and headquartered out of Elyria, Ohio, is a manufacturer and distributor of home and long term care medical products.\n\n\n\nMore",
+        "link": "archive.php?company=224",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Invacare.png",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "DOVERN Import",
         "discovered": "2025-11-04 07:25:15.533193",
         "description": "At DOVERN Import, we are passionate about the art of rare wines and champagnes. Since 2001, we have had the honor of selecting and importing wines and champagnes to Morocco, primarily from the prestigious terroirs of France. Our mission is to showcase unique and often overlooked wineries, while adhering to strict quality standards.We have created an exclusive selection for wine and champagne enthusiasts in Morocco, sourced from the finest wine regions such as the Rhône Valley, Champagne, Burgundy, and Bordeaux. Our commitment to our clients and restaurateurs is reflected in our personalized service, offering them exclusive access to our flagship products.Based in Casablanca, DOVERN Import is the go-to source for those seeking wines and champagnes in Morocco, offering unique and personalized tastings. Our philosophy is founded on authenticity, excellence, and a love of wine.Personal information of employees and clientsFinancial documents\nhttps://dovern-import.com/",
@@ -208,65 +228,5 @@
         "screen": "screenshots/interlock/Pinto Coates Kyre & Bowers.png",
         "group_name": "interlock",
         "sector": "Legal"
-    },
-    {
-        "post_title": "Montage Marketing Services",
-        "discovered": "2025-11-03 15:24:46.286693",
-        "description": "Montage Marketing Services is an outsourced contact center specializing in handling peak activity periods and supporting back-office needs through their Customer Contact Center, Custom Fulfillment Center, and Administrative Services.We will upload 26gb of corporate documents soon. Employee and customer information, contracts and agreements, accounting and financial documents, HR files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Seasons Federal Credit Union",
-        "discovered": "2025-11-03 15:24:44.734241",
-        "description": "Montage Marketing Services is an outsourced contact center specializing in handling peak activity periods and supporting back-office needs through their Customer Contact Center, Custom Fulfillment Center, and Administrative Services.We will upload 17gb of corporate documents soon. Employee and customer information, w-9 forms, contracts and agreements, confidential files, accounting and financial documents, HR files, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Gerson & Schwartz Accident & Injury Lawyers",
-        "discovered": "2025-11-03 14:24:43.685081",
-        "description": "A Miami law firm representing victims in all types of legal proceedings related to accidents, injuries, and wrongful death",
-        "link": "Companies/injuryattorneyfla",
-        "magnet": null,
-        "screen": "screenshots/pear/Gerson & Schwartz Accident & Injury Lawyers.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "G. Hauswirth Architects",
-        "discovered": "2025-11-03 13:24:10.399335",
-        "description": "G. Hauswirth Architects\n\nG. Hauswirth Architekten AG is one of the leading architectural firms for chalets in Gstaad - Saanenland. Our core areas are residentia...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ANCO",
-        "discovered": "2025-11-03 12:24:49.250262",
-        "description": "Business Services",
-        "link": "/site/view?uuid=949f97d5-25dd-3b78-b464-9142e6633ac2",
-        "magnet": null,
-        "screen": "screenshots/qilin/ANCO.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Victorian Chemical",
-        "discovered": "2025-11-03 11:24:41.290633",
-        "description": "",
-        "link": "/r/d27193cd8c972a8c0dcf2fa1b066d6b9c0603103",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Victorian Chemical.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
     }
 ]
