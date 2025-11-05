@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Coilplus",
+        "discovered": "2025-11-05 15:25:06.684104",
+        "description": "Coilplus is part of the MetalOne Group, MetalOne is the largest integrated steel company in the world.We will upload 14gb of corporate documents soon. Detailed employee information (complete I-9 forms, SSN, DL, passports, birth/death certs and so on), financials, internal confidentiality agreements, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pine Pharmaceuticals",
+        "discovered": "2025-11-05 15:25:05.767916",
+        "description": "Pine Pharmaceuticals is one of the industry's largest and most trusted 503B outsourcing facilities specializing in the preparationof high-quality, ready-to-administer compounds and repackaged products.We will upload more than 18gb of corporate documents soon. Detailed employee information (complete I-9 forms, SSN, DL, passports, birth/death certs and so on), customer information, projects details, financials, confidential files, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Christina Development",
+        "discovered": "2025-11-05 15:25:03.313124",
+        "description": "Christina is a Los Angeles-based real estate investment firm with45 years of experience, focusing on providing investors the opportunity to invest in prime real estate in locations such as Beverly Hills, Malibu, and Santa Monica.We will upload more than 18gb of corporate documents soon. Employee personal documents (passports, driver licenses, birth/death certificates), customer projects and other information, client information, financials, confidential files, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "mcintoshlabs.com",
+        "discovered": "2025-11-05 13:25:31.258723",
+        "description": "McIntosh Laboratory is an iconic American company, founded in 1949 and headquartered in Binghamton, New York. It specializes in high-end, …",
+        "link": "/blog/post/mcintoshlabscom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/mcintoshlabscom.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Habib Bank AG Zurich",
+        "discovered": "2025-11-05 11:24:49.956728",
+        "description": "Banking",
+        "link": "/site/view?uuid=3b3e7cad-63e3-340b-81e1-9aed5e5397d4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Habib Bank AG Zurich.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Habib Bank",
         "discovered": "2025-11-05 08:25:08.627588",
         "description": "Banking",
@@ -158,25 +208,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Legal"
-    },
-    {
-        "post_title": "General Micro Systems",
-        "discovered": "2025-11-04 13:24:41.069609",
-        "description": "General Micro Systems (GMS) is the rugged server company. The company is known as the industry expert in highest-density, modular,compute-intensive, and rugged small form-factor embedded computing systems, servers, and switches.We will upload corporate documents soon. Detailed project information, a bit of client information, financials, confidential military information, NDA, the most interesting thing here is confidential files of Intel corporation concerning Thunderbolt. And they don't care about such data leaked. We'll upload the files soon.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Invacare",
-        "discovered": "2025-11-04 09:24:48.990685",
-        "description": "Invacare\nInvacare, founded in 1885 and headquartered out of Elyria, Ohio, is a manufacturer and distributor of home and long term care medical products.\n\n\n\nMore",
-        "link": "archive.php?company=224",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Invacare.png",
-        "group_name": "rhysida",
-        "sector": "Healthcare"
     }
 ]
