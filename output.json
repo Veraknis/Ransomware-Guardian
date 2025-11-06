@@ -1,5 +1,195 @@
 [
     {
+        "post_title": "Provincial Department of Health Services Sri Lanka",
+        "discovered": "2025-11-06 19:25:17.704677",
+        "description": "Health Services – 145 Institutions – 439 Field Clinic Centres – 850 Medical Officer",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kryptos",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "UScraft",
+        "discovered": "2025-11-06 19:25:00.963354",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=d93e4467-1add-3e22-a6be-a1d554846708",
+        "magnet": null,
+        "screen": "screenshots/qilin/UScraft.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "zebra.or.at",
+        "discovered": "2025-11-06 19:24:59.306162",
+        "description": "",
+        "link": "/blog/disclosures/690ce012e1a4e4b3ff364399",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/zebraorat.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sai Mai Hospital",
+        "discovered": "2025-11-06 18:25:05.773039",
+        "description": "Business Services",
+        "link": "/site/view?uuid=4111a2ba-260a-3c3f-bd78-51e673d4ddcc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sai Mai Hospital.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "PCB Uitvaartzorg",
+        "discovered": "2025-11-06 18:25:02.063846",
+        "description": "Business Services",
+        "link": "/site/view?uuid=ad533e11-1afb-300c-b05b-b833258d02b5",
+        "magnet": null,
+        "screen": "screenshots/qilin/PCB Uitvaartzorg.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "INFORMA.COM (EBS)",
+        "discovered": "2025-11-06 18:22:46.667193",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/INFORMACOM (EBS).png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RHEEM.COM",
+        "discovered": "2025-11-06 18:22:02.594274",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/RHEEMCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WOODPLC.COM",
+        "discovered": "2025-11-06 18:21:34.248173",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/WOODPLCCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ELSEWEDYELECTRIC.COM",
+        "discovered": "2025-11-06 18:21:11.384179",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/ELSEWEDYELECTRICCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KIER.CO.UK",
+        "discovered": "2025-11-06 18:20:39.141915",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/KIERCOUK.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Everest Exclusive Interview for Dailydarkweb.net",
+        "discovered": "2025-11-06 17:24:33.222361",
+        "description": "",
+        "link": "/news/Everest_Exclusive_Interview_for_Dailydarkweb.net/",
+        "magnet": null,
+        "screen": "screenshots/everest/Everest Exclusive Interview for Dailydarkwebnet.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "First Resources",
+        "discovered": "2025-11-06 17:24:19.325337",
+        "description": "",
+        "link": "/r/de285162214ed3fb363a9ec001685c742189c29e",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/First Resources.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DRD Communications",
+        "discovered": "2025-11-06 17:24:17.083090",
+        "description": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Ville de MontLaurier",
+        "discovered": "2025-11-06 17:24:16.116084",
+        "description": "Government",
+        "link": "/site/view?uuid=735b2639-7735-3bca-a651-6a5b4fbe4317",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ville de MontLaurier.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Tass Meister Patent Firm",
+        "discovered": "2025-11-06 17:24:15.159572",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=73fc97b7-fcb1-3f75-8f53-736d4543ce6d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tass Meister Patent Firm.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Systems Integrated",
+        "discovered": "2025-11-06 17:24:14.205187",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=c78c9a6d-174d-354c-bac7-f9defd1a5fe7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Systems Integrated.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "LOGITECH.COM",
+        "discovered": "2025-11-06 16:56:42.453923",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/LOGITECHCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Saude Fortaleza",
+        "discovered": "2025-11-06 16:24:51.200364",
+        "description": "Secretaria Municipal de Saude de Fortaleza is a company that operates in the Custom Software & IT Services industry. It employs 20 to 49 people and has 10M to 25M of revenue. The company is headquartered in Brazil.\n\nhttps://saude.fortaleza.ce.gov.br/\nhttps://www.zoominfo.com/c/secretaria-municipal-de-sau%CC%81de-de-fortaleza/431949261",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Saude Fortaleza.png",
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Black Hills Bentonite",
+        "discovered": "2025-11-06 16:24:49.121740",
+        "description": "An American company founded in 1947. It mines and processes sodium bentonite, a natural clay used in well drilling, metal casting, and pond and landfill sealing.",
+        "link": "/posts/690c9e8286a80a3d0efe6911",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/Black Hills Bentonite.png",
+        "group_name": "nitrogen",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Dermatology Associates",
         "discovered": "2025-11-06 15:24:37.613611",
         "description": "Leak of clinic customer data.",
@@ -188,75 +378,5 @@
         "screen": "screenshots/medusa/Oscars Group.png",
         "group_name": "medusa",
         "sector": "Hospitality"
-    },
-    {
-        "post_title": "Nobu Restaurants",
-        "discovered": "2025-11-05 18:24:49.826388",
-        "description": "Nobu, the world-renowned Japanese restaurant recognized for pioneering a new-style Japanese cuisine, started as a business partnership in 1994 between Chef Nobu Matsuhisa and his partners, Academy Award-winning actor Robert De Niro, producer Meir Teper, and restaurateur Drew Nieporent.We will upload more than 71gb of corporate documents soon. Employee and owners information (passports, driver licenses, SSN and soon), detailed financials, confidential files, NDA, etc. You can find Robert De Niro's SSN and you will know how much he earns from this business.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Education"
-    },
-    {
-        "post_title": "The Fence People",
-        "discovered": "2025-11-05 18:24:48.782445",
-        "description": "The Fence People Limited is a Southern Ontario fence contractor established in 1986, specializing in providing construction hoarding solutions for the Commercial, Industrial, and Institutional sectors.We will upload more than 23gb of corporate documents soon. Scans of employee documents (passports, driver licenses, and other information), financials, confidential files, customer information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Maine Course Hospitality Group",
-        "discovered": "2025-11-05 17:25:41.203043",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=b61cafd6-41fc-37f3-8fbd-ac386386302e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Maine Course Hospitality Group.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Enessance Holdings Co., Ltd",
-        "discovered": "2025-11-05 17:25:40.302722",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=680d5c5a-fd3e-3195-88f7-0c4933bf4e0c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Enessance Holdings Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Shelbyville Police Department",
-        "discovered": "2025-11-05 17:25:37.501192",
-        "description": "http://www.shelbyvillepolice.com\n\t\t\t\t\t\t\t\t\tThe Shelbyville Police Department is committed to protecting lives and preventing crime. But the opposite has happened! Officers are failing to protect themselves and are endangering other residents due to their indifference to safety! A vast amount of confidential data has been exposed! As a result, access was gained to the department's cameras, all data and databases containing archived videos and crime footage, as well as all available cameras and devices recording audio or video!",
-        "link": "http://d55ahmrs2mbfcmframropdz4epz3is77ex2fbkbowhrqtxv7knunkxqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Shelbyville Police Department.png",
-        "group_name": "interlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "KISS FM",
-        "discovered": "2025-11-05 17:25:35.472384",
-        "description": "KISS FM\nSpanish radio station KISS FM, which broadcasts popular music and entertainment programs. The radio is available online, as well as traditionally on radio waves in Spain. The station is owned by the Spanish media group Mediaset Espana.\n\n\n\nMore",
-        "link": "archive.php?company=226",
-        "magnet": null,
-        "screen": "screenshots/rhysida/KISS FM.png",
-        "group_name": "rhysida",
-        "sector": "Media"
-    },
-    {
-        "post_title": "sensationalteeth.com",
-        "discovered": "2025-11-05 16:25:01.682141",
-        "description": "",
-        "link": "/blog/disclosures/690b5a22e1a4e4b3ff1aba6e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/sensationalteethcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
