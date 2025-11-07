@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Stark Shipping",
+        "discovered": "2025-11-07 15:24:51.979016",
+        "description": "Ukraine\n\nA maritime service provider with extensive experience in the Black and Azov seas.\nOffers port agency services, cargo chartering (for bulk and liquid goods), and market analysis for customers.\nHas a network of offices and strategic partnerships in Ukrainian ports.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Stark Shipping.png",
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Rex-Hide",
         "discovered": "2025-11-07 08:25:35.993788",
         "description": "Manufacturing",
@@ -318,115 +328,5 @@
         "screen": "screenshots/nitrogen/Black Hills Bentonite.png",
         "group_name": "nitrogen",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Dermatology Associates",
-        "discovered": "2025-11-06 15:24:37.613611",
-        "description": "Leak of clinic customer data.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/16PgHcQZZ6puf1n71XgMPzLqmOv+tWE4ptmN4Ionax+OJpUc+6zGujgf2m1MYZqXuENg6nNTFSnIn1AzFsnBvWXJiSHk4",
-        "magnet": null,
-        "screen": null,
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "E-First Aid Supplies",
-        "discovered": "2025-11-06 14:25:34.552863",
-        "description": "Fieldtex is a manufacturer known as Fieldtex Cases that produces soft sided carrying cases for portable electronic equipment for medical and military markets. Their second division is a medical supplies distributor known as Fieldtex Medical.We will upload more than 14gb of corporate documents soon. Employee and customer, financials, confidential files, lots etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "INTERNATIONAL.COM",
-        "discovered": "2025-11-06 14:22:03.386233",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/INTERNATIONALCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KIRBYCORP.COM",
-        "discovered": "2025-11-06 14:21:30.528421",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/KIRBYCORPCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TRIMBLE.COM",
-        "discovered": "2025-11-06 14:21:06.387838",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/TRIMBLECOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MKS.COM",
-        "discovered": "2025-11-06 14:20:37.294615",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/MKSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Horst Realty",
-        "discovered": "2025-11-06 13:25:08.876867",
-        "description": "Real Estate",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Noble Compaña de Seguros",
-        "discovered": "2025-11-06 12:25:17.772914",
-        "description": "Insurance",
-        "link": "/site/view?uuid=9b9806c7-f738-3ee0-95d6-503f2ee6a859",
-        "magnet": null,
-        "screen": "screenshots/qilin/Noble Compaña de Seguros.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "speedmais",
-        "discovered": "2025-11-06 11:25:06.064960",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vratatech",
-        "discovered": "2025-11-06 11:25:05.142615",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Brihta",
-        "discovered": "2025-11-06 11:25:03.428966",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
     }
 ]
