@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Village of New Lenox",
+        "discovered": "2025-11-07 18:24:59.454209",
+        "description": "Government",
+        "link": "/site/view?uuid=45939312-f65f-3421-a2cd-4d19a8f53b26",
+        "magnet": null,
+        "screen": "screenshots/qilin/Village of New Lenox.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Klae Construction",
+        "discovered": "2025-11-07 18:24:58.174687",
+        "description": "Commercial & Residential Construction",
+        "link": "/site/view?uuid=c3036b72-6662-3373-9c00-c2abe96b889e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Klae Construction.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Soapy Joe's Car Wash",
+        "discovered": "2025-11-07 18:24:56.400004",
+        "description": "Voted Best Car Wash in San Diego. Guinness World Record holder.We will upload more than 40gb of corporate documents soon. We obtained personal information of all employees of this company. Phones, addresses, DLs, passports, almost 2000 SSN numbers, medical information. Detailed financials, lots of confidential files, contracts and agreements, partners information and so on, NDAs etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Shands Elbert",
+        "discovered": "2025-11-07 18:24:55.452203",
+        "description": "Shands, Elbert, Gianoulakis & Giljum, LLP is a law firm based in St. Louis with over 50 years of experience offering a wide range of legal services. They provide expertise in areas such as business law, education law, labor and employment, litigation, and estate planning, serving clients including corporations, governmentalentities, educational institutions, individuals, and small businesses.We will upload more than 31gb of corporate documents soon. Another ones lawyers that don't care of their clients (and family members) personal information. Name, DOB, phones, addresses, DLs, passports, SSN numbers, numerous medical files. Detailed financials, lots of confidential files, court hearings, police reports and soon.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "PLP SoCal",
+        "discovered": "2025-11-07 18:24:54.422395",
+        "description": "PLP SoCal is Southern California's premier representative of performance Architectural Lighting, Decorative Lighting, Lighting Controls, Acoustic, EV Charging Stations, Illuminated Handrails & Site Furnishing.We will upload 26gb of corporate documents soon. You will find full personal information of almost every employee. (Name, DOB, phone, SSN, address, DL, passport, medical information, family members personal information and so on), financials, internal confidential files, client information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Koch & Co, Inc.",
+        "discovered": "2025-11-07 18:24:53.460544",
+        "description": "Koch & Co, Inc., is a wood door and cabinet manufacturing company.We will upload 54gb of corporate documents soon. Detailed financials and accounting, projects information, contracts, agreements, lots of HR files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Aptura Group & Central Indiana Hardware",
+        "discovered": "2025-11-07 18:24:51.542258",
+        "description": "https://www.apturagroup.com & https://www.cih-inc.com\n\t\t\t\t\t\t\t\t\tCentral Indiana Hardware - Produces custom access systems, space management solutions, and high-performance hardware to optimize the security and functionality of commercial spaces.\nAPTURA GROUP is a wholly employee-owned company specializing in innovative solutions and services in the door hardware and security systems industry. Working with several leading brands, including Central Indiana Hardware (CIH), APTEK, Security Builders Supply, and HG/Schultz Door, we have built our reputation on precision, efficiency, and exceptional customer service that consistently exceeds expectations.\nCIH helps the company work more productively.",
+        "link": "http://f4fjja74gn766x5fwxqepl4aa7wyzuu3tj6fllt6oy6j5e27zxwskeid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Aptura Group & Central Indiana Hardware.png",
+        "group_name": "interlock",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Stark Shipping",
         "discovered": "2025-11-07 15:24:51.979016",
         "description": "Ukraine\n\nA maritime service provider with extensive experience in the Black and Azov seas.\nOffers port agency services, cargo chartering (for bulk and liquid goods), and market analysis for customers.\nHas a network of offices and strategic partnerships in Ukrainian ports.",
@@ -138,195 +208,5 @@
         "screen": "screenshots/clop/WASHINGTONPOSTCOM.png",
         "group_name": "clop",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Provincial Department of Health Services Sri Lanka",
-        "discovered": "2025-11-06 19:25:17.704677",
-        "description": "Health Services – 145 Institutions – 439 Field Clinic Centres – 850 Medical Officer",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kryptos",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "UScraft",
-        "discovered": "2025-11-06 19:25:00.963354",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=d93e4467-1add-3e22-a6be-a1d554846708",
-        "magnet": null,
-        "screen": "screenshots/qilin/UScraft.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "zebra.or.at",
-        "discovered": "2025-11-06 19:24:59.306162",
-        "description": "",
-        "link": "/blog/disclosures/690ce012e1a4e4b3ff364399",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/zebraorat.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sai Mai Hospital",
-        "discovered": "2025-11-06 18:25:05.773039",
-        "description": "Business Services",
-        "link": "/site/view?uuid=4111a2ba-260a-3c3f-bd78-51e673d4ddcc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sai Mai Hospital.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "PCB Uitvaartzorg",
-        "discovered": "2025-11-06 18:25:02.063846",
-        "description": "Business Services",
-        "link": "/site/view?uuid=ad533e11-1afb-300c-b05b-b833258d02b5",
-        "magnet": null,
-        "screen": "screenshots/qilin/PCB Uitvaartzorg.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INFORMA.COM (EBS)",
-        "discovered": "2025-11-06 18:22:46.667193",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/INFORMACOM (EBS).png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RHEEM.COM",
-        "discovered": "2025-11-06 18:22:02.594274",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/RHEEMCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WOODPLC.COM",
-        "discovered": "2025-11-06 18:21:34.248173",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/WOODPLCCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ELSEWEDYELECTRIC.COM",
-        "discovered": "2025-11-06 18:21:11.384179",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/ELSEWEDYELECTRICCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KIER.CO.UK",
-        "discovered": "2025-11-06 18:20:39.141915",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/KIERCOUK.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Everest Exclusive Interview for Dailydarkweb.net",
-        "discovered": "2025-11-06 17:24:33.222361",
-        "description": "",
-        "link": "/news/Everest_Exclusive_Interview_for_Dailydarkweb.net/",
-        "magnet": null,
-        "screen": "screenshots/everest/Everest Exclusive Interview for Dailydarkwebnet.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "First Resources",
-        "discovered": "2025-11-06 17:24:19.325337",
-        "description": "",
-        "link": "/r/de285162214ed3fb363a9ec001685c742189c29e",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/First Resources.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DRD Communications",
-        "discovered": "2025-11-06 17:24:17.083090",
-        "description": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Ville de MontLaurier",
-        "discovered": "2025-11-06 17:24:16.116084",
-        "description": "Government",
-        "link": "/site/view?uuid=735b2639-7735-3bca-a651-6a5b4fbe4317",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ville de MontLaurier.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Tass Meister Patent Firm",
-        "discovered": "2025-11-06 17:24:15.159572",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=73fc97b7-fcb1-3f75-8f53-736d4543ce6d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tass Meister Patent Firm.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Systems Integrated",
-        "discovered": "2025-11-06 17:24:14.205187",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=c78c9a6d-174d-354c-bac7-f9defd1a5fe7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Systems Integrated.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "LOGITECH.COM",
-        "discovered": "2025-11-06 16:56:42.453923",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/LOGITECHCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Saude Fortaleza",
-        "discovered": "2025-11-06 16:24:51.200364",
-        "description": "Secretaria Municipal de Saude de Fortaleza is a company that operates in the Custom Software & IT Services industry. It employs 20 to 49 people and has 10M to 25M of revenue. The company is headquartered in Brazil.\n\nhttps://saude.fortaleza.ce.gov.br/\nhttps://www.zoominfo.com/c/secretaria-municipal-de-sau%CC%81de-de-fortaleza/431949261",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Saude Fortaleza.png",
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Black Hills Bentonite",
-        "discovered": "2025-11-06 16:24:49.121740",
-        "description": "An American company founded in 1947. It mines and processes sodium bentonite, a natural clay used in well drilling, metal casting, and pond and landfill sealing.",
-        "link": "/posts/690c9e8286a80a3d0efe6911",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/Black Hills Bentonite.png",
-        "group_name": "nitrogen",
-        "sector": "Manufacturing"
     }
 ]
