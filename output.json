@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "Rex-Hide",
+        "discovered": "2025-11-07 08:25:35.993788",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=8521275e-418a-314a-a265-2cec84a4fa2a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Rex-Hide.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.wilmar.co.id",
+        "discovered": "2025-11-07 01:25:17.495823",
+        "description": "VPN access to the company’s internal network is provided",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.danareksa.com",
+        "discovered": "2025-11-07 01:25:15.406577",
+        "description": "VPN access to the company’s internal network is provided",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.marjane.ma",
+        "discovered": "2025-11-07 01:25:14.143341",
+        "description": "Marjane Group is a Moroccan retail group that owns the Marjane hypermarkets and Marjane Market supermarkets. Founded in 1990, Marjane has gradually become the largest retail company in Morocco",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Studio Corvo Parma",
+        "discovered": "2025-11-07 00:25:10.290350",
+        "description": "Business Services",
+        "link": "/site/view?uuid=6f5ff8e0-145f-38a0-be0f-4e39b0c7be01",
+        "magnet": null,
+        "screen": "screenshots/qilin/Studio Corvo Parma.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Health Dimensions Group",
+        "discovered": "2025-11-06 22:25:14.285818",
+        "description": "",
+        "link": "/companies/4518445519",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Health Dimensions Group.png",
+        "group_name": "worldleaks",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "pmsp.at",
+        "discovered": "2025-11-06 22:25:12.511971",
+        "description": "",
+        "link": "/blog/disclosures/690ce7c0e1a4e4b3ff36d3b8",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/pmspat.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "elektroanlagen",
+        "discovered": "2025-11-06 22:25:11.488508",
+        "description": "",
+        "link": "/blog/disclosures/690cf324e1a4e4b3ff37c2be",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/elektroanlagen.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ketat Grundstücksverwertungs GmbH",
+        "discovered": "2025-11-06 22:25:10.529567",
+        "description": "",
+        "link": "/blog/disclosures/690cf653e1a4e4b3ff380d0a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Ketat Grundstücksverwertungs GmbH.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "prutsch-ra.at",
+        "discovered": "2025-11-06 22:25:09.288699",
+        "description": "",
+        "link": "/blog/disclosures/690cf80fe1a4e4b3ff382b0b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/prutsch-raat.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MusikComputer GmbH",
+        "discovered": "2025-11-06 22:25:08.246280",
+        "description": "",
+        "link": "/blog/disclosures/690cfb46e1a4e4b3ff3860ac",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/MusikComputer GmbH.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ZANACO.CO.ZM",
+        "discovered": "2025-11-06 20:36:19.881683",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/ZANACOCOZM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WASHINGTONPOST.COM",
+        "discovered": "2025-11-06 20:35:56.317280",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/WASHINGTONPOSTCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Provincial Department of Health Services Sri Lanka",
         "discovered": "2025-11-06 19:25:17.704677",
         "description": "Health Services – 145 Institutions – 439 Field Clinic Centres – 850 Medical Officer",
@@ -298,85 +428,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "APMG company fully LEAKED patients data!",
-        "discovered": "2025-11-06 04:25:26.488528",
-        "description": "#LeakNet #DataLeak #APMG",
-        "link": "view_article.php?article=eNROKxmkr9ggZRDztuSl58JQrDue7Bso3D3rCPQA0ZBZWKrJVy6GXyJa81AdPPx9",
-        "magnet": null,
-        "screen": "screenshots/leaknet/APMG company fully LEAKED patients data!.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Francehopital",
-        "discovered": "2025-11-06 02:25:22.676878",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=ca053662-c585-3039-9251-005bceff3718",
-        "magnet": null,
-        "screen": "screenshots/qilin/Francehopital.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Union League of Philadelphia",
-        "discovered": "2025-11-06 01:24:53.984513",
-        "description": "",
-        "link": "/blog/disclosures/690b8501e1a4e4b3ff1d8fbe",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/The Union League of Philadelphia.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.oucru.org",
-        "discovered": "2025-11-05 21:25:09.409698",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SERAPHITA GmbH",
-        "discovered": "2025-11-05 21:25:05.874512",
-        "description": "Tax Return February 2025\nGood preparation will save time and save time for a transplant. Would you like\nto prepare the following documents:\n- latest tax return\n...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SAIGON INDUSTRIAL SERVICE",
-        "discovered": "2025-11-05 21:25:03.808151",
-        "description": "Since Saigon Industrial Service's establishment in 2012, we have more than 10 years of experience in supplying, installing, processing, maintaining and repairin...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "LaRosa’s Pizzeria ",
-        "discovered": "2025-11-05 20:52:27.890322",
-        "description": "LaRosa’s Pizzeria is a family-owned pizza restaurant chain founded in 1954 by Donald “Buddy” LaRosa in Cincinnati, Ohio. Known for its signature thin-crust pizzas made with Aunt Dena’s original sauce recipe, the company has become a regional favorite across Ohio, Kentucky, and Indiana. LaRosa’s offers a wide variety of Italian-inspired dishes including pasta, hoagies, and salads. The brand emphasizes family traditions, community values, and quality ingredients. Still operated by the LaRosa family, it continues to represent the spirit of local hospitality and authentic Italian-American cuisine after more than 70 years in business. company is headquartered in 2334 Boudinot Avenue, Cincinnati, OH 45238, United States. ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/LaRosa’s Pizzeria .png",
-        "group_name": "medusa",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Oscars Group",
-        "discovered": "2025-11-05 20:51:36.143697",
-        "description": "Oscars Group is a prominent hospitality collective in New South Wales, founded in 1986 by the Gravanis brothers. The group manages an extensive portfolio of over 35 venues, including pubs, hotels, accommodation, and events centers, catering to a diverse clientele. Their offerings span various segments such as gaming, retail liquor, and residential developments. With a focus on creativity and entertainment, Oscars Group aims to deliver exceptional experiences to guests across its venues. company is headquartered in Level 6, Bayside Tower, 376 Bay Street, Brighton-Le-Sands NSW 2216, Australia. <25 Employees ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Oscars Group.png",
-        "group_name": "medusa",
-        "sector": "Hospitality"
     }
 ]
