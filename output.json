@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "SHRM New Mexico",
+        "discovered": "2025-11-08 12:25:08.428676",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/view?uuid=b463bc52-dc21-3648-b207-8e63c47ff2f7",
+        "magnet": null,
+        "screen": "screenshots/qilin/SHRM New Mexico.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Scouts Canada",
+        "discovered": "2025-11-08 12:25:07.472204",
+        "description": "Membership Organizations",
+        "link": "/site/view?uuid=c5ec8d4c-0f55-3017-895a-9bb560506ce6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Scouts Canada.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Advanced Delivery Services",
+        "discovered": "2025-11-08 12:25:06.508538",
+        "description": "Freight & Logistics Services",
+        "link": "/site/view?uuid=8a019b14-5a3f-3467-a3e0-bc626e70b9af",
+        "magnet": null,
+        "screen": "screenshots/qilin/Advanced Delivery Services.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Wasserverband Wulkatal",
+        "discovered": "2025-11-08 12:25:05.576376",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=852897e1-3090-31dc-a53b-9ead7f2fcdf2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Wasserverband Wulkatal.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Saturday Spotlight",
+        "discovered": "2025-11-08 12:25:03.159425",
+        "description": "As per our unbreakable tradition, every Saturday, the world awaits the chilling revelation from Handala RedWanted. This week, we pull back the mask on eight more Zionist criminals, names that strike terror in the hearts of those who believe they can commit atrocities from the shadows. Among our revelations are chief architects of the infamous…",
+        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=530",
+        "magnet": null,
+        "screen": "screenshots/handala/Saturday Spotlight.png",
+        "group_name": "handala",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pocatello Ready Mix",
+        "discovered": "2025-11-08 11:25:00.572045",
+        "description": "If the company does not contact us by 14/11/2025, the data will be published.<br><br>For early access to data, questions and inquiries message us on Tox: BAFBD2AE7FC859F27D49471EF83365DD7E345EB3908B0612BFE83FEF33F79919A6C636A4E543<br><br>-- Files of interest --<br><br>Client list with cement mix designs:<br>└──files/ServerFolders/PRM_Mix Dsgn/2025 Mix Designs<br><br>Customer/Vendor VIP phone list:<br>├──files/ServerFolders/Individual Files/PRM_Dawnie/Scan/PRM_Office/Business Docs Forms & Manuels/Contractor Agreements & Lists/Customer - Vendor VIP Telephone List.wpd<br>├──files/ServerFolders/Individual Files/PRM_Amy/STATEMENTS & EMAILS/email sheet.xlsx<br>└──files/ServerFolders/PRM_Office/Customers<br><br>Profit & Loss and Balance sheet:<br>└──files/ServerFolders/000 PRM_Coleman/Scan/2020 Profit & Loss.pdf<br><br>Employees personal files:<br>└──files/ServerFolders/Individual Files<br><br>Customer check deposits:<br>└──files/ServerFolders/00 Deposit/2025 DEPOSITS<br><br>Driver list with licence:<br>└──files/ServerFolders/DRIVERS LIST 2.0.pdf<br><br>Employee directory with payroll, SSN, documents, contacts, drug tests:<br>├──files/ServerFolders/PRM_Office/Employees<br>├──files/ServerFolders/PRM_Office/Employees/Employee Lists/Employee Phone List 2007.xls<br>└──files/ServerFolders/Individual Files/PRM_Scott/Scan/BluCross App Jakiah.pdf<br><br>Corporate document scans:<br>└──files/ServerFolders/000 PRM_Coleman/Scan<br>",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
         "post_title": "IT IS NOW FORBIDDEN TO LOCK THESE COUNTRIES: Mali Central African Republic Burkina Faso Ni",
         "discovered": "2025-11-08 07:24:38.033633",
         "description": "",
@@ -118,15 +178,5 @@
         "screen": "screenshots/interlock/Aptura Group & Central Indiana Hardware.png",
         "group_name": "interlock",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Stark Shipping",
-        "discovered": "2025-11-07 15:24:51.979016",
-        "description": "Ukraine\n\nA maritime service provider with extensive experience in the Black and Azov seas.\nOffers port agency services, cargo chartering (for bulk and liquid goods), and market analysis for customers.\nHas a network of offices and strategic partnerships in Ukrainian ports.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Stark Shipping.png",
-        "group_name": "nova",
-        "sector": "Transportation"
     }
 ]
