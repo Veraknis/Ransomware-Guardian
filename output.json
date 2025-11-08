@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "IT IS NOW FORBIDDEN TO LOCK THESE COUNTRIES: Mali Central African Republic Burkina Faso Ni",
+        "discovered": "2025-11-08 07:24:38.033633",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DCS TECHNOLOGIES INC.",
+        "discovered": "2025-11-08 00:24:53.709213",
+        "description": "DCS Technology Inc. is providing complete IT Solutions since 2004. They are specialized in Point of Sale systems, Website Designing, Technical Support, and Comp...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "GB Mail",
+        "discovered": "2025-11-08 00:24:52.352674",
+        "description": "GB Mail is a privately owned and leading mailing house located centrally in the home counties. With a strong ethos of delivering mail with no fuss, on time and ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Shollenberger Januzzi & Wolfe",
+        "discovered": "2025-11-07 20:24:27.714277",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=0427824e-3eb0-38d5-ab67-9591f565e91c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Shollenberger Januzzi & Wolfe.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Marine Turbine Technologies",
+        "discovered": "2025-11-07 20:24:26.448644",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=49063037-d127-3c7f-8cbb-82f629ca5501",
+        "magnet": null,
+        "screen": "screenshots/qilin/Marine Turbine Technologies.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Village of New Lenox",
         "discovered": "2025-11-07 18:24:59.454209",
         "description": "Government",
@@ -78,135 +128,5 @@
         "screen": "screenshots/nova/Stark Shipping.png",
         "group_name": "nova",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "Rex-Hide",
-        "discovered": "2025-11-07 08:25:35.993788",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=8521275e-418a-314a-a265-2cec84a4fa2a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Rex-Hide.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.wilmar.co.id",
-        "discovered": "2025-11-07 01:25:17.495823",
-        "description": "VPN access to the company’s internal network is provided",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.danareksa.com",
-        "discovered": "2025-11-07 01:25:15.406577",
-        "description": "VPN access to the company’s internal network is provided",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.marjane.ma",
-        "discovered": "2025-11-07 01:25:14.143341",
-        "description": "Marjane Group is a Moroccan retail group that owns the Marjane hypermarkets and Marjane Market supermarkets. Founded in 1990, Marjane has gradually become the largest retail company in Morocco",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Studio Corvo Parma",
-        "discovered": "2025-11-07 00:25:10.290350",
-        "description": "Business Services",
-        "link": "/site/view?uuid=6f5ff8e0-145f-38a0-be0f-4e39b0c7be01",
-        "magnet": null,
-        "screen": "screenshots/qilin/Studio Corvo Parma.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Health Dimensions Group",
-        "discovered": "2025-11-06 22:25:14.285818",
-        "description": "",
-        "link": "/companies/4518445519",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Health Dimensions Group.png",
-        "group_name": "worldleaks",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "pmsp.at",
-        "discovered": "2025-11-06 22:25:12.511971",
-        "description": "",
-        "link": "/blog/disclosures/690ce7c0e1a4e4b3ff36d3b8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/pmspat.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "elektroanlagen",
-        "discovered": "2025-11-06 22:25:11.488508",
-        "description": "",
-        "link": "/blog/disclosures/690cf324e1a4e4b3ff37c2be",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/elektroanlagen.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ketat Grundstücksverwertungs GmbH",
-        "discovered": "2025-11-06 22:25:10.529567",
-        "description": "",
-        "link": "/blog/disclosures/690cf653e1a4e4b3ff380d0a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Ketat Grundstücksverwertungs GmbH.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "prutsch-ra.at",
-        "discovered": "2025-11-06 22:25:09.288699",
-        "description": "",
-        "link": "/blog/disclosures/690cf80fe1a4e4b3ff382b0b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/prutsch-raat.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MusikComputer GmbH",
-        "discovered": "2025-11-06 22:25:08.246280",
-        "description": "",
-        "link": "/blog/disclosures/690cfb46e1a4e4b3ff3860ac",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/MusikComputer GmbH.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ZANACO.CO.ZM",
-        "discovered": "2025-11-06 20:36:19.881683",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/ZANACOCOZM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WASHINGTONPOST.COM",
-        "discovered": "2025-11-06 20:35:56.317280",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/WASHINGTONPOSTCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
     }
 ]
