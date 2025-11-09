@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Hitzinger",
+        "discovered": "2025-11-09 03:24:51.322503",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=f5e94746-3bc2-3a94-bfc8-48360a1d2f6c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hitzinger.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Mold In Graphic Systems",
+        "discovered": "2025-11-08 21:24:59.405182",
+        "description": "Mold In Graphic Systems specializes in providing permanent labeling solutions for plastic durable goods using their unique PolymerFusion Labels.We will upload 15gb of corporate documents soon. Employee information (Driver licenses, credit cards scans, medical information and so on), projects information, internal confidential files, agreements and contracts, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "JC Auto Accident Law Firm",
         "discovered": "2025-11-08 18:24:57.349039",
         "description": "Law Firms & Legal Services",
@@ -88,55 +108,5 @@
         "screen": null,
         "group_name": "securotrop",
         "sector": "Technology"
-    },
-    {
-        "post_title": "IT IS NOW FORBIDDEN TO LOCK THESE COUNTRIES: Mali Central African Republic Burkina Faso Ni",
-        "discovered": "2025-11-08 07:24:38.033633",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DCS TECHNOLOGIES INC.",
-        "discovered": "2025-11-08 00:24:53.709213",
-        "description": "DCS Technology Inc. is providing complete IT Solutions since 2004. They are specialized in Point of Sale systems, Website Designing, Technical Support, and Comp...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "GB Mail",
-        "discovered": "2025-11-08 00:24:52.352674",
-        "description": "GB Mail is a privately owned and leading mailing house located centrally in the home counties. With a strong ethos of delivering mail with no fuss, on time and ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Shollenberger Januzzi & Wolfe",
-        "discovered": "2025-11-07 20:24:27.714277",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=0427824e-3eb0-38d5-ab67-9591f565e91c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Shollenberger Januzzi & Wolfe.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Marine Turbine Technologies",
-        "discovered": "2025-11-07 20:24:26.448644",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=49063037-d127-3c7f-8cbb-82f629ca5501",
-        "magnet": null,
-        "screen": "screenshots/qilin/Marine Turbine Technologies.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
     }
 ]
