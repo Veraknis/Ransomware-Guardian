@@ -58,35 +58,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "JC Auto Accident Law Firm",
-        "discovered": "2025-11-08 18:24:57.349039",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=09a8844f-904c-377c-a3ba-0b973a07c60b",
-        "magnet": null,
-        "screen": "screenshots/qilin/JC Auto Accident Law Firm.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Gadge USA",
-        "discovered": "2025-11-08 18:24:56.410086",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=a005471b-1913-3e80-95b5-fc1057f0bfd9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gadge USA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ponzini S.p.A.",
-        "discovered": "2025-11-08 18:24:53.577323",
-        "description": "Founded in 1862, Ponzini S.p.A. is a global leader in personal care product manufacturing. With over 160 years of history, the company has evolved to offer inno...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
     }
 ]
