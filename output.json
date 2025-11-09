@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Ringmor",
+        "discovered": "2025-11-09 14:25:23.484226",
+        "description": "CallMor offers virtual phone system services aimed at businesses looking for unlimited communication options with no hidden fees. Their plans are designed to simplify connectivity for teams and clients alike and include 24/7 customer support. With offices in Orange County, San Diego, and Los Angeles, they prioritize customer satisfaction and provide competitive pricing in the telecommunications market. CallMor is known for its professional service and effectiveness in improving communication and sales results for its clients",
+        "link": "/card/ringmor",
+        "magnet": null,
+        "screen": "screenshots/beast/Ringmor.png",
+        "group_name": "beast",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Punjab Forensic Science Agency",
+        "discovered": "2025-11-09 14:25:22.609210",
+        "description": "The Punjab Forensic Science Agency (PFSA) provides a range of forensic services including audio visual analysis, computer forensics, DNA and serology, pathology, latent fingerprint analysis, and trace chemistry. It aims to support law enforcement agencies through training and education, offering courses and workshops on evidence collection and preservation. The agency also facilitates study tours for various institutions to familiarize them with its operations. PFSA is dedicated to enhancing forensic science capabilities in Pakistan to combat corruption and promote justice.",
+        "link": "/card/punjab_forensic_science_agency",
+        "magnet": null,
+        "screen": "screenshots/beast/Punjab Forensic Science Agency.png",
+        "group_name": "beast",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Noroaco",
+        "discovered": "2025-11-09 14:25:21.646645",
+        "description": "Noroaco - Ferro e Aco specializes in a diverse range of high-quality steel products including tubes, beams, tiles, sheets, and plasma cutting services. With over sixteen years of experience, the company serves clients from various sectors such as agribusiness, construction, metallurgy, and locksmithing. They ensure excellence in every step of production by investing in team training and modern equipment, sourcing steel from the country's leading steel mills. Noroaco caters to both wholesale and retail markets, providing tailored solutions for clients' steel project needs.",
+        "link": "/card/noroaco",
+        "magnet": null,
+        "screen": "screenshots/beast/Noroaco.png",
+        "group_name": "beast",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Gullco International",
+        "discovered": "2025-11-09 13:24:27.767357",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=07dc9778-9c45-3542-9cd4-912fa643925a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gullco International.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Hitzinger",
         "discovered": "2025-11-09 03:24:51.322503",
         "description": "Industrial Machinery & Equipment",
@@ -48,65 +88,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "SHRM New Mexico",
-        "discovered": "2025-11-08 12:25:08.428676",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/view?uuid=b463bc52-dc21-3648-b207-8e63c47ff2f7",
-        "magnet": null,
-        "screen": "screenshots/qilin/SHRM New Mexico.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Scouts Canada",
-        "discovered": "2025-11-08 12:25:07.472204",
-        "description": "Membership Organizations",
-        "link": "/site/view?uuid=c5ec8d4c-0f55-3017-895a-9bb560506ce6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Scouts Canada.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Advanced Delivery Services",
-        "discovered": "2025-11-08 12:25:06.508538",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=8a019b14-5a3f-3467-a3e0-bc626e70b9af",
-        "magnet": null,
-        "screen": "screenshots/qilin/Advanced Delivery Services.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Wasserverband Wulkatal",
-        "discovered": "2025-11-08 12:25:05.576376",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=852897e1-3090-31dc-a53b-9ead7f2fcdf2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Wasserverband Wulkatal.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Saturday Spotlight",
-        "discovered": "2025-11-08 12:25:03.159425",
-        "description": "As per our unbreakable tradition, every Saturday, the world awaits the chilling revelation from Handala RedWanted. This week, we pull back the mask on eight more Zionist criminals, names that strike terror in the hearts of those who believe they can commit atrocities from the shadows. Among our revelations are chief architects of the infamous…",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=530",
-        "magnet": null,
-        "screen": "screenshots/handala/Saturday Spotlight.png",
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pocatello Ready Mix",
-        "discovered": "2025-11-08 11:25:00.572045",
-        "description": "If the company does not contact us by 14/11/2025, the data will be published.<br><br>For early access to data, questions and inquiries message us on Tox: BAFBD2AE7FC859F27D49471EF83365DD7E345EB3908B0612BFE83FEF33F79919A6C636A4E543<br><br>-- Files of interest --<br><br>Client list with cement mix designs:<br>└──files/ServerFolders/PRM_Mix Dsgn/2025 Mix Designs<br><br>Customer/Vendor VIP phone list:<br>├──files/ServerFolders/Individual Files/PRM_Dawnie/Scan/PRM_Office/Business Docs Forms & Manuels/Contractor Agreements & Lists/Customer - Vendor VIP Telephone List.wpd<br>├──files/ServerFolders/Individual Files/PRM_Amy/STATEMENTS & EMAILS/email sheet.xlsx<br>└──files/ServerFolders/PRM_Office/Customers<br><br>Profit & Loss and Balance sheet:<br>└──files/ServerFolders/000 PRM_Coleman/Scan/2020 Profit & Loss.pdf<br><br>Employees personal files:<br>└──files/ServerFolders/Individual Files<br><br>Customer check deposits:<br>└──files/ServerFolders/00 Deposit/2025 DEPOSITS<br><br>Driver list with licence:<br>└──files/ServerFolders/DRIVERS LIST 2.0.pdf<br><br>Employee directory with payroll, SSN, documents, contacts, drug tests:<br>├──files/ServerFolders/PRM_Office/Employees<br>├──files/ServerFolders/PRM_Office/Employees/Employee Lists/Employee Phone List 2007.xls<br>└──files/ServerFolders/Individual Files/PRM_Scott/Scan/BluCross App Jakiah.pdf<br><br>Corporate document scans:<br>└──files/ServerFolders/000 PRM_Coleman/Scan<br>",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Technology"
     }
 ]
