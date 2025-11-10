@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "!",
+        "discovered": "2025-11-10 05:24:46.952679",
+        "description": "VPN access to the company’s internal network is provided",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Propertyfinder / PropSpace CRM",
+        "discovered": "2025-11-10 02:24:53.308016",
+        "description": "Industry: Real Estate Tech\nRevenue: $614.8 million\nWebsite: propertyfinder.ae",
+        "link": "/companies/propertyfinder",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Propertyfinder  PropSpace CRM.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Dreyfuss Williams & Associates CO LPA",
+        "discovered": "2025-11-10 02:24:52.183490",
+        "description": "Industry: Legal Firm\nRevenue: $18.9 Million\nWebsite: dreyfuss.com",
+        "link": "/companies/dreyfuss-2",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Dreyfuss Williams & Associates CO LPA.png",
+        "group_name": "coinbase cartel",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "CapitalPlus Exchange",
+        "discovered": "2025-11-10 01:24:43.340231",
+        "description": "CapitalPlus Exchange (CapPlus) supports financial institutions in emerging econo...",
+        "link": "/leaks/6910f47688b6823fa25dd142",
+        "magnet": null,
+        "screen": "screenshots/sinobi/CapitalPlus Exchange.png",
+        "group_name": "sinobi",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Seward County, KS",
+        "discovered": "2025-11-10 01:24:42.308724",
+        "description": "Seward County is a county located in Kansas. This county was formed on March 20,...",
+        "link": "/leaks/6910f38388b6823fa25dca87",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Seward County, KS.png",
+        "group_name": "sinobi",
+        "sector": "Government"
+    },
+    {
+        "post_title": "ikad.com.au - A 5-Month Staycation in the Defense Supply Chain",
+        "discovered": "2025-11-09 23:25:05.607335",
+        "description": "",
+        "link": "/posts/69060ed83114e6b96fd5e1a2/69060ed83114e6b96fd5e1a2/",
+        "magnet": null,
+        "screen": "screenshots/j group/ikadcomau - A 5-Month Staycation in the Defense Supply Chain.png",
+        "group_name": "j group",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Servicios del Valle del Fuerte, Mexico",
+        "discovered": "2025-11-09 21:24:48.456629",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fidelity Pension Managers, Nigeria",
+        "discovered": "2025-11-09 21:24:47.325455",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eastern Cape Department of Human Settlements, South Africa",
+        "discovered": "2025-11-09 21:24:46.372188",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Instituto Nacional de Oftalmologia, Peru",
+        "discovered": "2025-11-09 21:24:45.358310",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ringmor",
         "discovered": "2025-11-09 14:25:23.484226",
         "description": "CallMor offers virtual phone system services aimed at businesses looking for unlimited communication options with no hidden fees. Their plans are designed to simplify connectivity for teams and clients alike and include 24/7 customer support. With offices in Orange County, San Diego, and Los Angeles, they prioritize customer satisfaction and provide competitive pricing in the telecommunications market. CallMor is known for its professional service and effectiveness in improving communication and sales results for its clients",
@@ -38,25 +138,5 @@
         "screen": "screenshots/qilin/Gullco International.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Hitzinger",
-        "discovered": "2025-11-09 03:24:51.322503",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=f5e94746-3bc2-3a94-bfc8-48360a1d2f6c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hitzinger.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Mold In Graphic Systems",
-        "discovered": "2025-11-08 21:24:59.405182",
-        "description": "Mold In Graphic Systems specializes in providing permanent labeling solutions for plastic durable goods using their unique PolymerFusion Labels.We will upload 15gb of corporate documents soon. Employee information (Driver licenses, credit cards scans, medical information and so on), projects information, internal confidential files, agreements and contracts, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
