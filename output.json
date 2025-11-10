@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Weintraub Traub Tracy & Virk Cra's LLP",
+        "discovered": "2025-11-10 14:24:24.565566",
+        "description": "",
+        "link": "/blog/disclosures/690d02aee1a4e4b3ff38e0f8",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Weintraub Traub Tracy & Virk Cra's LLP.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "[EVIDENCE PACK 2]ASKUL",
+        "discovered": "2025-11-10 11:24:54.822864",
+        "description": "",
+        "link": "/r/08f7e9ecc47cb7dbd006bea0bcafc8e992842937",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[EVIDENCE PACK 2]ASKUL.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED]S Food Co., Ltd.",
+        "discovered": "2025-11-10 11:24:53.795727",
+        "description": "",
+        "link": "/r/68616089d158552441b4627bc70b1c79343c6eda",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]S Food Co, Ltd.png",
+        "group_name": "ransomhouse",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "LMHT Associates",
+        "discovered": "2025-11-10 10:24:48.029574",
+        "description": "LMHT Associates\nLMHT Associates is an architecture and engineering design firm that provides comprehensive services from conceptualization to design and construction administration.\n\n\n\nMore",
+        "link": "archive.php?company=227",
+        "magnet": null,
+        "screen": "screenshots/rhysida/LMHT Associates.png",
+        "group_name": "rhysida",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Spoleta Construction",
+        "discovered": "2025-11-10 09:24:48.998827",
+        "description": "Commercial & Residential Construction",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "!",
         "discovered": "2025-11-10 05:24:46.952679",
         "description": "VPN access to the company’s internal network is provided",
@@ -97,46 +147,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ringmor",
-        "discovered": "2025-11-09 14:25:23.484226",
-        "description": "CallMor offers virtual phone system services aimed at businesses looking for unlimited communication options with no hidden fees. Their plans are designed to simplify connectivity for teams and clients alike and include 24/7 customer support. With offices in Orange County, San Diego, and Los Angeles, they prioritize customer satisfaction and provide competitive pricing in the telecommunications market. CallMor is known for its professional service and effectiveness in improving communication and sales results for its clients",
-        "link": "/card/ringmor",
-        "magnet": null,
-        "screen": "screenshots/beast/Ringmor.png",
-        "group_name": "beast",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Punjab Forensic Science Agency",
-        "discovered": "2025-11-09 14:25:22.609210",
-        "description": "The Punjab Forensic Science Agency (PFSA) provides a range of forensic services including audio visual analysis, computer forensics, DNA and serology, pathology, latent fingerprint analysis, and trace chemistry. It aims to support law enforcement agencies through training and education, offering courses and workshops on evidence collection and preservation. The agency also facilitates study tours for various institutions to familiarize them with its operations. PFSA is dedicated to enhancing forensic science capabilities in Pakistan to combat corruption and promote justice.",
-        "link": "/card/punjab_forensic_science_agency",
-        "magnet": null,
-        "screen": "screenshots/beast/Punjab Forensic Science Agency.png",
-        "group_name": "beast",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Noroaco",
-        "discovered": "2025-11-09 14:25:21.646645",
-        "description": "Noroaco - Ferro e Aco specializes in a diverse range of high-quality steel products including tubes, beams, tiles, sheets, and plasma cutting services. With over sixteen years of experience, the company serves clients from various sectors such as agribusiness, construction, metallurgy, and locksmithing. They ensure excellence in every step of production by investing in team training and modern equipment, sourcing steel from the country's leading steel mills. Noroaco caters to both wholesale and retail markets, providing tailored solutions for clients' steel project needs.",
-        "link": "/card/noroaco",
-        "magnet": null,
-        "screen": "screenshots/beast/Noroaco.png",
-        "group_name": "beast",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Gullco International",
-        "discovered": "2025-11-09 13:24:27.767357",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=07dc9778-9c45-3542-9cd4-912fa643925a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gullco International.png",
-        "group_name": "qilin",
         "sector": "Unknown"
     }
 ]
