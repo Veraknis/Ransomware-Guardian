@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Svenska kraftnät",
+        "discovered": "2025-11-11 19:25:09.232822",
+        "description": "",
+        "link": "/news/Svenska_kraftnät/",
+        "magnet": null,
+        "screen": "screenshots/everest/Svenska kraftnät.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DARTMOUTH.EDU",
+        "discovered": "2025-11-11 19:24:30.826311",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/DARTMOUTHEDU.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Barry Sallinger Law",
+        "discovered": "2025-11-11 17:24:56.095451",
+        "description": "Sallinger / Melancon Defense Attorneys are top-rated criminal defense lawyers based in Lafayette, specializing in alcohol, drug offenses, and complex litigation. We will upload corporate documents soon. Clients personal documents (scanned passports, drivers licenses, SSNs, medical information), court files, financials, confidentiality agreements, confidential files, police reports and other legal files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Dublin Airport - Database Leaked",
+        "discovered": "2025-11-11 16:24:52.467208",
+        "description": "",
+        "link": "/news/dublinairport/",
+        "magnet": null,
+        "screen": "screenshots/everest/Dublin Airport - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Collins Aerospace / RTX.com - Database Leaked",
+        "discovered": "2025-11-11 16:24:51.524832",
+        "description": "",
+        "link": "/news/collinsaerospace/",
+        "magnet": null,
+        "screen": "screenshots/everest/Collins Aerospace  RTXcom - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Octomeca Oy",
+        "discovered": "2025-11-11 16:24:37.766227",
+        "description": "",
+        "link": "/r/1e7b394c44a45925914d3a8a324fe5723a4f1bd5",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Octomeca Oy.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Public Safety Mutual Benefit Fund",
+        "discovered": "2025-11-11 16:24:36.795332",
+        "description": "",
+        "link": "/r/5e3c3d3356682f21a266efa7196cf00dfa414419",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Public Safety Mutual Benefit Fund.png",
+        "group_name": "ransomhouse",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Polidano Group",
+        "discovered": "2025-11-11 16:24:35.783467",
+        "description": "",
+        "link": "/r/874211b57a2f22986f9d9ddd87c751d9b45a3821",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Polidano Group.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Miromar",
+        "discovered": "2025-11-11 16:24:32.725678",
+        "description": "Miromar Development Corporation is a multi-faceted real estate development company which holds a portfolio of internationally recognized residential and commercial properties in the United States.We will upload corporate documents soon. Clients information, HR files, financials, agreements and contracts, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Rhodes Young Black &Duncan RYBD",
+        "discovered": "2025-11-11 16:24:31.710630",
+        "description": "Rhodes, Young, Black & Duncan is a CPA consulting firm based in Duluth, offering comprehensive tax, accounting, and business consulting services.We will upload corporate documents soon. Lots of clients personaldocuments (scanned passports, drivers licenses, SSNs, medical information), HR files, financials, agreements and contracts, projects, a few military related files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Brian-Kyles Construction",
         "discovered": "2025-11-11 14:24:44.723382",
         "description": "Commercial & Residential Construction",
@@ -247,476 +347,6 @@
         "magnet": null,
         "screen": "screenshots/rhysida/Heart South Cardiovascular Group.png",
         "group_name": "rhysida",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
-        "discovered": "2025-11-10 19:38:30.961411",
-        "description": "The official online portal of the Defensoría del Pueblo de Colombia, a constitutional and autonomous institution responsible for promoting, protecting, and defending human rights across the country. It serves as a public platform where citizens can access information about their rights, file complaints, seek legal guidance, and learn about the institution’s oversight and advocacy efforts. The Defensoría operates independently from other branches of government and plays a key role in ensuring that state entities respect and uphold fundamental rights, especially for vulnerable populations",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
-        "discovered": "2025-11-10 19:37:59.355211",
-        "description": "Doctor Alliance (doctoralliance.com) is a U.S.-based healthcare technology platform that helps physicians and medical agencies manage documents, referrals, and billing in one secure online system. Headquartered in Dallas, Texas, it offers services such as electronic document signing, coordination with agencies, and billing support for programs like CPO, CCM, and TCM. The platform integrates with systems like Axxess Home Health to streamline workflow and reduce paperwork, promoting faster document turnaround and improved billing efficiency -- contact me to protect your files !!",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers.png",
-        "group_name": "kazu",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "GOBIERNO DE GUANAJUATO",
-        "discovered": "2025-11-10 19:37:17.222906",
-        "description": "The official platform of the Secretaría de Gobierno de Guanajuato, used to manage government personnel, service centers, and strategic planning documents across the state. The system supports internal coordination between offices and tracks public service delivery metrics.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/GOBIERNO DE GUANAJUATO.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Venezuela’s Cooperative Registration and Management System",
-        "discovered": "2025-11-10 19:36:47.168265",
-        "description": "The official online platform for the Integrated Management System for Cooperatives (SINCOOP), operated by SUNACOOP under Venezuela’s Ministry of Communes and Social Movements. It is designed to manage the registration, updating, and verification processes of cooperatives in the country.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Venezuela’s Cooperative Registration and Management System.png",
-        "group_name": "kazu",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Official Website of the Municipality of Querétaro",
-        "discovered": "2025-11-10 19:36:20.502563",
-        "description": "The official online portal of the Municipio de Querétaro, the local government authority for Santiago de Querétaro—the capital municipality of Querétaro state. It provides residents with access to municipal services and digital platforms, including online trámites y servicios (such as permits, payments, civil records, waste management requests, employment listings via the municipal job board), information on government programs, citizen transparency, and public contacts and schedules.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Website of the Municipality of Querétaro.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Official Website of Vehicle Emissions Control (VEC Mexico)",
-        "discovered": "2025-11-10 19:35:51.592164",
-        "description": "VEC (Vehicle Emissions Control S.A. de C.V.), a private company based in Mexico City that specializes in vehicle emissions testing, inspection, and certification services. Their services comply with Mexican regulations such as NOM‑041‑SEMARNAT‑2015 and customs fiscal rules like RGCE 3.5.3.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Website of Vehicle Emissions Control (VEC Mexico).png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "National Entrepreneur System of Mexico",
-        "discovered": "2025-11-10 19:35:21.506762",
-        "description": "The official platform created by the Mexican government to support entrepreneurs and small businesses through the Fondo Nacional Emprendedor, managed by INADEM (Instituto Nacional del Emprendedor). It allowed users to submit funding proposals, access training materials, track project progress, and participate in government calls (convocatorias) aimed at boosting innovation and economic growth.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/National Entrepreneur System of Mexico.png",
-        "group_name": "kazu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Guadalajara Social Assistance Agency",
-        "discovered": "2025-11-10 19:34:57.454463",
-        "description": "Sistema DIF Guadalajara is a public social service agency operated by the municipal government of Guadalajara, Jalisco, Mexico. It focuses on providing social assistance, healthcare, and community programs aimed at improving the welfare of vulnerable populations including children, elderly, and people with disabilities. The agency runs services like psychological support, legal aid, nutritional programs, and recreational activities.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Guadalajara Social Assistance Agency.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Nepal official Police Website",
-        "discovered": "2025-11-10 19:32:33.461216",
-        "description": "The Nepal Police is a national law enforcement agency of Nepal, established in 1955 following the country's transition from a monarchy to a democratic system. It is responsible for maintaining law and order, preventing and investigating crimes, traffic management, and supporting disaster response operations. The agency operates under the supervision of the Ministry of Home Affairs.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Nepal official Police Website.png",
-        "group_name": "kazu",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Saudi Arabia Gov - Taif Municipality Portal",
-        "discovered": "2025-11-10 19:32:10.413828",
-        "description": "The official digital portal of the City of Taif, located in Makkah Province, Saudi Arabia. It serves as the primary e-government platform for:. Construction permit applications ,Land and property certification , Resident documentation , Urban development projects\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Saudi Arabia Gov - Taif Municipality Portal.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Official Platform for Employability Certification in Mauritania",
-        "discovered": "2025-11-10 19:31:46.383376",
-        "description": "The official Mauritanian government platform for the Qualification and Certification of Employability (QCE). It provides digital services for individuals seeking to validate their professional skills and obtain official certification of their qualifications. The platform streamlines the process of submitting applications for recognition, classification, and certification, making it easier for job seekers and professionals in Mauritania to enhance their employability through government-recognized credentials.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Platform for Employability Certification in Mauritania.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Bolivian Military Social Security Corporation – COSSMIL",
-        "discovered": "2025-11-10 19:31:20.453866",
-        "description": "The website cossmil.mil.bo belongs to COSSMIL (Corporación del Seguro Social Militar), Bolivia’s Military Social Security Corporation. It is a government institution under the Ministry of Defense that provides healthcare and social security services to members of the Bolivian Armed Forces and their families.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Bolivian Military Social Security Corporation – COSSMIL.png",
-        "group_name": "kazu",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Ministry of Health – Government of Sri Lanka",
-        "discovered": "2025-11-10 19:30:55.860219",
-        "description": "The official online portal of the Ministry of Health in Sri Lanka. It provides comprehensive information about the country's public healthcare system, including health policies, services, departments, hospitals, and ongoing health initiatives. The site also offers access to news updates, health statistics, tenders, publications, and resources for both healthcare professionals and the general public. It serves as a central hub for communication and transparency between the Ministry and the citizens, aiming to promote and manage health services across Sri Lanka.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Ministry of Health – Government of Sri Lanka.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Zacatecas State Department of Education",
-        "discovered": "2025-11-10 19:30:25.330581",
-        "description": "The official portal of the Secretaría de Educación del Estado de Zacatecas (SEDUZAC), the government agency responsible for managing public education in the Mexican state of Zacatecas. It provides access to key services for students, teachers, and administrative staff, including online grade reports, certificate requests, school verification, and information about teaching careers through DSICAMM. The site also features updates on educational policies, public calls, transparency documents, and administrative procedures. SEDUZAC operates under the state government and serves as a central hub for educational coordination across all levels of schooling in Zacatecas.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Zacatecas State Department of Education.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Official Website of the Bolivian Navy (Armada Boliviana)",
-        "discovered": "2025-11-10 19:30:02.390034",
-        "description": "The official portal of the Armada Boliviana (Bolivian Navy), the maritime branch of Bolivia’s Armed Forces. It serves as the primary digital platform for news, operational reports, transparency documents, organizational structure, recruitment, and institutional resources such as naval schools and departments.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Website of the Bolivian Navy (Armada Boliviana).png",
-        "group_name": "kazu",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Official Job Portal of the Mexican Government - V2",
-        "discovered": "2025-11-10 19:29:39.442231",
-        "description": "Mexico's official government job portal operated by the Servicio Nacional de Empleo (SNE) under the Secretaría del Trabajo y Previsión Social (STPS). It provides a free platform where job seekers can search for employment opportunities nationwide, and employers can post job openings. The portal offers tools for job matching, access to job fairs, vocational guidance, and training programs, all aimed at improving access to formal employment and workforce development across the country.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Job Portal of the Mexican Government - V2.png",
-        "group_name": "kazu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Secretaría de Educación de Quintana Roo",
-        "discovered": "2025-11-10 19:29:17.584478",
-        "description": "The official website of the Secretaría de Educación de Quintana Roo (SEQ) — the state-level government body responsible for overseeing education in Quintana Roo, Mexico. This portal serves as a central hub for citizens, students, and educators, offering news, public transparency notices, educational calendars, administrative services, and key initiatives such as the “Mi Portal SEQ” for school personnel and the “SIGE” information system for school statistic.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Secretaría de Educación de Quintana Roo.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Colombian Navy Recruitment Portal",
-        "discovered": "2025-11-10 19:28:55.989703",
-        "description": "The official recruitment platform of the Colombian Navy (Armada Nacional), used by thousands of applicants and active-duty personnel to submit sensitive documentation for military incorporation.The site is operated by the Ministry of Defense and includes direct integrations with military personnel systems, financial departments .\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Colombian Navy Recruitment Portal.png",
-        "group_name": "kazu",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Colombian Military PII + Firearms Permit Docs",
-        "discovered": "2025-11-10 19:28:26.954380",
-        "description": "The official portal of the General Command of the Military Forces of Colombia (Comando General de las Fuerzas Militares de Colombia - CGFM). This organization is responsible for coordinating and leading the country's military operations, including the Colombian Army, Navy, and Air Force. It operates under the authority of the Ministry of National Defense, and the Commander-in-Chief is the President of Colombia.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Colombian Military PII + Firearms Permit Docs.png",
-        "group_name": "kazu",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Garvin Promotion Group",
-        "discovered": "2025-11-10 19:24:44.169020",
-        "description": "",
-        "link": "topic.php?id=c495I0HniypHuV",
-        "magnet": null,
-        "screen": "screenshots/play/Garvin Promotion Group.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jean-Georges",
-        "discovered": "2025-11-10 19:24:43.235878",
-        "description": "",
-        "link": "topic.php?id=4cf8V4luKMLWsu",
-        "magnet": null,
-        "screen": "screenshots/play/Jean-Georges.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kwik Mix Materials",
-        "discovered": "2025-11-10 19:24:42.255507",
-        "description": "",
-        "link": "topic.php?id=0Gc1LIiBepSjA",
-        "magnet": null,
-        "screen": "screenshots/play/Kwik Mix Materials.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ioxo & Stream Computers",
-        "discovered": "2025-11-10 19:24:41.293558",
-        "description": "",
-        "link": "topic.php?id=3Fi58Zt2VHQ8vR",
-        "magnet": null,
-        "screen": "screenshots/play/Ioxo & Stream Computers.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Darvin Furniture",
-        "discovered": "2025-11-10 19:24:40.328336",
-        "description": "",
-        "link": "topic.php?id=HWGrjd61QVH2Ky",
-        "magnet": null,
-        "screen": "screenshots/play/Darvin Furniture.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Land Title Guaranty",
-        "discovered": "2025-11-10 19:24:39.299375",
-        "description": "",
-        "link": "topic.php?id=L4wM1CDX0I6hyS",
-        "magnet": null,
-        "screen": "screenshots/play/Land Title Guaranty.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Colombian Government Employment Portal",
-        "discovered": "2025-11-10 19:24:26.721954",
-        "description": "The official website of Colombia’s Public Employment Service (Servicio Público de Empleo - SPE). It is part of the Ministry of Labor of Colombia and serves as a national platform to connect job seekers with employers.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Colombian Government Employment Portal.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Yaesu",
-        "discovered": "2025-11-10 19:24:22.499717",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=d2063641-fa1a-34c8-ab26-31c8adaf75af",
-        "magnet": null,
-        "screen": "screenshots/qilin/Yaesu.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Official Portal of Argentina’s Ministry of Education",
-        "discovered": "2025-11-10 19:23:56.672294",
-        "description": "the official portal of the Ministry of Education of Argentina. It provides information and access to national educational programs, scholarships (like Progresar and Belgrano), teacher training, digital learning resources, school calendars, and official procedures for validating degrees and certificates. It serves students, teachers, families, and institutions across all educational levels in Argentina.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Portal of Argentina’s Ministry of Education.png",
-        "group_name": "kazu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Official Job Portal of the Mexican Government",
-        "discovered": "2025-11-10 19:23:31.257591",
-        "description": "Mexico's official government job portal operated by the Servicio Nacional de Empleo (SNE) under the Secretaría del Trabajo y Previsión Social (STPS). It provides a free platform where job seekers can search for employment opportunities nationwide, and employers can post job openings. The portal offers tools for job matching, access to job fairs, vocational guidance, and training programs, all aimed at improving access to formal employment and workforce development across the country.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Job Portal of the Mexican Government.png",
-        "group_name": "kazu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Criminal Justice and Public Services - San Luis Potosí Prosecutor",
-        "discovered": "2025-11-10 19:23:05.619018",
-        "description": "the official online portal for managing public procedures offered by the Fiscalía General del Estado de San Luis Potosí. It allows citizens to request services such as criminal background certificates (constancia de antecedentes penales) and to report lost documents (actas de extravío). Users can register for an account, submit applications, verify the status of their requests using CURP and folio numbers, and download official PDF documents. The site is designed to simplify legal procedures and improve access to justice through secure, digital self-service tools.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Criminal Justice and Public Services - San Luis Potosí Prosecutor.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "IRAN Job Seekers Platform ",
-        "discovered": "2025-11-10 19:22:34.114796",
-        "description": "Job search portal based in Iran, designed to connect job seekers with employers through listings, announcements, and employment opportunities.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/IRAN Job Seekers Platform .png",
-        "group_name": "kazu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Thailand National Police",
-        "discovered": "2025-11-10 19:22:09.542708",
-        "description": "The official government platform used by the Royal Thai Police to manage nationwide checkpoint operations , arrest reports , and drunk driving enforcement .System contains sensitive law enforcement records, including vehicle stop data, offender reports, internal officer communications, and document archives.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Thailand National Police.png",
-        "group_name": "kazu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Official Postal Office Platform of Costa Rica",
-        "discovered": "2025-11-10 19:21:40.804617",
-        "description": "The official virtual branch of Correos de Costa Rica, the country's national postal service. It provides a digital platform where users can manage postal services online, including tracking shipments, generating shipping labels, scheduling deliveries or appointments, and accessing other logistics tools. Designed for convenience and accessibility, the site serves both individuals and businesses, offering a centralized portal for handling domestic and international mail without visiting a physical post office.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Postal Office Platform of Costa Rica.png",
-        "group_name": "kazu",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Emirates Red Crescent - UAE",
-        "discovered": "2025-11-10 19:21:14.958305",
-        "description": "The official online platform of the Emirates Red Crescent, a humanitarian organization based in the United Arab Emirates. Established in 1983, the organization operates under the guidance of the UAE government and provides emergency relief, healthcare, education, and social support services both locally and internationally.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Emirates Red Crescent - UAE.png",
-        "group_name": "kazu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "The Society of Engineers - UAE",
-        "discovered": "2025-11-10 19:20:38.870646",
-        "description": "The Society of Engineers - UAE is a professional, non-profit organization established in 1979 that aims to promote the engineering profession in the United Arab Emirates. It provides a platform for engineers to network, access educational resources, and enhance their professional development through workshops, certifications, and seminars. The society represents engineers' interests, advocates for industry standards, and collaborates with government bodies to influence policies related to engineering.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/The Society of Engineers - UAE.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "GOVERNMENT OF DUBAI - PCFC",
-        "discovered": "2025-11-10 19:20:13.436498",
-        "description": "The Ports, Customs and Free Zone Corporation (PCFC) is a vital government authority in Dubai, tasked with overseeing and integrating the emirate’s trade, logistics, customs, and free zone activities. It manages key entities including Dubai Customs, Jebel Ali Free Zone (JAFZA), Dubai Ports Authority, Dubai Maritime Authority, and Trakhees, ensuring smooth trade operations, maritime safety, and strategic investment management. By streamlining these critical sectors, PCFC plays a central role in driving Dubai’s economic growth and supporting its broader social and development goals.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/GOVERNMENT OF DUBAI - PCFC.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "KUWAIT Ministry of Public Works (MPW)",
-        "discovered": "2025-11-10 19:19:48.913407",
-        "description": "The Ministry of Public Works (MPW) is a key government authority in Kuwait responsible for the planning, development, and maintenance of the nation’s public infrastructure. It oversees the construction and management of roads, bridges, public buildings, and sanitation systems, ensuring the delivery of high-quality services that support national development. Through its various departments—covering major projects, maintenance engineering, planning, and environmental auditing—the Ministry ensures efficient infrastructure management aligned with Kuwait’s Vision 2035. By implementing sustainable construction practices, upgrading transportation networks, and enhancing public facilities, the MPW plays a vital role in advancing Kuwait’s economic growth, improving quality of life, and supporting the country’s long-term urban and social development goals.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/KUWAIT Ministry of Public Works (MPW).png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Clarin - Argentina Job Platform",
-        "discovered": "2025-11-10 19:19:16.441222",
-        "description": "A major employment platform in Argentina serving millions of users nationwide. The service connects job seekers with potential employers across various industries. It stores detailed personal profiles including identity documents, contact info, and professional experience.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Clarin - Argentina Job Platform.png",
-        "group_name": "kazu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vidal Health Insurance TPA Pvt. Ltd",
-        "discovered": "2025-11-10 19:18:53.119134",
-        "description": "Vidal Health Insurance TPA Pvt. Ltd. is a leading IRDAI-licensed third-party administrator in India that facilitates health insurance services like claims processing, cashless hospitalisation, and pre-authorisation support across a wide network of over 12,000 hospitals in 800+ cities. Established in 2002, Vidal partners with major insurers and manages both retail and government health schemes, including Ayushman Bharat.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Vidal Health Insurance TPA Pvt Ltd.png",
-        "group_name": "kazu",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Official Royal Thai Army Online Enlistment Portal",
-        "discovered": "2025-11-10 19:18:24.472598",
-        "description": "official online portal of the Royal Thai Army used for voluntary military enlistment under a special request system. It allows eligible Thai males to apply online to serve as regular soldiers instead of going through the traditional draft process.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official Royal Thai Army Online Enlistment Portal.png",
-        "group_name": "kazu",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Official website of the Chiapas State Health Secretariat",
-        "discovered": "2025-11-10 19:17:53.189573",
-        "description": "the official online portal of the Secretaría de Salud del Estado de Chiapas (Health Secretariat of the State of Chiapas, Mexico). It provides information about public health programs, medical services, campaigns, and administrative procedures offered by the state government. The site also shares official news, transparency reports, and contact details for health institutions and authorities in Chiapas.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Official website of the Chiapas State Health Secretariat.png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Thailand’s Department of Agricultural Extension (DOAE)",
-        "discovered": "2025-11-10 19:17:18.424723",
-        "description": "the official portal of Thailand’s Department of Agricultural Extension (DOAE), under the Ministry of Agriculture and Cooperatives. It provides farmers and the public with resources on crop cultivation, pest management, sustainable farming, and agricultural technologies, as well as news, announcements, and educational materials",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/kazu/Thailand’s Department of Agricultural Extension (DOAE).png",
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "OMS",
-        "discovered": "2025-11-10 18:25:53.224080",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=3f9c6161-359b-3f97-bf5a-6246f3920523",
-        "magnet": null,
-        "screen": "screenshots/qilin/OMS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mciver Engineering & Controls",
-        "discovered": "2025-11-10 18:25:51.295483",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=45d3aadf-1dca-3dfb-8010-0bf99532b410",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mciver Engineering & Controls.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ami Bearings",
-        "discovered": "2025-11-10 17:24:29.411069",
-        "description": "AMI Bearings, Inc. is a premier manufacturer of mounted ball bearings that caters to the North American market.We will upload 15gb of corporate documents soon. Employee information, clients information, lots of projects information, agreements and contracts, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MARCK Industries",
-        "discovered": "2025-11-10 16:24:22.296020",
-        "description": "",
-        "link": "/r/0f7ddd9fc8d180ff5fa6be3e3a4c90be530c7e19",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/MARCK Industries.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED]Kurogane Kasei Co.",
-        "discovered": "2025-11-10 16:24:21.309320",
-        "description": "",
-        "link": "/r/80c106969d9c0dd9dcd0632ca1c1dd17f2929d2e",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]Kurogane Kasei Co.png",
-        "group_name": "ransomhouse",
         "sector": "Unknown"
     }
 ]
