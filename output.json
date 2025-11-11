@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Brian-Kyles Construction",
+        "discovered": "2025-11-11 14:24:44.723382",
+        "description": "Commercial & Residential Construction",
+        "link": "/site/view?uuid=591f0b91-fd5a-35b4-a8c2-2fc981947407",
+        "magnet": null,
+        "screen": "screenshots/qilin/Brian-Kyles Construction.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "omniumint.com",
+        "discovered": "2025-11-11 13:24:34.888916",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Paul Hildebrandt",
+        "discovered": "2025-11-11 09:25:15.330841",
+        "description": "Site: hildebrandt.de\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Manufacturing\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Germany",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "himmelstein.com",
         "discovered": "2025-11-11 08:25:05.471987",
         "description": "S. Himmelstein & Company is a U.S.-based specialist manufacturer founded in 1960, headquartered in Hoffman Estates, Illinois. The company focuses …",
@@ -688,55 +718,5 @@
         "screen": "screenshots/ransomhouse/[DISCLOSED]Kurogane Kasei Co.png",
         "group_name": "ransomhouse",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Weintraub Traub Tracy & Virk Cra's LLP",
-        "discovered": "2025-11-10 14:24:24.565566",
-        "description": "",
-        "link": "/blog/disclosures/690d02aee1a4e4b3ff38e0f8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Weintraub Traub Tracy & Virk Cra's LLP.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "[EVIDENCE PACK 2]ASKUL",
-        "discovered": "2025-11-10 11:24:54.822864",
-        "description": "",
-        "link": "/r/08f7e9ecc47cb7dbd006bea0bcafc8e992842937",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[EVIDENCE PACK 2]ASKUL.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED]S Food Co., Ltd.",
-        "discovered": "2025-11-10 11:24:53.795727",
-        "description": "",
-        "link": "/r/68616089d158552441b4627bc70b1c79343c6eda",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]S Food Co, Ltd.png",
-        "group_name": "ransomhouse",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "LMHT Associates",
-        "discovered": "2025-11-10 10:24:48.029574",
-        "description": "LMHT Associates\nLMHT Associates is an architecture and engineering design firm that provides comprehensive services from conceptualization to design and construction administration.\n\n\n\nMore",
-        "link": "archive.php?company=227",
-        "magnet": null,
-        "screen": "screenshots/rhysida/LMHT Associates.png",
-        "group_name": "rhysida",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Spoleta Construction",
-        "discovered": "2025-11-10 09:24:48.998827",
-        "description": "Commercial & Residential Construction",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood",
-        "sector": "Real Estate"
     }
 ]
