@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "M&BM, Inc",
+        "discovered": "2025-11-13 04:25:14.094945",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/25",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/M&BM, Inc.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "libertyshoes, Inc",
+        "discovered": "2025-11-13 02:25:31.678038",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/28",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/libertyshoes, Inc.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Newgen Digitalwork",
+        "discovered": "2025-11-13 02:25:30.681049",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/30",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/Newgen Digitalwork.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "simsekas, Inc",
+        "discovered": "2025-11-13 02:25:29.698383",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/29",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/simsekas, Inc.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MultistateTax Inc",
+        "discovered": "2025-11-13 02:25:28.705492",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/27",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/MultistateTax Inc.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Carvimsa",
+        "discovered": "2025-11-13 02:25:27.687495",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/26",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/Carvimsa.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Persians - Cortinas - Todos - Alfombrass",
+        "discovered": "2025-11-13 02:25:11.236087",
+        "description": "Descubra las Mejores Cortinas y Persianas en Costa Rica con Persianas Canet\n\nEn Canet somos expertos en cortinas y persianas en Costa Rica, ofrecemos soluciones...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The JADCPA company was fully LEAKED",
+        "discovered": "2025-11-12 22:24:53.288587",
+        "description": "#LeakNet #DataLeak #JADCPA",
+        "link": "view_article.php?article=MVuxxm54BQwJTrm156y9PyLAAjYuEBgvCXVJi7PXWTpDVmM5wvGGqQLkhAoTszJb",
+        "magnet": null,
+        "screen": "screenshots/leaknet/The JADCPA company was fully LEAKED.png",
+        "group_name": "leaknet",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "iconinternational.com",
+        "discovered": "2025-11-12 21:24:36.892697",
+        "description": "ICON International, Inc. is a corporate barter firm that offers innovative solutions and strategic thinking to help brands grow and create economic value.",
+        "link": "/w07qZVHEzNfp0EAuSw86Pld75x4JKPp2/iconinternational-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/iconinternationalcom.png",
+        "group_name": "chaos",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "doversd.org",
+        "discovered": "2025-11-12 20:24:52.100989",
+        "description": "Dover City Schools is a public K-12 school district located in Dover, Ohio, serving approximately 2,650 students across multiple schools. …",
+        "link": "/blog/post/doversdorg/",
+        "magnet": null,
+        "screen": "screenshots/safepay/doversdorg.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
         "post_title": "National Civil Service Commission of Colombia",
         "discovered": "2025-11-12 15:26:17.551318",
         "description": "The official portal of the Comisión Nacional del Servicio Civil (CNSC), Colombia’s National Civil Service Commission. This government body is responsible for overseeing the recruitment, selection, and management of public servants in the country. It ensures that hiring for government positions is fair, transparent, and based on merit. The site provides essential information about job openings in the public sector, application processes, and the regulations that govern public service employment in Colombia. It serves as a key resource for individuals seeking to apply for civil service positions or learn about public sector employment in Colombia",
@@ -138,105 +238,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Wiraswasta Gemilang",
-        "discovered": "2025-11-12 02:25:17.358378",
-        "description": "",
-        "link": "/blog/disclosures/690c1659e1a4e4b3ff27a95e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Wiraswasta Gemilang.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Irwin Car",
-        "discovered": "2025-11-12 01:25:10.851842",
-        "description": "irwincar.com",
-        "link": "/post/1lbd92QrbHpajjrl7Hmo",
-        "magnet": null,
-        "screen": "screenshots/payoutsking/Irwin Car.png",
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fulgar S.p.A.",
-        "discovered": "2025-11-12 00:24:52.556098",
-        "description": "",
-        "link": "/r/b864826ddb58ac4b98088b1fa1fa2439fabd7bb2",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Fulgar SpA.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Brenda Richardson Memorial Care Home LLC",
-        "discovered": "2025-11-11 22:24:48.308213",
-        "description": "Negligence of mental health care agency employees.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/VhqpF6JDKUx6XirvcywDPPsGiKofSZ3752Chh5Qv3nK0q6jkRDAE3iFUxX06S0AGlmAOx74l2jYJ2D+byz121xOFByZEZt",
-        "magnet": null,
-        "screen": "screenshots/anubis/Brenda Richardson Memorial Care Home LLC.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Olive Branch Family Medical Center",
-        "discovered": "2025-11-11 22:24:47.237021",
-        "description": "Data Breach at U.S. Medical Center Puts Thousands of Patients at Risk.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ogoG9ZXUcwQYYtWkD15htBDgjK2MHhrpuQkA7DI+zZBrqB8Rlc6pD9rXwcFveS0Q87x0+7Nao+W0HYLVneLEhsVTJmN1lk",
-        "magnet": null,
-        "screen": "screenshots/anubis/Olive Branch Family Medical Center.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "S.B. Conrad, Inc",
-        "discovered": "2025-11-11 21:25:07.167198",
-        "description": "A general contracting construction company",
-        "link": "/e8e330cd0bc243e8fe62/",
-        "magnet": null,
-        "screen": "screenshots/genesis/SB Conrad, Inc.png",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Continental Global Group",
-        "discovered": "2025-11-11 21:25:06.231254",
-        "description": "A subsidiary of PPI Global",
-        "link": "/b80c0de55cbbc24229e1/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Continental Global Group.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lows Orkney",
-        "discovered": "2025-11-11 21:25:05.280121",
-        "description": "A legal and accounting provider",
-        "link": "/679e791eb3035ad93674/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Lows Orkney.png",
-        "group_name": "genesis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Manusos General Contracting, Inc",
-        "discovered": "2025-11-11 21:25:02.936534",
-        "description": "A general contracting construction company",
-        "link": "/0a3979bf30d820dd31d5/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Manusos General Contracting, Inc.png",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "glendaleobgyn.com",
-        "discovered": "2025-11-11 20:24:46.986192",
-        "description": "Glendale OBGYN (an obstetrics and gynecology practice) would likely operate as a mid-sized women’s health clinic in Glendale, California, offering …",
-        "link": "/blog/post/glendaleobgyncom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/glendaleobgyncom.png",
-        "group_name": "safepay",
-        "sector": "Healthcare"
     }
 ]
