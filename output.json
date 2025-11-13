@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Goldhorse Capital Management",
+        "discovered": "2025-11-13 15:25:22.017631",
+        "description": "The company's customers' personal data, databases, and source code have been stolen. If the company does not respond within 24 hours, this data will be published.",
+        "link": "/card/goldhorse_capital_management",
+        "magnet": null,
+        "screen": "screenshots/beast/Goldhorse Capital Management.png",
+        "group_name": "beast",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Cera Stribley",
+        "discovered": "2025-11-13 13:24:23.349437",
+        "description": "Architecture and interior design practice based",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Announcement till 14/11",
+        "discovered": "2025-11-13 13:24:22.422483",
+        "description": "Membership Organizations",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Announcement till 15/11",
+        "discovered": "2025-11-13 13:24:21.422742",
+        "description": "Jewelry & Watch Retail",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Cornerstone Staffing Solutions",
+        "discovered": "2025-11-13 13:24:02.188072",
+        "description": "Business Services",
+        "link": "/site/view?uuid=7f1d78dd-d57f-3832-b2da-c9159cac9f84",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cornerstone Staffing Solutions.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vikor Scientific, LLC / Korgene",
+        "discovered": "2025-11-13 12:25:06.784339",
+        "description": "",
+        "link": "/news/Vikor_Scientific,_LLC___Korgene/",
+        "magnet": null,
+        "screen": "screenshots/everest/Vikor Scientific, LLC  Korgene.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KorPath",
+        "discovered": "2025-11-13 12:25:05.836481",
+        "description": "",
+        "link": "/news/KorPath/",
+        "magnet": null,
+        "screen": "screenshots/everest/KorPath.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.pointcag.com",
+        "discovered": "2025-11-13 09:24:36.808701",
+        "description": "POINT provides expert Construction Management Consulting and Litigation Services with objectivity and reliability. \n\nhttp://o5...",
+        "link": "/news/103ea4e2ba74842cc95a028f4864159c",
+        "magnet": null,
+        "screen": "screenshots/kraken/wwwpointcagcom.png",
+        "group_name": "kraken",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "M&BM, Inc",
         "discovered": "2025-11-13 04:25:14.094945",
         "description": "",
@@ -98,145 +178,5 @@
         "screen": "screenshots/safepay/doversdorg.png",
         "group_name": "safepay",
         "sector": "Government"
-    },
-    {
-        "post_title": "National Civil Service Commission of Colombia",
-        "discovered": "2025-11-12 15:26:17.551318",
-        "description": "The official portal of the Comisión Nacional del Servicio Civil (CNSC), Colombia’s National Civil Service Commission. This government body is responsible for overseeing the recruitment, selection, and management of public servants in the country. It ensures that hiring for government positions is fair, transparent, and based on merit. The site provides essential information about job openings in the public sector, application processes, and the regulations that govern public service employment in Colombia. It serves as a key resource for individuals seeking to apply for civil service positions or learn about public sector employment in Colombia",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": " The Society of Engineers - UAE",
-        "discovered": "2025-11-12 15:26:16.586223",
-        "description": "The Society of Engineers - UAE is a professional, non-profit organization established in 1979 that aims to promote the engineering profession in the United Arab Emirates. It provides a platform for engineers to network, access educational resources, and enhance their professional development through workshops, certifications, and seminars. The society represents engineers' interests, advocates for industry standards, and collaborates with government bodies to influence policies related to engineering.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kazu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Vennerhus Weine AG",
-        "discovered": "2025-11-12 14:26:59.405260",
-        "description": "",
-        "link": "/r/4ec1a607acb189236b01a8730d7ccc03bbcbba2d",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Vennerhus Weine AG.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Soleol",
-        "discovered": "2025-11-12 14:26:58.271342",
-        "description": "",
-        "link": "/r/90c1d1c4b3f743fb871c30eb5b0d04891757c13e",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Soleol.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KohaFoods Hawaii",
-        "discovered": "2025-11-12 14:26:55.677941",
-        "description": "",
-        "link": "/blog/disclosures/69147ccbe1a4e4b3ffc90c2e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/KohaFoods Hawaii.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Via Argentina",
-        "discovered": "2025-11-12 14:26:54.693682",
-        "description": "",
-        "link": "/blog/disclosures/69147ec7e1a4e4b3ffc93775",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Grupo Via Argentina.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bridge-housing-corp",
-        "discovered": "2025-11-12 14:24:38.554907",
-        "description": "",
-        "link": "/blog/disclosures/691481e5e1a4e4b3ffc9720f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/bridge-housing-corp.png",
-        "group_name": "inc ransom",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "latamlex (gyg.local)",
-        "discovered": "2025-11-12 14:24:37.577744",
-        "description": "",
-        "link": "/blog/disclosures/691483a3e1a4e4b3ffc99a87",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/latamlex (gyglocal).png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Znojma Czechia",
-        "discovered": "2025-11-12 14:24:36.558730",
-        "description": "",
-        "link": "/blog/disclosures/69148665e1a4e4b3ffc9d83a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Znojma Czechia.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "galileo.it",
-        "discovered": "2025-11-12 13:24:23.797667",
-        "description": "",
-        "link": "/blog/disclosures/69146fdce1a4e4b3ffc8129a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/galileoit.png",
-        "group_name": "inc ransom",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "forensicmed.com",
-        "discovered": "2025-11-12 13:24:22.833671",
-        "description": "",
-        "link": "/blog/disclosures/69147139e1a4e4b3ffc82a69",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/forensicmedcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ctfc.cat",
-        "discovered": "2025-11-12 11:30:58.897051",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AsahiKASEI MICRODEVICES",
-        "discovered": "2025-11-12 11:24:10.961097",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Treetop Companies",
-        "discovered": "2025-11-12 10:24:06.845919",
-        "description": "Treetop Companies is a real estate investment firm founded in 2005 by Azi Mandel and Adam Mermelstein.We will upload almost 100gb of corporate documents soon. Lots of confidential files, clients personal documents (passports, drivers licenses, financials), other internal client information, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
     }
 ]
