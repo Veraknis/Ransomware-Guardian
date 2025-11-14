@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Kaener Personal",
+        "discovered": "2025-11-14 18:25:10.596167",
+        "description": "Membership Organizations",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jefferson Enterprises, LLC",
+        "discovered": "2025-11-14 18:24:53.351067",
+        "description": "",
+        "link": "/companies/1902827499",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Jefferson Enterprises, LLC.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Platinum Healthcare Staffing",
+        "discovered": "2025-11-14 18:24:52.367577",
+        "description": "",
+        "link": "/companies/3553555941",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Platinum Healthcare Staffing.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "UNOde50",
+        "discovered": "2025-11-14 18:24:51.019041",
+        "description": "",
+        "link": "/companies/4625125986",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/UNOde50.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Herman & Chamow",
+        "discovered": "2025-11-14 18:24:50.009357",
+        "description": "",
+        "link": "/companies/9025613144",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Herman & Chamow.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aero Precision",
+        "discovered": "2025-11-14 18:24:47.539930",
+        "description": "Aero Precision is a firearm and components manufacturer.We will upload 24gb corporate documents soon. Employee information, project details, contracts and agreements, NDAs, specifications, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Valley Banks",
+        "discovered": "2025-11-14 18:24:46.123129",
+        "description": "Valley Bank is a state chartered community bank, with branches inRonan, Arlee, Hot Springs, Thompson Falls, Pablo, Polson and Saint Ignatius.We will upload 294gb corporate documents soon. Employee information (scanned passports, driver licenses, hr docs with DOB, phones,addresses, credit card details and so on), contracts and agreements, NDAs, and other client's files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Valley Plains Equipment",
+        "discovered": "2025-11-14 17:25:24.627822",
+        "description": "",
+        "link": "topic.php?id=9E20WT80OFFhRq",
+        "magnet": null,
+        "screen": "screenshots/play/Valley Plains Equipment.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Sellers Publishing",
+        "discovered": "2025-11-14 17:25:23.527462",
+        "description": "",
+        "link": "topic.php?id=yaTDxuI6kJD0cd",
+        "magnet": null,
+        "screen": "screenshots/play/Sellers Publishing.png",
+        "group_name": "play",
+        "sector": "Media"
+    },
+    {
+        "post_title": "BK Precision",
+        "discovered": "2025-11-14 17:25:20.293817",
+        "description": "",
+        "link": "topic.php?id=XI9YzfyuaBDKlC",
+        "magnet": null,
+        "screen": "screenshots/play/BK Precision.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Trigg Laboratories",
+        "discovered": "2025-11-14 17:25:00.551642",
+        "description": "Business Services",
+        "link": "/site/view?uuid=3499b0c4-8442-3798-8adf-cd5197b2c88c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Trigg Laboratories.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Kaan Cronenberg & Partners Law",
         "discovered": "2025-11-14 14:24:39.216044",
         "description": "",
@@ -308,105 +418,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Viabizzuno",
-        "discovered": "2025-11-13 18:24:44.258175",
-        "description": "Business Services",
-        "link": "/site/view?uuid=2e27ab03-142d-3a23-a24d-8ae897519224",
-        "magnet": null,
-        "screen": "screenshots/qilin/Viabizzuno.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "confortchem.com & rogitex.com",
-        "discovered": "2025-11-13 17:25:07.817603",
-        "description": "ConfortChem Inc. is a Canada-based distributor and technical partner specializing in raw materials and machinery for the polyurethane foam industry. …",
-        "link": "/blog/post/confortchemcom-rogitexcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/confortchemcom & rogitexcom.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "FullBeauty Brands",
-        "discovered": "2025-11-13 17:25:04.502178",
-        "description": "",
-        "link": "/news/fbbrands/",
-        "magnet": null,
-        "screen": "screenshots/everest/FullBeauty Brands.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Svenska Kraftnät data",
-        "discovered": "2025-11-13 17:25:01.315388",
-        "description": "",
-        "link": "/news/svk/",
-        "magnet": null,
-        "screen": "screenshots/everest/Svenska Kraftnät data.png",
-        "group_name": "everest",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Muskoka Brewery",
-        "discovered": "2025-11-13 17:24:46.371438",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=b639b706-5627-3e05-abaa-5e150bb3a236",
-        "magnet": null,
-        "screen": "screenshots/qilin/Muskoka Brewery.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fundidora de Cananea, S.A",
-        "discovered": "2025-11-13 17:24:45.462591",
-        "description": "Business Services",
-        "link": "/site/view?uuid=b8d3a729-7cf8-3c36-92b2-3232ae7e1d1e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fundidora de Cananea, SA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PACCAR",
-        "discovered": "2025-11-13 16:24:32.230091",
-        "description": "Industry: Manufacturing / Tech\nRevenue: $31.1 Billion\nWebsite: paccar.com",
-        "link": "/companies/paccar",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/PACCAR.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Avery Dennison",
-        "discovered": "2025-11-13 16:24:31.348004",
-        "description": "Industry: Manufacturing\nRevenue: $8.7 Billion\nWebsite: averydennison.com",
-        "link": "/companies/avery",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Avery Dennison.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cinvestav",
-        "discovered": "2025-11-13 16:24:30.463434",
-        "description": "Industry: Education\nRevenue: $224.4 Million\nWebsite: cinvestav.mx",
-        "link": "/companies/cinvestav",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Cinvestav.png",
-        "group_name": "coinbase cartel",
-        "sector": "Education"
-    },
-    {
-        "post_title": "SGK INC",
-        "discovered": "2025-11-13 16:24:29.544141",
-        "description": "Industry: Advertising & Marketing\nRevenue: $548 Million\nWebsite: sgkinc.com",
-        "link": "/companies/sgk",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/SGK INC.png",
-        "group_name": "coinbase cartel",
-        "sector": "Professional Services"
     }
 ]
