@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Ninas Jewellery",
+        "discovered": "2025-11-15 19:24:42.120792",
+        "description": "Jewelry & Watch Retail",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "SES Société Energies Services",
+        "discovered": "2025-11-15 19:24:30.225623",
+        "description": "Energy, Utilities & Waste",
+        "link": "/site/view?uuid=06775eaa-0faf-3c33-a990-efbc33022e4c",
+        "magnet": null,
+        "screen": "screenshots/qilin/SES Société Energies Services.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "FREEDL GROUP s.r.l.",
+        "discovered": "2025-11-15 19:24:29.139258",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=cfea4743-1698-3dcd-8e0d-a30cc10341a9",
+        "magnet": null,
+        "screen": "screenshots/qilin/FREEDL GROUP srl.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
         "post_title": "Spark Power",
         "discovered": "2025-11-15 15:24:11.898698",
         "description": "Business Services",
@@ -98,115 +128,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Media"
-    },
-    {
-        "post_title": "Kaener Personal",
-        "discovered": "2025-11-14 18:25:10.596167",
-        "description": "Membership Organizations",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jefferson Enterprises, LLC",
-        "discovered": "2025-11-14 18:24:53.351067",
-        "description": "",
-        "link": "/companies/1902827499",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Jefferson Enterprises, LLC.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Platinum Healthcare Staffing",
-        "discovered": "2025-11-14 18:24:52.367577",
-        "description": "",
-        "link": "/companies/3553555941",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Platinum Healthcare Staffing.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UNOde50",
-        "discovered": "2025-11-14 18:24:51.019041",
-        "description": "",
-        "link": "/companies/4625125986",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/UNOde50.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Herman & Chamow",
-        "discovered": "2025-11-14 18:24:50.009357",
-        "description": "",
-        "link": "/companies/9025613144",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Herman & Chamow.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aero Precision",
-        "discovered": "2025-11-14 18:24:47.539930",
-        "description": "Aero Precision is a firearm and components manufacturer.We will upload 24gb corporate documents soon. Employee information, project details, contracts and agreements, NDAs, specifications, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Valley Banks",
-        "discovered": "2025-11-14 18:24:46.123129",
-        "description": "Valley Bank is a state chartered community bank, with branches inRonan, Arlee, Hot Springs, Thompson Falls, Pablo, Polson and Saint Ignatius.We will upload 294gb corporate documents soon. Employee information (scanned passports, driver licenses, hr docs with DOB, phones,addresses, credit card details and so on), contracts and agreements, NDAs, and other client's files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Valley Plains Equipment",
-        "discovered": "2025-11-14 17:25:24.627822",
-        "description": "",
-        "link": "topic.php?id=9E20WT80OFFhRq",
-        "magnet": null,
-        "screen": "screenshots/play/Valley Plains Equipment.png",
-        "group_name": "play",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Sellers Publishing",
-        "discovered": "2025-11-14 17:25:23.527462",
-        "description": "",
-        "link": "topic.php?id=yaTDxuI6kJD0cd",
-        "magnet": null,
-        "screen": "screenshots/play/Sellers Publishing.png",
-        "group_name": "play",
-        "sector": "Media"
-    },
-    {
-        "post_title": "BK Precision",
-        "discovered": "2025-11-14 17:25:20.293817",
-        "description": "",
-        "link": "topic.php?id=XI9YzfyuaBDKlC",
-        "magnet": null,
-        "screen": "screenshots/play/BK Precision.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Trigg Laboratories",
-        "discovered": "2025-11-14 17:25:00.551642",
-        "description": "Business Services",
-        "link": "/site/view?uuid=3499b0c4-8442-3798-8adf-cd5197b2c88c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Trigg Laboratories.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
