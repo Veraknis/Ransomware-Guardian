@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Spark Power",
+        "discovered": "2025-11-15 15:24:11.898698",
+        "description": "Business Services",
+        "link": "/site/view?uuid=6e814922-2e7f-3929-9753-8519f971635d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Spark Power.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Force Brokerage",
+        "discovered": "2025-11-15 14:24:50.666180",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Medidores Industriales y Medicos SA de CV",
+        "discovered": "2025-11-15 13:24:41.865525",
+        "description": "MYIMSA specializes in industrial and medical instrumentation, particularly in the field of nuclear medicine. The company offers advanced technology and highly trained experts to ensure precise results for sample processing. Their product range includes hemoglobin analyzers, urine analyzers, and calibration services tailored to client needs. Committed to quality and precision, MYIMSA serves clients in both industrial and medical sectors",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Medidores Industriales y Medicos SA de CV.png",
+        "group_name": "nova",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Smile for the Camera – Handala Is Watching",
+        "discovered": "2025-11-15 12:24:21.530762",
+        "description": "This Saturday, Handala RedWanted decided to do things differently. We set our sights directly on the Shabak, your regime’s so-called security guardians. But do you truly feel safe? As long as we are here, that’s little more than an illusion. For years, Shabak’s airport security systems were said to exist solely for “protection.” Yet, their…",
+        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=539",
+        "magnet": null,
+        "screen": "screenshots/handala/Smile for the Camera – Handala Is Watching.png",
+        "group_name": "handala",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Bayu Buana Travel Service",
         "discovered": "2025-11-15 03:24:38.268622",
         "description": "",
@@ -168,65 +208,5 @@
         "screen": "screenshots/qilin/Trigg Laboratories.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Kaan Cronenberg & Partners Law",
-        "discovered": "2025-11-14 14:24:39.216044",
-        "description": "",
-        "link": "/blog/disclosures/691596aee1a4e4b3ffde00ea",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kaan Cronenberg & Partners Law.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "SWISS ROSE Factory",
-        "discovered": "2025-11-14 13:24:42.260713",
-        "description": "Swiss Rose is a prominent company in the Iraqi market, recognized for its O2 brand, which focuses on various care products. Their offerings include home care, fabric care, surface care, and personal care categories. The company aims to provide quality cleaning solutions and personal care items to a diverse clientele. Established in 2019, Swiss Rose continues to expand its product range to meet consumer needs --- https://www.zoominfo.com/c/swiss-rose-factory/481426718 --- sample provided",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/SWISS ROSE Factory.png",
-        "group_name": "nova",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Waukegan Steel",
-        "discovered": "2025-11-14 12:25:15.611423",
-        "description": "Waukegan Steel is a structural steel fabricator serving the Midwest, specializing in high-quality steel fabrication since 1929. The company has worked on notable projects in the Chicago area, such as Soldier Field and Willis Tower, offering a complete range ofservices including structural, miscellaneous, and ornamental steel fabrication.We will upload almost 15gb of corporate documents soon. Scanned personal documents (passports, social security numbers, driver licenses, w-9 forms and so on), project information, NDAs, contractsand agreements, financials, client's information, lots of drawings of ongoing projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Basin Harbor",
-        "discovered": "2025-11-14 12:25:14.623766",
-        "description": "Basin Harbor is a unique Vermont resort situated on the shores ofLake Champlain, offering a blend of timeless traditions and lakeside charm. The resort spans 700 acres and features historic cottages, making it an ideal destination for outdoor adventures, waterfront relaxation, and family gatherings. We are going to upload company data soon. There are lots of essential corporate documents such as: financial data (audit, payment details, invoices), detailed employees and customers information (passports, driver's license , Social Security Numbers, emails, phones) confidential information and other documents with detailedpersonal information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Barnhart",
-        "discovered": "2025-11-14 12:25:13.609374",
-        "description": "Barnhart is a third-party global logistics provider dedicated to delivering customized transportation solutions with a focus on safety and service. We are going to upload company data soon. There are lots of essential corporate documents such as: financial data (audit, payment details, invoices), detailed employees and customers information (Passports, driver's license ,Social Security Numbers, medical information, emails, phones) confidential information, NDAs and other documents with detailed personal information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Foot Doctor's",
-        "discovered": "2025-11-14 10:24:42.635902",
-        "description": "The Foot Doctor's patients are people just like you - people who need pain relief and expert, effective foot care. When you choose our Casper, Wyoming podiatrists, you're choosing knowledgeable Podiatric surgeons who will take your pain seriously.Dr. Michael P. Wilkinson is board-certified with the American Board of Foot and Ankle Surgery and a fellow of the American Academy of Podiatric Sports Medicine. Dr. Wilkinson received his podiatric education from The California College of Podiatric Medicine in San Francisco, CA in 1995.Dr. Wilkinson competed at the highest level of collegiate athletics earning a scholarship to play defensive line on the Stanford football team. He is an avid football alum reuniting with teammates often to root on the Cardinal.While he founded The Foot Doctor, P.C. in 1997 in Casper, he performs some foot surgery. However, he loves the challenge and rewards of solving a multitude of foot conditions with creative custom orthotics for runners and other athletes and preventing diabetic amputations through educating patients, diabetic foot care, and therapeutic shoes and insoles. Dr. Wilkinson and his wife Alexandra enjoy spending time with their three children and one grandson and keeping active with golf and skiing.We look forward to working with you and your family!Personal information of employees and clientsOther documents\nhttps://wyofootdoctor.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/99/the-foot-doctors",
-        "magnet": null,
-        "screen": "screenshots/space bears/The Foot Doctor's.png",
-        "group_name": "space bears",
-        "sector": "Education"
     }
 ]
