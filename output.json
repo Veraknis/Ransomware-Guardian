@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Maresa Logística",
+        "discovered": "2025-11-16 11:24:09.458977",
+        "description": "Business Services",
+        "link": "/site/view?uuid=7b6191bf-cf9b-32da-8fad-b64f8e81717e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Maresa Logística.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "https://www.bew.co.th",
         "discovered": "2025-11-16 00:24:45.979562",
         "description": "Bangkok Eagle Wings Co.,Ltd.67/14 Mu 5 Chuamsamphan Rd. Kokfad. Nongchok. Bangkok 10530. Thailand.Stamping processWelding and assembly processMachining processPainting process",
@@ -38,45 +48,5 @@
         "screen": "screenshots/qilin/FREEDL GROUP srl.png",
         "group_name": "qilin",
         "sector": "Retail"
-    },
-    {
-        "post_title": "Spark Power",
-        "discovered": "2025-11-15 15:24:11.898698",
-        "description": "Business Services",
-        "link": "/site/view?uuid=6e814922-2e7f-3929-9753-8519f971635d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Spark Power.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Force Brokerage",
-        "discovered": "2025-11-15 14:24:50.666180",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Medidores Industriales y Medicos SA de CV",
-        "discovered": "2025-11-15 13:24:41.865525",
-        "description": "MYIMSA specializes in industrial and medical instrumentation, particularly in the field of nuclear medicine. The company offers advanced technology and highly trained experts to ensure precise results for sample processing. Their product range includes hemoglobin analyzers, urine analyzers, and calibration services tailored to client needs. Committed to quality and precision, MYIMSA serves clients in both industrial and medical sectors",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Medidores Industriales y Medicos SA de CV.png",
-        "group_name": "nova",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Smile for the Camera – Handala Is Watching",
-        "discovered": "2025-11-15 12:24:21.530762",
-        "description": "This Saturday, Handala RedWanted decided to do things differently. We set our sights directly on the Shabak, your regime’s so-called security guardians. But do you truly feel safe? As long as we are here, that’s little more than an illusion. For years, Shabak’s airport security systems were said to exist solely for “protection.” Yet, their…",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=539",
-        "magnet": null,
-        "screen": "screenshots/handala/Smile for the Camera – Handala Is Watching.png",
-        "group_name": "handala",
-        "sector": "Technology"
     }
 ]
