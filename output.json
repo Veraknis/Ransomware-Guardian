@@ -18,35 +18,5 @@
         "screen": "screenshots/mydata/wwwbewcoth.png",
         "group_name": "mydata",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Ninas Jewellery",
-        "discovered": "2025-11-15 19:24:42.120792",
-        "description": "Jewelry & Watch Retail",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "SES Société Energies Services",
-        "discovered": "2025-11-15 19:24:30.225623",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/view?uuid=06775eaa-0faf-3c33-a990-efbc33022e4c",
-        "magnet": null,
-        "screen": "screenshots/qilin/SES Société Energies Services.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "FREEDL GROUP s.r.l.",
-        "discovered": "2025-11-15 19:24:29.139258",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=cfea4743-1698-3dcd-8e0d-a30cc10341a9",
-        "magnet": null,
-        "screen": "screenshots/qilin/FREEDL GROUP srl.png",
-        "group_name": "qilin",
-        "sector": "Retail"
     }
 ]
