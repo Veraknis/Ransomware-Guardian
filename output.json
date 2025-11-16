@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "https://www.bew.co.th",
+        "discovered": "2025-11-16 00:24:45.979562",
+        "description": "Bangkok Eagle Wings Co.,Ltd.67/14 Mu 5 Chuamsamphan Rd. Kokfad. Nongchok. Bangkok 10530. Thailand.Stamping processWelding and assembly processMachining processPainting process",
+        "link": "blog_1-30",
+        "magnet": null,
+        "screen": "screenshots/mydata/wwwbewcoth.png",
+        "group_name": "mydata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ninas Jewellery",
         "discovered": "2025-11-15 19:24:42.120792",
         "description": "Jewelry & Watch Retail",
@@ -68,65 +78,5 @@
         "screen": "screenshots/handala/Smile for the Camera – Handala Is Watching.png",
         "group_name": "handala",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Bayu Buana Travel Service",
-        "discovered": "2025-11-15 03:24:38.268622",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "killinglyschools.org",
-        "discovered": "2025-11-14 23:24:59.320020",
-        "description": "Killingly Public Schools is a K-12 public school district based in Danielson, Connecticut, serving students in the town of Killingly. …",
-        "link": "/blog/post/killinglyschoolsorg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/killinglyschoolsorg.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Sol Trading",
-        "discovered": "2025-11-14 23:24:41.916055",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=b7d76c49-b1c6-3f60-9cc6-95e04c4b4b98",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sol Trading.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "eakas.com",
-        "discovered": "2025-11-14 23:24:40.654510",
-        "description": "",
-        "link": "/blog/disclosures/690b5747e1a4e4b3ff1a8d96",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/eakascom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A-B Communications",
-        "discovered": "2025-11-14 21:24:23.927711",
-        "description": "A-B Communications has been serving businesses since 1960, offering a range of services including professional answering, call center solutions, voicemail/IVR services, and secure messaging. We will upload corporate documents soon. Detailed personal employee information (about 100 persons or more), lots of scanned passports, DLs, SSNs, birth/death certs and so on. Contracts and agreements, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Barbizon Lighting Company, Roseburrough Tool, Mqd, McKay Empire, Victor Insulators.",
-        "discovered": "2025-11-14 21:24:22.233374",
-        "description": "We obtained about 15gb of the following companies:The Barbizon Lighting Company specializes in sales, integration and services of lighting and rigging equipment for houses of worship, live productions, performing arts, themed environments, film,and television. Roseburrough Tool Company, Inc. is a manufacturer and provider ofhigh-quality tools and construction supplies.MQD conducts independent, private, and accredited product testings and perform veterinary diagnostics and provide consulting services on hygiene,technology, and other quality-related issues.Ralph McKay Industries, Inc. specializes in manufacturing high-quality agricultural parts including discs, coulters, openers, sweeps, chisels, specialty items, and crop lifters.Victor Insulators is a leading manufacturer and seller of insulators, specializing in products made from standard strength silica porcelain and alumina.You will find personal employee, client, partner information, project files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Media"
     }
 ]
