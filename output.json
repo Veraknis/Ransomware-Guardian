@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Svenska kraftnät Database on sale for $2 Million",
+        "discovered": "2025-11-17 15:24:34.253884",
+        "description": "",
+        "link": "/news/svk/",
+        "magnet": null,
+        "screen": "screenshots/everest/Svenska kraftnät Database on sale for $2 Million.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Svenska kraftnät 280GB Database on sale",
+        "discovered": "2025-11-17 15:24:33.215625",
+        "description": "",
+        "link": "/news/svenskakraftnät/",
+        "magnet": null,
+        "screen": "screenshots/everest/Svenska kraftnät 280GB Database on sale.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.entecheng.com",
+        "discovered": "2025-11-17 14:24:32.346667",
+        "description": "",
+        "link": "/blog/disclosures/6878deebc7b82dfe0b26c9bf",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwentechengcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED] Fulgar S.p.A.",
+        "discovered": "2025-11-17 13:24:09.881180",
+        "description": "",
+        "link": "/r/d83665d409cd7f728f5f835d276919bb89090ad8",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED] Fulgar SpA.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "f*t*r*.com.**",
+        "discovered": "2025-11-17 13:24:08.379193",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "****clinic.com.**",
+        "discovered": "2025-11-17 13:24:07.400316",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "BOLD Furniture",
+        "discovered": "2025-11-17 12:24:37.284953",
+        "description": "BOLD Furniture manufactures distinctive, highly functional and adaptable standard and custom furniture and fixtures for all kinds of work environments.We are going to upload company data soon. You will find financialdata (audit, invoices), project details, personal financial details of employees, accounting files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "MOBI Technologies",
+        "discovered": "2025-11-17 12:24:36.323553",
+        "description": "MOBI Technologies Inc. is a consumer health and home electronics brand committed to elevating the consumer experience around digital living and wellness monitoring for all ages. We are going to upload company data soon. You will find financialdata (audit, payment details, invoices), personal financial details of employees, accounting files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Announcement till 20/11",
+        "discovered": "2025-11-17 11:24:46.679876",
+        "description": "Engineering Office",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Lotus Powergear Pvt. Ltd, India",
         "discovered": "2025-11-17 01:25:25.768102",
         "description": "",
@@ -7,16 +97,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Maresa Logística",
-        "discovered": "2025-11-16 11:24:09.458977",
-        "description": "Business Services",
-        "link": "/site/view?uuid=7b6191bf-cf9b-32da-8fad-b64f8e81717e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Maresa Logística.png",
-        "group_name": "qilin",
         "sector": "Unknown"
     }
 ]
