@@ -1,5 +1,245 @@
 [
     {
+        "post_title": "B&J Rocket Sales",
+        "discovered": "2025-11-19 08:24:37.123866",
+        "description": "Site: bj-rocket.com\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Manufacturing\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Switzerland",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Фомичёв, Кирилл Алексеевич",
+        "discovered": "2025-11-19 02:25:10.571038",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Аверин, Алексей Иванович",
+        "discovered": "2025-11-19 02:25:09.619273",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Солдатов, Владимир Владимирович",
+        "discovered": "2025-11-19 02:25:08.515071",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Несветаев, Даниил Павлович",
+        "discovered": "2025-11-19 02:25:07.329138",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Унжаков, Василий Андреевич",
+        "discovered": "2025-11-19 02:25:06.334347",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Иванов, Иван Сергеевич",
+        "discovered": "2025-11-19 02:25:05.326998",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Зубков, Владислав Сергеевич",
+        "discovered": "2025-11-19 02:25:04.084535",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "silent",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FSGROUP-Engineering",
+        "discovered": "2025-11-19 02:24:48.692857",
+        "description": "Leakage of customer contact details.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ufYxwJMU3iByTbYvRUCTahKAWZdiX9ncEUa73QI0KNeccnAw5+5k0J0R2bc662WMF4aUPuYB6wCj3nJ66XRGBGcyc3RVakdB",
+        "magnet": null,
+        "screen": null,
+        "group_name": "anubis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Genrose Stone + Tile",
+        "discovered": "2025-11-19 01:24:12.160855",
+        "description": "Since 1988, we have been working together with homeowners, architects, and desig...",
+        "link": "/leaks/691b7fd088b6823fa2a7c72f",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Genrose Stone + Tile.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "heywood.org",
+        "discovered": "2025-11-19 01:24:11.129450",
+        "description": "A member of the Heywood Healthcare system, Heywood Hospital is an acute care hos...",
+        "link": "/leaks/6910edb388b6823fa25da952",
+        "magnet": null,
+        "screen": "screenshots/sinobi/heywoodorg.png",
+        "group_name": "sinobi",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "TFC Poultry",
+        "discovered": "2025-11-19 00:25:03.413579",
+        "description": "TFC Poultry specializes in producing high-quality meat, with a focus on deboning...",
+        "link": "/leaks/6903d5eb88b6823fa20a4a57",
+        "magnet": null,
+        "screen": "screenshots/sinobi/TFC Poultry.png",
+        "group_name": "sinobi",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "istitutocomprensivo-cavaglia.edu.it",
+        "discovered": "2025-11-18 23:25:05.895720",
+        "description": "Istituto Comprensivo di Cavaglià is a public school district in the Biella province of the Piedmont region, serving students from …",
+        "link": "/blog/post/istitutocomprensivo-cavagliaeduit/",
+        "magnet": null,
+        "screen": "screenshots/safepay/istitutocomprensivo-cavagliaeduit.png",
+        "group_name": "safepay",
+        "sector": "Education"
+    },
+    {
+        "post_title": "puertoricowarehousing.com",
+        "discovered": "2025-11-18 23:25:04.924104",
+        "description": "Puerto Rico Warehousing Management Corp. is a logistics and storage company based in Carolina, Puerto Rico. It operates a modern …",
+        "link": "/blog/post/puertoricowarehousingcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/puertoricowarehousingcom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "adesursas.com",
+        "discovered": "2025-11-18 23:25:00.600581",
+        "description": "Adesur SAS is a Colombian company based in Pasto, Nariño, that operates in the wholesale distribution of agricultural and veterinary …",
+        "link": "/blog/post/adesursascom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/adesursascom.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "aussenwelten.ch",
+        "discovered": "2025-11-18 23:24:59.628102",
+        "description": "Zuber Aussenwelten AG is a Swiss company based in Domat/Ems (Graubünden), operating in the garden design and outdoor-living sector. The …",
+        "link": "/blog/post/aussenweltench/",
+        "magnet": null,
+        "screen": "screenshots/safepay/aussenweltench.png",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "simmonsbb.com",
+        "discovered": "2025-11-18 23:24:58.618870",
+        "description": "Simmons Electrical Co. Ltd. is a well-established Barbadian electrical contracting firm headquartered in St. Philip. The company specializes in a …",
+        "link": "/blog/post/simmonsbbcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/simmonsbbcom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Spark Innovation",
+        "discovered": "2025-11-18 22:24:49.209962",
+        "description": "Business Services",
+        "link": "/site/view?uuid=6e814922-2e7f-3929-9753-8519f971635d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Spark Innovation.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "baisyaakov.ca",
+        "discovered": "2025-11-18 22:24:47.869393",
+        "description": "",
+        "link": "/blog/disclosures/691cc9afe1a4e4b3ff53d111",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/baisyaakovca.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "datenlotsen.de",
+        "discovered": "2025-11-18 20:24:59.956689",
+        "description": "",
+        "link": "/blog/disclosures/691cb4d1e1a4e4b3ff525aba",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/datenlotsende.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "zadroinc.com",
+        "discovered": "2025-11-18 20:24:58.977336",
+        "description": "",
+        "link": "/blog/disclosures/691cb6d5e1a4e4b3ff527317",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/zadroinccom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ripleyacademy.org",
+        "discovered": "2025-11-18 20:24:58.012465",
+        "description": "",
+        "link": "/blog/disclosures/691cb92de1a4e4b3ff529c3c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ripleyacademyorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "grandeprairie.org",
+        "discovered": "2025-11-18 20:24:57.016330",
+        "description": "",
+        "link": "/blog/disclosures/691cba39e1a4e4b3ff52b272",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/grandeprairieorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "continuumindia.com",
+        "discovered": "2025-11-18 20:24:56.013398",
+        "description": "",
+        "link": "/blog/disclosures/691cbfb3e1a4e4b3ff530e17",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/continuumindiacom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Bleyl Engineering",
         "discovered": "2025-11-18 18:24:13.367816",
         "description": "Bleyl Engineering is a Consulting Civil Engineering firm based inConroe, Texas and with offices in Bryan - College Station, Austin, and Houston.We will upload 25gb of corporate documents soon. Lots of employeepersonal files (passports, driver licenses, SSNs, phones, addresses, email addresses, credit card details), detailed financials, contracts and agreements, clients' information, etc.",
@@ -138,95 +378,5 @@
         "screen": "screenshots/qilin/QuaLex Manufacturing.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Smoll & Banning, CPAs",
-        "discovered": "2025-11-18 05:24:24.186448",
-        "description": "Smoll & Banning, CPAs\nSmoll & Banning, CPA's, LLC is an independent accounting firm located in Dodge City, Kansas.\n\n\n\nMore",
-        "link": "archive.php?company=229",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Smoll & Banning, CPAs.png",
-        "group_name": "rhysida",
-        "sector": "Government"
-    },
-    {
-        "post_title": "dulay.ca",
-        "discovered": "2025-11-18 01:25:32.537987",
-        "description": "Price-$40000 (sale in one hand there are options for making a profit from these files will be included in the deal) 500Gb",
-        "link": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion/?p=463",
-        "magnet": null,
-        "screen": "screenshots/ransomware blog/dulayca.png",
-        "group_name": "ransomware blog",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kdr Real Estate Services",
-        "discovered": "2025-11-17 21:24:35.794053",
-        "description": "Real Estate",
-        "link": "/site/view?uuid=5318fbd8-85b8-3d25-bc11-76f220b5a5cb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kdr Real Estate Services.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Air Design Systems",
-        "discovered": "2025-11-17 21:24:31.864238",
-        "description": "Air Design Systems, Inc. is a woman-owned business based in the Chicago area, sp...",
-        "link": "/leaks/691b7dd988b6823fa2a7b89c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Air Design Systems.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Lincoln IT",
-        "discovered": "2025-11-17 21:24:30.980169",
-        "description": "Gregory N. Mirsky is an AWS certified solutions architect and security specialis...",
-        "link": "/leaks/691b7f0e88b6823fa2a7bec9",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Lincoln IT.png",
-        "group_name": "sinobi",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "H G Reynolds",
-        "discovered": "2025-11-17 21:24:30.035855",
-        "description": "H.G. Reynolds is a full-service construction management company specializing in ...",
-        "link": "/leaks/691b808f88b6823fa2a7ce70",
-        "magnet": null,
-        "screen": "screenshots/sinobi/H G Reynolds.png",
-        "group_name": "sinobi",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Poe's Accounting Services",
-        "discovered": "2025-11-17 20:24:22.549278",
-        "description": "Accounting services and tax return preparation",
-        "link": "Companies/poecpas",
-        "magnet": null,
-        "screen": "screenshots/pear/Poe's Accounting Services.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quinn Jay Patent",
-        "discovered": "2025-11-17 20:24:20.932240",
-        "description": "Drawing services for the intellectual property community",
-        "link": "Companies/quinnjaypatent",
-        "magnet": null,
-        "screen": "screenshots/pear/Quinn Jay Patent.png",
-        "group_name": "pear",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Law Office of Ronald W. Hillberg",
-        "discovered": "2025-11-17 20:24:19.332170",
-        "description": "Estate planning and wills",
-        "link": "Companies/hillberglaw",
-        "magnet": null,
-        "screen": "screenshots/pear/Law Office of Ronald W Hillberg.png",
-        "group_name": "pear",
-        "sector": "Legal"
     }
 ]
