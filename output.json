@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "PATLITE",
+        "discovered": "2025-11-21 01:28:37.701879",
+        "description": "Founded in 1947, PATLITE Corporation is a technology engineering and manufacturi...",
+        "link": "/leaks/691e238388b6823fa2b905b1",
+        "magnet": null,
+        "screen": "screenshots/sinobi/PATLITE.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "classiccenter.com",
+        "discovered": "2025-11-20 21:28:29.291662",
+        "description": "Akins Ford Arena is a state-of-the-art entertainment venue located in downtown A...",
+        "link": "/leaks/6913318c2423bc3ce0ebdaaf",
+        "magnet": null,
+        "screen": "screenshots/lynx/classiccentercom.png",
+        "group_name": "lynx",
+        "sector": "Government"
+    },
+    {
+        "post_title": "CIGAM Software Corporativo Ltda",
+        "discovered": "2025-11-20 20:28:53.758521",
+        "description": "Industry: ERP\nRevenue: $136.7 Million\nWebsite: cigam.com.br",
+        "link": "/companies/cigam",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/CIGAM Software Corporativo Ltda.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SAExploration",
+        "discovered": "2025-11-20 20:28:52.681437",
+        "description": "Industry: Oil and Gas\nRevenue: $158.1 Million\nWebsite: saexploration.com",
+        "link": "/companies/saexploration",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/SAExploration.png",
+        "group_name": "coinbase cartel",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Kewaunee Scientific",
+        "discovered": "2025-11-20 20:28:51.572803",
+        "description": "Industry: Manufacturing\nRevenue: $263.2 Million\nWebsite: kewaunee.com",
+        "link": "/companies/kewaunee",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Kewaunee Scientific.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Radio Sound",
         "discovered": "2025-11-20 19:29:11.955768",
         "description": "",
@@ -488,95 +538,5 @@
         "screen": null,
         "group_name": "sarcoma",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "naffco.com",
-        "discovered": "2025-11-20 03:28:24.069336",
-        "description": "",
-        "link": "/blog/disclosures/691a8e0fe1a4e4b3ff2f5bb9",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/naffcocom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IGT",
-        "discovered": "2025-11-20 02:28:09.384001",
-        "description": "Gambling & Gaming",
-        "link": "/site/view?uuid=0c5f1740-48c5-367d-8089-becf2563e47a",
-        "magnet": null,
-        "screen": "screenshots/qilin/IGT.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HostingFest",
-        "discovered": "2025-11-20 01:28:14.575052",
-        "description": "As HostingFest, we provide domain name (Domain), Hosting, VDS and Dedicated servers, E-commerce infrastructures and SEO services to our individual and corporate customers.\nDue to encryption, the official domain is currently inaccessible: https://hostingfest.net/\n\nHowever, here is the archived site: https://web.archive.org/web/20250815130556/https://hostingfest.net/ . Contact methods : info@hostingfest.net / https://www.linkedin.com/company/hostingfest",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/HostingFest.png",
-        "group_name": "nova",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pearl River Valley Electric Power Association",
-        "discovered": "2025-11-19 21:28:11.867949",
-        "description": "PRVEPA is an electric cooperative dedicated to providing safe, dependable, and affordable power to the residents of South-Central Mississippi since 1938.We will upload 62gb of corporate documents soon. Employee data (driver licenses, phones, addresses, emails), confidential technologies, financials and accounting, contracts and agreements, clients' information, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Orchid Island Golf and Beach Club",
-        "discovered": "2025-11-19 21:28:10.881596",
-        "description": "Orchid Island Golf and Beach Club is a member-owned golf community located in Vero Beach, Florida, nestled between the Atlantic Ocean and the Indian River.We will upload almost 20gb of corporate documents soon. Employee data (driver licenses, phones, addresses), confidential files, financials and accounting, contracts and agreements, clients' information, NDA, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Modern Display",
-        "discovered": "2025-11-19 21:28:09.864021",
-        "description": "Modern Display specializes in providing exquisite seasonal decor,collectibles, and thoughtful gifts suitable for every occasion.We will upload almost 20gb of corporate documents soon. Employee data, confidentiality agreements, detailed financials and accounting, contracts with Disney and other widely known companies, client data, lots of projects, drawings and specification, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "American Trust Administrators",
-        "discovered": "2025-11-19 21:28:08.482933",
-        "description": "American Trust Administrators, Inc. (ATA) is a national leader inthe administration and management of employee benefit plans.We will upload almost 143gb of corporate documents soon. As you can understand there are a lot of HR files, confidentiality agreements, detailed financials and accounting, lots of client files, projects, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Croft",
-        "discovered": "2025-11-19 21:28:05.189173",
-        "description": "Croft is a leading window and door company specializing in energy-efficient viny...",
-        "link": "/leaks/691e215388b6823fa2b8ee0c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Croft.png",
-        "group_name": "sinobi",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "CHANGEPOND",
-        "discovered": "2025-11-19 21:28:02.933811",
-        "description": "Founded in 2000, Changepond is a software company that provides enterprise softw...",
-        "link": "/leaks/691e224488b6823fa2b8f6cd",
-        "magnet": null,
-        "screen": "screenshots/sinobi/CHANGEPOND.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
     }
 ]
