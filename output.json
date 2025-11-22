@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "vanteceurope.com",
+        "discovered": "2025-11-22 15:28:16.712960",
+        "description": "This page is Group Mission. VANTEC, leading company of Auto Parts Logistics, pro...",
+        "link": "/leaks/6921c09c2423bc3ce089d3ca",
+        "magnet": null,
+        "screen": "screenshots/lynx/vanteceuropecom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "C&M Software",
+        "discovered": "2025-11-22 15:28:13.753381",
+        "description": "C&M Software is a leading technology company specializing in solutions for the financial market. Their offerings include automated processes, secure payment int...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "St. Joseph's Healthcare Hamilton",
+        "discovered": "2025-11-22 15:28:10.317530",
+        "description": "St. Joseph's Healthcare Hamilton\nSt. Joseph's Healthcare Hamilton (SJHH) is a research and academic health science centre located in Hamilton, Ontario.\n\n\n\nMore",
+        "link": "archive.php?company=231",
+        "magnet": null,
+        "screen": "screenshots/rhysida/St Joseph's Healthcare Hamilton.png",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "onsolve.com",
+        "discovered": "2025-11-22 13:29:13.105854",
+        "description": "",
+        "link": "/blog/disclosures/691b641fe1a4e4b3ff3e6ee4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/onsolvecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Woom GmbH",
+        "discovered": "2025-11-22 13:29:12.110073",
+        "description": "",
+        "link": "/blog/disclosures/69211b65e1a4e4b3ff9abde4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Woom GmbH.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "10 corpses",
+        "discovered": "2025-11-22 13:29:09.869636",
+        "description": "Today, Saturday, Handala RedWanted tears the mask off the Zionist regime’s aerospace elite. We are lifting the veil of secrecy from 10 senior operatives, exposing those who believed their crimes could remain hidden in the darkness. Your names are no longer whispers, we shout them into the world. This is not just an announcement. It…",
+        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=543",
+        "magnet": null,
+        "screen": "screenshots/handala/10 corpses.png",
+        "group_name": "handala",
+        "sector": "Defense"
+    },
+    {
         "post_title": "Medical Center, LLP",
         "discovered": "2025-11-22 08:28:12.754174",
         "description": "Family Medicine and Primary Care Practice in Dublin, GA",
@@ -463,66 +523,6 @@
         "link": "",
         "magnet": "",
         "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UAM🇪🇸",
-        "discovered": "2025-11-21 15:28:29.416933",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "datacarry",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gruenberg Kelly Della",
-        "discovered": "2025-11-21 15:28:15.801144",
-        "description": "One more law firm, which posts glossy Instagram updates about its victories, has now shut down its phones after confronting client‑data leaks and other problems...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Kettle, Sánchez & Co",
-        "discovered": "2025-11-21 12:28:43.391333",
-        "description": "Kettle, Sánchez & Co / OARN is located in Santo Domingo. Kettle, Sánchez & Co / OARN is working in General chemical wholesale, Corporate management, Pharmacies ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Du",
-        "discovered": "2025-11-21 12:28:42.235219",
-        "description": "Emirates Integrated Telecommunications Company P.J.S.C., commercially rebranded as du in February 2007, is one of the two main telecom operators in the United A...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "PAN",
-        "discovered": "2025-11-21 12:28:41.220233",
-        "description": "Founded in 1991 by the current CEO and Managing Director, Mr. Abdul Rahman Al Shamsi, Pan Emirates Furniture has built a regional reputation for great quality p...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Superintendencia Nacional de Fiscalización Laboral",
-        "discovered": "2025-11-21 10:28:34.524034",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/31",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Superintendencia Nacional de Fiscalización Laboral.png",
-        "group_name": "blackshrantac",
         "sector": "Unknown"
     }
 ]
