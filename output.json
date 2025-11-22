@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Mmlk",
+        "discovered": "2025-11-22 18:28:11.150955",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=2f6f7cc9-e8cc-3b4c-9f3b-0f82466f5cbb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mmlk.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Interlink Trade Services",
+        "discovered": "2025-11-22 18:28:10.145766",
+        "description": "Banking",
+        "link": "/site/view?uuid=2f7eff92-bbaf-3504-80d1-81dd407853ae",
+        "magnet": null,
+        "screen": "screenshots/qilin/Interlink Trade Services.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kajima Europe",
+        "discovered": "2025-11-22 18:28:09.136989",
+        "description": "Civil Engineering Construction",
+        "link": "/site/view?uuid=34486e20-f93d-358d-aa8e-382dc95eff35",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kajima Europe.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Katch Kan",
+        "discovered": "2025-11-22 17:29:11.899583",
+        "description": "",
+        "link": "topic.php?id=cW520Nu0gJwgn",
+        "magnet": null,
+        "screen": "screenshots/play/Katch Kan.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Keystone Fabricating",
+        "discovered": "2025-11-22 17:29:10.902838",
+        "description": "",
+        "link": "topic.php?id=9gMiZvsACN2GES",
+        "magnet": null,
+        "screen": "screenshots/play/Keystone Fabricating.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Turkstra Trusses",
+        "discovered": "2025-11-22 17:29:09.850990",
+        "description": "",
+        "link": "topic.php?id=alGp2AcglwuKhb",
+        "magnet": null,
+        "screen": "screenshots/play/Turkstra Trusses.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "vanteceurope.com",
         "discovered": "2025-11-22 15:28:16.712960",
         "description": "This page is Group Mission. VANTEC, leading company of Auto Parts Logistics, pro...",
@@ -97,432 +157,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "procure.com",
-        "discovered": "2025-11-21 19:28:40.602630",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fucerep",
-        "discovered": "2025-11-21 17:28:46.127298",
-        "description": "",
-        "link": "/r/5f5386c87526214bdab9c2db90105579b7af1055",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Fucerep.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Alma Realty",
-        "discovered": "2025-11-21 17:28:43.440671",
-        "description": "Real Estate",
-        "link": "/site/view?uuid=d0d7be15-5ab2-3911-b983-f456fdb66eb1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alma Realty.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "XOX Mobile",
-        "discovered": "2025-11-21 17:28:42.459505",
-        "description": "Electronics",
-        "link": "/site/view?uuid=d7c6a538-5e79-3025-830e-81fff371959c",
-        "magnet": null,
-        "screen": "screenshots/qilin/XOX Mobile.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Electro Mechanical Industries",
-        "discovered": "2025-11-21 17:28:40.356803",
-        "description": "Electro-Mechanical Industries, Inc. (EMI) is a manufacturer of standard and custom electrical distribution equipment serving the needs of the electrical industry in the national and internationalmarketplaces.We will upload 50gb of corporate documents soon. Lots of forms with personal employee data (SSNs, addresses, phones, emails), financials, client data, contracts and agreements, projects, drawingsand specifications, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "PM Plastics, Reliable Van & Storage, Landis, Whitinger Strategic Services, Kimber Manufact",
-        "discovered": "2025-11-21 17:28:39.363550",
-        "description": "We obtained about 29gb of the following companies:PM Plastics manufacturing of miniatures, small parts, large parts, and multiple component assemblies, with most polymers, acrylics, and thermoplastics.Reliable Van & Storage is a full-service moving company based in New Jersey, offering local, long-distance, and international relocation services for both residential and commercial clients.Landis is a real estate services company that that uses technology and data science to help renters reach home ownership.Whitinger Strategic Services is a business development firm that offers a variety of consulting services to help organizations grow in effectiveness, both internally and in the marketplace.Kimber provides a singular purpose of building fine sporting firearms, better even than classics from the golden age of American gunmaking.You will find personal employee personal data, client information, project files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "First Fruits Farms",
-        "discovered": "2025-11-21 17:28:38.355754",
-        "description": "First Fruits Farms, located in Prescott, Washington, is an agricultural company that specializes in apple and cherry orchards.We will upload 26gb of corporate documents soon. Employee personal documents (SSNs, passports, w-9 forms), detailed financials, customer data, contracts and agreements, projects, drawings and specifications, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Wachusett School District MA",
-        "discovered": "2025-11-21 17:28:35.005215",
-        "description": "Wachusett School District MA\nWachusett School District MA is a public school district.\n\n\n\nMore",
-        "link": "archive.php?company=230",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Wachusett School District MA.png",
-        "group_name": "rhysida",
-        "sector": "Education"
-    },
-    {
-        "post_title": "HCMSPARTNERS.COM",
-        "discovered": "2025-11-21 17:02:18.527958",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/HCMSPARTNERSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DMC-ME.COM",
-        "discovered": "2025-11-21 16:59:54.808764",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/DMC-MECOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MSG.COM",
-        "discovered": "2025-11-21 16:59:27.326502",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/MSGCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INTELLINUM.COM",
-        "discovered": "2025-11-21 16:56:25.150470",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/INTELLINUMCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KNEXTECH.COM",
-        "discovered": "2025-11-21 16:53:52.846250",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/KNEXTECHCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ANYWHERE.RE",
-        "discovered": "2025-11-21 16:51:49.940957",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/ANYWHERERE.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GOLDSTARPENS.COM",
-        "discovered": "2025-11-21 16:51:02.980101",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/GOLDSTARPENSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NEWLINECLOUD.COM",
-        "discovered": "2025-11-21 16:46:59.169488",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/NEWLINECLOUDCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NAMA.OM",
-        "discovered": "2025-11-21 16:39:53.857341",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/NAMAOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NORTHEASTERNCORP.COM",
-        "discovered": "2025-11-21 16:36:44.218216",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/NORTHEASTERNCORPCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AQM.COM.SA",
-        "discovered": "2025-11-21 16:36:18.648161",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/AQMCOMSA.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MACYS.COM",
-        "discovered": "2025-11-21 16:33:20.484728",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/MACYSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HYPERTHERM.COM",
-        "discovered": "2025-11-21 16:22:57.801879",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/HYPERTHERMCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KOREANAIRCND.COM",
-        "discovered": "2025-11-21 16:19:50.769212",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/KOREANAIRCNDCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INVENTIVE-IT.COM",
-        "discovered": "2025-11-21 16:18:03.289983",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/INVENTIVE-ITCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INTEROIL.COM.CO",
-        "discovered": "2025-11-21 16:17:30.984611",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/INTEROILCOMCO.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MAFAS.COM",
-        "discovered": "2025-11-21 16:12:13.874308",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/MAFASCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VIPAPPSCONSULTING.COM",
-        "discovered": "2025-11-21 16:12:12.841674",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/VIPAPPSCONSULTINGCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ZAIN.COM",
-        "discovered": "2025-11-21 16:12:11.872656",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/ZAINCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ACRONI.SI",
-        "discovered": "2025-11-21 16:12:10.861125",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/ACRONISI.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EIGHTEENPK.COM",
-        "discovered": "2025-11-21 16:12:09.804671",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/EIGHTEENPKCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IBIZSOFTINC.COM",
-        "discovered": "2025-11-21 16:12:08.788767",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/IBIZSOFTINCCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LEGACYCLASSIC.COM",
-        "discovered": "2025-11-21 16:12:07.683339",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/LEGACYCLASSICCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AOSOM.COM",
-        "discovered": "2025-11-21 16:12:06.683838",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/AOSOMCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INCENTIVECONCEPTS.COM",
-        "discovered": "2025-11-21 16:12:05.621558",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/INCENTIVECONCEPTSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ALASEEL.COM.SA",
-        "discovered": "2025-11-21 16:12:04.600948",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/ALASEELCOMSA.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WELLBIZBRANDS.COM",
-        "discovered": "2025-11-21 16:12:01.029294",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/WELLBIZBRANDSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GRUPOBIMBO.COM",
-        "discovered": "2025-11-21 16:12:00.001398",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/GRUPOBIMBOCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MASHOLDINGS.COM",
-        "discovered": "2025-11-21 16:11:58.970699",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/MASHOLDINGSCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AFLGLOBAL.COM",
-        "discovered": "2025-11-21 16:11:57.958778",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/AFLGLOBALCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SATO-GLOBAL.COM",
-        "discovered": "2025-11-21 16:11:56.953519",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "screen": "screenshots/clop/SATO-GLOBALCOM.png",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COMPANIES-GROUP-4",
-        "discovered": "2025-11-21 16:11:55.937029",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COMPANIES-GROUP-3",
-        "discovered": "2025-11-21 16:11:54.919602",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COMPANIES-GROUP-2",
-        "discovered": "2025-11-21 16:11:53.897041",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COMPANIES-GROUP-1",
-        "discovered": "2025-11-21 16:11:52.595853",
-        "description": "",
-        "link": "",
-        "magnet": "",
-        "group_name": "clop",
         "sector": "Unknown"
     }
 ]
