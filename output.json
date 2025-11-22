@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Medical Center, LLP",
+        "discovered": "2025-11-22 08:28:12.754174",
+        "description": "Family Medicine and Primary Care Practice in Dublin, GA",
+        "link": "Companies/dublinmedicalcenter",
+        "magnet": null,
+        "screen": "screenshots/pear/Medical Center, LLP.png",
+        "group_name": "pear",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Mister Guns",
+        "discovered": "2025-11-22 05:28:18.403693",
+        "description": "If the company does not contact us before 29/11/2025, the data will be published.<br><br>-- Files of interest --<br><br>Customer data (name, phone, address, height, eye color etc):<br>/home/mgi/Public/Ro Stuff/little store contacts 9-1.xlsx<br><br>Customer signatures:<br>/home/mgi/Public/Otterwaiver Forms<br><br>Revenue, cost and profit:<br>/home/mgi/Public/Temp/formatted sales.xlsx<br><br>Fingerprint files:<br>/home/mgi/Public/Fingerprint Backups",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Government"
+    },
+    {
+        "post_title": "TBTEAM",
+        "discovered": "2025-11-22 02:28:21.476220",
+        "description": "",
+        "link": "/blog/disclosures/691b641fe1a4e4b3ff3e6ee4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/TBTEAM.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gsccca.org",
+        "discovered": "2025-11-21 21:29:26.361081",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "procure.com",
         "discovered": "2025-11-21 19:28:40.602630",
         "description": "",
@@ -483,56 +523,6 @@
         "magnet": null,
         "screen": "screenshots/blackshrantac/Superintendencia Nacional de Fiscalización Laboral.png",
         "group_name": "blackshrantac",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PATLITE",
-        "discovered": "2025-11-21 01:28:37.701879",
-        "description": "Founded in 1947, PATLITE Corporation is a technology engineering and manufacturi...",
-        "link": "/leaks/691e238388b6823fa2b905b1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/PATLITE.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "classiccenter.com",
-        "discovered": "2025-11-20 21:28:29.291662",
-        "description": "Akins Ford Arena is a state-of-the-art entertainment venue located in downtown A...",
-        "link": "/leaks/6913318c2423bc3ce0ebdaaf",
-        "magnet": null,
-        "screen": "screenshots/lynx/classiccentercom.png",
-        "group_name": "lynx",
-        "sector": "Government"
-    },
-    {
-        "post_title": "CIGAM Software Corporativo Ltda",
-        "discovered": "2025-11-20 20:28:53.758521",
-        "description": "Industry: ERP\nRevenue: $136.7 Million\nWebsite: cigam.com.br",
-        "link": "/companies/cigam",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/CIGAM Software Corporativo Ltda.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SAExploration",
-        "discovered": "2025-11-20 20:28:52.681437",
-        "description": "Industry: Oil and Gas\nRevenue: $158.1 Million\nWebsite: saexploration.com",
-        "link": "/companies/saexploration",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/SAExploration.png",
-        "group_name": "coinbase cartel",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Kewaunee Scientific",
-        "discovered": "2025-11-20 20:28:51.572803",
-        "description": "Industry: Manufacturing\nRevenue: $263.2 Million\nWebsite: kewaunee.com",
-        "link": "/companies/kewaunee",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Kewaunee Scientific.png",
-        "group_name": "coinbase cartel",
         "sector": "Unknown"
     }
 ]
