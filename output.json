@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Coral Clubes - Mexico",
+        "discovered": "2025-11-23 19:28:48.278923",
+        "description": "Coral Clubes - Mexico\n\nThe Fimex Group offers a collection of luxury leisure and sports clubs, with a special focus on golf clubs and integrated resorts. Founded as a specialist in the leisure and sports sector, the group is dedicated to providing exceptional experiences for its members through world-class facilities. The group is committed to the highest standards of quality, service, and customer satisfaction.",
+        "link": "/blog/7e4d2cc0b26635dfe620f21d6729f4cd122f8f73c1a95c65bf38693f4a6f0751/",
+        "magnet": null,
+        "screen": null,
+        "group_name": "tengu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AGFA - Database Leaked",
+        "discovered": "2025-11-23 18:29:38.126070",
+        "description": "",
+        "link": "/news/AGFA/",
+        "magnet": null,
+        "screen": "screenshots/everest/AGFA - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cayuga Milk Ingredients",
+        "discovered": "2025-11-23 17:28:57.273054",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=1b47462b-e448-3a29-8381-df8200121b4b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cayuga Milk Ingredients.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "The Hunnicutt Law Group",
+        "discovered": "2025-11-23 17:28:56.274198",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=7e48740e-f0f6-3e2a-a39e-ef6eaf1d8244",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Hunnicutt Law Group.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Berts Electric",
+        "discovered": "2025-11-23 17:28:55.309266",
+        "description": "Commercial & Residential Construction",
+        "link": "/site/view?uuid=3dd4de71-069c-37f3-b8d6-94fddff067bc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Berts Electric.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Capp Shupak",
+        "discovered": "2025-11-23 17:28:54.347984",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=fa6d9379-e83d-3d59-9bc4-1b26f55d3f17",
+        "magnet": null,
+        "screen": "screenshots/qilin/Capp Shupak.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Nissan Capital",
+        "discovered": "2025-11-23 16:28:29.085137",
+        "description": "Business Services",
+        "link": "/site/view?uuid=c4503266-cbe5-37ef-8ee2-45424eb61137",
+        "magnet": null,
+        "screen": "screenshots/qilin/Nissan Capital.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Outback Pharmacies",
         "discovered": "2025-11-23 15:28:49.133822",
         "description": "Outback Pharmacies operates five locations in Broken Hill, providing a wide range of health services including prescriptions, sleep apnoea management, vaccinations, and weekly medicine packing. With over 30 years of experience, they focus on enhancing the health and wellbeing of the local community through partnerships with health organizations and investment in staff training. Their services cater to individuals seeking reliable pharmaceutical care and convenient medication management solutions. Outback Pharmacies is committed to delivering exceptional service and expert advice to their clients",
@@ -137,66 +207,6 @@
         "magnet": null,
         "screen": "screenshots/worldleaks/Nuclebrás Equipamentos Pesados.png",
         "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mmlk",
-        "discovered": "2025-11-22 18:28:11.150955",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=2f6f7cc9-e8cc-3b4c-9f3b-0f82466f5cbb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mmlk.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Interlink Trade Services",
-        "discovered": "2025-11-22 18:28:10.145766",
-        "description": "Banking",
-        "link": "/site/view?uuid=2f7eff92-bbaf-3504-80d1-81dd407853ae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Interlink Trade Services.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kajima Europe",
-        "discovered": "2025-11-22 18:28:09.136989",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=34486e20-f93d-358d-aa8e-382dc95eff35",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kajima Europe.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Katch Kan",
-        "discovered": "2025-11-22 17:29:11.899583",
-        "description": "",
-        "link": "topic.php?id=cW520Nu0gJwgn",
-        "magnet": null,
-        "screen": "screenshots/play/Katch Kan.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Keystone Fabricating",
-        "discovered": "2025-11-22 17:29:10.902838",
-        "description": "",
-        "link": "topic.php?id=9gMiZvsACN2GES",
-        "magnet": null,
-        "screen": "screenshots/play/Keystone Fabricating.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Turkstra Trusses",
-        "discovered": "2025-11-22 17:29:09.850990",
-        "description": "",
-        "link": "topic.php?id=alGp2AcglwuKhb",
-        "magnet": null,
-        "screen": "screenshots/play/Turkstra Trusses.png",
-        "group_name": "play",
         "sector": "Unknown"
     }
 ]
