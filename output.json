@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Swedish Arts Council",
+        "discovered": "2025-11-24 19:28:43.069530",
+        "description": "",
+        "link": "/r/1241fcfe2f5432c53031981fecbc7a0d06e3577f",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Swedish Arts Council.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Westrian Group",
+        "discovered": "2025-11-24 18:29:02.158558",
+        "description": "https://www.jrengineering.com\n\t\t\t\t\t\t\t\t\tJR Engineering provides services in land management, surveying, land transportation, water resources, and structural design! This company was compromised due to extremely poor security and a weak IT department. Client databases were lost, including confidential contracts with clients and more! All of the company's current sketches and models are now publicly available, which could ruin its reputation and financial position!",
+        "link": "http://j76ts5r62mwtfqg6t2po7komao65jzgglaavnvloeltfenazpt57vaad.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Westrian Group.png",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "dynamichomerepair.com",
+        "discovered": "2025-11-24 17:28:43.211969",
+        "description": "Dynamic Home Repair is a U.S.-based company specializing in repair services for manufactured homes. It offers a “lifetime warranty” on …",
+        "link": "/blog/post/dynamichomerepaircom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/dynamichomerepaircom.png",
+        "group_name": "safepay",
+        "sector": "Services"
+    },
+    {
+        "post_title": "rehmann.de",
+        "discovered": "2025-11-24 17:28:42.166377",
+        "description": "Furniture-retail company in Velbert, Germany, operating a furniture house and a high-end studio for home furnishings. This company is mid-sized, …",
+        "link": "/blog/post/rehmannde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/rehmannde.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "NovAtel (belongs to Hexagon)",
+        "discovered": "2025-11-24 16:28:42.003604",
+        "description": "Electronics",
+        "link": "/site/view?uuid=430c3f31-a4c6-35cf-88d8-a89ab5c1cdd0",
+        "magnet": null,
+        "screen": "screenshots/qilin/NovAtel (belongs to Hexagon).png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Chairmans Foods",
         "discovered": "2025-11-24 15:28:27.603083",
         "description": "Chairmans Foods is a gold-star rated, USDA manufacturing plant and producer of fresh, frozen and refrigerated food products for more than 40 years. They serve delicious home cooked foods to various delis, grocers and chain restaurants.We are going to upload company data soon. You will find financialdata (audit, payment details, financial reports, invoices), personal financial details of employees, accounting files.",
@@ -128,75 +178,5 @@
         "screen": "screenshots/qilin/Cal-Comp Electronics Public.png",
         "group_name": "qilin",
         "sector": "Government"
-    },
-    {
-        "post_title": "Coral Clubes - Mexico",
-        "discovered": "2025-11-23 19:28:48.278923",
-        "description": "Coral Clubes - Mexico\n\nThe Fimex Group offers a collection of luxury leisure and sports clubs, with a special focus on golf clubs and integrated resorts. Founded as a specialist in the leisure and sports sector, the group is dedicated to providing exceptional experiences for its members through world-class facilities. The group is committed to the highest standards of quality, service, and customer satisfaction.",
-        "link": "/blog/7e4d2cc0b26635dfe620f21d6729f4cd122f8f73c1a95c65bf38693f4a6f0751/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Coral Clubes - Mexico.png",
-        "group_name": "tengu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AGFA - Database Leaked",
-        "discovered": "2025-11-23 18:29:38.126070",
-        "description": "",
-        "link": "/news/AGFA/",
-        "magnet": null,
-        "screen": "screenshots/everest/AGFA - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cayuga Milk Ingredients",
-        "discovered": "2025-11-23 17:28:57.273054",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=1b47462b-e448-3a29-8381-df8200121b4b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cayuga Milk Ingredients.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "The Hunnicutt Law Group",
-        "discovered": "2025-11-23 17:28:56.274198",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=7e48740e-f0f6-3e2a-a39e-ef6eaf1d8244",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Hunnicutt Law Group.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Berts Electric",
-        "discovered": "2025-11-23 17:28:55.309266",
-        "description": "Commercial & Residential Construction",
-        "link": "/site/view?uuid=3dd4de71-069c-37f3-b8d6-94fddff067bc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Berts Electric.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Capp Shupak",
-        "discovered": "2025-11-23 17:28:54.347984",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=fa6d9379-e83d-3d59-9bc4-1b26f55d3f17",
-        "magnet": null,
-        "screen": "screenshots/qilin/Capp Shupak.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Nissan Capital",
-        "discovered": "2025-11-23 16:28:29.085137",
-        "description": "Business Services",
-        "link": "/site/view?uuid=c4503266-cbe5-37ef-8ee2-45424eb61137",
-        "magnet": null,
-        "screen": "screenshots/qilin/Nissan Capital.png",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
