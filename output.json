@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Chairmans Foods",
+        "discovered": "2025-11-24 15:28:27.603083",
+        "description": "Chairmans Foods is a gold-star rated, USDA manufacturing plant and producer of fresh, frozen and refrigerated food products for more than 40 years. They serve delicious home cooked foods to various delis, grocers and chain restaurants.We are going to upload company data soon. You will find financialdata (audit, payment details, financial reports, invoices), personal financial details of employees, accounting files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Akehurst Landscape Service",
+        "discovered": "2025-11-24 15:28:24.428762",
+        "description": "Akehurst Landscape Service, Inc., based in Joppa, MD, offers a wide range of landscaping, snow removal, and grounds maintenance services tailored to meet the needs of commercial, industrial, and residential clients. We are going to upload company data soon. You will find financialdata (audit, payment details, financial reports, invoices), personal financial details of employees, accounting files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Adept",
+        "discovered": "2025-11-24 12:28:52.279563",
+        "description": "ADEPT Projects specializes in innovative urban development and design solutions....",
+        "link": "/leaks/692311e088b6823fa2dbe220",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Adept.png",
+        "group_name": "sinobi",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Collge Superieur De Montreal",
+        "discovered": "2025-11-24 11:28:34.192726",
+        "description": "Collge Superieur De Montreal\nCollege Superieur de Montreal is a private institution recognized and subsidized by the government, specializing in vocational training in fields such as Accounting, Pharmacy Technical Assistance, and Medical or Legal Secretarial studies.\n\n\n\nMore",
+        "link": "archive.php?company=232",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Collge Superieur De Montreal.png",
+        "group_name": "rhysida",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Advanced Dental",
+        "discovered": "2025-11-24 11:28:32.837783",
+        "description": "Advanced Dental, located in Aliso Viejo, CA, offers cutting-edge laser dentistry...",
+        "link": "/leaks/6923101088b6823fa2dbda5c",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Advanced Dental.png",
+        "group_name": "sinobi",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Access Search",
+        "discovered": "2025-11-24 10:28:19.422710",
+        "description": "Access Search, Inc. was founded with one simple mission: to be an honest, dilige...",
+        "link": "/leaks/6923110d88b6823fa2dbdefe",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Access Search.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "mToilet",
+        "discovered": "2025-11-24 09:28:20.716286",
+        "description": "mToilet is a company that operates in the Sporting & Recreational Equipment Retail industry.",
+        "link": "/LoIVHrGk2QVH31i8dOCeikejqIpkcwcm/mtoilet",
+        "magnet": null,
+        "screen": "screenshots/chaos/mToilet.png",
+        "group_name": "chaos",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Liberty Gold Fruit",
+        "discovered": "2025-11-24 09:28:17.759976",
+        "description": "Liberty Gold Fruit Company, Inc. is a family-owned business renowned for its pre...",
+        "link": "/leaks/69230f4e88b6823fa2dbd789",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Liberty Gold Fruit.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Homestead Museum",
         "discovered": "2025-11-24 02:28:18.177139",
         "description": "The Homestead Museum is a Historic-Cultural Landmark located in the City of Indu...",
@@ -118,15 +198,5 @@
         "screen": "screenshots/qilin/Nissan Capital.png",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Outback Pharmacies",
-        "discovered": "2025-11-23 15:28:49.133822",
-        "description": "Outback Pharmacies operates five locations in Broken Hill, providing a wide range of health services including prescriptions, sleep apnoea management, vaccinations, and weekly medicine packing. With over 30 years of experience, they focus on enhancing the health and wellbeing of the local community through partnerships with health organizations and investment in staff training. Their services cater to individuals seeking reliable pharmaceutical care and convenient medication management solutions. Outback Pharmacies is committed to delivering exceptional service and expert advice to their clients",
-        "link": "/card/outback_pharmacies",
-        "magnet": null,
-        "screen": "screenshots/beast/Outback Pharmacies.png",
-        "group_name": "beast",
-        "sector": "Healthcare"
     }
 ]
