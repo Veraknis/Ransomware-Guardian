@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "aceforwarding.com",
+        "discovered": "2025-11-25 14:44:48.213419",
+        "description": "Ace Forwarding started out in 1994 as a small operation with a single truck picking up and delivering to and from the Detroit airport, fulfilling our customers time-critical shipments and becoming the go-to logistics operation when time was of the",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Universidade Municipal de São Caetano",
+        "discovered": "2025-11-25 14:37:48.326424",
+        "description": "USCS offers a diverse range of educational programs including in-person and distance learning undergraduate degrees, technical courses, and postgraduate studies such as MBAs and doctorates. The university also provides non-degree courses aimed at skill enhancement and is equipped with facilities for secondary education. Services include free legal assistance, fiscal education, and health services, catering to both students and the community. With a focus on quality and flexibility, USCS serves a wide array of clients including students at various academic levels and professionals seeking further education.\ncompany is headquartered in Rua Santo Antônio, 50 – Centro, São Caetano do Sul, SP, CEP 09521-160.\n501-1,000 Employees,",
+        "link": "detail?id=a4f6f6bd335ab7802859759b380d03f6",
+        "magnet": null,
+        "screen": "screenshots/medusa/Universidade Municipal de São Caetano.png",
+        "group_name": "medusa",
+        "sector": "Education"
+    },
+    {
+        "post_title": "WR Comercial",
+        "discovered": "2025-11-25 14:37:46.343712",
+        "description": "WR Comercial helps businesses find great staff for important jobs like cleaning, security, and front desk work. They connect companies with skilled workers who can handle all kinds of tasks, making it easy for businesses to get the help they need quickly and reliably. Whether you run a small office or a big building, WR Comercial has people ready to support your team.\ncompany is headquartered in Rua Giancarlo Palanti 22B, Vila Ré, São Paulo, CEP 03661-050, Brazil.\n11-50 Employees",
+        "link": "detail?id=ddab626b0dfa3a63105df32b332fa4bb",
+        "magnet": null,
+        "screen": "screenshots/medusa/WR Comercial.png",
+        "group_name": "medusa",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "cryopur.com",
+        "discovered": "2025-11-25 14:28:35.729832",
+        "description": "",
+        "link": "/blog/disclosures/6925a0f8e1a4e4b3ffdaeaf4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cryopurcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Schmidt's",
+        "discovered": "2025-11-25 13:28:44.934157",
+        "description": "",
+        "link": "/blog/disclosures/692591cde1a4e4b3ffda7932",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Schmidt's.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Standing Chapter 13 Trustee",
+        "discovered": "2025-11-25 12:28:28.650006",
+        "description": "The Standing Chapter 13 Trustee District of Minnesota provides services related to bankruptcy cases under Chapter 13, assisting debtors with payment information and case-related resources.We will upload 44gb of corporate documents soon. Employee and client personal documents (SSNs, passports, DLs and so on), detailedfinancials, internal confidential docs, contracts and agreements, court documents, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Marlex Human Capital",
+        "discovered": "2025-11-25 11:28:39.894599",
+        "description": "Marlex Human Capital\nMarlex Great People specializes in human resources, focusing on talent selection and evaluation for key positions within companies.\n\n\n\nMore",
+        "link": "archive.php?company=233",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Marlex Human Capital.png",
+        "group_name": "rhysida",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Rempe Construction",
+        "discovered": "2025-11-25 11:28:38.691700",
+        "description": "Rempe Construction specializes in construction services, offering expertise to v...",
+        "link": "/leaks/692318c988b6823fa2dc15a8",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Rempe Construction.png",
+        "group_name": "sinobi",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Balkrishna Paper Mills LTD, India",
+        "discovered": "2025-11-25 10:28:47.656820",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NONC, India",
+        "discovered": "2025-11-25 10:28:46.705172",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LAMAICA, Egypt",
+        "discovered": "2025-11-25 10:28:45.756917",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "StatMedPlus LLC",
+        "discovered": "2025-11-25 09:29:47.671485",
+        "description": "StatMedPlus LLC is located at 22 Jericho Turnpike in Mineola, New York 11501.",
+        "link": "/leaks/6923174b88b6823fa2dc0be0",
+        "magnet": null,
+        "screen": "screenshots/sinobi/StatMedPlus LLC.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Amcore",
         "discovered": "2025-11-25 07:28:12.393009",
         "description": "Industry: Manufacturing\nRevenue: $17.4 Billion\nWebsite: amcore.com",
@@ -178,85 +298,5 @@
         "screen": "screenshots/qilin/NovAtel (belongs to Hexagon).png",
         "group_name": "qilin",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Chairmans Foods",
-        "discovered": "2025-11-24 15:28:27.603083",
-        "description": "Chairmans Foods is a gold-star rated, USDA manufacturing plant and producer of fresh, frozen and refrigerated food products for more than 40 years. They serve delicious home cooked foods to various delis, grocers and chain restaurants.We are going to upload company data soon. You will find financialdata (audit, payment details, financial reports, invoices), personal financial details of employees, accounting files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Akehurst Landscape Service",
-        "discovered": "2025-11-24 15:28:24.428762",
-        "description": "Akehurst Landscape Service, Inc., based in Joppa, MD, offers a wide range of landscaping, snow removal, and grounds maintenance services tailored to meet the needs of commercial, industrial, and residential clients. We are going to upload company data soon. You will find financialdata (audit, payment details, financial reports, invoices), personal financial details of employees, accounting files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Adept",
-        "discovered": "2025-11-24 12:28:52.279563",
-        "description": "ADEPT Projects specializes in innovative urban development and design solutions....",
-        "link": "/leaks/692311e088b6823fa2dbe220",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Adept.png",
-        "group_name": "sinobi",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Collge Superieur De Montreal",
-        "discovered": "2025-11-24 11:28:34.192726",
-        "description": "Collge Superieur De Montreal\nCollege Superieur de Montreal is a private institution recognized and subsidized by the government, specializing in vocational training in fields such as Accounting, Pharmacy Technical Assistance, and Medical or Legal Secretarial studies.\n\n\n\nMore",
-        "link": "archive.php?company=232",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Collge Superieur De Montreal.png",
-        "group_name": "rhysida",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Advanced Dental",
-        "discovered": "2025-11-24 11:28:32.837783",
-        "description": "Advanced Dental, located in Aliso Viejo, CA, offers cutting-edge laser dentistry...",
-        "link": "/leaks/6923101088b6823fa2dbda5c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Advanced Dental.png",
-        "group_name": "sinobi",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Access Search",
-        "discovered": "2025-11-24 10:28:19.422710",
-        "description": "Access Search, Inc. was founded with one simple mission: to be an honest, dilige...",
-        "link": "/leaks/6923110d88b6823fa2dbdefe",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Access Search.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mToilet",
-        "discovered": "2025-11-24 09:28:20.716286",
-        "description": "mToilet is a company that operates in the Sporting & Recreational Equipment Retail industry.",
-        "link": "/LoIVHrGk2QVH31i8dOCeikejqIpkcwcm/mtoilet",
-        "magnet": null,
-        "screen": "screenshots/chaos/mToilet.png",
-        "group_name": "chaos",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Liberty Gold Fruit",
-        "discovered": "2025-11-24 09:28:17.759976",
-        "description": "Liberty Gold Fruit Company, Inc. is a family-owned business renowned for its pre...",
-        "link": "/leaks/69230f4e88b6823fa2dbd789",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Liberty Gold Fruit.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
     }
 ]
