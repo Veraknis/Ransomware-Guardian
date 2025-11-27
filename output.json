@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "ERR Raumplaner",
+        "discovered": "2025-11-27 18:29:14.873106",
+        "description": "Civil Engineering Construction",
+        "link": "/site/view?uuid=354f105e-9e00-3556-a75d-3c7e95822e0a",
+        "magnet": null,
+        "screen": "screenshots/qilin/ERR Raumplaner.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Bcfpers",
+        "discovered": "2025-11-27 18:29:13.924787",
+        "description": "Insurance",
+        "link": "/site/view?uuid=515de042-fc9c-3c28-a153-f428bcd643f0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bcfpers.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "United Volleyball Supply",
+        "discovered": "2025-11-27 18:29:12.819381",
+        "description": "Business Services",
+        "link": "/site/view?uuid=3c64bb49-c6c5-30aa-96c5-95f499d818ed",
+        "magnet": null,
+        "screen": "screenshots/qilin/United Volleyball Supply.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PFMI",
+        "discovered": "2025-11-27 17:28:46.472125",
+        "description": "",
+        "link": "/blog/disclosures/6926cbaee1a4e4b3ffe9f043",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/PFMI.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Hitech",
         "discovered": "2025-11-27 14:29:28.092086",
         "description": "Hitech is a prominent single-seater racing team based in Silverstone, UK, competing in various national and international motorsport championships including FIA Formula 2, FIA Formula 3, GB3, andFormula 4.We will upload 85gb of corporate documents soon. Drivers personaldocuments, race cars information, race reports, teams and staff information and other interesting files.",
@@ -128,85 +168,5 @@
         "screen": "screenshots/sinobi/Secure Network Solutions.png",
         "group_name": "sinobi",
         "sector": "Technology"
-    },
-    {
-        "post_title": "FIT",
-        "discovered": "2025-11-26 19:28:36.414983",
-        "description": "",
-        "link": "/blog/disclosures/69273e31e1a4e4b3ffefedc1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/FIT.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ADC Aerospace",
-        "discovered": "2025-11-26 18:28:54.593880",
-        "description": "",
-        "link": "topic.php?id=Xo1cL1sxdAZYJV",
-        "magnet": null,
-        "screen": "screenshots/play/ADC Aerospace.png",
-        "group_name": "play",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "St. Johns River Water Management District",
-        "discovered": "2025-11-26 18:28:43.256818",
-        "description": "Government",
-        "link": "/site/view?uuid=d226d026-073f-343d-b9f7-9ae6b6ac6d92",
-        "magnet": null,
-        "screen": "screenshots/qilin/St Johns River Water Management District.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Zoetis",
-        "discovered": "2025-11-26 18:28:41.518549",
-        "description": "Zoetis discovers, develops, manufactures, and commercializes animal health medicines, vaccines, and diagnostic products in the United States and internationally.We will upload 25gb of corporate documents soon. Lots of internaldocuments, clients' data, numerous test and other information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fineline Architectural Millwork",
-        "discovered": "2025-11-26 18:28:40.613385",
-        "description": "Fineline Woodworks Inc. is full service custom carpentry located in Orange County in beautiful southern California.We will upload 100gb of corporate documents soon. Employee personal information, detailed financials, NDAs, projects, clientsinformation, agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Healthcare Retroactive Audits",
-        "discovered": "2025-11-26 18:28:38.856116",
-        "description": "22 171 128 medical record files, neatly packaged into 11 archives by hospital. The firm Healthcare Retroactive Audits, which was auditing the data for insurers,...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "AGS",
-        "discovered": "2025-11-26 17:29:19.589622",
-        "description": "AGS\nToday, Accelerated Global Solutions (AGS) is a rapid-growing global company headquartered in New York, NY that manages a service network of freight stations and fulfillment operations providing coverage across major gateway cities in the United States, Canada & China.\n\n\n\nMore",
-        "link": "archive.php?company=234",
-        "magnet": null,
-        "screen": "screenshots/rhysida/AGS.png",
-        "group_name": "rhysida",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Church of the Ascension Anglican",
-        "discovered": "2025-11-26 16:28:28.857954",
-        "description": "Church of the Ascension is an Anglican parish in London, Ontario located at 2060 Dundas St. E., serving as an inclusive commu               ....",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ciphbit",
-        "sector": "Nonprofit"
     }
 ]
