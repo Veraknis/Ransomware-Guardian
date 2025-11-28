@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Heart of America Medical Centr (HAMC)",
+        "discovered": "2025-11-28 08:39:49.483732",
+        "description": "About Heart of America Medical Center\r\nA non-profit hospital offering comprehensive medical services, including emergency care, radiology/imaging, surgical cen...",
+        "link": "/#/post/8e8343cb-1fcd-482b-ae9b-b091380a9a33",
+        "magnet": null,
+        "screen": null,
+        "group_name": "embargo",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "usadebusk.com",
+        "discovered": "2025-11-28 08:39:48.500588",
+        "description": "USA DeBusk provides a comprehensive suite of industrial cleaning and infrastructure maintenance services to a diverse, blue-chip customer base across a broad r...",
+        "link": "/#/post/5a9c3925-4bdd-4116-a667-0081b03641bd",
+        "magnet": null,
+        "screen": null,
+        "group_name": "embargo",
+        "sector": "Services"
+    },
+    {
+        "post_title": "ACTi.com",
+        "discovered": "2025-11-28 08:39:47.423254",
+        "description": "ACTi Corporation, founded in 2003, is a leading application developer with Big Data, Robot, IoT, Cloud and AI Technologies to empower business intelligent solut...",
+        "link": "/#/post/7e0fe038-1185-4f6e-9a51-e43e56889e20",
+        "magnet": null,
+        "screen": null,
+        "group_name": "embargo",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Comansco",
+        "discovered": "2025-11-27 23:28:28.211487",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=687736e8-6bbb-3ee1-9518-c31418e543f3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Comansco.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mechanical Systems",
+        "discovered": "2025-11-27 23:28:26.148508",
+        "description": "Mechanical Systems Company offers building automation controls and services. We are ready to upload more than 30GB files of essential corporate documents such as: Employee personal information (SSNs, DLs, passports and so on), confidentiality agreements, financials, clients information, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "**Rollingertec S.A. - Luxembourg**",
+        "discovered": "2025-11-27 21:28:29.924144",
+        "description": "**Rollingertec S.A. - Luxembourg**\n\nOffering integrated solutions in the field of building technology and timber construction, with a special focus on roofs, facades, and metal insulation. Founded as a specialist in the sustainable construction sector, the company is dedicated to combining time-honored craft traditions with modern technology through comprehensive turnkey projects. The company is committed to high standards of quality, environmental sustainability, and customer satisfaction.",
+        "link": "/blog/bc5723b509285febe34720381141a5509f50a50f44f48f250c899b37ff117b41/",
+        "magnet": null,
+        "screen": "screenshots/tengu/**Rollingertec SA - Luxembourg**.png",
+        "group_name": "tengu",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Caros co",
+        "discovered": "2025-11-27 21:28:14.984863",
+        "description": "South Korea\n\nIt was founded in 2009. It is engaged in the production and sale of general-purpose vehicles. Among the products: an ice maker, a water purifier, a water heater and others.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Caros co.png",
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Enerre Pharma Lda",
+        "discovered": "2025-11-27 20:28:44.634422",
+        "description": "A Enerre Pharma nasce da necessidade de adaptação aos novos tempos.\n\n\nTendo como base fundadora, a estrutura e experiência de mais de 40 anos da empresa Enerre ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "ERR Raumplaner",
         "discovered": "2025-11-27 18:29:14.873106",
         "description": "Civil Engineering Construction",
@@ -98,75 +178,5 @@
         "screen": "screenshots/qilin/Santa Paula.png",
         "group_name": "qilin",
         "sector": "Government"
-    },
-    {
-        "post_title": "meena health",
-        "discovered": "2025-11-27 07:29:32.615488",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Rama Judicial",
-        "discovered": "2025-11-27 07:29:31.599548",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Government"
-    },
-    {
-        "post_title": "WLR Precision Engineering",
-        "discovered": "2025-11-27 06:28:10.205976",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=8756dd6f-b542-3bdd-9f4c-e11bf699d8b4",
-        "magnet": null,
-        "screen": "screenshots/qilin/WLR Precision Engineering.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "The American School Foundation",
-        "discovered": "2025-11-27 04:28:16.214053",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/view?uuid=3fdc811b-07f5-3450-9575-d031beeaa622",
-        "magnet": null,
-        "screen": "screenshots/qilin/The American School Foundation.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "St Stephens International",
-        "discovered": "2025-11-27 00:28:24.337620",
-        "description": "https://www.zoominfo.com/c/st-stephens-international-school/1293733677 www.sis.edu St Stephens International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Shelbra International",
-        "discovered": "2025-11-26 23:28:36.789099",
-        "description": "Shelbra International is currently under construction, indicating that they are in the process of developing their offerings. Specific details about their produ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Secure Network Solutions",
-        "discovered": "2025-11-26 20:29:43.972217",
-        "description": "Secure Network Solutions specializes in providing top-notch IT consulting and ne...",
-        "link": "/leaks/6927474388b6823fa2f90d80",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Secure Network Solutions.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
     }
 ]
