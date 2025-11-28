@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Zoya",
+        "discovered": "2025-11-28 19:24:40.346796",
+        "description": "Business Services",
+        "link": "/site/view?uuid=7cdb3168-bb19-39f9-9b9a-a88df450f0a1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Zoya.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Weiss",
+        "discovered": "2025-11-28 19:24:39.373200",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=b3f434d9-fbd3-30c7-ac83-6e458c7ef864",
+        "magnet": null,
+        "screen": "screenshots/qilin/Weiss.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kleber and Associates",
+        "discovered": "2025-11-28 19:24:38.382055",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=297dbf90-af5a-3628-8c38-6b2b195086ba",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kleber and Associates.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Lone Rock Timber",
+        "discovered": "2025-11-28 17:24:44.620500",
+        "description": "Lone Rock is a timber company.We are ready to upload 25GB files of corporate documents such as:personal employee data, financials, agreements and contracts, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Morton LTC, Reed Pope Law, American Public Television, Benchmark Connector, Radtke Contrac",
+        "discovered": "2025-11-28 17:24:43.594612",
+        "description": "We obtained about 22gb of the following companies: Morton LTC Home specializes in providing pharmacy solutions tailored for long term care providers.Reed Pope is a leading business law firm based in Victoria, British Columbia, specializing in business law, land development, and real estate law.American Public Television (APT) is a distributor of public television programming that has introduced iconic shows and personalities such as Julia Child and Fred Rogers.LBenchmark Connector Corporation specializes in providing high-quality connectors for various industries, including military and aerospace applications.Radtke Contractors specializes in pile driving, marine and excavating contracting, their varied experience in snow removal, bridge, and railroad construction allows us to complete a wide range ofprojects in commercial, municipal and residential construction markets.You will find personal employees and customer information, lots of projects, agreements and contracts and other sensitive files. Some cases contain legal confidential files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Casting House",
+        "discovered": "2025-11-28 17:24:42.635849",
+        "description": "Casting House is a full-service custom jewelry manufacturing company that provides jewelers and designers with access to manufacturing solutions that will help grow their inventory.We are ready to upload 10GB files of corporate documents such as:personal employee data, financials, agreements and contracts, confidential files, credit card details, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Parrish Tire",
+        "discovered": "2025-11-28 17:24:41.644070",
+        "description": "Parrish Tire Company is one of the largest tire dealers in the Southeast, operating wholesale, retail, and commercial truck tire centers in NC, SC, VA, GA, and OH.We are ready to upload 10GB files of corporate documents such as:personal employee data, client data (~150 credit cards details, and other information), financials, agreements and contracts, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Panini Kabob Grill",
+        "discovered": "2025-11-28 17:24:40.595354",
+        "description": "Panini Kabob Grill specializes in preparing fresh and healthier Mediterranean food using high-quality ingredients in a scratch kitchen.We are ready to upload 60GB files of corporate documents such as:detailed personal employee information (SSN, DLs, passport, photo, phone, emails and so on), credit cards, detailed financials, agreements and contracts, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
         "post_title": "ILDefenseLeaks  :  CR Casting, Exact LTD and Tefen Metal Castings",
         "discovered": "2025-11-28 15:25:19.638526",
         "description": "The Zionist enemy is still killing innocents, not respecting or honoring agreements, and not caring about blood and lives, considering them cheap and thinking there is no accountability or punishment. Sometimes, it acts like a desperate and dying person. According to UNICEF, 67 children have been killed in Gaza since the start of the ceasefire. […]",
@@ -188,45 +268,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "ERR Raumplaner",
-        "discovered": "2025-11-27 18:29:14.873106",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=354f105e-9e00-3556-a75d-3c7e95822e0a",
-        "magnet": null,
-        "screen": "screenshots/qilin/ERR Raumplaner.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Bcfpers",
-        "discovered": "2025-11-27 18:29:13.924787",
-        "description": "Insurance",
-        "link": "/site/view?uuid=515de042-fc9c-3c28-a153-f428bcd643f0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bcfpers.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "United Volleyball Supply",
-        "discovered": "2025-11-27 18:29:12.819381",
-        "description": "Business Services",
-        "link": "/site/view?uuid=3c64bb49-c6c5-30aa-96c5-95f499d818ed",
-        "magnet": null,
-        "screen": "screenshots/qilin/United Volleyball Supply.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PFMI",
-        "discovered": "2025-11-27 17:28:46.472125",
-        "description": "",
-        "link": "/blog/disclosures/6926cbaee1a4e4b3ffe9f043",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/PFMI.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
