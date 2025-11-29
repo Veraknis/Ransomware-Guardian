@@ -1,5 +1,145 @@
 [
     {
+        "post_title": "Asia Condominium Association",
+        "discovered": "2025-11-29 19:25:23.836148",
+        "description": "Real Estate",
+        "link": "/site/view?uuid=2fffeac9-2164-30b1-b5c8-00b54c94e98a",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Bomchil",
+        "discovered": "2025-11-29 19:25:22.761543",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/view?uuid=9416311f-7129-38c6-9b3d-55836cb51e4b",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Rasen Insaat Ve Yatirim Ticaret A.S.",
+        "discovered": "2025-11-29 16:25:56.447211",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/33",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/Rasen Insaat Ve Yatirim Ticaret AS.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Badan Pengelola Keuangan Haji",
+        "discovered": "2025-11-29 16:25:55.461095",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/32",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/Badan Pengelola Keuangan Haji.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Neighborhood Hotel",
+        "discovered": "2025-11-29 16:25:53.476352",
+        "description": "The Neighborhood Hotel offers apartment-style accommodations for both long and short-term stays in Chicago and Southwest...",
+        "link": "/post/5",
+        "magnet": null,
+        "screen": null,
+        "group_name": "root",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "GuestTek",
+        "discovered": "2025-11-29 16:25:42.432024",
+        "description": "",
+        "link": "/article/7861298b-ba53-482e-9c9f-1a8ea73560af",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/GuestTek.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Advantage 360",
+        "discovered": "2025-11-29 16:25:41.111511",
+        "description": "",
+        "link": "/article/557b56ee-eb32-47c7-82f6-df6bca2a57c8",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/Advantage 360.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "iqs",
+        "discovered": "2025-11-29 16:25:40.185074",
+        "description": "",
+        "link": "/article/cf4c4631-df18-4c55-9dae-ecba8638a992",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/iqs.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LMG Holdings",
+        "discovered": "2025-11-29 16:25:39.141382",
+        "description": "",
+        "link": "/article/56f7928c-c522-4499-9292-4ccf5de6a25f",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/LMG Holdings.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "EnQuest",
+        "discovered": "2025-11-29 16:25:38.182232",
+        "description": "",
+        "link": "/article/f0d60086-fec6-42af-a4ae-185c1e1d10e6",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/EnQuest.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Calmec",
+        "discovered": "2025-11-29 16:25:37.144099",
+        "description": "",
+        "link": "/article/338eae6f-62e4-42df-b38a-28bd54987cb9",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/Calmec.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "typecaseinc",
+        "discovered": "2025-11-29 16:25:36.224605",
+        "description": "",
+        "link": "/article/db746ab1-79d6-4fc6-8e75-07ebe37f26b7",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/typecaseinc.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "asiawba",
+        "discovered": "2025-11-29 16:25:34.780031",
+        "description": "",
+        "link": "/article/f94cf4f3-7164-43a6-8feb-346cb3b6d83a",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/asiawba.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vviewisd.net",
+        "discovered": "2025-11-29 16:25:32.941833",
+        "description": "",
+        "link": "/blog/disclosures/691df65de1a4e4b3ff666b83",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/vviewisdnet.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "8200 Unit corpses",
         "discovered": "2025-11-29 12:25:25.992230",
         "description": "WANTED – $10,000 REWARD Ron Weinberg Email: ron.wnbrg@gmail.com Phone: +972 53 279 0256 Ron Weinberg is currently under investigation. He is an experienced cyber security and network research specialist, formerly Head of Cyber Security and Network Research at the IDF 8200 Unit (“Aham Sh’hakim”). Weinberg possesses extensive knowledge in cyber security, network protocols, technological research,…",
@@ -38,85 +178,5 @@
         "screen": "screenshots/qilin/Williamson County, TX.png",
         "group_name": "qilin",
         "sector": "Government"
-    },
-    {
-        "post_title": "Zoya",
-        "discovered": "2025-11-28 19:24:40.346796",
-        "description": "Business Services",
-        "link": "/site/view?uuid=7cdb3168-bb19-39f9-9b9a-a88df450f0a1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Zoya.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Weiss",
-        "discovered": "2025-11-28 19:24:39.373200",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=b3f434d9-fbd3-30c7-ac83-6e458c7ef864",
-        "magnet": null,
-        "screen": "screenshots/qilin/Weiss.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kleber and Associates",
-        "discovered": "2025-11-28 19:24:38.382055",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=297dbf90-af5a-3628-8c38-6b2b195086ba",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kleber and Associates.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Lone Rock Timber",
-        "discovered": "2025-11-28 17:24:44.620500",
-        "description": "Lone Rock is a timber company.We are ready to upload 25GB files of corporate documents such as:personal employee data, financials, agreements and contracts, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Morton LTC, Reed Pope Law, American Public Television, Benchmark Connector, Radtke Contrac",
-        "discovered": "2025-11-28 17:24:43.594612",
-        "description": "We obtained about 22gb of the following companies: Morton LTC Home specializes in providing pharmacy solutions tailored for long term care providers.Reed Pope is a leading business law firm based in Victoria, British Columbia, specializing in business law, land development, and real estate law.American Public Television (APT) is a distributor of public television programming that has introduced iconic shows and personalities such as Julia Child and Fred Rogers.LBenchmark Connector Corporation specializes in providing high-quality connectors for various industries, including military and aerospace applications.Radtke Contractors specializes in pile driving, marine and excavating contracting, their varied experience in snow removal, bridge, and railroad construction allows us to complete a wide range ofprojects in commercial, municipal and residential construction markets.You will find personal employees and customer information, lots of projects, agreements and contracts and other sensitive files. Some cases contain legal confidential files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Casting House",
-        "discovered": "2025-11-28 17:24:42.635849",
-        "description": "Casting House is a full-service custom jewelry manufacturing company that provides jewelers and designers with access to manufacturing solutions that will help grow their inventory.We are ready to upload 10GB files of corporate documents such as:personal employee data, financials, agreements and contracts, confidential files, credit card details, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Parrish Tire",
-        "discovered": "2025-11-28 17:24:41.644070",
-        "description": "Parrish Tire Company is one of the largest tire dealers in the Southeast, operating wholesale, retail, and commercial truck tire centers in NC, SC, VA, GA, and OH.We are ready to upload 10GB files of corporate documents such as:personal employee data, client data (~150 credit cards details, and other information), financials, agreements and contracts, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Panini Kabob Grill",
-        "discovered": "2025-11-28 17:24:40.595354",
-        "description": "Panini Kabob Grill specializes in preparing fresh and healthier Mediterranean food using high-quality ingredients in a scratch kitchen.We are ready to upload 60GB files of corporate documents such as:detailed personal employee information (SSN, DLs, passport, photo, phone, emails and so on), credit cards, detailed financials, agreements and contracts, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
     }
 ]
