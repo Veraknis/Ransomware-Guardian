@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Division 10",
+        "discovered": "2025-11-30 13:25:14.799129",
+        "description": "Division 10 Inc is a company based in Memphis, Tennessee, specializing in supplying specialty products to the construction industry since 1989. They offer servi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Battaglioli",
         "discovered": "2025-11-30 08:25:31.920465",
         "description": "Industrial Machinery & Equipment",
@@ -188,25 +198,5 @@
         "screen": "screenshots/inc ransom/vviewisdnet.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "8200 Unit corpses",
-        "discovered": "2025-11-29 12:25:25.992230",
-        "description": "WANTED – $10,000 REWARD Ron Weinberg Email: ron.wnbrg@gmail.com Phone: +972 53 279 0256 Ron Weinberg is currently under investigation. He is an experienced cyber security and network research specialist, formerly Head of Cyber Security and Network Research at the IDF 8200 Unit (“Aham Sh’hakim”). Weinberg possesses extensive knowledge in cyber security, network protocols, technological research,…",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=551",
-        "magnet": null,
-        "screen": "screenshots/handala/8200 Unit corpses.png",
-        "group_name": "handala",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Dr. Isaac Gertz – Chief Nuclear Architect of the Zion Regime",
-        "discovered": "2025-11-29 10:24:59.212357",
-        "description": "Dr. Isaac Gertz, By now, you have surely felt it, the subtle shift in the air around you. The moment when an ordinary day becomes… wrong. The first $10,000 required for deep-field infiltration and extraction of classified intelligence has been deployed. Funds are moving. People are moving. Shadows are moving. All in directions you never…",
-        "link": "https://handala-hack.to/dr-isaac-gertz-chief-nuclear-architect-of-the-zion-regime/",
-        "magnet": null,
-        "screen": "screenshots/handala/Dr Isaac Gertz – Chief Nuclear Architect of the Zion Regime.png",
-        "group_name": "handala",
-        "sector": "Energy"
     }
 ]
