@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Veton Ai",
+        "discovered": "2025-11-30 16:25:01.125429",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=8ed8e01e-7dec-31c5-b5f0-1ae3532a6c8d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Veton Ai.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ILCA Targhe s.r.l.",
+        "discovered": "2025-11-30 16:24:59.680967",
+        "description": "Business Services",
+        "link": "/site/view?uuid=3a47cbf8-d029-3df4-8c24-78acb14e0126",
+        "magnet": null,
+        "screen": "screenshots/qilin/ILCA Targhe srl.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Division 10",
         "discovered": "2025-11-30 13:25:14.799129",
         "description": "Division 10 Inc is a company based in Memphis, Tennessee, specializing in supplying specialty products to the construction industry since 1989. They offer servi...",
@@ -57,146 +77,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Chenango Valley Technologies.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Asia Condominium Association",
-        "discovered": "2025-11-29 19:25:23.836148",
-        "description": "Real Estate",
-        "link": "/site/view?uuid=2fffeac9-2164-30b1-b5c8-00b54c94e98a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Asia Condominium Association.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Bomchil",
-        "discovered": "2025-11-29 19:25:22.761543",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=9416311f-7129-38c6-9b3d-55836cb51e4b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bomchil.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Rasen Insaat Ve Yatirim Ticaret A.S.",
-        "discovered": "2025-11-29 16:25:56.447211",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/33",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Rasen Insaat Ve Yatirim Ticaret AS.png",
-        "group_name": "blackshrantac",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Badan Pengelola Keuangan Haji",
-        "discovered": "2025-11-29 16:25:55.461095",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/32",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/Badan Pengelola Keuangan Haji.png",
-        "group_name": "blackshrantac",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Neighborhood Hotel",
-        "discovered": "2025-11-29 16:25:53.476352",
-        "description": "The Neighborhood Hotel offers apartment-style accommodations for both long and short-term stays in Chicago and Southwest...",
-        "link": "/post/5",
-        "magnet": null,
-        "screen": null,
-        "group_name": "root",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "GuestTek",
-        "discovered": "2025-11-29 16:25:42.432024",
-        "description": "",
-        "link": "/article/7861298b-ba53-482e-9c9f-1a8ea73560af",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/GuestTek.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Advantage 360",
-        "discovered": "2025-11-29 16:25:41.111511",
-        "description": "",
-        "link": "/article/557b56ee-eb32-47c7-82f6-df6bca2a57c8",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/Advantage 360.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "iqs",
-        "discovered": "2025-11-29 16:25:40.185074",
-        "description": "",
-        "link": "/article/cf4c4631-df18-4c55-9dae-ecba8638a992",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/iqs.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LMG Holdings",
-        "discovered": "2025-11-29 16:25:39.141382",
-        "description": "",
-        "link": "/article/56f7928c-c522-4499-9292-4ccf5de6a25f",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/LMG Holdings.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EnQuest",
-        "discovered": "2025-11-29 16:25:38.182232",
-        "description": "",
-        "link": "/article/f0d60086-fec6-42af-a4ae-185c1e1d10e6",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/EnQuest.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Calmec",
-        "discovered": "2025-11-29 16:25:37.144099",
-        "description": "",
-        "link": "/article/338eae6f-62e4-42df-b38a-28bd54987cb9",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/Calmec.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "typecaseinc",
-        "discovered": "2025-11-29 16:25:36.224605",
-        "description": "",
-        "link": "/article/db746ab1-79d6-4fc6-8e75-07ebe37f26b7",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/typecaseinc.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "asiawba",
-        "discovered": "2025-11-29 16:25:34.780031",
-        "description": "",
-        "link": "/article/f94cf4f3-7164-43a6-8feb-346cb3b6d83a",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/asiawba.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vviewisd.net",
-        "discovered": "2025-11-29 16:25:32.941833",
-        "description": "",
-        "link": "/blog/disclosures/691df65de1a4e4b3ff666b83",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/vviewisdnet.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
