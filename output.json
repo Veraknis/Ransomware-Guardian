@@ -1,11 +1,61 @@
 [
     {
+        "post_title": "Battaglioli",
+        "discovered": "2025-11-30 08:25:31.920465",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=fa1557cb-0588-3004-890e-6b87b6697283",
+        "magnet": null,
+        "screen": "screenshots/qilin/Battaglioli.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Surana Brothers",
+        "discovered": "2025-11-29 23:25:11.653307",
+        "description": "Surana Brothers has been an established Diamond Jewellery Manufacturer for over 16 years, while our founders have had ov...",
+        "link": "/post/6",
+        "magnet": null,
+        "screen": null,
+        "group_name": "root",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TBC Consoles",
+        "discovered": "2025-11-29 20:25:27.151143",
+        "description": "Furniture",
+        "link": "/site/view?uuid=c9d2ba19-6aa1-3087-8773-f63d023179ed",
+        "magnet": null,
+        "screen": "screenshots/qilin/TBC Consoles.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CJW",
+        "discovered": "2025-11-29 20:25:25.673744",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=60ea8de3-c528-334e-9115-25551e8fcfce",
+        "magnet": null,
+        "screen": "screenshots/qilin/CJW.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Chenango Valley Technologies",
+        "discovered": "2025-11-29 20:25:24.645153",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=5a4cfe13-c4b0-3bf1-9217-7fd1212210c9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Chenango Valley Technologies.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Asia Condominium Association",
         "discovered": "2025-11-29 19:25:23.836148",
         "description": "Real Estate",
         "link": "/site/view?uuid=2fffeac9-2164-30b1-b5c8-00b54c94e98a",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Asia Condominium Association.png",
         "group_name": "qilin",
         "sector": "Real Estate"
     },
@@ -15,7 +65,7 @@
         "description": "Electricity, Oil & Gas",
         "link": "/site/view?uuid=9416311f-7129-38c6-9b3d-55836cb51e4b",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Bomchil.png",
         "group_name": "qilin",
         "sector": "Energy"
     },
@@ -158,25 +208,5 @@
         "screen": "screenshots/handala/Dr Isaac Gertz – Chief Nuclear Architect of the Zion Regime.png",
         "group_name": "handala",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Everbiz Industrial Co. Ltd.",
-        "discovered": "2025-11-29 03:25:05.488470",
-        "description": "www.everbiz.com.tw https://www.zoominfo.com/c/everbiz-industrial-co-ltd/456233474 Since that time, we have manufactured thousands of assemblies for a wide variety of industrial. Many biggest 1000 companies have come to rely on our unique process to fulfill their requirements. This diverse manufacturing capability has made it possible for us to provide competitive and high quality solutions to virtually any industry. Every product we manufacture is built to our customer exact specifications and the entire process is certified in writing. The company has ISO 9001, ISO 14001, AS9100D, IATF 16949, IPC-A-620 QML and UL certification. We also follow IPC/WHMA-A-620 standard.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Williamson County, TX",
-        "discovered": "2025-11-28 21:24:55.156383",
-        "description": "Government",
-        "link": "/site/view?uuid=bc9809f4-7c8e-342c-b3c8-63e95a60fa44",
-        "magnet": null,
-        "screen": "screenshots/qilin/Williamson County, TX.png",
-        "group_name": "qilin",
-        "sector": "Government"
     }
 ]
