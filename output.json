@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "Industrial Steam",
+        "discovered": "2025-12-01 19:26:35.706486",
+        "description": "",
+        "link": "/r/113dfe9fb59c2b9b877cf7a7de13f2c604ea44cb",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Industrial Steam.png",
+        "group_name": "ransomhouse",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "San Miguel",
+        "discovered": "2025-12-01 19:26:33.200928",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=2a1edb69-0a73-3c06-b32a-dcca2d587014",
+        "magnet": null,
+        "screen": "screenshots/qilin/San Miguel.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "France terre d'asile",
+        "discovered": "2025-12-01 19:26:32.006554",
+        "description": "Education",
+        "link": "/site/view?uuid=676cc81f-c6a4-3e34-bdbe-e86099fe1f3c",
+        "magnet": null,
+        "screen": "screenshots/qilin/France terre d'asile.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "B dynamic",
+        "discovered": "2025-12-01 19:26:30.337741",
+        "description": "Business Services",
+        "link": "/site/view?uuid=b62430d6-1f48-3ca7-92f8-c3737f147f92",
+        "magnet": null,
+        "screen": "screenshots/qilin/B dynamic.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HASCO Hasenclever",
+        "discovered": "2025-12-01 18:26:51.480038",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=9d9b8acd-ecc1-3d66-b7b1-7c029bca1270",
+        "magnet": null,
+        "screen": "screenshots/qilin/HASCO Hasenclever.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Virtualware Solutions",
+        "discovered": "2025-12-01 18:26:50.441076",
+        "description": "Business Services",
+        "link": "/site/view?uuid=f91b2135-cff8-3d34-ab06-7dc0e5c6e276",
+        "magnet": null,
+        "screen": "screenshots/qilin/Virtualware Solutions.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "millerwoodtradepub.com",
+        "discovered": "2025-12-01 18:26:49.237224",
+        "description": "",
+        "link": "/blog/disclosures/691de288e1a4e4b3ff652fe3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/millerwoodtradepubcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,",
+        "discovered": "2025-12-01 18:26:47.732830",
+        "description": "We obtained about 17gb of the following companies:Wisconsin Knife Works is a leader in tooling and precision manufacturing of woodworking cutting tools, backed by over 90 years of experience. Smith Companies, Ltd. is a Boston-based firm specializing in unbiased and sophisticated advanced planning solutions that effectively incorporate life insurance into clients' overall financial strategies.EnviroTech Services, Inc. specializes in developing superior roadand surface solutions to manage all environments; both natural and man-made.Next Generation Logistics, Inc. specializes in advanced transportation management solutions and services, leveraging over 35 yearsof expertise in the logistics industry. Security First Bank is dedicated to providing comprehensive banking services that prioritize customer satisfaction.You will find personal employee personal data, client information, numerous project files, accounting and financials and other internal operational files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Abdulhadi Hospital",
+        "discovered": "2025-12-01 16:26:41.585580",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "newhorizonsmedical.org",
+        "discovered": "2025-12-01 16:26:40.623146",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.eastersealsnei.org",
+        "discovered": "2025-12-01 16:26:39.595957",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "m*tt**ca**r**.**.it",
+        "discovered": "2025-12-01 16:26:38.638715",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "c*a*c*.c*m",
+        "discovered": "2025-12-01 16:26:37.657848",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "a*f*o.us",
+        "discovered": "2025-12-01 16:26:36.716446",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.enea.com",
+        "discovered": "2025-12-01 16:26:34.631551",
+        "description": "",
+        "link": "/blog/disclosures/692da417e1a4e4b3ff4ef0de",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwweneacom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cleveland Construction",
+        "discovered": "2025-12-01 16:26:33.140857",
+        "description": "Cleveland Construction is a family-owned commercial contractor specializing in construction management and self-performing interior trades.We are ready to upload 12GB of corporate documents such as: very detailed employee information (about 1500 SSNs, passports, addresses, phones, emails, driver licenses and so on), contracts and agreements, projects and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Martin",
+        "discovered": "2025-12-01 16:26:32.087816",
+        "description": "Martin & Company is a leader in tech-enabled insurance solutions,providing a comprehensive suite of services designed for insurance carriers and managing general agents (MGAs).We are ready to upload 46GB of corporate documents such as: employee information (passport, driver licenses and os on), client information, contracts and agreements, confidential files, projects and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Astrofein",
         "discovered": "2025-12-01 15:27:09.296362",
         "description": "",
@@ -148,25 +318,5 @@
         "screen": null,
         "group_name": "anubis",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Veton Ai",
-        "discovered": "2025-11-30 16:25:01.125429",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=8ed8e01e-7dec-31c5-b5f0-1ae3532a6c8d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Veton Ai.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ILCA Targhe s.r.l.",
-        "discovered": "2025-11-30 16:24:59.680967",
-        "description": "Business Services",
-        "link": "/site/view?uuid=3a47cbf8-d029-3df4-8c24-78acb14e0126",
-        "magnet": null,
-        "screen": "screenshots/qilin/ILCA Targhe srl.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
