@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Clínica Villa Zaita",
+        "discovered": "2025-12-02 07:26:31.099366",
+        "description": "Clínica Villa Zaita is a private medical clinic in Panama City located at Vía Transístmica, Centro Comercial Omni / Plaza Zai               ....",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ciphbit",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "oxfordshop.com.au",
+        "discovered": "2025-12-02 03:26:54.802430",
+        "description": "",
+        "link": "/blog/disclosures/692e293ee1a4e4b3ff590b2d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/oxfordshopcomau.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "University Loft",
+        "discovered": "2025-12-01 20:27:30.821758",
+        "description": "",
+        "link": "topic.php?id=Eoe8nhgd71jKE1",
+        "magnet": null,
+        "screen": "screenshots/play/University Loft.png",
+        "group_name": "play",
+        "sector": "Education"
+    },
+    {
+        "post_title": "PHA Body Systems",
+        "discovered": "2025-12-01 20:27:29.872708",
+        "description": "",
+        "link": "topic.php?id=S2NpGi6yalxcR",
+        "magnet": null,
+        "screen": "screenshots/play/PHA Body Systems.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "South Island Public Service District",
+        "discovered": "2025-12-01 20:27:28.873538",
+        "description": "",
+        "link": "topic.php?id=fkqdmCArZK0F2Q",
+        "magnet": null,
+        "screen": "screenshots/play/South Island Public Service District.png",
+        "group_name": "play",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Clark & Sullivan Constructors",
+        "discovered": "2025-12-01 20:27:27.890985",
+        "description": "",
+        "link": "topic.php?id=TTcEKQcSigWO0b",
+        "magnet": null,
+        "screen": "screenshots/play/Clark & Sullivan Constructors.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hall Aluminum Products",
+        "discovered": "2025-12-01 20:27:26.896902",
+        "description": "",
+        "link": "topic.php?id=ufU6FnhKV2CF57",
+        "magnet": null,
+        "screen": "screenshots/play/Hall Aluminum Products.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aspen Distribution",
+        "discovered": "2025-12-01 20:27:25.885895",
+        "description": "",
+        "link": "topic.php?id=GZ6k0ZFNoTHiah",
+        "magnet": null,
+        "screen": "screenshots/play/Aspen Distribution.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Industrial Steam",
         "discovered": "2025-12-01 19:26:35.706486",
         "description": "",
@@ -298,25 +378,5 @@
         "screen": "screenshots/genesis/Curtis Investment Group, Inc.png",
         "group_name": "genesis",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Hollysys Asia Pacific",
-        "discovered": "2025-12-01 08:25:59.244369",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fun For Less Tours",
-        "discovered": "2025-12-01 02:25:12.079912",
-        "description": "Customer passports and personal data.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/caM4jgcJ8ENBHxO2lXxJB5e4aPQ10vdCv0E85iD3M8ZgGyREQCrF3qtQR+ywlhdHYroY45UNG7ERgDTQNRobQ2U5MVhWY09t",
-        "magnet": null,
-        "screen": null,
-        "group_name": "anubis",
-        "sector": "Technology"
     }
 ]
