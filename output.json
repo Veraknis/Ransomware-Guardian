@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "[EVIDENCE PACK 3]ASKUL",
+        "discovered": "2025-12-02 15:26:41.408487",
+        "description": "",
+        "link": "/r/9fb785f05b8dca8f1ce206fe1db3a0a3a0583fbc",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[EVIDENCE PACK 3]ASKUL.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "American Pools & Spas",
+        "discovered": "2025-12-02 15:26:38.780036",
+        "description": "",
+        "link": "/blog/disclosures/692ec052e1a4e4b3ff61dc31",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/American Pools & Spas.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.precipiodx.com",
+        "discovered": "2025-12-02 15:26:37.851947",
+        "description": "",
+        "link": "/blog/disclosures/692ee851e1a4e4b3ff64970c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwprecipiodxcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ziglin Signs",
+        "discovered": "2025-12-02 15:26:36.184726",
+        "description": "Ziglin Signs Inc operates as a full-service custom signage provider delivering comprehensive visual communication solutions to businesses throughout the Midwest. The company specializes in designing and fabricating signage that establishes strong brand presence and professional identity for organizations ranging from independent local enterprises to multi-location franchise operations.We are ready to upload corporate documents such as: detailed employee information (passports, driver licenses, SSNs, addresses, phones, emails, medical information, credit cards details and os on), a bit of client information, contracts and agreements, confidentiality agreements, projects and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "n*w*****.com",
+        "discovered": "2025-12-02 14:27:08.605191",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ravand.com",
+        "discovered": "2025-12-02 14:27:07.572420",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dynamic Capital",
+        "discovered": "2025-12-02 13:26:25.614893",
+        "description": "Dynamic Capital was founded by industry veterans that wanted to improve the entire lending experience for small business...",
+        "link": "/post/7",
+        "magnet": null,
+        "screen": null,
+        "group_name": "root",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tlusty & Kennedy",
+        "discovered": "2025-12-02 13:26:13.020639",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=1417454f-efd2-3afa-89fa-c051877c8e9d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tlusty & Kennedy.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Mobilelink USA",
+        "discovered": "2025-12-02 12:27:34.665677",
+        "description": "Mobilelink USA is a private Cricket Wireless company that deals in providing unlimited 5G LTE services and state of the art devices with an understanding of wh...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Capital Star Oil & Gas Inc.",
+        "discovered": "2025-12-02 12:27:33.634082",
+        "description": "Capital Star Oil & Gas, Inc. is a small independent oil & gas company based in Houston, Texas. Most of drilling activities are financed through private placemen...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Cleveland County Sheriff's Office",
+        "discovered": "2025-12-02 10:26:36.419853",
+        "description": "Cleveland County Sheriff's Office\nThe Cleveland County Sheriffs Office (CCSO) provides law enforcement services to the Cleveland County community, focusing on protecting citizens and serving with compassion.\n\n\n\nMore",
+        "link": "archive.php?company=235",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Cleveland County Sheriff's Office.png",
+        "group_name": "rhysida",
+        "sector": "Government"
+    },
+    {
         "post_title": "Clínica Villa Zaita",
         "discovered": "2025-12-02 07:26:31.099366",
         "description": "Clínica Villa Zaita is a private medical clinic in Panama City located at Vía Transístmica, Centro Comercial Omni / Plaza Zai               ....",
@@ -248,135 +358,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Astrofein",
-        "discovered": "2025-12-01 15:27:09.296362",
-        "description": "",
-        "link": "/r/3886ede81e320833ef491aad76b9dc007e96c052",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Astrofein.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Soderstrom Architects, LTD",
-        "discovered": "2025-12-01 15:27:08.349535",
-        "description": "",
-        "link": "/r/dfb6a5230521e0e2d6ed507c5a56c691d0b2bec6",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Soderstrom Architects, LTD.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Abhe & Svoboda",
-        "discovered": "2025-12-01 14:26:39.324792",
-        "description": "Abhe & Svoboda, Inc. is a full-service restoration contractor. Inaddition to offering a full range of industrial coatings services, our core competencies also include a variety of related construction services, such as concrete repair, and steel repair and replacement.We are ready to upload 82GB of corporate documents such as: Detailed personal employee information (passports, DLs, SSNs, addresses, emails, phones, medical information, credit cards), client information, projects, agreements and contracts, other internal documents.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Goldenrod",
-        "discovered": "2025-12-01 14:26:38.288433",
-        "description": "Goldenrod has been designing and manufacturing industry-leading differential winding shafts, multiple bladder air shafts, lightweight aluminum and carbon fiber shafts, reel spools, chucks, and safety chucks for processors in the North American paper, film, foil, and non-woven converting industries.We are ready to upload 12GB of corporate documents such as: financial files, payment details, invoices and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "TUAN LE Construction Company Limited",
-        "discovered": "2025-12-01 13:26:24.538520",
-        "description": "Files Marked Confidential download - https://upload.disroot.org/r/SBnd9KFH#Qjphic5O+R3JHDSY7tW+9iZ/WkjIgplsCqMrx7v29ws=",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Innomotive SolutionsGroup",
-        "discovered": "2025-12-01 13:26:21.782877",
-        "description": "Innomotive Solutions Group is a North American leader specializing in high-quality roll-up doors, LED lighting, and power lifting systems for trucks and specialty vehicles.We are ready to upload 10GB of corporate documents such as: Personal employee information (passport, phones, emails and so on), financials, client data, projects, agreements and contracts, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MD Manouel InsuranceAgency",
-        "discovered": "2025-12-01 13:26:20.777002",
-        "description": "S&R Insurance Services Inc. is a reputable insurance agency located in Rancho Cucamonga, California, specializing in a wide range of insurance products such as auto, home, commercial, life, umbrella, and health insurance.We are ready to upload more than 30GB of corporate documents suchas: Personal employee information, client data, projects, agreements and contracts, other internal documents.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "bpost",
-        "discovered": "2025-12-01 10:25:31.192524",
-        "description": "",
-        "link": "/article/efbc8b1a-22e9-4a7f-958a-1f37c0ec9cc4",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/bpost.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rose Displays",
-        "discovered": "2025-12-01 09:25:36.886052",
-        "description": "A division of Visual Creations Ink",
-        "link": "/cc64116db0631ced457d/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Rose Displays.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Petro Environmental.",
-        "discovered": "2025-12-01 09:25:35.889041",
-        "description": "A company that offers a range of environmental services",
-        "link": "/744f3dacaef74d940168/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Petro Environmental.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Data Enterprises of the Northwest.",
-        "discovered": "2025-12-01 09:25:34.901022",
-        "description": "A company that offers the Automated Tool Inventory Control and Tracking System (ATICTS)",
-        "link": "/5668ed034cdfa9bcbcb7/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Data Enterprises of the Northwest.png",
-        "group_name": "genesis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "PJSI Consultants SDN BHD.",
-        "discovered": "2025-12-01 09:25:33.931159",
-        "description": "An architect and designer of a numerous public and private sector projects.",
-        "link": "/47b96c94c6b285785eea/",
-        "magnet": null,
-        "screen": "screenshots/genesis/PJSI Consultants SDN BHD.png",
-        "group_name": "genesis",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Curtis Investment Group, Inc.",
-        "discovered": "2025-12-01 09:25:32.873088",
-        "description": "A full service real estate concern",
-        "link": "/034516db93aa72827fb5/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Curtis Investment Group, Inc.png",
-        "group_name": "genesis",
-        "sector": "Finance"
     }
 ]
