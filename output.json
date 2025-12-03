@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Armis Group",
+        "discovered": "2025-12-03 15:25:33.091049",
+        "description": "",
+        "link": "/r/5a74c257d2eff7518c2bddc1285b1f7521b82d3f",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Armis Group.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "instyle.com.au",
+        "discovered": "2025-12-03 15:25:30.443726",
+        "description": "",
+        "link": "/blog/disclosures/692fb849e1a4e4b3ff71c0dc",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/instylecomau.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bisonfamilymedical.com",
+        "discovered": "2025-12-03 15:25:29.445419",
+        "description": "",
+        "link": "/blog/disclosures/692fc85ae1a4e4b3ff72d8e2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/bisonfamilymedicalcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eggelhof",
+        "discovered": "2025-12-03 15:25:27.910507",
+        "description": "Eggelhof Inc is a Houston-based company established in 1926, specializing in engineering products such as filtration and water treatment, piping and plant equipment, and steam specialties.We are ready to upload 67gb of corporate data. Projects, employeeinformation (DOB, phones, addresses and so on), agreements and contracts, financials, client information, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "LA Injury Attorneys",
+        "discovered": "2025-12-03 14:25:29.245486",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=13c692ba-da29-3029-b2c8-eb803f926baa",
+        "magnet": null,
+        "screen": "screenshots/qilin/LA Injury Attorneys.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Brodosplit",
+        "discovered": "2025-12-03 14:25:28.309804",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=4356a595-c7cc-36ac-8f4e-e80142bd72c2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Brodosplit.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "City of Urbana",
+        "discovered": "2025-12-03 14:25:27.293591",
+        "description": "Government",
+        "link": "/site/view?uuid=370a59a3-61a9-3870-b81a-5351f7a65356",
+        "magnet": null,
+        "screen": "screenshots/qilin/City of Urbana.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "NUMALLIANCE",
+        "discovered": "2025-12-03 14:25:26.288727",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=dafff85d-3f8b-343d-bc4c-8581e6fb814d",
+        "magnet": null,
+        "screen": "screenshots/qilin/NUMALLIANCE.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Rouse Frets White Goss Gentile Rhodes",
+        "discovered": "2025-12-03 14:25:24.603754",
+        "description": "On September 30, 2018, the law firms of Rouse Frets Gentile Rhodes, LLC and White Goss, P.C. merged and became Rouse Frets White Goss Gentile Rhodes, P.C.We are ready to upload 87gb of corporate documents such as: detailed personal information clients and employees (SSNs, passports, driver licenses, addresses, phones, emails and so on), lots of confidential legal documents, court hearings, police reports, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Wynn & Wynn",
+        "discovered": "2025-12-03 14:25:23.588427",
+        "description": "Wynn Wynn, P.C. is a general practice law firm based in Southeastern Massachusetts, offering a wide array of legal services including personal injury, family law, business litigation, criminal law, and real estate among others.We are ready to upload 12gb of corporate data. Another one law firm that doesn't case of their clients' personal information. You can find detailed clients' personal information (SSNs, passports,driver licenses, addresses, phones, emails and so on), court cases files, court hearings, police reports, incident reports, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Fuji Vegetable Oil",
+        "discovered": "2025-12-03 14:25:22.588742",
+        "description": "Fuji Vegetable Oil Inc. specializes in the development and supplyof plant-based fats, oils, and shortening for the bakery, confectionery, and food processor markets.We are ready to upload 16gb of corporate data. Employee information, projects, financials, customer information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Basra Transports",
         "discovered": "2025-12-03 05:27:08.787793",
         "description": "Basra Transports is a transportation and logistics company that handles freight transportation across North America, including the United States and Canada.\n514...",
@@ -248,115 +358,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "[EVIDENCE PACK 3]ASKUL",
-        "discovered": "2025-12-02 15:26:41.408487",
-        "description": "",
-        "link": "/r/9fb785f05b8dca8f1ce206fe1db3a0a3a0583fbc",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[EVIDENCE PACK 3]ASKUL.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "American Pools & Spas",
-        "discovered": "2025-12-02 15:26:38.780036",
-        "description": "",
-        "link": "/blog/disclosures/692ec052e1a4e4b3ff61dc31",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/American Pools & Spas.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.precipiodx.com",
-        "discovered": "2025-12-02 15:26:37.851947",
-        "description": "",
-        "link": "/blog/disclosures/692ee851e1a4e4b3ff64970c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwprecipiodxcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ziglin Signs",
-        "discovered": "2025-12-02 15:26:36.184726",
-        "description": "Ziglin Signs Inc operates as a full-service custom signage provider delivering comprehensive visual communication solutions to businesses throughout the Midwest. The company specializes in designing and fabricating signage that establishes strong brand presence and professional identity for organizations ranging from independent local enterprises to multi-location franchise operations.We are ready to upload corporate documents such as: detailed employee information (passports, driver licenses, SSNs, addresses, phones, emails, medical information, credit cards details and os on), a bit of client information, contracts and agreements, confidentiality agreements, projects and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "n*w*****.com",
-        "discovered": "2025-12-02 14:27:08.605191",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ravand.com",
-        "discovered": "2025-12-02 14:27:07.572420",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dynamic Capital",
-        "discovered": "2025-12-02 13:26:25.614893",
-        "description": "Dynamic Capital was founded by industry veterans that wanted to improve the entire lending experience for small business...",
-        "link": "/post/7",
-        "magnet": null,
-        "screen": null,
-        "group_name": "root",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Tlusty & Kennedy",
-        "discovered": "2025-12-02 13:26:13.020639",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=1417454f-efd2-3afa-89fa-c051877c8e9d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tlusty & Kennedy.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Mobilelink USA",
-        "discovered": "2025-12-02 12:27:34.665677",
-        "description": "Mobilelink USA is a private Cricket Wireless company that deals in providing unlimited 5G LTE services and state of the art devices with an understanding of wh...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Capital Star Oil & Gas Inc.",
-        "discovered": "2025-12-02 12:27:33.634082",
-        "description": "Capital Star Oil & Gas, Inc. is a small independent oil & gas company based in Houston, Texas. Most of drilling activities are financed through private placemen...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Cleveland County Sheriff's Office",
-        "discovered": "2025-12-02 10:26:36.419853",
-        "description": "Cleveland County Sheriff's Office\nThe Cleveland County Sheriffs Office (CCSO) provides law enforcement services to the Cleveland County community, focusing on protecting citizens and serving with compassion.\n\n\n\nMore",
-        "link": "archive.php?company=235",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Cleveland County Sheriff's Office.png",
-        "group_name": "rhysida",
-        "sector": "Government"
     }
 ]
