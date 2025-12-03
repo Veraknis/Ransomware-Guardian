@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Golden Artist Colors",
+        "discovered": "2025-12-03 19:25:50.743006",
+        "description": "A major manufacturer of art materials for professional artists and designers: acrylic paints, oils, watercolors, pastels and other media/materials.",
+        "link": "/posts/69304a2712ae859f49fe6911",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/Golden Artist Colors.png",
+        "group_name": "nitrogen",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Bo Beuckman Ford",
+        "discovered": "2025-12-03 19:25:46.864438",
+        "description": "Bo Beuckman Ford\nAt Bo Beuckman Ford, we're a family-owned business that's been serving Ellisville and the greater St. Louis community for over five and a half decades.\n\n\n\nMore",
+        "link": "archive.php?company=235",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Bo Beuckman Ford.png",
+        "group_name": "rhysida",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Davis Kitchens, United States",
+        "discovered": "2025-12-03 18:25:15.762538",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mainetti UK",
+        "discovered": "2025-12-03 18:25:05.004890",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=e8bb7a98-4398-3f42-aacb-84716a963a21",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mainetti UK.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CST Coal",
+        "discovered": "2025-12-03 18:25:02.310574",
+        "description": "Business Services",
+        "link": "/site/view?uuid=3ab072f4-0ce1-310b-81ca-9d1a633aac40",
+        "magnet": null,
+        "screen": "screenshots/qilin/CST Coal.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quality Engineered Homes",
+        "discovered": "2025-12-03 18:24:59.978727",
+        "description": "Quality Homes has been building custom homes and cottages across Ontario since 1987. We are ready to upload 35gb of corporate data. Employee information (DLs, phones, addresses and so on), agreements and contracts, detailed financials, client information, projects, disclosure agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pan-O-Gold Baking Company",
+        "discovered": "2025-12-03 18:24:58.960034",
+        "description": "With a rich history dating back to 1906, Pan-O-Gold Baking Company has grown to include three state-of-the-art bakeries, making usone of the top wholesale bakers in the Midwest.We are ready to upload 21gb of corporate data. Employee information (DOB, phones, addresses and so on), agreements and contracts, detailed financials, client information, large amount of internaldocuments.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SUNNYGO.COM.TW",
+        "discovered": "2025-12-03 17:25:21.254297",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "benzona",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Custom Engineered Wheels",
+        "discovered": "2025-12-03 16:25:26.689638",
+        "description": "CEW Inc. specializes in custom injection molding solutions, utilizing advanced technology to produce polyurethane foam products. They offer a diverse range of products, including industrial wheels, medical mobility solutions, and components for bicycles and recreational vehicles.We are ready to upload 65gb of corporate data. Detailed employee information (DOB, phones, addresses, documents scans and so on), agreements and contracts, numerous, confidential files, financials, client information, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Building Controls and Services",
+        "discovered": "2025-12-03 16:25:25.456040",
+        "description": "Building Controls and Services, Inc. (BCS) provides innovative building automation, mechanical equipment, and energy management solutions aimed at creating efficient and comfortable environments for facility owners and managers.We are ready to upload 12gb of corporate data. Detailed employee information (DOB, DLs, SSNs, phones, addresses, documents scans and other docs of at least 212 employees), agreements and contracts, confidential files, detailed financials, client information, disclosure agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Armis Group",
         "discovered": "2025-12-03 15:25:33.091049",
         "description": "",
@@ -177,186 +277,6 @@
         "magnet": null,
         "screen": "screenshots/sinobi/Reading Elevator Service.png",
         "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Petra",
-        "discovered": "2025-12-02 19:27:32.302638",
-        "description": "",
-        "link": "/news/Petra/",
-        "magnet": null,
-        "screen": "screenshots/everest/Petra.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ASUS",
-        "discovered": "2025-12-02 19:27:31.242711",
-        "description": "",
-        "link": "/news/asus/",
-        "magnet": null,
-        "screen": "screenshots/everest/ASUS.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Exegy",
-        "discovered": "2025-12-02 19:27:30.299972",
-        "description": "",
-        "link": "/news/exegy/",
-        "magnet": null,
-        "screen": "screenshots/everest/Exegy.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sarmap",
-        "discovered": "2025-12-02 19:27:29.354904",
-        "description": "",
-        "link": "/news/Sarmap/",
-        "magnet": null,
-        "screen": "screenshots/everest/Sarmap.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EDIS",
-        "discovered": "2025-12-02 19:27:19.629773",
-        "description": "Business Services",
-        "link": "/site/view?uuid=eb61e743-0ef1-31de-89f4-2c332016dd02",
-        "magnet": null,
-        "screen": "screenshots/qilin/EDIS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mr Christmas",
-        "discovered": "2025-12-02 19:27:18.531007",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=c1deea93-ffa0-3858-9f8f-f6478d87280c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mr Christmas.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Moyes",
-        "discovered": "2025-12-02 19:27:17.603029",
-        "description": "Finance",
-        "link": "/site/view?uuid=0563f2c7-a1e5-3106-9345-264ea949d1d3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Moyes.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Garrett Taylor, Dds",
-        "discovered": "2025-12-02 19:27:13.560800",
-        "description": "Taylor & Carter Family Dentistry, located in Pine Bluff, AR, provides personaliz...",
-        "link": "/leaks/692f268e88b6823fa230037e",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Garrett Taylor, Dds.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "noment",
-        "discovered": "2025-12-02 18:27:19.330421",
-        "description": "",
-        "link": "/article/2be17e73-66b6-4073-9c96-62d38a9a8e51",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/noment.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VENZI & PAGANINI AG",
-        "discovered": "2025-12-02 18:27:18.086681",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=5f24c26a-5530-3b69-9e54-301fb1569e32",
-        "magnet": null,
-        "screen": "screenshots/qilin/VENZI & PAGANINI AG.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "GreenBest",
-        "discovered": "2025-12-02 18:27:17.135904",
-        "description": "Business Services",
-        "link": "/site/view?uuid=89259e71-fe09-3658-b26b-44dd62db596e",
-        "magnet": null,
-        "screen": "screenshots/qilin/GreenBest.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Saca Industrie SpA",
-        "discovered": "2025-12-02 18:27:16.073608",
-        "description": "Furniture",
-        "link": "/site/view?uuid=8a7b0159-1480-3b4e-a88e-4792e5521e67",
-        "magnet": null,
-        "screen": "screenshots/qilin/Saca Industrie SpA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Oriental Castle Sdn Bhd",
-        "discovered": "2025-12-02 18:27:15.006169",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=eb66c074-36bd-3c3f-ae94-9d5efa8e8ff0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Oriental Castle Sdn Bhd.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "dakkota.com",
-        "discovered": "2025-12-02 18:27:12.455424",
-        "description": "Founded in 2001, Dakkota Integrated Systems is a manufacturing company that provides a variety of build-to-order manufacturing processes including cockpit, overhead, and fascia systems and more.",
-        "link": "/wNSxNKDCzkZtosjEq9RF3gfyn3Sgiqgr/dakkota-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/dakkotacom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Jewell Engineering",
-        "discovered": "2025-12-02 17:27:06.202375",
-        "description": "Jewell Engineering Inc specializes in providing engineering solutions to all levels of government and the private sector, with a strong focus on municipal engineering.We are ready to upload 14gb of corporate documents such as: employee information (passports, driver licenses and so on), client information, internal confidential files, contracts and agreements,confidentiality agreements, projects and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Toledo Transducers",
-        "discovered": "2025-12-02 17:27:05.221518",
-        "description": "Toledo Integrated Systems specializes in designing and manufacturing press control solutions, tonnage monitors, and load cells. Their product offerings include press controls, material handling control solutions, tonnage monitors, and various calibration services.We are ready to upload corporate documents such as: personal information of all employees (passports, driver licenses, medical tests, and other confidential personal files), detailed customer information (including personal documents), numerous confidential files, contracts and agreements, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Prismier",
-        "discovered": "2025-12-02 17:27:01.365777",
-        "description": "Prismier is a leading vertically-integrated Mechanical Contract Manufacturer (MCM). Service offerings include Design & Engineering, Rapid Prototype thru Production of Sheet Metal Fabrication & Stamping, Plastic Injection Molding, CNC Machining, Die Casting, and Assembly.We are ready to upload 42gb of corporate documents such as: detailed personal information of employees (passports, driver licenses, addresses, phones, emails and so on), customer information, projects, contracts and agreements, numerous NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Immling Festival DER Festspielort im Chiemgau",
-        "discovered": "2025-12-02 17:26:59.626653",
-        "description": "DAS FESTIVAL TEAM\nUmgeben von der schönen Natur des Chiemgau liegt Immling – ein Festspielort, der überrascht.\nBereits die Anreise durch den Wald weckt Neugie...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
         "sector": "Unknown"
     }
 ]
