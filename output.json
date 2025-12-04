@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "ABC Home & Commercial Services",
+        "discovered": "2025-12-04 19:26:09.793525",
+        "description": "ABC Home & Commercial Services is a provider of home and commercial pest control, air conditioning, heating, lawn care and more.We are ready to upload 24gb of corporate data. Employee personal information (passports, DLs, phones, addresses, medical information and so on), financials, contracts and agreements, confidentialfiles and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Medisend",
+        "discovered": "2025-12-04 18:26:25.162071",
+        "description": "Education",
+        "link": "/site/view?uuid=63464cfe-2d0f-332b-b13b-ec61c983e91f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Medisend.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "The Minor Firm",
+        "discovered": "2025-12-04 16:26:44.011874",
+        "description": "The Minor Firm is a premier law firm located in Northwest Georgia, established for over 40 years. They specialize in complex legalmatters, providing superior representation to individual and business clients in areas such as Health Care Law, Human Resources Law, Municipal & Utility Law, Real Estate Transactions, and EstatePlanning.We are ready to upload 63gb of corporate data. Client and employee personal information (Passports, DLs, phones, addresses and so on), court confidential documents, police reports with photos andother legal files, financials and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
         "post_title": "Scientology",
         "discovered": "2025-12-04 15:27:16.327455",
         "description": "Non-Profit & Charitable Organizations",
@@ -148,105 +178,5 @@
         "screen": null,
         "group_name": "devman2",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden Artist Colors",
-        "discovered": "2025-12-03 19:25:50.743006",
-        "description": "A major manufacturer of art materials for professional artists and designers: acrylic paints, oils, watercolors, pastels and other media/materials.",
-        "link": "/posts/69304a2712ae859f49fe6911",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/Golden Artist Colors.png",
-        "group_name": "nitrogen",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Bo Beuckman Ford",
-        "discovered": "2025-12-03 19:25:46.864438",
-        "description": "Bo Beuckman Ford\nAt Bo Beuckman Ford, we're a family-owned business that's been serving Ellisville and the greater St. Louis community for over five and a half decades.\n\n\n\nMore",
-        "link": "archive.php?company=235",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Bo Beuckman Ford.png",
-        "group_name": "rhysida",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Davis Kitchens, United States",
-        "discovered": "2025-12-03 18:25:15.762538",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mainetti UK",
-        "discovered": "2025-12-03 18:25:05.004890",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=e8bb7a98-4398-3f42-aacb-84716a963a21",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mainetti UK.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CST Coal",
-        "discovered": "2025-12-03 18:25:02.310574",
-        "description": "Business Services",
-        "link": "/site/view?uuid=3ab072f4-0ce1-310b-81ca-9d1a633aac40",
-        "magnet": null,
-        "screen": "screenshots/qilin/CST Coal.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quality Engineered Homes",
-        "discovered": "2025-12-03 18:24:59.978727",
-        "description": "Quality Homes has been building custom homes and cottages across Ontario since 1987. We are ready to upload 35gb of corporate data. Employee information (DLs, phones, addresses and so on), agreements and contracts, detailed financials, client information, projects, disclosure agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Pan-O-Gold Baking Company",
-        "discovered": "2025-12-03 18:24:58.960034",
-        "description": "With a rich history dating back to 1906, Pan-O-Gold Baking Company has grown to include three state-of-the-art bakeries, making usone of the top wholesale bakers in the Midwest.We are ready to upload 21gb of corporate data. Employee information (DOB, phones, addresses and so on), agreements and contracts, detailed financials, client information, large amount of internaldocuments.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SUNNYGO.COM.TW",
-        "discovered": "2025-12-03 17:25:21.254297",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "benzona",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Custom Engineered Wheels",
-        "discovered": "2025-12-03 16:25:26.689638",
-        "description": "CEW Inc. specializes in custom injection molding solutions, utilizing advanced technology to produce polyurethane foam products. They offer a diverse range of products, including industrial wheels, medical mobility solutions, and components for bicycles and recreational vehicles.We are ready to upload 65gb of corporate data. Detailed employee information (DOB, phones, addresses, documents scans and so on), agreements and contracts, numerous, confidential files, financials, client information, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Building Controls and Services",
-        "discovered": "2025-12-03 16:25:25.456040",
-        "description": "Building Controls and Services, Inc. (BCS) provides innovative building automation, mechanical equipment, and energy management solutions aimed at creating efficient and comfortable environments for facility owners and managers.We are ready to upload 12gb of corporate data. Detailed employee information (DOB, DLs, SSNs, phones, addresses, documents scans and other docs of at least 212 employees), agreements and contracts, confidential files, detailed financials, client information, disclosure agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
