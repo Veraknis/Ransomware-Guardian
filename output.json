@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Scientology",
+        "discovered": "2025-12-04 15:27:16.327455",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/view?uuid=9043bb8a-bdc7-365d-b2d1-f59ab268c2d9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Scientology.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "McManes Law",
+        "discovered": "2025-12-04 15:27:15.397713",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=4d5e0c8f-4b8a-3e4c-afd0-385f24c739ef",
+        "magnet": null,
+        "screen": "screenshots/qilin/McManes Law.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Institutional & Supermarket Equipment",
+        "discovered": "2025-12-04 15:27:14.480060",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=fc276a77-9abf-3d6e-9f8e-2f14a9d3eaf1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Institutional & Supermarket Equipment.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Peter Meijer Architect",
+        "discovered": "2025-12-04 15:27:13.518676",
+        "description": "Construction",
+        "link": "/site/view?uuid=b5a85926-4168-3cf3-a434-f84edc347f6f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Peter Meijer Architect.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Maset",
+        "discovered": "2025-12-04 15:27:12.619561",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=b14c2305-89a3-3a6f-8e14-6df4a9fc9368",
+        "magnet": null,
+        "screen": "screenshots/qilin/Maset.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Espaço Casa",
+        "discovered": "2025-12-04 15:27:11.311073",
+        "description": "Business Services",
+        "link": "/site/view?uuid=919d2440-cefc-30da-b398-06eb05f076ab",
+        "magnet": null,
+        "screen": "screenshots/qilin/Espaço Casa.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pioneer Ocean Freight Co., Ltd.",
+        "discovered": "2025-12-04 14:26:57.817015",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "sspinnovations.com",
+        "discovered": "2025-12-04 13:25:56.137942",
+        "description": "At SSP Innovations, we help utility, pipeline, and telecommunications organizati...",
+        "link": "/leaks/692889ce2423bc3ce0ceb5d2",
+        "magnet": null,
+        "screen": "screenshots/lynx/sspinnovationscom.png",
+        "group_name": "lynx",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Yellow Cab of Columbus",
+        "discovered": "2025-12-04 09:25:47.313215",
+        "description": "Business Services",
+        "link": "/site/view?uuid=84258547-f737-3e0a-9960-e6835de243af",
+        "magnet": null,
+        "screen": "screenshots/qilin/Yellow Cab of Columbus.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Quasar Inc",
         "discovered": "2025-12-04 06:26:06.891644",
         "description": "Quasar, Inc. specializes in high-quality design, implementation support, and related services tailored for the telecommunications industry. Since 1997, the company has set a benchmark with efficient and cost-effective network designs implemented across five continents and over 100 cities. Their offerings include plant network system designs, field services for strand work, and consulting to enhance operators' competitiveness. Additionally, Quasar provides complimentary services such as training and troubleshooting support to adapt to the evolving needs of the industry.Network projects, drawingsDetailed drawings of many cities with communications designsVarious information\nhttps://www.quasar.us",
@@ -153,116 +243,6 @@
         "post_title": "Building Controls and Services",
         "discovered": "2025-12-03 16:25:25.456040",
         "description": "Building Controls and Services, Inc. (BCS) provides innovative building automation, mechanical equipment, and energy management solutions aimed at creating efficient and comfortable environments for facility owners and managers.We are ready to upload 12gb of corporate data. Detailed employee information (DOB, DLs, SSNs, phones, addresses, documents scans and other docs of at least 212 employees), agreements and contracts, confidential files, detailed financials, client information, disclosure agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Armis Group",
-        "discovered": "2025-12-03 15:25:33.091049",
-        "description": "",
-        "link": "/r/5a74c257d2eff7518c2bddc1285b1f7521b82d3f",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Armis Group.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "instyle.com.au",
-        "discovered": "2025-12-03 15:25:30.443726",
-        "description": "",
-        "link": "/blog/disclosures/692fb849e1a4e4b3ff71c0dc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/instylecomau.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bisonfamilymedical.com",
-        "discovered": "2025-12-03 15:25:29.445419",
-        "description": "",
-        "link": "/blog/disclosures/692fc85ae1a4e4b3ff72d8e2",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/bisonfamilymedicalcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eggelhof",
-        "discovered": "2025-12-03 15:25:27.910507",
-        "description": "Eggelhof Inc is a Houston-based company established in 1926, specializing in engineering products such as filtration and water treatment, piping and plant equipment, and steam specialties.We are ready to upload 67gb of corporate data. Projects, employeeinformation (DOB, phones, addresses and so on), agreements and contracts, financials, client information, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "LA Injury Attorneys",
-        "discovered": "2025-12-03 14:25:29.245486",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=13c692ba-da29-3029-b2c8-eb803f926baa",
-        "magnet": null,
-        "screen": "screenshots/qilin/LA Injury Attorneys.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Brodosplit",
-        "discovered": "2025-12-03 14:25:28.309804",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=4356a595-c7cc-36ac-8f4e-e80142bd72c2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Brodosplit.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "City of Urbana",
-        "discovered": "2025-12-03 14:25:27.293591",
-        "description": "Government",
-        "link": "/site/view?uuid=370a59a3-61a9-3870-b81a-5351f7a65356",
-        "magnet": null,
-        "screen": "screenshots/qilin/City of Urbana.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "NUMALLIANCE",
-        "discovered": "2025-12-03 14:25:26.288727",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=dafff85d-3f8b-343d-bc4c-8581e6fb814d",
-        "magnet": null,
-        "screen": "screenshots/qilin/NUMALLIANCE.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Rouse Frets White Goss Gentile Rhodes",
-        "discovered": "2025-12-03 14:25:24.603754",
-        "description": "On September 30, 2018, the law firms of Rouse Frets Gentile Rhodes, LLC and White Goss, P.C. merged and became Rouse Frets White Goss Gentile Rhodes, P.C.We are ready to upload 87gb of corporate documents such as: detailed personal information clients and employees (SSNs, passports, driver licenses, addresses, phones, emails and so on), lots of confidential legal documents, court hearings, police reports, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Wynn & Wynn",
-        "discovered": "2025-12-03 14:25:23.588427",
-        "description": "Wynn Wynn, P.C. is a general practice law firm based in Southeastern Massachusetts, offering a wide array of legal services including personal injury, family law, business litigation, criminal law, and real estate among others.We are ready to upload 12gb of corporate data. Another one law firm that doesn't case of their clients' personal information. You can find detailed clients' personal information (SSNs, passports,driver licenses, addresses, phones, emails and so on), court cases files, court hearings, police reports, incident reports, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Fuji Vegetable Oil",
-        "discovered": "2025-12-03 14:25:22.588742",
-        "description": "Fuji Vegetable Oil Inc. specializes in the development and supplyof plant-based fats, oils, and shortening for the bakery, confectionery, and food processor markets.We are ready to upload 16gb of corporate data. Employee information, projects, financials, customer information, etc.",
         "link": null,
         "magnet": null,
         "screen": null,
