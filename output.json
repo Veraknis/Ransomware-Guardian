@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "wachtmann.eu",
+        "discovered": "2025-12-05 19:26:05.256299",
+        "description": "Specializing in consumer goods distributed online via a web store. The business model is typical for small e-commerce firms: sourcing …",
+        "link": "/blog/post/wachtmanneu/",
+        "magnet": null,
+        "screen": "screenshots/safepay/wachtmanneu.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "becksgroup.au",
+        "discovered": "2025-12-05 19:26:04.297208",
+        "description": "Family-owned Australian company established in 1976 that operates within the luxury goods and jewellery industry, focusing on precious metals and …",
+        "link": "/blog/post/becksgroupau/",
+        "magnet": null,
+        "screen": "screenshots/safepay/becksgroupau.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hyperdomemedicalcentre.com.au",
+        "discovered": "2025-12-05 19:26:02.105313",
+        "description": "Hyperdome Medical Centre is a general practice clinic located in the South.Point shopping centre in Greenway, Tuggeranong, within the Australian …",
+        "link": "/blog/post/hyperdomemedicalcentrecomau/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hyperdomemedicalcentrecomau.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Beecher Walker Architects",
+        "discovered": "2025-12-05 19:25:45.519721",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=f3a9a51a-61f9-3514-a456-21d372b1044a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Beecher Walker Architects.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "King City Lumber",
+        "discovered": "2025-12-05 19:25:42.814903",
+        "description": "King City Lumber is a well-established provider of quality lumber and building materials, specializing in custom metal structures for over 50 years in the Midwe...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Shumate Mechanical",
+        "discovered": "2025-12-05 18:25:45.018795",
+        "description": "Commercial & Residential Construction",
+        "link": "/site/view?uuid=f2a097b4-3bf7-3996-8a2f-31a22317ed6c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Shumate Mechanical.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Sieger design",
+        "discovered": "2025-12-05 18:25:43.247700",
+        "description": "Sieger design specializes in developing comprehensive brand strategies and distinctive products that are significant and success-oriented. We are ready to upload corporate data. Internal business files, financials and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Fargo Park District",
+        "discovered": "2025-12-05 18:25:41.311661",
+        "description": "https://www.fargoparks.com \n\t\t\t\t\t\t\t\t\tFargo Park District, with over 2,100 acres of land, is divided into Finance, Enterprise, Events, Operations, Programming and Facilities, Human Resources, Valley Senior Services and Courts, and Community Physical Activity. The Fargo Park District boasts over 150 parks, amenities, and over 170 kilometers of trails and paths.",
+        "link": "http://glsvddrnd4qu56uhx65mrepgaoer6vtfr6q6qgsbpnml3b3fm2h7lcid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Fargo Park District.png",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "AvtechTyee",
+        "discovered": "2025-12-05 16:25:56.823661",
+        "description": "AvtechTyee is a company operating in the aerospace and defense industries.",
+        "link": "/posts/6932ef722c36878d34fe6911",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/AvtechTyee.png",
+        "group_name": "nitrogen",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Foster & Eldridge",
+        "discovered": "2025-12-05 16:25:54.836192",
+        "description": "Foster & Eldridge, LLP is a Boston area boutique law firm recognized for its excellence in medical malpractice defense. The firm specializes in representing health care providers in professional liability matters and offers consulting and litigation services in risk management and regulatory compliance.We are ready to upload 60gb of corporate data. Detailed client personal information (passports, DLs, phones, addresses, medical information and so on), financials, hearings, police records, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Advanced Power",
+        "discovered": "2025-12-05 16:25:53.800901",
+        "description": "Advanced Power is an Electric Power Generation, Energy, Utilities& Waste Treatment General, and Energy Production company locatedin Boston, Massachusetts with $7.3 million in revenue and 133 employees.We are ready to upload 51gb of corporate data. Employee personal information (DLs, w-9 forms and so on), detailed financials, confidential files, contract and agreements, NDAs etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Rosland Capital",
+        "discovered": "2025-12-05 16:25:52.824959",
+        "description": "Rosland Capital is a precious metals asset management firm that sells gold and other precious metals in physical form.We are ready to upload corporate data. Projects, clients data, a bit of confidential files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "3S Software (Secured Smart Systems Overview Metrics)",
+        "discovered": "2025-12-05 16:25:50.958721",
+        "description": "3S Group is a world-class provider of diverse technology services, specializing in software development, applications integration, data management, and analytic...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Consolidated Sterilizer Systems",
         "discovered": "2025-12-05 14:25:36.960206",
         "description": "Consolidated Sterilizer Systems has been manufacturing steam sterilizers and autoclaves in Boston, Massachusetts since 1946, setting the industry standard for over 60 years. Their product range includes customizable laboratory autoclaves for various applications such as animal research, life sciences, food safety, and healthcare environments.We are ready to upload about 10gb of corporate data. Employee personal information (passports, DLs, phones, addresses, medical reports and so on), financials, contracts and agreements and so on.",
@@ -288,35 +418,5 @@
         "screen": "screenshots/qilin/Kana Pipeline Inc.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ABC Home & Commercial Services",
-        "discovered": "2025-12-04 19:26:09.793525",
-        "description": "ABC Home & Commercial Services is a provider of home and commercial pest control, air conditioning, heating, lawn care and more.We are ready to upload 24gb of corporate data. Employee personal information (passports, DLs, phones, addresses, medical information and so on), financials, contracts and agreements, confidentialfiles and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Medisend",
-        "discovered": "2025-12-04 18:26:25.162071",
-        "description": "Education",
-        "link": "/site/view?uuid=63464cfe-2d0f-332b-b13b-ec61c983e91f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Medisend.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "The Minor Firm",
-        "discovered": "2025-12-04 16:26:44.011874",
-        "description": "The Minor Firm is a premier law firm located in Northwest Georgia, established for over 40 years. They specialize in complex legalmatters, providing superior representation to individual and business clients in areas such as Health Care Law, Human Resources Law, Municipal & Utility Law, Real Estate Transactions, and EstatePlanning.We are ready to upload 63gb of corporate data. Client and employee personal information (Passports, DLs, phones, addresses and so on), court confidential documents, police reports with photos andother legal files, financials and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
     }
 ]
