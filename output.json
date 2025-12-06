@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "www.toc.co.jp",
+        "discovered": "2025-12-06 18:25:54.054531",
+        "description": "TOC Building is a commercial facility that provides a comprehensive floor guide,...",
+        "link": "/leaks/69345eb22423bc3ce04b3620",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwtoccojp.png",
+        "group_name": "lynx",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Jack Levine",
+        "discovered": "2025-12-06 18:25:51.014707",
+        "description": "Jack Levine PA CPAs is a boutique CPA firm based in the Midtown/Wynwood area of Miami, specializing in corporate tax and accounting services for businesses, ind...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "CT Dent Ltd",
+        "discovered": "2025-12-06 17:26:02.218305",
+        "description": "CT Dent Ltd is an independent CBCT imaging centre based in London, UK, specializing in dental CT scanning services that are utilized by over 10,000 UK practices. The company offers a range of imaging services, including CBCT scans, OPG X-rays, and digital impressions, along with advanced technologies like dose reduction to ensure patient safety. Their target clients include dental practitioners in need of reliable and detailed imaging for treatment planning and diagnostics. Established in 2007, CT Dent has become a leading provider in the dental imaging sector",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kazu",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "ANG BROTHERS (M&E) PTE. LTD. (P3)",
+        "discovered": "2025-12-06 17:25:46.786626",
+        "description": "ANG BROTHERS (M&E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company's registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company's principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/ANG BROTHERS (M&E) PTE LTD (P3).png",
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "platinumone.in",
         "discovered": "2025-12-06 13:26:06.148157",
         "description": "",
@@ -198,135 +238,5 @@
         "screen": "screenshots/safepay/barnetcomau.png",
         "group_name": "safepay",
         "sector": "Legal"
-    },
-    {
-        "post_title": "wachtmann.eu",
-        "discovered": "2025-12-05 19:26:05.256299",
-        "description": "Specializing in consumer goods distributed online via a web store. The business model is typical for small e-commerce firms: sourcing …",
-        "link": "/blog/post/wachtmanneu/",
-        "magnet": null,
-        "screen": "screenshots/safepay/wachtmanneu.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "becksgroup.au",
-        "discovered": "2025-12-05 19:26:04.297208",
-        "description": "Family-owned Australian company established in 1976 that operates within the luxury goods and jewellery industry, focusing on precious metals and …",
-        "link": "/blog/post/becksgroupau/",
-        "magnet": null,
-        "screen": "screenshots/safepay/becksgroupau.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hyperdomemedicalcentre.com.au",
-        "discovered": "2025-12-05 19:26:02.105313",
-        "description": "Hyperdome Medical Centre is a general practice clinic located in the South.Point shopping centre in Greenway, Tuggeranong, within the Australian …",
-        "link": "/blog/post/hyperdomemedicalcentrecomau/",
-        "magnet": null,
-        "screen": "screenshots/safepay/hyperdomemedicalcentrecomau.png",
-        "group_name": "safepay",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Beecher Walker Architects",
-        "discovered": "2025-12-05 19:25:45.519721",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=f3a9a51a-61f9-3514-a456-21d372b1044a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Beecher Walker Architects.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "King City Lumber",
-        "discovered": "2025-12-05 19:25:42.814903",
-        "description": "King City Lumber is a well-established provider of quality lumber and building materials, specializing in custom metal structures for over 50 years in the Midwe...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Shumate Mechanical",
-        "discovered": "2025-12-05 18:25:45.018795",
-        "description": "Commercial & Residential Construction",
-        "link": "/site/view?uuid=f2a097b4-3bf7-3996-8a2f-31a22317ed6c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Shumate Mechanical.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Sieger design",
-        "discovered": "2025-12-05 18:25:43.247700",
-        "description": "Sieger design specializes in developing comprehensive brand strategies and distinctive products that are significant and success-oriented. We are ready to upload corporate data. Internal business files, financials and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fargo Park District",
-        "discovered": "2025-12-05 18:25:41.311661",
-        "description": "https://www.fargoparks.com \n\t\t\t\t\t\t\t\t\tFargo Park District, with over 2,100 acres of land, is divided into Finance, Enterprise, Events, Operations, Programming and Facilities, Human Resources, Valley Senior Services and Courts, and Community Physical Activity. The Fargo Park District boasts over 150 parks, amenities, and over 170 kilometers of trails and paths.",
-        "link": "http://glsvddrnd4qu56uhx65mrepgaoer6vtfr6q6qgsbpnml3b3fm2h7lcid.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Fargo Park District.png",
-        "group_name": "interlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "AvtechTyee",
-        "discovered": "2025-12-05 16:25:56.823661",
-        "description": "AvtechTyee is a company operating in the aerospace and defense industries.",
-        "link": "/posts/6932ef722c36878d34fe6911",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/AvtechTyee.png",
-        "group_name": "nitrogen",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Foster & Eldridge",
-        "discovered": "2025-12-05 16:25:54.836192",
-        "description": "Foster & Eldridge, LLP is a Boston area boutique law firm recognized for its excellence in medical malpractice defense. The firm specializes in representing health care providers in professional liability matters and offers consulting and litigation services in risk management and regulatory compliance.We are ready to upload 60gb of corporate data. Detailed client personal information (passports, DLs, phones, addresses, medical information and so on), financials, hearings, police records, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Advanced Power",
-        "discovered": "2025-12-05 16:25:53.800901",
-        "description": "Advanced Power is an Electric Power Generation, Energy, Utilities& Waste Treatment General, and Energy Production company locatedin Boston, Massachusetts with $7.3 million in revenue and 133 employees.We are ready to upload 51gb of corporate data. Employee personal information (DLs, w-9 forms and so on), detailed financials, confidential files, contract and agreements, NDAs etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Rosland Capital",
-        "discovered": "2025-12-05 16:25:52.824959",
-        "description": "Rosland Capital is a precious metals asset management firm that sells gold and other precious metals in physical form.We are ready to upload corporate data. Projects, clients data, a bit of confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "3S Software (Secured Smart Systems Overview Metrics)",
-        "discovered": "2025-12-05 16:25:50.958721",
-        "description": "3S Group is a world-class provider of diverse technology services, specializing in software development, applications integration, data management, and analytic...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
     }
 ]
