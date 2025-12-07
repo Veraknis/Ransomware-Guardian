@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Precision Compounding",
+        "discovered": "2025-12-06 23:26:00.532199",
+        "description": "Precision Compounding Pharmacy, located in Omaha, NE, specializes in creating customized medications that fit the unique needs of each patient. They collaborate...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "lso.com",
+        "discovered": "2025-12-06 23:25:58.079647",
+        "description": "Lone Star Overnight (LSO) is headquartered in Austin, Texas, and, over the last 30 years, has become a leading regional parcel delivery company. LSO has a netwo...",
+        "link": "/#/post/893b9740-2747-4eee-a0e2-13547bdcad7f",
+        "magnet": null,
+        "screen": "screenshots/embargo/lsocom.png",
+        "group_name": "embargo",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Ermat Grup",
+        "discovered": "2025-12-06 22:25:59.084862",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Benchmark Electronics Inc",
+        "discovered": "2025-12-06 20:26:07.112748",
+        "description": "",
+        "link": "/news/Benchmark_Electronics/",
+        "magnet": null,
+        "screen": "screenshots/everest/Benchmark Electronics Inc.png",
+        "group_name": "everest",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.mylawcompany.com",
+        "discovered": "2025-12-06 20:25:53.212377",
+        "description": "",
+        "link": "/blog/disclosures/69346de3be52b3ea15ea8d4e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwmylawcompanycom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "www.toc.co.jp",
         "discovered": "2025-12-06 18:25:54.054531",
         "description": "TOC Building is a commercial facility that provides a comprehensive floor guide,...",
@@ -88,155 +138,5 @@
         "screen": "screenshots/rhysida/SODISE.png",
         "group_name": "rhysida",
         "sector": "Retail"
-    },
-    {
-        "post_title": "Camomilla🇮🇹",
-        "discovered": "2025-12-06 07:25:54.129903",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "datacarry",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Canvas Church",
-        "discovered": "2025-12-06 07:25:39.733088",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/view?uuid=c5a54afc-14c0-30e5-85af-046614e4d8a9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Canvas Church.png",
-        "group_name": "qilin",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "UniqueTech Engineering",
-        "discovered": "2025-12-06 07:25:38.713191",
-        "description": "Construction",
-        "link": "/site/view?uuid=db537abb-62aa-30fa-975b-63ddb356b85d",
-        "magnet": null,
-        "screen": "screenshots/qilin/UniqueTech Engineering.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Towerstream",
-        "discovered": "2025-12-06 05:26:27.165933",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=fa691971-edd5-33fb-b5e3-f8268330d918",
-        "magnet": null,
-        "screen": "screenshots/qilin/Towerstream.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Khazzan Logistics",
-        "discovered": "2025-12-06 05:26:26.229836",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=aa3b7f9a-e422-32fe-b5b4-4ee351e8c220",
-        "magnet": null,
-        "screen": "screenshots/qilin/Khazzan Logistics.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Kasapreko",
-        "discovered": "2025-12-06 05:26:25.319159",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=133305e1-689a-3c02-8d1e-878733d3b4a7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kasapreko.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Diesel Electric",
-        "discovered": "2025-12-06 05:26:23.961997",
-        "description": "Business Services",
-        "link": "/site/view?uuid=e8f55a5c-d37b-39c8-ab47-5b59c9f98609",
-        "magnet": null,
-        "screen": "screenshots/qilin/Diesel Electric.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "mmc.de",
-        "discovered": "2025-12-06 04:27:10.337133",
-        "description": "MMC Studios is a major German media-production and facility company headquartered in Cologne. The firm operates one of Germany’s leading …",
-        "link": "/blog/post/mmcde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mmcde.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Trumbull County",
-        "discovered": "2025-12-06 04:26:53.946746",
-        "description": "The Internal Story of a County in the State of Ohio.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/8qOoxXVybdjVCTGhalhvjHRRXeYrPkagR2snOnZpsXWlV+z5i7sxcdh7jioCJ6SyzFmTrSjZ0UcEmVMxZgdxnQxZFlaazEz",
-        "magnet": null,
-        "screen": "screenshots/anubis/Trumbull County.png",
-        "group_name": "anubis",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Duhabex",
-        "discovered": "2025-12-06 04:26:52.890792",
-        "description": "Data breach at a Polish international transport and logistics company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/v9spoNOKSU+FoiWlifJf53PbiQe5bfZ0NAgU8kzAvkvF0hB6PeFpB6bi9Mbo+RmvyVvUGZEcj8AadEuaUj0lWG16M2FXTmpL",
-        "magnet": null,
-        "screen": "screenshots/anubis/Duhabex.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "juliuskoch.com",
-        "discovered": "2025-12-05 20:26:04.906402",
-        "description": "Julius Koch GmbH is a historic German company founded in 1895 that specialises in the development and manufacture of high-performance …",
-        "link": "/blog/post/juliuskochcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/juliuskochcom.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "untereisesheim.de",
-        "discovered": "2025-12-05 20:26:01.623307",
-        "description": "Untereisesheim is a small municipality in the district of Heilbronn in the federal state of Baden-Württemberg, southwestern Germany. It is …",
-        "link": "/blog/post/untereisesheimde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/untereisesheimde.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "steuerberater-scheerer.de",
-        "discovered": "2025-12-05 20:25:59.977361",
-        "description": "Steuerberater-Scheerer (operating as C. M. Scheerer GmbH) is a German tax-consulting and auditing firm based in Schweinfurt, Bavaria. The practice …",
-        "link": "/blog/post/steuerberater-scheererde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/steuerberater-scheererde.png",
-        "group_name": "safepay",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "mactavishco.ca",
-        "discovered": "2025-12-05 20:25:58.967316",
-        "description": "MacTavish & Co. is a small Canadian boutique retailer located in Medicine Hat, Alberta, specializing in curated home décor, gifts, …",
-        "link": "/blog/post/mactavishcoca/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mactavishcoca.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "barnet.com.au",
-        "discovered": "2025-12-05 20:25:57.911346",
-        "description": "BarNet is an Australian specialist communications management organisation focused on serving legal professionals, particularly barristers and associated legal chambers. Founded …",
-        "link": "/blog/post/barnetcomau/",
-        "magnet": null,
-        "screen": "screenshots/safepay/barnetcomau.png",
-        "group_name": "safepay",
-        "sector": "Legal"
     }
 ]
