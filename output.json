@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Jeffrey W Krol & Associates",
+        "discovered": "2025-12-07 19:25:42.493742",
+        "description": "Jeffrey W. Krol & Associates, Ltd. is a full-service certified public accounting...",
+        "link": "/leaks/69357f7488b6823fa25d3fb4",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Jeffrey W Krol & Associates.png",
+        "group_name": "sinobi",
+        "sector": "Government"
+    },
+    {
+        "post_title": "David M. Schwarz Architects",
+        "discovered": "2025-12-07 17:26:22.521105",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=c0a207bf-2f8f-3326-b931-f8ab5a35fc8e",
+        "magnet": null,
+        "screen": "screenshots/qilin/David M Schwarz Architects.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gopher Industrial",
+        "discovered": "2025-12-07 16:25:39.104792",
+        "description": "Gopher Industrial is a premier industrial distributor specializing in hoses, wel...",
+        "link": "/leaks/6935808188b6823fa25d47ab",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Gopher Industrial.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Quality Companies",
+        "discovered": "2025-12-07 16:25:38.103185",
+        "description": "Quality Companies, headquartered in Youngsville, Louisiana, is a company that of...",
+        "link": "/leaks/6935887d88b6823fa25d7a1e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Quality Companies.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "TAWASOL",
         "discovered": "2025-12-07 15:26:16.888004",
         "description": "Custommer data",
@@ -578,45 +618,5 @@
         "screen": "screenshots/inc ransom/wwwmylawcompanycom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "www.toc.co.jp",
-        "discovered": "2025-12-06 18:25:54.054531",
-        "description": "TOC Building is a commercial facility that provides a comprehensive floor guide,...",
-        "link": "/leaks/69345eb22423bc3ce04b3620",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwtoccojp.png",
-        "group_name": "lynx",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Jack Levine",
-        "discovered": "2025-12-06 18:25:51.014707",
-        "description": "Jack Levine PA CPAs is a boutique CPA firm based in the Midtown/Wynwood area of Miami, specializing in corporate tax and accounting services for businesses, ind...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "CT Dent Ltd",
-        "discovered": "2025-12-06 17:26:02.218305",
-        "description": "CT Dent Ltd is an independent CBCT imaging centre based in London, UK, specializing in dental CT scanning services that are utilized by over 10,000 UK practices. The company offers a range of imaging services, including CBCT scans, OPG X-rays, and digital impressions, along with advanced technologies like dose reduction to ensure patient safety. Their target clients include dental practitioners in need of reliable and detailed imaging for treatment planning and diagnostics. Established in 2007, CT Dent has become a leading provider in the dental imaging sector",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kazu",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "ANG BROTHERS (M&E) PTE. LTD. (P3)",
-        "discovered": "2025-12-06 17:25:46.786626",
-        "description": "ANG BROTHERS (M&E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company's registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company's principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/ANG BROTHERS (M&E) PTE LTD (P3).png",
-        "group_name": "nova",
-        "sector": "Manufacturing"
     }
 ]
