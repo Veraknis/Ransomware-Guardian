@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Carbon Graphics Group",
+        "discovered": "2025-12-08 15:25:45.423972",
+        "description": "Carbon Graphics Group provides a complete range of advanced visual communications solutions leveraging the latest technology.We are ready to upload 35gb of corporate data. Detailed financials, HR files, agreements and contracts, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
+        "discovered": "2025-12-08 15:25:44.402939",
+        "description": "We obtained about 24gb of data of the following companies:Nickman's Drug is a chain of five locally-owned community pharmacies located in Lemont and surrounding areas, dedicated to providing personalized, affordable pharmaceutical care.DHK Architects is an architecture and planning firm based in Boston, with offices in New York City and San Juan, PR.Profondia provides up-to-date data on the use of ICT in the Swissmarket.Talbot & Associates CPA is a bilingual accounting firm based in Manitoba, recognized as one of the top three accounting firms in Winnipeg.Fishbowl Solutions specializes in digital experience platforms, document management, and employee engagement services designed fororganizations seeking to streamline processes.You will find personal employee personal data, client information, numerous project files, accounting and financials and other internal operational files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "City of La Vergne",
+        "discovered": "2025-12-08 15:25:42.510626",
+        "description": "The City of La Vergne provides essential services including police and fire departments, public library, and community events aimed at engaging and educating lo...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "VoiceTeam Call",
+        "discovered": "2025-12-08 15:25:41.398685",
+        "description": "VoiceTeam is a leading nearshore provider of sales, customer service and back office support, headquartered in Santiago, Dominican Republic with operations in S...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Capo Brothers",
+        "discovered": "2025-12-08 12:25:33.349667",
+        "description": "Capo Brothers is a premier commercial truck dealer located in Ronkonkoma and West Babylon, specializing in the sales, service, and parts of Isuzu and Mitsubishi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Cadman Power Equipment",
+        "discovered": "2025-12-08 10:25:36.976707",
+        "description": "If the company does not contact us until 15/12/2025 the data will be published.<br><br>-- Files of interest --<br><br>Documents of sale for **** Government: <br>└──files/Data2/DATA2/Craig Cadman/contract.PDF<br><br>Salary confidentiality agreement:<br>└──files/Data2/DATA2/1_HR/Performance Mgmt/12 - Salary Confidentiality Policy - George Funk.docx<br><br>Employee harassment:<br>└──files/Data2/DATA2/1_HR/Performance Mgmt/Discipline/Harassment<br><br>Product schematics:<br>└──files/Data2/DATA2/6003 Documents/Drawings<br><br>Proft&Loss, cashflow, balance sheet:<br>├──files/Data2/DATA2/00_FINANCE/2025<br>└──files/Data2/DATA2/FINANCE/2025 Cash flow report.xlsx<br><br>Bank statements:<br>└──files/Data2/DATA2/FINANCE/Bank Statements/F2025<br><br>Employee info, address, emergency contact etc:<br>└──files/Data2/DATA2/1_HR/1. Employee EE Files/Emergency Contact<br><br>Employee T4 forms (salary, SSN, tax info):<br>└──files/Data2/DATA2/1_HR/2. Payroll/4.0 T4 Information Year End Filings/2024/Revenue Canada Copies.pdf<br><br>Building security details:<br>└──files/Data2/DATA2/1_HR/Building Security<br><br>Corporate structure:<br>├──files/Data2/DATA2/FINANCE/CADMAN GROUP CORPORATE DOCUMENTS/The Cadman Group Holding Corporation Minute Book 2024-09-20.pdf<br>└──files/Data2/DATA2/FINANCE/Corporate Documents",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "HESCO",
+        "discovered": "2025-12-08 10:25:33.329249",
+        "description": "HESCO Foodservice Ltd., based out of Edmonton and Calgary, specializes in providing a wide range of products, cleaning supplies, commercial equipment, and kitch...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Comcast",
+        "discovered": "2025-12-08 09:26:10.582837",
+        "description": "As a global media and tech company, Comcast reaches hundreds of millions of customers, viewers, and guests with world-class connectivity and platforms and beloved content and experiences.The leak was made possible by Quasar Inc., a company that prepares technical documentation for Comсast and its Genesis project. The files contain design documentation for numerous cities, as well as detailed utility plans.\nhttps://corporate.comcast.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/102/comcast",
+        "magnet": null,
+        "screen": "screenshots/space bears/Comcast.png",
+        "group_name": "space bears",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
         "discovered": "2025-12-08 07:26:00.453370",
         "description": "",
@@ -15,7 +95,7 @@
         "description": "",
         "link": "/companies/2526422872",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/Ernest Käslin.png",
         "group_name": "worldleaks",
         "sector": "Unknown"
     },
@@ -77,536 +157,6 @@
         "magnet": null,
         "screen": "screenshots/sinobi/Quality Companies.png",
         "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TAWASOL",
-        "discovered": "2025-12-07 15:26:16.888004",
-        "description": "Custommer data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "pestbusters",
-        "discovered": "2025-12-07 15:26:15.843094",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GMA NETWORK",
-        "discovered": "2025-12-07 15:26:14.853611",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DAILY NEWS THAILAND",
-        "discovered": "2025-12-07 15:26:13.871104",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Media"
-    },
-    {
-        "post_title": "piriou",
-        "discovered": "2025-12-07 15:26:12.903633",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "netstar",
-        "discovered": "2025-12-07 15:26:11.961179",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "gotec",
-        "discovered": "2025-12-07 15:26:10.966693",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "elematec",
-        "discovered": "2025-12-07 15:26:09.972391",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "solidere",
-        "discovered": "2025-12-07 15:26:08.980745",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "diethelmtravel",
-        "discovered": "2025-12-07 15:26:07.999264",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "braswellsvc",
-        "discovered": "2025-12-07 15:26:07.015876",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "busaba",
-        "discovered": "2025-12-07 15:26:06.041943",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "r3consulting",
-        "discovered": "2025-12-07 15:26:05.065269",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "wrapex",
-        "discovered": "2025-12-07 15:26:04.029834",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "profimetrics.com",
-        "discovered": "2025-12-07 15:26:00.365653",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hameshakem.co.il",
-        "discovered": "2025-12-07 15:25:59.352066",
-        "description": "Financial, Custommer data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "naturmaelk",
-        "discovered": "2025-12-07 15:25:58.350787",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "chicagobotanic",
-        "discovered": "2025-12-07 15:25:57.368685",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pharmaciedesalize.com.fr",
-        "discovered": "2025-12-07 15:25:56.305834",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "oucru.org",
-        "discovered": "2025-12-07 15:25:55.265639",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "omniumint",
-        "discovered": "2025-12-07 15:25:54.287775",
-        "description": "Projects, and proof of corruption",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MCC",
-        "discovered": "2025-12-07 15:25:53.307381",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hopital-*********.com",
-        "discovered": "2025-12-07 15:25:52.347087",
-        "description": "Financial data, medical records",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "f***i*.o*g",
-        "discovered": "2025-12-07 15:25:51.358987",
-        "description": "Financial Records, Med cards, Hr documents",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "arko.no",
-        "discovered": "2025-12-07 15:25:50.289940",
-        "description": "Datatheft\nClient DB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "S**** Saint ******",
-        "discovered": "2025-12-07 15:25:49.267154",
-        "description": "Financial data, medical cards",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Kane's Furniture",
-        "discovered": "2025-12-07 15:25:44.541619",
-        "description": "Kane's Furniture\nKane's Furniture is a long-established home furnishings retailer founded in Florida in 1948. It is known for offering affordable, high-quality furniture in a wide range of styles, with a focus on value for money and customer service.\n\n\n\nMore",
-        "link": "archive.php?company=237",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Kane's Furniture.png",
-        "group_name": "rhysida",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Galesi Group",
-        "discovered": "2025-12-07 15:25:43.244384",
-        "description": "Galesi Group is a national real estate developer focused on creating dynamic bui...",
-        "link": "/leaks/6935817388b6823fa25d4aa1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Galesi Group.png",
-        "group_name": "sinobi",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "YAZAKI Corp",
-        "discovered": "2025-12-07 14:25:53.843514",
-        "description": "",
-        "link": "/blog/disclosures/6930381ebe52b3ea15aa8317",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/YAZAKI Corp.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Marta Montserrat Areny Guerrero ABOGADO",
-        "discovered": "2025-12-07 13:25:46.791889",
-        "description": "Education",
-        "link": "/site/view?uuid=26bd6415-113f-3e2a-9a59-59de5ac6a8b1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Marta Montserrat Areny Guerrero ABOGADO.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Sanko Air Conditioning Co., Ltd.",
-        "discovered": "2025-12-07 13:25:45.847116",
-        "description": "Construction",
-        "link": "/site/view?uuid=04517761-332b-3c4e-8b01-d69201d7c720",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sanko Air Conditioning Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "La Costa Dental Excellence",
-        "discovered": "2025-12-07 13:25:44.853081",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=b1e8703c-3fe3-34c5-8af7-6fc953b4402b",
-        "magnet": null,
-        "screen": "screenshots/qilin/La Costa Dental Excellence.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Acoustical Control",
-        "discovered": "2025-12-07 13:25:43.823560",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=393a67ff-24b4-3565-98dc-563a7aa050c0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Acoustical Control.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "AMH Philippines",
-        "discovered": "2025-12-07 13:25:42.813091",
-        "description": "Construction",
-        "link": "/site/view?uuid=c585c090-3411-3bd9-bf12-ad7817638fdf",
-        "magnet": null,
-        "screen": "screenshots/qilin/AMH Philippines.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Japan Exchange Group [PUBLISHING]",
-        "discovered": "2025-12-07 10:39:55.360853",
-        "description": "Japan Exchange Group, Inc. a holding company which engages in the operation of financial instruments exchange. It provid...",
-        "link": "/post/4",
-        "magnet": null,
-        "screen": null,
-        "group_name": "root",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "GTA Properties",
-        "discovered": "2025-12-07 10:39:54.360949",
-        "description": "GTA Properties is a commercial real estate business based in Dubai Media City, specializing in luxury property solutions...",
-        "link": "/post/9",
-        "magnet": null,
-        "screen": null,
-        "group_name": "root",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Gamanza Group",
-        "discovered": "2025-12-07 10:39:53.346754",
-        "description": "In 2019, Gamanza received investment from Stadtcasino Baden AG, one of the largest leisure and entertainment groups in S...",
-        "link": "/post/10",
-        "magnet": null,
-        "screen": null,
-        "group_name": "root",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "milanoristorazione.it",
-        "discovered": "2025-12-07 10:39:38.427184",
-        "description": "La Food Policy è la politica alimentare della città. Rappresenta uno strumento di supporto al govern...",
-        "link": "/post/df39afcee761dd8dfa18aeca8fc85ce3",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/milanoristorazioneit.png",
-        "group_name": "lockbit5",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "kap.co.th",
-        "discovered": "2025-12-07 10:39:37.411273",
-        "description": "The Kudun and Partners story Kudun and Partners law firm in Thailand was established in 2015 from a...",
-        "link": "/post/51b3790678889df57c0f99983c39f57a",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/kapcoth.png",
-        "group_name": "lockbit5",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "cadopt.com",
-        "discovered": "2025-12-07 10:39:36.429483",
-        "description": "CADOpt Technologies is the exclusive partner of iSEEK Corporation in India, delivering high-speed, s...",
-        "link": "/post/e525cbe07714b5858f36bbaa3346e0b1",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/cadoptcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "marriott.com",
-        "discovered": "2025-12-07 10:39:35.413830",
-        "description": "Book Directly &amp; Save at any of our 9000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Reso...",
-        "link": "/post/321419375900c748c99c82d3e9c7dd6a",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/marriottcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "four-points.marriott.com",
-        "discovered": "2025-12-07 10:39:34.383043",
-        "description": "Marriott Bonvoy™, an award-winning travel program, offers a brand for every type of journey. Earn an...",
-        "link": "/post/35599fc65600804f1482dcdd78a566ab",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/four-pointsmarriottcom.png",
-        "group_name": "lockbit5",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "iscot.it",
-        "discovered": "2025-12-07 10:39:33.425267",
-        "description": "Chi siamo passato, presentee futuro Siamo una società che offre Servizi Tecnici per le imprese. Le n...",
-        "link": "/post/076a2d5299eedb0ced261209a3e494d5",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/iscotit.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "tracsa.com.mx",
-        "discovered": "2025-12-07 10:39:32.452399",
-        "description": "Distribuidor autorizado de soluciones industriales para venta y renta de maquinaria pesada, industri...",
-        "link": "/post/23496089a378eda352f17221684bc14b",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/tracsacommx.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "chmsbc.org.br",
-        "discovered": "2025-12-07 10:39:31.475227",
-        "description": "Complexo Hospitalar O Complexo Hospitalar de São Bernardo do Campo é formado pelo Hospital de Clínic...",
-        "link": "/post/d9f5fec189ae435693a722687bd92d33",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/chmsbcorgbr.png",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "elundini.gov.za",
-        "discovered": "2025-12-07 10:39:30.472055",
-        "description": "Elundini Local Municipality is an administrative area in the Joe Gqabi District Municipality of the...",
-        "link": "/post/e4e9c141c3778e0682649895d671ade5",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/elundinigovza.png",
-        "group_name": "lockbit5",
-        "sector": "Government"
-    },
-    {
-        "post_title": "comune.balmuccia.vc.it",
-        "discovered": "2025-12-07 10:39:29.096096",
-        "description": "Comune di Balmuccia - Sito ufficialeSi pubblica il calendario di chiusura per ferie, aperture straor...",
-        "link": "/post/ae3e7576076cfacadca87d8552cf6de4",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/comunebalmucciavcit.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "felixvet.com",
-        "discovered": "2025-12-07 10:39:28.099858",
-        "description": "Ветеринарен кабинет &quot;Феникс Вет &quot; предоставя достъпни услуги, както и пълна гама ваксини з...",
-        "link": "/post/1b47bfa1e8be2856c897dd6b77e511c8",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/felixvetcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pilgrimpackaging.com",
-        "discovered": "2025-12-07 10:39:27.092489",
-        "description": "10633 WOLF DR HUNTLEY, IL 60142 1-888-269-9727 inforequest@pilgrimpackaging.com",
-        "link": "/post/f5146bebe23dfd7d603ec0c67296c393",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/pilgrimpackagingcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "physiciansmedicalbilling.net",
-        "discovered": "2025-12-07 10:39:26.094969",
-        "description": "Company Description: Physicians Medical Billing (PMB) is a full-service medical billing and accounts...",
-        "link": "/post/7a5e9d4c112f932bc31636e6e72320de",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/physiciansmedicalbillingnet.png",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "ende.bo",
-        "discovered": "2025-12-07 10:39:25.114921",
-        "description": "Company Description: The National Electricity Company (ENDE) is a corporation of the Plurinational S...",
-        "link": "/post/00f2d9b9ffe7011f2aa6028866d07fe9",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/endebo.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "aeamg.org.br",
-        "discovered": "2025-12-07 10:39:24.132173",
-        "description": "Company Description: AEA-MG (Association of Electricians and Employees of CEMIG and its Subsidiaries...",
-        "link": "/post/1d7a5cf374b4fab062d9471eb2c05de7",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/aeamgorgbr.png",
-        "group_name": "lockbit5",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "incolease.com",
-        "discovered": "2025-12-07 10:39:23.107920",
-        "description": "International Company for Leasing S.A.E. &quot;Incolease&#039;&#039; | 4,972 followers on LinkedIn....",
-        "link": "/post/2e17861123abc79d1731d0ca064f5c24",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/incoleasecom.png",
-        "group_name": "lockbit5",
         "sector": "Unknown"
     }
 ]
