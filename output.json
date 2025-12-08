@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
+        "discovered": "2025-12-08 07:26:00.453370",
+        "description": "",
+        "link": "/companies/5809412419",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ernest Käslin",
+        "discovered": "2025-12-08 07:25:59.320144",
+        "description": "",
+        "link": "/companies/2526422872",
+        "magnet": null,
+        "screen": null,
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Big Lar",
+        "discovered": "2025-12-08 07:25:58.248401",
+        "description": "",
+        "link": "/companies/2278362856",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Big Lar.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Caldwell & Company Accounting",
+        "discovered": "2025-12-08 01:26:57.248888",
+        "description": "Caldwell Company Accounting is a well-respected CPA firm located in Plantation, ...",
+        "link": "/leaks/69358b3588b6823fa25d9382",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Caldwell & Company Accounting.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Jeffrey W Krol & Associates",
         "discovered": "2025-12-07 19:25:42.493742",
         "description": "Jeffrey W. Krol & Associates, Ltd. is a full-service certified public accounting...",
@@ -567,56 +607,6 @@
         "magnet": null,
         "screen": "screenshots/lockbit5/incoleasecom.png",
         "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Precision Compounding",
-        "discovered": "2025-12-06 23:26:00.532199",
-        "description": "Precision Compounding Pharmacy, located in Omaha, NE, specializes in creating customized medications that fit the unique needs of each patient. They collaborate...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "lso.com",
-        "discovered": "2025-12-06 23:25:58.079647",
-        "description": "Lone Star Overnight (LSO) is headquartered in Austin, Texas, and, over the last 30 years, has become a leading regional parcel delivery company. LSO has a netwo...",
-        "link": "/#/post/893b9740-2747-4eee-a0e2-13547bdcad7f",
-        "magnet": null,
-        "screen": "screenshots/embargo/lsocom.png",
-        "group_name": "embargo",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Ermat Grup",
-        "discovered": "2025-12-06 22:25:59.084862",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Benchmark Electronics Inc",
-        "discovered": "2025-12-06 20:26:07.112748",
-        "description": "",
-        "link": "/news/Benchmark_Electronics/",
-        "magnet": null,
-        "screen": "screenshots/everest/Benchmark Electronics Inc.png",
-        "group_name": "everest",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.mylawcompany.com",
-        "discovered": "2025-12-06 20:25:53.212377",
-        "description": "",
-        "link": "/blog/disclosures/69346de3be52b3ea15ea8d4e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwmylawcompanycom.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
