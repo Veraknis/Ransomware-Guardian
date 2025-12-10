@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "www.lincecomercial.com",
+        "discovered": "2025-12-10 02:27:07.560003",
+        "description": "",
+        "link": "/blog/disclosures/6878e629c7b82dfe0b272f9d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwlincecomercialcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rainbowtel.net",
+        "discovered": "2025-12-10 02:27:06.539121",
+        "description": "",
+        "link": "/blog/disclosures/6928e9e1e1a4e4b3ff0c83f5",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/rainbowtelnet.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CPS",
+        "discovered": "2025-12-09 22:26:24.947409",
+        "description": "CPS, Ltd. is a full-service engineering firm based in Grand Forks, ND, specializ...",
+        "link": "/leaks/6938845f88b6823fa27298d2",
+        "magnet": null,
+        "screen": "screenshots/sinobi/CPS.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "BOCOC Company’s First Data Vulnerability.",
+        "discovered": "2025-12-09 21:26:10.772739",
+        "description": "#Announce #DataLeak\n1% of all data.",
+        "link": "view_article.php?article=EaGyrdEnCLnxQNwXP5RVvWbHFzpGeJAd8MULMJ2IFX2HKNEm14q86nX148tVvnIr",
+        "magnet": null,
+        "screen": "screenshots/leaknet/BOCOC Company’s First Data Vulnerability.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Computing Dynamics",
+        "discovered": "2025-12-09 21:26:06.969870",
+        "description": "https://www.cdisoftware.com\n\t\t\t\t\t\t\t\t\tComputing Dynamics Inc is a company that develops custom software and provides IT services. In other words, this company operates in the IT sector and yet manages to make stupid mistakes in its work. As a result, it fell victim to an attack and a large amount of confidential data was compromised! This included data about clients, employees, and the company itself. Names, phone numbers, addresses, and a lot of personal information were compromised!",
+        "link": "http://hhzt3me6rtxg5rwjbikojbxioosmiprsjrd25ovjhxirx4ocjdwuoqad.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Computing Dynamics.png",
+        "group_name": "interlock",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Dill Dill Carr Stonbraker & Hutchings.",
+        "discovered": "2025-12-09 20:26:21.128614",
+        "description": "A lawyer firm from Denver, USA.",
+        "link": "/9a7d6ed6f3efaedbbcf3/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Dill Dill Carr Stonbraker & Hutchings.png",
+        "group_name": "genesis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sunair Electronics and Circuitronix.",
+        "discovered": "2025-12-09 20:26:20.193329",
+        "description": "Companies specialize in the manufacture of high-frequency communication products and printed circuit boards.",
+        "link": "/8a28a09b91639ab7decd/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Sunair Electronics and Circuitronix.png",
+        "group_name": "genesis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Abacus Employment Services.",
+        "discovered": "2025-12-09 20:26:19.180460",
+        "description": "A staffing company from UK.",
+        "link": "/5ef56805ff1995688f5a/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Abacus Employment Services.png",
+        "group_name": "genesis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Village Santé Saint Joseph Hospital",
+        "discovered": "2025-12-09 20:26:05.065906",
+        "description": "patient data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "fassic.org",
+        "discovered": "2025-12-09 20:26:04.139664",
+        "description": "Financial Records, Med cards, Hr documents",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Inter care",
+        "discovered": "2025-12-09 20:26:00.271036",
+        "description": "Full quickbooks dump, patients data, and financial data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "James Free Jewelers",
+        "discovered": "2025-12-09 20:25:55.264034",
+        "description": "James Free Jewelers specializes in fine jewelry and diamonds, offering a selecti...",
+        "link": "/leaks/69386e5288b6823fa271f28e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/James Free Jewelers.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Clean Air",
+        "discovered": "2025-12-09 20:25:54.118141",
+        "description": "Baker Co. specializes in the engineering, testing, and manufacturing of made-to-...",
+        "link": "/leaks/6938718588b6823fa272066d",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Clean Air.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "The Center of Association Management",
         "discovered": "2025-12-09 19:26:32.038005",
         "description": "",
@@ -198,315 +328,5 @@
         "screen": "screenshots/safepay/chemstresscom.png",
         "group_name": "safepay",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Serratelli Hat",
-        "discovered": "2025-12-09 08:25:48.010337",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=26755ccc-fc21-37b8-afe2-8ef296c36043",
-        "magnet": null,
-        "screen": "screenshots/qilin/Serratelli Hat.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cagayan Appliance Center",
-        "discovered": "2025-12-09 08:25:46.963116",
-        "description": "Business Services",
-        "link": "/site/view?uuid=fedebdda-502f-374d-9c49-89958f4a685a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cagayan Appliance Center.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.labiennale.org",
-        "discovered": "2025-12-09 07:26:55.396139",
-        "description": "",
-        "link": "/blog/disclosures/6878e300c7b82dfe0b27052c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwlabiennaleorg.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Acu Trans Solutions",
-        "discovered": "2025-12-09 06:27:06.191821",
-        "description": "Industry: Business Services\nRevenue: $6.4 Million\nWebsite: www.acutranssolutions.com",
-        "link": "/companies/acutrans",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Acu Trans Solutions.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Arabian Escapes",
-        "discovered": "2025-12-09 06:27:05.101156",
-        "description": "Industry: Real Estate\nRevenue: $9 Million\nWebsite: www.arabianescapes.com",
-        "link": "/companies/arabianescapes",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Arabian Escapes.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Homes 4 Life",
-        "discovered": "2025-12-09 06:27:04.100047",
-        "description": "Industry: Real Estate\nRevenue: $22.6 Million\nWebsite: www.homes4life.ae",
-        "link": "/companies/homes4life",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Homes 4 Life.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Elysian Real Estate",
-        "discovered": "2025-12-09 06:27:01.038014",
-        "description": "Industry: Real Estate\nRevenue: $23.9 Million\nWebsite: www.elysian.com",
-        "link": "/companies/elysian",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Elysian Real Estate.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Harbor Real Estate",
-        "discovered": "2025-12-09 06:27:00.016710",
-        "description": "Industry: Real Estate\nRevenue: $32.5 Million\nWebsite: www.harbordubai.com",
-        "link": "/companies/harbor",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Harbor Real Estate.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Savills Middle East/Cluttons",
-        "discovered": "2025-12-09 06:26:59.017055",
-        "description": "Industry: Real Estate\nRevenue: $55.7 Million\nWebsite: www.savills.me",
-        "link": "/companies/savills",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Savills Middle EastCluttons.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Betterhomes",
-        "discovered": "2025-12-09 06:26:58.039328",
-        "description": "Industry: Real Estate\nRevenue: $60.4 Million\nWebsite: www.bhomes.com",
-        "link": "/companies/bhomes",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Betterhomes.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Hunt & Harris Real Estate",
-        "discovered": "2025-12-09 06:26:57.087882",
-        "description": "Industry: Real Estate\nRevenue: $28 Million\nWebsite: www.huntandharris.com",
-        "link": "/companies/hunt",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Hunt & Harris Real Estate.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Coldwell Banker UAE",
-        "discovered": "2025-12-09 06:26:56.067105",
-        "description": "Industry: Real Estate\nRevenue: $17.3 Million\nWebsite: www.coldwellbanker.ae",
-        "link": "/companies/coldwell",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Coldwell Banker UAE.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "One Broker Group",
-        "discovered": "2025-12-09 06:26:55.114858",
-        "description": "Industry: Real Estate\nRevenue: $100.8 Million\nWebsite: www.obg.ae",
-        "link": "/companies/obg",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/One Broker Group.png",
-        "group_name": "coinbase cartel",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Sotheby’s International Realty",
-        "discovered": "2025-12-09 06:26:54.045358",
-        "description": "Industry: Real Estate\nRevenue: $13 Billion\nWebsite: sothebysrealty.ae",
-        "link": "/companies/sothebys",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Sotheby’s International Realty.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "screenate",
-        "discovered": "2025-12-09 01:26:07.098939",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "koncept law",
-        "discovered": "2025-12-09 01:26:06.128245",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "caryanams",
-        "discovered": "2025-12-09 01:26:05.143625",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "playroll",
-        "discovered": "2025-12-09 01:26:01.482374",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "seajob",
-        "discovered": "2025-12-09 01:26:00.468833",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "b2be.com",
-        "discovered": "2025-12-09 01:25:43.448436",
-        "description": "B2BE provides a comprehensive suite of supply chain management solutions designed to enhance visibility, control, and efficiency for businesses globally. Their offerings include document management, e-invoicing, EDI, and automation tools tailored for both customer and supplier engagement. Targeting…",
-        "link": "/Nlnxxj9pYLCbbI7W4B7jLu4OM1Hw22mV/b2be-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/b2becom.png",
-        "group_name": "chaos",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "thinkmarkets.com",
-        "discovered": "2025-12-09 01:25:42.419736",
-        "description": "Founded in 2010, ThinkMarkets is a multi-asset online brokerage with headquarters in London and Melbourne and hubs in the Asia-Pacific, the Middle East and North Africa, Europe, and South America.",
-        "link": "/o7lyBRF7S6hv1YzgrUEVri9yAAoVTChg/thinkmarkets-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/thinkmarketscom.png",
-        "group_name": "chaos",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Transimpex Warenhandelsgesellschaft",
-        "discovered": "2025-12-09 00:25:29.074742",
-        "description": "Transimpex Warenhandelsgesellschaft mbH is a food & beverages company based out of Neustadter Straße 1A, Lambsheim, Germany.We are ready to upload 10gb of corporate data. Personal information of employees (passports and IDs and so on), detailed financials, agreements and contracts, a bit of client information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Iberia Airlines - Database Leaked",
-        "discovered": "2025-12-08 23:25:51.092055",
-        "description": "",
-        "link": "/news/Iberia/",
-        "magnet": null,
-        "screen": "screenshots/everest/Iberia Airlines - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sarmap - Database leaked",
-        "discovered": "2025-12-08 23:25:49.957762",
-        "description": "",
-        "link": "/news/Sarmap/",
-        "magnet": null,
-        "screen": "screenshots/everest/Sarmap - Database leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Petra - Database Leaked",
-        "discovered": "2025-12-08 23:25:48.170048",
-        "description": "",
-        "link": "/news/Petra/",
-        "magnet": null,
-        "screen": "screenshots/everest/Petra - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "sandiegowarroom.com",
-        "discovered": "2025-12-08 22:25:47.549351",
-        "description": "",
-        "link": "/blog/disclosures/69372264be52b3ea1518a3ff",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/sandiegowarroomcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sterling Biotech",
-        "discovered": "2025-12-08 21:25:23.750835",
-        "description": "Sterling Biotech specializes in producing animal-free dairy products under the O...",
-        "link": "/leaks/6935914588b6823fa25db91d",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Sterling Biotech.png",
-        "group_name": "sinobi",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Seipi",
-        "discovered": "2025-12-08 20:25:42.190765",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=58ad4254-0c7f-3a35-a373-e479f261ea16",
-        "magnet": null,
-        "screen": "screenshots/qilin/Seipi.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Poyntell Limited",
-        "discovered": "2025-12-08 20:25:41.127591",
-        "description": "Electronics",
-        "link": "/site/view?uuid=a09727bd-e8a9-3de0-af61-3d5b9a770b5e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Poyntell Limited.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Redi Carpet",
-        "discovered": "2025-12-08 20:25:40.160510",
-        "description": "Commercial & Residential Construction",
-        "link": "/site/view?uuid=77b2bae9-2cab-3c7d-877d-4dc88a2e5b6d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Redi Carpet.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Canno Design",
-        "discovered": "2025-12-08 20:25:39.102725",
-        "description": "Construction",
-        "link": "/site/view?uuid=bcc42909-f6e5-30d3-82fd-04c953e65429",
-        "magnet": null,
-        "screen": "screenshots/qilin/Canno Design.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
