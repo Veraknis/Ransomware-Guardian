@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Häussermann stauden gehölze gmbh",
+        "discovered": "2025-12-11 15:27:06.930665",
+        "description": "Agricultural Sector",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WJ Professional",
+        "discovered": "2025-12-11 15:26:49.311866",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=4cc114e4-8d18-3202-afb2-d8b2e3921629",
+        "magnet": null,
+        "screen": "screenshots/qilin/WJ Professional.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nepes",
+        "discovered": "2025-12-11 15:26:48.321368",
+        "description": "Electronics",
+        "link": "/site/view?uuid=99e5501a-e1f8-3665-ba1c-ea80d58cc2e6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Nepes.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "A.S.A.P. Restoration",
+        "discovered": "2025-12-11 13:26:07.121905",
+        "description": "ASAP Restoration FL is a Florida-based company specializing in emergency restoration services for water, fire, and mold damage, operating 24/7 across South Flor...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "Harbour Town Doctors",
+        "discovered": "2025-12-11 13:26:04.742119",
+        "description": "Harbour Town Doctors\nHarbour Town Doctors is an accredited comprehensive general practice medical centre on the Gold Coast, Australia, offering general family medicine, chronic disease management, skin checks, women's/men's health, travel medicine and related medical services.\n\n\n\nMore",
+        "link": "archive.php?company=239",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Harbour Town Doctors.png",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "C*NC*R",
+        "discovered": "2025-12-11 11:25:53.209673",
+        "description": "Financial data, clients data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "www.digital****.com",
+        "discovered": "2025-12-11 11:25:51.041615",
+        "description": "Data theft 80gb",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hopital ** *****",
+        "discovered": "2025-12-11 09:25:50.511806",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Plonter Hacked",
         "discovered": "2025-12-11 08:25:47.730811",
         "description": "Today, we announce the successful breach of yet another node in the network of silence and normalization. Plonter.co.il, an Israeli tech and gaming equipment supplier, has been hacked. Their systems, once hidden behind firewalls and false confidence, now lay bare , exposing databases, internal records, and digital infrastructure that fuel the daily normalcy of an…",
@@ -97,166 +177,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tupi",
-        "discovered": "2025-12-10 11:26:08.373972",
-        "description": "Business Services",
-        "link": "/site/view?uuid=a1c9a605-c7ca-3852-935b-151ed4811082",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tupi.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hexacon Construction",
-        "discovered": "2025-12-10 11:26:07.448002",
-        "description": "Commercial & Residential Construction",
-        "link": "/site/view?uuid=96ee35ad-ae2d-3f00-8cf0-deeba2993c1b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hexacon Construction.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "West Quay",
-        "discovered": "2025-12-10 11:26:06.455817",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=a1c736e2-90da-3886-8c4e-96964f89bd74",
-        "magnet": null,
-        "screen": "screenshots/qilin/West Quay.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TopDest",
-        "discovered": "2025-12-10 11:26:05.459334",
-        "description": "Business Services",
-        "link": "/site/view?uuid=ed0568d6-64f1-3e0c-9a4c-131610f93b8c",
-        "magnet": null,
-        "screen": "screenshots/qilin/TopDest.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Teruya Brothers Ltd",
-        "discovered": "2025-12-10 11:26:04.400477",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=69c535f4-8eba-3c3b-8f6c-fafd9e1d72eb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Teruya Brothers Ltd.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Cisneros",
-        "discovered": "2025-12-10 11:26:01.004703",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=8d43fdfc-3474-3e16-87bf-8c5eead649a5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cisneros.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CIDEF Argentina S.A.",
-        "discovered": "2025-12-10 11:26:00.044216",
-        "description": "Business Services",
-        "link": "/site/view?uuid=29b91f0e-2c27-36d2-8c92-697e2676872c",
-        "magnet": null,
-        "screen": "screenshots/qilin/CIDEF Argentina SA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sem Val de Bourgogne",
-        "discovered": "2025-12-10 11:25:59.056219",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=ff7bfa95-370e-36e1-bcf1-280c5108792f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sem Val de Bourgogne.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Urban Remedy",
-        "discovered": "2025-12-10 11:25:58.110128",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=2f1dbfaf-b4b6-318b-a4c4-ef098aa9c772",
-        "magnet": null,
-        "screen": "screenshots/qilin/Urban Remedy.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Don Ricardo",
-        "discovered": "2025-12-10 11:25:57.110087",
-        "description": "Business Services",
-        "link": "/site/view?uuid=1fc458e6-0b6c-345e-83c5-81b4b5c57abf",
-        "magnet": null,
-        "screen": "screenshots/qilin/Don Ricardo.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vestil Manufacturing",
-        "discovered": "2025-12-10 11:25:56.163740",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=9f723b6a-f27a-3f2a-9231-d1a6f9006742",
-        "magnet": null,
-        "screen": "screenshots/qilin/Vestil Manufacturing.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Cdf",
-        "discovered": "2025-12-10 11:25:55.152013",
-        "description": "Business Services",
-        "link": "/site/view?uuid=f470783f-f063-36f2-b423-7cf3a01a665b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cdf.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "häussermann stauden gehölze gmbh",
-        "discovered": "2025-12-10 10:25:57.601277",
-        "description": "Agricultural Sector",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "brotherhood",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Novabio (france laboratories)",
-        "discovered": "2025-12-10 10:25:41.086514",
-        "description": "Novabio is a medical biology laboratory that helps people across southwestern France get accurate health tests. Located in several regions including Dordogne and Gironde, the team runs complete medical examinations to support local communities' health needs. Their skilled professionals use modern equipment to deliver precise and reliable medical analysis for doctors and patients - the whole data of kalilab and france laboratories Data, Patients full informations, doctors informations, partners, finance, screening results, 500GB of data (millions of files) include PDFs, DOCs, XLSx, SQLs, SSH keys and lot more, network has encrypted, we are Ready to provide decryptor and delete full data, we will provide sample, reach us asap",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Novabio (france laboratories).png",
-        "group_name": "nova",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "***.*** LAST TIMER UPDATE",
-        "discovered": "2025-12-10 10:25:39.340870",
-        "description": "1.5 terabytes of data stolen from one of Asia's largest investment companies, with more than 10 billion USD under management. The stolen data includes: 1. Investment documentation: private placement memorandums, investment memos (Pre-IC/Final-IC), financial models and project budgets 2. Investor database (LP): complete limited partner information, investment terms, contacts, non-disclosure agreements 3. Portfolio companies: financial statements, strategic plans and operating metrics for 30+ companies under management 4. Active M&A deals: documentation on 9+ projects, including due diligence and asset valuations 5. Corporate finances: salaries and bonuses for all employees (150+ people), department budgets, financial results 2022-2025 6. Strategic documents: Management Committee materials, top management biographies, corporate strategy, ESG policies 7. Legal documents: counterparty contracts, partner NDAs, regulatory documentation 8. Email correspondence: 500+ email files with deal approvals, negotiations and confidential management communications 9. CEO Office documents: leadership personal files and critical corporate secrets",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "dillonyarn.com",
-        "discovered": "2025-12-10 10:25:36.641666",
-        "description": "dillonyarn.com 117Gb uncompressed data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "abyss-data",
         "sector": "Technology"
     }
 ]
