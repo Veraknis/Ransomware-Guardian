@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Wavenet",
+        "discovered": "2025-12-14 15:27:20.213524",
+        "description": "",
+        "link": "/companies/5982962779",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Wavenet.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
+        "discovered": "2025-12-14 14:25:57.740237",
+        "description": "Many projects of large companies are now available to public. Customer information, confidential data, and much more. \nSuccessful engineering projects begin wit...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
         "post_title": "The Youngfor",
         "discovered": "2025-12-14 08:25:57.177520",
         "description": "Electronics",
@@ -218,55 +238,5 @@
         "screen": "screenshots/rhysida/***** ***********.png",
         "group_name": "rhysida",
         "sector": "Technology"
-    },
-    {
-        "post_title": "beycelik",
-        "discovered": "2025-12-13 14:25:51.053715",
-        "description": "",
-        "link": "/blog/disclosures/6938b92dbe52b3ea15308669",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/beycelik.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed",
-        "discovered": "2025-12-13 13:26:10.102726",
-        "description": "Once again, Handala RedWanted has shattered the illusion of security within the Zionist regime. This week, we have unveiled the names of 13 principal architects behind the ‘Arrow’ and ‘David’s Sling’ defense systems, individuals once believed to be shadows, now fully exposed to the world. A reward of $30,000 awaits anyone who provides valuable information…",
-        "link": "https://handala-hack.to/targets-locked-the-minds-behind-arrow-and-davids-sling-are-revealed/",
-        "magnet": null,
-        "screen": "screenshots/handala/Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed.png",
-        "group_name": "handala",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Temple Shalom",
-        "discovered": "2025-12-13 13:26:09.055855",
-        "description": "Temple Shalom is a Reform Jewish community of approximately 400 families who celebrate the diversity of modern Judaism in the Washington, D.C. area by welcoming...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Chema Ballester",
-        "discovered": "2025-12-13 12:27:12.676367",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=eb42363a-52c2-3a10-9f2f-2dde80ddf9e1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chema Ballester.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Watermark Beach Resort",
-        "discovered": "2025-12-13 12:27:10.921277",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=88e9209e-df1c-392d-97a0-02e76397cebb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Watermark Beach Resort.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
     }
 ]
