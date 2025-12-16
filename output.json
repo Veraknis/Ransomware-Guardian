@@ -1,11 +1,151 @@
 [
     {
+        "post_title": "Peugeot Motocycles",
+        "discovered": "2025-12-16 05:01:33.183851",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JJ White",
+        "discovered": "2025-12-16 05:01:32.092712",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Soapeople",
+        "discovered": "2025-12-16 05:01:30.977874",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sanko Gosei Technology",
+        "discovered": "2025-12-16 05:01:30.014456",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Chemirol",
+        "discovered": "2025-12-16 05:01:29.058969",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rameder",
+        "discovered": "2025-12-16 05:01:28.040660",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bär Cargolift",
+        "discovered": "2025-12-16 05:01:27.053469",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vereinigte-stadtwerke",
+        "discovered": "2025-12-16 05:01:26.130973",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "V****l",
+        "discovered": "2025-12-16 05:01:25.179664",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "K****n",
+        "discovered": "2025-12-16 05:01:24.224756",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Markham Stouffville Hospital",
+        "discovered": "2025-12-16 00:26:52.859995",
+        "description": "Personal data.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/972yBgEdcwzdBr5w7789PHPOQzniuNddvIxO6OnL1pJEjGVwtapBsH1SMHuUMYY0BT5Rdhs9eqjYRdIkgXzm01NmpoSWJn",
+        "magnet": null,
+        "screen": "screenshots/anubis/Markham Stouffville Hospital.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Beyer Law Group",
+        "discovered": "2025-12-16 00:26:51.857963",
+        "description": "Data breach from Silicon Valley lawyers.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Bo4opOE4pvD1yT10Lv+AjtcLSi5o8YGU9wSxYeadsZJVD2ZtPWE5tbkoQtj65wZPCp89d9EvYG4Ktc3kGr6GlZzZ01KR1JG",
+        "magnet": null,
+        "screen": "screenshots/anubis/Beyer Law Group.png",
+        "group_name": "anubis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "YOKOSUKA GAKUIN",
+        "discovered": "2025-12-15 21:25:49.257370",
+        "description": "YOKOSUKA GAKUIN\nYokosuka Gakuin, a private school in Yokosuka, Kanagawa Prefecture, Japan. The school was established in 1950.\n\n\n\nMore",
+        "link": "archive.php?company=242",
+        "magnet": null,
+        "screen": "screenshots/rhysida/YOKOSUKA GAKUIN.png",
+        "group_name": "rhysida",
+        "sector": "Education"
+    },
+    {
+        "post_title": "cle**rp**er.eu",
+        "discovered": "2025-12-15 20:25:58.445271",
+        "description": "Technology leader for modern energy infrastructure",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "obscura",
+        "sector": "Energy"
+    },
+    {
         "post_title": "demilac, Inc",
         "discovered": "2025-12-15 19:26:44.263669",
         "description": "",
         "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/34",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/blackshrantac/demilac, Inc.png",
         "group_name": "blackshrantac",
         "sector": "Unknown"
     },
@@ -65,7 +205,7 @@
         "description": "The Tunisian Society of Radiology (STR) \nwas created in 1952 by the late Doctor Ali Fourati under the name of the Tunisian Association of Electro-Radiology.\n\nhttps://strtn.org/\n\n+(216) 54 95 50 64\n+(216) 71 90 42 63\nstrtn14@gmail.com",
         "link": "#",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/strtnorg.png",
         "group_name": "nova",
         "sector": "Nonprofit"
     },
@@ -157,166 +297,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "devman2",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Diaz Gill Medicina Laboratorial S.A.",
-        "discovered": "2025-12-15 08:25:56.052271",
-        "description": "",
-        "link": "/r/3902d06c14c70276dfcf08ab3c4d3ef284ff95d7",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Diaz Gill Medicina Laboratorial SA.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "k*m**w.com",
-        "discovered": "2025-12-15 06:25:59.593472",
-        "description": "Transportation & Warehousing",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "obscura",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Hodgins Law Group",
-        "discovered": "2025-12-15 06:25:56.952217",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=8a5afc43-17fc-3987-b1c0-609802891637",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hodgins Law Group.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Hopper Developments",
-        "discovered": "2025-12-15 06:25:56.017139",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=f9fad654-8c82-3239-b168-b665f9f5b2c6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hopper Developments.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "STIC",
-        "discovered": "2025-12-15 06:25:55.042280",
-        "description": "Finance",
-        "link": "/site/view?uuid=70cd52e5-c357-3db6-8d65-cb51e173785f",
-        "magnet": null,
-        "screen": "screenshots/qilin/STIC.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "republica federative do brasil",
-        "discovered": "2025-12-15 03:26:23.234094",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cityofsignalhill.org",
-        "discovered": "2025-12-15 03:26:07.118884",
-        "description": "",
-        "link": "/blog/disclosures/693f6391be52b3ea159a7093",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cityofsignalhillorg.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "steelworksinc.ca",
-        "discovered": "2025-12-15 03:26:05.867067",
-        "description": "",
-        "link": "/blog/disclosures/693f6499be52b3ea159a7bc8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/steelworksincca.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "teccart.qc.ca",
-        "discovered": "2025-12-15 01:26:24.759810",
-        "description": "Founded in 1945, the institution has a long history of delivering practical, career-focused education in technology, design, business, management, arts, …",
-        "link": "/blog/post/teccartqcca/",
-        "magnet": null,
-        "screen": "screenshots/safepay/teccartqcca.png",
-        "group_name": "safepay",
-        "sector": "Education"
-    },
-    {
-        "post_title": "sbws.org.sg",
-        "discovered": "2025-12-15 01:26:23.794993",
-        "description": "Singapore Buddhist Welfare Services (SBWS) is a well-established voluntary welfare organisation (VWO) in Singapore that focuses on holistic, community-based support …",
-        "link": "/blog/post/sbwsorgsg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/sbwsorgsg.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "fest-group.de",
-        "discovered": "2025-12-15 01:26:22.645107",
-        "description": "FEST Group is a German engineering and industrial technology company headquartered in Goslar. It specialises in advanced automation, electrification and …",
-        "link": "/blog/post/fest-groupde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/fest-groupde.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "lampus.com",
-        "discovered": "2025-12-15 01:26:21.675498",
-        "description": "R.I. Lampus Company, operating the domain Lampus.com, is a long-established American manufacturer and distributor in the building materials industry. Founded …",
-        "link": "/blog/post/lampuscom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/lampuscom.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "inttrust.gr",
-        "discovered": "2025-12-15 01:26:20.664857",
-        "description": "InTTrust S.A. is a Greek information technology and consulting firm headquartered in Agia Paraskevi, Athens. Founded in 2006, the company …",
-        "link": "/blog/post/inttrustgr/",
-        "magnet": null,
-        "screen": "screenshots/safepay/inttrustgr.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "aysa.com.ar",
-        "discovered": "2025-12-15 01:26:19.649589",
-        "description": "AYSA, formally known as Agua y Saneamientos Argentinos Sociedad Anónima, is Argentina’s largest state-owned water and sanitation utility, responsible for …",
-        "link": "/blog/post/aysacomar/",
-        "magnet": null,
-        "screen": "screenshots/safepay/aysacomar.png",
-        "group_name": "safepay",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "Kier & Wright",
-        "discovered": "2025-12-14 23:26:25.349130",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=f518e52a-bd2a-3272-a165-fb384a2c8b34",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kier & Wright.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VFM Systems & Services (P) Ltd",
-        "discovered": "2025-12-14 20:27:06.312989",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/36",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/VFM Systems & Services (P) Ltd.png",
-        "group_name": "blackshrantac",
         "sector": "Technology"
     }
 ]
