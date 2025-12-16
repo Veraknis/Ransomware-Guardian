@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Allure Home Creation",
+        "discovered": "2025-12-16 19:26:42.068446",
+        "description": "",
+        "link": "topic.php?id=64e3ZPGBWJUTy7",
+        "magnet": null,
+        "screen": "screenshots/play/Allure Home Creation.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fairgrove Oil",
+        "discovered": "2025-12-16 19:26:41.075468",
+        "description": "",
+        "link": "topic.php?id=rOH9oohwbkN2V",
+        "magnet": null,
+        "screen": "screenshots/play/Fairgrove Oil.png",
+        "group_name": "play",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Maypay Farms Inc",
+        "discovered": "2025-12-16 19:26:40.092107",
+        "description": "",
+        "link": "topic.php?id=4AzgNVN5b2Ft0s",
+        "magnet": null,
+        "screen": "screenshots/play/Maypay Farms Inc.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Southern Specialty & Supply",
+        "discovered": "2025-12-16 19:26:39.079025",
+        "description": "",
+        "link": "topic.php?id=SjdzErzOsvz3iR",
+        "magnet": null,
+        "screen": "screenshots/play/Southern Specialty & Supply.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.ktlgroup.com",
+        "discovered": "2025-12-16 19:26:25.659921",
+        "description": "KTL Offshore is a company with a global vision: to extend our footprint internat...",
+        "link": "/leaks/69419b162423bc3ce0c2336a",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwktlgroupcom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "OGI Groupe",
+        "discovered": "2025-12-16 18:27:50.359692",
+        "description": "",
+        "link": "/companies/9429657975",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/OGI Groupe.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.advancedentdenver.com",
+        "discovered": "2025-12-16 18:27:47.477651",
+        "description": "Advanced ENT & Allergy Center is a leading provider in Denver specializing in al...",
+        "link": "/leaks/69418cb32423bc3ce0c1b858",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwadvancedentdenvercom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Walters Group Inc",
         "discovered": "2025-12-16 15:26:05.955645",
         "description": "Specializing in the production of structural steel and construction.",
@@ -238,105 +308,5 @@
         "screen": null,
         "group_name": "obscura",
         "sector": "Energy"
-    },
-    {
-        "post_title": "demilac, Inc",
-        "discovered": "2025-12-15 19:26:44.263669",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/34",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/demilac, Inc.png",
-        "group_name": "blackshrantac",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Logistics",
-        "discovered": "2025-12-15 19:26:29.151905",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=3cc31769-4926-3123-aebf-14d3c057850d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo Logistics.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Merko Ehitus",
-        "discovered": "2025-12-15 19:26:28.144056",
-        "description": "Construction",
-        "link": "/site/view?uuid=462ff951-291e-375d-88ab-7b267fedf784",
-        "magnet": null,
-        "screen": "screenshots/qilin/Merko Ehitus.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Dacon Networks",
-        "discovered": "2025-12-15 19:26:27.181583",
-        "description": "Electronics",
-        "link": "/site/view?uuid=687944d4-a514-38a4-ac52-6f4dd405fb94",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dacon Networks.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fujitsu Systems Global Solutions Sdn Bhd",
-        "discovered": "2025-12-15 19:26:24.971360",
-        "description": "Government",
-        "link": "/site/view?uuid=96c49aae-438e-33c4-a9e0-700f5eefed6e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fujitsu Systems Global Solutions Sdn Bhd.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Region of Istria",
-        "discovered": "2025-12-15 19:26:23.962025",
-        "description": "Education",
-        "link": "/site/view?uuid=f0e9c303-987d-32b3-aa2a-830184c28bf5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Region of Istria.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "strtn.org",
-        "discovered": "2025-12-15 18:25:59.059300",
-        "description": "The Tunisian Society of Radiology (STR) \nwas created in 1952 by the late Doctor Ali Fourati under the name of the Tunisian Association of Electro-Radiology.\n\nhttps://strtn.org/\n\n+(216) 54 95 50 64\n+(216) 71 90 42 63\nstrtn14@gmail.com",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/strtnorg.png",
-        "group_name": "nova",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Denk & Roche Builders",
-        "discovered": "2025-12-15 18:25:56.505307",
-        "description": "Denk & Roche Builders specializes in the construction of wood-framed and metal structures, providing services from early design concepts to final finishes, including solar applications and mass timber. We will upload 54gb of corporate data soon. Employee information,detailed financials, projects, contracts and agreements, client files, confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "International Standard Valve",
-        "discovered": "2025-12-15 18:25:55.520308",
-        "description": "International Standard Valve, Inc. specializes in providing a range of ball valves, gate, globe, and check valves tailored for theoil and gas, oil refining, natural gas, power generation, chemical, petrochemical, pulp and paper, and mining industries.We will upload corporate data soon. Employee information (name, DOB and other information), detailed financials, customer information, contracts and agreements, projects, specifications and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Print-O-Tape",
-        "discovered": "2025-12-15 17:26:07.024254",
-        "description": "https://www.printotape.com\n\t\t\t\t\t\t\t\t\tPrint-O-Tape, Inc. is a manufacturer specializing in self-adhesive labels, offering a wide range of products including custom labels, stock labels, RFID labels, and roll materials. The company has established strong relationships with well-known end users, resellers, and OEMs, providing labeling solutions. Their commitment to innovation and technology allows them to remain an industry leader, serving markets such as transportation, warehousing, food and beverage, and consumer goods. Print-O-Tape, Inc. manufactures and supplies self-adhesive labels to customers worldwides.",
-        "link": "http://gobj3ph5sj332iithgescrsejiszhaey5l4ffwnou4nwanbcf37phdqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Print-O-Tape.png",
-        "group_name": "interlock",
-        "sector": "Agriculture"
     }
 ]
