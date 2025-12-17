@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "PODOVIA",
+        "discovered": "2025-12-17 19:25:56.567457",
+        "description": "0",
+        "link": "/site/view?uuid=d4a39267-78de-322f-8a5f-220787aae82a",
+        "magnet": null,
+        "screen": "screenshots/qilin/PODOVIA.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Naftali Bennett Chats",
+        "discovered": "2025-12-17 19:25:54.178056",
+        "description": "Naftali Bennett has publicly denied any breach and insists that his phone was never hacked. However, the truth speaks for itself. As Handala Hack, we are exposing 1,900 chats directly from his device to prove beyond any doubt that his claims are false. The evidence is clear and undeniable, Bennett’s attempt to mislead the public…",
+        "link": "https://handala-hack.to/naftali-bennett-chats/",
+        "magnet": null,
+        "screen": "screenshots/handala/Naftali Bennett Chats.png",
+        "group_name": "handala",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Amla Commerce",
+        "discovered": "2025-12-17 19:25:53.143630",
+        "description": "Amla Commerce develops ecommerce software platforms. Architected with a focus on long-term sustainability, the platforms offer unmatched flexibility and scalabi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Adelman & Gettleman",
+        "discovered": "2025-12-17 18:26:21.213382",
+        "description": "Adelman & Gettleman is a boutique law firm based in Chicago that specializes in commercial insolvency, bankruptcy, and related litigation. With over 40 years of experience, the firm is known for efficiently resolving financial difficulties for its clients through creative and consensus-driven approaches.We will upload 31gb of corporate data soon. Clients and employeesinformation (passports, DLs, SSNs), financials, court files, police reports and other confidential files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "ACME Industrial",
+        "discovered": "2025-12-17 18:26:20.325335",
+        "description": "ACME Industrial, Inc. offers a wide range of industrial, commercial, and marine repair and mechanical services from their 10,000 square foot facility in Staten Island, New York.We will upload 256gb of corporate data soon. Employees information (passports, DLs, SSNs, birth and death certs, medical information), financials, payment details, client files, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Latitude 33 Planning& Engineering",
+        "discovered": "2025-12-17 18:26:19.093708",
+        "description": "Latitude 33 is a certified Small Business Enterprise that provides planning, engineering, and surveying services across various locations, including San Diego, Los Angeles, Sacramento, and Salt Lake City.We will upload 53gb of corporate data soon. Employees information(passports, DLs, and numerous forms with personal information), detailed financials, payment details, client files, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Axion50plus",
+        "discovered": "2025-12-17 16:26:29.225023",
+        "description": "Financial, HR data, Client data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Jet ********",
+        "discovered": "2025-12-17 16:26:28.269969",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "The Araneta Group",
         "discovered": "2025-12-17 15:28:33.304008",
         "description": "The Araneta Group is a private, diversified conglomerate in the Philippines — active in property development, food service, leisure & entertainment, and hospitality — and is composed of five main business units including ACI, Inc., PPI Holdings Inc., Uniprom Inc., Araneta Hotels Inc. and Progressive Development Corporation. \r\n\r\naranetacity.com, aranetagroup.com\r\n\r\nThe group employs around 12,000 people. \r\n\r\nWhile publicly available consolidated revenue figures for the entire group are not clearly disclosed, one of its listed related entities (separate from the core private group) — Araneta Properties, Inc. (PSE: ARA) — reported gross revenue of ₱706.7 million in 2024",
@@ -417,76 +497,6 @@
         "magnet": null,
         "screen": "screenshots/sinobi/Trine Access Technology.png",
         "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Allure Home Creation",
-        "discovered": "2025-12-16 19:26:42.068446",
-        "description": "",
-        "link": "topic.php?id=64e3ZPGBWJUTy7",
-        "magnet": null,
-        "screen": "screenshots/play/Allure Home Creation.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fairgrove Oil",
-        "discovered": "2025-12-16 19:26:41.075468",
-        "description": "",
-        "link": "topic.php?id=rOH9oohwbkN2V",
-        "magnet": null,
-        "screen": "screenshots/play/Fairgrove Oil.png",
-        "group_name": "play",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Maypay Farms Inc",
-        "discovered": "2025-12-16 19:26:40.092107",
-        "description": "",
-        "link": "topic.php?id=4AzgNVN5b2Ft0s",
-        "magnet": null,
-        "screen": "screenshots/play/Maypay Farms Inc.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Southern Specialty & Supply",
-        "discovered": "2025-12-16 19:26:39.079025",
-        "description": "",
-        "link": "topic.php?id=SjdzErzOsvz3iR",
-        "magnet": null,
-        "screen": "screenshots/play/Southern Specialty & Supply.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.ktlgroup.com",
-        "discovered": "2025-12-16 19:26:25.659921",
-        "description": "KTL Offshore is a company with a global vision: to extend our footprint internat...",
-        "link": "/leaks/69419b162423bc3ce0c2336a",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwktlgroupcom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "OGI Groupe",
-        "discovered": "2025-12-16 18:27:50.359692",
-        "description": "",
-        "link": "/companies/9429657975",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/OGI Groupe.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.advancedentdenver.com",
-        "discovered": "2025-12-16 18:27:47.477651",
-        "description": "Advanced ENT & Allergy Center is a leading provider in Denver specializing in al...",
-        "link": "/leaks/69418cb32423bc3ce0c1b858",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwadvancedentdenvercom.png",
-        "group_name": "lynx",
         "sector": "Unknown"
     }
 ]
