@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "CVK Hotels & Resorts_Turkey",
+        "discovered": "2025-12-18 01:26:18.911126",
+        "description": "",
+        "link": "/blog/disclosures/69431c02be52b3ea15d4b3ef",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/CVK Hotels & Resorts_Turkey.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://medhelpclinics.com/",
+        "discovered": "2025-12-17 23:26:20.815205",
+        "description": "MedHelp",
+        "link": "/post/6941ec0ffeb604ea6ee5510d",
+        "magnet": null,
+        "screen": "screenshots/termite/medhelpclinicscom.png",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Banco Vimenca Sleeping at the Vault Door",
+        "discovered": "2025-12-17 22:26:09.733032",
+        "description": "#DataLeak #Breach #BancoVimenca\n1% of data already available!",
+        "link": "view_article.php?article=UsSgEuGsDnyJ5pGN1klXyTDSiH1T1hZ9Css9kae6J2XIigzstLz8gN8QwY1CmnTk",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Banco Vimenca Sleeping at the Vault Door.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "seguriamericas.com",
+        "discovered": "2025-12-17 21:28:07.204811",
+        "description": "SeguriAmericas, formally known as Seguridad Las Americas Ltda, is a Colombian company specialising in private security and investigation services. Founded …",
+        "link": "/blog/post/seguriamericascom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/seguriamericascom.png",
+        "group_name": "safepay",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "smilecenterutah.com",
+        "discovered": "2025-12-17 21:28:06.277418",
+        "description": "Smile Center Utah is a private dental practice located in Provo, Utah, providing comprehensive oral healthcare services to patients of …",
+        "link": "/blog/post/smilecenterutahcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/smilecenterutahcom.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "silverlinegroupinc.com",
+        "discovered": "2025-12-17 21:28:05.309456",
+        "description": "Silverline Group Inc. is a Canadian construction and civil contracting firm based in St. Catharines, Ontario. It operates in the …",
+        "link": "/blog/post/silverlinegroupinccom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/silverlinegroupinccom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "notar-gerresheim.de",
+        "discovered": "2025-12-17 21:28:04.420531",
+        "description": "Notare Dr. Heinrich & Dr. Berg is a private notary office located in the Gerresheim district of Düsseldorf, Germany. The …",
+        "link": "/blog/post/notar-gerresheimde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/notar-gerresheimde.png",
+        "group_name": "safepay",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "artcitydental.com",
+        "discovered": "2025-12-17 21:28:01.150659",
+        "description": "Art City Dental is a family-oriented dental clinic located in Springville, Utah, within the United States. The practice provides a …",
+        "link": "/blog/post/artcitydentalcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/artcitydentalcom.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "gandlmechanical.com",
+        "discovered": "2025-12-17 21:28:00.242593",
+        "description": "G & L Mechanical Contractor, L.P. is a regional mechanical contracting firm based in Grapevine, Texas, and has been operating …",
+        "link": "/blog/post/gandlmechanicalcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/gandlmechanicalcom.png",
+        "group_name": "safepay",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "zimeda.eu",
+        "discovered": "2025-12-17 21:27:58.958561",
+        "description": "Zimeda GmbH & Co. KG is a German medical technology and healthcare supplier headquartered in Passau, Bavaria. The firm operates …",
+        "link": "/blog/post/zimedaeu/",
+        "magnet": null,
+        "screen": "screenshots/safepay/zimedaeu.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "PODOVIA",
         "discovered": "2025-12-17 19:25:56.567457",
         "description": "0",
@@ -127,376 +227,6 @@
         "magnet": null,
         "screen": "screenshots/handala/Caught by the Octopus: Bennett’s Darkest Hour.png",
         "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pueblo West Colorado",
-        "discovered": "2025-12-17 07:26:56.400795",
-        "description": "Government",
-        "link": "/site/view?uuid=1d2cbcb3-15d7-3faf-9fbe-f3a948b168d2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pueblo West Colorado.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Eurofret Transports Et Logistique",
-        "discovered": "2025-12-17 07:26:55.435679",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=7fcd72de-719f-345b-b7b2-e61af082e557",
-        "magnet": null,
-        "screen": "screenshots/qilin/Eurofret Transports Et Logistique.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Hr Björkmans Entrémattor",
-        "discovered": "2025-12-17 07:26:54.420727",
-        "description": "Business Services",
-        "link": "/site/view?uuid=a4a572fc-b68b-319e-bb42-dfb378d87c0a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hr Björkmans Entrémattor.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Capital + Safi",
-        "discovered": "2025-12-17 07:26:53.283200",
-        "description": "Finance",
-        "link": "/site/view?uuid=e5f792aa-6e9b-38ba-adaa-4708c6c064c0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Capital + Safi.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Ciif",
-        "discovered": "2025-12-17 07:26:48.064761",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=a9934b13-745d-3c36-bac5-b4d93c4a0ed7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ciif.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Ferreteria Scopazzo",
-        "discovered": "2025-12-17 06:26:33.897647",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=4321aa02-1bde-32f8-bfda-0eed8a87536e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ferreteria Scopazzo.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Roose Ressler & Green Co",
-        "discovered": "2025-12-17 05:26:48.150779",
-        "description": "",
-        "link": "/companies/8587618644",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Roose Ressler & Green Co.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Smith Hawks",
-        "discovered": "2025-12-17 05:26:47.126061",
-        "description": "",
-        "link": "/companies/0588948263",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Smith Hawks.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://avenira.com/",
-        "discovered": "2025-12-17 04:26:21.413422",
-        "description": "",
-        "link": "/blog/disclosures/6941ed80be52b3ea15c07985",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/aveniracom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Svenska kraftnät - Database Leaked",
-        "discovered": "2025-12-17 02:26:32.688813",
-        "description": "",
-        "link": "/news/Svenska_kraftnät/",
-        "magnet": null,
-        "screen": "screenshots/everest/Svenska kraftnät - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ELC Electroconsult SpA",
-        "discovered": "2025-12-17 02:26:31.462125",
-        "description": "",
-        "link": "/news/ELC_Electroconsult_SpA/",
-        "magnet": null,
-        "screen": "screenshots/everest/ELC Electroconsult SpA.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "aspenviewacademy.org",
-        "discovered": "2025-12-17 01:26:46.174612",
-        "description": "Aspen View Academy is a charter school located in Castle Rock, Colorado, serving students from pre-kindergarten through 8th grade. Founded …",
-        "link": "/blog/post/aspenviewacademyorg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/aspenviewacademyorg.png",
-        "group_name": "safepay",
-        "sector": "Education"
-    },
-    {
-        "post_title": "feldmanandlopez.com",
-        "discovered": "2025-12-17 01:26:45.185298",
-        "description": "Feldman & Lopez, P.A. is a law firm based in Miami, Florida, that specialises in property insurance law and related …",
-        "link": "/blog/post/feldmanandlopezcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/feldmanandlopezcom.png",
-        "group_name": "safepay",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "hoodriverdentist.com",
-        "discovered": "2025-12-17 01:26:44.156235",
-        "description": "Hood River Dental is a private dental practice located in Hood River, Oregon, providing comprehensive oral healthcare services to individuals …",
-        "link": "/blog/post/hoodriverdentistcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/hoodriverdentistcom.png",
-        "group_name": "safepay",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "seeberger-appel.de",
-        "discovered": "2025-12-17 01:26:43.229609",
-        "description": "Seeberger Appel is a German law firm specialising in commercial law, corporate law, employment law, and civil litigation, with a …",
-        "link": "/blog/post/seeberger-appelde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/seeberger-appelde.png",
-        "group_name": "safepay",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "stadtwerke-clausthal.de",
-        "discovered": "2025-12-17 01:26:42.185592",
-        "description": "Stadtwerke Clausthal-Zellerfeld is a municipal utility company (Stadtwerk) serving the town of Clausthal-Zellerfeld in Lower Saxony, Germany. As a publicly …",
-        "link": "/blog/post/stadtwerke-clausthalde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/stadtwerke-clausthalde.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "autohaus-paschke.de",
-        "discovered": "2025-12-17 01:26:41.104773",
-        "description": "Autohaus Paschke is a German automobile dealership and automotive service provider that operates primarily in the regional car retail and …",
-        "link": "/blog/post/autohaus-paschkede/",
-        "magnet": null,
-        "screen": "screenshots/safepay/autohaus-paschkede.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ernst-auto.de",
-        "discovered": "2025-12-17 01:26:39.941319",
-        "description": "Ernst Autohaus is a German automotive dealership and service company operating in the regional vehicle retail market. The business is …",
-        "link": "/blog/post/ernst-autode/",
-        "magnet": null,
-        "screen": "screenshots/safepay/ernst-autode.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "ANG BROTHERS (M&E) PTE. LTD.",
-        "discovered": "2025-12-17 00:26:07.375529",
-        "description": "Encrypted 13/11/2025 | SOLD 16/12/2025",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/ANG BROTHERS (M&E) PTE LTD.png",
-        "group_name": "nova",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A Uzzo",
-        "discovered": "2025-12-16 23:27:10.914418",
-        "description": "A. Uzzo & Company is a certified public accounting firm based in Purchase, NY, s...",
-        "link": "/leaks/6941cc8488b6823fa2b56e2f",
-        "magnet": null,
-        "screen": "screenshots/sinobi/A Uzzo.png",
-        "group_name": "sinobi",
-        "sector": "Government"
-    },
-    {
-        "post_title": "TACK Electronics",
-        "discovered": "2025-12-16 23:27:09.990286",
-        "description": "TACK Electronics specializes in producing high-quality custom wire harnesses and...",
-        "link": "/leaks/6941cce288b6823fa2b5731f",
-        "magnet": null,
-        "screen": "screenshots/sinobi/TACK Electronics.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mercury Wire Products",
-        "discovered": "2025-12-16 23:27:09.035940",
-        "description": "Mercury Wire is a manufacturer specializing in innovative custom wire, cable, an...",
-        "link": "/leaks/6941cd8788b6823fa2b57a05",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Mercury Wire Products.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cinema Concepts",
-        "discovered": "2025-12-16 23:27:08.069047",
-        "description": "Cinema Concepts is a creative studio and production company specializing in cont...",
-        "link": "/leaks/6941ce0b88b6823fa2b57c2b",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Cinema Concepts.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "AIRCOND S.R.L.",
-        "discovered": "2025-12-16 23:27:06.540895",
-        "description": "AIRCOND S.R.L. is based at PZA LORENZO LOTTO, 11, Italy and is a Private limited...",
-        "link": "/leaks/6941cea188b6823fa2b57db7",
-        "magnet": null,
-        "screen": "screenshots/sinobi/AIRCOND SRL.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Milhench Supply Company",
-        "discovered": "2025-12-16 23:27:05.623162",
-        "description": "Milhench is a family-run business that has been providing everyday necessities t...",
-        "link": "/leaks/6941cf3e88b6823fa2b580d6",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Milhench Supply Company.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lanmark Group",
-        "discovered": "2025-12-16 23:27:04.696705",
-        "description": "Lanmark Group, Inc. is a full-service general contracting firm based in Brooklyn...",
-        "link": "/leaks/6941cfc688b6823fa2b585f7",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Lanmark Group.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Holiday Tours",
-        "discovered": "2025-12-16 23:27:02.456578",
-        "description": "Holiday Companies, established in 1978, is a family-owned business based in Nort...",
-        "link": "/leaks/6941d0c388b6823fa2b58f93",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Holiday Tours.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Power Curbers",
-        "discovered": "2025-12-16 22:27:23.544215",
-        "description": "Established in 1953 in Salisbury, NC, Power Curbers manufactured the worlds firs...",
-        "link": "/leaks/6941beb288b6823fa2b4eefb",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Power Curbers.png",
-        "group_name": "sinobi",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Florida Orthopaedic Associates",
-        "discovered": "2025-12-16 22:27:22.619512",
-        "description": "Florida Orthopaedic Associates & Walk-In Clinic is a leading provider of orthope...",
-        "link": "/leaks/6941c01288b6823fa2b4fa8c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Florida Orthopaedic Associates.png",
-        "group_name": "sinobi",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Peaker Services",
-        "discovered": "2025-12-16 22:27:21.539495",
-        "description": "Peaker Services, Inc. engages in rebuilding, repairing, and maintaining diesel e...",
-        "link": "/leaks/6941c0c988b6823fa2b50028",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Peaker Services.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Shlansky Law Group",
-        "discovered": "2025-12-16 22:27:19.912036",
-        "description": "Shlansky Law Group (SLG) is a business law firm based in Wilmington, Delaware, s...",
-        "link": "/leaks/6941c35c88b6823fa2b512a4",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Shlansky Law Group.png",
-        "group_name": "sinobi",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Bowman Trailer Leasing",
-        "discovered": "2025-12-16 22:27:19.031648",
-        "description": "Bowman Trailer Leasing specializes in nationwide trailer leasing, offering a ran...",
-        "link": "/leaks/6941c3e888b6823fa2b51b0b",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Bowman Trailer Leasing.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Centurion Security & Investigations",
-        "discovered": "2025-12-16 22:27:18.055886",
-        "description": "Centurion Security is a premier, locally-owned security company in Utah, offerin...",
-        "link": "/leaks/6941c41188b6823fa2b51c6c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Centurion Security & Investigations.png",
-        "group_name": "sinobi",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Keycodes Inspection Agency",
-        "discovered": "2025-12-16 22:27:16.800459",
-        "description": "Keycodes Inspection Agency is a Pennsylvania State certified third-party inspect...",
-        "link": "/leaks/6941c5d288b6823fa2b53087",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Keycodes Inspection Agency.png",
-        "group_name": "sinobi",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Leger & Shaw",
-        "discovered": "2025-12-16 21:26:20.474616",
-        "description": "Leger & Shaw is a New Orleans-based law firm established in 1979, specializing in maritime and admiralty law, class actions, complex litigation, commercial liti...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Edward J Kone",
-        "discovered": "2025-12-16 21:26:19.528899",
-        "description": "Edward J. Kone, P.A. is a law firm focused on providing legal services in criminal defense, traffic violations, and personal injury cases. The firm, led by expe...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Trine Access Technology",
-        "discovered": "2025-12-16 21:26:16.605388",
-        "description": "In 1999, a new company, Trine Access Technology was formed under new ownership. ...",
-        "link": "/leaks/6941bd4088b6823fa2b4e348",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Trine Access Technology.png",
-        "group_name": "sinobi",
         "sector": "Unknown"
     }
 ]
