@@ -1,5 +1,195 @@
 [
     {
+        "post_title": "glasserstv.com",
+        "discovered": "2025-12-20 02:26:42.132932",
+        "description": "",
+        "link": "/blog/disclosures/69459149be52b3ea15fc0d20",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/glasserstvcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "eagrealtyinternational.com",
+        "discovered": "2025-12-20 02:26:41.121128",
+        "description": "",
+        "link": "/blog/disclosures/694227a2be52b3ea15c49711",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/eagrealtyinternationalcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rogitz.com",
+        "discovered": "2025-12-20 00:27:28.114470",
+        "description": "Rogitz & Associates was a small intellectual property law firm based in San Diego, California, specialising in patent prosecution, patent …",
+        "link": "/blog/post/rogitzcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/rogitzcom.png",
+        "group_name": "safepay",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "reger-zahntechnik.de",
+        "discovered": "2025-12-20 00:27:27.166353",
+        "description": "Reger Zahntechnik, formally registered in Nuremberg (Nürnberg), Germany as Walter Reger Zahntechnisches Labor GmbH, is a traditional dental laboratory specialising …",
+        "link": "/blog/post/reger-zahntechnikde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/reger-zahntechnikde.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "springersjewelers.com",
+        "discovered": "2025-12-20 00:27:26.278872",
+        "description": "Springer’s Jewelers is a historic family-owned jewelry retailer based in Portland, Maine, with additional store locations in Bath, Maine and …",
+        "link": "/blog/post/springersjewelerscom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/springersjewelerscom.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "dfcsystems.de",
+        "discovered": "2025-12-20 00:27:25.370119",
+        "description": "DFC-SYSTEMS GmbH is a German software and technology company headquartered in Munich that specialises in clinical documentation and digital workflow …",
+        "link": "/blog/post/dfcsystemsde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/dfcsystemsde.png",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "kenalex.ca",
+        "discovered": "2025-12-20 00:27:24.426278",
+        "description": "Kenalex Construction Co. Ltd. is a Canadian construction and development firm headquartered in North Bay, Ontario, serving Central and Northern …",
+        "link": "/blog/post/kenalexca/",
+        "magnet": null,
+        "screen": "screenshots/safepay/kenalexca.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "meyer-lift.de",
+        "discovered": "2025-12-20 00:27:23.461434",
+        "description": "Meyer Lift GmbH is a German equipment rental company headquartered in Hohenwestedt, northern Germany. It specialises in the rental and …",
+        "link": "/blog/post/meyer-liftde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/meyer-liftde.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "coloradopowerline.com",
+        "discovered": "2025-12-20 00:27:22.545099",
+        "description": "Colorado Powerline, Inc. (often abbreviated CPI) is a U.S. electrical infrastructure construction company headquartered in Sedalia, Colorado. Founded in 2006, …",
+        "link": "/blog/post/coloradopowerlinecom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/coloradopowerlinecom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "peus-muenzen.de",
+        "discovered": "2025-12-20 00:27:21.526126",
+        "description": "Peus Münzen, officially Dr. Busso Peus Nachfolger e.K., is one of Germany’s oldest and most prestigious coin dealers and numismatic …",
+        "link": "/blog/post/peus-muenzende/",
+        "magnet": null,
+        "screen": "screenshots/safepay/peus-muenzende.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "capsum.com",
+        "discovered": "2025-12-20 00:27:19.560110",
+        "description": "Capsum is a global beauty and cosmetics contract manufacturer that specialises in microfluidic technology, a patented scientific process that allows …",
+        "link": "/blog/post/capsumcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/capsumcom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Colonial Metals",
+        "discovered": "2025-12-19 23:26:44.311975",
+        "description": "Colonial Metals, Inc. is a full-service global supplier specializing in over 600 precious metal-based chemicals and services. The company is dedicated to provid...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "North Star Asset Management",
+        "discovered": "2025-12-19 23:26:41.728749",
+        "description": "North Star Asset Management, Inc. is a prominent independent SEC Registered Inve...",
+        "link": "/leaks/6945c6cc88b6823fa2d6938f",
+        "magnet": null,
+        "screen": "screenshots/sinobi/North Star Asset Management.png",
+        "group_name": "sinobi",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "RM Medics",
+        "discovered": "2025-12-19 23:26:40.805747",
+        "description": "RM Medics is a medical recruitment agency specializing in placing healthcare pro...",
+        "link": "/leaks/6945c83088b6823fa2d69d8a",
+        "magnet": null,
+        "screen": "screenshots/sinobi/RM Medics.png",
+        "group_name": "sinobi",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Turnamics",
+        "discovered": "2025-12-19 23:26:39.787716",
+        "description": "Turnamics, Inc. is a contract manufacturer based in Asheville, NC, specializing ...",
+        "link": "/leaks/6945c96b88b6823fa2d6ac81",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Turnamics.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "consult*****.c**",
+        "discovered": "2025-12-19 21:27:09.989373",
+        "description": "Financial, HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "*n**e-ai",
+        "discovered": "2025-12-19 21:27:09.047710",
+        "description": "SRC, Client data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "****s*oc****.com",
+        "discovered": "2025-12-19 21:27:08.109846",
+        "description": "Financial, Client IDS",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "********.com",
+        "discovered": "2025-12-19 20:26:55.838645",
+        "description": "Leading provider of tools and expert advice sports betting. They offer a comprehensive suite of simulation tools, projections, and data for various sports including NFL, NBA, MLB, and more.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Aneticaid",
         "discovered": "2025-12-19 18:27:50.524735",
         "description": "Innovative Medical Technology Practically Applied Anetic Aid is a UK world leading designer and manufacturer of medical devices for patient transport, treatment and recovery.",
@@ -848,145 +1038,5 @@
         "screen": "screenshots/handala/The Day of Reckoning Awaits the Child-Killers.png",
         "group_name": "handala",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Clarksville ISD",
-        "discovered": "2025-12-19 02:26:40.397739",
-        "description": "https://www.clarksvilleisd.net\n\t\t\t\t\t\t\t\t\tOnce again, we see how a certain school organization, Clarksville ISD, was attacked and compromised due to the negligence and irresponsibility of employees with other people's data, that is, other people, as a result of which a large amount of confidential data was compromised, including the SNN of all students for the entire year, as well as all employee data, including SNN, banking transactions, and financial components.",
-        "link": "http://vhs6omcvvqdtmgae5cvpy4jfxfrw2l4b7e64j7fn7xeaqeppzab67oad.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Clarksville ISD.png",
-        "group_name": "interlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Pacific Rim Mechanical",
-        "discovered": "2025-12-18 23:26:29.450692",
-        "description": "",
-        "link": "/blog/disclosures/69446ea8be52b3ea15e7951c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Pacific Rim Mechanical.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Optimum Window Manufacturing",
-        "discovered": "2025-12-18 23:26:25.822637",
-        "description": "Optimum Window Mfg is the largest and most diversified manufacturer of steel win...",
-        "link": "/leaks/69446f0b88b6823fa2cb001c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Optimum Window Manufacturing.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Salarpuria Sattva Group",
-        "discovered": "2025-12-18 23:26:24.863703",
-        "description": "Founded in 1986, The Salarpuria Sattva Group is a commercial and residential Pro...",
-        "link": "/leaks/69446f8188b6823fa2cb0385",
-        "magnet": null,
-        "screen": "screenshots/sinobi/The Salarpuria Sattva Group.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NBS Canada",
-        "discovered": "2025-12-18 23:26:23.956949",
-        "description": "The Network of Biblical Storytellers Canada is a nationwide association of Canad...",
-        "link": "/leaks/69446ffe88b6823fa2cb05c9",
-        "magnet": null,
-        "screen": "screenshots/sinobi/NBS Canada.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "FHIABA",
-        "discovered": "2025-12-18 23:26:22.993157",
-        "description": "Fhiaba S.r.l. specializes in high-end refrigeration solutions, offering a divers...",
-        "link": "/leaks/694470ee88b6823fa2cb0bb5",
-        "magnet": null,
-        "screen": "screenshots/sinobi/FHIABA.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Behr Enterprises",
-        "discovered": "2025-12-18 23:26:22.049035",
-        "description": "Behr Enterprises is a Wisconsin-based metal fabrication company specializing in ...",
-        "link": "/leaks/6944716688b6823fa2cb0e50",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Behr Enterprises.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Heritage Engineering",
-        "discovered": "2025-12-18 23:26:21.121700",
-        "description": "Heritage Engineering prides ourselves on repeat business by ensuring high custom...",
-        "link": "/leaks/694471fa88b6823fa2cb12e2",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Heritage Engineering.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "RK Centers",
-        "discovered": "2025-12-18 23:26:20.104940",
-        "description": "RK Centers is a family-owned real estate development company specializing in the...",
-        "link": "/leaks/6944726f88b6823fa2cb17a0",
-        "magnet": null,
-        "screen": "screenshots/sinobi/RK Centers.png",
-        "group_name": "sinobi",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "L S GRIM",
-        "discovered": "2025-12-18 22:27:34.574131",
-        "description": "L.S. Grim Consulting Engineers is a Mid-Atlantic-based engineering services corp...",
-        "link": "/leaks/69446c6388b6823fa2caeed2",
-        "magnet": null,
-        "screen": "screenshots/sinobi/L S GRIM.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "South Shore Tool & Die",
-        "discovered": "2025-12-18 22:27:33.609906",
-        "description": "South Shore Tool and Die specializes in precision machining services across vari...",
-        "link": "/leaks/69446cd588b6823fa2caf50a",
-        "magnet": null,
-        "screen": "screenshots/sinobi/South Shore Tool & Die.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lawrence Family Jewish Community Center",
-        "discovered": "2025-12-18 22:27:32.716747",
-        "description": "The Lawrence Family Jewish Community Center (LFJCC) offers a diverse range of pr...",
-        "link": "/leaks/69446d4188b6823fa2caf711",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Lawrence Family Jewish Community Center.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ragland & Jones, LLP.",
-        "discovered": "2025-12-18 22:27:31.735553",
-        "description": "Providing estate planning, real estate law, business formation, and other legal ...",
-        "link": "/leaks/69446c0988b6823fa2caebd8",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Ragland & Jones, LLP.png",
-        "group_name": "sinobi",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Associated Thermoforming",
-        "discovered": "2025-12-18 20:26:50.052848",
-        "description": "Associated Thermoforming offers a full range of services. ATI specializes in technically challenging custom thermoforming solutions, including vacuum forming, pressure forming, and twin sheet forming.We will upload 582gb of corporate data soon. Employees personal documents (passports, DLs and so on), financial information, client information, numerous projects, NDAs, confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
