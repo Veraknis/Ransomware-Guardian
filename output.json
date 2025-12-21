@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "svlawus.com",
+        "discovered": "2025-12-21 18:26:31.967920",
+        "description": "",
+        "link": "/blog/disclosures/694227a2be52b3ea15c49711",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/svlawuscom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Evercover",
+        "discovered": "2025-12-21 18:26:31.054029",
+        "description": "",
+        "link": "/blog/disclosures/6948023fbe52b3ea15221b9c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Evercover.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Talarico",
+        "discovered": "2025-12-21 18:26:30.079886",
+        "description": "",
+        "link": "/blog/disclosures/6948038dbe52b3ea15222e64",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Talarico.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "terport.com.py",
         "discovered": "2025-12-21 09:26:17.255707",
         "description": "We are the leading river container, general cargo, and RORO terminal operator in...",
@@ -98,15 +128,5 @@
         "screen": "screenshots/play/Kucera International.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Unipres Alabama Inc.",
-        "discovered": "2025-12-20 16:26:34.132841",
-        "description": "Unipres is a leading manufacturer of press-formed automotive components in the world. It designs, develops and offers car body structural parts, including upper...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
