@@ -1,5 +1,205 @@
 [
     {
+        "post_title": "K.M. Packaging",
+        "discovered": "2025-12-22 15:35:37.927186",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MITACHI",
+        "discovered": "2025-12-22 15:35:36.945191",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kingsford Group",
+        "discovered": "2025-12-22 15:35:35.994397",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "International Freight &amp; Commerce",
+        "discovered": "2025-12-22 15:35:34.888011",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Transpedrosa",
+        "discovered": "2025-12-22 15:35:33.949709",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Clemar Assessoria e Logística em Comércio Internacional",
+        "discovered": "2025-12-22 15:35:32.951863",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Meinhardt Malaysia",
+        "discovered": "2025-12-22 15:35:31.981677",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Electricidad Panamericana",
+        "discovered": "2025-12-22 15:35:30.982636",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Assolim",
+        "discovered": "2025-12-22 14:26:21.648957",
+        "description": "",
+        "link": "/r/4fa6106d91541bf00dae058443b867fc91cdc455",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Assolim.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "transrocamar.com",
+        "discovered": "2025-12-22 14:26:20.095868",
+        "description": "Financial, Client IDS",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "British Holiday & Home Parks Association Ltd",
+        "discovered": "2025-12-22 14:26:19.069472",
+        "description": "Passport scans, Financial",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "taminsho.com",
+        "discovered": "2025-12-22 13:26:36.179778",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "benzona",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GIV SRL",
+        "discovered": "2025-12-22 13:26:20.584245",
+        "description": "Business Services",
+        "link": "/site/view?uuid=c5850f08-59b4-351f-b07c-5a286e91c730",
+        "magnet": null,
+        "screen": "screenshots/qilin/GIV SRL.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GOOD+ Foundation",
+        "discovered": "2025-12-22 13:26:19.629434",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/view?uuid=46dae0cb-fc76-38bd-963f-47a27845782a",
+        "magnet": null,
+        "screen": "screenshots/qilin/GOOD+ Foundation.png",
+        "group_name": "qilin",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Hongfa America",
+        "discovered": "2025-12-22 13:26:18.641087",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=1a4054a8-2b0f-3bff-bf4a-7771b6815582",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hongfa America.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eanes ISD schools",
+        "discovered": "2025-12-22 13:26:17.645015",
+        "description": "Education",
+        "link": "/site/view?uuid=b05a0569-63b1-3347-ac2b-20860c1375c4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Eanes ISD schools.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "La Papelera",
+        "discovered": "2025-12-22 13:26:16.631160",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=f3bfc95c-22a0-3902-9413-2d15ede90d41",
+        "magnet": null,
+        "screen": "screenshots/qilin/La Papelera.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grupo Olé",
+        "discovered": "2025-12-22 12:26:21.420833",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=06be85a1-ee54-3196-9a78-5a5808f9c57c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Olé.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "TEAMGLOBAL",
+        "discovered": "2025-12-22 09:27:17.650705",
+        "description": "Website:  teamglobal.com\nRevenue: $6.3 Million\nPremier contract and direct hire staffing services. 30 years of industry experience in aerospace and light industrial and an extensive client list.\nThis company's customers:\n\nbombardier.com\nascentaerospace.com\natsmro.com \navmats.com \ncomav.com \ncomlux.com \nkingaerospace.com\n\nData:\n\nFinancial Documents\nPersonal data of clients\nConfidential agreements\nAccounting\nHR\n\nThe volume of retrieved data is 188 GB",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "SCIPIONI",
+        "discovered": "2025-12-22 09:27:16.612423",
+        "description": "Website: scipioni.be\nRevenue: $5 Million\nScipioni is a company specializing in the distribution of petroleum products since 1974. Located in the Charleroi region.Scipioni is a company that supplies fuels and combustibles to both individuals and businesses in the Hainaut province.\nData:\n\nFinancial Documents\nConfidential agreements\nAccounting\nPersonal information",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Cedar Valley Services",
         "discovered": "2025-12-22 01:27:08.875569",
         "description": "Business Services",
@@ -47,16 +247,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/Talarico.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "terport.com.py",
-        "discovered": "2025-12-21 09:26:17.255707",
-        "description": "We are the leading river container, general cargo, and RORO terminal operator in...",
-        "link": "/leaks/6947a0582423bc3ce01f5c42",
-        "magnet": null,
-        "screen": "screenshots/lynx/terportcompy.png",
-        "group_name": "lynx",
         "sector": "Unknown"
     }
 ]
