@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Spartan Carbide",
+        "discovered": "2025-12-22 18:26:21.618863",
+        "description": "If the company does not contact us before 02/01/2025, the data will be published.<br><br>-- Files of interest --<br><br>Customer list with description and personal contacts:<br>├──Data/Shared/Shop Info/Customer sales data sheets<br>└──Data/Shared/Shared Temp/Customer sales data sheets<br><br>Income statement, accounts, balances: <br>└──Data/Executive-Share/Monthly Blue Book 2025-10.pdf<br><br>Schematics directory:<br>├──Data/JobBoss<br>└──Data/Spartan-1/from USB drive/SCANNED PRINTS<br><br>Tax forms (941):<br>└──Data/Nanci/2019 941 Report.pdf<br><br>Employee list with pictures, medical information:<br>├──Data/Shared/Employee File<br>├──Data/Shared/Shop Info/Carc<br>├──Data/Users-Data/Nanci/w2.pdf<br>└──Data/Users-Data/Nanci/Filing Cabinet<br><br>AutoCAD files:<br>└──Data/Spartan-1/from USB drive/AUTOCAD",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Swartz Campbell",
+        "discovered": "2025-12-22 16:26:17.049039",
+        "description": "https;//www.swartzcampbell.com\n\t\t\t\t\t\t\t\t\tSwartz Campbell LLC is a law firm with multiple locations across the East Coast specializing in areas including class action, employment, medical malpractice, and divorce. The law firm was founded in 1921 and is headquartered in Philadelphia, Pennsylvania.",
+        "link": "http://zsjvoqymwx5gdwntsrrk3pvnkfyoxy3knhoxitpdaobxznwc5iwcj4id.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Swartz Campbell.png",
+        "group_name": "interlock",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "K.M. Packaging",
         "discovered": "2025-12-22 15:35:37.927186",
         "description": "",
@@ -218,35 +238,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "svlawus.com",
-        "discovered": "2025-12-21 18:26:31.967920",
-        "description": "",
-        "link": "/blog/disclosures/694227a2be52b3ea15c49711",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/svlawuscom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Evercover",
-        "discovered": "2025-12-21 18:26:31.054029",
-        "description": "",
-        "link": "/blog/disclosures/6948023fbe52b3ea15221b9c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Evercover.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Talarico",
-        "discovered": "2025-12-21 18:26:30.079886",
-        "description": "",
-        "link": "/blog/disclosures/6948038dbe52b3ea15222e64",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Talarico.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
