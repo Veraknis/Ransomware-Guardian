@@ -1,5 +1,245 @@
 [
     {
+        "post_title": "Woodglen Medical Group",
+        "discovered": "2025-12-23 01:26:38.591333",
+        "description": "The biggest leak of boobies!",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5r5iXrDcq81ieO1gCAoEV+xeh85NS+tIldTzT3pLyWK1JxFF7IvdItkry8unp46VNERPoj+54TvwbEAmwGWglnRwREltS05T",
+        "magnet": null,
+        "screen": "screenshots/anubis/Woodglen Medical Group.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Deibel Laboratories",
+        "discovered": "2025-12-23 01:26:37.644018",
+        "description": "Data breach at a U.S. food safety and quality testing laboratory.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/7QIL0nx4sMcYH6LTLQKHAqhAKD6sNK0tmbvqoX3YRZvkjHmw4iGUpt0B3kQKbTPXaCKOUi7obfLrrmcBjdpIzEtYSG5TZHRW",
+        "magnet": null,
+        "screen": "screenshots/anubis/Deibel Laboratories.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "cc-estuaire",
+        "discovered": "2025-12-23 01:26:35.647725",
+        "description": "Government",
+        "link": "/site/view?uuid=0f5c5733-3ca2-3d6c-9f21-820fbfe71c5f",
+        "magnet": null,
+        "screen": "screenshots/qilin/cc-estuaire.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Lugiano Medical",
+        "discovered": "2025-12-23 01:26:34.604177",
+        "description": "0",
+        "link": "/site/view?uuid=c5fa6dcc-2aa5-3a9b-8cd1-5e8aa24a8bc7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lugiano Medical.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Fürth",
+        "discovered": "2025-12-23 01:26:33.631272",
+        "description": "Real Estate",
+        "link": "/site/view?uuid=32aa2542-a260-3562-974b-17adbef60531",
+        "magnet": null,
+        "screen": "screenshots/qilin/Fürth.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Grupo Amanus",
+        "discovered": "2025-12-23 01:26:32.661938",
+        "description": "Business Services",
+        "link": "/site/view?uuid=3224adc6-6860-36e4-957b-563b6a87710b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Amanus.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Scenic Solutions",
+        "discovered": "2025-12-23 01:26:31.671790",
+        "description": "Construction",
+        "link": "/site/view?uuid=119ca6e6-d9eb-3c94-a84b-19fa4f929925",
+        "magnet": null,
+        "screen": "screenshots/qilin/Scenic Solutions.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Besco Electrical",
+        "discovered": "2025-12-23 01:26:30.702615",
+        "description": "Commercial & Residential Construction",
+        "link": "/site/view?uuid=57726f0e-9452-3638-a0b7-8724874325b7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Besco Electrical.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "National Biscuit Industries",
+        "discovered": "2025-12-23 01:26:29.730733",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=cbc01374-de02-340f-bc30-d10a9b09aaf4",
+        "magnet": null,
+        "screen": "screenshots/qilin/National Biscuit Industries.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Callipo Group",
+        "discovered": "2025-12-23 01:26:28.717667",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=b1cde75a-c69a-39e8-a6da-41e494548098",
+        "magnet": null,
+        "screen": "screenshots/qilin/Callipo Group.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lasercomb",
+        "discovered": "2025-12-23 01:26:27.768651",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=7efab604-ac15-3d9b-85e9-d391a884457f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lasercomb.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Polaris Parks",
+        "discovered": "2025-12-23 00:27:46.970466",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ranger Investigation Guard",
+        "discovered": "2025-12-23 00:27:45.905607",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Office of Public Sector Anti-Corruption Commission",
+        "discovered": "2025-12-23 00:27:44.637945",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Guan Chong Berhad",
+        "discovered": "2025-12-23 00:27:43.669075",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sanyang Motor",
+        "discovered": "2025-12-23 00:27:41.239937",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Adnan Sundra &amp; Low",
+        "discovered": "2025-12-23 00:27:40.331720",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Center for Life Resources ECI",
+        "discovered": "2025-12-23 00:27:26.248985",
+        "description": "Center for Life Resources is dedicated to enhancing the quality of life for indi...",
+        "link": "/leaks/6949c31488b6823fa2f54850",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Center for Life Resources ECI.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Geometrics",
+        "discovered": "2025-12-23 00:27:25.280234",
+        "description": "Geometrics is a division of OYO Corporation and headquartered in San Jose, CA. T...",
+        "link": "/leaks/6949c3a888b6823fa2f54a3c",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Geometrics.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Total Air Solutions",
+        "discovered": "2025-12-23 00:27:24.193654",
+        "description": "Total Air Solutions has been keeping customers cool, comfortable, and happy sinc...",
+        "link": "/leaks/6949c62c88b6823fa2f551ed",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Total Air Solutions.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Clínica Dávila",
+        "discovered": "2025-12-22 23:26:33.948560",
+        "description": "Patients' full records, HIV test results, IDs.\n\nThroughout a long waiting period, and despite a vast number of phone calls and emails sent by our team to the hospital, we have seen no action from the clinic to resolve the issue - knowing that the HIV tests could potentially change the lives of people whose relatives, friends, and workplaces will...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Hanlon Electric",
+        "discovered": "2025-12-22 23:26:28.431325",
+        "description": "Hanlon Electric Company is a full-service electrical contractor based in Pittsbu...",
+        "link": "/leaks/6949bdab88b6823fa2f53e27",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Hanlon Electric.png",
+        "group_name": "sinobi",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "k*v*.fi",
+        "discovered": "2025-12-22 20:26:45.704777",
+        "description": "HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Friis & Moltke",
+        "discovered": "2025-12-22 20:26:42.971563",
+        "description": "Friis & Moltke delivers architecture that serves a diverse clientbase, ensuring their designs meet both the needs of their clients and the community. We will upload 12gb of corporate data soon. Personal documents (cpr numbers (danish SSNs), passports and other docs), financials, projects, specification and drawings, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Spartan Carbide",
         "discovered": "2025-12-22 18:26:21.618863",
         "description": "If the company does not contact us before 02/01/2025, the data will be published.<br><br>-- Files of interest --<br><br>Customer list with description and personal contacts:<br>├──Data/Shared/Shop Info/Customer sales data sheets<br>└──Data/Shared/Shared Temp/Customer sales data sheets<br><br>Income statement, accounts, balances: <br>└──Data/Executive-Share/Monthly Blue Book 2025-10.pdf<br><br>Schematics directory:<br>├──Data/JobBoss<br>└──Data/Spartan-1/from USB drive/SCANNED PRINTS<br><br>Tax forms (941):<br>└──Data/Nanci/2019 941 Report.pdf<br><br>Employee list with pictures, medical information:<br>├──Data/Shared/Employee File<br>├──Data/Shared/Shop Info/Carc<br>├──Data/Users-Data/Nanci/w2.pdf<br>└──Data/Users-Data/Nanci/Filing Cabinet<br><br>AutoCAD files:<br>└──Data/Spartan-1/from USB drive/AUTOCAD",
@@ -218,25 +458,5 @@
         "screen": null,
         "group_name": "morpheus",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Cedar Valley Services",
-        "discovered": "2025-12-22 01:27:08.875569",
-        "description": "Business Services",
-        "link": "/site/view?uuid=7adeac9a-3593-3d19-be7d-217c10e02be4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cedar Valley Services.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Váhostav",
-        "discovered": "2025-12-22 01:27:06.271125",
-        "description": "VÁHOSTAV is one of the leading construction companies in Slovakia, specializing in complex and technically demanding projects across various sectors including t...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
     }
 ]
