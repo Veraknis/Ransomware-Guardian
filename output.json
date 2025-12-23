@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "Niradia Enterprises",
+        "discovered": "2025-12-23 20:01:25.193465",
+        "description": "Civil Engineering Construction",
+        "link": "/site/view?uuid=48c0655a-52ad-32ba-a9fe-f37e05f2a757",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "daispa.it",
+        "discovered": "2025-12-23 20:01:24.225325",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=0faf18c9-af8c-3c3c-a0ec-ca3ee0a56c1b",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SW/WC Service Cooperative",
+        "discovered": "2025-12-23 20:01:22.983138",
+        "description": "Education",
+        "link": "/site/view?uuid=c7070432-dbb3-3112-aafa-a85db8cc9b9a",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "CoreHQ",
+        "discovered": "2025-12-23 20:01:21.983178",
+        "description": "Software",
+        "link": "/site/view?uuid=c79fdf4b-aaca-3c87-8456-ceda11433674",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Shore Gardens Rehabilitation & Nursing Center",
+        "discovered": "2025-12-23 20:01:20.994264",
+        "description": "Healthcare Services",
+        "link": "/site/view?uuid=2e49fb4d-c17c-3333-a4fb-cb2a74da80f6",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Sonnenschein Groupe",
+        "discovered": "2025-12-23 20:01:20.043251",
+        "description": "Business Services",
+        "link": "/site/view?uuid=819aea74-5552-349b-b935-d863f0265380",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jaf Gifts",
+        "discovered": "2025-12-23 20:01:19.129620",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=b5344d7c-70fc-34af-beae-3bc966b53bf7",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eastern Townships School Board",
+        "discovered": "2025-12-23 20:01:18.087798",
+        "description": "Education",
+        "link": "/site/view?uuid=23fe7024-cf3c-3535-8e19-a748a855fbb5",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Notin",
+        "discovered": "2025-12-23 18:54:27.595054",
+        "description": "",
+        "link": "/news/Notin/",
+        "magnet": null,
+        "screen": "screenshots/everest/Notin.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Accela",
+        "discovered": "2025-12-23 18:54:26.726898",
+        "description": "",
+        "link": "/news/Accela/",
+        "magnet": null,
+        "screen": "screenshots/everest/Accela.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Agrícola Cerro Prieto",
+        "discovered": "2025-12-23 18:54:25.600249",
+        "description": "",
+        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/38",
+        "magnet": null,
+        "screen": "screenshots/blackshrantac/Agrícola Cerro Prieto.png",
+        "group_name": "blackshrantac",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Laidley Family Doctors",
+        "discovered": "2025-12-23 15:53:43.291344",
+        "description": "Data breach at a clinic.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/3ps6PIhLpjVlMpPNBRazLgxRybSdaxdqyD1qinygTczt5IFWxL8AfHfq5FSxb147x5GubJn0iQm2h5u5WOs7gEE4akNtd1Fs",
+        "magnet": null,
+        "screen": "screenshots/anubis/Laidley Family Doctors.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Sense Eletronica",
+        "discovered": "2025-12-23 15:53:42.068045",
+        "description": "Brazil\n\nSense Sensores e Instrumentos specializes in automation of production processes and electrical engineering solutions. They offer a wide range of automation services and products aimed at improving operational efficiency.",
+        "link": "#",
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Chatham Asset Management",
+        "discovered": "2025-12-23 15:53:40.231827",
+        "description": "",
+        "link": "/companies/2396947203",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Chatham Asset Management.png",
+        "group_name": "worldleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "https://www.ckm-montagen.de/en/",
+        "discovered": "2025-12-23 15:53:39.130283",
+        "description": "CKM Kondring Montagen GmbH & Co. KG is a leading assembly company specializing i...",
+        "link": "/leaks/694aa2d72423bc3ce052fca9",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwckm-montagendeen.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ruskcountywi.us",
+        "discovered": "2025-12-23 15:53:38.134345",
+        "description": "Rusk County, Wisconsin is a community that provides services such as an Airport,...",
+        "link": "/leaks/694aa03f2423bc3ce052d2c6",
+        "magnet": null,
+        "screen": "screenshots/lynx/ruskcountywius.png",
+        "group_name": "lynx",
+        "sector": "Government"
+    },
+    {
+        "post_title": "https://www.omnibusjp.com",
+        "discovered": "2025-12-23 15:53:37.120712",
+        "description": "OMNIBUS JAPAN INC. is a creative group that aims to extract the thoughts of many...",
+        "link": "/leaks/694aa0e42423bc3ce052dc8f",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwomnibusjpcom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ccedarvalleyservices.org",
+        "discovered": "2025-12-23 15:53:36.035412",
+        "description": "Cedar Valley Services Inc is an employment agency based in Southern Minnesota, o...",
+        "link": "/leaks/694aa1cd2423bc3ce052eb5f",
+        "magnet": null,
+        "screen": "screenshots/lynx/ccedarvalleyservicesorg.png",
+        "group_name": "lynx",
+        "sector": "Government"
+    },
+    {
+        "post_title": "www.fecrwy.com",
+        "discovered": "2025-12-23 15:53:35.065757",
+        "description": "The Florida East Coast Railway freight rail system located along the east coast ...",
+        "link": "/leaks/694aa2802423bc3ce052f43c",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwfecrwycom.png",
+        "group_name": "lynx",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "loginport",
+        "discovered": "2025-12-23 15:53:33.649608",
+        "description": "Business Services",
+        "link": "/site/view?uuid=9ae3a706-f4a5-32b8-ab25-63aabe0893a8",
+        "magnet": null,
+        "screen": "screenshots/qilin/loginport.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Unified Assessment Platform ExamRoom.AI",
+        "discovered": "2025-12-23 15:53:29.300879",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Universiti Sains Islam Malaysia",
         "discovered": "2025-12-23 09:26:27.358602",
         "description": "Education",
@@ -248,25 +458,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Spartan Carbide",
-        "discovered": "2025-12-22 18:26:21.618863",
-        "description": "If the company does not contact us before 02/01/2025, the data will be published.<br><br>-- Files of interest --<br><br>Customer list with description and personal contacts:<br>├──Data/Shared/Shop Info/Customer sales data sheets<br>└──Data/Shared/Shared Temp/Customer sales data sheets<br><br>Income statement, accounts, balances: <br>└──Data/Executive-Share/Monthly Blue Book 2025-10.pdf<br><br>Schematics directory:<br>├──Data/JobBoss<br>└──Data/Spartan-1/from USB drive/SCANNED PRINTS<br><br>Tax forms (941):<br>└──Data/Nanci/2019 941 Report.pdf<br><br>Employee list with pictures, medical information:<br>├──Data/Shared/Employee File<br>├──Data/Shared/Shop Info/Carc<br>├──Data/Users-Data/Nanci/w2.pdf<br>└──Data/Users-Data/Nanci/Filing Cabinet<br><br>AutoCAD files:<br>└──Data/Spartan-1/from USB drive/AUTOCAD",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Swartz Campbell",
-        "discovered": "2025-12-22 16:26:17.049039",
-        "description": "https;//www.swartzcampbell.com\n\t\t\t\t\t\t\t\t\tSwartz Campbell LLC is a law firm with multiple locations across the East Coast specializing in areas including class action, employment, medical malpractice, and divorce. The law firm was founded in 1921 and is headquartered in Philadelphia, Pennsylvania.",
-        "link": "http://zsjvoqymwx5gdwntsrrk3pvnkfyoxy3knhoxitpdaobxznwc5iwcj4id.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Swartz Campbell.png",
-        "group_name": "interlock",
-        "sector": "Healthcare"
     }
 ]
