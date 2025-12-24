@@ -1,11 +1,71 @@
 [
     {
+        "post_title": "Prime Label",
+        "discovered": "2025-12-24 08:52:25.856061",
+        "description": "Prime Label Consultants (PLC) specializes in consulting services for food label compliance with USDA and FDA regulations. Their offerings include label expediti...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Autohaus Elstermann",
+        "discovered": "2025-12-24 02:57:02.256503",
+        "description": "Performance, reliability, safety – what distinguishes Renault / Dacia / Kia vehicles also applies to us. We offer you excellent service, good prices, expert advice, and a friendly team.Comprehensive service for carefree driving pleasure. You can rely on it, because nobody knows your Renault better than we do.DatabaseFinancial documentsPersonal information of employees and clients\nhttps://www.autohaus-elstermann.de/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/108/autohaus-elstermann",
+        "magnet": null,
+        "screen": "screenshots/space bears/Autohaus Elstermann.png",
+        "group_name": "space bears",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Carbis Loadtec",
+        "discovered": "2025-12-23 23:57:30.971712",
+        "description": "Contracts, drawings, and client contacts.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/SoFFsbuCvwP0YHv2EOxkzMKoSF+En8JW7HuNK5ih1ibLvuXYKrn6vryj2EncTglje2oxs1JjkiObqNeNJGWklyOE54bHFS",
+        "magnet": null,
+        "screen": "screenshots/anubis/Carbis Loadtec.png",
+        "group_name": "anubis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pellcityschools.net",
+        "discovered": "2025-12-23 21:56:59.685129",
+        "description": "Pell City Schools is a public K-12 school district based in Pell City, Alabama, serving students from pre-kindergarten through 12th …",
+        "link": "/blog/post/pellcityschoolsnet/",
+        "magnet": null,
+        "screen": "screenshots/safepay/pellcityschoolsnet.png",
+        "group_name": "safepay",
+        "sector": "Education"
+    },
+    {
+        "post_title": "BOCOC Company’s Full Leak Data",
+        "discovered": "2025-12-23 21:56:43.042645",
+        "description": "Exclusive information. #LeakNet #DataLeak #Breached",
+        "link": "view_article.php?article=CcPf6jFTR3Lxro3N9E7Wo9zedL1sUR0M3NingPhj9ZbYiJjrnHQvn6CNPouQxRMw",
+        "magnet": null,
+        "screen": "screenshots/leaknet/BOCOC Company’s Full Leak Data.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Complete data leak of the company BestFormulation (SIRIO)",
+        "discovered": "2025-12-23 21:56:42.103531",
+        "description": "Data Leak, Exclusive materials!",
+        "link": "view_article.php?article=i93iVo8nbpaOK0eaJCkGNyt8lz2BO4KbDrg8AO36fZnIMMc7N43NKP3yHHAGCaJb",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Complete data leak of the company BestFormulation (SIRIO).png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Niradia Enterprises",
         "discovered": "2025-12-23 20:01:25.193465",
         "description": "Civil Engineering Construction",
         "link": "/site/view?uuid=48c0655a-52ad-32ba-a9fe-f37e05f2a757",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Niradia Enterprises.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
     },
@@ -15,7 +75,7 @@
         "description": "Industrial Machinery & Equipment",
         "link": "/site/view?uuid=0faf18c9-af8c-3c3c-a0ec-ca3ee0a56c1b",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/daispait.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
     },
@@ -25,7 +85,7 @@
         "description": "Education",
         "link": "/site/view?uuid=c7070432-dbb3-3112-aafa-a85db8cc9b9a",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/SWWC Service Cooperative.png",
         "group_name": "qilin",
         "sector": "Education"
     },
@@ -35,7 +95,7 @@
         "description": "Software",
         "link": "/site/view?uuid=c79fdf4b-aaca-3c87-8456-ceda11433674",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/CoreHQ.png",
         "group_name": "qilin",
         "sector": "Technology"
     },
@@ -45,7 +105,7 @@
         "description": "Healthcare Services",
         "link": "/site/view?uuid=2e49fb4d-c17c-3333-a4fb-cb2a74da80f6",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Shore Gardens Rehabilitation & Nursing Center.png",
         "group_name": "qilin",
         "sector": "Unknown"
     },
@@ -55,7 +115,7 @@
         "description": "Business Services",
         "link": "/site/view?uuid=819aea74-5552-349b-b935-d863f0265380",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/The Sonnenschein Groupe.png",
         "group_name": "qilin",
         "sector": "Unknown"
     },
@@ -65,7 +125,7 @@
         "description": "Accounting Services",
         "link": "/site/view?uuid=b5344d7c-70fc-34af-beae-3bc966b53bf7",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Jaf Gifts.png",
         "group_name": "qilin",
         "sector": "Unknown"
     },
@@ -75,7 +135,7 @@
         "description": "Education",
         "link": "/site/view?uuid=23fe7024-cf3c-3535-8e19-a748a855fbb5",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Eastern Townships School Board.png",
         "group_name": "qilin",
         "sector": "Education"
     },
@@ -125,7 +185,7 @@
         "description": "Brazil\n\nSense Sensores e Instrumentos specializes in automation of production processes and electrical engineering solutions. They offer a wide range of automation services and products aimed at improving operational efficiency.",
         "link": "#",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/Sense Eletronica.png",
         "group_name": "nova",
         "sector": "Manufacturing"
     },
@@ -218,245 +278,5 @@
         "screen": "screenshots/qilin/Universiti Sains Islam Malaysia.png",
         "group_name": "qilin",
         "sector": "Education"
-    },
-    {
-        "post_title": "Woodglen Medical Group",
-        "discovered": "2025-12-23 01:26:38.591333",
-        "description": "The biggest leak of boobies!",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5r5iXrDcq81ieO1gCAoEV+xeh85NS+tIldTzT3pLyWK1JxFF7IvdItkry8unp46VNERPoj+54TvwbEAmwGWglnRwREltS05T",
-        "magnet": null,
-        "screen": "screenshots/anubis/Woodglen Medical Group.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Deibel Laboratories",
-        "discovered": "2025-12-23 01:26:37.644018",
-        "description": "Data breach at a U.S. food safety and quality testing laboratory.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/7QIL0nx4sMcYH6LTLQKHAqhAKD6sNK0tmbvqoX3YRZvkjHmw4iGUpt0B3kQKbTPXaCKOUi7obfLrrmcBjdpIzEtYSG5TZHRW",
-        "magnet": null,
-        "screen": "screenshots/anubis/Deibel Laboratories.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "cc-estuaire",
-        "discovered": "2025-12-23 01:26:35.647725",
-        "description": "Government",
-        "link": "/site/view?uuid=0f5c5733-3ca2-3d6c-9f21-820fbfe71c5f",
-        "magnet": null,
-        "screen": "screenshots/qilin/cc-estuaire.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Lugiano Medical",
-        "discovered": "2025-12-23 01:26:34.604177",
-        "description": "0",
-        "link": "/site/view?uuid=c5fa6dcc-2aa5-3a9b-8cd1-5e8aa24a8bc7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lugiano Medical.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Fürth",
-        "discovered": "2025-12-23 01:26:33.631272",
-        "description": "Real Estate",
-        "link": "/site/view?uuid=32aa2542-a260-3562-974b-17adbef60531",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fürth.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Grupo Amanus",
-        "discovered": "2025-12-23 01:26:32.661938",
-        "description": "Business Services",
-        "link": "/site/view?uuid=3224adc6-6860-36e4-957b-563b6a87710b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo Amanus.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Scenic Solutions",
-        "discovered": "2025-12-23 01:26:31.671790",
-        "description": "Construction",
-        "link": "/site/view?uuid=119ca6e6-d9eb-3c94-a84b-19fa4f929925",
-        "magnet": null,
-        "screen": "screenshots/qilin/Scenic Solutions.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Besco Electrical",
-        "discovered": "2025-12-23 01:26:30.702615",
-        "description": "Commercial & Residential Construction",
-        "link": "/site/view?uuid=57726f0e-9452-3638-a0b7-8724874325b7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Besco Electrical.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "National Biscuit Industries",
-        "discovered": "2025-12-23 01:26:29.730733",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=cbc01374-de02-340f-bc30-d10a9b09aaf4",
-        "magnet": null,
-        "screen": "screenshots/qilin/National Biscuit Industries.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Callipo Group",
-        "discovered": "2025-12-23 01:26:28.717667",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=b1cde75a-c69a-39e8-a6da-41e494548098",
-        "magnet": null,
-        "screen": "screenshots/qilin/Callipo Group.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lasercomb",
-        "discovered": "2025-12-23 01:26:27.768651",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=7efab604-ac15-3d9b-85e9-d391a884457f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lasercomb.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Polaris Parks",
-        "discovered": "2025-12-23 00:27:46.970466",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ranger Investigation Guard",
-        "discovered": "2025-12-23 00:27:45.905607",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Office of Public Sector Anti-Corruption Commission",
-        "discovered": "2025-12-23 00:27:44.637945",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Guan Chong Berhad",
-        "discovered": "2025-12-23 00:27:43.669075",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sanyang Motor",
-        "discovered": "2025-12-23 00:27:41.239937",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Adnan Sundra &amp; Low",
-        "discovered": "2025-12-23 00:27:40.331720",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Center for Life Resources ECI",
-        "discovered": "2025-12-23 00:27:26.248985",
-        "description": "Center for Life Resources is dedicated to enhancing the quality of life for indi...",
-        "link": "/leaks/6949c31488b6823fa2f54850",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Center for Life Resources ECI.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Geometrics",
-        "discovered": "2025-12-23 00:27:25.280234",
-        "description": "Geometrics is a division of OYO Corporation and headquartered in San Jose, CA. T...",
-        "link": "/leaks/6949c3a888b6823fa2f54a3c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Geometrics.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Total Air Solutions",
-        "discovered": "2025-12-23 00:27:24.193654",
-        "description": "Total Air Solutions has been keeping customers cool, comfortable, and happy sinc...",
-        "link": "/leaks/6949c62c88b6823fa2f551ed",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Total Air Solutions.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Clínica Dávila",
-        "discovered": "2025-12-22 23:26:33.948560",
-        "description": "Patients' full records, HIV test results, IDs.\n\nThroughout a long waiting period, and despite a vast number of phone calls and emails sent by our team to the hospital, we have seen no action from the clinic to resolve the issue - knowing that the HIV tests could potentially change the lives of people whose relatives, friends, and workplaces will...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Hanlon Electric",
-        "discovered": "2025-12-22 23:26:28.431325",
-        "description": "Hanlon Electric Company is a full-service electrical contractor based in Pittsbu...",
-        "link": "/leaks/6949bdab88b6823fa2f53e27",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Hanlon Electric.png",
-        "group_name": "sinobi",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "k*v*.fi",
-        "discovered": "2025-12-22 20:26:45.704777",
-        "description": "HR data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Friis & Moltke",
-        "discovered": "2025-12-22 20:26:42.971563",
-        "description": "Friis & Moltke delivers architecture that serves a diverse clientbase, ensuring their designs meet both the needs of their clients and the community. We will upload 12gb of corporate data soon. Personal documents (cpr numbers (danish SSNs), passports and other docs), financials, projects, specification and drawings, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
