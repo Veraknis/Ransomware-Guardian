@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "Lynn Electrical",
+        "discovered": "2025-12-25 08:58:37.908972",
+        "description": "Electronics",
+        "link": "/site/view?uuid=bbfa7816-bf35-3077-9ff5-158e535dca49",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lynn Electrical.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SEIMITSU THAI COMPANY LIMITED",
+        "discovered": "2025-12-25 08:58:36.631363",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=db5e6bdf-3dba-3490-8b71-740693a37779",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Klüber Elektroanlagenbau",
+        "discovered": "2025-12-25 03:54:10.307153",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.hermesmedical.com/",
+        "discovered": "2025-12-25 02:56:29.784199",
+        "description": "Hermes Medical Solutions",
+        "link": "/post/694c8118feb604ea6ee55c75",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwhermesmedicalcom.png",
+        "group_name": "termite",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "grade results",
+        "discovered": "2025-12-25 00:54:08.858905",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Salvation Army",
+        "discovered": "2025-12-24 22:38:14.510029",
+        "description": "https://www.salvationarmy.org\n\t\t\t\t\t\t\t\t\tThe Salvation Army, established in 1865, has been offering an array of social services that range from providing food for the hungry, relief for disaster victims, assistance for the disabled, outreach to the elderly and ill, clothing and shelter to the homeless and opportunities for underprivileged children.",
+        "link": "http://ihbpu7nworzao2klqeeahnz7wcuavltny3p2cmfkhe5tko3vl3zcowyd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/The Salvation Army.png",
+        "group_name": "interlock",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "polhun.pl",
+        "discovered": "2025-12-24 22:04:08.108519",
+        "description": "POL-HUN is a well-established Polish manufacturer and distributor of household cleaning products and consumer chemicals. Founded in 1990, the company …",
+        "link": "/blog/post/polhunpl/",
+        "magnet": null,
+        "screen": "screenshots/safepay/polhunpl.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "maxdream.tur.ar",
+        "discovered": "2025-12-24 22:04:07.135752",
+        "description": "Maxdream is an Argentine travel and tourism company headquartered in Buenos Aires, Argentina, that specialises in organising student travel experiences …",
+        "link": "/blog/post/maxdreamturar/",
+        "magnet": null,
+        "screen": "screenshots/safepay/maxdreamturar.png",
+        "group_name": "safepay",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "47club.jp",
+        "discovered": "2025-12-24 22:04:06.175873",
+        "description": "47CLUB (operated by Kabushiki Kaisha 47CLUB, or 株式会社47CLUB) is a Japanese e-commerce and regional marketing company based in Tokyo. Its …",
+        "link": "/blog/post/47clubjp/",
+        "magnet": null,
+        "screen": "screenshots/safepay/47clubjp.png",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "nhpsa.com.ar",
+        "discovered": "2025-12-24 22:04:05.149702",
+        "description": "NHPSA — formally New High Pack S.A. — is an Argentine packaging manufacturer and supplier based in Benavídez, Tigre, Province …",
+        "link": "/blog/post/nhpsacomar/",
+        "magnet": null,
+        "screen": "screenshots/safepay/nhpsacomar.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "vitatrac.com.gt",
+        "discovered": "2025-12-24 22:04:01.749223",
+        "description": "Vitatrac S.A. is a long-established automotive service and tire distribution company headquartered in Guatemala City, Guatemala, with multiple service centers …",
+        "link": "/blog/post/vitatraccomgt/",
+        "magnet": null,
+        "screen": "screenshots/safepay/vitatraccomgt.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "eiconnect.com",
+        "discovered": "2025-12-24 22:04:00.692151",
+        "description": "Electronic Interconnect, often referred to as EI, is a U.S.-based manufacturer and supplier of printed circuit boards (PCBs) headquartered in …",
+        "link": "/blog/post/eiconnectcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/eiconnectcom.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "massfd.org",
+        "discovered": "2025-12-24 22:03:57.662567",
+        "description": "MassFD — as reflected by the domain massfd.org — appears to be the official website of the Massapequa Fire District, …",
+        "link": "/blog/post/massfdorg/",
+        "magnet": null,
+        "screen": "screenshots/safepay/massfdorg.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED] Diaz Gill Medicina Laboratorial S.A.",
+        "discovered": "2025-12-24 22:03:40.693596",
+        "description": "",
+        "link": "/r/1f2d372da887512bffba2e296095f58b88389f9c",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED] Diaz Gill Medicina Laboratorial SA.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cmac-llc.com",
+        "discovered": "2025-12-24 20:58:08.941430",
+        "description": "cMAC LLC is a small, privately-held construction and general contracting firm based in Renton, Washington, serving residential and commercial clients …",
+        "link": "/blog/post/cmac-llccom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/cmac-llccom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "envases-group.com",
+        "discovered": "2025-12-24 20:58:07.964162",
+        "description": "Envases Group is a privately held multinational packaging manufacturer and solutions provider with deep roots in the global containers and …",
+        "link": "/blog/post/envases-groupcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/envases-groupcom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "National Credit Regulator (NCR)",
+        "discovered": "2025-12-24 20:57:50.102022",
+        "description": "The National Credit Regulator (NCR) is the statutory body established under the National Credit Act 34 of 2005 to regulate the South African credit industry. Th...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
         "post_title": "ELC Electroconsult SpA - Database Leaked",
         "discovered": "2025-12-24 18:59:19.919192",
         "description": "",
@@ -248,65 +418,5 @@
         "screen": "screenshots/worldleaks/Ellison Educational Equipment, Inc.png",
         "group_name": "worldleaks",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Prime Label",
-        "discovered": "2025-12-24 08:52:25.856061",
-        "description": "Prime Label Consultants (PLC) specializes in consulting services for food label compliance with USDA and FDA regulations. Their offerings include label expediti...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Autohaus Elstermann",
-        "discovered": "2025-12-24 02:57:02.256503",
-        "description": "Performance, reliability, safety – what distinguishes Renault / Dacia / Kia vehicles also applies to us. We offer you excellent service, good prices, expert advice, and a friendly team.Comprehensive service for carefree driving pleasure. You can rely on it, because nobody knows your Renault better than we do.DatabaseFinancial documentsPersonal information of employees and clients\nhttps://www.autohaus-elstermann.de/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/108/autohaus-elstermann",
-        "magnet": null,
-        "screen": "screenshots/space bears/Autohaus Elstermann.png",
-        "group_name": "space bears",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Carbis Loadtec",
-        "discovered": "2025-12-23 23:57:30.971712",
-        "description": "Contracts, drawings, and client contacts.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/SoFFsbuCvwP0YHv2EOxkzMKoSF+En8JW7HuNK5ih1ibLvuXYKrn6vryj2EncTglje2oxs1JjkiObqNeNJGWklyOE54bHFS",
-        "magnet": null,
-        "screen": "screenshots/anubis/Carbis Loadtec.png",
-        "group_name": "anubis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pellcityschools.net",
-        "discovered": "2025-12-23 21:56:59.685129",
-        "description": "Pell City Schools is a public K-12 school district based in Pell City, Alabama, serving students from pre-kindergarten through 12th …",
-        "link": "/blog/post/pellcityschoolsnet/",
-        "magnet": null,
-        "screen": "screenshots/safepay/pellcityschoolsnet.png",
-        "group_name": "safepay",
-        "sector": "Education"
-    },
-    {
-        "post_title": "BOCOC Company’s Full Leak Data",
-        "discovered": "2025-12-23 21:56:43.042645",
-        "description": "Exclusive information. #LeakNet #DataLeak #Breached",
-        "link": "view_article.php?article=CcPf6jFTR3Lxro3N9E7Wo9zedL1sUR0M3NingPhj9ZbYiJjrnHQvn6CNPouQxRMw",
-        "magnet": null,
-        "screen": "screenshots/leaknet/BOCOC Company’s Full Leak Data.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Complete data leak of the company BestFormulation (SIRIO)",
-        "discovered": "2025-12-23 21:56:42.103531",
-        "description": "Data Leak, Exclusive materials!",
-        "link": "view_article.php?article=i93iVo8nbpaOK0eaJCkGNyt8lz2BO4KbDrg8AO36fZnIMMc7N43NKP3yHHAGCaJb",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Complete data leak of the company BestFormulation (SIRIO).png",
-        "group_name": "leaknet",
-        "sector": "Technology"
     }
 ]
