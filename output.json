@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Chrysler",
+        "discovered": "2025-12-25 19:54:35.313558",
+        "description": "",
+        "link": "/news/Chrysler/",
+        "magnet": null,
+        "screen": "screenshots/everest/Chrysler.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "kavi.fi",
+        "discovered": "2025-12-25 18:55:56.443814",
+        "description": "HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "i**o**.us",
+        "discovered": "2025-12-25 18:55:55.550639",
+        "description": "Financial, Hr documents, claims",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "***ind***es.com",
+        "discovered": "2025-12-25 18:55:54.601469",
+        "description": "Hr data, client data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Madera County Superintendent of Schools",
+        "discovered": "2025-12-25 18:55:52.631208",
+        "description": "Education",
+        "link": "/site/view?uuid=8c828446-84ce-3949-89f5-ce60ac77112f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Madera County Superintendent of Schools.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "CYMA SYSTEMS",
+        "discovered": "2025-12-25 15:55:28.653812",
+        "description": "CYMA Payroll and Accounting Software is designed for volume payroll processing and unique markets that process complex payroll. Through Employee Self-Service, the CYMA payroll software extends to the web allowing maximum flexibility. At its core, CYMA has been producing Accounting Software solutions since 1980 - ready to decrypt and return data + stop leak operation, reach us",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/CYMA SYSTEMS.png",
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Lynn Electrical",
         "discovered": "2025-12-25 08:58:37.908972",
         "description": "Electronics",
@@ -168,75 +228,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Finance"
-    },
-    {
-        "post_title": "ELC Electroconsult SpA - Database Leaked",
-        "discovered": "2025-12-24 18:59:19.919192",
-        "description": "",
-        "link": "/news/ELC_Electroconsult_SpA/",
-        "magnet": null,
-        "screen": "screenshots/everest/ELC Electroconsult SpA - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Agralite Electric Cooperative",
-        "discovered": "2025-12-24 16:36:09.953940",
-        "description": "Alex Rubbish & Recycling provides residential and commercial garbage, recycling, yard waste, and roll-off container services in Alexandria, MN. The company also manages leftover ash/fines, leachate, and organics recycling for the Pope/Douglas Waste to Energy facility. We will upload 136gb of corporate data soon. Detailed personal employee information (name, dob, and other information), client information, NDA and tons of other files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Trubee Wealth Advisors",
-        "discovered": "2025-12-24 16:36:09.002257",
-        "description": "Trubee Wealth Advisors offers a diverse range of investment services tailored for individuals, small businesses, corporations, andphilanthropic organizations. We will upload 165gb of corporate data soon. Clients and employees information (passports, driver licenses, birth and death certs,w9 forms), accounting, financial statements, benefits, financialanalysis, capital and profit, clearing contract analysis, verification of funds letter, compliance, licensing, HR information, outside brokerage, client DB, confidential client information, NDA and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Watertech of America, WorldPoint ECC, Mastermedia, Garrett Leather, Guttenberg Industries.",
-        "discovered": "2025-12-24 16:36:07.968209",
-        "description": "We obtained more than 12gb of data of the following companies:Watertech of America, Inc. specializes in industrial water treatment services across the Midwest, focusing on boiler water, cooling water, and wastewater treatment. At WorldPoint provides healthcare training services. From curriculum & course materials for American Heart Association (AHA), NAEMT®, AAP, AAOS, and more, to training supplies for CPR & AED training, skill training & simulation, and live rescue. Mastermedia International serves as a trusted voice of faith in the media and entertainment industry, providing pastoral support to the leaders of studios, networks, and production companies. Garrett Leather specializes in high-quality leather products and services, catering to various sectors including automotive, aviation, hospitality, furniture manufacturing, and more.Guttenberg Industries is a full-service custom plastic injection molder, providing high-precision molding and related services globally for almost 50 years. The company specializes in a wide range of capabilities such as in-mold labeling, over-molding, and producing parts of various sizes from small to large.You will find personal employee personal data, client information, numerous project files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "WSI",
-        "discovered": "2025-12-24 15:57:40.790992",
-        "description": "",
-        "link": "/blog/disclosures/694bf1c9be52b3ea156382cb",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/WSI.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rafael Construction",
-        "discovered": "2025-12-24 15:57:39.332388",
-        "description": "Rafael Construction is a full-service commercial general contractor based in Las Vegas, Nevada, specializing in commercial development with services including ground-up construction, design-build, construction management, and public works projects.We will upload more than 20gb of corporate data soon. Personal employee files (passports, DL, social security numbers ~100), financials, confidential internal files, client information, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Building Trades",
-        "discovered": "2025-12-24 15:57:38.217272",
-        "description": "The Los Angeles/Orange Counties Building and Construction Trades Council represents 48 local unions and district councils, servinga membership of 160,000 skilled workers. They provide rigorous apprenticeship programs, ensuring that members are well-trained for both private and public-sector projects.We will upload 14gb of corporate data soon. Detailed personal information about employees, clients and their families (scans of passports, DLs, complete forms with full personal information, photos and so on), detailed financials, client information, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Real Estate"
     }
 ]
