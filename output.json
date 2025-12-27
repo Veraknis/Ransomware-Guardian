@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Massive Data Leak - Banco Vimenca - Dominican Bank.",
+        "discovered": "2025-12-27 19:54:37.003509",
+        "description": "Sensitive info exposed in commercial bank.\n#Breach #Leak Incident #BancoVimenca",
+        "link": "view_article.php?article=fcEsBWkuURCuvvSL5vzjui0XteVWS0HWDaYjzPeHLYZ6uItPbrhwM22G4wjvE6Ft",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Massive Data Leak - Banco Vimenca - Dominican Bank.png",
+        "group_name": "leaknet",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Typhoo Tea",
+        "discovered": "2025-12-27 18:59:24.201492",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=e235e618-0130-32bb-a996-0dc77aacd3ae",
+        "magnet": null,
+        "screen": "screenshots/qilin/Typhoo Tea.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Dom Development",
+        "discovered": "2025-12-27 18:59:23.212481",
+        "description": "Construction",
+        "link": "/site/view?uuid=e825c153-88f0-3b3c-9c3d-861ad0ec79f0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dom Development.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Caramel",
+        "discovered": "2025-12-27 17:57:40.209956",
+        "description": "Founded in 1999 and headquartered in London, England, Caramel is a company that manufactures and sells apparel items.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Centro Médico Palafox",
+        "discovered": "2025-12-27 17:57:39.235917",
+        "description": "At Palafox Medical Center, we offer comprehensive healthcare services through a wide range of medical specialties. Our center boasts a broad spectrum of service...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "BMW Guatemala",
+        "discovered": "2025-12-27 16:37:48.295774",
+        "description": "BMW Guatemala is a company that operates in the Automobile Dealers industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartere...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "VALLEREDONDO",
         "discovered": "2025-12-27 12:58:46.599630",
         "description": "Website: valleredondo.com.mx\nRevenue: $50 Million\nFamily owned, founded in 1964 by Don Luis Ferruccio Cetto, right in the center of México, in Aguascalientes.\nWith more than 60 years specialized in manufacturing, commercialization and distribution of different categories of beverages, Valle Redondo is consolidated as one of the Top producers, in Mexico and for many other countries, growing a robust portfolio of wines, spirits, ciders, juices, nectars, alternative and functional beverages and fruit concentrates.\nData:\n\nFinancial Documents\nCustomer documents\nBusiness planning\nEmployee records\nLegal documents\nHR Documents\nLogistics\nMarketing\nProjects\n\nThe volume of retrieved data is 500 GB",
@@ -48,215 +108,5 @@
         "screen": null,
         "group_name": "bqtlock",
         "sector": "Government"
-    },
-    {
-        "post_title": "energogroup.net",
-        "discovered": "2025-12-26 18:15:27.903494",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "goldenline.com",
-        "discovered": "2025-12-26 18:15:26.919402",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "silanosn.local",
-        "discovered": "2025-12-26 18:15:26.024642",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bengineered.com.au",
-        "discovered": "2025-12-26 18:15:25.068213",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mnpease.ca",
-        "discovered": "2025-12-26 18:15:24.068040",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "metro.local",
-        "discovered": "2025-12-26 18:15:23.152663",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cybervector.co.uk",
-        "discovered": "2025-12-26 18:15:22.204966",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "fabrity.local",
-        "discovered": "2025-12-26 18:15:21.268623",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "miltech.local",
-        "discovered": "2025-12-26 18:15:20.147653",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mytune.me",
-        "discovered": "2025-12-26 18:15:19.168775",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "alphasys.bo",
-        "discovered": "2025-12-26 18:15:18.170455",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nartis.ru",
-        "discovered": "2025-12-26 18:15:17.164382",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "sf.walltopia.com",
-        "discovered": "2025-12-26 18:15:16.179484",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ippm.org",
-        "discovered": "2025-12-26 18:15:15.125459",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bel.quadra.ru",
-        "discovered": "2025-12-26 18:15:14.229091",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "tein.co.jp",
-        "discovered": "2025-12-26 18:15:13.303764",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "atg.cz",
-        "discovered": "2025-12-26 18:15:12.314710",
-        "description": "No description provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "warlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hometech Window",
-        "discovered": "2025-12-26 18:15:07.453025",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=32bf6664-6ec8-318f-b14d-74e2fdce5912",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hometech Window.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Georgia Dermatology & Skin Cancer Center",
-        "discovered": "2025-12-26 18:15:06.530288",
-        "description": "0",
-        "link": "/site/view?uuid=3eb0c446-bf7a-338c-b2fa-7b766ad31be0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Georgia Dermatology & Skin Cancer Center.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ortho Mattress",
-        "discovered": "2025-12-26 18:15:05.606830",
-        "description": "Furniture",
-        "link": "/site/view?uuid=e830f874-44aa-31a9-8ce7-621a69f5bb0a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ortho Mattress.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hopital La Rabta",
-        "discovered": "2025-12-26 18:15:04.662274",
-        "description": "0",
-        "link": "/site/view?uuid=2385873c-ba72-3adb-871d-cfede76c7dd5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hopital La Rabta.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
