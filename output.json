@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Morning Desert Safari",
+        "discovered": "2025-12-27 01:54:54.242064",
+        "description": "Website:\n\nmorningdesertsafari.net\n\n\n\nPayment Status:\nUnpaid - Private Price\n\n\nCompany Info:\nMorning Desert Safari is a Dubai-based tour operator offering early-morning desert adventure experiences. Their tours typically include 4×4 dune bashing, sandboarding, camel rides, and sunrise desert views, with pickup and drop-off from hotels or residences in the UAE. The experience is designed for visitors who want to explore the Arabian desert in the cooler morning hours with adventure and scenic highlights before midday.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arabian Desert Safari",
+        "discovered": "2025-12-27 01:54:53.319670",
+        "description": "Website:\n\narabiandesertsafari.net\n\n\n\nPayment Status:\nUnpaid - Private Price\n\n\nCompany Info:\nArabian Desert Safari, established in 1976, is a Dubai-based tourism company offering guided desert safari experiences, including dune bashing, camel rides, sandboarding, cultural shows, and desert dining. The company operates tours across the UAE, focusing on adventure and traditional desert experiences.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Dhow Cruise Dubai Harbour",
+        "discovered": "2025-12-27 01:54:52.392641",
+        "description": "Website:\n\ndhowcruisedubaiharbour.com\n\n\n\nPayment Status:\nUnpaid - Private Price\n\n\nCompany Info:\nDhow Cruise Dubai Harbour is a Dubai-based tourism company offering dhow cruises and private yacht charters along Dubai Harbour and Dubai Marina. The company provides sightseeing and dinner experiences with onboard dining, entertainment, and panoramic views of Dubai's skyline, combining traditional maritime heritage with modern luxury.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Hatta Heritage Village",
+        "discovered": "2025-12-27 01:54:48.431110",
+        "description": "Website:\n\nhattaheritagevillage.com\n\n\n\nPayment Status:\nUnpaid - Private Price\n\n\nCompany Info:\nHatta Heritage Village is a historic heritage attraction in Hatta, Dubai, showcasing traditional Emirati mountain life through restored homes, forts, watchtowers, and cultural exhibits. It is maintained as a tourism and cultural site to preserve and present the UAE's history and traditions.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Government"
+    },
+    {
         "post_title": "energogroup.net",
         "discovered": "2025-12-26 18:15:27.903494",
         "description": "No description provided.",
@@ -268,25 +308,5 @@
         "screen": "screenshots/chaos/VEPLASTIC.png",
         "group_name": "chaos",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "THT Bio-Science, France",
-        "discovered": "2025-12-26 07:34:59.477581",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bangchak Corporation",
-        "discovered": "2025-12-25 23:49:24.962216",
-        "description": "Holding Companies & Conglomerates",
-        "link": "/site/view?uuid=21d95906-a89e-3d14-b71e-2436d7980b47",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bangchak Corporation.png",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
