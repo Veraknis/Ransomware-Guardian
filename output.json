@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Atalian",
+        "discovered": "2025-12-28 10:50:26.244515",
+        "description": "Business Services",
+        "link": "/site/view?uuid=d34bc6bb-15f0-3a4a-8ebb-3ad311427eba",
+        "magnet": null,
+        "screen": "screenshots/qilin/Atalian.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Braverman Files Unleashed: Every Secret Now Exposed",
+        "discovered": "2025-12-28 10:50:23.855248",
+        "description": "Handala Hack | Bibi Gate: The Truth Denied, The Evidence Unfolds Once again, as expected, the Prime Minister’s Office of the Zionist regime rushes to deny what can no longer be hidden. They claim, as always, that the hack of Tzachi Braverman, Netanyahu’s Chief of Staff, the gatekeeper, the vault of secrets, is nothing but…",
+        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=593",
+        "magnet": null,
+        "screen": "screenshots/handala/Braverman Files Unleashed: Every Secret Now Exposed.png",
+        "group_name": "handala",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman Hacked",
         "discovered": "2025-12-28 06:51:45.144119",
         "description": "Bibi Gate Operation: The Gatekeeper’s Fall To Netanyahu’s inner circle, To every official still clutching the illusion of secrecy You feel it now: the tightening chest, the cold sweat, the gnawing dread. That’s not just fear, it’s the knowledge that every layer of your security, every secret entrusted to Tzachi Braverman, Netanyahu’s Chief of Staff,…",
@@ -168,15 +188,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "VALLEREDONDO",
-        "discovered": "2025-12-27 12:58:46.599630",
-        "description": "Website: valleredondo.com.mx\nRevenue: $50 Million\nFamily owned, founded in 1964 by Don Luis Ferruccio Cetto, right in the center of México, in Aguascalientes.\nWith more than 60 years specialized in manufacturing, commercialization and distribution of different categories of beverages, Valle Redondo is consolidated as one of the Top producers, in Mexico and for many other countries, growing a robust portfolio of wines, spirits, ciders, juices, nectars, alternative and functional beverages and fruit concentrates.\nData:\n\nFinancial Documents\nCustomer documents\nBusiness planning\nEmployee records\nLegal documents\nHR Documents\nLogistics\nMarketing\nProjects\n\nThe volume of retrieved data is 500 GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Finance"
     }
 ]
