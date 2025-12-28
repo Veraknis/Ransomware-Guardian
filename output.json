@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Questica",
+        "discovered": "2025-12-28 19:55:13.798496",
+        "description": "Finance",
+        "link": "/site/view?uuid=1db417d5-6477-3977-8ae8-0f07e5017213",
+        "magnet": null,
+        "screen": "screenshots/qilin/Questica.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Seac",
+        "discovered": "2025-12-28 19:55:12.833570",
+        "description": "Software",
+        "link": "/site/view?uuid=95007099-26f2-3e14-a83a-43f0bcc08610",
+        "magnet": null,
+        "screen": "screenshots/qilin/Seac.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Intonu.com",
+        "discovered": "2025-12-28 16:56:59.076639",
+        "description": "Financial, Hr documents, claims",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "oppor**nity*****.org",
+        "discovered": "2025-12-28 16:56:58.154486",
+        "description": "Patients data, financial data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Jennings SD",
+        "discovered": "2025-12-28 16:56:57.170639",
+        "description": "Financial data, HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "sharinc.org",
+        "discovered": "2025-12-28 16:56:56.249784",
+        "description": "Financial, Custommer data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Neurological Associates",
+        "discovered": "2025-12-28 16:56:52.867297",
+        "description": "Neuro Associates, located in Kirkland, Washington, is a neurology clinic established in 1974 with a team of four highly experienced neurologists. The clinic off...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Atalian",
         "discovered": "2025-12-28 10:50:26.244515",
         "description": "Business Services",
@@ -127,66 +197,6 @@
         "magnet": null,
         "screen": "screenshots/safepay/larosadelmontecom.png",
         "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Massive Data Leak - Banco Vimenca - Dominican Bank.",
-        "discovered": "2025-12-27 19:54:37.003509",
-        "description": "Sensitive info exposed in commercial bank.\n#Breach #Leak Incident #BancoVimenca",
-        "link": "view_article.php?article=fcEsBWkuURCuvvSL5vzjui0XteVWS0HWDaYjzPeHLYZ6uItPbrhwM22G4wjvE6Ft",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Massive Data Leak - Banco Vimenca - Dominican Bank.png",
-        "group_name": "leaknet",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Typhoo Tea",
-        "discovered": "2025-12-27 18:59:24.201492",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=e235e618-0130-32bb-a996-0dc77aacd3ae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Typhoo Tea.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Dom Development",
-        "discovered": "2025-12-27 18:59:23.212481",
-        "description": "Construction",
-        "link": "/site/view?uuid=e825c153-88f0-3b3c-9c3d-861ad0ec79f0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dom Development.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Caramel",
-        "discovered": "2025-12-27 17:57:40.209956",
-        "description": "Founded in 1999 and headquartered in London, England, Caramel is a company that manufactures and sells apparel items.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Centro Médico Palafox",
-        "discovered": "2025-12-27 17:57:39.235917",
-        "description": "At Palafox Medical Center, we offer comprehensive healthcare services through a wide range of medical specialties. Our center boasts a broad spectrum of service...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "BMW Guatemala",
-        "discovered": "2025-12-27 16:37:48.295774",
-        "description": "BMW Guatemala is a company that operates in the Automobile Dealers industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartere...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
         "sector": "Unknown"
     }
 ]
