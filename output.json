@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "SEACSUB S.p.a.",
+        "discovered": "2025-12-29 18:43:25.401498",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=95007099-26f2-3e14-a83a-43f0bcc08610",
+        "magnet": null,
+        "screen": "screenshots/qilin/SEACSUB Spa.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Burnex",
+        "discovered": "2025-12-29 18:43:22.878778",
+        "description": "Burnex Corporation is a leading manufacturer of precision metal stampings and wire forms, offering both custom and standard metal parts for various industries s...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "NK Technologies",
+        "discovered": "2025-12-29 18:43:21.912045",
+        "description": "Founded in 1982, NK Technologies is a current sensing technology manufacturer and distributor headquartered in San Jose, California. Products include sensing sw...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "selp",
+        "discovered": "2025-12-29 17:42:47.629730",
+        "description": "",
+        "link": "/blog/disclosures/6952a4b68f1d14b74380cda7",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/selp.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Saudi Icon",
+        "discovered": "2025-12-29 16:43:48.929089",
+        "description": "Saudi Icon specializes in design and build solutions, offering a holistic approach to construction and turn-key services. The company caters to a diverse clientele, including hotels, workspaces, restaurants, gyms, and healthcare facilities across Saudi Arabia. With a focus on creativity, functionality, and quality construction, Saudi Icon aims to redefine modern living through thoughtful design and tailored services. Their extensive portfolio showcases significant projects, along with a reputation for delivering high-end fit-out solutions and innovative constructions",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kazu",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "voltechrebuilders.com",
+        "discovered": "2025-12-29 16:20:17.100939",
+        "description": "voltechrebuilders.com There are many documents. Password to view test files - cdiNfCOfnAWWWScXzIOM",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/voltechrebuilderscom.png",
+        "group_name": "ransomware blog",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "teknequip.com",
+        "discovered": "2025-12-29 16:19:47.712728",
+        "description": "teknequip.com Contracts, projects, banking documents. Password for viewing test files PPRp4yE5e3KZhqJMCodZ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/teknequipcom.png",
+        "group_name": "ransomware blog",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "powerscourt.com",
+        "discovered": "2025-12-29 16:19:08.424825",
+        "description": "powerscourt.com A lot of private information, bank transfers, clients, passports, and documents. Password required to view test files - szcBA3n2Ogkx7zJuMOKB",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/powerscourtcom.png",
+        "group_name": "ransomware blog",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Taiwan Hospital",
+        "discovered": "2025-12-29 16:18:05.307456",
+        "description": "Taiwan Hospital A large number of personal documents of the clinic&#x27;s clients, including personal files, addresses, and medical histories. A password for viewing test files - sfCK0f6s1icwMQqHvRQZ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/Taiwan Hospital.png",
+        "group_name": "ransomware blog",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "kelseyschooldivision.ca",
+        "discovered": "2025-12-29 16:16:56.623024",
+        "description": "kelseyschooldivision.ca Documents for students, parents, staff, and sponsors. Bank transfers and more. Password for viewing test files - F00IBO2u2FV5yWzPRCqr",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/kelseyschooldivisionca.png",
+        "group_name": "ransomware blog",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "rene.co.ug",
+        "discovered": "2025-12-29 16:15:36.314548",
+        "description": "rene.co.ug A lot of confidential information. Password for viewing test files 4TQJPyOpHTLIHIpgD4t1",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ransomware blog/renecoug.png",
+        "group_name": "ransomware blog",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Grupo Hafesa",
         "discovered": "2025-12-29 15:42:32.978109",
         "description": "Business Services",
@@ -108,75 +218,5 @@
         "screen": "screenshots/qilin/Goodwin College.png",
         "group_name": "qilin",
         "sector": "Education"
-    },
-    {
-        "post_title": "Questica",
-        "discovered": "2025-12-28 19:55:13.798496",
-        "description": "Finance",
-        "link": "/site/view?uuid=1db417d5-6477-3977-8ae8-0f07e5017213",
-        "magnet": null,
-        "screen": "screenshots/qilin/Questica.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Seac",
-        "discovered": "2025-12-28 19:55:12.833570",
-        "description": "Software",
-        "link": "/site/view?uuid=95007099-26f2-3e14-a83a-43f0bcc08610",
-        "magnet": null,
-        "screen": "screenshots/qilin/Seac.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Intonu.com",
-        "discovered": "2025-12-28 16:56:59.076639",
-        "description": "Financial, Hr documents, claims",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "oppor**nity*****.org",
-        "discovered": "2025-12-28 16:56:58.154486",
-        "description": "Patients data, financial data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Jennings SD",
-        "discovered": "2025-12-28 16:56:57.170639",
-        "description": "Financial data, HR data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "sharinc.org",
-        "discovered": "2025-12-28 16:56:56.249784",
-        "description": "Financial, Custommer data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Neurological Associates",
-        "discovered": "2025-12-28 16:56:52.867297",
-        "description": "Neuro Associates, located in Kirkland, Washington, is a neurology clinic established in 1974 with a team of four highly experienced neurologists. The clinic off...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
     }
 ]
