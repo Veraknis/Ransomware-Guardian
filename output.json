@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Grupo Hafesa",
+        "discovered": "2025-12-29 15:42:32.978109",
+        "description": "Business Services",
+        "link": "/site/view?uuid=dbff4c3e-a9ce-3c72-8f68-8fa02be7cd08",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Hafesa.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sintac Recycling",
+        "discovered": "2025-12-29 15:42:32.013896",
+        "description": "Energy, Utilities & Waste",
+        "link": "/site/view?uuid=aaed302b-5da5-312d-af58-22a99f1d3a75",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sintac Recycling.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "ESSPL",
+        "discovered": "2025-12-29 11:43:27.320518",
+        "description": "",
+        "link": "/r/045a63694621545e5ade794bbfdb5fcecd40178f",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/ESSPL.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arkan",
+        "discovered": "2025-12-29 10:43:40.682968",
+        "description": "",
+        "link": "/r/857cb2f5370ce3d9413323e2956277a5eb2c5975",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Arkan.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Willowdale Steeplechase",
+        "discovered": "2025-12-29 10:43:37.028919",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/view?uuid=0ef64940-fef4-3369-9b8d-42b88907febd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Willowdale Steeplechase.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pau.at",
+        "discovered": "2025-12-29 09:44:08.265603",
+        "description": "PAUAT Architekten is a regional architectural practice based in Wels, Austria, founded in 1999 and led by architect Heinz Plöderl. …",
+        "link": "/blog/post/pauat/",
+        "magnet": null,
+        "screen": "screenshots/safepay/pauat.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "APC Home Health Service",
+        "discovered": "2025-12-29 09:43:51.820375",
+        "description": "Founded in 1982, APC Home Health Services is a home care provider, servicing Harlingen, Texas. Their services allows the elderly to stay in their home and receive medical care for health conditions, receiving assistance with daily tasks or homecare during day or night depending on their need.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/APC Home Health Service.png",
+        "group_name": "nova",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "INHA University | 650GB internal main database",
+        "discovered": "2025-12-29 09:43:49.429679",
+        "description": "INHA University | 650GB internal main database",
+        "link": "/inha",
+        "magnet": null,
+        "screen": "screenshots/gunra/INHA University | 650GB internal main database.png",
+        "group_name": "gunra",
+        "sector": "Education"
+    },
+    {
         "post_title": "omrania",
         "discovered": "2025-12-29 03:43:30.440996",
         "description": "",
@@ -98,25 +178,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Atalian",
-        "discovered": "2025-12-28 10:50:26.244515",
-        "description": "Business Services",
-        "link": "/site/view?uuid=d34bc6bb-15f0-3a4a-8ebb-3ad311427eba",
-        "magnet": null,
-        "screen": "screenshots/qilin/Atalian.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Braverman Files Unleashed: Every Secret Now Exposed",
-        "discovered": "2025-12-28 10:50:23.855248",
-        "description": "Handala Hack | Bibi Gate: The Truth Denied, The Evidence Unfolds Once again, as expected, the Prime Minister’s Office of the Zionist regime rushes to deny what can no longer be hidden. They claim, as always, that the hack of Tzachi Braverman, Netanyahu’s Chief of Staff, the gatekeeper, the vault of secrets, is nothing but…",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=593",
-        "magnet": null,
-        "screen": "screenshots/handala/Braverman Files Unleashed: Every Secret Now Exposed.png",
-        "group_name": "handala",
-        "sector": "Unknown"
     }
 ]
