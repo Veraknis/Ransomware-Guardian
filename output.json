@@ -1,5 +1,675 @@
 [
     {
+        "post_title": "Pernec Corporation Bhd",
+        "discovered": "2025-12-30 11:55:53.597180",
+        "description": "Malaysia\n\n                                pernec.com.my                            \n19D09DAFA7F684DF",
+        "link": "/detail.php?id=qmxkavtserjbdwpl",
+        "magnet": null,
+        "screen": "screenshots/walocker/Pernec Corporation Bhd.png",
+        "group_name": "walocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SMC Global Securities Ltd",
+        "discovered": "2025-12-30 11:55:52.596112",
+        "description": "India\n\n                                smcindiaonline.com                            \n679886DC3316BAE9",
+        "link": "/detail.php?id=ispttlchqbsmsuuf",
+        "magnet": null,
+        "screen": "screenshots/walocker/SMC Global Securities Ltd.png",
+        "group_name": "walocker",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "JBS",
+        "discovered": "2025-12-30 11:55:48.956076",
+        "description": "JBS is a regional, public, nonprofit corporation established under Act 310 of the 1967 Alabama Legislature. The region served by the Authority is designated in the State Mental Health Plan as Region M-5, and comprises Jefferson, Blount and St. Clair counties, with a total of more than 800,000 residents. There are three mental health centers which serve the region. It is the responsibility of the Authority to plan, coordinate and develop the system of mental health services for the entire region. The Authority provides consultation regarding program development and funding; coordination of regional programs; delivery of region-wide services; and a consolidated budgeting process to simplify the funding of programs at the local and state level.\ncompany is headquartered in 940 Montclair Rd., Birmingham, AL 35213, USA.\n201-500 Employees, The total amount of data leakage is 168.6 GB.",
+        "link": "detail?id=41d10752afc874fc21305afdf3e01b62",
+        "magnet": null,
+        "screen": "screenshots/medusa/JBS.png",
+        "group_name": "medusa",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Fitzpatrickhotels.com",
+        "discovered": "2025-12-30 11:55:47.741547",
+        "description": "",
+        "link": "/fitz",
+        "magnet": null,
+        "screen": "screenshots/cloak/Fitzpatrickhotelscom.png",
+        "group_name": "cloak",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "uniplaclages.edu.br",
+        "discovered": "2025-12-30 11:55:38.550319",
+        "description": "UNIPLAC offers various educational services including student and employee portals, distance learnin...",
+        "link": "/post/0f0099fb93e3d840e972f0503498ab3d",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/uniplaclagesedubr.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "drako.com.mx",
+        "discovered": "2025-12-30 11:55:37.502527",
+        "description": "Since 1962, at Grupo Drako® we have built a legacy of growth, innovation, and leadership. With more...",
+        "link": "/post/edb88d8eafab3631d09370f9dae5f943",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/drakocommx.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "inspired.ee",
+        "discovered": "2025-12-30 11:55:36.439553",
+        "description": "Inspired Universal McCann is the largest media agency in Estonia and the Baltics. We create and impl...",
+        "link": "/post/c91398ddda8986f2d8f1cef0b12d3013",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/inspiredee.png",
+        "group_name": "lockbit5",
+        "sector": "Government"
+    },
+    {
+        "post_title": "zszeleznice.cz",
+        "discovered": "2025-12-30 11:55:35.429475",
+        "description": "Masarykova základní škola a mateřská škola, Železnice",
+        "link": "/post/9c83a9092d978058454f9a44a5aac0b8",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/zszeleznicecz.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "surfishtrade.com",
+        "discovered": "2025-12-30 11:55:34.293760",
+        "description": "We are a company dedicated to buying and selling whole and processed fish while complying with stric...",
+        "link": "/post/9b7a5fc1679b154bd866bff68969f5fd",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/surfishtradecom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "towellholding.com",
+        "discovered": "2025-12-30 11:55:33.231663",
+        "description": "Towell International Holding owns reputed companies in Kuwait and the MENA region. Our aim is to pro...",
+        "link": "/post/a2235e1d1b8a5faed5e2d0bd3e5f2285",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/towellholdingcom.png",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "tecnicarobertorocca.edu.ar",
+        "discovered": "2025-12-30 11:55:32.170913",
+        "description": "Somos una red de escuelas de excelencia que busca formar técnicos y técnicas de alta calidad, que de...",
+        "link": "/post/c9bac8fa64c2939ea557a048a6b60daa",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/tecnicarobertoroccaeduar.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "technicare.com.br",
+        "discovered": "2025-12-30 11:55:30.529619",
+        "description": "Technicare Instrumental Cirúrgico is a pioneering company in Brazil, specializing in the production...",
+        "link": "/post/3e3d3ff188de8ef57e05406cda63b95d",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/technicarecombr.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "tealca.com",
+        "discovered": "2025-12-30 11:55:29.570702",
+        "description": "TEALCA is a Venezuelan company specializing in the shipment and distribution of packages, cargo, and...",
+        "link": "/post/8071dc693e6446cd549d684aac1156b7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/tealcacom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "soeuae.ae",
+        "discovered": "2025-12-30 11:55:28.567706",
+        "description": "Society of Engineers-UAE is a well-known professional group that helps engineers grow and connect. S...",
+        "link": "/post/ef1480089cbb6bc1ce980a0ce4eb2a74",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/soeuaeae.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "savantivibranti.com",
+        "discovered": "2025-12-30 11:55:27.510361",
+        "description": "Specialisti in sistemi antivibranti\nDal 1967 ci occupiamo dello sviluppo e della produzione di sist...",
+        "link": "/post/c8fe0fba6a64762a522de480da697e2e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/savantivibranticom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "puzio-saunierduval.fr",
+        "discovered": "2025-12-30 11:55:26.546425",
+        "description": "Notre entreprise ETS PUZIO à CHELLES\nChauffagiste à Chelles depuis 1973, nous sommes spécialiste de...",
+        "link": "/post/8924e64423031b6a608f5f72e1eee049",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/puzio-saunierduvalfr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "optral.com",
+        "discovered": "2025-12-30 11:55:25.561325",
+        "description": "OPTRAL specializes in the design and manufacturing of optical fiber cables, offering a wide range of...",
+        "link": "/post/403ae449708249b918510ab7824d9174",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/optralcom.png",
+        "group_name": "lockbit5",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "omf.org",
+        "discovered": "2025-12-30 11:55:24.459732",
+        "description": "OMF is a global fellowship of Christians with a heart for East Asia.\nWe are passionate to demonstra...",
+        "link": "/post/c01149b31ee3001c2307428ebbbc40b7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/omforg.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "occgrouptr.com",
+        "discovered": "2025-12-30 11:55:23.432908",
+        "description": "OCC Group&#039;un temel amacı, grubun yan kuruluşları arasında oluşturduğu sinerjiyle, reklamverenle...",
+        "link": "/post/bdda6350de48740716abac4ad03c5c4f",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/occgrouptrcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "mostykatowice.pl",
+        "discovered": "2025-12-30 11:55:22.303907",
+        "description": "Spółka Mosty Katowice to jeden z liderów rynku projektowego w Polsce.\n \n\nNa swój sukces pracujemy...",
+        "link": "/post/08f1a9a92b46b71dd0b1c8f6641c19c0",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/mostykatowicepl.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "prommgroup.com",
+        "discovered": "2025-12-30 11:55:21.253501",
+        "description": "PROMM GROUP is a diversified company originally founded under the name Prommaharaj Land Development....",
+        "link": "/post/a69c5720aa765665ced308e98b05fc7e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/prommgroupcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "q-ads.com",
+        "discovered": "2025-12-30 11:55:20.229180",
+        "description": "An advertising company specializing in outdoor advertising",
+        "link": "/post/9a1fdd5668cc704ffc13c36c875fc6e5",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/q-adscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "smed.at",
+        "discovered": "2025-12-30 11:55:19.228350",
+        "description": "S.Med Handels GmbH is an Austrian pharmaceutical company based in Vienna, owned by a family. The com...",
+        "link": "/post/dcad941231453a10d907fafbc3e66182",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/smedat.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "clipan.co.id",
+        "discovered": "2025-12-30 11:55:18.204984",
+        "description": "PT Clipan Finance Indonesia Tbk is a financing company for new cars, used cars, heavy equipment, and...",
+        "link": "/post/196986d45334642eb9052d8d0847c964",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/clipancoid.png",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "mc2engineers.com",
+        "discovered": "2025-12-30 11:55:17.183009",
+        "description": "MC Squared is a regional engineering consulting firm specializing in geotechnical, environmental, ma...",
+        "link": "/post/35fe3039975368405ac796789d14874b",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/mc2engineerscom.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "lfval.net",
+        "discovered": "2025-12-30 11:55:16.119356",
+        "description": "Lyc©e Franais de Valence is a bilingual French school located in Paterna, Spain. We offer education...",
+        "link": "/post/94a2fca1192f0c4607d21d247d886819",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/lfvalnet.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "laval-virtual.com",
+        "discovered": "2025-12-30 11:55:15.068944",
+        "description": "Founded in 1999 and established at Laval, Enozone is a company specialized in computer graphics and...",
+        "link": "/post/195aa79c434257b96e7561c576160559",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/laval-virtualcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "kraslice.cz",
+        "discovered": "2025-12-30 11:55:14.009997",
+        "description": "Městský úřad Kraslice\nnáměstí 28. října 1438\n35801 Kraslice\n\nTel.: +420 352 370 411\npodatelna@m...",
+        "link": "/post/d22e39fd81899e5aa783f829c88a7de4",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/kraslicecz.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "jefar.be",
+        "discovered": "2025-12-30 11:55:12.968148",
+        "description": "En 2013, l’asbl « Jeunes Emploi Formation », connue sous le nom de JEF, et l’asbl « Personnes Handic...",
+        "link": "/post/56582771c6f421b32107233eab0b9ab7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/jefarbe.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gumustasmaden.com.tr",
+        "discovered": "2025-12-30 11:55:11.895847",
+        "description": "Gümüştaş is a prominent player in the Turkish mining industry, specializing in the extraction and pr...",
+        "link": "/post/99537fc2799a971e60475ac528958bc9",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/gumustasmadencomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "geselektrik.com.tr",
+        "discovered": "2025-12-30 11:55:08.603076",
+        "description": "GES Genel Elektrik Sistemleri Yapım ve Mühendislik A.Ş. specializes in the turnkey installation of e...",
+        "link": "/post/7656b35b396698d21ea5844580831bfb",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/geselektrikcomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gccservices.eu",
+        "discovered": "2025-12-30 11:55:07.589860",
+        "description": "gccservices.eu",
+        "link": "/post/8ebafc785e5cb796a214c8634a89dad9",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/gccserviceseu.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "fresh2you.eu",
+        "discovered": "2025-12-30 11:55:06.628931",
+        "description": "Fresh2You is an importer, exporter, wholesaler and Cash &amp; Carry for the highest quality fruits a...",
+        "link": "/post/1aa0846352e70c36164db8dcdc8cb640",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/fresh2youeu.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "fortrex.hu",
+        "discovered": "2025-12-30 11:55:05.651711",
+        "description": "Fortrex Zrt. \n- okos megoldás ipari tervezési, kivitelezési, karbantartási és alkatrész ellátási fe...",
+        "link": "/post/d7e8009b4584eb08a600b5a8fd62b8bf",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/fortrexhu.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "emresorts.com",
+        "discovered": "2025-12-30 11:55:04.644687",
+        "description": "EM Resorts offers a luxurious and abundant experience in the heart of Crete, featuring two main prop...",
+        "link": "/post/480c31786b6163b366d70d966e6fefc0",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/emresortscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "d-klima.cz",
+        "discovered": "2025-12-30 11:55:00.814953",
+        "description": "D-klima is a company dealing in heating, ventilation and air-conditioning (HVAC) solutions, with a t...",
+        "link": "/post/38a8fba2ca7c49a4e282c2c2535bd686",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/d-klimacz.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "csd-drancy.com",
+        "discovered": "2025-12-30 11:54:59.613525",
+        "description": "CENTRE DE SANTE DENTAIRE\nNOTRE ENGAGEMENT\n\nCSD Drancy 17-19 Avenue Henri Barbusse 93700 Drancy 01...",
+        "link": "/post/c57e7680cc652e5f3627aa314a3249fe",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/csd-drancycom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cmc.com.br",
+        "discovered": "2025-12-30 11:54:58.507947",
+        "description": "Colégio Miguel de Cervantes: CMC\n\nNa Educação Infantil do Colégio Miguel de Cervantes, a criança a...",
+        "link": "/post/2a30392d374498a514ee354db096a626",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/cmccombr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "casabotas.es",
+        "discovered": "2025-12-30 11:54:57.431373",
+        "description": "We are one of the oldest and most experienced companies in the catching, production, and sale of sea...",
+        "link": "/post/56120658071aaac4e6f4246690e92092",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/casabotases.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "carseo.de",
+        "discovered": "2025-12-30 11:54:56.362292",
+        "description": "CARSEO GmbH specializes in damage management services for automobile dealerships and repair business...",
+        "link": "/post/8cff1a0be50db9c6ec89cb4b04e5cc15",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/carseode.png",
+        "group_name": "lockbit5",
+        "sector": "Services"
+    },
+    {
+        "post_title": "bwk-berlin.de",
+        "discovered": "2025-12-30 11:54:55.202749",
+        "description": "BWK BildungsWerk in Kreuzberg GmbH - Bildungseinrichtung in Berlin",
+        "link": "/post/97e81c6e1472cef5685932bcb5f088da",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/bwk-berlinde.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bonfilet.com.tr",
+        "discovered": "2025-12-30 11:54:54.176653",
+        "description": "Bonfilet specializes in fresh and delicious meat products, offering a wide range of options includin...",
+        "link": "/post/a285782f1198747e392abf0d689f997c",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/bonfiletcomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "behranlift.com",
+        "discovered": "2025-12-30 11:54:51.717540",
+        "description": "گروه صنعتی بهران specializes in manufacturing a wide range of elevator and escalator components, inc...",
+        "link": "/post/4165efec10cc37653a231002ac4f7ee6",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/behranliftcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "arabfalcons.com",
+        "discovered": "2025-12-30 11:54:50.727641",
+        "description": "الصقور العربية specializes in producing advanced technology products, including various models such...",
+        "link": "/post/7e4183daae11377341e38496ffd4ec74",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/arabfalconscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "anwalt-austria.at",
+        "discovered": "2025-12-30 11:54:49.747497",
+        "description": "Zuverlässige und lebensnahe Betreuung Ihrer Rechtsangelegenheiten.\n\nfür Unternehmen und Privatpe...",
+        "link": "/post/64b89abae9389d64c4fb402d4b26e097",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/anwalt-austriaat.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "amw-treuhand.ch",
+        "discovered": "2025-12-30 11:54:48.531457",
+        "description": "AMW Treuhand &amp; Immobilien AG ist ein Dienstleistungsunternehmen in Brüttisellen, das sich auf Fi...",
+        "link": "/post/0724a41c67ff5af54d69bd505a56dd57",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/amw-treuhandch.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "agfri.com",
+        "discovered": "2025-12-30 11:54:47.570813",
+        "description": "Our core business is designing and manufacturing products for the HVAC sector, offering the highest...",
+        "link": "/post/fa969739dc9ff458979bf60219ddcd71",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/agfricom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "acarlar.com.tr",
+        "discovered": "2025-12-30 11:54:46.585338",
+        "description": "ACARLAR A.Þ. is a company founded in 1963, specializing in innovative business models across various...",
+        "link": "/post/d17d7d26e103673b82632e7fc443de3f",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/acarlarcomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rdmetals.nl",
+        "discovered": "2025-12-30 11:54:44.829775",
+        "description": "RD Metals is a certified partner specializing in metal waste processing and recycling, focusing on e...",
+        "link": "/post/1f33143dd6bc08d2009e2095a3922bdf",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/rdmetalsnl.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ambisig.com",
+        "discovered": "2025-12-30 11:54:43.777590",
+        "description": "Ambisig is a technology company that helps local governments and businesses manage information smart...",
+        "link": "/post/e8cde7bac375cd8548416eecd23cd257",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/ambisigcom.png",
+        "group_name": "lockbit5",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "shwapno.com",
+        "discovered": "2025-12-30 11:54:42.648604",
+        "description": "Shwapno is an online grocery shopping service that operates in various areas including Dhaka, Chatto...",
+        "link": "/post/7546191fea9c926d0748a6e0233b2118",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/shwapnocom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "semplastik.com.tr",
+        "discovered": "2025-12-30 11:54:41.703501",
+        "description": "Sem Plastik TR specializes in the production of a wide range of plastic products, including cups, pl...",
+        "link": "/post/855b8d80bd487a0facf1709440dda979",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/semplastikcomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "proplastics.co.zw",
+        "discovered": "2025-12-30 11:54:40.730731",
+        "description": "Proplastics Limited is a leading manufacturer of plastic pipes and fittings in Zimbabwe, recognized...",
+        "link": "/post/ac9ea9af3619cd2b57547f91272255b4",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/proplasticscozw.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "platinumpws.com",
+        "discovered": "2025-12-30 11:54:39.736362",
+        "description": "Platinum is one of the leading wines and spirits distributors in Singapore, having been in the indus...",
+        "link": "/post/d093683506d2cc9c55c5b01c1d298069",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/platinumpwscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "npiav.com",
+        "discovered": "2025-12-30 11:54:38.732699",
+        "description": "NPi Audio Visual Solutions specializes in providing top-notch audio visual rental and staging servic...",
+        "link": "/post/5cc35499ec720483adc6ae5cd38a6f38",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/npiavcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "manuaco.pt",
+        "discovered": "2025-12-30 11:54:37.702435",
+        "description": "A empresa MANUAÇO iniciou a sua atividade em 2006 tendo como único sócio administrador José Fernando...",
+        "link": "/post/21ee5f0828d44302361cc87bf489e89c",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/manuacopt.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "itgsolutions.com",
+        "discovered": "2025-12-30 11:54:36.690575",
+        "description": "Integrated Technology Group (ITG) specializes in providing technology solutions tailored for the edu...",
+        "link": "/post/966dbd84f2b3c0ca6ab779a204d8955c",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/itgsolutionscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "grupoconstrutodo.com",
+        "discovered": "2025-12-30 11:54:35.594748",
+        "description": "Más que materiales, somos soluciones.\n\nDesde hace más de 15 años\n\nComercializadora Construtodo...",
+        "link": "/post/e9643e31aa7225d25ce82ed329df5554",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/grupoconstrutodocom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "klax.de",
+        "discovered": "2025-12-30 11:54:34.602701",
+        "description": "Wir sind Klax\nKlax fördert individuelles Lernen und Kreativität mit Bildungs- und Freizeitangeboten...",
+        "link": "/post/959fc01fdcce3393d2556b38631465b7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/klaxde.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "labayenylaborde.com",
+        "discovered": "2025-12-30 11:54:33.636169",
+        "description": "LABAYEN Y LABORDE S.L.\nA group of companies\nspecialized in rotary machines",
+        "link": "/post/b9e8325963578e3e453e8d6b15ccb495",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/labayenylabordecom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "samkee.com",
+        "discovered": "2025-12-30 11:54:32.659715",
+        "description": "Founded in 1978, Samkee Automotive specializes in\ninjection molding vehicles, providing global equi...",
+        "link": "/post/9720b0bffeadb754d3bcc451fb0e00b7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/samkeecom.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "collinscomputing.com",
+        "discovered": "2025-12-30 11:54:31.632321",
+        "description": "Collins Computing specializes in providing accounting software solutions, focusing on \nAcumatica Cl...",
+        "link": "/post/0a41b4867264f7c809fd27b151066854",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/collinscomputingcom.png",
+        "group_name": "lockbit5",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "drogales.com.br",
+        "discovered": "2025-12-30 11:54:30.642828",
+        "description": "Drogaria Drogales Incio is a pharmacy and perfumery that offers a wide range of \npersonal care prod...",
+        "link": "/post/1686be1ba8cadcb2a892f96f9d80d031",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/drogalescombr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "eroselevators.com",
+        "discovered": "2025-12-30 11:54:29.638791",
+        "description": "Eros Elevators, established in 1947, is a pioneer in the Indian elevator industry, \noffering a comp...",
+        "link": "/post/d8ab52691aa30047f609d867264b082f",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/eroselevatorscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "esopdirect.com",
+        "discovered": "2025-12-30 11:54:28.641007",
+        "description": "ESOP Direct: ESOP Direct, focussed on the Equity compensation domain, is engaged\nin Plan Design, Le...",
+        "link": "/post/2926b390527331dae263699584182b39",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/esopdirectcom.png",
+        "group_name": "lockbit5",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "fortishealthcare.com",
+        "discovered": "2025-12-30 11:54:27.636446",
+        "description": "Fortis Hospital, Bannerghatta Road, Bengaluru, is a 284-bed hospital, well equipped with \nstate-of-...",
+        "link": "/post/dba750d30fae5ca042557305c1741a22",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/fortishealthcarecom.png",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "BioNet-Asia",
+        "discovered": "2025-12-30 09:47:42.869755",
+        "description": "https://bionet-asia.com/ https://www.zoominfo.com/c/bionet-asia-co-ltd/346273011 BioNet is a vaccine manufacturer focused on developing recombinant and mRNA vaccines to combat respiratory diseases and other public health challenges globally. With over 25 years of experience, BioNet has successfully advanced multiple proprietary recombinant pertussis vaccines to licensure and is currently expanding its commercial operations worldwide. The company follows stringent manufacturing practices and is committed to continuous quality improvement in its vaccine production processes. BioNet aims to address critical immunization needs in regions like Southeast Asia through strategic partnerships and innovative vaccine technologies.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Breach Report: NTH Consultant - Early data available",
         "discovered": "2025-12-30 06:44:42.894190",
         "description": "#DataLeak #Breach",
@@ -278,85 +948,5 @@
         "screen": "screenshots/ransomware blog/renecoug.png",
         "group_name": "ransomware blog",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Grupo Hafesa",
-        "discovered": "2025-12-29 15:42:32.978109",
-        "description": "Business Services",
-        "link": "/site/view?uuid=dbff4c3e-a9ce-3c72-8f68-8fa02be7cd08",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo Hafesa.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sintac Recycling",
-        "discovered": "2025-12-29 15:42:32.013896",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/view?uuid=aaed302b-5da5-312d-af58-22a99f1d3a75",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sintac Recycling.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "ESSPL",
-        "discovered": "2025-12-29 11:43:27.320518",
-        "description": "",
-        "link": "/r/045a63694621545e5ade794bbfdb5fcecd40178f",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/ESSPL.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Arkan",
-        "discovered": "2025-12-29 10:43:40.682968",
-        "description": "",
-        "link": "/r/857cb2f5370ce3d9413323e2956277a5eb2c5975",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Arkan.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Willowdale Steeplechase",
-        "discovered": "2025-12-29 10:43:37.028919",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/view?uuid=0ef64940-fef4-3369-9b8d-42b88907febd",
-        "magnet": null,
-        "screen": "screenshots/qilin/Willowdale Steeplechase.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pau.at",
-        "discovered": "2025-12-29 09:44:08.265603",
-        "description": "PAUAT Architekten is a regional architectural practice based in Wels, Austria, founded in 1999 and led by architect Heinz Plöderl. …",
-        "link": "/blog/post/pauat/",
-        "magnet": null,
-        "screen": "screenshots/safepay/pauat.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "APC Home Health Service",
-        "discovered": "2025-12-29 09:43:51.820375",
-        "description": "Founded in 1982, APC Home Health Services is a home care provider, servicing Harlingen, Texas. Their services allows the elderly to stay in their home and receive medical care for health conditions, receiving assistance with daily tasks or homecare during day or night depending on their need.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/APC Home Health Service.png",
-        "group_name": "nova",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "INHA University | 650GB internal main database",
-        "discovered": "2025-12-29 09:43:49.429679",
-        "description": "INHA University | 650GB internal main database",
-        "link": "/inha",
-        "magnet": null,
-        "screen": "screenshots/gunra/INHA University | 650GB internal main database.png",
-        "group_name": "gunra",
-        "sector": "Education"
     }
 ]
