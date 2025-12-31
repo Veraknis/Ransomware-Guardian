@@ -1,11 +1,91 @@
 [
     {
+        "post_title": "Infinite Computing Systems",
+        "discovered": "2025-12-31 17:42:56.798035",
+        "description": "",
+        "link": "topic.php?id=3JhxiXt5hzc4KY",
+        "magnet": null,
+        "screen": "screenshots/play/Infinite Computing Systems.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "KOPA Kozmetik A",
+        "discovered": "2025-12-31 17:42:39.743665",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=7e8b95ab-b2b8-3fa7-a22e-08cb30dc99c6",
+        "magnet": null,
+        "screen": "screenshots/qilin/KOPA Kozmetik A.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Luminex Software",
+        "discovered": "2025-12-31 17:42:38.690881",
+        "description": "Software",
+        "link": "/site/view?uuid=b47a5fe2-e13c-3f90-b531-01bb7f789b67",
+        "magnet": null,
+        "screen": "screenshots/qilin/Luminex Software.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Z-Tronix",
+        "discovered": "2025-12-31 16:54:19.087498",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=1719d8b8-c185-3e02-8ee0-ca9c9e537b94",
+        "magnet": null,
+        "screen": "screenshots/qilin/Z-Tronix.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quasar",
+        "discovered": "2025-12-31 16:54:18.108579",
+        "description": "Business Services",
+        "link": "/site/view?uuid=8fb64f65-5f99-3ecf-94d1-4c950d9d83b3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Quasar.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TaLachaim",
+        "discovered": "2025-12-31 16:54:17.113648",
+        "description": "Business Services",
+        "link": "/site/view?uuid=8c09cce7-190e-30e7-aae0-58fc90d37624",
+        "magnet": null,
+        "screen": "screenshots/qilin/TaLachaim.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BNZ Materials",
+        "discovered": "2025-12-31 16:54:16.142279",
+        "description": "Construction",
+        "link": "/site/view?uuid=76376eda-79f3-321f-a19e-d2f271e937b8",
+        "magnet": null,
+        "screen": "screenshots/qilin/BNZ Materials.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Hunneman",
+        "discovered": "2025-12-31 16:54:13.388572",
+        "description": "htpps://www.hunnemanre.com/\n\t\t\t\t\t\t\t\t\tHunneman, founded in Boston in 1929, is a real estate firm that offers a full range of real estate brokerage, leasing investment sales, and management services.",
+        "link": "http://mpyeixjqjufjki2qg7dutvxk6tjjzv2jf7qc63bljzfqrtbjcdktziqd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Hunneman.png",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Burnham Brown",
         "discovered": "2025-12-31 14:59:12.819269",
         "description": "",
         "link": "/blog/disclosures/6954f0ee8f1d14b743a5e36e",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/inc ransom/Burnham Brown.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
     },
@@ -48,55 +128,5 @@
         "screen": "screenshots/inc ransom/OSI Systems, Inc.png",
         "group_name": "inc ransom",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Stewart Engenharia",
-        "discovered": "2025-12-30 19:45:46.677283",
-        "description": "www.stewartengenharia.com.br https://www.zoominfo.com/c/stewart-engenharia/546688997 Stewart Engenharia specializes in high-standard constructions and renovations, providing exceptional project development and execution services since 1995. The company is committed to making clients' visions a reality with a focus on sophistication, style, technology, and innovative solutions. With a highly trained team, they cater to the specific demands of discerning clients, offering personalized service. Their portfolio includes the development of refined projects for houses, apartments, offices, and commercial spaces.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics",
-        "discovered": "2025-12-30 18:46:48.650687",
-        "description": "Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics\nFalk Waas is a premier insurance defense law firm in Florida, boasting over 40 years of experience in providing exceptional legal representation.\n\n\n\nMore",
-        "link": "archive.php?company=244",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics.png",
-        "group_name": "rhysida",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Auforum AG",
-        "discovered": "2025-12-30 17:47:11.839792",
-        "description": "Business Services",
-        "link": "/site/view?uuid=6ac325dd-2e6c-38c4-8487-8ddfe42e9fb9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Auforum AG.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Midkiff, Muncie & Ross, P.C",
-        "discovered": "2025-12-30 16:10:45.973629",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "From Subsidiary to Security Nightmare: Alpine Lumber Becomes BFS’s Weakest Link",
-        "discovered": "2025-12-30 15:47:23.356362",
-        "description": "#FirstBatch #DataLeak #MajorBreach #AlpineBLDR #BFS",
-        "link": "view_article.php?article=Ow1rEb4LdoBBZOcgtwKT8AtszalkVs5J0w0N27bbN5ZmVBSIkYrAUBaDxtliKcp9",
-        "magnet": null,
-        "screen": "screenshots/leaknet/From Subsidiary to Security Nightmare: Alpine Lumber Becomes BFS’s Weakest Link.png",
-        "group_name": "leaknet",
-        "sector": "Defense"
     }
 ]
