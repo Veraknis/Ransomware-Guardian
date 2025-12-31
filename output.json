@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "3GH Informatica Integral",
+        "discovered": "2025-12-31 08:44:48.993710",
+        "description": "",
+        "link": "/blog/disclosures/6954c7638f1d14b743a37740",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/3GH Informatica Integral.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ASUS - Database Leaked",
+        "discovered": "2025-12-31 01:45:35.832962",
+        "description": "",
+        "link": "/news/asus/",
+        "magnet": null,
+        "screen": "screenshots/everest/ASUS - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sedgwick Government Solutions",
+        "discovered": "2025-12-31 00:45:11.322462",
+        "description": "",
+        "link": "/article/d5563f58-7874-46a5-aaf7-bafc5d428f49",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/Sedgwick Government Solutions.png",
+        "group_name": "tridentlocker",
+        "sector": "Government"
+    },
+    {
+        "post_title": "OSI Systems, Inc.",
+        "discovered": "2025-12-31 00:45:09.690761",
+        "description": "",
+        "link": "/blog/disclosures/69544e358f1d14b7439c5c43",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/OSI Systems, Inc.png",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Stewart Engenharia",
         "discovered": "2025-12-30 19:45:46.677283",
         "description": "www.stewartengenharia.com.br https://www.zoominfo.com/c/stewart-engenharia/546688997 Stewart Engenharia specializes in high-standard constructions and renovations, providing exceptional project development and execution services since 1995. The company is committed to making clients' visions a reality with a focus on sophistication, style, technology, and innovative solutions. With a highly trained team, they cater to the specific demands of discerning clients, offering personalized service. Their portfolio includes the development of refined projects for houses, apartments, offices, and commercial spaces.",
@@ -718,175 +758,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Breach Report: NTH Consultant - Early data available",
-        "discovered": "2025-12-30 06:44:42.894190",
-        "description": "#DataLeak #Breach",
-        "link": "view_article.php?article=DloYWyCkV5UuOAPmmZnoV2YBeBt8Qr6tudd6tj6Aop1bAhmIcITuksM8QlriAJuk",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Breach Report: NTH Consultant - Early data available.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ManageMyHealth - New Zealand",
-        "discovered": "2025-12-30 04:45:02.309929",
-        "description": "ManageMyHealth is a New Zealand-based online platform that enables individuals to conveniently manage their health and well-being by providing secure access to their medical records and communication with healthcare providers. The platform allows users to view test results, manage prescriptions, schedule appointments, and track their health history from any device. It aims to improve healthcare accessibility, streamline communication between patients and medical professionals, and enhance overall health management, all while ensuring data privacy and security. Through this service, patients can stay informed about their health, make more proactive decisions, and access necessary care with greater ease.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kazu",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Firmengruppe Hoffmann",
-        "discovered": "2025-12-30 03:45:43.235452",
-        "description": "Since 2003, the Hoffmann Group from Bernau has been a reliable partner in the areas of transport and recycling, earthworks and demolition, as well as ready-mix concrete and waste wood processing, enabling its customers to obtain all services related to a construction project from a single source. In addition to maintenance and repair, the company also serves as a competent contact for the sale of construction machineryDatabaseFinancial documentsPersonal information of employees and clients\nhttps://www.firmengruppe-hoffmann.de/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/109/firmengruppe-hoffmann",
-        "magnet": null,
-        "screen": "screenshots/space bears/Firmengruppe Hoffmann.png",
-        "group_name": "space bears",
-        "sector": "Services"
-    },
-    {
-        "post_title": "setex-textil.de",
-        "discovered": "2025-12-29 21:45:11.384006",
-        "description": "SETEX-Textil GmbH is a vertically integrated German textile manufacturer headquartered in Hamminkeln-Dingden, North Rhine-Westphalia. The company operates comprehensive textile production …",
-        "link": "/blog/post/setex-textilde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/setex-textilde.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "davidrosenbakerysupply.com",
-        "discovered": "2025-12-29 21:45:10.423837",
-        "description": "David Rosen Bakery Supply is a long-established wholesale bakery supply and distribution company headquartered in Maspeth, New York, serving commercial …",
-        "link": "/blog/post/davidrosenbakerysupplycom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/davidrosenbakerysupplycom.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "knightgroup.co.uk",
-        "discovered": "2025-12-29 21:45:09.519299",
-        "description": "Knight Group is a UK-based precision metal stockist and processor with a long history dating back to 1943. The company …",
-        "link": "/blog/post/knightgroupcouk/",
-        "magnet": null,
-        "screen": "screenshots/safepay/knightgroupcouk.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "moorelumber.com",
-        "discovered": "2025-12-29 21:45:08.579954",
-        "description": "Moore Lumber & Hardware Co. is a U.S. building-materials retailer and hardware supplier based in Ayer, Massachusetts. Founded in the …",
-        "link": "/blog/post/moorelumbercom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/moorelumbercom.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "usdaw.org.uk",
-        "discovered": "2025-12-29 21:45:07.625232",
-        "description": "Usdaw — formally the Union of Shop, Distributive and Allied Workers — is one of the United Kingdom’s largest and …",
-        "link": "/blog/post/usdaworguk/",
-        "magnet": null,
-        "screen": "screenshots/safepay/usdaworguk.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "investigacionesmedicas.com",
-        "discovered": "2025-12-29 21:45:06.712226",
-        "description": "Investigaciones Médicas is a private medical diagnostics and imaging services provider based in Buenos Aires, Argentina. Founded in 1991, it …",
-        "link": "/blog/post/investigacionesmedicascom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/investigacionesmedicascom.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "sproutnet.com",
-        "discovered": "2025-12-29 21:45:05.774165",
-        "description": "SproutNet — operating under International Specialty Supply — is a U.S. producer and supplier of sprouting seeds, sprouts, natural ingredients …",
-        "link": "/blog/post/sproutnetcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/sproutnetcom.png",
-        "group_name": "safepay",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "precisionaluminum.ca",
-        "discovered": "2025-12-29 21:45:04.773963",
-        "description": "Precision Aluminum Manufacturing Inc. is a Canadian metal fabrication and architectural products company headquartered in Rocky View County (near Calgary), …",
-        "link": "/blog/post/precisionaluminumca/",
-        "magnet": null,
-        "screen": "screenshots/safepay/precisionaluminumca.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "estrumar.es",
-        "discovered": "2025-12-29 21:45:01.317831",
-        "description": "Metálicas Estrumar is a Spanish metal fabrication and structural engineering company headquartered in Burgos, Castilla y León, Spain. It is …",
-        "link": "/blog/post/estrumares/",
-        "magnet": null,
-        "screen": "screenshots/safepay/estrumares.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Genoa Lakes",
-        "discovered": "2025-12-29 20:44:27.180898",
-        "description": "",
-        "link": "topic.php?id=24WK1yFdiLV7ZL",
-        "magnet": null,
-        "screen": "screenshots/play/Genoa Lakes.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Esquire Brands",
-        "discovered": "2025-12-29 20:44:26.032243",
-        "description": "",
-        "link": "topic.php?id=Q23xWAmU4J8d2t",
-        "magnet": null,
-        "screen": "screenshots/play/Esquire Brands.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JZ Russell Industries",
-        "discovered": "2025-12-29 20:44:25.101366",
-        "description": "",
-        "link": "topic.php?id=WhbluuFPm9OYds",
-        "magnet": null,
-        "screen": "screenshots/play/JZ Russell Industries.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MP Filtri",
-        "discovered": "2025-12-29 20:44:24.166308",
-        "description": "",
-        "link": "topic.php?id=Uv1pnOXLLioIZq",
-        "magnet": null,
-        "screen": "screenshots/play/MP Filtri.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "C&r Electric",
-        "discovered": "2025-12-29 20:44:23.255759",
-        "description": "",
-        "link": "topic.php?id=Q8iXGWzD6MyJ31",
-        "magnet": null,
-        "screen": "screenshots/play/C&r Electric.png",
-        "group_name": "play",
-        "sector": "Energy"
     }
 ]
