@@ -78,15 +78,5 @@
         "screen": "screenshots/interlock/Hunneman.png",
         "group_name": "interlock",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Burnham Brown",
-        "discovered": "2025-12-31 14:59:12.819269",
-        "description": "",
-        "link": "/blog/disclosures/6954f0ee8f1d14b743a5e36e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Burnham Brown.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
