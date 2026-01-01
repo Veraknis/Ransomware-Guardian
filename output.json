@@ -1,82 +1,12 @@
 [
     {
-        "post_title": "Infinite Computing Systems",
-        "discovered": "2025-12-31 17:42:56.798035",
-        "description": "",
-        "link": "topic.php?id=3JhxiXt5hzc4KY",
+        "post_title": "Barnes & Jones",
+        "discovered": "2026-01-01 17:44:56.654786",
+        "description": "Barnes & Jones was founded before the turn of the century by two engineers: Walter Barnes, a graduate of The Massachusetts Institute of Technology, and Bill Jon...",
+        "link": null,
         "magnet": null,
-        "screen": "screenshots/play/Infinite Computing Systems.png",
-        "group_name": "play",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "KOPA Kozmetik A",
-        "discovered": "2025-12-31 17:42:39.743665",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=7e8b95ab-b2b8-3fa7-a22e-08cb30dc99c6",
-        "magnet": null,
-        "screen": "screenshots/qilin/KOPA Kozmetik A.png",
-        "group_name": "qilin",
+        "screen": null,
+        "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Luminex Software",
-        "discovered": "2025-12-31 17:42:38.690881",
-        "description": "Software",
-        "link": "/site/view?uuid=b47a5fe2-e13c-3f90-b531-01bb7f789b67",
-        "magnet": null,
-        "screen": "screenshots/qilin/Luminex Software.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Z-Tronix",
-        "discovered": "2025-12-31 16:54:19.087498",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=1719d8b8-c185-3e02-8ee0-ca9c9e537b94",
-        "magnet": null,
-        "screen": "screenshots/qilin/Z-Tronix.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quasar",
-        "discovered": "2025-12-31 16:54:18.108579",
-        "description": "Business Services",
-        "link": "/site/view?uuid=8fb64f65-5f99-3ecf-94d1-4c950d9d83b3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Quasar.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TaLachaim",
-        "discovered": "2025-12-31 16:54:17.113648",
-        "description": "Business Services",
-        "link": "/site/view?uuid=8c09cce7-190e-30e7-aae0-58fc90d37624",
-        "magnet": null,
-        "screen": "screenshots/qilin/TaLachaim.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BNZ Materials",
-        "discovered": "2025-12-31 16:54:16.142279",
-        "description": "Construction",
-        "link": "/site/view?uuid=76376eda-79f3-321f-a19e-d2f271e937b8",
-        "magnet": null,
-        "screen": "screenshots/qilin/BNZ Materials.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Hunneman",
-        "discovered": "2025-12-31 16:54:13.388572",
-        "description": "htpps://www.hunnemanre.com/\n\t\t\t\t\t\t\t\t\tHunneman, founded in Boston in 1929, is a real estate firm that offers a full range of real estate brokerage, leasing investment sales, and management services.",
-        "link": "http://mpyeixjqjufjki2qg7dutvxk6tjjzv2jf7qc63bljzfqrtbjcdktziqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Hunneman.png",
-        "group_name": "interlock",
-        "sector": "Finance"
     }
 ]
