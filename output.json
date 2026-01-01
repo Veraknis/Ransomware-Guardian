@@ -88,45 +88,5 @@
         "screen": "screenshots/inc ransom/Burnham Brown.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "3GH Informatica Integral",
-        "discovered": "2025-12-31 08:44:48.993710",
-        "description": "",
-        "link": "/blog/disclosures/6954c7638f1d14b743a37740",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/3GH Informatica Integral.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ASUS - Database Leaked",
-        "discovered": "2025-12-31 01:45:35.832962",
-        "description": "",
-        "link": "/news/asus/",
-        "magnet": null,
-        "screen": "screenshots/everest/ASUS - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sedgwick Government Solutions",
-        "discovered": "2025-12-31 00:45:11.322462",
-        "description": "",
-        "link": "/article/d5563f58-7874-46a5-aaf7-bafc5d428f49",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/Sedgwick Government Solutions.png",
-        "group_name": "tridentlocker",
-        "sector": "Government"
-    },
-    {
-        "post_title": "OSI Systems, Inc.",
-        "discovered": "2025-12-31 00:45:09.690761",
-        "description": "",
-        "link": "/blog/disclosures/69544e358f1d14b7439c5c43",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/OSI Systems, Inc.png",
-        "group_name": "inc ransom",
-        "sector": "Technology"
     }
 ]
