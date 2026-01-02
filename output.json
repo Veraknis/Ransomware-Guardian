@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "SINBON Electronics Co., Ltd",
+        "discovered": "2026-01-02 07:42:51.289876",
+        "description": "SINBON Electronics, a leading Taiwanese maker of electronic components that partners with firms such as ASML Holding N.V. and trades under the ticker 3023.TW, p...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Csv Group",
+        "discovered": "2026-01-02 06:43:52.235734",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=fbc56041-e8c3-3ec3-b953-b06c78e448cc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Csv Group.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Sugawara Laboratories",
+        "discovered": "2026-01-02 06:43:51.259777",
+        "description": "Electronics",
+        "link": "/site/view?uuid=f3980832-c0b4-31fc-8fa6-b456aef5b19f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sugawara Laboratories.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "DGM",
+        "discovered": "2026-01-01 20:45:38.587888",
+        "description": "Website:\n\ndgm.co.il\n\n\n\nData Size:\n526 GB\n\n\nPayment Status:\nUnpaid - Private Price\n\n\nCompany Info:\nDGM is an Israel-based information technology company specializing in the supply of computer hardware and electronic equipment. The company offers a range of IT products including laptops, desktop computers, servers, printers, and related accessories, serving business and professional clients. DGM focuses on practical technology solutions tailored to organizational and enterprise needs within the local market.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Barnes & Jones",
         "discovered": "2026-01-01 17:44:56.654786",
         "description": "Barnes & Jones was founded before the turn of the century by two engineers: Walter Barnes, a graduate of The Massachusetts Institute of Technology, and Bill Jon...",
