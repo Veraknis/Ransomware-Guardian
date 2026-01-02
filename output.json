@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Lakeside Title Company",
+        "discovered": "2026-01-02 14:45:13.828623",
+        "description": "",
+        "link": "topic.php?id=Y2LkWCcdCcQpTs",
+        "magnet": null,
+        "screen": "screenshots/play/Lakeside Title Company.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wardell Builders",
+        "discovered": "2026-01-02 13:44:51.227422",
+        "description": "",
+        "link": "topic.php?id=fnnIZJm2JJbPl",
+        "magnet": null,
+        "screen": "screenshots/play/Wardell Builders.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Garner Foods",
+        "discovered": "2026-01-02 13:44:50.240063",
+        "description": "",
+        "link": "topic.php?id=dljB2CC4HghAaq",
+        "magnet": null,
+        "screen": "screenshots/play/Garner Foods.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pewarchuk CPA",
+        "discovered": "2026-01-02 13:44:49.222392",
+        "description": "",
+        "link": "topic.php?id=dbfVgYT1fSXdlt",
+        "magnet": null,
+        "screen": "screenshots/play/Pewarchuk CPA.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Benise-Dowling & Associates",
+        "discovered": "2026-01-02 13:44:48.260761",
+        "description": "",
+        "link": "topic.php?id=sL5zMN7JGAyWd1",
+        "magnet": null,
+        "screen": "screenshots/play/Benise-Dowling & Associates.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rockport Technology Group",
+        "discovered": "2026-01-02 13:44:47.210588",
+        "description": "",
+        "link": "topic.php?id=esDJCS3mVkDnqd",
+        "magnet": null,
+        "screen": "screenshots/play/Rockport Technology Group.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stoughton Steel",
+        "discovered": "2026-01-02 13:44:46.187910",
+        "description": "",
+        "link": "topic.php?id=fxWg9TtLUNeSIE",
+        "magnet": null,
+        "screen": "screenshots/play/Stoughton Steel.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "SINBON Electronics Co., Ltd",
         "discovered": "2026-01-02 07:42:51.289876",
         "description": "SINBON Electronics, a leading Taiwanese maker of electronic components that partners with firms such as ASML Holding N.V. and trades under the ticker 3023.TW, p...",
