@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Borough of Moonachie",
+        "discovered": "2026-01-03 18:44:10.392646",
+        "description": "",
+        "link": "/blog/disclosures/69594c118f1d14b743e8290d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Borough of Moonachie.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "proton-system_Serbia",
+        "discovered": "2026-01-03 15:44:16.351977",
+        "description": "",
+        "link": "/blog/disclosures/69590e3b8f1d14b743e48ddb",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/proton-system_Serbia.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Automation One Business Systems Inc",
+        "discovered": "2026-01-03 15:44:15.015632",
+        "description": "",
+        "link": "/blog/disclosures/69590e3b8f1d14b743e48df7",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Automation One Business Systems Inc.png",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
         "post_title": "15 SIGINT Agents Exposed — $50,000 Reward",
         "discovered": "2026-01-03 14:44:57.392256",
         "description": "For the first time, Handala RedWanted delivers a decisive blow to the Zionist regime’s intelligence apparatus by exposing the identities of 15 Signal Intelligence (SIGINT) officers. With operational precision and unwavering resolve, we have breached their layers of secrecy and penetrated to the core of their intelligence network. This strategic disclosure is intended to shake…",
@@ -58,95 +88,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Education"
-    },
-    {
-        "post_title": "Ellison Educational Equipment",
-        "discovered": "2026-01-02 19:44:43.546925",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=c5bd195c-868d-3759-9b44-74e118f9a248",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ellison Educational Equipment.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Farmacia San Pablo",
-        "discovered": "2026-01-02 19:44:42.566766",
-        "description": "Drug Stores & Pharmacies",
-        "link": "/site/view?uuid=d0d00442-a75e-3086-9182-7d91dd31e943",
-        "magnet": null,
-        "screen": "screenshots/qilin/Farmacia San Pablo.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jing Cheng Enterprise Co., Ltd.",
-        "discovered": "2026-01-02 19:44:41.216380",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=e59c5487-b277-3b8f-a2ea-faac1dc452f5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jing Cheng Enterprise Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sai Oral SurgeryOral",
-        "discovered": "2026-01-02 18:45:58.814582",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=2d9cfa32-39cb-34a7-8400-2a1af91d4d27",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sai Oral SurgeryOral.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mdm®NT",
-        "discovered": "2026-01-02 18:45:57.832688",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/view?uuid=c16696cf-911d-3c5f-b22a-01875db603b7",
-        "magnet": null,
-        "screen": "screenshots/qilin/mdm®NT.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "McKenzie SewOn",
-        "discovered": "2026-01-02 18:45:56.740018",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=4a6843c9-a711-33cc-ad17-5267ae88d711",
-        "magnet": null,
-        "screen": "screenshots/qilin/McKenzie SewOn.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Röben Tonbaustoffe",
-        "discovered": "2026-01-02 17:44:27.972636",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=6b8fa6a4-1f38-3052-a775-148664524dc9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Röben Tonbaustoffe.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "NECO Equipment",
-        "discovered": "2026-01-02 17:44:26.991385",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/view?uuid=3c95633e-706f-34c4-9f5d-f8334f226601",
-        "magnet": null,
-        "screen": "screenshots/qilin/NECO Equipment.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "сj Global",
-        "discovered": "2026-01-02 17:44:25.696808",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=0a707461-0d8b-3597-a5f3-2dbf5fb48f86",
-        "magnet": null,
-        "screen": "screenshots/qilin/сj Global.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
     }
 ]
