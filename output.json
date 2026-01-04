@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "KwikLedgers",
+        "discovered": "2026-01-04 07:45:40.251497",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Laurenzano Logistics",
+        "discovered": "2026-01-04 07:45:39.290901",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sunzen Biotech Berhad",
+        "discovered": "2026-01-04 07:45:38.286836",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Varimed Medikal",
+        "discovered": "2026-01-04 07:45:37.280522",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hydrodiseño",
+        "discovered": "2026-01-04 07:45:36.330713",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bina Darulaman Berhad",
+        "discovered": "2026-01-04 07:45:35.232286",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PernelMedia",
+        "discovered": "2026-01-04 06:43:47.568861",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Security by Silence: How Alpine Lumber Is Burying a Breach. FULL RELEASE",
+        "discovered": "2026-01-04 04:43:40.168056",
+        "description": "#FULLDATALEAK #AlpineLumber #BLDR",
+        "link": "view_article.php?article=yhJiefNMfwnCcUu6MUHgqIHqoPThveQUuWZAa6prNZ4ln5bZt6OL1BrHJ7IuSs2Z",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Security by Silence: How Alpine Lumber Is Burying a Breach FULL RELEASE.png",
+        "group_name": "leaknet",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Youngblood Tyler & Associates",
+        "discovered": "2026-01-03 20:45:17.814615",
+        "description": "Youngblood, Tyler & Associates, P.C. is a leading firm specializing in civil eng...",
+        "link": "/leaks/6959677e6387a4c9a2c342d3",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Youngblood Tyler & Associates.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Borough of Moonachie",
         "discovered": "2026-01-03 18:44:10.392646",
         "description": "",
@@ -58,35 +148,5 @@
         "screen": "screenshots/handala/Unveiling the Secrets: Inside the WhatsApp Chats of a Minister.png",
         "group_name": "handala",
         "sector": "Government"
-    },
-    {
-        "post_title": "The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked",
-        "discovered": "2026-01-03 07:42:55.877315",
-        "description": "The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked Once again, the cyber world has witnessed the true extent of our power! This time, our target was none other than Ayelet Shaked, the controversial figure and so-called security champion of the Zionist regime. Her iPhone 15 Pro, supposedly the pinnacle of advanced technology and personal…",
-        "link": "https://handala-hack.to/the-queens-secrets-unveiling-the-mysteries-behind-ayelet-shaked/",
-        "magnet": null,
-        "screen": "screenshots/handala/The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked.png",
-        "group_name": "handala",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Handala Alert: Amplifying the Voice of Resistance",
-        "discovered": "2026-01-02 23:45:24.106114",
-        "description": "Official Statement from Handala People’s Resistance Front of Truth-Seekers (HPR) on the Launch of Handala Alert We are proud to announce that the Handala People’s Resistance Front of Truth-Seekers (HPR), in line with expanding its range of activities and responding to the growing needs of freedom movements, has launched a new division called Handala Alert.…",
-        "link": "https://handala-hack.to/handala-alert-amplifying-the-voice-of-resistance/",
-        "magnet": null,
-        "screen": "screenshots/handala/Handala Alert: Amplifying the Voice of Resistance.png",
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UBS Office",
-        "discovered": "2026-01-02 21:44:40.058283",
-        "description": "United Business Systems specializes in simplifying the management of hardcopy and digital documents for various industries, with a strong focus on education. Th...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Education"
     }
 ]
