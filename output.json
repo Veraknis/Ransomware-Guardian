@@ -128,35 +128,5 @@
         "screen": "screenshots/sinobi/Youngblood Tyler & Associates.png",
         "group_name": "sinobi",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Borough of Moonachie",
-        "discovered": "2026-01-03 18:44:10.392646",
-        "description": "",
-        "link": "/blog/disclosures/69594c118f1d14b743e8290d",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Borough of Moonachie.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "proton-system_Serbia",
-        "discovered": "2026-01-03 15:44:16.351977",
-        "description": "",
-        "link": "/blog/disclosures/69590e3b8f1d14b743e48ddb",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/proton-system_Serbia.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Automation One Business Systems Inc",
-        "discovered": "2026-01-03 15:44:15.015632",
-        "description": "",
-        "link": "/blog/disclosures/69590e3b8f1d14b743e48df7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Automation One Business Systems Inc.png",
-        "group_name": "inc ransom",
-        "sector": "Technology"
     }
 ]
