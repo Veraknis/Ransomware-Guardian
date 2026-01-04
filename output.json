@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Chrysler - Database leaked",
+        "discovered": "2026-01-04 14:44:14.057320",
+        "description": "",
+        "link": "/news/Chrysler/",
+        "magnet": null,
+        "screen": "screenshots/everest/Chrysler - Database leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tommotek",
+        "discovered": "2026-01-04 13:43:08.828145",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=14295723-fdc2-34b8-a7f3-468219a279c6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tommotek.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Sönmezler Metal",
+        "discovered": "2026-01-04 13:43:07.810975",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=fce35e22-6243-390c-bb7e-00074eb92bf8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sönmezler Metal.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Cal Spas, Inc.",
+        "discovered": "2026-01-04 13:43:06.751934",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=b32b7816-1b2c-3f86-8cfb-c05213b4ac10",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cal Spas, Inc.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "KwikLedgers",
         "discovered": "2026-01-04 07:45:40.251497",
         "description": "",
@@ -118,35 +158,5 @@
         "screen": "screenshots/inc ransom/Automation One Business Systems Inc.png",
         "group_name": "inc ransom",
         "sector": "Technology"
-    },
-    {
-        "post_title": "15 SIGINT Agents Exposed — $50,000 Reward",
-        "discovered": "2026-01-03 14:44:57.392256",
-        "description": "For the first time, Handala RedWanted delivers a decisive blow to the Zionist regime’s intelligence apparatus by exposing the identities of 15 Signal Intelligence (SIGINT) officers. With operational precision and unwavering resolve, we have breached their layers of secrecy and penetrated to the core of their intelligence network. This strategic disclosure is intended to shake…",
-        "link": "https://handala-hack.to/15-sigint-agents-exposed-50000-reward/",
-        "magnet": null,
-        "screen": "screenshots/handala/15 SIGINT Agents Exposed — $50,000 Reward.png",
-        "group_name": "handala",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Ayelet Shaked Contact List",
-        "discovered": "2026-01-03 14:44:56.333874",
-        "description": "We are now releasing a comprehensive 150-page list of Ayelet Shaked’s contacts, an act of information infiltration that has the potential to alter the landscape. This disclosure not only exposes previously hidden networks of influence and communication, but also carries far-reaching consequences for public trust and information security. Publishing such documents can deeply affect the…",
-        "link": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/?p=612",
-        "magnet": null,
-        "screen": "screenshots/handala/Ayelet Shaked Contact List.png",
-        "group_name": "handala",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Unveiling the Secrets: Inside the WhatsApp Chats of a Minister",
-        "discovered": "2026-01-03 11:43:58.930100",
-        "description": "Unveiling the Secrets: Inside the WhatsApp Chats of a Minister As we pledged, we are now publishing the entirety of former Minister Ayelet Shaked’s WhatsApp conversations. This is not merely a matter of transparency, it is a demonstration of our deep and far-reaching access to the highest levels of authority. Our sources and intelligence capabilities…",
-        "link": "https://handala-hack.to/unveiling-the-secrets-inside-the-whatsapp-chats-of-a-minister/",
-        "magnet": null,
-        "screen": "screenshots/handala/Unveiling the Secrets: Inside the WhatsApp Chats of a Minister.png",
-        "group_name": "handala",
-        "sector": "Government"
     }
 ]
