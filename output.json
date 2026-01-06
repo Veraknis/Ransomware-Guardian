@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "www.swautomation.at",
+        "discovered": "2026-01-06 07:45:32.834761",
+        "description": "sw-wireterminal.com\n \n \n Before we developed our own products, we were one thing...",
+        "link": "/leaks/695ca7829c439c5f45747074",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwswautomationat.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Saplog Group",
+        "discovered": "2026-01-05 21:46:04.360783",
+        "description": "SapLog specializes in national and international transport services, offering full truckload (FTL) and less-than-truckload (LTL) shipping solutions across Italy and Europe. The company provides dedicated express transport for urgent requests and a range of accessory services to enhance efficiency. With a modern fleet of vehicles that adhere to Euro 6 standards, SapLog ensures safe and environmentally friendly transportation. Their intended clients include businesses requiring reliable logistics solutions for their goods.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Saplog Group.png",
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "CEIVA Logic",
         "discovered": "2026-01-05 18:46:33.228565",
         "description": "CEIVA is the inventor of the world's first connected digital photo frame, offering a full line of digital frames that automatically receive and display new digital photos every day. Their products allow users to instantly share and showcase digital photos with ease. CEIVA targets customers looking f…",
@@ -277,176 +297,6 @@
         "magnet": null,
         "screen": "screenshots/sinobi/M&M Auto Parts.png",
         "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "madisonareaymca.org",
-        "discovered": "2026-01-05 08:45:29.246735",
-        "description": "The Madison Area YMCA offers a variety of programs and services focusing on yout...",
-        "link": "/leaks/695b61e49c439c5f456034c8",
-        "magnet": null,
-        "screen": "screenshots/lynx/madisonareaymcaorg.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Windward Life Care",
-        "discovered": "2026-01-05 08:45:24.751005",
-        "description": "Windward Life Care offers premier home care, aging life care management, and hom...",
-        "link": "/leaks/695b67fa6387a4c9a2d37735",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Windward Life Care.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wesley Heating & Cooling",
-        "discovered": "2026-01-05 08:45:23.777464",
-        "description": "Wesley Heating & Cooling is an HVAC company based in Green Bay, Wisconsin, speci...",
-        "link": "/leaks/695b68cb6387a4c9a2d37cb1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Wesley Heating & Cooling.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Krenzer Marine Overview Metrics",
-        "discovered": "2026-01-05 08:45:22.786629",
-        "description": "Krenzer Marine is a full-service boat dealer located in Sodus Point and Ithaca, ...",
-        "link": "/leaks/695b5ba56387a4c9a2d31013",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Krenzer Marine Overview Metrics.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lares",
-        "discovered": "2026-01-05 08:45:21.627890",
-        "description": "Lares Corporation specializes in performance equipment and aftermarket parts for...",
-        "link": "/leaks/695b5c596387a4c9a2d316f4",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Lares.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "The Boathouse on the Bay",
-        "discovered": "2026-01-05 08:45:20.563211",
-        "description": "Boathouse on the Bay is an upscale waterfront restaurant located in Long Beach, ...",
-        "link": "/leaks/695b5e556387a4c9a2d324b9",
-        "magnet": null,
-        "screen": "screenshots/sinobi/The Boathouse on the Bay.png",
-        "group_name": "sinobi",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Lampire Biological Laboratories",
-        "discovered": "2026-01-05 07:43:59.631632",
-        "description": "LAMPIRE Biological Laboratories, a pioneering biotech life science firm speciali...",
-        "link": "/leaks/695b57e86387a4c9a2d2f7ec",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Lampire Biological Laboratories.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pools by Bradley",
-        "discovered": "2026-01-05 07:43:58.693753",
-        "description": "Pools By Bradley specializes in designing and building custom outdoor pools and ...",
-        "link": "/leaks/695b58f06387a4c9a2d2fca9",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Pools by Bradley.png",
-        "group_name": "sinobi",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "American Health",
-        "discovered": "2026-01-05 07:43:57.699074",
-        "description": "American Health provides a comprehensive array of healthcare services including ...",
-        "link": "/leaks/695b597f6387a4c9a2d30177",
-        "magnet": null,
-        "screen": "screenshots/sinobi/American Health.png",
-        "group_name": "sinobi",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Harris Consulting Engineers",
-        "discovered": "2026-01-05 07:43:56.698851",
-        "description": "Harris Consulting Engineers has been perfecting the built environment since 1983...",
-        "link": "/leaks/695b5aa36387a4c9a2d308cc",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Harris Consulting Engineers.png",
-        "group_name": "sinobi",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Sva Y Tecnologia Movil De España",
-        "discovered": "2026-01-05 07:43:55.682950",
-        "description": "Sva Y Tecnologia Movil De España Sl is a company that operates in the Broadcasti...",
-        "link": "/leaks/695b572d6387a4c9a2d2f4a2",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Sva Y Tecnologia Movil De España.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GreenValley International",
-        "discovered": "2026-01-05 07:43:54.662239",
-        "description": "GreenValley International Inc (GVI), based in Berkeley, California, is a leading...",
-        "link": "/leaks/695b53356387a4c9a2d2cf20",
-        "magnet": null,
-        "screen": "screenshots/sinobi/GreenValley International.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NLFX Professional",
-        "discovered": "2026-01-05 07:43:53.688604",
-        "description": "NLFX Professional is an award-winning leader in the audio, video, and lighting i...",
-        "link": "/leaks/695b53a66387a4c9a2d2d327",
-        "magnet": null,
-        "screen": "screenshots/sinobi/NLFX Professional.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Delko",
-        "discovered": "2026-01-05 07:43:52.504543",
-        "description": "Delko is a car repair network that helps people keep their vehicles running smoo...",
-        "link": "/leaks/695b55ce6387a4c9a2d2e7a3",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Delko.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DESY",
-        "discovered": "2026-01-05 04:44:00.431659",
-        "description": "",
-        "link": "/news/DESY/",
-        "magnet": null,
-        "screen": "screenshots/everest/DESY.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bolttech.io",
-        "discovered": "2026-01-05 04:43:59.426656",
-        "description": "",
-        "link": "/news/Bolttech/",
-        "magnet": null,
-        "screen": "screenshots/everest/Bolttechio.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IDeaS.com",
-        "discovered": "2026-01-05 04:43:58.394792",
-        "description": "",
-        "link": "/news/IDeaS/",
-        "magnet": null,
-        "screen": "screenshots/everest/IDeaScom.png",
-        "group_name": "everest",
         "sector": "Unknown"
     }
 ]
