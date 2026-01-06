@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "USArt",
+        "discovered": "2026-01-06 19:44:51.208354",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=52cf7b21-b74f-3dc7-9020-d3c0ee43d9a7",
+        "magnet": null,
+        "screen": "screenshots/qilin/USArt.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Charles Leonard Steel Services",
+        "discovered": "2026-01-06 19:44:47.138203",
+        "description": "Charles Leonard Steel Services\nCharles Leonard Steel Services (CLSS) is a full-service miscellaneous metals fabricator and erector specializing in steel stairs, railings, structural steel, grating, decks, and ladders.\n\n\n\nMore",
+        "link": "archive.php?company=244",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Charles Leonard Steel Services.png",
+        "group_name": "rhysida",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Resource Corporation of America",
+        "discovered": "2026-01-06 19:28:26.160204",
+        "description": "Resource Corporation of America specializes in converting hospitals' at-risk dollars into revenue, focusing on third-party eligibility solutions. With over 30 years of experience, they have achieved a 93% certification success rate and have managed more than two billion dollars in patient account charges. Their services are aimed at hospitals navigating complex healthcare policies and regulatory changes. The company stands as a trusted partner for healthcare leaders seeking to optimize revenue amid evolving Medicaid reforms. The company headquarters is located in 1120 Marina Bay Dr, Kemah, TX 77565, United States. 201-500 Employees ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Resource Corporation of America.png",
+        "group_name": "medusa",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Epi du Rouergue",
+        "discovered": "2026-01-06 16:45:47.307325",
+        "description": "L'Epi du Rouergue is a bakery and pastry shop located in the Aveyron region, operating 12 stores across the Tarn and Aveyron departments and participating in over 80 markets in the South-West of France. The company specializes in a variety of handmade products including breads, pastries, cakes, sandwiches, and traditional Aveyron specialties like fouace. With a commitment to freshness, their products are made without freezing, ensuring high-quality offerings for their customers. Founded in 1973 by a group of local bakers, L'Epi du Rouergue has grown to employ around 250 staff members and offers online ordering with home delivery options",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Epi du Rouergue.png",
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Secorp Industries",
         "discovered": "2026-01-06 14:46:11.669927",
         "description": "Business Services",
@@ -108,165 +148,5 @@
         "screen": "screenshots/nova/Saplog Group.png",
         "group_name": "nova",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "CEIVA Logic",
-        "discovered": "2026-01-05 18:46:33.228565",
-        "description": "CEIVA is the inventor of the world's first connected digital photo frame, offering a full line of digital frames that automatically receive and display new digital photos every day. Their products allow users to instantly share and showcase digital photos with ease. CEIVA targets customers looking f…",
-        "link": "/jw9jezQtUmi035C1bsqfW5xjC1i29MMW/ceiva-logic",
-        "magnet": null,
-        "screen": "screenshots/chaos/CEIVA Logic.png",
-        "group_name": "chaos",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Undercover Breach: Why NTH Consultant is staying silent about the FULL data Leak.",
-        "discovered": "2026-01-05 17:48:05.317135",
-        "description": "#PersonalDataLeak #CyberAttack #PrivacyMatters #DataBreach",
-        "link": "view_article.php?article=3QSwBiEJMIRJCKjAaXvKydnEurBzboCuPii4UM5FIWzxMGLvMWBtpyMzWUBuabp0",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Undercover Breach: Why NTH Consultant is staying silent about the FULL data Leak.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.sje.vic.edu.au",
-        "discovered": "2026-01-05 17:48:01.106173",
-        "description": "St Joseph's College Echuca is a Kildare Education Ministries Catholic co-educati...",
-        "link": "/leaks/695bd7b69c439c5f4567a8a1",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwsjeviceduau.png",
-        "group_name": "lynx",
-        "sector": "Education"
-    },
-    {
-        "post_title": "www.granosycereales.com.co",
-        "discovered": "2026-01-05 17:47:59.996896",
-        "description": "Granos y Cereales de Colombia S.A. is a Colombian agro-industrial company with o...",
-        "link": "/leaks/695bd8109c439c5f4567acee",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwgranosycerealescomco.png",
-        "group_name": "lynx",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "www.ville-dunkerque.fr",
-        "discovered": "2026-01-05 17:47:59.000596",
-        "description": "Ville de Dunkerque is focused on the revitalization and transformation of the Du...",
-        "link": "/leaks/695bd8959c439c5f4567b5ec",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwville-dunkerquefr.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Leak: Triad Packaging - 102GB Data",
-        "discovered": "2026-01-05 16:48:17.943429",
-        "description": "Triad Packaging company suffered a major data breach.102 Gigabytes of sensitive data stolen including internal documents, financial records, and customer information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "sicari",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.blackdogsalvage.com",
-        "discovered": "2026-01-05 16:48:16.302107",
-        "description": "Black Dog Salvage specializes in the reclamation, repurposing and resale of arch...",
-        "link": "/leaks/695bd3719c439c5f45676c45",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwblackdogsalvagecom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "crawfordorthodontics.net",
-        "discovered": "2026-01-05 16:48:15.395674",
-        "description": "Crawford Orthodontics",
-        "link": "/leaks/695bd4159c439c5f456773fd",
-        "magnet": null,
-        "screen": "screenshots/lynx/crawfordorthodonticsnet.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.stcharlesprep.org",
-        "discovered": "2026-01-05 16:48:14.248338",
-        "description": "St Charles Preparatory School is a company that operates in the Education indust...",
-        "link": "/leaks/695bd4bf9c439c5f45677f44",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwstcharlespreporg.png",
-        "group_name": "lynx",
-        "sector": "Education"
-    },
-    {
-        "post_title": "www.mcphillamysgold.com",
-        "discovered": "2026-01-05 16:48:13.307042",
-        "description": "https://regisresources.com.au\n Leading Australian gold producer on the ASX\n \n Bo...",
-        "link": "/leaks/695bd5a39c439c5f45678a51",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwmcphillamysgoldcom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.mscorp.net",
-        "discovered": "2026-01-05 16:48:12.374717",
-        "description": "Marine Systems Corporation (MSCorp) specializes in marine engineering, design, p...",
-        "link": "/leaks/695bd6209c439c5f45679273",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwmscorpnet.png",
-        "group_name": "lynx",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "www.burdettedental.com",
-        "discovered": "2026-01-05 16:48:11.467893",
-        "description": "Burdette Dental Laboratory, located in Birmingham, Alabama, has over 50 years of...",
-        "link": "/leaks/695bd6b49c439c5f45679c71",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwburdettedentalcom.png",
-        "group_name": "lynx",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "www.tecnoelectric.com.py",
-        "discovered": "2026-01-05 16:48:10.486614",
-        "description": "Tecno Electric S.A. is a specialist in energy solutions for buildings, industry,...",
-        "link": "/leaks/695bd7549c439c5f4567a485",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwtecnoelectriccompy.png",
-        "group_name": "lynx",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "KSL Ingenieure",
-        "discovered": "2026-01-05 16:48:08.321323",
-        "description": "KSL Ingenieure GmbH is a consulting firm based in Herrischried that specializes in various engineering services including buildingenergy consulting, structural engineering, and geotechnical construction.We will upload corporate 17 gb of corporate data soon. Confidential project files, employee scanned documents (DLs, passports and other files), HR files, projects, agreements, detailed financials, customers and partners information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Purcell Architects",
-        "discovered": "2026-01-05 16:48:07.359027",
-        "description": "Purcell Everett Architects specializes in providing world-class vision and design coupled with personalized service tailored to each client's specific needs.We will upload corporate more than 30gb of corporate data soon. Employee information, project files, financials, contracts and agreements, customers information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Gebrüder Bagusat GmbH & Co. KG",
-        "discovered": "2026-01-05 16:48:06.102545",
-        "description": "Gebrüder Bagusat GmbH & Co. KG is a Food and Beverage Manufacturing, Business Services General, and Business Services company.We will upload corporate 20gb of corporate data soon. Project files, financials, contracts and agreements, customers and partners information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
