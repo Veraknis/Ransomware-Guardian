@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Secorp Industries",
+        "discovered": "2026-01-06 14:46:11.669927",
+        "description": "Business Services",
+        "link": "/site/view?uuid=986e252b-9daf-36d8-a26b-bbe34e8706f2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Secorp Industries.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Medical Asset Management",
+        "discovered": "2026-01-06 14:46:10.662125",
+        "description": "0",
+        "link": "/site/view?uuid=654fdc3f-f14e-3f0f-9f5c-b4dc96c0880b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Medical Asset Management.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Health Bridge Chiropractic",
+        "discovered": "2026-01-06 14:46:09.664714",
+        "description": "0",
+        "link": "/site/view?uuid=c70181f7-7683-3ebd-b28f-49d117a3e0a0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Health Bridge Chiropractic.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Hytec South Africa",
+        "discovered": "2026-01-06 13:56:36.668236",
+        "description": " SECTOR: Engineering Solutions • COUNTRY: SA • SITE: hytec.com\r\n\r\nAll data exfiltrated including PII, employee information.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/vect/Hytec South Africa.png",
+        "group_name": "vect",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "baja.gob.mx",
+        "discovered": "2026-01-06 12:46:01.024741",
+        "description": "This is the official website of the Baja California State Government in Mexico — an important government site used to provide e-services, official information, procedures for citizens, news, and local government programs.",
+        "link": "/blog/ca76b730ebd2625d2995db0a10387ea1ded24418988f0a3cedb666681478251c/",
+        "magnet": null,
+        "screen": "screenshots/tengu/bajagobmx.png",
+        "group_name": "tengu",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Autohaus Pichel GmbH",
+        "discovered": "2026-01-06 12:45:59.463459",
+        "description": "",
+        "link": "topic.php?id=qSJ04Ghum8JXNo",
+        "magnet": null,
+        "screen": "screenshots/play/Autohaus Pichel GmbH.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Due Doyle Fanning",
+        "discovered": "2026-01-06 12:45:58.354210",
+        "description": "",
+        "link": "topic.php?id=7GOHoji9Atu0oV",
+        "magnet": null,
+        "screen": "screenshots/play/Due Doyle Fanning.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mill Brothers",
+        "discovered": "2026-01-06 12:45:57.236885",
+        "description": "",
+        "link": "topic.php?id=ng1EcYP5jxIDfM",
+        "magnet": null,
+        "screen": "screenshots/play/Mill Brothers.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Italgrafica Sistemi",
+        "discovered": "2026-01-06 11:45:34.988408",
+        "description": "Printing and Packaging",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "brotherhood",
+        "sector": "Professional Services"
+    },
+    {
         "post_title": "www.swautomation.at",
         "discovered": "2026-01-06 07:45:32.834761",
         "description": "sw-wireterminal.com\n \n \n Before we developed our own products, we were one thing...",
@@ -178,125 +268,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Posillico",
-        "discovered": "2026-01-05 15:44:49.584120",
-        "description": "Posillico is dedicated to setting the standard for excellence in the construction industry relative to: infrastructure, quality oflife, and making a difference by using innovation and solid relationships at all levels.We will upload almost 1TB of corporate data and SQLs soon. We took everything: personal information of employees, projects, contracts and agreements, detailed financials, insurance files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Lewis Bear",
-        "discovered": "2026-01-05 15:44:48.644338",
-        "description": "The Lewis Bear Company Established in 1876, as a grocery company,The Lewis Bear Company is the oldest privately held corporation in Florida. In 1995, the grocery division was sold, leaving a focused beer distribution company.We will upload corporate data soon. Employee scanned documents (DLs, passports and other files), HR files, projects, agreements, detailed financials, customer information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "salcom.com",
-        "discovered": "2026-01-05 10:45:23.082217",
-        "description": "Our name is an acronym for Sea Air and Land Communication and as the name implie...",
-        "link": "/leaks/695b82d19c439c5f45626089",
-        "magnet": null,
-        "screen": "screenshots/lynx/salcomcom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "swdc.wa",
-        "discovered": "2026-01-05 10:45:22.164349",
-        "description": "The South West Development Commission is focused on advancing economic diversifi...",
-        "link": "/leaks/695b84049c439c5f456277f7",
-        "magnet": null,
-        "screen": "screenshots/lynx/swdcwa.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "laurysenkitchens.com",
-        "discovered": "2026-01-05 10:45:21.276225",
-        "description": "Laurysen Kitchens has been a leading provider of high-quality kitchen cabinets i...",
-        "link": "/leaks/695b84969c439c5f4562824c",
-        "magnet": null,
-        "screen": "screenshots/lynx/laurysenkitchenscom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "wildbunchdistribution.com",
-        "discovered": "2026-01-05 10:45:20.223968",
-        "description": "Wild Bunch Distribution is a Paris-based media and entertainment company that co...",
-        "link": "/leaks/695b77869c439c5f4561a0b8",
-        "magnet": null,
-        "screen": "screenshots/lynx/wildbunchdistributioncom.png",
-        "group_name": "lynx",
-        "sector": "Media"
-    },
-    {
-        "post_title": "kiddsservices.com",
-        "discovered": "2026-01-05 10:45:19.318232",
-        "description": "Kidds Restoration Services is a family-owned restoration company based in Lynchb...",
-        "link": "/leaks/695b78139c439c5f4561ad1a",
-        "magnet": null,
-        "screen": "screenshots/lynx/kiddsservicescom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hartford.fr",
-        "discovered": "2026-01-05 10:45:18.350744",
-        "description": "Hartford specializes in high-end casual clothing for men, women, and children, o...",
-        "link": "/leaks/695b79289c439c5f4561be6c",
-        "magnet": null,
-        "screen": "screenshots/lynx/hartfordfr.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "groupecho.com",
-        "discovered": "2026-01-05 10:45:17.095683",
-        "description": "Groupecho Canada offers a wide range of services including credit reports, debt ...",
-        "link": "/leaks/695b79b19c439c5f4561c99b",
-        "magnet": null,
-        "screen": "screenshots/lynx/groupechocom.png",
-        "group_name": "lynx",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "miltonfl.org",
-        "discovered": "2026-01-05 09:44:16.323185",
-        "description": "MILTON-FL.RESTAURANTS800.COM serves up a guide for restaurants in the city of Mi...",
-        "link": "/leaks/695b764f9c439c5f45618e49",
-        "magnet": null,
-        "screen": "screenshots/lynx/miltonflorg.png",
-        "group_name": "lynx",
-        "sector": "Government"
-    },
-    {
-        "post_title": "www.braemac.com",
-        "discovered": "2026-01-05 09:44:15.401861",
-        "description": "Braemac, headquartered in Sydney Australia, and founded in 1986, is an electroni...",
-        "link": "/leaks/695b76dd9c439c5f4561984d",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwbraemaccom.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "M&M Auto Parts",
-        "discovered": "2026-01-05 09:44:10.870479",
-        "description": "M&M Auto Parts, Inc. specializes in providing high-quality auto parts, including...",
-        "link": "/leaks/695b69af6387a4c9a2d3887e",
-        "magnet": null,
-        "screen": "screenshots/sinobi/M&M Auto Parts.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
     }
 ]
