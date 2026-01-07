@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Morgan Records Management",
+        "discovered": "2026-01-07 00:48:10.627968",
+        "description": "",
+        "link": "/news/Morgan_Records_Management/",
+        "magnet": null,
+        "screen": "screenshots/everest/Morgan Records Management.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Complexul Energetic Oltenia",
+        "discovered": "2026-01-06 23:45:05.933754",
+        "description": "www.ceoltenia.ro https://www.ceoltenia.ro/en/despre/profil/date-financiare/ https://www.zoominfo.com/c/complexul-energetic-oltenia-sa/372669392 Complexul Energetic Oltenia is a Romanian energy company established on May 31, 2012, following the government's decision to reorganize the energy sector through the merger of several energy-producing companies. The company focuses on sustainable energy production and aims to ensure safety and professionalism in its operations. Its services include energy supply and commercialization, as well as investments in energy efficiency and development. The intended clients are diverse, including both residential and commercial sectors seeking reliable energy solutions.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Berkmann Wine Cellars",
+        "discovered": "2026-01-06 23:45:03.743265",
+        "description": "Business Services",
+        "link": "/site/view?uuid=ffb15494-9275-3bb7-80b6-db43a3030983",
+        "magnet": null,
+        "screen": "screenshots/qilin/Berkmann Wine Cellars.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ILDefenseLeaks : Optum Industrial Engineering Systems – https://optum-ies.com",
+        "discovered": "2026-01-06 21:45:40.821720",
+        "description": "O Zionists..Cursed be you morning and evening.You are still bombing children in Gaza and Lebanon, threatening Yemen and Iran… and we continue and will continue to struggle against your aggression.Today our target is number 5 of 19 that were breached and all of which were accessed. All of them are directly or indirectly related to […]",
+        "link": "https://toufanleaks.org/?p=439",
+        "magnet": null,
+        "screen": "screenshots/toufan/ILDefenseLeaks : Optum Industrial Engineering Systems – https:optum-iescom.png",
+        "group_name": "toufan",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Aero Fabrications",
+        "discovered": "2026-01-06 21:45:20.164888",
+        "description": "https://www.aerofabrications.co.uk\n\t\t\t\t\t\t\t\t\tAero Fabrications Ltd specializes in the manufacture of aerospace components, with over 30 years of experience. They partner with leading aerospace companies such as Airbus and BAE Systems. However, due to poor security and employee negligence, all data and databases were compromised and leaked publicly. This included customer, employee, and company data, as well as contracts and, most importantly, confidential drawings.",
+        "link": "http://x6obl6pfmqsasvwj72hr22s2mpsdaklwkoa46zk3h7kbkcznu6whdmad.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Aero Fabrications.png",
+        "group_name": "interlock",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Apex Spine and Neurosurgery",
+        "discovered": "2026-01-06 21:45:19.150719",
+        "description": "https://www.apexspineandneuro.com\n\t\t\t\t\t\t\t\t\tApex Spine and Neurosurgery specializes in the comprehensive neurosurgical treatment of spinal and cranial disorders. The team consists of neurosurgeons who offer treatment options, including minimally invasive spine surgery, tailored to the needs of their patients. They serve patients from across Georgia, particularly Atlanta, and emphasize a patient-centered approach. Their services cover a wide range of conditions, including back pain, brain tumors, and trauma.",
+        "link": "http://3y5p4cq7bke5exre4smsgueqzfwdy7u4z3rp7o3dgxm27lhsx6vqraid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Apex Spine and Neurosurgery.png",
+        "group_name": "interlock",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "USArt",
         "discovered": "2026-01-06 19:44:51.208354",
         "description": "Hospitality",
@@ -128,25 +188,5 @@
         "screen": null,
         "group_name": "brotherhood",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "www.swautomation.at",
-        "discovered": "2026-01-06 07:45:32.834761",
-        "description": "sw-wireterminal.com\n \n \n Before we developed our own products, we were one thing...",
-        "link": "/leaks/695ca7829c439c5f45747074",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwswautomationat.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Saplog Group",
-        "discovered": "2026-01-05 21:46:04.360783",
-        "description": "SapLog specializes in national and international transport services, offering full truckload (FTL) and less-than-truckload (LTL) shipping solutions across Italy and Europe. The company provides dedicated express transport for urgent requests and a range of accessory services to enhance efficiency. With a modern fleet of vehicles that adhere to Euro 6 standards, SapLog ensures safe and environmentally friendly transportation. Their intended clients include businesses requiring reliable logistics solutions for their goods.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Saplog Group.png",
-        "group_name": "nova",
-        "sector": "Transportation"
     }
 ]
