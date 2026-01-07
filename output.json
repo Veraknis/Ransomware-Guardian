@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Evergreen Printing",
+        "discovered": "2026-01-07 17:45:12.212998",
+        "description": "Business Services",
+        "link": "/site/view?uuid=844f5c86-84f7-380b-9ecf-1fc20209d35f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Evergreen Printing.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Sortimage",
+        "discovered": "2026-01-07 17:45:11.108814",
+        "description": "Business Services",
+        "link": "/site/view?uuid=31697737-8a92-37b5-bbc7-d403740ef79b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sortimage.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Labeltex Group",
+        "discovered": "2026-01-07 16:47:17.766959",
+        "description": "Labeltex Group Srl offers products made with certified raw materials in a continuous process that looks to the future of the textile industry and the planet.We will upload corporate data soon. Financial data, agreements and other internal files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "BUHLMANN GROUP",
+        "discovered": "2026-01-07 16:47:16.757765",
+        "description": "BUHLMANN GROUP is a premium trading company specializing in steelpipes, pipe fittings, and accessories, serving various industries including energy, chemicals, shipbuilding, and machine construction.We will upload more than 55gb of corporate data soon. Lots of drawings and specifications, confidentiality agreements, employees personal documents, project files, financials, contracts and agreements, customers information and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Commercial Paving",
         "discovered": "2026-01-07 15:43:15.571763",
         "description": "Civil Engineering Construction",
@@ -158,45 +198,5 @@
         "screen": "screenshots/interlock/Apex Spine and Neurosurgery.png",
         "group_name": "interlock",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "USArt",
-        "discovered": "2026-01-06 19:44:51.208354",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=52cf7b21-b74f-3dc7-9020-d3c0ee43d9a7",
-        "magnet": null,
-        "screen": "screenshots/qilin/USArt.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Charles Leonard Steel Services",
-        "discovered": "2026-01-06 19:44:47.138203",
-        "description": "Charles Leonard Steel Services\nCharles Leonard Steel Services (CLSS) is a full-service miscellaneous metals fabricator and erector specializing in steel stairs, railings, structural steel, grating, decks, and ladders.\n\n\n\nMore",
-        "link": "archive.php?company=244",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Charles Leonard Steel Services.png",
-        "group_name": "rhysida",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Resource Corporation of America",
-        "discovered": "2026-01-06 19:28:26.160204",
-        "description": "Resource Corporation of America specializes in converting hospitals' at-risk dollars into revenue, focusing on third-party eligibility solutions. With over 30 years of experience, they have achieved a 93% certification success rate and have managed more than two billion dollars in patient account charges. Their services are aimed at hospitals navigating complex healthcare policies and regulatory changes. The company stands as a trusted partner for healthcare leaders seeking to optimize revenue amid evolving Medicaid reforms. The company headquarters is located in 1120 Marina Bay Dr, Kemah, TX 77565, United States. 201-500 Employees ",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Resource Corporation of America.png",
-        "group_name": "medusa",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Epi du Rouergue",
-        "discovered": "2026-01-06 16:45:47.307325",
-        "description": "L'Epi du Rouergue is a bakery and pastry shop located in the Aveyron region, operating 12 stores across the Tarn and Aveyron departments and participating in over 80 markets in the South-West of France. The company specializes in a variety of handmade products including breads, pastries, cakes, sandwiches, and traditional Aveyron specialties like fouace. With a commitment to freshness, their products are made without freezing, ensuring high-quality offerings for their customers. Founded in 1973 by a group of local bakers, L'Epi du Rouergue has grown to employ around 250 staff members and offers online ordering with home delivery options",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Epi du Rouergue.png",
-        "group_name": "nova",
-        "sector": "Transportation"
     }
 ]
