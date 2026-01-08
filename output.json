@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Federal University of Sergipe",
+        "discovered": "2026-01-08 19:44:00.974269",
+        "description": "SECTOR: Education                         •                         COUNTRY: BR                         •                         SITE: https://en.ufs.br",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Gaviota",
+        "discovered": "2026-01-08 18:44:49.034482",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=93809062-e5fa-3482-800b-bc7c1765bf85",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gaviota.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "STESAD",
+        "discovered": "2026-01-08 18:44:48.002032",
+        "description": "Construction",
+        "link": "/site/view?uuid=63ec7de3-33f7-3029-9a10-476b14e27ed9",
+        "magnet": null,
+        "screen": "screenshots/qilin/STESAD.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Softlab SpA",
+        "discovered": "2026-01-08 18:44:46.948072",
+        "description": "Business Services",
+        "link": "/site/view?uuid=efca9ff5-d2ed-3965-8c7d-60f064832d9a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Softlab SpA.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Spring Grove Area School District",
+        "discovered": "2026-01-08 18:44:45.980253",
+        "description": "Education",
+        "link": "/site/view?uuid=9201fb94-bd27-3af0-8959-dc363d66ed13",
+        "magnet": null,
+        "screen": "screenshots/qilin/Spring Grove Area School District.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Retrofit Service",
+        "discovered": "2026-01-08 18:44:44.960508",
+        "description": "Business Services",
+        "link": "/site/view?uuid=54830d8a-8b6a-329a-a203-9d848b82c049",
+        "magnet": null,
+        "screen": "screenshots/qilin/Retrofit Service.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TriVector Services",
+        "discovered": "2026-01-08 17:44:47.758208",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=1f50d3ec-3a35-3f73-b59f-c80605f7074e",
+        "magnet": null,
+        "screen": "screenshots/qilin/TriVector Services.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://lpollockpr.com/",
+        "discovered": "2026-01-08 17:44:46.410842",
+        "description": "",
+        "link": "/blog/disclosures/695fd6398f1d14b7434fa840",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/lpollockprcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Morton Buildings",
+        "discovered": "2026-01-08 16:43:41.846995",
+        "description": "Morton Buildings, headquartered in Morton, Illinois, is a companythat specializes in the designs, builds, and constructs of post-frame buildings, including residential, farm and agriculture, equestrian, commercial, office, and community.We will upload more than 100gb of corporate data soon. Employee documents, projects, specifications and drawings, NDA, partner information, contacts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Fedcap",
         "discovered": "2026-01-08 15:43:47.953606",
         "description": "",
@@ -128,45 +218,5 @@
         "screen": "screenshots/blackshrantac/SCHNEIDER PROTOTYPING INDIA PVT LTD.png",
         "group_name": "blackshrantac",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Evergreen Printing",
-        "discovered": "2026-01-07 17:45:12.212998",
-        "description": "Business Services",
-        "link": "/site/view?uuid=844f5c86-84f7-380b-9ecf-1fc20209d35f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Evergreen Printing.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Sortimage",
-        "discovered": "2026-01-07 17:45:11.108814",
-        "description": "Business Services",
-        "link": "/site/view?uuid=31697737-8a92-37b5-bbc7-d403740ef79b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sortimage.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Labeltex Group",
-        "discovered": "2026-01-07 16:47:17.766959",
-        "description": "Labeltex Group Srl offers products made with certified raw materials in a continuous process that looks to the future of the textile industry and the planet.We will upload corporate data soon. Financial data, agreements and other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "BUHLMANN GROUP",
-        "discovered": "2026-01-07 16:47:16.757765",
-        "description": "BUHLMANN GROUP is a premium trading company specializing in steelpipes, pipe fittings, and accessories, serving various industries including energy, chemicals, shipbuilding, and machine construction.We will upload more than 55gb of corporate data soon. Lots of drawings and specifications, confidentiality agreements, employees personal documents, project files, financials, contracts and agreements, customers information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
