@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Fedcap",
+        "discovered": "2026-01-08 15:43:47.953606",
+        "description": "",
+        "link": "/r/5f8b43372e727385120f56a4dfbfdf80f6045a37",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Fedcap.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED]Assolim",
+        "discovered": "2026-01-08 15:43:46.960934",
+        "description": "",
+        "link": "/r/d786495113b3d27d3491a69f652002d97ac6e7d5",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]Assolim.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Anteriad",
+        "discovered": "2026-01-08 15:43:44.297242",
+        "description": "Business Services",
+        "link": "/site/view?uuid=b473211a-305b-3837-bea1-d4f822c56484",
+        "magnet": null,
+        "screen": "screenshots/qilin/Anteriad.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "These companies havebeen hacked.",
+        "discovered": "2026-01-08 15:43:42.501217",
+        "description": "We didn't take their data but you can try on your own. If you want details, leave your contacts.Gateway FiberShout! FactoryFilmRiseHuebsch ServicesCrawford Software Consulting",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Udall Law Firm",
+        "discovered": "2026-01-08 15:43:41.510643",
+        "description": "Udall Law Firm is a reputable legal practice serving clients throughout Arizona since 1952, with offices located in Tucson and Phoenix. The firm offers a wide range of legal services, including business law, personal injury, estate planning, and real estate law, among others. It is dedicated to providing customized legal solutions and responsive communication to meet the needs of its clients.We will upload 78gb of corporate data soon. Large amount of clients' personal information (passport numbers, SSNs, drivers licenses, death/birth certs, financials and so on), NDA, police incidents, confidentiality agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Luxshare Precision Industry Co. Ltd.",
+        "discovered": "2026-01-08 14:44:10.836993",
+        "description": "",
+        "link": "/r/c57df5f7a18e85f72c36a99d634c9ebdb90fde13",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Luxshare Precision Industry Co Ltd.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gordon Companies",
+        "discovered": "2026-01-08 14:44:07.537368",
+        "description": "Gordon Companies Inc. is a family operated & owned business, Gordon Companies include Pool Central, Christmas Central, Daves and Northlight retail stores.We will upload corporate data soon. Employee personal information(passport numbers, SSNs and other scanned documents), client data, financials, NDA and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Applied LNG www.appliedlng.com",
+        "discovered": "2026-01-08 14:44:05.735711",
+        "description": "file listing https://gofile.io/d/wsV8hlApplied LNG specializes in providing liquefied natural gas (LNG) solutions for various energy needs, including equipment financing, maintenance, and logistics. The company emphasizes the environmental benefits of natural gas, highlighting its clean-burning properties that contribute to reducing greenhouse gas emissions. Founded in 1995, Applied LNG has over 20 years of experience and expertise in the LNG sector, particularly in the motor fuel market and power generation.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "black nevas",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "PTS Goldkist Industries Sdn Bhd",
+        "discovered": "2026-01-08 11:43:43.309368",
+        "description": "Banking",
+        "link": "/site/view?uuid=65d076c0-adba-3d45-874d-9e641a5d730d",
+        "magnet": null,
+        "screen": "screenshots/qilin/PTS Goldkist Industries Sdn Bhd.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Cressi",
+        "discovered": "2026-01-08 11:43:42.311123",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=2fa58507-6b0f-3f07-8eed-42d7b1c952e5",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Cressi.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Telstar-Hommel",
+        "discovered": "2026-01-08 11:43:41.106686",
+        "description": "Civil Engineering Construction",
+        "link": "/site/view?uuid=bbf112b7-ebd3-38ab-8942-bf0dac31dcad",
+        "magnet": null,
+        "screen": "screenshots/qilin/Telstar-Hommel.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "National Water Authority",
         "discovered": "2026-01-08 03:43:45.688673",
         "description": "",
@@ -58,105 +168,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Commercial Paving",
-        "discovered": "2026-01-07 15:43:15.571763",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=e7ec39f6-e3af-3c0a-aa31-cfa494135ff1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Commercial Paving.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Wilson Smith CochranDickerson",
-        "discovered": "2026-01-07 15:43:13.749791",
-        "description": "Wilson Smith Cochran Dickerson is a law firm specializing in trial and appellate litigation, providing advocacy and advice for clients dealing with business and casualty disputes.We will upload 120gb of corporate data soon. We will upload numerous files with personal information of clients, lots of court files, police reports, court hearings and other confidential legal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "RJS",
-        "discovered": "2026-01-07 15:43:12.820345",
-        "description": "RJS Corporation is a global supplier of equipment for the tire manufacturing industry, specializing in products such as tension controllers, creel systems, and specialty tire equipment.We will upload corporate data soon. You will find detailed employee information (SSNs, passport numbers, DLs, addresses and so on), financials, agreements with Goddyear, Bridgestone, Nokia, Yokohama, Michelin, Pirelli and so on, NDAs and other files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "RGD Consulting Engineers",
-        "discovered": "2026-01-07 15:43:10.870628",
-        "description": "https://www.rgdengineers.com\n\t\t\t\t\t\t\t\t\tRGD Consulting Engineers is a full-service engineering firm specializing in mechanical, electrical, plumbing, and structural design, based in Florida. RGD is focused on providing engineering solutions, exceptional customer service, and cost-effective systems. Serving a variety of markets throughout Florida, the United States, and the Caribbean, RGD collaborates closely with its clients.",
-        "link": "http://qfxx5gxyh53a32itguxez6dqcsm3vkrron3nmxhzkn3g64qld5lijoyd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/RGD Consulting Engineers.png",
-        "group_name": "interlock",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "strategic-ts.com",
-        "discovered": "2026-01-07 14:46:37.766176",
-        "description": "The website https://strategic-ts.com/ belongs to a small US-based IT and technology services company—and serves as the official website for a company called Strategic Technology, which operates in IT services and technical support. This information is based on company data available from professional databases.",
-        "link": "/blog/339a19b6e4ce2e9a805eae8ad4836c9078e12a96a6cd30a66e8e1b09b0410ced/",
-        "magnet": null,
-        "screen": "screenshots/tengu/strategic-tscom.png",
-        "group_name": "tengu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Westlake Christian Academy",
-        "discovered": "2026-01-07 14:46:22.076495",
-        "description": "https://www.westlakechristianacademy.org\n\t\t\t\t\t\t\t\t\tWestlake Christian Academy is a private Christian school located in Grayslake. Due to security issues, its database, including its entire student list and staff information, was made publicly available. The staff at this institution exhibits extreme indifference and inappropriate behavior toward its students and staff.",
-        "link": "http://24nmjyf6g5otaydjtintzmqv3qme3fnrt62ui2anqdz2hmxnwps4e2ad.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Westlake Christian Academy.png",
-        "group_name": "interlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Wamtechnik",
-        "discovered": "2026-01-07 13:45:44.562006",
-        "description": "www.wamtechnik.pl https://www.zoominfo.com/c/wamtechnik-ltd/398138337  Wamtechnik specializes in the production and distribution of batteries and accumulator packs, focusing on lithium-ion technology and other battery types for industrial applications. The company offers tailored battery solutions and professional consulting services for various sectors, including automotive, medical, and industrial electronics. With over 30 years of experience, Wamtechnik has established itself as a leading manufacturer in the battery systems industry, collaborating with global leaders like Panasonic and LG Chem. Their commitment to quality and safety ensures reliable power solutions for a wide range of devices.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Systherm Grupa",
-        "discovered": "2026-01-07 13:45:43.593426",
-        "description": "https://www.systherm.pl https://www.emis.com/php/company-profile/PL/Systherm_Danuta_Gazinska_sp_j_en_3366600.html SYSTHERM Chłodnictwo i Klimatyzacja sp  SYSTHERM Technik sp  SYSTHERM Danuta Gazińska sp. Export and import of components for refrigeration and air conditioning, publishing activities, installation and service of refrigeration and air conditioning equipment.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Hart",
-        "discovered": "2026-01-07 13:45:42.402126",
-        "description": "https://hartphp.com.pl https://www.zoominfo.com/c/hart-sp-zoo/469629635 HART was founded in 1990 specialize in the wholesale of parts and accessories for passenger cars, vans and motorcycles, also offering workshop equipment and electric scooters. In addition to goods from renowned suppliers, HART also offers of equally high quality, including in particular private label products: HART, HART Premium, M.Line, e-HART, Presspower and Sigert. HART Sp. z o.o.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Options",
-        "discovered": "2026-01-07 10:45:08.575125",
-        "description": "Options Community Services Society is a company that operates in the Individual ...",
-        "link": "/leaks/69553ec79c439c5f45ff2bae",
-        "magnet": null,
-        "screen": "screenshots/lynx/Options.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
     }
 ]
