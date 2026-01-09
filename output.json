@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Bauerfeind",
+        "discovered": "2026-01-09 19:45:01.552449",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mohammad Omar Bin Haider Holding Group",
+        "discovered": "2026-01-09 19:45:00.538815",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Swavelle Group, Wearbest Sil-Tex Mills",
+        "discovered": "2026-01-09 16:43:49.711145",
+        "description": "Swavelle Group Fabric Solutions is a diverse textile supplier that offers a wide array of fabrics suitable for various decorating needs.Wearbest Siltex Mills is a family-run textile manufacturer located in Garfield, New Jersey. The firm serves residential clients and furniture manufacturers.We will upload 165gb of corporate data soon. Detailed personal information of every employee (SSN, passport numbers and scans, DL,birth certificates, addresses, phones, emails and so on), clientdocumentation, projects, NDA, so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Triple Eight Transport",
+        "discovered": "2026-01-09 16:43:48.650074",
+        "description": "Triple Eight Transport is an asset-based carrier company offeringservices in reefer, dry and heat van, and more.We will upload almost 30gb of corporate data soon. Detailed personal information of every employee (SSN, passports, visa documents, credit cards, DL, birth certificates, addresses, phones, emailsand so on), financials and payment details, client information, NDA, so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
         "post_title": "McCraw Oil",
         "discovered": "2026-01-09 15:43:45.836809",
         "description": "Founded in 1948, McCraw Oil provides gas, diesel, propane, agricultural chemicals and other products to service stations and customers in Texas and Oklahoma. Bonham, Texas.We will upload 40gb of corporate data soon. We will upload employee documents, lots of projects, specifications and drawings, NDA,client information, contracts and so on.",
@@ -37,96 +77,6 @@
         "magnet": null,
         "screen": "screenshots/leaknet/How Distron corporation threaten national security First Data leakage.png",
         "group_name": "leaknet",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Federal University of Sergipe",
-        "discovered": "2026-01-08 19:44:00.974269",
-        "description": "SECTOR: Education                         •                         COUNTRY: BR                         •                         SITE: https://en.ufs.br",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Gaviota",
-        "discovered": "2026-01-08 18:44:49.034482",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=93809062-e5fa-3482-800b-bc7c1765bf85",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gaviota.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "STESAD",
-        "discovered": "2026-01-08 18:44:48.002032",
-        "description": "Construction",
-        "link": "/site/view?uuid=63ec7de3-33f7-3029-9a10-476b14e27ed9",
-        "magnet": null,
-        "screen": "screenshots/qilin/STESAD.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Softlab SpA",
-        "discovered": "2026-01-08 18:44:46.948072",
-        "description": "Business Services",
-        "link": "/site/view?uuid=efca9ff5-d2ed-3965-8c7d-60f064832d9a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Softlab SpA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Spring Grove Area School District",
-        "discovered": "2026-01-08 18:44:45.980253",
-        "description": "Education",
-        "link": "/site/view?uuid=9201fb94-bd27-3af0-8959-dc363d66ed13",
-        "magnet": null,
-        "screen": "screenshots/qilin/Spring Grove Area School District.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Retrofit Service",
-        "discovered": "2026-01-08 18:44:44.960508",
-        "description": "Business Services",
-        "link": "/site/view?uuid=54830d8a-8b6a-329a-a203-9d848b82c049",
-        "magnet": null,
-        "screen": "screenshots/qilin/Retrofit Service.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TriVector Services",
-        "discovered": "2026-01-08 17:44:47.758208",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=1f50d3ec-3a35-3f73-b59f-c80605f7074e",
-        "magnet": null,
-        "screen": "screenshots/qilin/TriVector Services.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://lpollockpr.com/",
-        "discovered": "2026-01-08 17:44:46.410842",
-        "description": "",
-        "link": "/blog/disclosures/695fd6398f1d14b7434fa840",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/lpollockprcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Morton Buildings",
-        "discovered": "2026-01-08 16:43:41.846995",
-        "description": "Morton Buildings, headquartered in Morton, Illinois, is a companythat specializes in the designs, builds, and constructs of post-frame buildings, including residential, farm and agriculture, equestrian, commercial, office, and community.We will upload more than 100gb of corporate data soon. Employee documents, projects, specifications and drawings, NDA, partner information, contacts and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
         "sector": "Technology"
     }
 ]
