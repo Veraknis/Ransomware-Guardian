@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "About Women Ob-Gyn",
+        "discovered": "2026-01-08 22:44:43.723149",
+        "description": "Data Breach at Gynecology Clinic.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/fhg8fW6QLYEZpEa4dL7tT2k20T0ZsrotUJ0hMBg5CSdCQNvrOC9tp8swf9dJlJYoDttLGO3j7z7EbD3JQNGR6WUtOZGYw",
+        "magnet": null,
+        "screen": "screenshots/anubis/About Women Ob-Gyn.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "How Distron corporation threaten national security. First Data leakage.",
+        "discovered": "2026-01-08 20:44:59.650870",
+        "description": "#InfoLeak #DigitalThreat #DataExposed #SecurityFailure #CyberAttack",
+        "link": "view_article.php?article=XAd3CAeoBr23tJjgREHUC636Q65uCCMdOkAQURp5ZIrgauBjzDFqIIC01elIHvAV",
+        "magnet": null,
+        "screen": "screenshots/leaknet/How Distron corporation threaten national security First Data leakage.png",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Federal University of Sergipe",
         "discovered": "2026-01-08 19:44:00.974269",
         "description": "SECTOR: Education                         •                         COUNTRY: BR                         •                         SITE: https://en.ufs.br",
@@ -198,25 +218,5 @@
         "screen": "screenshots/qilin/Telstar-Hommel.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "National Water Authority",
-        "discovered": "2026-01-08 03:43:45.688673",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/40",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/National Water Authority.png",
-        "group_name": "blackshrantac",
-        "sector": "Government"
-    },
-    {
-        "post_title": "SCHNEIDER PROTOTYPING INDIA PVT. LTD",
-        "discovered": "2026-01-08 03:43:44.664241",
-        "description": "",
-        "link": "http://b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/targets/41",
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/SCHNEIDER PROTOTYPING INDIA PVT LTD.png",
-        "group_name": "blackshrantac",
-        "sector": "Unknown"
     }
 ]
