@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "NextCapitalTrust",
+        "discovered": "2026-01-10 04:44:17.859178",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "publicsafety.ohio.gov",
+        "discovered": "2026-01-10 04:44:16.864730",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Government"
+    },
+    {
+        "post_title": "American Vanguard",
+        "discovered": "2026-01-09 23:44:35.376277",
+        "description": "American Vanguard Corporation is a U.S.-based company specializing in agricultural chemicals, primarily focused on crop protection products like herbicides, insecticides, fungicides, and fumigants. Founded in 1969 and headquartered in Newport Beach, California, the company markets products under its AMVAC brand and other specialized labels, serving global agricultural markets. Through a combination of research and development, strategic acquisitions, and a focus on sustainable practices, American Vanguard aims to enhance crop yields while minimizing environmental impact. It invests in greener alternatives to traditional chemicals and emphasizes innovation in pest control solutions. As a publicly traded company (NYSE: AVD), its financial performance is closely tied to agricultural trends and regulatory changes within the industry.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "osiris",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Bauerfeind",
         "discovered": "2026-01-09 19:45:01.552449",
         "description": "",
@@ -58,25 +88,5 @@
         "screen": "screenshots/lynx/Grupo Ruiz.png",
         "group_name": "lynx",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "About Women Ob-Gyn",
-        "discovered": "2026-01-08 22:44:43.723149",
-        "description": "Data Breach at Gynecology Clinic.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/fhg8fW6QLYEZpEa4dL7tT2k20T0ZsrotUJ0hMBg5CSdCQNvrOC9tp8swf9dJlJYoDttLGO3j7z7EbD3JQNGR6WUtOZGYw",
-        "magnet": null,
-        "screen": "screenshots/anubis/About Women Ob-Gyn.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "How Distron corporation threaten national security. First Data leakage.",
-        "discovered": "2026-01-08 20:44:59.650870",
-        "description": "#InfoLeak #DigitalThreat #DataExposed #SecurityFailure #CyberAttack",
-        "link": "view_article.php?article=XAd3CAeoBr23tJjgREHUC636Q65uCCMdOkAQURp5ZIrgauBjzDFqIIC01elIHvAV",
-        "magnet": null,
-        "screen": "screenshots/leaknet/How Distron corporation threaten national security First Data leakage.png",
-        "group_name": "leaknet",
-        "sector": "Technology"
     }
 ]
