@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Virginia Records",
+        "discovered": "2026-01-10 16:43:24.931154",
+        "description": "",
+        "link": "/news/Virginia_Records/",
+        "magnet": null,
+        "screen": "screenshots/everest/Virginia Records.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nissan Motor Corporation",
+        "discovered": "2026-01-10 16:43:23.797028",
+        "description": "",
+        "link": "/news/Nissan/",
+        "magnet": null,
+        "screen": "screenshots/everest/Nissan Motor Corporation.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bouygues Energies & Services",
+        "discovered": "2026-01-10 16:43:08.633817",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=db458026-2b78-3ddd-aaf0-226d83d8af92",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bouygues Energies & Services.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "NextCapitalTrust",
         "discovered": "2026-01-10 04:44:17.859178",
         "description": "",
@@ -28,55 +58,5 @@
         "screen": null,
         "group_name": "osiris",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Bauerfeind",
-        "discovered": "2026-01-09 19:45:01.552449",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mohammad Omar Bin Haider Holding Group",
-        "discovered": "2026-01-09 19:45:00.538815",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "direwolf",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Swavelle Group, Wearbest Sil-Tex Mills",
-        "discovered": "2026-01-09 16:43:49.711145",
-        "description": "Swavelle Group Fabric Solutions is a diverse textile supplier that offers a wide array of fabrics suitable for various decorating needs.Wearbest Siltex Mills is a family-run textile manufacturer located in Garfield, New Jersey. The firm serves residential clients and furniture manufacturers.We will upload 165gb of corporate data soon. Detailed personal information of every employee (SSN, passport numbers and scans, DL,birth certificates, addresses, phones, emails and so on), clientdocumentation, projects, NDA, so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Triple Eight Transport",
-        "discovered": "2026-01-09 16:43:48.650074",
-        "description": "Triple Eight Transport is an asset-based carrier company offeringservices in reefer, dry and heat van, and more.We will upload almost 30gb of corporate data soon. Detailed personal information of every employee (SSN, passports, visa documents, credit cards, DL, birth certificates, addresses, phones, emailsand so on), financials and payment details, client information, NDA, so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "McCraw Oil",
-        "discovered": "2026-01-09 15:43:45.836809",
-        "description": "Founded in 1948, McCraw Oil provides gas, diesel, propane, agricultural chemicals and other products to service stations and customers in Texas and Oklahoma. Bonham, Texas.We will upload 40gb of corporate data soon. We will upload employee documents, lots of projects, specifications and drawings, NDA,client information, contracts and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
     }
 ]
