@@ -1,5 +1,195 @@
 [
     {
+        "post_title": "paragonradiology.com",
+        "discovered": "2026-01-12 19:42:42.519624",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "heitech.com.my",
+        "discovered": "2026-01-12 19:42:41.509035",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pronaca.com",
+        "discovered": "2026-01-12 19:42:40.509886",
+        "description": "Financial, contracts HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "consigaz.com.br",
+        "discovered": "2026-01-12 19:42:39.565786",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "sealbeachca.gov",
+        "discovered": "2026-01-12 19:42:38.591916",
+        "description": "Datatheft 300gb of data stollen includes gov documents, deeds and much more",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Government"
+    },
+    {
+        "post_title": "sealbeachpd.com",
+        "discovered": "2026-01-12 19:42:37.591266",
+        "description": "data theft, evidence, officers personal information police reports, DEA open cases information",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "******m*di*al.com",
+        "discovered": "2026-01-12 19:42:36.603432",
+        "description": "Patients data, plastic operations data, SSNs",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "****t*lc*a*tpm.com",
+        "discovered": "2026-01-12 19:42:35.526575",
+        "description": "Financial, patients data, HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "s***p.com",
+        "discovered": "2026-01-12 19:42:34.488306",
+        "description": "Case data, atourney client data, hr data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "G-WAY Microwave",
+        "discovered": "2026-01-12 19:42:32.458307",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=c92d04a7-68ae-3065-ba64-aef9244a3bb4",
+        "magnet": null,
+        "screen": "screenshots/qilin/G-WAY Microwave.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Superior Water Conditioning",
+        "discovered": "2026-01-12 19:42:31.412858",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=e5fab49c-431d-3209-9a6a-4221a3b529ea",
+        "magnet": null,
+        "screen": "screenshots/qilin/Superior Water Conditioning.png",
+        "group_name": "qilin",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "Best Insurance Agency",
+        "discovered": "2026-01-12 18:41:57.012264",
+        "description": "Insurance",
+        "link": "/site/view?uuid=2902b1f3-9fc6-316b-88b6-a532477d06e0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Best Insurance Agency.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Hayden Safe & Lock",
+        "discovered": "2026-01-12 18:41:56.033222",
+        "description": "Business Services",
+        "link": "/site/view?uuid=56b64bcf-a7c3-3c63-bfaf-c9d21538b4af",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hayden Safe & Lock.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BORING.COM",
+        "discovered": "2026-01-12 18:40:36.772886",
+        "description": "",
+        "link": null,
+        "magnet": "magnet:?xt=urn:btih:0f3f54f07e5cc8da51811d10754a6a9040e71bcd&dn=boring.com",
+        "screen": "screenshots/clop/BORINGCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MUTTI-PARMA.COM",
+        "discovered": "2026-01-12 18:39:52.427614",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/MUTTI-PARMACOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CPJ.ORG",
+        "discovered": "2026-01-12 18:39:33.784880",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/CPJORG.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Depth",
+        "discovered": "2026-01-12 17:43:24.123492",
+        "description": "Depth is a computer engineering company that specializes in geographic information systems (GIS).We will upload 260gb of corporate data soon. Employee personal information, projects, confidential files, financials and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Outdoor Recreation Group",
+        "discovered": "2026-01-12 16:42:06.973554",
+        "description": "The Outdoor Recreation Group (TORG) is a solutions-driven company, relentless in our drive to meet the needs and exceed the expectations of each and every customer within multiple product categories and industries. We primarily focus on the Camping, Hunting and Fishing markets, with specific specialty in the sewn goods and accessory categories.We will upload corporate data soon. Lots of internal data, partners information, a bit of financial docs, projects, contracts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Brockhaus",
+        "discovered": "2026-01-12 16:42:05.839043",
+        "description": "Brockhaus Fertigungstechnik offers custom-designed special-purpose machinery, efficient retrofitting, and complex control technology.We will upload 44gb of corporate data soon. Financials, Lots of internal data, scanned employee documents, client information, projects, drawings and specifications, contracts and agreement, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Syrstone",
         "discovered": "2026-01-12 15:42:28.773553",
         "description": "Syrstone, originally known as the Syracuse Stone Company, is a specialized subcontracting firm with over 50 years of experience inthe site and highway construction industry. The company providestop quality and cost-effective subcontract work including granite curbing, grooving grinding, unit paving, and rumble strips.We will upload 58gb of corporate data soon. Detailed employee personal information (SSN, passports, drivers licenses, credit cards, addresses, phones, emails and so on), financials, client information, NDAs, internal confidential docs and so on.",
@@ -45,7 +235,7 @@
         "description": "Founded in 1929, Cisneros is a global media and entertainment enterprise headquartered in Miami, Florida. The company specializes in broadcasting, digital advertising, and real estate development with operations across North and South America, including Mexico. Cisneros offers mobile applications and technology solutions while maintaining a diverse portfolio of media properties and entertainment content. The company combines traditional broadcasting with digital innovation to deliver content and services to both business and consumer markets worldwide - corp you have 7 days to contact and get in touch, sample provided.",
         "link": "#",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/Cisneros group.png",
         "group_name": "nova",
         "sector": "Real Estate"
     },
