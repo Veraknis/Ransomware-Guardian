@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "stimgroup",
+        "discovered": "2026-01-13 05:43:01.373677",
+        "description": "",
+        "link": "/blog/disclosures/69620d758f1d14b7436965ea",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/stimgroup.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rodney's Sign Company",
+        "discovered": "2026-01-13 04:42:05.215969",
+        "description": "",
+        "link": "/blog/disclosures/696215908f1d14b743699a5a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Rodney's Sign Company.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CompactInd",
+        "discovered": "2026-01-13 04:42:03.656810",
+        "description": "",
+        "link": "/blog/disclosures/695a7a3e8f1d14b743fb8c9b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/CompactInd.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IDeaS.com - Database leaked",
+        "discovered": "2026-01-13 02:43:05.483941",
+        "description": "",
+        "link": "/news/IDeaS/",
+        "magnet": null,
+        "screen": "screenshots/everest/IDeaScom - Database leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Morgan Records Management - Database leaked",
+        "discovered": "2026-01-13 02:43:04.295171",
+        "description": "",
+        "link": "/news/Morgan_Records_Management/",
+        "magnet": null,
+        "screen": "screenshots/everest/Morgan Records Management - Database leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fit-Line Global",
+        "discovered": "2026-01-13 01:43:39.074008",
+        "description": "",
+        "link": "/blog/disclosures/6960ed1d8f1d14b743621cad",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Fit-Line Global.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cape Fear Country Club",
+        "discovered": "2026-01-13 01:43:38.096593",
+        "description": "",
+        "link": "/blog/disclosures/696162068f1d14b743656303",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Cape Fear Country Club.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pilot automotive",
+        "discovered": "2026-01-13 01:43:34.208469",
+        "description": "Pilot specializes in a wide range of automotive accessories, including truck, in...",
+        "link": "/leaks/6963f3326387a4c9a21bd741",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Pilot automotive.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "MyVete",
+        "discovered": "2026-01-12 23:43:46.833521",
+        "description": "MyVete is a veterinary software designed to help animal clinics and veterinary practices manage their operations more efficiently. The platform includes features for managing patient records, appointments, billing, and inventory, all in one system. MyVete allows veterinarians to track medical histories, schedule appointments, and send reminders for vaccinations or follow-up care. The software also includes tools for managing invoicing and payments, allowing clinics to accept payments through multiple methods, including credit cards and insurance claims. With its easy-to-use interface, MyVete streamlines administrative tasks, reducing time spent on paperwork and improving patient care. By providing real-time access to patient data and operational insights, MyVete helps veterinary practices improve efficiency and deliver better care to animals.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kazu",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Eco Green Group",
+        "discovered": "2026-01-12 22:44:38.075400",
+        "description": "",
+        "link": "/article/fbcabbe5-4563-44fb-be68-7424f1260a9d",
+        "magnet": null,
+        "screen": "screenshots/tridentlocker/Eco Green Group.png",
+        "group_name": "tridentlocker",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Harrison Design",
+        "discovered": "2026-01-12 21:43:59.374151",
+        "description": "",
+        "link": "/blog/disclosures/69579ba68f1d14b743cbe9ec",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Harrison Design.png",
+        "group_name": "inc ransom",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "klhindustries.com",
+        "discovered": "2026-01-12 20:43:25.070497",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Resource Corporation of America",
+        "discovered": "2026-01-12 20:43:23.092942",
+        "description": "Business Services",
+        "link": "/site/view?uuid=0e406ddf-4c3d-31bf-9e50-b96aea87ea55",
+        "magnet": null,
+        "screen": "screenshots/qilin/Resource Corporation of America.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Young Wealth Management",
+        "discovered": "2026-01-12 20:43:22.094687",
+        "description": "Finance",
+        "link": "/site/view?uuid=1684f16a-90fd-3c1b-8121-b0f72d24f8e5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Young Wealth Management.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "stignatiusijamsville.org",
+        "discovered": "2026-01-12 20:43:20.812022",
+        "description": "",
+        "link": "/blog/disclosures/6957d6ad8f1d14b743cfc643",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/stignatiusijamsvilleorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rod Danielson",
+        "discovered": "2026-01-12 20:43:19.723285",
+        "description": "",
+        "link": "/blog/disclosures/6960f3998f1d14b743626a54",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Rod Danielson.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Carlson Law Firm",
+        "discovered": "2026-01-12 20:43:18.654872",
+        "description": "",
+        "link": "/blog/disclosures/696111d28f1d14b743633c6e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/The Carlson Law Firm.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Foshee Architecture",
+        "discovered": "2026-01-12 20:43:17.354423",
+        "description": "",
+        "link": "/blog/disclosures/696212578f1d14b7436986b3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Foshee Architecture.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "paragonradiology.com",
         "discovered": "2026-01-12 19:42:42.519624",
         "description": "",
