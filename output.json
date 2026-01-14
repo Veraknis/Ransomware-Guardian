@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "https://seha.org.sa",
+        "discovered": "2026-01-14 15:42:51.567285",
+        "description": "https://seha.org.sa/\n\nThis is the official website of the Health Services Association in the Qassim region of Saudi Arabia. It is a non-profit/charitable organization that provides health and social services to those in need.",
+        "link": "/blog/9194b5bee0d8552e9421cd7003d82a7861469b78856b501259d0c881519df3cf/",
+        "magnet": null,
+        "screen": "screenshots/tengu/sehaorgsa.png",
+        "group_name": "tengu",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "TruGolf",
+        "discovered": "2026-01-14 15:42:33.007689",
+        "description": "TruGolf develops and manufactures golf simulation hardware and software for both business and consumer markets. The company specializes in creating immersive virtual golf experiences that accurately replicate course designs and gameplay nuances.We will upload 37gb of corporate data soon. Employee personal information (SSNs, DLs, addresses, emails and so on), client information, financials, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "https://acswinc.com/",
+        "discovered": "2026-01-14 14:43:11.940442",
+        "description": "",
+        "link": "/blog/disclosures/696792498f1d14b743a9d829",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/acswinccom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fechner Pump & Supply",
+        "discovered": "2026-01-14 14:43:10.425690",
+        "description": "Fechner Pump Supply has been serving the oil and gas industry in Oklahoma and southern Kansas for over 33 years, offering a wide range of products and services tailored to both independent producers and large corporations.We will upload 157gb of corporate data soon. Employee personal information (SSN, addresses, phones, emails, scans of personal documents and so on), projects, client information, financials, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "H2 Builders",
+        "discovered": "2026-01-14 14:43:09.404292",
+        "description": "H2 Builders is a custom home builder located in Bluffton, SC, specializing in luxury home construction in the Lowcountry. With over 25 years of experience, the company has successfully completed more than 500 custom homes, ensuring high-quality craftsmanship and customer satisfaction.We will upload more than 20gb of corporate data soon. Client information, financials, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hyatt Place New York / Chelsea Hotel",
+        "discovered": "2026-01-14 12:43:29.581544",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "*** *********",
+        "discovered": "2026-01-14 10:43:26.636640",
+        "description": "A provider of financial services",
+        "link": "/a540b155da0a63b229ca/",
+        "magnet": null,
+        "screen": "screenshots/genesis/*** *********.png",
+        "group_name": "genesis",
+        "sector": "Finance"
+    },
+    {
         "post_title": "AUTOCARES CARRETERO",
         "discovered": "2026-01-14 08:42:43.762899",
         "description": "",
@@ -108,215 +178,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Itasca Consulting Group",
-        "discovered": "2026-01-13 15:42:21.166328",
-        "description": "Itasca is a global engineering consulting and software firm, working primarily with the geomechanics, hydrogeological and microseismics communities.We will upload 20gb of corporate data soon. Detailed employee personal information (addresses, phones, emails, scans of personal documents and so on), projects, client information, internal confidential files, financials, credit cards, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "pricemodern",
-        "discovered": "2026-01-13 15:02:43.099258",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/pricemodern.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "morrisgroupint",
-        "discovered": "2026-01-13 15:02:14.608895",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/morrisgroupint.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "daubertchemical",
-        "discovered": "2026-01-13 15:01:36.421556",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/daubertchemical.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "emanic",
-        "discovered": "2026-01-13 15:01:12.125602",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/emanic.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "udhaiyamdhall",
-        "discovered": "2026-01-13 15:00:48.233265",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/udhaiyamdhall.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kioti",
-        "discovered": "2026-01-13 15:00:16.475683",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/kioti.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "sitrack",
-        "discovered": "2026-01-13 14:59:41.485782",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/sitrack.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hetero",
-        "discovered": "2026-01-13 14:59:16.500520",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/hetero.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ipsenlogistics",
-        "discovered": "2026-01-13 14:58:45.750870",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/ipsenlogistics.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "albanybank",
-        "discovered": "2026-01-13 14:58:15.178962",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/albanybank.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bridgestoneamericas",
-        "discovered": "2026-01-13 14:20:19.362501",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/bridgestoneamericas.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hphood",
-        "discovered": "2026-01-13 14:19:43.348847",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/hphood.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "huntongroup",
-        "discovered": "2026-01-13 14:19:04.779074",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/huntongroup.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Richard Alibon Primary School",
-        "discovered": "2026-01-13 13:43:16.203475",
-        "description": "Richard Alibon Primary is a school where all individuals are valued and helped to achieve their personal best. Confidence � Perseverance � Ambition � Curiousity � Respect � Happiness While we are a large school, every child is important to us. Children are supported in becoming confident and independent young people. We want all our children to have a strong voice. We want each child to be safe and happy at school; to be at their best as learners and as a citizen within our community. We believe that the �special feel� at Richard Alibon comes from our caring, supportive and friendly environment. If you visit Richard Alibon, you will see just how well children and staff get on together; the good behaviour of our children and how pupils live out our school values of: The excellent start begins in Nursery and continues through the school. As a school that has children and staff with family connections around the world we have a strong international outlook. A good day of learning in school is supported by frequent trips and visits, community activities and a wide range of after-school clubs which further add to the opportunities available to children.",
-        "link": "/card/richard_alibon_primary_school",
-        "magnet": null,
-        "screen": "screenshots/beast/Richard Alibon Primary School.png",
-        "group_name": "beast",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Ideal International",
-        "discovered": "2026-01-13 13:43:15.185331",
-        "description": "Ideal International specializes in international freight forwarding, warehousing, and transport services. They also offer export packaging and casemaking solutions. The company aims to serve clients who require efficient logistics and supply chain management. With a commitment to quality, Ideal International has received several awards for their services.",
-        "link": "/card/ideal_international",
-        "magnet": null,
-        "screen": "screenshots/beast/Ideal International.png",
-        "group_name": "beast",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Collett Hulance",
-        "discovered": "2026-01-13 13:43:14.167809",
-        "description": "Collett Hulance is a Chartered Certified Accountants firm based in Bedford, UK, offering a range of accounting and taxation services including year-end accounts, tax returns, bookkeeping, payroll, audit, and tax planning. The firm caters to various sectors such as agriculture, property development, healthcare, construction, and independent schools. Their dedicated team aims to relieve clients of regulatory stress and support them in managing their business and personal financial affairs. Collett Hulance seeks to build long-lasting professional relationships with clients, both locally and nationwide.",
-        "link": "/card/collett_hulance",
-        "magnet": null,
-        "screen": "screenshots/beast/Collett Hulance.png",
-        "group_name": "beast",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Dubai Air Wing",
-        "discovered": "2026-01-13 13:42:56.183615",
-        "description": "Dubai Royal Air Wing (otherwise simply known as the \"Royal Airwing\"[1]) is the paramilitary airline of the government of the United Arab Emirates.\nDubai Royal Air Wing, located on the southeast side of Dubai International Airport (DXB), consists of a VIP terminal dedicated to the UAE royal family and special interest flights[1] and is primarily used by the Emir of Dubai, the prime minister of the United Arab Emirates, members of the Dubai Royal family, as well as other influential government officials based in Dubai, United Arab Emirates.We have all the employee information and financial data of the company. Stay tuned.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Dubai Air Wing.png",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Living Realty",
-        "discovered": "2026-01-13 12:43:08.576117",
-        "description": "If the company does not contact us until 21/01/2025, the data will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "gbmme.com",
-        "discovered": "2026-01-13 12:43:06.115895",
-        "description": "",
-        "link": "/blog/disclosures/69657e3e8f1d14b7437febc5",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/gbmmecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Commercial Paving Ltd.",
-        "discovered": "2026-01-13 10:42:24.693567",
-        "description": "Commercial Paving Ltd. is a Calgary-based company with over 40 years of experience in providing reliable paving services for commercial, residential, and industrial clients. The company offers a diverse range of services including parking lot resurfacing, driveway paving, excavating, gravel, and grading solutions for both new and existing developments. Their commitment to high-quality workmanship and excellent customer service has established them as one of Calgary's leading paving contractors. They cater to business owners and property owners seeking durable and professional paving solutions",
-        "link": "/card/commercial_paving_ltd_",
-        "magnet": null,
-        "screen": "screenshots/beast/Commercial Paving Ltd.png",
-        "group_name": "beast",
-        "sector": "Manufacturing"
     }
 ]
