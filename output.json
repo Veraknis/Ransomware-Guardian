@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Krez & Flores",
+        "discovered": "2026-01-15 19:42:38.864305",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=a904de71-d00b-3ad9-9e33-156a15c811f9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Krez & Flores.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Texas State Utilities",
+        "discovered": "2026-01-15 19:42:37.776249",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/view?uuid=4ed8f372-3c9c-361a-a038-318fcc95da7f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Texas State Utilities.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Neo Group",
+        "discovered": "2026-01-15 19:42:36.805527",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=82267cc3-a51d-3041-9a95-53ade873b660",
+        "magnet": null,
+        "screen": "screenshots/qilin/Neo Group.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Moen",
+        "discovered": "2026-01-15 19:42:35.838885",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=2795747b-e19f-3de7-a4d8-41fe1d9bd8b9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Moen.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Aero-Coating",
+        "discovered": "2026-01-15 19:42:34.749042",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=76d39630-8a9b-3e2a-b18d-46aa47f9a9ed",
+        "magnet": null,
+        "screen": "screenshots/qilin/Aero-Coating.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Bergmanis Preyra",
+        "discovered": "2026-01-15 19:42:33.648261",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=784ba1c7-b880-3042-8c04-5373bb399723",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bergmanis Preyra.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Gorlick Kravitz & Listhaus, CogneSense, Netberry Solutions, Hein Electric Supply, Jet Wast",
+        "discovered": "2026-01-15 16:42:02.411886",
+        "description": "We obtained about 22gb of data of the following companies:Gorlick Kravitz & Listhaus PC operates as a specialized labor andERISA law firm serving multiemployer unions, their benefit funds, and union-affiliated organizations. Cognesense provides advanced measurement, monitoring, and controlsolutions for industries with strict regulations. Netberry Solutions offers services of two areas: INTERNET AND NEWTECHNOLOGIES.Hein Electric Supply Company is an independent electrical distributor based in West Allis, Wisconsin, specializing in a wide rangeof electrical products and services. Jet Wastewater Treatment Solutions offers a comprehensive range of chemical supplies to enhance the efficiency of its systems.You will find personal employee personal data, client information, numerous project files, accounting and financials and other internal operational files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Paylogix",
         "discovered": "2026-01-15 15:42:06.924336",
         "description": "Paylogix is an insuretech pioneer offering premium technology solutions that streamline the administration of voluntary benefits. Their robust suite of services includes enrollment, premium billing, alternative funding, and a software-as-a-service platform tailored for groups of all sizes.We will upload 185gb of corporate data soon. Employee personal information (complete information about 130 employees including SSNs, passports, DLs and so on), client information, detailed financials, internal confidential files, NDAs and so on.",
@@ -158,105 +228,5 @@
         "screen": null,
         "group_name": "payoutsking",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "The National Auto Loan Network",
-        "discovered": "2026-01-14 18:43:10.753612",
-        "description": "National Auto Loan Network specializes in auto loan refinancing, having successfully refinanced over 2 billion dollars in auto loans for more than 100,000 customers since its inception in 2010. The company is founded by finance professionals with over 40 years of experience and aims to simplify the refinancing process for clients. They pride themselves on excellent customer service and educating clients about their loans. NALN serves individuals looking to save money on their monthly car payments through effective loan refinancing solutions.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/The National Auto Loan Network.png",
-        "group_name": "nova",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Gtech",
-        "discovered": "2026-01-14 18:43:08.871479",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=42e05b39-7cea-35c3-ba31-daddc518faae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gtech.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ernest Maier",
-        "discovered": "2026-01-14 18:43:07.851012",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=11f6e466-b8c7-3359-994b-7f7fe71db139",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ernest Maier.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Designers Mirror and Glass",
-        "discovered": "2026-01-14 18:43:06.846716",
-        "description": "Construction",
-        "link": "/site/view?uuid=e7061f15-969a-3769-a59b-90829dc37afc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Designers Mirror and Glass.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Pathology Associates Of Saint Thomas",
-        "discovered": "2026-01-14 18:43:05.844863",
-        "description": "0",
-        "link": "/site/view?uuid=33fc705f-89ed-3b7b-8143-e38a6d5bb76f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pathology Associates Of Saint Thomas.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lunsford Capital",
-        "discovered": "2026-01-14 18:43:04.788271",
-        "description": "Finance",
-        "link": "/site/view?uuid=5b47567c-14d4-3f2f-9ce5-322925242ffc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lunsford Capital.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Pre-Con Builders",
-        "discovered": "2026-01-14 17:43:20.471494",
-        "description": "Construction",
-        "link": "/site/view?uuid=4e08b6e9-f9b0-38ab-a337-306bfbaee812",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pre-Con Builders.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Radiant Remodeling",
-        "discovered": "2026-01-14 17:43:19.443557",
-        "description": "Construction",
-        "link": "/site/view?uuid=ae93eb76-94ee-3540-a58b-ff790710941f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Radiant Remodeling.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Rebars & Mesh",
-        "discovered": "2026-01-14 16:43:06.429370",
-        "description": "Rebars & mesh is an independent WBE-certified reinforcing steel fabricator serving New England and Eastern New York. The company specializes in rebar fabrication, pre-assembly services, and offers a wide range of complementary products such as welded wire meshand bar supports. We will upload 15gb of corporate data soon. Employee personal information (DLs, addresses, emails and so on), client information, financials, agreements, drawings and specifications etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ImageWorks Display",
-        "discovered": "2026-01-14 16:43:05.370266",
-        "description": "ImageWorks Display & Marketing is a full-service Point-of-Purchase display company. The company specializes in the development andproduction of custom displays, signage, and in-store tobacco displays.We will upload 15gb of corporate data soon. Employee personal information (w9 forms and so on), client information, numerous financials files, agreements and contracts, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
