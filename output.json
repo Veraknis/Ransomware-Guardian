@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Dedman Gray Property Consultants",
+        "discovered": "2026-01-16 08:42:53.780755",
+        "description": "A full service real estate company from UK",
+        "link": "/d19fd82c34beb881a17a/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Dedman Gray Property Consultants.png",
+        "group_name": "genesis",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Upper Township",
+        "discovered": "2026-01-16 08:42:52.728250",
+        "description": "A New Jersey local municipal level organization",
+        "link": "/31a696c2ccd7ef9a1b02/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Upper Township.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "The Hidden Breach: Why CIDESA Is Avoiding the Full Story.",
+        "discovered": "2026-01-16 08:42:39.029396",
+        "description": "#HackerAttack #DigitalSecurity #DataLeak #BreachAlert",
+        "link": "view_article.php?article=MPhxetFcpRsc7wpgxP5mH68x1Nk8i8Ohh61bAoXre1j2c7q2QP1nvVLMsBcaV5sE",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leaknet",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cirrusaviation",
+        "discovered": "2026-01-16 05:42:19.281606",
+        "description": "",
+        "link": "/blog/disclosures/6965055b8f1d14b7437aec6e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cirrusaviation.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NWIMS IT Group",
+        "discovered": "2026-01-16 05:42:17.046893",
+        "description": "NWIMS IT Group provides a complete service for all your technology needs including computer repair and upgrade services for Home and Small Business Users.\n\nThat...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Services"
+    },
+    {
+        "post_title": "sjl-legal.com (Luxembourg, Luxembourg)",
+        "discovered": "2026-01-15 23:44:03.380544",
+        "description": "SJL is a high-end independent business law firm renowned for its savoir faire and reliability. The firm has been created in 2010 as an independent alternative investment funds, finance, corporate and insolvency & restructuring boutique law firm...",
+        "link": "/SJL/index.html",
+        "magnet": null,
+        "screen": "screenshots/ms13-089/sjl-legalcom (Luxembourg, Luxembourg).png",
+        "group_name": "ms13-089",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "PSTECHLTD",
+        "discovered": "2026-01-15 21:44:32.956498",
+        "description": "Business Services",
+        "link": "/site/view?uuid=d27924ef-b66c-3b1d-96e6-0db80427551e",
+        "magnet": null,
+        "screen": "screenshots/qilin/PSTECHLTD.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "1171 Rue Notre Dame O, Victoriaville, QC G6P 7L1, Canada. (819) 758-0313",
+        "discovered": "2026-01-15 21:44:30.182854",
+        "description": "Soteck specializes in air treatment, automation, industrial refrigeration, and energy efficiency, catering specifically to the agri-food sector. They provide co...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Agriculture"
+    },
+    {
         "post_title": "Krez & Flores",
         "discovered": "2026-01-15 19:42:38.864305",
         "description": "Law Firms & Legal Services",
@@ -88,145 +168,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Legal"
-    },
-    {
-        "post_title": "https://trustarholdingsllc.com/ https://vistlabs.com/",
-        "discovered": "2026-01-15 03:44:06.819931",
-        "description": "",
-        "link": "/blog/disclosures/696842f08f1d14b743b7c396",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/trustarholdingsllccom https:vistlabscom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Nordstrom Rack",
-        "discovered": "2026-01-15 01:45:10.747974",
-        "description": "Nordstrom Rack is a company that operates in the Apparel & Accessories Retail industry. It employs 1to4 people and has 500Kto1M of revenue. The company is headquartered in San Jose, California",
-        "link": "/blog/9ed049f13a6c03647605778e699066649aea5265c7351bff6fd5e509a294ba2e/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Nordstrom Rack.png",
-        "group_name": "tengu",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Kan & Krishme",
-        "discovered": "2026-01-15 01:44:51.071769",
-        "description": "Kan and Krishme provides legal information and resources, specifically in the fi...",
-        "link": "/leaks/6964034c6387a4c9a21c7123",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Kan & Krishme.png",
-        "group_name": "sinobi",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Notin - Database leaked",
-        "discovered": "2026-01-15 00:45:29.402992",
-        "description": "",
-        "link": "/news/Notin/",
-        "magnet": null,
-        "screen": "screenshots/everest/Notin - Database leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "National Money Mart Company - Database leaked",
-        "discovered": "2026-01-15 00:45:28.397009",
-        "description": "",
-        "link": "/news/National_Money_Mart_Company/",
-        "magnet": null,
-        "screen": "screenshots/everest/National Money Mart Company - Database leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Samson Equipment",
-        "discovered": "2026-01-14 23:45:24.689329",
-        "description": "Samson Equipment specializes in designing and manufacturing custom weight rooms tailored for schools, colleges, and tactical training professionals. Their product lineup includes a range of durable strength training equipment like power racks, barbells, and accessories, all made to withstand high usage. The company offers personalized services including 3D render consultations to envision the final layout of weight rooms before purchase. With a commitment to exceptional quality, customer service, and a lifetime warranty, Samson Equipment aims to empower athletes and training facilities alike.",
-        "link": "/blog/b15894372ddbb2ea10962a5ec4eaab9594a0406f9ce1d66c7db3c9e23ef52003/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Samson Equipment.png",
-        "group_name": "tengu",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Rogers Capital",
-        "discovered": "2026-01-14 22:43:43.192122",
-        "description": "https://www.zoominfo.com/c/rogers-capital-ltd/444888383 https://rogerscapital.mu/ Mauritian company offering integrated financial and technology solutions, including corporate/trust services (fiduciary), IT/telecoms, and consumer finance (credit), helping businesses and individuals navigate global financial landscapes with services like fund administration, tech support, and payroll outsourcing. They operate in diverse sectors, leveraging technology and local expertise to serve both the Mauritius International Financial Centre (IFC) and broader global markets. Rogerscapital.mu blatantly disregarded the security of its company and its clients and did not even attempt to resolve the issue, despite the incompetence of its employees.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "B****p",
-        "discovered": "2026-01-14 20:43:52.131820",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "C****g",
-        "discovered": "2026-01-14 20:43:51.109256",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "L****p",
-        "discovered": "2026-01-14 20:43:48.959668",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A****g",
-        "discovered": "2026-01-14 20:43:47.977915",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "M****l",
-        "discovered": "2026-01-14 20:43:46.985471",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A****s",
-        "discovered": "2026-01-14 20:43:46.005625",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "V****S",
-        "discovered": "2026-01-14 20:43:44.969289",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
     }
 ]
