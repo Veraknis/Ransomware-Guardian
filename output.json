@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "La Macchia Group",
+        "discovered": "2026-01-16 15:44:48.924821",
+        "description": "La Macchia Group is a comprehensive consulting and design-build firm based in Milwaukee, Wisconsin.We will upload 12gb of corporate data soon. Employee passports, driver licenses and other files, HR files, drawings and specifications, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Commenco",
+        "discovered": "2026-01-16 14:44:21.966680",
+        "description": "Commenco specializes in Wireless network infrastructure, Private LTE, wireless devices, equipment installations, system deployments, tower maintenance, and technology support services for commercial, industrial, and government operations.We will upload corporate data soon. Client data, payment details,a bit of personal files, financials, NDAs, numerous contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "MicroPrecision",
+        "discovered": "2026-01-16 14:44:20.931460",
+        "description": "MicroPrecision specializes in defect-free custom turned and milled products, offering precision manufacturing services to a variety of industries, including medical, automation, and oil and gas.We will upload 10gb of corporate data soon. Lots of operational files, customer data, employee files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Grupo Roa",
+        "discovered": "2026-01-16 13:44:05.349157",
+        "description": "Grupo ROA is a Mexican group of companies operating in the construction and infrastructure sector, founded on March 30, 1995 with the aim of meeting the challenges of large construction projects in the southeastern region of Mexico.",
+        "link": "/blog/c080d02876ae0fd24190edd17c6140ca44b1626050eb86fab1a0a277a116bf3b/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Grupo Roa.png",
+        "group_name": "tengu",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "DigiCOURSE",
+        "discovered": "2026-01-16 13:43:47.154397",
+        "description": "DigiCOURSE is a worldwide industry leader specializing in commandand control positioning systems for offshore marine oil and gas exploration. The company offers a range of services including engineering, customized manufacturing, and non-magnetic calibration among others.We will upload corporate data soon. Employee personal information(passport, IDs and so on), client information, detailed financials, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Industrial Rivet & Fastener Company",
+        "discovered": "2026-01-16 13:43:46.045201",
+        "description": "Industrial Rivet & Fastener Company specializes in a vast range of high-quality rivets and riveting tools, serving distributors and end users in various industries, including automotive.We will upload 36gb of corporate data soon. Employee personal information (SSNs, passports, IDs and so on), HR files, client information, detailed financials, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "CFM Mozambique",
+        "discovered": "2026-01-16 12:43:26.111236",
+        "description": "Business Services",
+        "link": "/site/view?uuid=9c5f4997-a7f0-33db-8dc5-6bffbe7f3a41",
+        "magnet": null,
+        "screen": "screenshots/qilin/CFM Mozambique.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JR Advertising Specialties",
+        "discovered": "2026-01-16 09:42:18.218629",
+        "description": "JR Advertising Specialties Inc specializes in promotional products and business gifts, offering a vast selection to meet various needs. Their product range incl...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Dedman Gray Property Consultants",
         "discovered": "2026-01-16 08:42:53.780755",
         "description": "A full service real estate company from UK",
@@ -25,7 +105,7 @@
         "description": "#HackerAttack #DigitalSecurity #DataLeak #BreachAlert",
         "link": "view_article.php?article=MPhxetFcpRsc7wpgxP5mH68x1Nk8i8Ohh61bAoXre1j2c7q2QP1nvVLMsBcaV5sE",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/leaknet/The Hidden Breach: Why CIDESA Is Avoiding the Full Story.png",
         "group_name": "leaknet",
         "sector": "Unknown"
     },
@@ -148,25 +228,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Paylogix",
-        "discovered": "2026-01-15 15:42:06.924336",
-        "description": "Paylogix is an insuretech pioneer offering premium technology solutions that streamline the administration of voluntary benefits. Their robust suite of services includes enrollment, premium billing, alternative funding, and a software-as-a-service platform tailored for groups of all sizes.We will upload 185gb of corporate data soon. Employee personal information (complete information about 130 employees including SSNs, passports, DLs and so on), client information, detailed financials, internal confidential files, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "McAloon & Friedman",
-        "discovered": "2026-01-15 14:42:59.704214",
-        "description": "McAloon & Friedman, headquartered in New York City, New York, is a full-service law firm. They provide legal representation in a variety of healthcare practice areas, including medical malpractice, general liability, personal injury, and product liability.We will upload 627gb of corporate data soon. Enormous number of legal files (hearings, investigation reports, police reports), client files (SSNs, passports, DLs, death\\birth certs and so on), employee files, financials and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
     }
 ]
