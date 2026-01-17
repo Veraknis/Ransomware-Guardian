@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Nafae Sanitaire S.a.r.l",
+        "discovered": "2026-01-17 19:44:31.508555",
+        "description": "Nafae Sanitaire S.a.r.l A local company in Tangier – Castilla district, specializing in plumbing and sanitary ware (sanitaire, plomberie, chauffage)",
+        "link": "/blog/b4a7f8a258b93ba3de493134d47355ffb5b1247dc32f06d17d036c2fab17c457/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Nafae Sanitaire Sarl.png",
+        "group_name": "tengu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Orthopaedic Specialists of Massachusetts",
+        "discovered": "2026-01-17 18:44:25.415149",
+        "description": "0",
+        "link": "/site/view?uuid=570dc719-84f3-3537-b786-46fae6eb04cf",
+        "magnet": null,
+        "screen": "screenshots/qilin/Orthopaedic Specialists of Massachusetts.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cary Pediatric Center",
+        "discovered": "2026-01-17 15:43:15.466742",
+        "description": "0",
+        "link": "/site/view?uuid=83a9eeb0-57c8-36e8-9857-2d3635169191",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cary Pediatric Center.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "anfibius.net",
         "discovered": "2026-01-17 14:44:06.041194",
         "description": "Anfibius is an Ecuadorian company specializing in providing software solutions and technology services for integrated business and project management.",
@@ -98,45 +128,5 @@
         "screen": "screenshots/eraleign (apt73)/hlcouk.png",
         "group_name": "eraleign (apt73)",
         "sector": "Finance"
-    },
-    {
-        "post_title": "https://comercialautomotriz.com",
-        "discovered": "2026-01-16 19:44:00.828807",
-        "description": "Comercial Automotriz de los Altos S.A. de C.V. is a Mexican small/medium-sized company operating in the automotive and tire sector. It specializes in:\n\nThe sale of tires and auto parts\nMechanical services and maintenance\nRetail sales and spare parts for vehicles\n\nIt operates in several states, including Jalisco, Michoacán, and Aguascalientes, within the Los Altos region of Mexico.",
-        "link": "/blog/56d5ba2b78a185c8232a69cf3e5be18f67f5ee8704a61dd0556b672b5a92e83c/",
-        "magnet": null,
-        "screen": "screenshots/tengu/comercialautomotrizcom.png",
-        "group_name": "tengu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Dongguan HYX Industrial",
-        "discovered": "2026-01-16 17:44:26.975924",
-        "description": "https://en.hoyxn.com https://hyx.manufacturer.globalsources.com/homepage_6008838389834.htm https://www.facebook.com/Cables.Speakers/ https://freshdi.com/supplier/Dongguan-HYX-Industrial-Co-Ltd--DblXWk 25+ Years of Manufacturing Experience Founded in 1998, HYX (Dongguan HYX Industrial Co., Ltd.) is a professional OEM & ODM manufacturer specializing in 3C digital accessories, integrating R&D, design, production, and mass manufacturing. With over 25 years of experience, we support global customers with stable quality, reliable capacity, and long-term manufacturing solutions. BSCI, ISO 14001, ISO/TS 16949, EICC, and ISO 9001 Certifications",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ecsc.org",
-        "discovered": "2026-01-16 17:44:24.844337",
-        "description": "",
-        "link": "/blog/disclosures/696a62638f1d14b743dd523b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ecscorg.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "La Macchia Group",
-        "discovered": "2026-01-16 15:44:48.924821",
-        "description": "La Macchia Group is a comprehensive consulting and design-build firm based in Milwaukee, Wisconsin.We will upload 12gb of corporate data soon. Employee passports, driver licenses and other files, HR files, drawings and specifications, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Professional Services"
     }
 ]
