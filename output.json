@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Ilumno",
+        "discovered": "2026-01-17 08:42:00.576591",
+        "description": "Software",
+        "link": "/site/view?uuid=9f5b5e3a-0e3a-3d34-ac31-a2d090269f7b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ilumno.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "UGS",
+        "discovered": "2026-01-17 08:41:59.522727",
+        "description": "Business Services",
+        "link": "/site/view?uuid=93466c9a-0736-33e6-89bd-bee553f49f05",
+        "magnet": null,
+        "screen": "screenshots/qilin/UGS.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Colacem",
+        "discovered": "2026-01-17 08:41:58.550583",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=9cde3498-8e26-3ca3-9f27-4c6de50f3a77",
+        "magnet": null,
+        "screen": "screenshots/qilin/Colacem.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Laboratorios Smasac",
+        "discovered": "2026-01-17 07:42:01.625366",
+        "description": "Business Services",
+        "link": "/site/view?uuid=bd2149c3-8de3-3674-9846-8bef1e7862e7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Laboratorios Smasac.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fluorsid Spa",
+        "discovered": "2026-01-17 06:42:42.369926",
+        "description": "Business Services",
+        "link": "/site/view?uuid=684eeabb-ed60-3f08-a0d2-e51c04fa6333",
+        "magnet": null,
+        "screen": "screenshots/qilin/Fluorsid Spa.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Central Roofing South Wales",
+        "discovered": "2026-01-17 06:42:41.367666",
+        "description": "Construction",
+        "link": "/site/view?uuid=ddfb1940-3f0b-35b9-a8bd-6c943cec8967",
+        "magnet": null,
+        "screen": "screenshots/qilin/Central Roofing South Wales.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "hl.co.uk",
+        "discovered": "2026-01-16 21:44:10.064656",
+        "description": "The hl.co.uk domain is owned by Hargreaves Lansdown (legal name \"Hargreaves Lansdown Asset Manage...",
+        "link": "/page_company.php?id=125",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/hlcouk.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
         "post_title": "https://comercialautomotriz.com",
         "discovered": "2026-01-16 19:44:00.828807",
         "description": "Comercial Automotriz de los Altos S.A. de C.V. is a Mexican small/medium-sized company operating in the automotive and tire sector. It specializes in:\n\nThe sale of tires and auto parts\nMechanical services and maintenance\nRetail sales and spare parts for vehicles\n\nIt operates in several states, including Jalisco, Michoacán, and Aguascalientes, within the Los Altos region of Mexico.",
@@ -108,85 +178,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Dedman Gray Property Consultants",
-        "discovered": "2026-01-16 08:42:53.780755",
-        "description": "A full service real estate company from UK",
-        "link": "/d19fd82c34beb881a17a/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Dedman Gray Property Consultants.png",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Upper Township",
-        "discovered": "2026-01-16 08:42:52.728250",
-        "description": "A New Jersey local municipal level organization",
-        "link": "/31a696c2ccd7ef9a1b02/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Upper Township.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "The Hidden Breach: Why CIDESA Is Avoiding the Full Story.",
-        "discovered": "2026-01-16 08:42:39.029396",
-        "description": "#HackerAttack #DigitalSecurity #DataLeak #BreachAlert",
-        "link": "view_article.php?article=MPhxetFcpRsc7wpgxP5mH68x1Nk8i8Ohh61bAoXre1j2c7q2QP1nvVLMsBcaV5sE",
-        "magnet": null,
-        "screen": "screenshots/leaknet/The Hidden Breach: Why CIDESA Is Avoiding the Full Story.png",
-        "group_name": "leaknet",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cirrusaviation",
-        "discovered": "2026-01-16 05:42:19.281606",
-        "description": "",
-        "link": "/blog/disclosures/6965055b8f1d14b7437aec6e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cirrusaviation.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NWIMS IT Group",
-        "discovered": "2026-01-16 05:42:17.046893",
-        "description": "NWIMS IT Group provides a complete service for all your technology needs including computer repair and upgrade services for Home and Small Business Users.\n\nThat...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Services"
-    },
-    {
-        "post_title": "sjl-legal.com (Luxembourg, Luxembourg)",
-        "discovered": "2026-01-15 23:44:03.380544",
-        "description": "SJL is a high-end independent business law firm renowned for its savoir faire and reliability. The firm has been created in 2010 as an independent alternative investment funds, finance, corporate and insolvency & restructuring boutique law firm...",
-        "link": "/SJL/index.html",
-        "magnet": null,
-        "screen": "screenshots/ms13-089/sjl-legalcom (Luxembourg, Luxembourg).png",
-        "group_name": "ms13-089",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "PSTECHLTD",
-        "discovered": "2026-01-15 21:44:32.956498",
-        "description": "Business Services",
-        "link": "/site/view?uuid=d27924ef-b66c-3b1d-96e6-0db80427551e",
-        "magnet": null,
-        "screen": "screenshots/qilin/PSTECHLTD.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "1171 Rue Notre Dame O, Victoriaville, QC G6P 7L1, Canada. (819) 758-0313",
-        "discovered": "2026-01-15 21:44:30.182854",
-        "description": "Soteck specializes in air treatment, automation, industrial refrigeration, and energy efficiency, catering specifically to the agri-food sector. They provide co...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Agriculture"
     }
 ]
