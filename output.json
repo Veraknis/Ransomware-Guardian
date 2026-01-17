@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "anfibius.net",
+        "discovered": "2026-01-17 14:44:06.041194",
+        "description": "Anfibius is an Ecuadorian company specializing in providing software solutions and technology services for integrated business and project management.",
+        "link": "/blog/effd2f3a99a333472d7397332f60f208e445cb97d57df4fb019cbbc4e77be843/",
+        "magnet": null,
+        "screen": "screenshots/tengu/anfibiusnet.png",
+        "group_name": "tengu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ccbrt.org",
+        "discovered": "2026-01-17 10:42:52.855392",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "benzona",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "em***int*-ho***.com",
+        "discovered": "2026-01-17 10:42:51.798839",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "benzona",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ilumno",
         "discovered": "2026-01-17 08:42:00.576591",
         "description": "Software",
@@ -108,75 +138,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "Commenco",
-        "discovered": "2026-01-16 14:44:21.966680",
-        "description": "Commenco specializes in Wireless network infrastructure, Private LTE, wireless devices, equipment installations, system deployments, tower maintenance, and technology support services for commercial, industrial, and government operations.We will upload corporate data soon. Client data, payment details,a bit of personal files, financials, NDAs, numerous contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "MicroPrecision",
-        "discovered": "2026-01-16 14:44:20.931460",
-        "description": "MicroPrecision specializes in defect-free custom turned and milled products, offering precision manufacturing services to a variety of industries, including medical, automation, and oil and gas.We will upload 10gb of corporate data soon. Lots of operational files, customer data, employee files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Grupo Roa",
-        "discovered": "2026-01-16 13:44:05.349157",
-        "description": "Grupo ROA is a Mexican group of companies operating in the construction and infrastructure sector, founded on March 30, 1995 with the aim of meeting the challenges of large construction projects in the southeastern region of Mexico.",
-        "link": "/blog/c080d02876ae0fd24190edd17c6140ca44b1626050eb86fab1a0a277a116bf3b/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Grupo Roa.png",
-        "group_name": "tengu",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "DigiCOURSE",
-        "discovered": "2026-01-16 13:43:47.154397",
-        "description": "DigiCOURSE is a worldwide industry leader specializing in commandand control positioning systems for offshore marine oil and gas exploration. The company offers a range of services including engineering, customized manufacturing, and non-magnetic calibration among others.We will upload corporate data soon. Employee personal information(passport, IDs and so on), client information, detailed financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Industrial Rivet & Fastener Company",
-        "discovered": "2026-01-16 13:43:46.045201",
-        "description": "Industrial Rivet & Fastener Company specializes in a vast range of high-quality rivets and riveting tools, serving distributors and end users in various industries, including automotive.We will upload 36gb of corporate data soon. Employee personal information (SSNs, passports, IDs and so on), HR files, client information, detailed financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "CFM Mozambique",
-        "discovered": "2026-01-16 12:43:26.111236",
-        "description": "Business Services",
-        "link": "/site/view?uuid=9c5f4997-a7f0-33db-8dc5-6bffbe7f3a41",
-        "magnet": null,
-        "screen": "screenshots/qilin/CFM Mozambique.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JR Advertising Specialties",
-        "discovered": "2026-01-16 09:42:18.218629",
-        "description": "JR Advertising Specialties Inc specializes in promotional products and business gifts, offering a vast selection to meet various needs. Their product range incl...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
     }
 ]
