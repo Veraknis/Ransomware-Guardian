@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Whitfield Welding Inc",
+        "discovered": "2026-01-19 14:45:30.519733",
+        "description": "Specializing in instrumental welding (TIG, Micro TIG, MIG), microlaser welding, laser cladding, laser hardening, laser engraving, stress relieving, and mechanical processing.",
+        "link": "/posts/696e24c6d0070f8c678de668",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/Whitfield Welding Inc.png",
+        "group_name": "nitrogen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[Apple Data]Luxshare Precision Industry Co. Ltd.",
+        "discovered": "2026-01-19 11:43:53.867432",
+        "description": "",
+        "link": "/r/71e3c79c30915c9a48250c410fff31ed587e6909",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[Apple Data]Luxshare Precision Industry Co Ltd.png",
+        "group_name": "ransomhouse",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Casadei",
         "discovered": "2026-01-19 05:42:47.943339",
         "description": "Manufacturing",
@@ -217,36 +237,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Balneario.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MKC Customs Brokers International Inc.",
-        "discovered": "2026-01-18 15:45:10.334224",
-        "description": "",
-        "link": "/blog/disclosures/696cdebb8f1d14b743060f95",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/MKC Customs Brokers International Inc.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Southern Alberta Community Living Association",
-        "discovered": "2026-01-18 15:45:08.222962",
-        "description": "",
-        "link": "/blog/disclosures/696ce55d8f1d14b74306768b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Southern Alberta Community Living Association.png",
-        "group_name": "inc ransom",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Avraham Hayyim ( Mehrdad Rahimi ) Hacked – Mossad Agent",
-        "discovered": "2026-01-18 13:47:27.308289",
-        "description": "Avraham Hayyim ( Mehrdad Rahimi ) |  (Guiding Officer of Iranian Agents in Mossad’s Iran Desk) Mehrdad Rahimi, serving as the guiding officer for Iranian agents within Mossad’s Iran Desk, attempted to play a major role in organizing and directing networks behind the unrest inside Iran. By managing and directing Iranian operatives, he sought to…",
-        "link": "https://handala-hack.to/avraham-hayyim-mehrdad-rahimi-hacked-mossad-agent/",
-        "magnet": null,
-        "screen": "screenshots/handala/Avraham Hayyim ( Mehrdad Rahimi ) Hacked – Mossad Agent.png",
-        "group_name": "handala",
         "sector": "Unknown"
     }
 ]
