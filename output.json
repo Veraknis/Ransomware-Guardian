@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "abcseamless.com",
+        "discovered": "2026-01-19 19:44:49.617630",
+        "description": "ABC Seamless is a U.S.-based home improvement and exterior construction company that specialises in custom on-site manufactured seamless steel siding, …",
+        "link": "/blog/post/abcseamlesscom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/abcseamlesscom.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "GC Accounting",
+        "discovered": "2026-01-19 19:44:46.214063",
+        "description": "",
+        "link": "/news/GC_Accounting/",
+        "magnet": null,
+        "screen": "screenshots/everest/GC Accounting.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WANCHI STEEL INDUSTRIAL",
+        "discovered": "2026-01-19 19:44:45.253614",
+        "description": "",
+        "link": "/news/WANCHI_STEEL_INDUSTRIAL/",
+        "magnet": null,
+        "screen": "screenshots/everest/WANCHI STEEL INDUSTRIAL.png",
+        "group_name": "everest",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Reeves Information Technology",
+        "discovered": "2026-01-19 19:44:44.342139",
+        "description": "",
+        "link": "/news/Reeves_Information_Technology/",
+        "magnet": null,
+        "screen": "screenshots/everest/Reeves Information Technology.png",
+        "group_name": "everest",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ASRock Rack",
+        "discovered": "2026-01-19 19:44:43.386874",
+        "description": "",
+        "link": "/news/ASRock_Rack/",
+        "magnet": null,
+        "screen": "screenshots/everest/ASRock Rack.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GIBSIN Engineers",
+        "discovered": "2026-01-19 19:44:42.225430",
+        "description": "",
+        "link": "/news/GIBSIN_Engineers/",
+        "magnet": null,
+        "screen": "screenshots/everest/GIBSIN Engineers.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Yumark Enterprises",
+        "discovered": "2026-01-19 17:44:49.085607",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=8aa9df10-680c-3a2d-b5f0-53b159e4174f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Yumark Enterprises.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hilden.in",
+        "discovered": "2026-01-19 16:43:59.776913",
+        "description": "Hilden and Tula Engineering is specialized in the design, manufacturing and installation of complete...",
+        "link": "/post/b06b309497d11b998f527f3f013e8bd7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/hildenin.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "mtspokanepediatrics.com",
+        "discovered": "2026-01-19 16:43:58.862822",
+        "description": "Mt. Spokane Pediatrics offers comprehensive healthcare services for patients from birth through youn...",
+        "link": "/post/35ef344d3021cde0a662c8e11567585c",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/mtspokanepediatricscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "depotnapoli.com",
+        "discovered": "2026-01-19 16:43:57.930545",
+        "description": "DEPOT NAPOLI Il primo Fetish Cruising Bar a Napoli Club dedicato al divertimento e alla diversità co...",
+        "link": "/post/f73e2cce2ece3edc9ff58985850e95a0",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/depotnapolicom.png",
+        "group_name": "lockbit5",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Durashiloh",
+        "discovered": "2026-01-19 16:43:56.183692",
+        "description": "The company specializes in the development, engineering, and manufacturing of various components and systems for the automotive industry and other sectors.",
+        "link": "/posts/696e463fc0a01acfe88de666",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/Durashiloh.png",
+        "group_name": "nitrogen",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Whitfield Welding Inc",
         "discovered": "2026-01-19 14:45:30.519733",
         "description": "Specializing in instrumental welding (TIG, Micro TIG, MIG), microlaser welding, laser cladding, laser hardening, laser engraving, stress relieving, and mechanical processing.",
@@ -187,56 +297,6 @@
         "magnet": null,
         "screen": "screenshots/tengu/GSM PORTAL TEKNOLOJİ HİZMETLERİ TİC LTD ŞTİ.png",
         "group_name": "tengu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "University Volkswagen Mazda",
-        "discovered": "2026-01-18 19:45:52.845692",
-        "description": "Business Services",
-        "link": "/site/view?uuid=b3c1ee55-4179-30d4-b268-3cf8b5710a7d",
-        "magnet": null,
-        "screen": "screenshots/qilin/University Volkswagen Mazda.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Dreher Law Firm",
-        "discovered": "2026-01-18 18:44:16.467474",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=445f6c04-3f96-3784-9c5d-755e3e88fa60",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dreher Law Firm.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Jampen Holzbau AG",
-        "discovered": "2026-01-18 18:44:15.406330",
-        "description": "Construction",
-        "link": "/site/view?uuid=775ab223-0bd0-3716-9a20-6801d2519138",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jampen Holzbau AG.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Vietnam Airlines",
-        "discovered": "2026-01-18 16:45:22.070208",
-        "description": "Business Services",
-        "link": "/site/view?uuid=6176f268-3fbd-336d-b15d-323ef571eee1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Vietnam Airlines.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Balneario",
-        "discovered": "2026-01-18 16:45:20.576358",
-        "description": "0",
-        "link": "/site/view?uuid=0821056c-c11f-3a5b-8353-30b6607007ab",
-        "magnet": null,
-        "screen": "screenshots/qilin/Balneario.png",
-        "group_name": "qilin",
         "sector": "Unknown"
     }
 ]
