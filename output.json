@@ -1,5 +1,235 @@
 [
     {
+        "post_title": "Orthopaedic Specialists of Massachusetts",
+        "discovered": "2026-01-21 14:45:25.760078",
+        "description": "Orthopaedic Specialists of Massachusetts provides superior orthopaedic and sports medicine care through a team of expert surgeons and physicians. Their services include surgical and non-surgical treatments for a variety of orthopaedic issues, such as arthroscopic surgery, joint replacements, and sports medicine. With locations in Norwood, Milton, and Sandwich, MA, they cater to patients of all ages and offer expedited appointments. The practice is dedicated to delivering compassionate care and improving patients' health and quality of life.",
+        "link": "/card/orthopaedic_specialists_of_massachusetts",
+        "magnet": null,
+        "screen": "screenshots/beast/Orthopaedic Specialists of Massachusetts.png",
+        "group_name": "beast",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Jet-care International",
+        "discovered": "2026-01-21 14:45:02.865272",
+        "description": "Jet-care International\nJet-Care provides first-class laboratory services tailored for the Aviation, Industrial, and Marine sectors.\n\n\n\nMore",
+        "link": "archive.php?company=245",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Jet-care International.png",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "KOROLFINANCIAL.COM",
+        "discovered": "2026-01-21 14:07:07.763735",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/KOROLFINANCIALCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TRUSTPAYMENTS.COM",
+        "discovered": "2026-01-21 14:06:17.314661",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/TRUSTPAYMENTSCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BRINKS.CO.NZ",
+        "discovered": "2026-01-21 14:05:51.072328",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/BRINKSCONZ.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MCMATHLAW.COM",
+        "discovered": "2026-01-21 14:05:05.259928",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/MCMATHLAWCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WORKFORCESOFTWARE.COM",
+        "discovered": "2026-01-21 14:04:36.802440",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/WORKFORCESOFTWARECOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KCDWORLDWIDE.COM",
+        "discovered": "2026-01-21 14:04:01.971493",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/KCDWORLDWIDECOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ONYXEQUITIES.COM",
+        "discovered": "2026-01-21 14:03:26.117970",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/ONYXEQUITIESCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "automax.com",
+        "discovered": "2026-01-21 13:45:00.137174",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Syrmasgs",
+        "discovered": "2026-01-21 13:44:59.138071",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "***m*sic.fi",
+        "discovered": "2026-01-21 13:44:58.104890",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.****law.com",
+        "discovered": "2026-01-21 13:44:57.047758",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "***om****s-***.com",
+        "discovered": "2026-01-21 13:44:56.030299",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.mims.com",
+        "discovered": "2026-01-21 13:44:55.029093",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.saundersandsaunders.com",
+        "discovered": "2026-01-21 13:44:53.973650",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "aditusbr.com",
+        "discovered": "2026-01-21 13:44:52.817905",
+        "description": "Since 2011, ADITUS has been working alongside investors as an independent consulting firm specialize...",
+        "link": "/post/43c4c15e5f7ea8831354a4d760353e60",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/aditusbrcom.png",
+        "group_name": "lockbit5",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "us-duct.com",
+        "discovered": "2026-01-21 13:44:51.790687",
+        "description": "US Duct Inc. is an American private company engaged in the design and manufacture of industrial duct...",
+        "link": "/post/1ee0aa4f746ccf0906616cc6ba5a373e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/us-ductcom.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "gob.mx",
+        "discovered": "2026-01-21 13:44:50.571742",
+        "description": "Founded in 2001 and headquartered in Mexico City, Mexico, Sociedad Hipotecaria Federal is a governme...",
+        "link": "/post/83bf3e0160ed719b28b0937383bf541f",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/gobmx.png",
+        "group_name": "lockbit5",
+        "sector": "Government"
+    },
+    {
+        "post_title": "frandent.it",
+        "discovered": "2026-01-21 13:44:49.165303",
+        "description": "L&#039; Azienda\nFrandent\nEzio Bruno fondatore dell&#039;azienda Frandent ha iniziato il suo percor...",
+        "link": "/post/e49b920efb8c62b78a9b7713bf7bfaa0",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/frandentit.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BUREAUX.FR",
+        "discovered": "2026-01-21 13:33:03.087822",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/BUREAUXFR.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "INTEGRITEK.NET",
+        "discovered": "2026-01-21 13:32:14.773675",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/INTEGRITEKNET.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CENTAURPRODUCTS.COM",
+        "discovered": "2026-01-21 13:31:36.932447",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/clop/CENTAURPRODUCTSCOM.png",
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Yource Bulgaria & Greece",
         "discovered": "2026-01-21 03:44:42.031439",
         "description": "",
@@ -377,56 +607,6 @@
         "magnet": null,
         "screen": "screenshots/everest/Ciena.png",
         "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kontena Nasional Berhad",
-        "discovered": "2026-01-20 15:43:17.436724",
-        "description": "Business Services",
-        "link": "/site/view?uuid=6a431ff5-ee0c-3f5e-adad-65ff8b96e3d5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kontena Nasional Berhad.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MecMatica",
-        "discovered": "2026-01-20 14:45:16.384249",
-        "description": "Site: www.mecmatica.it\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Provider of software solutions\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Italy",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "sarcoma",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Might Electronic Co. LTD",
-        "discovered": "2026-01-20 13:44:42.328631",
-        "description": "",
-        "link": "/companies/6990759279",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Might Electronic Co LTD.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.coconutboard.gov.in",
-        "discovered": "2026-01-20 12:44:00.575470",
-        "description": "The Coconut Development Board (CDB) focuses on the promotion and development of coconut cultivation and processing in India. It offers a range of products including virgin coconut oil, desiccated coconut, and coconut milk, catering to both domestic and international markets. The board supports farmers and producer companies through various schemes and technology missions aimed at enhancing productivity and sustainability. Its intended clients include coconut farmers, producers, and consumers interested in coconut-based products.",
-        "link": "/blog/c0b63c60d94025eff1accba59f0f42fd8a932576faf925c2cd5044201bd98676/",
-        "magnet": null,
-        "screen": "screenshots/tengu/wwwcoconutboardgovin.png",
-        "group_name": "tengu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "veenkoloniaalmuseum.nl",
-        "discovered": "2026-01-20 12:43:42.887801",
-        "description": "Welcome to the Veenkoloniaal Museum\nThe museum was founded in 1939 and has been housed in the forme...",
-        "link": "/post/a5b9a007271ae8448d911572bb35952c",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/veenkoloniaalmuseumnl.png",
-        "group_name": "lockbit5",
         "sector": "Unknown"
     }
 ]
