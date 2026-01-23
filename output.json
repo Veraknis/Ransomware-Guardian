@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "West Cary Group",
+        "discovered": "2026-01-23 01:42:48.233983",
+        "description": "West Cary Group is a creative agency that specializes in providing comprehensive...",
+        "link": "/leaks/697128526387a4c9a292ba9b",
+        "magnet": null,
+        "screen": "screenshots/sinobi/West Cary Group.png",
+        "group_name": "sinobi",
+        "sector": "Government"
+    },
+    {
+        "post_title": "minorsgardencenter.com",
+        "discovered": "2026-01-23 00:44:54.250787",
+        "description": "",
+        "link": "/blog/disclosures/6972ae798f1d14b7436591a8",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/minorsgardencentercom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Uinta Bank",
+        "discovered": "2026-01-23 00:44:51.955772",
+        "description": "Established in 1919, Uinta Bank is a community bank headquartered in Mountain View, Wyoming. Uinta Bank is proud to provide community banking to the individuals...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "clarochile.cl",
+        "discovered": "2026-01-22 21:13:36.027521",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/stormous/clarochilecl.png",
+        "group_name": "stormous",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "flbgroup.com",
+        "discovered": "2026-01-22 21:00:27.439627",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/brain cipher/flbgroupcom.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "kisnet.co.jp",
+        "discovered": "2026-01-22 20:59:46.626723",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/brain cipher/kisnetcojp.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "nwlr.ca",
+        "discovered": "2026-01-22 20:59:02.599600",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/brain cipher/nwlrca.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "California Tax Data",
+        "discovered": "2026-01-22 20:46:42.873500",
+        "description": "",
+        "link": "topic.php?id=8RB76PhPYU3A24",
+        "magnet": null,
+        "screen": "screenshots/play/California Tax Data.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
         "post_title": "ECA-USA.COM",
         "discovered": "2026-01-22 20:08:31.638566",
         "description": "",
@@ -277,96 +357,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "OnSight",
-        "discovered": "2026-01-22 01:59:30.853936",
-        "description": "ONSIGHT is a leading production facilities company, specializing in services to ...",
-        "link": "/leaks/6971248e6387a4c9a2929a67",
-        "magnet": null,
-        "screen": "screenshots/sinobi/OnSight.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "PKT QS",
-        "discovered": "2026-01-22 00:26:44.887392",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/blackshrantac/PKT QS.png",
-        "group_name": "blackshrantac",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CE Electronics",
-        "discovered": "2026-01-21 22:56:31.747319",
-        "description": "",
-        "link": "topic.php?id=UVAYMz9FERCJCP",
-        "magnet": null,
-        "screen": "screenshots/play/CE Electronics.png",
-        "group_name": "play",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Cemtech",
-        "discovered": "2026-01-21 22:56:30.410418",
-        "description": "",
-        "link": "topic.php?id=psRTkNPI65dlFL",
-        "magnet": null,
-        "screen": "screenshots/play/Cemtech.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Midway Windows and Doors",
-        "discovered": "2026-01-21 22:56:28.956549",
-        "description": "",
-        "link": "topic.php?id=FBldkNcJDDaA6E",
-        "magnet": null,
-        "screen": "screenshots/play/Midway Windows and Doors.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ShuBee",
-        "discovered": "2026-01-21 21:59:17.472742",
-        "description": "ShuBee is a company providing care wear to service companies. It offers products...",
-        "link": "/leaks/697123006387a4c9a2928f29",
-        "magnet": null,
-        "screen": "screenshots/sinobi/ShuBee.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bayside Dental",
-        "discovered": "2026-01-21 21:59:16.325881",
-        "description": "Are you looking for a dentist in Rowlett, TX, 75088 near Mesquite? Bayside Denta...",
-        "link": "/leaks/697125d56387a4c9a292a31c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Bayside Dental.png",
-        "group_name": "sinobi",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Asian Heart Institute",
-        "discovered": "2026-01-21 21:59:15.024663",
-        "description": "Asian Heart Institute (AHI) is a leading cardiac care hospital located in Mumbai...",
-        "link": "/leaks/697126e26387a4c9a292ab20",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Asian Heart Institute.png",
-        "group_name": "sinobi",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "MODERNISTIC GARDEN & PET  SUPPLY LTD",
-        "discovered": "2026-01-21 21:59:13.725448",
-        "description": "Modernistic Garden and Pet Supply offers a wide range of products for pets and g...",
-        "link": "/leaks/69712d076387a4c9a292e022",
-        "magnet": null,
-        "screen": "screenshots/sinobi/MODERNISTIC GARDEN & PET  SUPPLY LTD.png",
-        "group_name": "sinobi",
         "sector": "Unknown"
     }
 ]
