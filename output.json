@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "tob-bmw.sk",
+        "discovered": "2026-01-23 15:42:59.712527",
+        "description": "",
+        "link": "/blog/disclosures/69737d968f1d14b74372763f",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tob-bmwsk.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IGI Global",
+        "discovered": "2026-01-23 15:42:58.120821",
+        "description": "IGI Global is an international academic publisher committed to producing the highest quality research and ensuring the timely dissemination of innovative research findings through an expeditious and technologically advanced publishing process.We will upload 220gb of corporate data soon. Employee personal information (passports, DLs, credit card details, health information), financials, contracts and agreements, NDA, confidentiality agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "FSB Group",
+        "discovered": "2026-01-23 15:09:42.480789",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lynxr/FSB Group.png",
+        "group_name": "lynxr",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Caprice Holdings",
+        "discovered": "2026-01-23 15:09:10.984500",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lynxr/Caprice Holdings.png",
+        "group_name": "lynxr",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "futamed pharmaceuticals",
+        "discovered": "2026-01-23 15:08:29.861542",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lynxr/futamed pharmaceuticals.png",
+        "group_name": "lynxr",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aschwanden & Partner",
+        "discovered": "2026-01-23 14:43:20.183277",
+        "description": "Aschwanden & Partner AG is a Swiss engineering and planning firm with over 38 years of experience in ensuring safety in planning processes. They offer a range of services including building construction, bridge construction, geotechnics, and earthquake safety studies.We will upload 37gb of corporate data soon.Employee personal information, financials, payment details, detailed information about projects (lots of drawings and specifications) and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "OAB",
+        "discovered": "2026-01-23 13:42:43.021762",
+        "description": "",
+        "link": "/blog/disclosures/697066778f1d14b7433e2170",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/OAB.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "St Andrew's CE High School",
+        "discovered": "2026-01-23 12:42:38.545436",
+        "description": "St Andrew's School Worthing is a co-educational secondary school dedicated to serving the local community in Worthing. The school is undergoing significant renovations to enhance its sports and STEM facilities and aims to be the top choice for secondary education in the area. It prides itself on nurturing an inclusive environment where kindness and aspiration are key values. The school offers a variety of educational programs and extracurricular activities to support student development.",
+        "link": "/card/st_andrew_s_ce_high_school",
+        "magnet": null,
+        "screen": "screenshots/beast/St Andrew's CE High School.png",
+        "group_name": "beast",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Propane Levac Inc.",
+        "discovered": "2026-01-23 10:42:16.642112",
+        "description": "Site: www.propanelevac.ca\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tIndustry: Gas Stations, Retail\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tGEO: Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "sarcoma",
+        "sector": "Energy"
+    },
+    {
         "post_title": "West Cary Group",
         "discovered": "2026-01-23 01:42:48.233983",
         "description": "West Cary Group is a creative agency that specializes in providing comprehensive...",
@@ -288,75 +378,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Spiros Industries",
-        "discovered": "2026-01-22 15:43:47.400149",
-        "description": "Spiros Industries is a custom manufacturing company specializing in precision springs and wire forms, known for its commitment to quality and expertise. They serve various industries, particularly medical, firearms, and packaging, and offer services including prototyping and specialty packaging.We will upload over 20gb of corporate data soon. Detailed employee personal information (w4 forms, passports, DLs medical information, credit cards and so on), customer files, financial and accounting information, contracts and agreements, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CYMA",
-        "discovered": "2026-01-22 14:44:44.106902",
-        "description": "CYMA Systems has been producing payroll and accounting software solutions since 1980. CYMA's most recent accounting and payroll software suite is CYMA Accounting for Windows which offers solutions for mid-sized business with 200+ employees, PEOs, ASOs, Payroll Services, Directed Services (Fiscal / Employer Agents) Franchises, Staffing, and Nonprofit Organizations.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/CYMA.png",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "STRONG WINGS LLP",
-        "discovered": "2026-01-22 13:43:23.297456",
-        "description": "STRONG WINGS LLP is an Indian Limited Liability Partnership operating in the automotive, vehicle maintenance, and related trading sectors, and is officially registered in Pune, Maharashtra, India.",
-        "link": "/blog/ab9f49b923161544d6fc0c3d7cd0bdf867adcfcffa4af758f4ccda040e76f6f9/",
-        "magnet": null,
-        "screen": "screenshots/tengu/STRONG WINGS LLP.png",
-        "group_name": "tengu",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Elmore Goldsmith Kelley & deHoll",
-        "discovered": "2026-01-22 13:43:05.390350",
-        "description": "",
-        "link": "/blog/disclosures/696f63048f1d14b7432dbc14",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Elmore Goldsmith Kelley & deHoll.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "empreinte-hotel.com",
-        "discovered": "2026-01-22 12:42:18.926836",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "benzona",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "*a*ame*i*a.com.g*",
-        "discovered": "2026-01-22 12:42:17.987387",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "benzona",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Service Lane eAdvisor",
-        "discovered": "2026-01-22 11:43:08.051673",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
     }
 ]
