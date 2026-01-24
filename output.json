@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Herzing",
+        "discovered": "2026-01-24 19:43:24.933082",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=98cc6ef4-f2ac-307f-aee6-a97803f50497",
+        "magnet": null,
+        "screen": "screenshots/qilin/Herzing.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HARTE-BAVENDAMM Rechtsanwlte PartG mbB",
+        "discovered": "2026-01-24 19:43:23.887850",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=cc99f984-7920-3a48-9de8-23036c3a3856",
+        "magnet": null,
+        "screen": "screenshots/qilin/HARTE-BAVENDAMM Rechtsanwlte PartG mbB.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Gianni Botsford Architects",
+        "discovered": "2026-01-24 18:40:56.716852",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "LTS Group",
         "discovered": "2026-01-24 15:41:19.860514",
         "description": "",
@@ -118,145 +148,5 @@
         "screen": "screenshots/safepay/rlces.png",
         "group_name": "safepay",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "KPMG",
-        "discovered": "2026-01-23 19:44:34.737240",
-        "description": "KPMG is a professional services firms, providing innovative business solutions and audit, tax, and advisory services to many of the world's largest organizations. KPMG LLP North America is the independent U.S. member firm of KPMG International Cooperative. corp you have 10 days to contact and get in touch.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/KPMG.png",
-        "group_name": "nova",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Supriya Aesthetic Dermatology",
-        "discovered": "2026-01-23 18:43:39.102636",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "YCC Parts Mfg",
-        "discovered": "2026-01-23 18:43:21.197227",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=7e7283e0-1e53-3a8c-858e-4187b35e8721",
-        "magnet": null,
-        "screen": "screenshots/qilin/YCC Parts Mfg.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Warren County Sheriff’s Office",
-        "discovered": "2026-01-23 17:44:40.347392",
-        "description": "",
-        "link": "/r/e4cd804a5963de2c03181a81de621e9668e74b72",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Warren County Sheriff’s Office.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "TREC Group",
-        "discovered": "2026-01-23 16:44:17.963104",
-        "description": "",
-        "link": "topic.php?id=WtNuCuaGufvLlp",
-        "magnet": null,
-        "screen": "screenshots/play/TREC Group.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Encore Roofing",
-        "discovered": "2026-01-23 16:44:16.979228",
-        "description": "",
-        "link": "topic.php?id=zs6nm1GKbtBBBL",
-        "magnet": null,
-        "screen": "screenshots/play/Encore Roofing.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "goldair.gr",
-        "discovered": "2026-01-23 16:44:00.831085",
-        "description": "",
-        "link": "/blog/disclosures/6973856f8f1d14b743731770",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/goldairgr.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JA Riollano, M&W Manufacturing, Mirbeau Hospitality Services, Reuland Electric Motor Co, S",
-        "discovered": "2026-01-23 16:43:59.073740",
-        "description": "We obtained about 28gb of data of the following companies:JA Riollano Co, Inc. is a leading provider of school, office, craft, and copy supplies featuring the largest inventory and varietyof educational products. The company offers online shopping withoptions for in-store pickup or direct shipping to offices.M&W Hydraulics specializes in designing and manufacturing custom hydraulic manifolds for mission-critical applications across various industries. Their services include in-house design, rapid prototyping, and integration, ensuring tailored solutions that meet specific client needs. Mirbeau Inn & Spa offers French-inspired hotel and spa resorts located in Skaneateles, Albany, Rhinebeck, NY, and Plymouth, MA. The company focuses on providing a sanctuary for those seeking balance in their lives, emphasizing a restful ambiance and classic pleasures. Reuland produces standard Electric Motor Laminations as well as Laminations for custom applications. From High Speed Liquid Cooledmotors to standard rated motors, Reuland has a solution for yourapplication.Spectorgroup is a collective of architects, designers, strategists, planners, and problem solvers dedicated to creating inspired spaces that foster teamwork and collaboration. You will find personal employee personal data, medical information, client information, numerous project files, confidential files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Betterment, LLC.",
-        "discovered": "2026-01-23 16:26:02.566750",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/shinyhunters/Betterment, LLC.png",
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Crunchbase, Inc.",
-        "discovered": "2026-01-23 16:25:11.896383",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/shinyhunters/Crunchbase, Inc.png",
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SoundCloud",
-        "discovered": "2026-01-23 16:24:33.104205",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/shinyhunters/SoundCloud.png",
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SPEC 🇺🇸",
-        "discovered": "2026-01-23 16:09:07.210206",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/bravox/SPEC 🇺🇸.png",
-        "group_name": "bravox",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WVPCA 🇺🇸",
-        "discovered": "2026-01-23 16:08:11.755730",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/bravox/WVPCA 🇺🇸.png",
-        "group_name": "bravox",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hood River Dental 🇺🇸",
-        "discovered": "2026-01-23 16:03:28.832463",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/bravox/Hood River Dental 🇺🇸.png",
-        "group_name": "bravox",
-        "sector": "Healthcare"
     }
 ]
