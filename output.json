@@ -1,11 +1,111 @@
 [
     {
+        "post_title": "www.hansemerkurintl.com",
+        "discovered": "2026-01-24 08:41:19.373911",
+        "description": "HanseMerkur, founded in 1875 and headquartered in Germany, is an insurance company specializing in health insurance and other insurance products. The company of...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "www.advancedcoolingtech.us",
+        "discovered": "2026-01-24 08:41:18.319227",
+        "description": "Advanced Cooling Technologies, Inc is a leading provider of medical cooling solutions, specializing in the distribution of Airsys Medical Chillers in the USA. T...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Milott Laboratories",
+        "discovered": "2026-01-24 05:41:42.267957",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=6ac9fa2b-d371-36d9-976e-b5643e3a9468",
+        "magnet": null,
+        "screen": "screenshots/qilin/Milott Laboratories.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hilong Petroleum Pipe Company LLC",
+        "discovered": "2026-01-24 02:42:48.940616",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "****cr*nem*ds.c*m",
+        "discovered": "2026-01-24 02:42:32.267259",
+        "description": "Patient data, medical cards clinic records",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "***-gr*up.com",
+        "discovered": "2026-01-24 02:42:31.287518",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Edmunds.com, Inc.",
+        "discovered": "2026-01-24 02:13:42.658746",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/shinyhunters/Edmundscom, Inc.png",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CarMax, Inc.",
+        "discovered": "2026-01-24 01:00:07.661583",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/shinyhunters/CarMax, Inc.png",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "X-CD Technologies",
+        "discovered": "2026-01-23 23:46:52.027455",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rlc.es",
+        "discovered": "2026-01-23 22:45:53.492188",
+        "description": "RLC Transportes (operating under Rau Load Cargo, S.L.) is a Spanish logistics and freight-transport company based in El Puig de …",
+        "link": "/blog/post/rlces/",
+        "magnet": null,
+        "screen": "screenshots/safepay/rlces.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "KPMG",
         "discovered": "2026-01-23 19:44:34.737240",
         "description": "KPMG is a professional services firms, providing innovative business solutions and audit, tax, and advisory services to many of the world's largest organizations. KPMG LLP North America is the independent U.S. member firm of KPMG International Cooperative. corp you have 10 days to contact and get in touch.",
         "link": "#",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nova/KPMG.png",
         "group_name": "nova",
         "sector": "Legal"
     },
@@ -228,85 +328,5 @@
         "screen": null,
         "group_name": "sarcoma",
         "sector": "Energy"
-    },
-    {
-        "post_title": "West Cary Group",
-        "discovered": "2026-01-23 01:42:48.233983",
-        "description": "West Cary Group is a creative agency that specializes in providing comprehensive...",
-        "link": "/leaks/697128526387a4c9a292ba9b",
-        "magnet": null,
-        "screen": "screenshots/sinobi/West Cary Group.png",
-        "group_name": "sinobi",
-        "sector": "Government"
-    },
-    {
-        "post_title": "minorsgardencenter.com",
-        "discovered": "2026-01-23 00:44:54.250787",
-        "description": "",
-        "link": "/blog/disclosures/6972ae798f1d14b7436591a8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/minorsgardencentercom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Uinta Bank",
-        "discovered": "2026-01-23 00:44:51.955772",
-        "description": "Established in 1919, Uinta Bank is a community bank headquartered in Mountain View, Wyoming. Uinta Bank is proud to provide community banking to the individuals...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "clarochile.cl",
-        "discovered": "2026-01-22 21:13:36.027521",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/stormous/clarochilecl.png",
-        "group_name": "stormous",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "flbgroup.com",
-        "discovered": "2026-01-22 21:00:27.439627",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/brain cipher/flbgroupcom.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kisnet.co.jp",
-        "discovered": "2026-01-22 20:59:46.626723",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/brain cipher/kisnetcojp.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nwlr.ca",
-        "discovered": "2026-01-22 20:59:02.599600",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/brain cipher/nwlrca.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "California Tax Data",
-        "discovered": "2026-01-22 20:46:42.873500",
-        "description": "",
-        "link": "topic.php?id=8RB76PhPYU3A24",
-        "magnet": null,
-        "screen": "screenshots/play/California Tax Data.png",
-        "group_name": "play",
-        "sector": "Technology"
     }
 ]
