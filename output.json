@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "OKIN GROUP",
+        "discovered": "2026-01-25 14:41:59.839033",
+        "description": "Business Services",
+        "link": "/site/view?uuid=03b681ac-20f8-3767-8593-3d7478f56a26",
+        "magnet": null,
+        "screen": "screenshots/qilin/OKIN GROUP.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Şemsioğlu Uşak Ev Tarhanası",
+        "discovered": "2026-01-25 14:41:58.404583",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=4130d458-57c6-360d-ac53-d3761708bec1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Şemsioğlu Uşak Ev Tarhanası.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Handala New Account – Sunset of the lions",
+        "discovered": "2026-01-25 12:41:29.209514",
+        "description": "The youths of resistance’s eyes are wide open; they see and hear everything. When the time comes, their response will be fierce. The Pharaohs of our era, at the height of their power, will realize the strength we hold. The rise of the leopard will mark the sunset of the lions. https://x.com/Handala_news https://x.com/Handala_news https://x.com/Handala_news",
+        "link": "https://handala-hack.to/handala-new-account-sunset-of-the-lions/",
+        "magnet": null,
+        "screen": "screenshots/handala/Handala New Account – Sunset of the lions.png",
+        "group_name": "handala",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Cytek Biosciences",
+        "discovered": "2026-01-25 11:41:37.415071",
+        "description": "Cytek Biosciences\nCytek Biosciences is a leading cell analysis solutions company founded in 1992 and headquartered in Fremont, California with global offices across North America, Europe, and Asia.\n\n\nSold\n\n\n0%\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAll data was sold, stay with us, we will upload new Companies later\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\nMore",
+        "link": "archive.php?company=240",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Cytek Biosciences.png",
+        "group_name": "rhysida",
+        "sector": "Technology"
+    },
+    {
         "post_title": "BIDAIAK BANOA S.L.",
         "discovered": "2026-01-25 06:41:58.207664",
         "description": "",
@@ -187,26 +227,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LTS Group",
-        "discovered": "2026-01-24 15:41:19.860514",
-        "description": "",
-        "link": "/companies/4108690578",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/LTS Group.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MRC Prion Unit and Institute of Prion Diseases",
-        "discovered": "2026-01-24 09:41:34.241874",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
         "sector": "Unknown"
     }
 ]
