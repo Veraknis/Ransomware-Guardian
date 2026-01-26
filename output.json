@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "F&B Mfg",
+        "discovered": "2026-01-26 19:44:50.157446",
+        "description": "",
+        "link": "topic.php?id=YRXvAREh8yDLPv",
+        "magnet": null,
+        "screen": "screenshots/play/F&B Mfg.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Sourcing Group",
+        "discovered": "2026-01-26 19:44:49.239039",
+        "description": "",
+        "link": "topic.php?id=9hS26dMcF51edX",
+        "magnet": null,
+        "screen": "screenshots/play/The Sourcing Group.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ALLMAX",
+        "discovered": "2026-01-26 19:44:48.318876",
+        "description": "",
+        "link": "topic.php?id=oReNOP4jeuqlYR",
+        "magnet": null,
+        "screen": "screenshots/play/ALLMAX.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quantum Fuel Systems Technologies",
+        "discovered": "2026-01-26 19:44:47.331419",
+        "description": "",
+        "link": "topic.php?id=7dXzoQkG7W7gMh",
+        "magnet": null,
+        "screen": "screenshots/play/Quantum Fuel Systems Technologies.png",
+        "group_name": "play",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Aquatic Control",
+        "discovered": "2026-01-26 19:44:46.378960",
+        "description": "",
+        "link": "topic.php?id=xuo5DJHOJgENnA",
+        "magnet": null,
+        "screen": "screenshots/play/Aquatic Control.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Christine London",
+        "discovered": "2026-01-26 19:44:45.458545",
+        "description": "",
+        "link": "topic.php?id=OaIyQ4sDq3WkAj",
+        "magnet": null,
+        "screen": "screenshots/play/Christine London.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Routten & Laster Law",
+        "discovered": "2026-01-26 19:44:44.503744",
+        "description": "",
+        "link": "topic.php?id=CRsXzC0uSp8Dmt",
+        "magnet": null,
+        "screen": "screenshots/play/Routten & Laster Law.png",
+        "group_name": "play",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Joyva",
+        "discovered": "2026-01-26 19:44:43.575926",
+        "description": "",
+        "link": "topic.php?id=AvRHWxrpZZUFKJ",
+        "magnet": null,
+        "screen": "screenshots/play/Joyva.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.shrimphouse.com",
+        "discovered": "2026-01-26 19:44:26.277296",
+        "description": "",
+        "link": "/blog/disclosures/6977ad638f1d14b743b8d731",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwshrimphousecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "sitoy.com",
+        "discovered": "2026-01-26 18:44:35.232007",
+        "description": "sitoy.com 1.7Tb uncompressed data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "abyss-data",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "zHealthEHR — Practice Management Software for Chiropractic & Wellness Clinics",
+        "discovered": "2026-01-26 17:43:14.858867",
+        "description": "zHealthEHR is a cloud-based electronic health record (EHR) and practice management platform built primarily for chiropractors and other wellness providers. It combines clinical documentation, appointment scheduling, patient intake, billing, payments, and automated reminders into a single system, helping small to mid-size practices streamline daily operations. The platform focuses on ease of use, customizable SOAP notes, and patient engagement tools, allowing providers to reduce administrative workload and run their clinics more efficiently through a subscription-based software model.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kazu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "orion",
+        "discovered": "2026-01-26 16:48:52.684021",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orion/orion.png",
+        "group_name": "orion",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Your clicks can earn you a Lamborghini",
+        "discovered": "2026-01-26 16:47:57.319413",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orion/Your clicks can earn you a Lamborghini.png",
+        "group_name": "orion",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Prince & Schmidt LLP",
         "discovered": "2026-01-26 15:43:04.067766",
         "description": "",
@@ -98,255 +228,5 @@
         "screen": "screenshots/qilin/Centrotherm International.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "**.at",
-        "discovered": "2026-01-25 18:42:31.283405",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WRENLAWFIRM.COM",
-        "discovered": "2026-01-25 16:56:45.121247",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LDHRLAW.COM",
-        "discovered": "2026-01-25 16:56:44.060998",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GENESYSSPINE.COM",
-        "discovered": "2026-01-25 16:56:43.150905",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HILTON.COM",
-        "discovered": "2026-01-25 16:56:41.726751",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WEATHER.COM",
-        "discovered": "2026-01-25 16:56:40.778882",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WHISKIJACKRESORTS.COM",
-        "discovered": "2026-01-25 16:56:39.845253",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GROUPAMS.CO.UK",
-        "discovered": "2026-01-25 16:56:38.917416",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RTCCOMPUTERS.COM",
-        "discovered": "2026-01-25 16:56:38.005301",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CCCM.BC.CA",
-        "discovered": "2026-01-25 16:56:37.086858",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TECHNIKEL.CA",
-        "discovered": "2026-01-25 16:56:36.169940",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KAZMILAW.COM",
-        "discovered": "2026-01-25 16:56:35.247683",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WFRFIRE.COM",
-        "discovered": "2026-01-25 16:56:34.305548",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VERTIGORELEASING.COM",
-        "discovered": "2026-01-25 16:56:33.223790",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BR-ALSETH.NO",
-        "discovered": "2026-01-25 16:56:32.314339",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "4DITSOLUTIONS.COM",
-        "discovered": "2026-01-25 16:56:31.372446",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VISTA-TRAINING.COM",
-        "discovered": "2026-01-25 16:56:30.442724",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Education"
-    },
-    {
-        "post_title": "RSTRT.IT",
-        "discovered": "2026-01-25 16:56:29.512764",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "WILDRIDGELANDSCAPE.COM",
-        "discovered": "2026-01-25 16:56:28.583004",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MODTECH.CA",
-        "discovered": "2026-01-25 16:56:27.659816",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INSPYRSOLUTIONS.COM",
-        "discovered": "2026-01-25 16:56:26.723879",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CLEARWAYGROUP.COM",
-        "discovered": "2026-01-25 16:56:25.810923",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EXCELAS1.COM",
-        "discovered": "2026-01-25 16:56:24.811796",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AERIFY.IO",
-        "discovered": "2026-01-25 16:56:23.842491",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ARCHIVE11",
-        "discovered": "2026-01-25 16:56:22.479322",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
     }
 ]
