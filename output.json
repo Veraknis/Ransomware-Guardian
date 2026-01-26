@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Prince & Schmidt LLP",
+        "discovered": "2026-01-26 15:43:04.067766",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Disuelas JC SAS",
+        "discovered": "2026-01-26 14:42:30.142959",
+        "description": "La empresa Disuelas Jc Sas tiene como domicilio principal de su actividad la dirección, CALLE 26 SUR 29 49 en la ciudad de BOGOTA, BOGOTA. El teléfono de Disuelas Jc Sas es el 6016296011. Esta empresa fué constituida como SOCIEDAD POR ACCIONES SIMPLIFICADA y se dedica a Fabricacion de partes del calzado",
+        "link": "/blog/6673701bbd9960d7ab6f9211086523dccd3ffa9c1249f6c78a7f8a8e9471acf9/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Disuelas JC SAS.png",
+        "group_name": "tengu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "premmotors.com",
+        "discovered": "2026-01-26 14:42:29.217726",
+        "description": "Prem Motors is a leading automobile dealership for Maruti Suzuki, established in 1990 and headquartered in Gwalior, India. The company operates 58 showrooms, 43 workshops, and various outlets across multiple states, providing a comprehensive range of services including sales, service, accessories, finance, and insurance. With a strong focus on customer satisfaction and a commitment to quality, Prem Motors has earned numerous awards for its performance and service excellence. The company aims to deliver a unique buying experience and maintain a professional reputation among manufacturers, financiers, and customers alike.",
+        "link": "/blog/752e94e3424c7e1a707ab23360ef3ff73d7cf58cb66b2b8ef5b9c1dc5ccf7ddd/",
+        "magnet": null,
+        "screen": "screenshots/tengu/premmotorscom.png",
+        "group_name": "tengu",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "namico.go.ke",
+        "discovered": "2026-01-26 14:42:28.279771",
+        "description": "The National Mining Corporation (NAMICO) is a Kenyan state corporation that serves as the government's investment arm in the mining and minerals sector. Established under the Kenya Mining Act 2016, its primary objective is the exploration, development, management, and investment of the country's mineral resources on behalf of the state.",
+        "link": "/blog/f48b1e6bde5227d8950b8c30a544e9ba2a6694f6b9f19d8bec21f699ea1abbe8/",
+        "magnet": null,
+        "screen": "screenshots/tengu/namicogoke.png",
+        "group_name": "tengu",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Jakarta Nanyang School",
+        "discovered": "2026-01-26 14:42:26.545890",
+        "description": "Jakarta Nanyang School (JNY) is a co-educational institution catering to students aged 3 to 18, offering a global and progressive educational approach. Established in 2012 in Bumi Serpong Damai, JNY focuses on the holistic development of students, enhancing their academic, moral, physical, social, and emotional growth. The school provides a nurturing environment and a variety of programs including Kindergarten, Primary, Secondary, and Junior College. JNY aims to serve families seeking a comprehensive and innovative educational experience for their children",
+        "link": "/blog/040c040c85339ebb4b2a8f8d865b4d2c5c83121b48c8dfde5436a78b113919fa/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Jakarta Nanyang School.png",
+        "group_name": "tengu",
+        "sector": "Education"
+    },
+    {
+        "post_title": "KREISEL",
+        "discovered": "2026-01-26 09:41:41.152567",
+        "description": "KREISEL Industries GmbH specializes in bulk handling systems, offering tailored conveyor solutions including storage silos, pneumatic transport, and dust collection systems. The company designs, manufactures, and delivers equipment components based on specific performance parameters and technical requirements",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/KREISEL.png",
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Mills Products",
         "discovered": "2026-01-26 04:54:06.397812",
         "description": "Business Services",
@@ -288,45 +348,5 @@
         "screen": null,
         "group_name": "clop",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "OKIN GROUP",
-        "discovered": "2026-01-25 14:41:59.839033",
-        "description": "Business Services",
-        "link": "/site/view?uuid=03b681ac-20f8-3767-8593-3d7478f56a26",
-        "magnet": null,
-        "screen": "screenshots/qilin/OKIN GROUP.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Şemsioğlu Uşak Ev Tarhanası",
-        "discovered": "2026-01-25 14:41:58.404583",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=4130d458-57c6-360d-ac53-d3761708bec1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Şemsioğlu Uşak Ev Tarhanası.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Handala New Account – Sunset of the lions",
-        "discovered": "2026-01-25 12:41:29.209514",
-        "description": "The youths of resistance’s eyes are wide open; they see and hear everything. When the time comes, their response will be fierce. The Pharaohs of our era, at the height of their power, will realize the strength we hold. The rise of the leopard will mark the sunset of the lions. https://x.com/Handala_news https://x.com/Handala_news https://x.com/Handala_news",
-        "link": "https://handala-hack.to/handala-new-account-sunset-of-the-lions/",
-        "magnet": null,
-        "screen": "screenshots/handala/Handala New Account – Sunset of the lions.png",
-        "group_name": "handala",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Cytek Biosciences",
-        "discovered": "2026-01-25 11:41:37.415071",
-        "description": "Cytek Biosciences\nCytek Biosciences is a leading cell analysis solutions company founded in 1992 and headquartered in Fremont, California with global offices across North America, Europe, and Asia.\n\n\nSold\n\n\n0%\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAll data was sold, stay with us, we will upload new Companies later\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\nMore",
-        "link": "archive.php?company=240",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Cytek Biosciences.png",
-        "group_name": "rhysida",
-        "sector": "Technology"
     }
 ]
