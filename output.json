@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Mills Products",
+        "discovered": "2026-01-26 04:54:06.397812",
+        "description": "Business Services",
+        "link": "/site/view?uuid=d48a4ced-4368-394a-ae47-e174dcf9c24d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mills Products.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Langley Twigg Law",
+        "discovered": "2026-01-25 21:43:45.074706",
+        "description": "Personal and Corporate data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5tMytMX6UrzQPtP4ynCEsdJbzW2yWFsoiHx+Yh0Reg0dsJx0gVb6sRuy0tTdPzOBPJJ24FoOCiuC7ViZ7IsbY2ZhSk13eFBv",
+        "magnet": null,
+        "screen": "screenshots/anubis/Langley Twigg Law.png",
+        "group_name": "anubis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Vitosha Park Hotel",
+        "discovered": "2026-01-25 21:43:43.930003",
+        "description": "Employee data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/1pB4YVCtJrA9DFc4mFt0fGX0OwZTi4VDSjFBpWKz8b+zmqifIG6bTDtgzX1mgmKTUqxiRxQRdT3MUTWgqFi0VhrblU2ckha",
+        "magnet": null,
+        "screen": "screenshots/anubis/Vitosha Park Hotel.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Centrotherm International",
+        "discovered": "2026-01-25 21:43:41.475786",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=859824df-f08f-3cfd-a3b2-f3e44d9ff57e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Centrotherm International.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "**.at",
         "discovered": "2026-01-25 18:42:31.283405",
         "description": "",
@@ -288,165 +328,5 @@
         "screen": "screenshots/rhysida/Cytek Biosciences.png",
         "group_name": "rhysida",
         "sector": "Technology"
-    },
-    {
-        "post_title": "BIDAIAK BANOA S.L.",
-        "discovered": "2026-01-25 06:41:58.207664",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aromate Industries Co., Ltd. z",
-        "discovered": "2026-01-25 06:41:57.093518",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lesk Engineers Limited",
-        "discovered": "2026-01-25 06:41:55.955660",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden Growth Biotechnology",
-        "discovered": "2026-01-25 06:41:54.938804",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Successful Match (MD2B)",
-        "discovered": "2026-01-25 06:41:53.879610",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KICKSTAGE",
-        "discovered": "2026-01-25 05:42:34.967060",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MBM",
-        "discovered": "2026-01-24 22:45:39.755834",
-        "description": "https://mbm.edu.pl MBM is a Polish company specializing in professional training, compliance support, and implementation of mandatory procedures for both public institutions and private organizations across the country. They have over eight years of experience delivering vocational training, advisory services, audits, and ready‑to‑use documentation tailored to legal requirements, particularly in areas such as data protection and workplace obligations. Their services include courses on personal data protection and assistance in meeting the requirements of current data privacy laws, helping clients align with GDPR‑related duties and other legal obligations concerning handling and safeguarding personal information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "gsglobalresources.com",
-        "discovered": "2026-01-24 20:43:58.097142",
-        "description": "GS Global Resources (often abbreviated GSGR) is an American industrial engineering and machine-performance solutions company headquartered in Mukwonago, Wisconsin. Founded …",
-        "link": "/blog/post/gsglobalresourcescom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/gsglobalresourcescom.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "lcpublishinggroup.com",
-        "discovered": "2026-01-24 20:43:57.080378",
-        "description": "LC Publishing Group S.p.A. is an international digital publishing and information services company headquartered in Milan, Italy. Founded in 2011, …",
-        "link": "/blog/post/lcpublishinggroupcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/lcpublishinggroupcom.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "adifse.com.ar",
-        "discovered": "2026-01-24 20:43:56.013779",
-        "description": "ADIFSE — formally the Administración de Infraestructuras Ferroviarias Sociedad del Estado — is a state-owned railway infrastructure company in Argentina …",
-        "link": "/blog/post/adifsecomar/",
-        "magnet": null,
-        "screen": "screenshots/safepay/adifsecomar.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "trulinemfg.com",
-        "discovered": "2026-01-24 20:43:54.960713",
-        "description": "Tru-Line Manufacturing Company is an American industrial fabrication firm headquartered in Decatur, Alabama that specialises in the metal fabrication of …",
-        "link": "/blog/post/trulinemfgcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/trulinemfgcom.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "superiordrywall.com",
-        "discovered": "2026-01-24 20:43:53.903341",
-        "description": "Superior Drywall is an established American commercial drywall contracting company based in Oxnard, California, specialising in a range of interior …",
-        "link": "/blog/post/superiordrywallcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/superiordrywallcom.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "interr.com",
-        "discovered": "2026-01-24 20:43:52.737593",
-        "description": "Interr is a privately held security and risk-management services company headquartered at The Loom, 14 Gower’s Walk, London, UK. Established …",
-        "link": "/blog/post/interrcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/interrcom.png",
-        "group_name": "safepay",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Shiffler Equipment Sales",
-        "discovered": "2026-01-24 20:43:36.212308",
-        "description": "Furniture",
-        "link": "/site/view?uuid=36ae2cb1-0934-335b-93b1-ca9a2f396d14",
-        "magnet": null,
-        "screen": "screenshots/qilin/Shiffler Equipment Sales.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Borg Argentina",
-        "discovered": "2026-01-24 20:43:35.179030",
-        "description": "Agriculture",
-        "link": "/site/view?uuid=146a4f03-36b3-3bd4-94b4-be1ba55c05a0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Borg Argentina.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "D & D Building",
-        "discovered": "2026-01-24 20:43:34.160407",
-        "description": "Construction",
-        "link": "/site/view?uuid=ef1fee07-14bf-3c8f-8ce6-09d06bb48a93",
-        "magnet": null,
-        "screen": "screenshots/qilin/D & D Building.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
