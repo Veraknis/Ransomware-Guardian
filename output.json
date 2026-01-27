@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "KSP TLM INDONESIA",
+        "discovered": "2026-01-27 19:42:55.998111",
+        "description": "KSP TLM Indonesia is a large cooperative savings and loan association in Indonesia that focuses on empowering the community economy - especially small and medium-sized female entrepreneurs.",
+        "link": "/blog/c67e84903e2846c4ee156159fe8d168786be2d7d2c0c624739aaa9ded8bba542/",
+        "magnet": null,
+        "screen": "screenshots/tengu/KSP TLM INDONESIA.png",
+        "group_name": "tengu",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Gallagher Transport International",
+        "discovered": "2026-01-27 19:42:33.801017",
+        "description": "Gallagher Transport International is a leading customs broker specializing in pe...",
+        "link": "/leaks/6978eeaf6387a4c9a2db517a",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Gallagher Transport International.png",
+        "group_name": "sinobi",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Ashcraft",
+        "discovered": "2026-01-27 19:42:31.948106",
+        "description": "The Ashcraft Company is a HVAC manufacturers' representative based in the Dallas...",
+        "link": "/leaks/6978fcd36387a4c9a2dbdf4e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Ashcraft.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FRUIT-BONTÉ Agroalimentaire",
+        "discovered": "2026-01-27 18:43:03.188700",
+        "description": "FRUIT-BONTÉ Agroalimentaire is a Tunisian food company operating in the agricultural sector and the production of fruit-based food products.",
+        "link": "/blog/4f79f41d4473a7f8988e6e4b8faad58d60cace55604e0c7b40d27f8bf55fef44/",
+        "magnet": null,
+        "screen": "screenshots/tengu/FRUIT-BONTÉ Agroalimentaire.png",
+        "group_name": "tengu",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Morison Insurance Brokers",
+        "discovered": "2026-01-27 18:42:40.934836",
+        "description": "Morison Insurance Brokers is a leading insurance provider in Ontario, specializi...",
+        "link": "/leaks/6978ec6f6387a4c9a2db42b5",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Morison Insurance Brokers.png",
+        "group_name": "sinobi",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "QualiChem Metalworking",
+        "discovered": "2026-01-27 17:42:05.593795",
+        "description": "QualiChem, Inc. manufactures some of the most advanced metalworking fluids available in the world.",
+        "link": "/posts/6978df8f34c4f7f28c8de668",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/QualiChem Metalworking.png",
+        "group_name": "nitrogen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Abu Dhabi Indian School – Branch 1, Al Wathba",
+        "discovered": "2026-01-27 16:43:09.168394",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Education"
+    },
+    {
+        "post_title": "lenotech.com.ph",
+        "discovered": "2026-01-27 16:43:06.653649",
+        "description": "Lenotech Corporation specializes in a diverse range of technology products, including peripherals, laptops, and storage solutions from well-known brands such as A4tech, Lenovo, and Seagate. Their offerings include advanced gaming mice, high-performance laptops, and reliable dash cameras, catering to both individual consumers and businesses. The company aims to serve tech-savvy clients looking for quality and innovative technology solutions. With a commitment to customer satisfaction, Lenotech also provides marketing and dealer application services",
+        "link": "/blog/99b5f21e6809fa3b3992cf6ba1ef0b3cd8850ff3910cbdd76f9dd2ecd5e68dc9/",
+        "magnet": null,
+        "screen": "screenshots/tengu/lenotechcomph.png",
+        "group_name": "tengu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "COMPAGNIE FONCIÈRE PARISIENNE",
+        "discovered": "2026-01-27 16:43:05.411862",
+        "description": "COMPAGNIE FONCIÈRE PARISIENNE (abbreviated as CFP) is a French company that operates in real estate, specifically in the leasing and management of real estate (renting and managing buildings and land).",
+        "link": "/blog/720acf2ad8b733584750bc37aad17dfbd6accf6634e9ac4ca5348ae0e55f986c/",
+        "magnet": null,
+        "screen": "screenshots/tengu/COMPAGNIE FONCIÈRE PARISIENNE.png",
+        "group_name": "tengu",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "skyegtours.com",
+        "discovered": "2026-01-27 16:42:59.447549",
+        "description": "Sky Egypt specializes in tourism services, offering a range of travel packages and flight tickets. The company aims to provide quality travel experiences to clients looking to explore various destinations. They cater to travelers seeking both budget-friendly and premium options. Sky Egypt emphasizes customer satisfaction and convenience in planning travel itineraries",
+        "link": "/blog/0631acce32e1e6aea1cf162256c9e33ac91992606e9e2551053f25837fea805c/",
+        "magnet": null,
+        "screen": "screenshots/tengu/skyegtourscom.png",
+        "group_name": "tengu",
+        "sector": "Hospitality"
+    },
+    {
         "post_title": "Connor Co",
         "discovered": "2026-01-27 14:43:00.008835",
         "description": "TThe company operates in the wholesale trade of engineering materials and equipment..",
@@ -148,135 +248,5 @@
         "screen": null,
         "group_name": "devman2",
         "sector": "Finance"
-    },
-    {
-        "post_title": "F&B Mfg",
-        "discovered": "2026-01-26 19:44:50.157446",
-        "description": "",
-        "link": "topic.php?id=YRXvAREh8yDLPv",
-        "magnet": null,
-        "screen": "screenshots/play/F&B Mfg.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Sourcing Group",
-        "discovered": "2026-01-26 19:44:49.239039",
-        "description": "",
-        "link": "topic.php?id=9hS26dMcF51edX",
-        "magnet": null,
-        "screen": "screenshots/play/The Sourcing Group.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ALLMAX",
-        "discovered": "2026-01-26 19:44:48.318876",
-        "description": "",
-        "link": "topic.php?id=oReNOP4jeuqlYR",
-        "magnet": null,
-        "screen": "screenshots/play/ALLMAX.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quantum Fuel Systems Technologies",
-        "discovered": "2026-01-26 19:44:47.331419",
-        "description": "",
-        "link": "topic.php?id=7dXzoQkG7W7gMh",
-        "magnet": null,
-        "screen": "screenshots/play/Quantum Fuel Systems Technologies.png",
-        "group_name": "play",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Aquatic Control",
-        "discovered": "2026-01-26 19:44:46.378960",
-        "description": "",
-        "link": "topic.php?id=xuo5DJHOJgENnA",
-        "magnet": null,
-        "screen": "screenshots/play/Aquatic Control.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Christine London",
-        "discovered": "2026-01-26 19:44:45.458545",
-        "description": "",
-        "link": "topic.php?id=OaIyQ4sDq3WkAj",
-        "magnet": null,
-        "screen": "screenshots/play/Christine London.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Routten & Laster Law",
-        "discovered": "2026-01-26 19:44:44.503744",
-        "description": "",
-        "link": "topic.php?id=CRsXzC0uSp8Dmt",
-        "magnet": null,
-        "screen": "screenshots/play/Routten & Laster Law.png",
-        "group_name": "play",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Joyva",
-        "discovered": "2026-01-26 19:44:43.575926",
-        "description": "",
-        "link": "topic.php?id=AvRHWxrpZZUFKJ",
-        "magnet": null,
-        "screen": "screenshots/play/Joyva.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.shrimphouse.com",
-        "discovered": "2026-01-26 19:44:26.277296",
-        "description": "",
-        "link": "/blog/disclosures/6977ad638f1d14b743b8d731",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwshrimphousecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "sitoy.com",
-        "discovered": "2026-01-26 18:44:35.232007",
-        "description": "sitoy.com 1.7Tb uncompressed data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "abyss-data",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "zHealthEHR — Practice Management Software for Chiropractic & Wellness Clinics",
-        "discovered": "2026-01-26 17:43:14.858867",
-        "description": "zHealthEHR is a cloud-based electronic health record (EHR) and practice management platform built primarily for chiropractors and other wellness providers. It combines clinical documentation, appointment scheduling, patient intake, billing, payments, and automated reminders into a single system, helping small to mid-size practices streamline daily operations. The platform focuses on ease of use, customizable SOAP notes, and patient engagement tools, allowing providers to reduce administrative workload and run their clinics more efficiently through a subscription-based software model.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kazu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "orion",
-        "discovered": "2026-01-26 16:48:52.684021",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/orion.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Your clicks can earn you a Lamborghini",
-        "discovered": "2026-01-26 16:47:57.319413",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/orion/Your clicks can earn you a Lamborghini.png",
-        "group_name": "orion",
-        "sector": "Unknown"
     }
 ]
