@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "OEC Medical Systems, Inc",
+        "discovered": "2026-01-27 04:43:22.288075",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Panera Bread",
+        "discovered": "2026-01-27 00:44:55.766037",
+        "description": "Over 14 million records containing Personally Identifiable Information (PII) have been compromised.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "freidarothman.com",
+        "discovered": "2026-01-26 23:46:07.396839",
+        "description": "Based jewelry and accessories brand founded and led by designer Freida Rothman, who grew up in Brooklyn and comes from …",
+        "link": "/blog/post/freidarothmancom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/freidarothmancom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "c*n**lta**i*.com",
+        "discovered": "2026-01-26 23:45:50.223834",
+        "description": "The data contains materials of national security including BIO laboratory facilities blue prints, and infromation regardless US army nitroglycerin supply chain.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Uniflex Technology Inc",
+        "discovered": "2026-01-26 22:47:29.927797",
+        "description": "",
+        "link": "/blog/disclosures/6977d2048f1d14b743bb9795",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Uniflex Technology Inc.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tele Plus",
+        "discovered": "2026-01-26 20:45:08.942347",
+        "description": "",
+        "link": "topic.php?id=b0Z932UKxX02Le",
+        "magnet": null,
+        "screen": "screenshots/play/Tele Plus.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[Apple Data, Additional evidence]Luxshare Precision Industry Co. Ltd.",
+        "discovered": "2026-01-26 20:44:53.157204",
+        "description": "",
+        "link": "/r/4ea57ef77b7b7c70550f48f3d83471dadf84ff52",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[Apple Data, Additional evidence]Luxshare Precision Industry Co Ltd.png",
+        "group_name": "ransomhouse",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "cs.at",
+        "discovered": "2026-01-26 20:44:51.621595",
+        "description": "Insurance data, Hr data, client data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
         "post_title": "F&B Mfg",
         "discovered": "2026-01-26 19:44:50.157446",
         "description": "",
@@ -187,46 +267,6 @@
         "magnet": null,
         "screen": "screenshots/nova/KREISEL.png",
         "group_name": "nova",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Mills Products",
-        "discovered": "2026-01-26 04:54:06.397812",
-        "description": "Business Services",
-        "link": "/site/view?uuid=d48a4ced-4368-394a-ae47-e174dcf9c24d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mills Products.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Langley Twigg Law",
-        "discovered": "2026-01-25 21:43:45.074706",
-        "description": "Personal and Corporate data breach.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5tMytMX6UrzQPtP4ynCEsdJbzW2yWFsoiHx+Yh0Reg0dsJx0gVb6sRuy0tTdPzOBPJJ24FoOCiuC7ViZ7IsbY2ZhSk13eFBv",
-        "magnet": null,
-        "screen": "screenshots/anubis/Langley Twigg Law.png",
-        "group_name": "anubis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Vitosha Park Hotel",
-        "discovered": "2026-01-25 21:43:43.930003",
-        "description": "Employee data breach.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/1pB4YVCtJrA9DFc4mFt0fGX0OwZTi4VDSjFBpWKz8b+zmqifIG6bTDtgzX1mgmKTUqxiRxQRdT3MUTWgqFi0VhrblU2ckha",
-        "magnet": null,
-        "screen": "screenshots/anubis/Vitosha Park Hotel.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Centrotherm International",
-        "discovered": "2026-01-25 21:43:41.475786",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=859824df-f08f-3cfd-a3b2-f3e44d9ff57e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Centrotherm International.png",
-        "group_name": "qilin",
         "sector": "Manufacturing"
     }
 ]
