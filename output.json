@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Philippine Savings Bank (Metrobank Group)",
+        "discovered": "2026-01-28 19:41:51.372230",
+        "description": "Banking",
+        "link": "/site/view?uuid=9c24de06-2b58-3935-b400-76973cb82596",
+        "magnet": null,
+        "screen": "screenshots/qilin/Philippine Savings Bank (Metrobank Group).png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "InfoCom",
+        "discovered": "2026-01-28 19:41:50.371024",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=6435c5bc-0974-3e8a-b79d-bb11f9eea323",
+        "magnet": null,
+        "screen": "screenshots/qilin/InfoCom.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Valbifrut",
+        "discovered": "2026-01-28 19:41:49.411149",
+        "description": "Agriculture",
+        "link": "/site/view?uuid=8569c8cb-5966-34e0-8fd6-e253dd3bd3d2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Valbifrut.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Chu & Yang Dental",
+        "discovered": "2026-01-28 19:41:48.384478",
+        "description": "Healthcare Services",
+        "link": "/site/view?uuid=b43a00b3-61ff-3079-b1ee-afdea244fce1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Chu & Yang Dental.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "KRÜSS",
+        "discovered": "2026-01-28 19:41:47.429299",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=4e146cfe-33be-33a1-8c9b-81db32a9f765",
+        "magnet": null,
+        "screen": "screenshots/qilin/KRÜSS.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Service Broadcasting Group",
+        "discovered": "2026-01-28 19:41:46.303674",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=a8101a63-7d45-37b6-b5e5-8e6e0e7e2880",
+        "magnet": null,
+        "screen": "screenshots/qilin/Service Broadcasting Group.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "NessCampbell",
+        "discovered": "2026-01-28 19:41:45.211945",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=dcfcb5d8-81f3-331e-8458-30ddadc2939f",
+        "magnet": null,
+        "screen": "screenshots/qilin/NessCampbell.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "CMA Flooring & Design",
+        "discovered": "2026-01-28 17:42:50.996512",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Clatronic International",
+        "discovered": "2026-01-28 17:42:30.390028",
+        "description": "",
+        "link": "/companies/clatronic",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Clatronic International.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "**ps.net",
+        "discovered": "2026-01-28 16:43:10.363108",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "***vandenberg.com",
         "discovered": "2026-01-28 15:43:08.265208",
         "description": "Client data, HR data",
@@ -538,105 +638,5 @@
         "screen": "screenshots/inc ransom/newkirklawcom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "KSP TLM INDONESIA",
-        "discovered": "2026-01-27 19:42:55.998111",
-        "description": "KSP TLM Indonesia is a large cooperative savings and loan association in Indonesia that focuses on empowering the community economy - especially small and medium-sized female entrepreneurs.",
-        "link": "/blog/c67e84903e2846c4ee156159fe8d168786be2d7d2c0c624739aaa9ded8bba542/",
-        "magnet": null,
-        "screen": "screenshots/tengu/KSP TLM INDONESIA.png",
-        "group_name": "tengu",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Gallagher Transport International",
-        "discovered": "2026-01-27 19:42:33.801017",
-        "description": "Gallagher Transport International is a leading customs broker specializing in pe...",
-        "link": "/leaks/6978eeaf6387a4c9a2db517a",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Gallagher Transport International.png",
-        "group_name": "sinobi",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Ashcraft",
-        "discovered": "2026-01-27 19:42:31.948106",
-        "description": "The Ashcraft Company is a HVAC manufacturers' representative based in the Dallas...",
-        "link": "/leaks/6978fcd36387a4c9a2dbdf4e",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Ashcraft.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "FRUIT-BONTÉ Agroalimentaire",
-        "discovered": "2026-01-27 18:43:03.188700",
-        "description": "FRUIT-BONTÉ Agroalimentaire is a Tunisian food company operating in the agricultural sector and the production of fruit-based food products.",
-        "link": "/blog/4f79f41d4473a7f8988e6e4b8faad58d60cace55604e0c7b40d27f8bf55fef44/",
-        "magnet": null,
-        "screen": "screenshots/tengu/FRUIT-BONTÉ Agroalimentaire.png",
-        "group_name": "tengu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Morison Insurance Brokers",
-        "discovered": "2026-01-27 18:42:40.934836",
-        "description": "Morison Insurance Brokers is a leading insurance provider in Ontario, specializi...",
-        "link": "/leaks/6978ec6f6387a4c9a2db42b5",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Morison Insurance Brokers.png",
-        "group_name": "sinobi",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "QualiChem Metalworking",
-        "discovered": "2026-01-27 17:42:05.593795",
-        "description": "QualiChem, Inc. manufactures some of the most advanced metalworking fluids available in the world.",
-        "link": "/posts/6978df8f34c4f7f28c8de668",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/QualiChem Metalworking.png",
-        "group_name": "nitrogen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Abu Dhabi Indian School – Branch 1, Al Wathba",
-        "discovered": "2026-01-27 16:43:09.168394",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Education"
-    },
-    {
-        "post_title": "lenotech.com.ph",
-        "discovered": "2026-01-27 16:43:06.653649",
-        "description": "Lenotech Corporation specializes in a diverse range of technology products, including peripherals, laptops, and storage solutions from well-known brands such as A4tech, Lenovo, and Seagate. Their offerings include advanced gaming mice, high-performance laptops, and reliable dash cameras, catering to both individual consumers and businesses. The company aims to serve tech-savvy clients looking for quality and innovative technology solutions. With a commitment to customer satisfaction, Lenotech also provides marketing and dealer application services",
-        "link": "/blog/99b5f21e6809fa3b3992cf6ba1ef0b3cd8850ff3910cbdd76f9dd2ecd5e68dc9/",
-        "magnet": null,
-        "screen": "screenshots/tengu/lenotechcomph.png",
-        "group_name": "tengu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "COMPAGNIE FONCIÈRE PARISIENNE",
-        "discovered": "2026-01-27 16:43:05.411862",
-        "description": "COMPAGNIE FONCIÈRE PARISIENNE (abbreviated as CFP) is a French company that operates in real estate, specifically in the leasing and management of real estate (renting and managing buildings and land).",
-        "link": "/blog/720acf2ad8b733584750bc37aad17dfbd6accf6634e9ac4ca5348ae0e55f986c/",
-        "magnet": null,
-        "screen": "screenshots/tengu/COMPAGNIE FONCIÈRE PARISIENNE.png",
-        "group_name": "tengu",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "skyegtours.com",
-        "discovered": "2026-01-27 16:42:59.447549",
-        "description": "Sky Egypt specializes in tourism services, offering a range of travel packages and flight tickets. The company aims to provide quality travel experiences to clients looking to explore various destinations. They cater to travelers seeking both budget-friendly and premium options. Sky Egypt emphasizes customer satisfaction and convenience in planning travel itineraries",
-        "link": "/blog/0631acce32e1e6aea1cf162256c9e33ac91992606e9e2551053f25837fea805c/",
-        "magnet": null,
-        "screen": "screenshots/tengu/skyegtourscom.png",
-        "group_name": "tengu",
-        "sector": "Hospitality"
     }
 ]
