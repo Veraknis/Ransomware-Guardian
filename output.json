@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "***vandenberg.com",
+        "discovered": "2026-01-28 15:43:08.265208",
+        "description": "Client data, HR data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Family Partnerships of Central Florida",
+        "discovered": "2026-01-28 14:45:09.168354",
+        "description": "",
+        "link": "/news.php?id=1",
+        "magnet": null,
+        "screen": "screenshots/money message/Family Partnerships of Central Florida.png",
+        "group_name": "money message",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RAKS Sp. z o.o.",
+        "discovered": "2026-01-28 14:44:51.989556",
+        "description": "",
+        "link": "/companies/raks",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/RAKS Sp z oo.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pacific Airlines",
+        "discovered": "2026-01-28 14:44:50.844677",
+        "description": "",
+        "link": "/companies/pacific",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Pacific Airlines.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Summit Global Energy",
+        "discovered": "2026-01-28 13:43:32.071008",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Nebula Bio-Tech Labs",
+        "discovered": "2026-01-28 13:43:30.531658",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "tiw-group.com",
+        "discovered": "2026-01-28 11:44:08.312468",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "z*l*c.o*g",
+        "discovered": "2026-01-28 11:44:07.262347",
+        "description": "PII data, SSN´s financial and audit reports.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
         "post_title": "WHOLEIT.COM.AU",
         "discovered": "2026-01-28 09:14:09.017766",
         "description": "",
@@ -558,75 +638,5 @@
         "screen": "screenshots/tengu/skyegtourscom.png",
         "group_name": "tengu",
         "sector": "Hospitality"
-    },
-    {
-        "post_title": "Connor Co",
-        "discovered": "2026-01-27 14:43:00.008835",
-        "description": "TThe company operates in the wholesale trade of engineering materials and equipment..",
-        "link": "/posts/6978b776aa6c2f83ef8de667",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/Connor Co.png",
-        "group_name": "nitrogen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Goodmanagement",
-        "discovered": "2026-01-27 13:42:35.713825",
-        "description": "A professional hospitality management company",
-        "link": "/e4f1965c6340950805ba/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Goodmanagement.png",
-        "group_name": "genesis",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Global Parts & Maintenance",
-        "discovered": "2026-01-27 13:42:34.737402",
-        "description": "Tailored procurement solutions and supply chain management",
-        "link": "/777445ddd41c86b1fc47/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Global Parts & Maintenance.png",
-        "group_name": "genesis",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "IMA Diligence Services (A Division of IMA Financial Group)",
-        "discovered": "2026-01-27 13:42:33.643427",
-        "description": "A provider of financial services",
-        "link": "/a540b155da0a63b229ca/",
-        "magnet": null,
-        "screen": "screenshots/genesis/IMA Diligence Services (A Division of IMA Financial Group).png",
-        "group_name": "genesis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Sukhothai Thammathirat Open University",
-        "discovered": "2026-01-27 13:42:18.337653",
-        "description": "Education",
-        "link": "/site/view?uuid=889ea8f7-6e75-3a8f-96eb-b4f2718085fb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sukhothai Thammathirat Open University.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "MMD Insurance Law Advocates",
-        "discovered": "2026-01-27 10:43:01.991317",
-        "description": "Dedicated to representing homeowners, business owners and condominium associations in insurance disputes",
-        "link": "Companies/mmdinsurancelawadvocate",
-        "magnet": null,
-        "screen": "screenshots/pear/MMD Insurance Law Advocates.png",
-        "group_name": "pear",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "The Trevino Group, Inc",
-        "discovered": "2026-01-27 09:42:27.135442",
-        "description": "",
-        "link": "/blog/disclosures/697874008f1d14b743c7545f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/The Trevino Group, Inc.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
