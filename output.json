@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "NVHG.COM",
+        "discovered": "2026-01-29 08:50:49.331069",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WHEELOCKST.COM",
+        "discovered": "2026-01-29 08:50:48.349880",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DESKTOPG.COM",
+        "discovered": "2026-01-29 08:50:47.118607",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CMHHELI.COM",
+        "discovered": "2026-01-29 08:50:46.149757",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "COWANS.ORG",
+        "discovered": "2026-01-29 08:50:45.165178",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HTHELI.COM",
+        "discovered": "2026-01-29 08:50:44.171060",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GRANITEPOINTE.CA",
+        "discovered": "2026-01-29 08:50:43.136279",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SMTLAWYERS.CA",
+        "discovered": "2026-01-29 08:50:42.173455",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CLOUDDATAWORKS.CA",
+        "discovered": "2026-01-29 08:50:41.170821",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SENSIBLESOLUTIONS.CA",
+        "discovered": "2026-01-29 08:50:39.875194",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KVHELI.WORDPRESS.COM",
+        "discovered": "2026-01-29 08:50:38.851578",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quantum Financial Corp",
+        "discovered": "2026-01-29 07:41:53.660393",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "distinctive-systems.com",
+        "discovered": "2026-01-29 02:42:36.580482",
+        "description": "",
+        "link": "/blog/disclosures/697aa6928f1d14b743f1b357",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/distinctive-systemscom.png",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "RMGA Company: Horsepower: High. Cybersecurity: Optional.",
+        "discovered": "2026-01-29 01:42:10.076856",
+        "description": "#DataBreach #Leaknet #SecurityFail #PrivateData #FreshLeak",
+        "link": "view_article.php?article=FOPja1LFmE5hAVQWWdXkivgFpph4jXLXvTUhId95TSTWNR2hbVduNP3n1ixIYjmB",
+        "magnet": null,
+        "screen": "screenshots/leaknet/RMGA Company: Horsepower: High Cybersecurity: Optional.png",
+        "group_name": "leaknet",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LeMatic",
+        "discovered": "2026-01-29 01:42:00.621822",
+        "description": "LeMatic is a leader in automated baking technology, offering innovations such as...",
+        "link": "/leaks/6978f9026387a4c9a2dbbded",
+        "magnet": null,
+        "screen": "screenshots/sinobi/LeMatic.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tahkout Group",
+        "discovered": "2026-01-28 20:42:14.894968",
+        "description": "Tahkout Group is a large Algerian group of companies (sometimes described as a business alliance) founded and run by Mahieddine Tahkout, a well-known Algerian businessman in the automotive, transport, real estate and industrial sectors.",
+        "link": "/blog/bea2786db52dfebfa78db93284fb6ce438ffccbf69d182abed0147505046c5bf/",
+        "magnet": null,
+        "screen": "screenshots/tengu/Tahkout Group.png",
+        "group_name": "tengu",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Bumble Inc.",
+        "discovered": "2026-01-28 20:42:10.797641",
+        "description": "Thousands of internal documents from Bumble. Our exfiltration focused on documents designated at restricted or confidential. Files primarily from Google Drive and Slack.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Philippine Savings Bank (Metrobank Group)",
         "discovered": "2026-01-28 19:41:51.372230",
         "description": "Banking",
@@ -178,465 +348,5 @@
         "screen": null,
         "group_name": "devman2",
         "sector": "Finance"
-    },
-    {
-        "post_title": "WHOLEIT.COM.AU",
-        "discovered": "2026-01-28 09:14:09.017766",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SKYEEXCAVATIONS.COM.AU",
-        "discovered": "2026-01-28 09:14:08.010109",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ROBERTSDESIGNS.COM.AU",
-        "discovered": "2026-01-28 09:14:07.018671",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Y-ARCHITECTURE.STUDIO",
-        "discovered": "2026-01-28 09:14:06.039820",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VENTNOR.COM.AU",
-        "discovered": "2026-01-28 09:14:01.143492",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RMWGROUP.COM.AU",
-        "discovered": "2026-01-28 09:14:00.104762",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PODIATRYWA.COM.AU",
-        "discovered": "2026-01-28 09:13:59.107133",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MRAGROUP.COM.AU",
-        "discovered": "2026-01-28 09:13:58.112087",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "THEHALEROAD.COM.AU",
-        "discovered": "2026-01-28 09:13:57.136829",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ETTOAUSTRALIA.COM",
-        "discovered": "2026-01-28 09:13:56.164557",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NEXTPHAZE.COM.AU",
-        "discovered": "2026-01-28 09:13:55.130312",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KLMEQUITIES.COM",
-        "discovered": "2026-01-28 09:13:54.101330",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NYASPHALT.COM",
-        "discovered": "2026-01-28 09:13:53.124358",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KRIEGMANANDSMITH.COM",
-        "discovered": "2026-01-28 09:13:52.152889",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ISLANDOUTPOST.COM",
-        "discovered": "2026-01-28 09:13:51.146152",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GALEINTL.COM",
-        "discovered": "2026-01-28 09:13:50.158165",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CENTINELA.COM.BR",
-        "discovered": "2026-01-28 09:13:49.193659",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MCKEEGROUP.NET",
-        "discovered": "2026-01-28 09:13:48.184766",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ESCALI.COM",
-        "discovered": "2026-01-28 09:13:47.180202",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COBU-ARCH.COM",
-        "discovered": "2026-01-28 09:13:46.192535",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ARKTLA.ORG",
-        "discovered": "2026-01-28 09:13:45.214310",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "M-B.LAW",
-        "discovered": "2026-01-28 09:13:44.208214",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Orion Legal Partners",
-        "discovered": "2026-01-28 09:13:23.936530",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Dr. Smith Dental Clinics",
-        "discovered": "2026-01-28 09:13:22.985547",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Rapid Food Distributors",
-        "discovered": "2026-01-28 09:13:21.963600",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Sunrise Manufacturing Ltd.",
-        "discovered": "2026-01-28 09:13:20.995216",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GreenValley Regional College",
-        "discovered": "2026-01-28 09:13:20.025035",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Education"
-    },
-    {
-        "post_title": "TechnoSoft IT Services",
-        "discovered": "2026-01-28 09:13:19.037635",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Apex Logistics Solutions",
-        "discovered": "2026-01-28 09:13:18.084886",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Metropolis City Municipal",
-        "discovered": "2026-01-28 09:13:17.043758",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Government"
-    },
-    {
-        "post_title": "DataBank",
-        "discovered": "2026-01-28 02:43:55.152957",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LGBTQ Center Orange county",
-        "discovered": "2026-01-28 02:43:35.682395",
-        "description": "",
-        "link": "/blog/disclosures/6975dc838f1d14b7439a97ce",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/LGBTQ Center Orange county.png",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "DeRenzis & Associates",
-        "discovered": "2026-01-28 02:43:34.635610",
-        "description": "",
-        "link": "/blog/disclosures/6975dd598f1d14b7439aa7a4",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/DeRenzis & Associates.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Impressico Business Solutions",
-        "discovered": "2026-01-28 01:45:09.097155",
-        "description": "Impressico Digital provide 360° IT solutions to their clients varying from start...",
-        "link": "/leaks/6978f2996387a4c9a2db7b0c",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Impressico Business Solutions.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Affordable Housing Management Overview Metrics",
-        "discovered": "2026-01-28 01:45:08.022906",
-        "description": "Affordable Housing Management, Inc. (AHM, Inc.) is a nonprofit organization esta...",
-        "link": "/leaks/6978f7f06387a4c9a2dbb45a",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Affordable Housing Management Overview Metrics.png",
-        "group_name": "sinobi",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Active Green + Ross",
-        "discovered": "2026-01-28 01:45:07.018806",
-        "description": "Active Green + Ross operates a chain of Complete Tire & Auto Centres across Sout...",
-        "link": "/leaks/6978fa496387a4c9a2dbc7e1",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Active Green + Ross.png",
-        "group_name": "sinobi",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "JP Research",
-        "discovered": "2026-01-28 01:45:05.973918",
-        "description": "JP Research, Inc. is a leading US statistical and engineering research firm prov...",
-        "link": "/leaks/6978fba06387a4c9a2dbd52b",
-        "magnet": null,
-        "screen": "screenshots/sinobi/JP Research.png",
-        "group_name": "sinobi",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "FIAMPACK",
-        "discovered": "2026-01-28 01:45:00.373430",
-        "description": "FIAMPACK is a custom contract packager specializing in packaging solutions for t...",
-        "link": "/leaks/6978feec6387a4c9a2dbf3a2",
-        "magnet": null,
-        "screen": "screenshots/sinobi/FIAMPACK.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "anagnosdoor.com",
-        "discovered": "2026-01-28 00:44:34.828282",
-        "description": "",
-        "link": "/blog/disclosures/69793ed68f1d14b743d62ea1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/anagnosdoorcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nbccministries.org",
-        "discovered": "2026-01-28 00:44:33.824154",
-        "description": "",
-        "link": "/blog/disclosures/697941368f1d14b743d65ad6",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/nbccministriesorg.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Callagy Law Firm",
-        "discovered": "2026-01-28 00:44:32.837061",
-        "description": "",
-        "link": "/blog/disclosures/697942638f1d14b743d66e3f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Callagy Law Firm.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "ttmet.co.th",
-        "discovered": "2026-01-28 00:44:31.830845",
-        "description": "",
-        "link": "/blog/disclosures/697943738f1d14b743d6869e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ttmetcoth.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "twi-group.com",
-        "discovered": "2026-01-27 23:43:20.034322",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Match Group",
-        "discovered": "2026-01-27 22:43:21.474580",
-        "description": "Over 10 million records of Hinge, Match, and OkCupid usage data from Appsflyer and hundreds of internal documents.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "shawhillprimaryschool.org.uk",
-        "discovered": "2026-01-27 22:43:05.133265",
-        "description": "",
-        "link": "/blog/disclosures/697928858f1d14b743d49db8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/shawhillprimaryschoolorguk.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "newkirklaw.com",
-        "discovered": "2026-01-27 21:43:15.068103",
-        "description": "",
-        "link": "/blog/disclosures/697913908f1d14b743d3559a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/newkirklawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
