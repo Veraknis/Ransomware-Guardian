@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "NGC Software",
+        "discovered": "2026-01-29 19:48:03.737090",
+        "description": "",
+        "link": "/companies/ngc",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/NGC Software.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "anomatic.com",
+        "discovered": "2026-01-29 17:46:06.742857",
+        "description": "Founded in 1965 and headquartered in New Albany, Ohio, Anomatic is a full-service manufacturer of anodized aluminum and metalized packaging for the automotive, beauty, personal care, consumer electronics, pharmaceutical, medical devices, and spirits industries worldwide",
+        "link": "/1FH4USInA6Ekbtm3goQMb9UzfAdcpDZT/anomatic-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/anomaticcom.png",
+        "group_name": "chaos",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Crosslists Data",
+        "discovered": "2026-01-29 16:45:45.486925",
+        "description": "Crosslists Data specializes in providing high-quality new business data for marketers across the country. Their services include custom segmentation and data acquisition, catering to a diverse clientele that includes publishers and non-profits.We will upload 21gb of corporate data soon. Employee personal information (passports, DLs, address and so on), customers' financial and accounting files, contracts and agreements, confidential files, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Bantry Bespoke Joinery, Murnane & O'Shea",
+        "discovered": "2026-01-29 16:45:44.496595",
+        "description": "Murnane O'Shea Limited is one of Ireland's leading building contractors with over 60 years of experience, specializing in innovative and quality construction solutions for both residential and commercial projects. Bantry Bespoke Joinery specializes in bespoke joinery, blending traditional craftsmanship with modern manufacturing techniques.We will upload 11gb of corporate data soon. Employee personal information, detailed financials, contracts and agreements, confidential files, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "BrandingBusiness",
         "discovered": "2026-01-29 15:45:31.372540",
         "description": "",
@@ -327,106 +367,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Philippine Savings Bank (Metrobank Group)",
-        "discovered": "2026-01-28 19:41:51.372230",
-        "description": "Banking",
-        "link": "/site/view?uuid=9c24de06-2b58-3935-b400-76973cb82596",
-        "magnet": null,
-        "screen": "screenshots/qilin/Philippine Savings Bank (Metrobank Group).png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "InfoCom",
-        "discovered": "2026-01-28 19:41:50.371024",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=6435c5bc-0974-3e8a-b79d-bb11f9eea323",
-        "magnet": null,
-        "screen": "screenshots/qilin/InfoCom.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Valbifrut",
-        "discovered": "2026-01-28 19:41:49.411149",
-        "description": "Agriculture",
-        "link": "/site/view?uuid=8569c8cb-5966-34e0-8fd6-e253dd3bd3d2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Valbifrut.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Chu & Yang Dental",
-        "discovered": "2026-01-28 19:41:48.384478",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=b43a00b3-61ff-3079-b1ee-afdea244fce1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chu & Yang Dental.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "KRÜSS",
-        "discovered": "2026-01-28 19:41:47.429299",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=4e146cfe-33be-33a1-8c9b-81db32a9f765",
-        "magnet": null,
-        "screen": "screenshots/qilin/KRÜSS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Service Broadcasting Group",
-        "discovered": "2026-01-28 19:41:46.303674",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=a8101a63-7d45-37b6-b5e5-8e6e0e7e2880",
-        "magnet": null,
-        "screen": "screenshots/qilin/Service Broadcasting Group.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "NessCampbell",
-        "discovered": "2026-01-28 19:41:45.211945",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=dcfcb5d8-81f3-331e-8458-30ddadc2939f",
-        "magnet": null,
-        "screen": "screenshots/qilin/NessCampbell.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "CMA Flooring & Design",
-        "discovered": "2026-01-28 17:42:50.996512",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Clatronic International",
-        "discovered": "2026-01-28 17:42:30.390028",
-        "description": "",
-        "link": "/companies/clatronic",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Clatronic International.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "**ps.net",
-        "discovered": "2026-01-28 16:43:10.363108",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
         "sector": "Unknown"
     }
 ]
