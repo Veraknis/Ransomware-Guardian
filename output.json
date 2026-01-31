@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "Neuviz",
+        "discovered": "2026-01-31 06:45:45.024770",
+        "description": "",
+        "link": "/companies/neuviz",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Neuviz.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CigamSoftware",
+        "discovered": "2026-01-31 06:45:44.031757",
+        "description": "",
+        "link": "/companies/cigg",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/CigamSoftware.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pellenc",
+        "discovered": "2026-01-31 06:45:43.023846",
+        "description": "",
+        "link": "/companies/pellenc",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Pellenc.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dolby Laboratories",
+        "discovered": "2026-01-31 06:45:41.947287",
+        "description": "",
+        "link": "/companies/dolby",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Dolby Laboratories.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "all Data",
+        "discovered": "2026-01-31 03:43:14.876542",
+        "description": "Tahkout Group\nskyegtours.com\nKSP TLM INDONESIA\nCOMPAGNIE FONCIÈRE PARISIENNE\nlenotech.com.ph\nJakarta Nanyang School\nnamico.go.ke",
+        "link": "/blog/6d0d46292c86da8821ce6d6287dc39926796ed0bbb804f4fa987cfaff80dcf1c/",
+        "magnet": null,
+        "screen": "screenshots/tengu/all Data.png",
+        "group_name": "tengu",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Wieson Technologies",
+        "discovered": "2026-01-31 03:42:57.079576",
+        "description": "www.wieson.com https://www.zoominfo.com/c/wieson-technologies-co-ltd/128565406 Wieson Technologies specializes in the design and manufacturing of connectors and cable assemblies, with a focus on super high-speed technology and wireless communications. Their product range includes interconnect components, wireless components, medical electronics, and automotive electronics. The company serves various industries such as cloud computing, data communication, and medical electronics. Established in 1990, Wieson Technologies aims to provide innovative solutions to clients in need of advanced electronic connectivity",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Beacon Mutual Insurance",
+        "discovered": "2026-01-31 01:43:22.209935",
+        "description": "",
+        "link": "/blog/disclosures/697bc5858f1d14b743094982",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Beacon Mutual Insurance.png",
+        "group_name": "inc ransom",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Abatix",
+        "discovered": "2026-01-31 00:42:08.365502",
+        "description": "https://www.zoominfo.com/c/abatix-corp/99255 www.abatix.com Foundeded in 1983, Abatix is a supplier of products for the general construction, industrial safety, petrochemical, energy, environmental, hospital, fire and water restoration, and disaster response industries supporting customers across the nation and is headquartered in Mesquite, Texas. Established in 1983 and with branch offices in the Atlanta, Baton Rouge, Chicago, Dallas, Houston, Jacksonville, Las Vegas, Los Angeles, Phoenix, San Antonio, San Diego, San Francisco, Sacramento and Seattle areas, Abatix has grown into a nationally recognized supplier of products for the General Construction, Industrial Safety, Petrochemical, Energy, Environmental, Hospital, Fire and Water Restoration, and Disaster Response industries supporting customers across the nation.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Lawsoft",
+        "discovered": "2026-01-31 00:42:07.214919",
+        "description": "https://www.zoominfo.com/c/lawsoft-inc/354268207 lawsoftweb.com www.lawsoft-inc.com LawSoft, Inc. specializes in providing scalable and customizable software solutions for law enforcement agencies, including Computer-Aided Dispatch (CAD), Records Management Systems (RMS), and Fire EMS systems. Their products aim to streamline reporting and data integration, boasting a user-friendly design and incorporating legacy system data for a cohesive experience. The company emphasizes strong customer service with 24/7, US-based support and partners closely with clients to cater to their specific needs. LawSoft targets law enforcement agencies seeking efficient, effective technology to enhance their operational capabilities",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hydrometrics",
+        "discovered": "2026-01-31 00:42:06.203245",
+        "description": "www.hydrometrics.com https://www.zoominfo.com/c/hydrometrics-inc/18513967 Hydrometrics, Inc. is a Montana-based company that offers professional scientific and engineering services to industrial, commercial, municipal, and private sectors throughout the United States. With over 40 years of experience, they specialize in civil and environmental engineering, water resources and hydrogeology, mine permitting and compliance, and hazardous waste management. Their interdisciplinary approach ensures client satisfaction through reliable and effective solutions tailored to specific project needs. Hydrometrics is committed to empowering environmental responsibility and delivering dependable results.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Röben Tonbaustoffe GmbH",
+        "discovered": "2026-01-31 00:42:03.199290",
+        "description": "https://www.roeben.com https://www.zoominfo.com/c/ro%CC%88ben/430636767 Röben specializes in building ceramics, offering a wide range of products including roofing tiles, clinker bricks, and ceramic floor tiles. The company serves architects, contractors, and homeowners, providing not only products but also professional advice and inspiration for construction projects. Their offerings encompass roofing solutions, facade materials, and indoor ceramics with various colors and styles. With a commitment to quality and design, Röben aims to enhance both aesthetic and functional aspects of residential and public buildings",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "woodwardoralsurgery.com",
+        "discovered": "2026-01-30 22:42:30.728392",
+        "description": "Patient data, med cards",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Technology"
+    },
+    {
         "post_title": "We will be back soon",
         "discovered": "2026-01-30 19:41:29.781993",
         "description": "We are currently preparing all the files of the companies we hacked and will publish them for you. We will disappear for a while to fix some internal issues and will return with a new TENGU RaaS version that everyone can join",
@@ -308,635 +428,5 @@
         "screen": "screenshots/qilin/Tulsa International Airport.png",
         "group_name": "qilin",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "PK PINHÃO & KOIFFMAN ATTORNEYS AT LAW",
-        "discovered": "2026-01-30 08:40:46.630907",
-        "description": "",
-        "link": "/blog/disclosures/697c506e8f1d14b7431387bc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/PK PINHÃO & KOIFFMAN ATTORNEYS AT LAW.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "DIEHL & CELLA ADVOGADOS ASSOCIADOS",
-        "discovered": "2026-01-30 08:40:45.640640",
-        "description": "",
-        "link": "/blog/disclosures/697c55308f1d14b74313e587",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/DIEHL & CELLA ADVOGADOS ASSOCIADOS.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "FutureTech AI",
-        "discovered": "2026-01-30 05:45:15.162023",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Urban Outfitters Ltd",
-        "discovered": "2026-01-30 05:45:14.184263",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "National Rail Network",
-        "discovered": "2026-01-30 05:45:13.184084",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "CryptoVault Exchange",
-        "discovered": "2026-01-30 05:45:12.190489",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Elite Hospitality Group",
-        "discovered": "2026-01-30 05:45:11.175458",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Noble Pharma",
-        "discovered": "2026-01-30 05:45:10.095316",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Rapid Courier Services",
-        "discovered": "2026-01-30 05:45:08.765571",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Global News Corp",
-        "discovered": "2026-01-30 05:45:07.776103",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Zenith Telecom",
-        "discovered": "2026-01-30 05:45:06.805511",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Visionary Architects",
-        "discovered": "2026-01-30 05:45:05.792174",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Titan Construction",
-        "discovered": "2026-01-30 05:45:01.416604",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Metro General Hospital",
-        "discovered": "2026-01-30 05:45:00.461753",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Obsidian Tech Labs",
-        "discovered": "2026-01-30 05:44:59.509022",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Diamond Deep Drilling",
-        "discovered": "2026-01-30 05:44:58.557911",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Solaris Renewable Energy",
-        "discovered": "2026-01-30 05:44:57.555249",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Sapphire Jewelry",
-        "discovered": "2026-01-30 05:44:56.546976",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pacific Ocean Cargo",
-        "discovered": "2026-01-30 05:44:55.542284",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IronClad Security",
-        "discovered": "2026-01-30 05:44:54.538614",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Emerald Agriculture",
-        "discovered": "2026-01-30 05:44:53.543263",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GreenValley Agriculture",
-        "discovered": "2026-01-30 05:44:52.551259",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Crimson Fashion House",
-        "discovered": "2026-01-30 05:44:51.571528",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden Chip Casino",
-        "discovered": "2026-01-30 05:44:50.560180",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "EduTech Systems",
-        "discovered": "2026-01-30 05:44:49.576983",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Silver City Bank",
-        "discovered": "2026-01-30 05:44:48.430003",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Unity Insurance",
-        "discovered": "2026-01-30 05:44:47.447579",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Blue Water Utilities",
-        "discovered": "2026-01-30 05:44:46.491955",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "Harbor Port Authority",
-        "discovered": "2026-01-30 05:44:45.513227",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Ironworks Construction",
-        "discovered": "2026-01-30 05:44:44.505383",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "North Star Media",
-        "discovered": "2026-01-30 05:44:43.511437",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Radiant Solar Farms",
-        "discovered": "2026-01-30 05:44:41.941980",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Kinetic Auto Makers",
-        "discovered": "2026-01-30 05:44:40.161661",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Velocity Automotive",
-        "discovered": "2026-01-30 05:44:39.066478",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Stellar Aviation Parts",
-        "discovered": "2026-01-30 05:44:38.027912",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Quantum Research Labs",
-        "discovered": "2026-01-30 05:44:37.014793",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Noble & Associates Law",
-        "discovered": "2026-01-30 05:44:35.901343",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Pacific Fisheries",
-        "discovered": "2026-01-30 05:44:34.962479",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Apex Law Firm",
-        "discovered": "2026-01-30 05:44:33.909323",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Quantum Physics Lab",
-        "discovered": "2026-01-30 05:44:32.917829",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "BlueSky Aviation",
-        "discovered": "2026-01-30 05:44:31.881608",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Summit Education Trust",
-        "discovered": "2026-01-30 05:44:30.903486",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Horizon Travel Agency",
-        "discovered": "2026-01-30 05:44:29.902469",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Government"
-    },
-    {
-        "post_title": "City Transit Authority",
-        "discovered": "2026-01-30 05:44:28.899942",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Eclipse Software House",
-        "discovered": "2026-01-30 05:44:27.921545",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Omega Manufacturing",
-        "discovered": "2026-01-30 05:44:26.905174",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vanguard Security",
-        "discovered": "2026-01-30 05:44:25.630672",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Meridian Logistics",
-        "discovered": "2026-01-30 05:44:23.905238",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Prime Estate Developers",
-        "discovered": "2026-01-30 05:44:22.598103",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Solstice Energy Grid",
-        "discovered": "2026-01-30 05:44:21.572639",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Nexus IT Services",
-        "discovered": "2026-01-30 05:44:20.506103",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Delta Energy Corp",
-        "discovered": "2026-01-30 05:44:19.506400",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Terra Real Estate",
-        "discovered": "2026-01-30 05:44:18.480867",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Silverline Hospitals",
-        "discovered": "2026-01-30 05:44:17.460489",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Prism Media Network",
-        "discovered": "2026-01-30 05:44:16.420922",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "NeoTech Solutions",
-        "discovered": "2026-01-30 05:44:15.437682",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aegis Defense Systems",
-        "discovered": "2026-01-30 05:44:14.435947",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Omni Retail Group",
-        "discovered": "2026-01-30 05:44:13.421130",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Summit Financial Group",
-        "discovered": "2026-01-30 05:44:12.347764",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Cobalt Mining Corp",
-        "discovered": "2026-01-30 05:44:11.339940",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Global Logistics Hub",
-        "discovered": "2026-01-30 05:44:10.280893",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stratos Aerospace",
-        "discovered": "2026-01-30 05:44:08.377357",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Ruskin College",
-        "discovered": "2026-01-29 22:46:23.919605",
-        "description": "Ruskin College Oxford provides accessible adult learning opportunities for individuals of all ages and backgrounds, offering a variety of courses including degree programs, access courses, and short courses. The college focuses on career-oriented education, ensuring personalized support and small class sizes to help students achieve their academic and professional goals. As part of the University of West London, Ruskin College guarantees high-quality teaching and extensive student support. Their target clients include adults seeking further education, employment readiness, or personal development",
-        "link": "/card/ruskin_college",
-        "magnet": null,
-        "screen": "screenshots/beast/Ruskin College.png",
-        "group_name": "beast",
-        "sector": "Education"
     }
 ]
