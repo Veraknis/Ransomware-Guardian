@@ -1,5 +1,235 @@
 [
     {
+        "post_title": "Bar S Services",
+        "discovered": "2026-01-31 18:42:51.801399",
+        "description": "",
+        "link": "topic.php?id=D4CfsdWAXpbKY0",
+        "magnet": null,
+        "screen": "screenshots/play/Bar S Services.png",
+        "group_name": "play",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "NAI Plotkin",
+        "discovered": "2026-01-31 18:42:50.203672",
+        "description": "",
+        "link": "topic.php?id=Pi6eTRCs0flqzv",
+        "magnet": null,
+        "screen": "screenshots/play/NAI Plotkin.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SoftCore Tech Solutions",
+        "discovered": "2026-01-31 18:42:33.380720",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Prime Port Authorities",
+        "discovered": "2026-01-31 18:42:32.383693",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Titan Mining Corp",
+        "discovered": "2026-01-31 18:42:31.368837",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Skyline Logistics Group",
+        "discovered": "2026-01-31 18:42:30.306643",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "EverGreen Agricultural",
+        "discovered": "2026-01-31 18:42:29.322541",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lumina Advertising",
+        "discovered": "2026-01-31 18:42:28.330219",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Zenith Aerospace",
+        "discovered": "2026-01-31 18:42:27.329253",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Metro Food Wholesalers",
+        "discovered": "2026-01-31 18:42:26.299417",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "IronClad Security Services",
+        "discovered": "2026-01-31 18:42:25.259667",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "CloudLink Systems",
+        "discovered": "2026-01-31 18:42:24.249648",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "EduPro University Group",
+        "discovered": "2026-01-31 18:42:23.267528",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Horizon Energy Partners",
+        "discovered": "2026-01-31 18:42:22.233293",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "alex Retail Solutions",
+        "discovered": "2026-01-31 18:42:21.271419",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "PureStream Water Corp",
+        "discovered": "2026-01-31 18:42:20.304226",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "BioGenix Pharmaceuticals",
+        "discovered": "2026-01-31 18:42:19.266346",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Global Media Alliance",
+        "discovered": "2026-01-31 18:42:18.286026",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Vertex Law Chambers",
+        "discovered": "2026-01-31 18:42:17.293851",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Silverline Auto Mfg",
+        "discovered": "2026-01-31 18:42:16.293877",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Oceanic Cruise Lines",
+        "discovered": "2026-01-31 18:42:15.264808",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Terraform Real Estate",
+        "discovered": "2026-01-31 18:42:14.146758",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Transaction Packing",
+        "discovered": "2026-01-31 16:42:13.474765",
+        "description": "",
+        "link": "topic.php?id=PCVs84UvynMW3X",
+        "magnet": null,
+        "screen": "screenshots/play/Transaction Packing.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Hallauer Law Firm",
         "discovered": "2026-01-31 11:42:24.547962",
         "description": "The go-to firm throughout the Hampton Roads region for Criminal Defense, Family Law, Military Law, and Personal Injury matters",
@@ -128,165 +358,5 @@
         "screen": null,
         "group_name": "devman2",
         "sector": "Technology"
-    },
-    {
-        "post_title": "We will be back soon",
-        "discovered": "2026-01-30 19:41:29.781993",
-        "description": "We are currently preparing all the files of the companies we hacked and will publish them for you. We will disappear for a while to fix some internal issues and will return with a new TENGU RaaS version that everyone can join",
-        "link": "/blog/21d76746113e42307fe8fe34abb2cf5d6582549feab72e9293c63bedfd78b0ad/",
-        "magnet": null,
-        "screen": "screenshots/tengu/We will be back soon.png",
-        "group_name": "tengu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "wjnklaw.com",
-        "discovered": "2026-01-30 18:43:00.890739",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "FluidOne",
-        "discovered": "2026-01-30 18:42:59.497236",
-        "description": "",
-        "link": "/companies/1702029443",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/FluidOne.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "casamedica.com.gt",
-        "discovered": "2026-01-30 17:41:55.850503",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "benzona",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fulcrum Construction",
-        "discovered": "2026-01-30 17:41:37.952979",
-        "description": "Fulcrum Construction is a leading national general contractor that partners with retailers, developers and property owners to connect people with their communities.We will upload 12gb of corporate data soon. Lots of HR files, passports, DLs and other employee documents, internal confidential files, financials, credit cards, confidentiality agreements, contracts and agreements, projects and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AUGUSTEA.COM",
-        "discovered": "2026-01-30 16:35:23.549162",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MEDIAWORLD.COM.HK",
-        "discovered": "2026-01-30 16:35:22.587984",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WARDHAVENCAPITAL.COM",
-        "discovered": "2026-01-30 16:35:21.570983",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LONGHORNORGANICS.COM",
-        "discovered": "2026-01-30 16:35:20.605882",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DCSNORWAY.COM",
-        "discovered": "2026-01-30 16:35:19.648949",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SHACKELFORD.LAW",
-        "discovered": "2026-01-30 16:35:18.513253",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "SERVE-CLOUD.COM",
-        "discovered": "2026-01-30 16:35:17.502327",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MARK-FINN.CO.UK",
-        "discovered": "2026-01-30 16:35:16.493902",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EMEG.CO.UK",
-        "discovered": "2026-01-30 16:35:15.417735",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LOGICALMICRO.COM",
-        "discovered": "2026-01-30 16:35:14.400771",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HODERO HOLDINGS LTD",
-        "discovered": "2026-01-30 16:35:13.224816",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
     }
 ]
