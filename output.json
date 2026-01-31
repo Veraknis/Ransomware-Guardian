@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Hallauer Law Firm",
+        "discovered": "2026-01-31 11:42:24.547962",
+        "description": "The go-to firm throughout the Hampton Roads region for Criminal Defense, Family Law, Military Law, and Personal Injury matters",
+        "link": "Companies/hallauerlaw",
+        "magnet": null,
+        "screen": "screenshots/pear/Hallauer Law Firm.png",
+        "group_name": "pear",
+        "sector": "Defense"
+    },
+    {
         "post_title": "Neuviz",
         "discovered": "2026-01-31 06:45:45.024770",
         "description": "",
@@ -278,155 +288,5 @@
         "screen": null,
         "group_name": "clop",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Northeast IndustrialManufacturing",
-        "discovered": "2026-01-30 15:40:39.947429",
-        "description": "Northeast Industrial Manufacturing (NEIM), founded in 1993, specializes in high-quality goods and services tailored to the waste, recycling, scrap, oil, and gas industries. Their team boasts extensive expertise, committed to delivering optimal services at competitive prices.We will upload 10gb of corporate data soon. Detailed employee personal information, detailed financials, credit cards, payments details, confidentiality agreements, NDA, contracts and agreements,etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Littlefield Companies",
-        "discovered": "2026-01-30 14:39:58.213564",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=f78dd980-fd28-3829-b0f8-0fc6357a375b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Littlefield Companies.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Rich Sport Public",
-        "discovered": "2026-01-30 14:39:56.870748",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=ddcd2577-a257-3449-8c63-325c8c6dc356",
-        "magnet": null,
-        "screen": "screenshots/qilin/Rich Sport Public.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "MBC",
-        "discovered": "2026-01-30 14:39:55.893604",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=48628139-3f79-3e05-94f1-9faf61f5eb85",
-        "magnet": null,
-        "screen": "screenshots/qilin/MBC.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Cooperativa de Hostelería de Navarra",
-        "discovered": "2026-01-30 14:39:54.891399",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=3d04004c-e380-335c-afb8-1f9ed40a57a0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cooperativa de Hostelería de Navarra.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Trace",
-        "discovered": "2026-01-30 14:39:53.921964",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=93bd531a-4a4f-33f5-b66f-c2a7d92f50e8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Trace.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Esperance Communications",
-        "discovered": "2026-01-30 14:39:52.943876",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=33875c9a-32db-3d9c-9ad3-08274558f28f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Esperance Communications.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bryant Consultants",
-        "discovered": "2026-01-30 14:39:51.102351",
-        "description": "Bryant Home specializes in providing comprehensive engineering solutions for the built world, focusing on geotechnical engineering, building envelope consulting, and hydrological analysis.We will upload 10gb of corporate data soon. Detailed employee personal information (health information,scans of personal documents), detailed financials, credit cards, payments details, contractsand agreements, confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "compensatii.gov.md",
-        "discovered": "2026-01-30 13:40:35.982390",
-        "description": "compensatii.gov.md is the official online government platform of the Republic of Moldova, created...",
-        "link": "/page_company.php?id=126",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/compensatiigovmd.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Rocky Mountain Associated Physicians",
-        "discovered": "2026-01-30 12:40:08.670682",
-        "description": "Utah’s Leading Bariatric Specialists, surgical & Medical Weight Loss Solutions in Salt Lake City",
-        "link": "Companies/utahbariatrics",
-        "magnet": null,
-        "screen": "screenshots/pear/Rocky Mountain Associated Physicians.png",
-        "group_name": "pear",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Atlantic National Trust",
-        "discovered": "2026-01-30 12:40:07.414922",
-        "description": "Deals in commercial asset-backed loans, commercial real estate acquisition, secured lending, development and management",
-        "link": "Companies/atlanticnationaltrust",
-        "magnet": null,
-        "screen": "screenshots/pear/Atlantic National Trust.png",
-        "group_name": "pear",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "[Internal database pack 1] Warren County Sheriff’s Office",
-        "discovered": "2026-01-30 11:42:15.847815",
-        "description": "",
-        "link": "/r/8ce952730bfb34a7cab71ff006d41ce7f9403298",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[Internal database pack 1] Warren County Sheriff’s Office.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "shorelinenyc.com",
-        "discovered": "2026-01-30 10:41:52.338847",
-        "description": "Shoreline builders continuously raises the bar in excellence, quality and safety...",
-        "link": "/leaks/697c6c399c439c5f45748ea0",
-        "magnet": null,
-        "screen": "screenshots/lynx/shorelinenyccom.png",
-        "group_name": "lynx",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "www.roschvisionary.com",
-        "discovered": "2026-01-30 10:41:51.348935",
-        "description": "Rosch Visionary Systems specializes in software solutions designed specifically ...",
-        "link": "/leaks/697c706d9c439c5f4574d86d",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwroschvisionarycom.png",
-        "group_name": "lynx",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tulsa International Airport",
-        "discovered": "2026-01-30 09:40:02.769944",
-        "description": "Business Services",
-        "link": "/site/view?uuid=416e12c2-7247-3c6c-8b3b-6a3bb7a694bb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tulsa International Airport.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
     }
 ]
