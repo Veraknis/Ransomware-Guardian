@@ -278,15 +278,5 @@
         "screen": "screenshots/play/Transaction Packing.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Hallauer Law Firm",
-        "discovered": "2026-01-31 11:42:24.547962",
-        "description": "The go-to firm throughout the Hampton Roads region for Criminal Defense, Family Law, Military Law, and Personal Injury matters",
-        "link": "Companies/hallauerlaw",
-        "magnet": null,
-        "screen": "screenshots/pear/Hallauer Law Firm.png",
-        "group_name": "pear",
-        "sector": "Defense"
     }
 ]
