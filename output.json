@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "Sajet Products (Senior Aerospace)",
+        "discovered": "2026-02-03 08:41:44.203176",
+        "description": "We have confirmed that due to ransomware attack in early december, your confidential files were accessed and leaked from your network.",
+        "link": "/article/380c7555-a38b-418a-8048-14771e23d5d0",
+        "magnet": null,
+        "screen": "screenshots/linkc/Sajet Products (Senior Aerospace).png",
+        "group_name": "linkc",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "StrongLink",
+        "discovered": "2026-02-03 08:41:41.927093",
+        "description": "All repositories with Strong Link source code were successfully exfiltrated.",
+        "link": "/article/f6bda96a-5c72-4e90-a32c-5f414e58e9dc",
+        "magnet": null,
+        "screen": "screenshots/linkc/StrongLink.png",
+        "group_name": "linkc",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Linde PLC (UK/Germany)",
+        "discovered": "2026-02-03 05:40:08.311567",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vallourec Tube Manufacturing (France)",
+        "discovered": "2026-02-03 05:40:07.090073",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Honeywell Aerospace (Global/USA)",
+        "discovered": "2026-02-03 05:40:05.683368",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Dassault Systèmes (France)",
+        "discovered": "2026-02-03 05:40:01.217371",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Yara Global Fertilizers (Norway)",
+        "discovered": "2026-02-03 05:40:00.264552",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BASF SE (Germany)",
+        "discovered": "2026-02-03 05:39:58.900176",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ENCOMPASS-INC",
+        "discovered": "2026-02-03 00:41:44.239777",
+        "description": "Finance documents, clients PII",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "https://www.fhcenters.org/",
+        "discovered": "2026-02-02 23:42:12.506388",
+        "description": "Family Health Center",
+        "link": "/post/69811116feb604ea6ee57b01",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwfhcentersorg.png",
+        "group_name": "termite",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Muebles Dico",
+        "discovered": "2026-02-02 18:40:52.746264",
+        "description": "Furniture",
+        "link": "/site/view?uuid=d239dbb2-34ba-370b-97de-f81cb0e5e330",
+        "magnet": null,
+        "screen": "screenshots/qilin/Muebles Dico.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ChokChey Finance",
+        "discovered": "2026-02-02 18:40:51.396349",
+        "description": "",
+        "link": "/blog/disclosures/6980d22f8f1d14b7436bdbca",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ChokChey Finance.png",
+        "group_name": "inc ransom",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Erickson Thorpe & Swainston",
+        "discovered": "2026-02-02 18:40:49.073459",
+        "description": "The law firm of Erickson, Thorpe & Swainston was founded in 1969. Since then, the firm has effectively and successfully represented its clients in state and fed...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Medinah School District 11",
+        "discovered": "2026-02-02 17:40:33.686083",
+        "description": "Education",
+        "link": "/site/view?uuid=9d923f57-52c6-310b-bc40-be6f6b2ea7a8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Medinah School District 11.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "www.pucobre.cl",
+        "discovered": "2026-02-02 17:40:32.354783",
+        "description": "",
+        "link": "/blog/disclosures/6980c9b98f1d14b7436aff76",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwpucobrecl.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JST Power Equipment",
+        "discovered": "2026-02-02 16:39:48.221378",
+        "description": "Founded in 1993, J.S.T. provides product development of any electric connection systems in products like amusement equipment, audio and visual equipment, household appliances, office equipment, industrial equipment, automobiles, and traffic systems.We will upload 70gb of corporate data soon. Employee information,financials, confidential clients information, large amount of projects files, contracts and agreements, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Elabs",
+        "discovered": "2026-02-02 16:39:45.044665",
+        "description": "Elabs\nElabs is a pioneer in IT services in Germany, delivering innovative IT solutions that enable businesses to harness modern technology for added value and transformation.\n\n\n\nMore",
+        "link": "archive.php?company=246",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Elabs.png",
+        "group_name": "rhysida",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "KOUEI",
         "discovered": "2026-02-02 15:39:47.626273",
         "description": "Business Services",
@@ -118,185 +288,5 @@
         "screen": "screenshots/the green blood group/🇪🇬 ECOBAT EGYPT.png",
         "group_name": "the green blood group",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Jcm Agricola",
-        "discovered": "2026-02-02 07:46:05.365919",
-        "description": "Consumer Services",
-        "link": "/site/view?uuid=326b5082-c44a-323d-9751-845ec539f249",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jcm Agricola.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INGUS",
-        "discovered": "2026-02-02 07:46:01.447638",
-        "description": "Agriculture",
-        "link": "/site/view?uuid=e76562a5-3295-3414-908b-9778f0bc3f9d",
-        "magnet": null,
-        "screen": "screenshots/qilin/INGUS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sprokkit",
-        "discovered": "2026-02-02 07:46:00.428173",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=4ad73744-e7b7-3d78-8808-45b929b0a632",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sprokkit.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Stephenson Ziegenhorn & Bernard",
-        "discovered": "2026-02-02 07:45:59.126864",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=41f47f0e-68ff-3b21-a221-e3fa7c34a4b4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Stephenson Ziegenhorn & Bernard.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Best Attorneys",
-        "discovered": "2026-02-02 06:45:14.916152",
-        "description": "",
-        "link": "/blog/disclosures/697e0f238f1d14b743361209",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Best Attorneys.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Polycom",
-        "discovered": "2026-02-02 02:46:18.883914",
-        "description": "",
-        "link": "/news/Polycom/",
-        "magnet": null,
-        "screen": "screenshots/everest/Polycom.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Iron Mountain",
-        "discovered": "2026-02-02 02:46:17.886258",
-        "description": "",
-        "link": "/news/Iron_Mountain/",
-        "magnet": null,
-        "screen": "screenshots/everest/Iron Mountain.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*****",
-        "discovered": "2026-02-02 01:44:28.671020",
-        "description": "An interesting non-profit organization",
-        "link": "/fcd4cf149b70eb39f2f0/",
-        "magnet": null,
-        "screen": "screenshots/genesis/*****.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Distron: The Leak That Could Threaten National Security",
-        "discovered": "2026-02-02 00:44:03.372371",
-        "description": "#SystemCompromised #BreachAlert #DataLeak #SecurityAlert",
-        "link": "view_article.php?article=ZNlJTUCUr18t5jo41YmauCKY8z8cID3IlJZiMYcnW4P2HSzrlXUBZjBv6yRE5zGi",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leaknet",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Shinwa Co Ltd",
-        "discovered": "2026-02-01 22:43:31.686759",
-        "description": "",
-        "link": "/news/Shinwa_Co_Ltd/",
-        "magnet": null,
-        "screen": "screenshots/everest/Shinwa Co Ltd.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hosowaka Micron Group",
-        "discovered": "2026-02-01 22:43:30.634200",
-        "description": "",
-        "link": "/news/Hosowaka_Micron_Group/",
-        "magnet": null,
-        "screen": "screenshots/everest/Hosowaka Micron Group.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "T & M Electric LLC",
-        "discovered": "2026-02-01 21:43:35.653602",
-        "description": "T&M Electric LLC is a state certified full-service electrical contractor based in northeast Florida, specializing in residential and commercial electrical insta...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Deatak",
-        "discovered": "2026-02-01 18:43:01.366002",
-        "description": "",
-        "link": "topic.php?id=MTsLYVIkuSlCAS",
-        "magnet": null,
-        "screen": "screenshots/play/Deatak.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stellium",
-        "discovered": "2026-02-01 17:42:22.436901",
-        "description": "",
-        "link": "/news/Stellium/",
-        "magnet": null,
-        "screen": "screenshots/everest/Stellium.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Acu Trans Solutions LLC",
-        "discovered": "2026-02-01 17:42:21.406719",
-        "description": "",
-        "link": "/news/Acu_Trans_Solutions_LLC/",
-        "magnet": null,
-        "screen": "screenshots/everest/Acu Trans Solutions LLC.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SIGMA Processing Group",
-        "discovered": "2026-02-01 17:42:20.429688",
-        "description": "",
-        "link": "/news/SIGMA_Processing_Group/",
-        "magnet": null,
-        "screen": "screenshots/everest/SIGMA Processing Group.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Foamtec International",
-        "discovered": "2026-02-01 17:42:03.267902",
-        "description": "",
-        "link": "/blog/disclosures/697f74318f1d14b7434f0b08",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Foamtec International.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Odyssey Academy",
-        "discovered": "2026-02-01 16:44:20.700240",
-        "description": "https://www.odyssey-academy.com\n\t\t\t\t\t\t\t\t\tOdyssey Academy is a free public charter school. This school educates and prepares children for adulthood, but a large amount of data has become publicly available due to the disrespectful and negligent attitude of its staff and administration. As a result, student and staff data and the school's records, including full financial reports and other confidential documentation, have been compromised.",
-        "link": "http://2tlkuy2qn7bfxyvbfpxqaqveoezctbrnk6yvbvin6dueiuk4rdoosyqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Odyssey Academy.png",
-        "group_name": "interlock",
-        "sector": "Education"
     }
 ]
