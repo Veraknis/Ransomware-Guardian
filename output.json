@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Jingchang Enterprise Co., Ltd",
+        "discovered": "2026-02-03 16:41:08.143123",
+        "description": "Business Services",
+        "link": "/site/view?uuid=95291e6f-8755-3a7f-a2c5-55053d53122f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jingchang Enterprise Co, Ltd.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PTI",
+        "discovered": "2026-02-03 16:41:06.267460",
+        "description": "PTI offers inspection systems for package leak testing, seal integrity, and container closure integrity testing (CCIT). Their technologies exclude subjectivity from package testing and use test methods that conform to ASTM standards. The company is based in Hawthorne, New York.We will upload corporate data soon. Financials, personal docs of upper management, a bit of projects information and other internal files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Drake Precision Dental Laboratory",
+        "discovered": "2026-02-03 16:41:05.295449",
+        "description": "Drake Dental Lab specializes in creating esthetic dental solutions, offering a range of products including crowns, bridges, dentures, implants, clear aligners, and sleep appliances. Since 1956, the company has been dedicated to precision and innovation in digital dentistry.We will upload 39gb of corporate data soon. Employee personal information (SSNs and other information of more than 120 employees),financials, NDAs, contracts and agreements, customers' information.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Forella Group",
+        "discovered": "2026-02-03 16:41:01.401827",
+        "description": "Forella is a Minority Business Enterprise (MBE) that offers a range of services including cost estimating analyses, CPM P6 schedule management, constructability reviews, and project management. They specialize in expert investigations and dispute resolution, providing construction economics services to their clients.We will upload 457gb of corporate data soon. Detailed employee personal information (SSNs, passports, DLs, health information, credit cards and so on), financials, NDAs, contracts and agreements,confidential projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Rosenblum Schwartz &Fry",
         "discovered": "2026-02-03 15:42:28.514785",
         "description": "Rosenblum Schwartz & Fry, P.C., provides strong legal representation against misdemeanor and felony criminal charges.We will upload 1.3tb of corporate data soon. Detailed informationabout clients (passports, DLs, SSNs, medical information, financials and so on), employee information, lots of legal files, confidential ones, court files, police reports and so on.",
@@ -668,75 +708,5 @@
         "screen": "screenshots/termite/wwwfhcentersorg.png",
         "group_name": "termite",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Muebles Dico",
-        "discovered": "2026-02-02 18:40:52.746264",
-        "description": "Furniture",
-        "link": "/site/view?uuid=d239dbb2-34ba-370b-97de-f81cb0e5e330",
-        "magnet": null,
-        "screen": "screenshots/qilin/Muebles Dico.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ChokChey Finance",
-        "discovered": "2026-02-02 18:40:51.396349",
-        "description": "",
-        "link": "/blog/disclosures/6980d22f8f1d14b7436bdbca",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ChokChey Finance.png",
-        "group_name": "inc ransom",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Erickson Thorpe & Swainston",
-        "discovered": "2026-02-02 18:40:49.073459",
-        "description": "The law firm of Erickson, Thorpe & Swainston was founded in 1969. Since then, the firm has effectively and successfully represented its clients in state and fed...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Medinah School District 11",
-        "discovered": "2026-02-02 17:40:33.686083",
-        "description": "Education",
-        "link": "/site/view?uuid=9d923f57-52c6-310b-bc40-be6f6b2ea7a8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Medinah School District 11.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "www.pucobre.cl",
-        "discovered": "2026-02-02 17:40:32.354783",
-        "description": "",
-        "link": "/blog/disclosures/6980c9b98f1d14b7436aff76",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwpucobrecl.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JST Power Equipment",
-        "discovered": "2026-02-02 16:39:48.221378",
-        "description": "Founded in 1993, J.S.T. provides product development of any electric connection systems in products like amusement equipment, audio and visual equipment, household appliances, office equipment, industrial equipment, automobiles, and traffic systems.We will upload 70gb of corporate data soon. Employee information,financials, confidential clients information, large amount of projects files, contracts and agreements, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Elabs",
-        "discovered": "2026-02-02 16:39:45.044665",
-        "description": "Elabs\nElabs is a pioneer in IT services in Germany, delivering innovative IT solutions that enable businesses to harness modern technology for added value and transformation.\n\n\n\nMore",
-        "link": "archive.php?company=246",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Elabs.png",
-        "group_name": "rhysida",
-        "sector": "Unknown"
     }
 ]
