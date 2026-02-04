@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Ashby Computers",
+        "discovered": "2026-02-04 18:41:08.775241",
+        "description": "IT service data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/C6FErg2xMJR0Nan08pg5kLBFO5F++dRDHqZIgInQCrAv44Ypb+xpmqAMROOcXqvXyIYQQ912M12Bd1WXjZhha0o2VVFsN3FK",
+        "magnet": null,
+        "screen": "screenshots/anubis/Ashby Computers.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "🇸🇳 DAF SENEGAL",
+        "discovered": "2026-02-04 18:41:03.364453",
+        "description": "Department of Records Automation (DAF) is a Senegalese governmental agency operating under the Ministry of the Interior and Public Security. The agency manages national population databases, issues biometric identity cards (CNI CEDEAO), processes foreign national identity documentation, and maintains other critical civil registration systems.",
+        "link": "targets/daf-senegal/index.html",
+        "magnet": null,
+        "screen": "screenshots/the green blood group/🇸🇳 DAF SENEGAL.png",
+        "group_name": "the green blood group",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Karl Geuther",
+        "discovered": "2026-02-04 17:40:20.514445",
+        "description": "Karl Geuther & Co. operates in five business areas: shipping, stevedoring/port handling, transport logistics/freight forwarding, mail order, and tourism.We will upload 45gb of corporate data soon. Employee documents (IDs, passports, DLs, birth certs), financials, contracts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Richey Tax Solutions",
+        "discovered": "2026-02-04 16:40:27.457904",
+        "description": "Richey Tax Solutions LLC, based in Tucson, AZ, specializes in small business consulting, income tax preparation, and retirement and tax planning. The firm is known for its professional, experienced, and affordable services tailored for retirees, business owners, executives, and independent professionals.We will upload 25gb of corporate data soon. They refused to save client's data. SSNs, passports, DLs, death/birth certs, financials information, correspondence and other confidential files, legalfiles, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "www.trisa.ch",
         "discovered": "2026-02-04 15:39:15.487673",
         "description": "TRISA AG specializes in the development and production of high-quality oral care...",
@@ -638,45 +678,5 @@
         "screen": "screenshots/inc ransom/Western New York Energy.png",
         "group_name": "inc ransom",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Jingchang Enterprise Co., Ltd",
-        "discovered": "2026-02-03 16:41:08.143123",
-        "description": "Business Services",
-        "link": "/site/view?uuid=95291e6f-8755-3a7f-a2c5-55053d53122f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jingchang Enterprise Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PTI",
-        "discovered": "2026-02-03 16:41:06.267460",
-        "description": "PTI offers inspection systems for package leak testing, seal integrity, and container closure integrity testing (CCIT). Their technologies exclude subjectivity from package testing and use test methods that conform to ASTM standards. The company is based in Hawthorne, New York.We will upload corporate data soon. Financials, personal docs of upper management, a bit of projects information and other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Drake Precision Dental Laboratory",
-        "discovered": "2026-02-03 16:41:05.295449",
-        "description": "Drake Dental Lab specializes in creating esthetic dental solutions, offering a range of products including crowns, bridges, dentures, implants, clear aligners, and sleep appliances. Since 1956, the company has been dedicated to precision and innovation in digital dentistry.We will upload 39gb of corporate data soon. Employee personal information (SSNs and other information of more than 120 employees),financials, NDAs, contracts and agreements, customers' information.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Forella Group",
-        "discovered": "2026-02-03 16:41:01.401827",
-        "description": "Forella is a Minority Business Enterprise (MBE) that offers a range of services including cost estimating analyses, CPM P6 schedule management, constructability reviews, and project management. They specialize in expert investigations and dispute resolution, providing construction economics services to their clients.We will upload 457gb of corporate data soon. Detailed employee personal information (SSNs, passports, DLs, health information, credit cards and so on), financials, NDAs, contracts and agreements,confidential projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
