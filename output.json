@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "RC Collecting",
+        "discovered": "2026-02-04 06:42:11.470757",
+        "description": "Automotive Parts",
+        "link": "/site/view?uuid=de63ba79-2cfe-382d-b3b6-c3a52230aca1",
+        "magnet": null,
+        "screen": "screenshots/qilin/RC Collecting.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "GC Dental",
+        "discovered": "2026-02-04 04:43:20.434106",
+        "description": "A Sensational Smile Can Be Yours at GC DentalWelcome to GC Dental, where our priority is your comfort, confidence, and health. Hurstville Dentists Dr George Chammas and Dr Mita Dahal and their team provide a complete dental experience tailored to your needs, ensuring you receive care that supports your wellbeing and lifestyle. From routine check-ups to advanced cosmetic and restorative options, our services are designed to bring out your best smile.- Database- Personal data of patients\nhttps://www.gcdental.com.au/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/110/gc-dental",
+        "magnet": null,
+        "screen": "screenshots/space bears/GC Dental.png",
+        "group_name": "space bears",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "University of Pennsylvania",
+        "discovered": "2026-02-04 04:43:15.664589",
+        "description": "\"Fewer than 10 records\"* ;)  containing PII and donation data have been compromised.   *: More like 1.2 million",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Harvard University",
+        "discovered": "2026-02-04 04:43:14.253462",
+        "description": "Over 1 million records containing PII and donation data have been compromised. This is the direct result of advisors advising you against paying a ransom. It has the opposite effect. Do NOT provoke us again and pay the ransom when we contact you.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Crystal Coast Pain Management",
+        "discovered": "2026-02-04 01:43:40.257254",
+        "description": "SSN, medical data, medical cards",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "devman2",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Interplan",
+        "discovered": "2026-02-03 21:44:07.157899",
+        "description": "",
+        "link": "/companies/9255855374",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Interplan.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "peterboroughpublichealth.ca",
+        "discovered": "2026-02-03 21:44:06.001518",
+        "description": "Lakelands Public Health, formerly known as the HKPR District Health Unit and Pet...",
+        "link": "/leaks/698253b19c439c5f45deb8ba",
+        "magnet": null,
+        "screen": "screenshots/lynx/peterboroughpublichealthca.png",
+        "group_name": "lynx",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Western New York Energy",
+        "discovered": "2026-02-03 20:42:28.839309",
+        "description": "",
+        "link": "/blog/disclosures/697d08af8f1d14b7432181d9",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Western New York Energy.png",
+        "group_name": "inc ransom",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Jingchang Enterprise Co., Ltd",
         "discovered": "2026-02-03 16:41:08.143123",
         "description": "Business Services",
@@ -607,106 +687,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "0apt",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Sajet Products (Senior Aerospace)",
-        "discovered": "2026-02-03 08:41:44.203176",
-        "description": "We have confirmed that due to ransomware attack in early december, your confidential files were accessed and leaked from your network.",
-        "link": "/article/380c7555-a38b-418a-8048-14771e23d5d0",
-        "magnet": null,
-        "screen": "screenshots/linkc/Sajet Products (Senior Aerospace).png",
-        "group_name": "linkc",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "StrongLink",
-        "discovered": "2026-02-03 08:41:41.927093",
-        "description": "All repositories with Strong Link source code were successfully exfiltrated.",
-        "link": "/article/f6bda96a-5c72-4e90-a32c-5f414e58e9dc",
-        "magnet": null,
-        "screen": "screenshots/linkc/StrongLink.png",
-        "group_name": "linkc",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Linde PLC (UK/Germany)",
-        "discovered": "2026-02-03 05:40:08.311567",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vallourec Tube Manufacturing (France)",
-        "discovered": "2026-02-03 05:40:07.090073",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Honeywell Aerospace (Global/USA)",
-        "discovered": "2026-02-03 05:40:05.683368",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Dassault Systèmes (France)",
-        "discovered": "2026-02-03 05:40:01.217371",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Yara Global Fertilizers (Norway)",
-        "discovered": "2026-02-03 05:40:00.264552",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BASF SE (Germany)",
-        "discovered": "2026-02-03 05:39:58.900176",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "0apt",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ENCOMPASS-INC",
-        "discovered": "2026-02-03 00:41:44.239777",
-        "description": "Finance documents, clients PII",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "https://www.fhcenters.org/",
-        "discovered": "2026-02-02 23:42:12.506388",
-        "description": "Family Health Center",
-        "link": "/post/69811116feb604ea6ee57b01",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwfhcentersorg.png",
-        "group_name": "termite",
         "sector": "Healthcare"
     }
 ]
