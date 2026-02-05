@@ -1,5 +1,165 @@
 [
     {
+        "post_title": "University of Applied Sciences,Worms",
+        "discovered": "2026-02-05 08:43:05.468884",
+        "description": "Education",
+        "link": "/site/view?uuid=53f208de-a186-3184-87eb-b408e65bbbc6",
+        "magnet": null,
+        "screen": "screenshots/qilin/University of Applied Sciences,Worms.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Conpet S.A. (COTE.RO)",
+        "discovered": "2026-02-05 08:43:03.836208",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/view?uuid=5479c4af-4071-3fd7-b872-aa04507ba5fe",
+        "magnet": null,
+        "screen": "screenshots/qilin/Conpet SA (COTERO).png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "John O's Foods 🇨🇦",
+        "discovered": "2026-02-05 01:42:25.934784",
+        "description": "The company operates in the field of processing and supply of fish products.",
+        "link": "/blog/961e79ef-8642-475c-8604-0ba880ba5b33",
+        "magnet": null,
+        "screen": "screenshots/bravox/John O's Foods 🇨🇦.png",
+        "group_name": "bravox",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AOT  Japan",
+        "discovered": "2026-02-05 01:42:21.183738",
+        "description": "",
+        "link": "/blog/disclosures/697b7ec68f1d14b74303bbd8",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/AOT  Japan.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Virginia Records - Database Leaked",
+        "discovered": "2026-02-05 00:43:22.402171",
+        "description": "",
+        "link": "/news/Virginia_Records/",
+        "magnet": null,
+        "screen": "screenshots/everest/Virginia Records - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GC Accounting - Database Leaked",
+        "discovered": "2026-02-05 00:43:21.399351",
+        "description": "",
+        "link": "/news/GC_Accounting/",
+        "magnet": null,
+        "screen": "screenshots/everest/GC Accounting - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WANCHI STEEL INDUSTRIAL - Database Leaked",
+        "discovered": "2026-02-05 00:43:20.406298",
+        "description": "",
+        "link": "/news/WANCHI_STEEL_INDUSTRIAL/",
+        "magnet": null,
+        "screen": "screenshots/everest/WANCHI STEEL INDUSTRIAL - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Reeves Information Technology - Database Leaked",
+        "discovered": "2026-02-05 00:43:19.365710",
+        "description": "",
+        "link": "/news/Reeves_Information_Technology/",
+        "magnet": null,
+        "screen": "screenshots/everest/Reeves Information Technology - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ASRock Rack - Database Leaked",
+        "discovered": "2026-02-05 00:43:18.346689",
+        "description": "",
+        "link": "/news/ASRock_Rack/",
+        "magnet": null,
+        "screen": "screenshots/everest/ASRock Rack - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GIBSIN Engineers - Database Leaked",
+        "discovered": "2026-02-05 00:43:17.334576",
+        "description": "",
+        "link": "/news/GIBSIN_Engineers/",
+        "magnet": null,
+        "screen": "screenshots/everest/GIBSIN Engineers - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ciena - Database Leaked",
+        "discovered": "2026-02-05 00:43:15.819979",
+        "description": "",
+        "link": "/news/Ciena/",
+        "magnet": null,
+        "screen": "screenshots/everest/Ciena - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "brooklyn group",
+        "discovered": "2026-02-04 23:43:17.801514",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "megasilver.com.tw",
+        "discovered": "2026-02-04 21:42:06.197125",
+        "description": "Megasilver Information System Co., Ltd. (Chinese: 兆銀資訊系統股份有限公司) is a Taiwanese company engaged in information technology services and software system development, especially in digital service solutions and intelligent operating systems.",
+        "link": "/blog/30e47bb0863906821793d4c00e09821bcae53f5b31419e6964b3a41cee88dec7/",
+        "magnet": null,
+        "screen": "screenshots/tengu/megasilvercomtw.png",
+        "group_name": "tengu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ISTS",
+        "discovered": "2026-02-04 21:42:01.143028",
+        "description": "",
+        "link": "topic.php?id=2rGfugyQmCHJFt",
+        "magnet": null,
+        "screen": "screenshots/play/ISTS.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CBH Homes",
+        "discovered": "2026-02-04 21:42:00.164893",
+        "description": "",
+        "link": "topic.php?id=vfXFCBqSe2Y4D",
+        "magnet": null,
+        "screen": "screenshots/play/CBH Homes.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Woodfield",
+        "discovered": "2026-02-04 21:41:58.856985",
+        "description": "",
+        "link": "topic.php?id=QrCQ8NKAycf5nR",
+        "magnet": null,
+        "screen": "screenshots/play/Woodfield.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ashby Computers",
         "discovered": "2026-02-04 18:41:08.775241",
         "description": "IT service data breach.",
@@ -598,85 +758,5 @@
         "screen": "screenshots/rhysida/Lakeside Union School District.png",
         "group_name": "rhysida",
         "sector": "Education"
-    },
-    {
-        "post_title": "RC Collecting",
-        "discovered": "2026-02-04 06:42:11.470757",
-        "description": "Automotive Parts",
-        "link": "/site/view?uuid=de63ba79-2cfe-382d-b3b6-c3a52230aca1",
-        "magnet": null,
-        "screen": "screenshots/qilin/RC Collecting.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "GC Dental",
-        "discovered": "2026-02-04 04:43:20.434106",
-        "description": "A Sensational Smile Can Be Yours at GC DentalWelcome to GC Dental, where our priority is your comfort, confidence, and health. Hurstville Dentists Dr George Chammas and Dr Mita Dahal and their team provide a complete dental experience tailored to your needs, ensuring you receive care that supports your wellbeing and lifestyle. From routine check-ups to advanced cosmetic and restorative options, our services are designed to bring out your best smile.- Database- Personal data of patients\nhttps://www.gcdental.com.au/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/110/gc-dental",
-        "magnet": null,
-        "screen": "screenshots/space bears/GC Dental.png",
-        "group_name": "space bears",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "University of Pennsylvania",
-        "discovered": "2026-02-04 04:43:15.664589",
-        "description": "\"Fewer than 10 records\"* ;)  containing PII and donation data have been compromised.   *: More like 1.2 million",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Harvard University",
-        "discovered": "2026-02-04 04:43:14.253462",
-        "description": "Over 1 million records containing PII and donation data have been compromised. This is the direct result of advisors advising you against paying a ransom. It has the opposite effect. Do NOT provoke us again and pay the ransom when we contact you.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Crystal Coast Pain Management",
-        "discovered": "2026-02-04 01:43:40.257254",
-        "description": "SSN, medical data, medical cards",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "devman2",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Interplan",
-        "discovered": "2026-02-03 21:44:07.157899",
-        "description": "",
-        "link": "/companies/9255855374",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Interplan.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "peterboroughpublichealth.ca",
-        "discovered": "2026-02-03 21:44:06.001518",
-        "description": "Lakelands Public Health, formerly known as the HKPR District Health Unit and Pet...",
-        "link": "/leaks/698253b19c439c5f45deb8ba",
-        "magnet": null,
-        "screen": "screenshots/lynx/peterboroughpublichealthca.png",
-        "group_name": "lynx",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Western New York Energy",
-        "discovered": "2026-02-03 20:42:28.839309",
-        "description": "",
-        "link": "/blog/disclosures/697d08af8f1d14b7432181d9",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Western New York Energy.png",
-        "group_name": "inc ransom",
-        "sector": "Energy"
     }
 ]
