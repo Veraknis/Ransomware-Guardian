@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Parente Fireworks",
+        "discovered": "2026-02-06 19:42:53.273962",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=8b658149-e12f-3bdc-9319-96af3a182957",
+        "magnet": null,
+        "screen": "screenshots/qilin/Parente Fireworks.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vortex Companies",
+        "discovered": "2026-02-06 17:41:23.413443",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Telia Norge AS",
+        "discovered": "2026-02-06 17:41:22.411371",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ESENTIA Energy Systems",
+        "discovered": "2026-02-06 17:41:21.109224",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Bay Ship & Yacht",
+        "discovered": "2026-02-06 16:39:38.939445",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Prater Engineering Associates",
+        "discovered": "2026-02-06 16:39:37.941259",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Logility",
+        "discovered": "2026-02-06 16:39:35.459625",
+        "description": "",
+        "link": "/companies/logility",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Logility.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "TriPartum",
         "discovered": "2026-02-06 15:41:08.870047",
         "description": "TriPartum specializes in creating clear and engaging customer communications for sectors such as finance, insurance, utilities, telecommunications, retail, and housing providers. They focus on customer communication management and experience, delivering solutions that optimize personalized critical mailings.We will upload almost 70gb of corporate data soon. Employee information (passports, DLs and other personal information, credit cards), financials, customers information, projects, NDAs, etc.",
@@ -178,55 +248,5 @@
         "screen": "screenshots/sinobi/Reilly Foam Corp.png",
         "group_name": "sinobi",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Yulkok Ltd",
-        "discovered": "2026-02-05 17:44:27.292078",
-        "description": "Yulkok Ltd. (South Korea)",
-        "link": "/card/yulkok_ltd",
-        "magnet": null,
-        "screen": "screenshots/beast/Yulkok Ltd.png",
-        "group_name": "beast",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[Internal database pack 2] Warren County Sheriff’s Office",
-        "discovered": "2026-02-05 16:43:26.509307",
-        "description": "",
-        "link": "/r/04e1ecc83f66a962233cb148d505d48dd27e8948",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[Internal database pack 2] Warren County Sheriff’s Office.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Farsound Aviation",
-        "discovered": "2026-02-05 16:43:22.893616",
-        "description": "Farsound Aviation Limited specializes in aerospace supply chain management, offering personalized care tailored to each client's unique needs. Their services include custom kitting solutions, direct line feed options, and vending machine provisions, primarily targeted at the aerospace sector for efficiently delivering aircraft engine parts.We will upload corporate data soon. Employee information, projects, financials, contracts and agreements, customers info, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "United Hospital Supply",
-        "discovered": "2026-02-05 16:43:21.744067",
-        "description": "Fenco Solutions is a leading American manufacturer specializing in laboratory-related products, including lab casework, tables, safety cabinets, fume hoods, and biosafety cabinets. The company offers a wide range of services such as lab design, consulting, installations, renovations, project management, and expedited supplyservices.We will upload 39gb of corporate data soon. Employee information,w-9 forms, projects, financials, contracts and agreements, customers info, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Perpetuuiti",
-        "discovered": "2026-02-05 16:43:08.557799",
-        "description": "An initial analysis of the structure and names of the files revealed that the directory contains software source codes, configuration and installation files, ba...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
     }
 ]
