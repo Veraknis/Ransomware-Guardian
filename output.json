@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "Advent Aircraft Systems, Inc.",
+        "discovered": "2026-02-06 03:44:20.175663",
+        "description": "Data breach on aerospace developments.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/4cE5Ccf6iBUOzCID0xKzwRGq1oC8wrzhxArRfv3P2Q+Przzka+yAyMJlIIqWYI5C8+1sML4TNHEZRUGUcmg0SlpvOU1m",
+        "magnet": null,
+        "screen": "screenshots/anubis/Advent Aircraft Systems, Inc.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Esposito Bros. Construction Ltd",
+        "discovered": "2026-02-06 03:44:16.010035",
+        "description": "Esposito Bros. Construction Ltd. is a leading construction company based in Bolton, Ontario, recognized as one of the top bridge contractors. With over four dec...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Penn Fencing",
+        "discovered": "2026-02-06 01:44:42.392647",
+        "description": "Penn Fencing, Inc. specializes in the fabrication and sales of fencing, decking,...",
+        "link": "/leaks/6984f9b86387a4c9a257ae9e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Penn Fencing.png",
+        "group_name": "sinobi",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "La Fabrica",
+        "discovered": "2026-02-06 00:44:06.725628",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=50859380-ee6b-3768-acd2-8eab4b73ad24",
+        "magnet": null,
+        "screen": "screenshots/qilin/La Fabrica.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Platinum Drywall Inc",
+        "discovered": "2026-02-06 00:43:58.539470",
+        "description": "Platinum Drywall has been providing drywall and framing services to commercial construction companies since 2001.  They specialize in metal framing and truss sy...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Heavy Motions Inc",
+        "discovered": "2026-02-06 00:43:52.092319",
+        "description": "Heavy Motions Inc. specializes in advanced hydraulic solutions that cater to various industries, including mobile trucks, construction, agriculture, and oil & g...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Wayco Inc",
+        "discovered": "2026-02-05 23:43:43.628793",
+        "description": "Wayco, Inc. is a family-owned company with over 50 years of experience providing full-service paving solutions in northeastern Pennsylvania. Their extensive off...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.platinumdrywall.com/",
+        "discovered": "2026-02-05 23:43:31.629746",
+        "description": "Platinum Drywall has been providing drywall and framing services to commercial construction companies since 2001.  They specialize in metal framing and truss sy...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Lehigh Valley Restaurant Group",
+        "discovered": "2026-02-05 22:43:42.013201",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Exco",
+        "discovered": "2026-02-05 22:43:37.382290",
+        "description": "Exco is a network of accounting, consulting, and audit firms that simplifies ent...",
+        "link": "/leaks/6984ee426387a4c9a2573162",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Exco.png",
+        "group_name": "sinobi",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "InfoMontreal",
+        "discovered": "2026-02-05 22:43:36.396499",
+        "description": "InfoMontréal provides business services. Contact them directly for more informat...",
+        "link": "/leaks/6984fd066387a4c9a257d0fc",
+        "magnet": null,
+        "screen": "screenshots/sinobi/InfoMontreal.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Western Slope Iron & Supply",
+        "discovered": "2026-02-05 21:44:35.195108",
+        "description": "Western Slope Iron & Supply, Inc. is a certified steel fabricator operating sinc...",
+        "link": "/leaks/6984ed316387a4c9a2572660",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Western Slope Iron & Supply.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Reilly Foam Corp",
+        "discovered": "2026-02-05 20:43:47.542756",
+        "description": "Reilly Foam Corporation manufactures fabricated foam components for several indu...",
+        "link": "/leaks/6984ebab6387a4c9a2571688",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Reilly Foam Corp.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Yulkok Ltd",
         "discovered": "2026-02-05 17:44:27.292078",
         "description": "Yulkok Ltd. (South Korea)",
@@ -58,165 +188,5 @@
         "screen": "screenshots/nitrogen/LumioDental.png",
         "group_name": "nitrogen",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "University of Applied Sciences,Worms",
-        "discovered": "2026-02-05 08:43:05.468884",
-        "description": "Education",
-        "link": "/site/view?uuid=53f208de-a186-3184-87eb-b408e65bbbc6",
-        "magnet": null,
-        "screen": "screenshots/qilin/University of Applied Sciences,Worms.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Conpet S.A. (COTE.RO)",
-        "discovered": "2026-02-05 08:43:03.836208",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=5479c4af-4071-3fd7-b872-aa04507ba5fe",
-        "magnet": null,
-        "screen": "screenshots/qilin/Conpet SA (COTERO).png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "John O's Foods 🇨🇦",
-        "discovered": "2026-02-05 01:42:25.934784",
-        "description": "The company operates in the field of processing and supply of fish products.",
-        "link": "/blog/961e79ef-8642-475c-8604-0ba880ba5b33",
-        "magnet": null,
-        "screen": "screenshots/bravox/John O's Foods 🇨🇦.png",
-        "group_name": "bravox",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AOT  Japan",
-        "discovered": "2026-02-05 01:42:21.183738",
-        "description": "",
-        "link": "/blog/disclosures/697b7ec68f1d14b74303bbd8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/AOT  Japan.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Virginia Records - Database Leaked",
-        "discovered": "2026-02-05 00:43:22.402171",
-        "description": "",
-        "link": "/news/Virginia_Records/",
-        "magnet": null,
-        "screen": "screenshots/everest/Virginia Records - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GC Accounting - Database Leaked",
-        "discovered": "2026-02-05 00:43:21.399351",
-        "description": "",
-        "link": "/news/GC_Accounting/",
-        "magnet": null,
-        "screen": "screenshots/everest/GC Accounting - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WANCHI STEEL INDUSTRIAL - Database Leaked",
-        "discovered": "2026-02-05 00:43:20.406298",
-        "description": "",
-        "link": "/news/WANCHI_STEEL_INDUSTRIAL/",
-        "magnet": null,
-        "screen": "screenshots/everest/WANCHI STEEL INDUSTRIAL - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Reeves Information Technology - Database Leaked",
-        "discovered": "2026-02-05 00:43:19.365710",
-        "description": "",
-        "link": "/news/Reeves_Information_Technology/",
-        "magnet": null,
-        "screen": "screenshots/everest/Reeves Information Technology - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ASRock Rack - Database Leaked",
-        "discovered": "2026-02-05 00:43:18.346689",
-        "description": "",
-        "link": "/news/ASRock_Rack/",
-        "magnet": null,
-        "screen": "screenshots/everest/ASRock Rack - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GIBSIN Engineers - Database Leaked",
-        "discovered": "2026-02-05 00:43:17.334576",
-        "description": "",
-        "link": "/news/GIBSIN_Engineers/",
-        "magnet": null,
-        "screen": "screenshots/everest/GIBSIN Engineers - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ciena - Database Leaked",
-        "discovered": "2026-02-05 00:43:15.819979",
-        "description": "",
-        "link": "/news/Ciena/",
-        "magnet": null,
-        "screen": "screenshots/everest/Ciena - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "brooklyn group",
-        "discovered": "2026-02-04 23:43:17.801514",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "megasilver.com.tw",
-        "discovered": "2026-02-04 21:42:06.197125",
-        "description": "Megasilver Information System Co., Ltd. (Chinese: 兆銀資訊系統股份有限公司) is a Taiwanese company engaged in information technology services and software system development, especially in digital service solutions and intelligent operating systems.",
-        "link": "/blog/30e47bb0863906821793d4c00e09821bcae53f5b31419e6964b3a41cee88dec7/",
-        "magnet": null,
-        "screen": "screenshots/tengu/megasilvercomtw.png",
-        "group_name": "tengu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ISTS",
-        "discovered": "2026-02-04 21:42:01.143028",
-        "description": "",
-        "link": "topic.php?id=2rGfugyQmCHJFt",
-        "magnet": null,
-        "screen": "screenshots/play/ISTS.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CBH Homes",
-        "discovered": "2026-02-04 21:42:00.164893",
-        "description": "",
-        "link": "topic.php?id=vfXFCBqSe2Y4D",
-        "magnet": null,
-        "screen": "screenshots/play/CBH Homes.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Woodfield",
-        "discovered": "2026-02-04 21:41:58.856985",
-        "description": "",
-        "link": "topic.php?id=QrCQ8NKAycf5nR",
-        "magnet": null,
-        "screen": "screenshots/play/Woodfield.png",
-        "group_name": "play",
-        "sector": "Unknown"
     }
 ]
