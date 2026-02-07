@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "AMR PEMCO",
+        "discovered": "2026-02-07 14:41:19.076140",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=42e7a2c2-083c-3c91-a1c0-b6fe919afcb2",
+        "magnet": null,
+        "screen": "screenshots/qilin/AMR PEMCO.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "MNKASSOCIATES.COM",
+        "discovered": "2026-02-07 10:01:58.733354",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "VIPPLLC.COM",
+        "discovered": "2026-02-07 10:01:57.720929",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TRJLTD.CO.UK",
+        "discovered": "2026-02-07 10:01:56.721510",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "STRATEGICOBJECTIVES.COM",
+        "discovered": "2026-02-07 10:01:55.725136",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IDEALWELDERS.COM",
+        "discovered": "2026-02-07 10:01:54.743026",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CROWDEDISLAND.COM",
+        "discovered": "2026-02-07 10:01:53.736390",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DUKOSI.COM",
+        "discovered": "2026-02-07 10:01:52.736470",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CONWEST.COM",
+        "discovered": "2026-02-07 10:01:51.768150",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NGATTORNEYS.COM",
+        "discovered": "2026-02-07 10:01:50.574151",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LABINF.IT",
+        "discovered": "2026-02-07 10:01:49.212942",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Technology"
+    },
+    {
         "post_title": "A*******",
         "discovered": "2026-02-07 00:41:24.039447",
         "description": "A healthcare organization from USA.",
@@ -107,56 +217,6 @@
         "magnet": null,
         "screen": "screenshots/coinbase cartel/Logility.png",
         "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TriPartum",
-        "discovered": "2026-02-06 15:41:08.870047",
-        "description": "TriPartum specializes in creating clear and engaging customer communications for sectors such as finance, insurance, utilities, telecommunications, retail, and housing providers. They focus on customer communication management and experience, delivering solutions that optimize personalized critical mailings.We will upload almost 70gb of corporate data soon. Employee information (passports, DLs and other personal information, credit cards), financials, customers information, projects, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Peerson Audio",
-        "discovered": "2026-02-06 14:42:02.380136",
-        "description": "Advantage Product Enterprise specializes in innovative rigging solutions for audio installations, offering products such as the APE Hanger, CHAIN Monkey, U Tube, and Bumper BoostPeerson Audio Incorporated specializes in designing and installing professional audio, video, and lighting systems tailored for a variety of clientele including houses of worship, sporting venues, performing arts venues, government buildings, and businesses.We will upload corporate data of the companies soon. Employee information, HR files, financials, customers info and a bit more.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Sofinter S.p.a",
-        "discovered": "2026-02-06 11:44:53.996616",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TMPartner",
-        "discovered": "2026-02-06 09:45:23.798258",
-        "description": "",
-        "link": "/article/200c65ca-7f2c-48b3-a76b-9d05421afc68",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/TMPartner.png",
-        "group_name": "tridentlocker",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Leading Edge Speciali",
-        "discovered": "2026-02-06 09:45:19.271044",
-        "description": "Leading Edge Speciali",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "rhysida",
         "sector": "Unknown"
     }
 ]
