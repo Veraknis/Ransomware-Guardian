@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "tuftco",
+        "discovered": "2026-02-09 20:40:39.870291",
+        "description": "",
+        "link": "/blog/disclosures/697079b78f1d14b7433f3e8c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tuftco.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tech Environmental",
+        "discovered": "2026-02-09 19:40:01.037357",
+        "description": "Business Services",
+        "link": "/site/view?uuid=7fb4bc07-5bcc-3094-8274-789c50c367a5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tech Environmental.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "uniquegas",
+        "discovered": "2026-02-09 19:40:00.035148",
+        "description": "Business Services",
+        "link": "/site/view?uuid=54e83684-5331-333a-ae41-26748b7624c9",
+        "magnet": null,
+        "screen": "screenshots/qilin/uniquegas.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "horizonmedia.com",
+        "discovered": "2026-02-09 18:40:47.162017",
+        "description": "Official Announcement: Horizon Media Data Breach\n\nULTIMATUM: Horizon Media has 48 hours to reach an agreement. If our terms are not met, a full leak consisting of 3.2 TB of sensitive corporate data will be made public and distributed to global media outlets and regulatory bodies.\n\nThe leaked dataset…",
+        "link": "/dOx2hHmXB6HoSiUChubf2Xf0oAKPIeMF/horizonmedia-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/horizonmediacom.png",
+        "group_name": "chaos",
+        "sector": "Government"
+    },
+    {
+        "post_title": "iQ NetSolutions",
+        "discovered": "2026-02-09 17:39:39.286050",
+        "description": "Business Services",
+        "link": "/site/view?uuid=e6c9309f-e3f8-38ae-9fd8-56c618f06510",
+        "magnet": null,
+        "screen": "screenshots/qilin/iQ NetSolutions.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hospital Sao Jose do Avai (HSJA)",
+        "discovered": "2026-02-09 16:41:32.783777",
+        "description": "JPS Consulting Engineers is a group of dynamic site, civil and structural engineers based out of Indianapolis, Indiana. We have a combined 200+ years of design and consulting experience among us. We serve as a one-stop shop for all of your site, civil and structural needs-in Indiana, the Midwest and anywhere you do business. JPS is a certified Minority Business Enterprise (MBE). Our firm is distinguished by the ability to communicate complex technical issues in a way that our clients understand. Our employees are passionate about working in collaborative environments which help our healthcare, higher education, advanced technology, construction, and existing building clients to achieve outstanding project results. We believe in a holistic approach to structural design, construction means and methods, and risk consulting. We understand that our clients have competing demands for their projects.",
+        "link": "/card/hospital_sao_jose_do_avai__hsja_",
+        "magnet": null,
+        "screen": "screenshots/beast/Hospital Sao Jose do Avai (HSJA).png",
+        "group_name": "beast",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Body By Fisher",
+        "discovered": "2026-02-09 16:41:12.696273",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=e9098d9a-f17e-31da-88a7-05a625078709",
+        "magnet": null,
+        "screen": "screenshots/qilin/Body By Fisher.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Gradient Wind Engineering",
+        "discovered": "2026-02-09 16:41:08.131771",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=475bc6ff-74ac-302a-a401-4c7cf075224c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gradient Wind Engineering.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Augusta Housing Authority",
+        "discovered": "2026-02-09 16:40:56.516919",
+        "description": "Real Estate",
+        "link": "/site/view?uuid=b5a0faac-0185-3578-a04a-9db00ddea0fc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Augusta Housing Authority.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "RPS Consulting",
         "discovered": "2026-02-09 15:40:17.506757",
         "description": "RPS Consulting Pvt Ltd. is a leading enterprise education service provider in India, specializing in digital learning platforms and professional training programs. With 18 years of experience, they offer a variety of training methods including instructor-led, live virtual, and blended training across multiple domains. Their clientele includes international students and enterprise customers, with a focus on empowering professionals through certifications like Power BI and AWS Cloud Practitioner.",
