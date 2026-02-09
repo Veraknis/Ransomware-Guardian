@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Getly",
+        "discovered": "2026-02-09 02:45:54.665563",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rutherford Investment Company",
+        "discovered": "2026-02-09 01:43:18.287090",
+        "description": "Data breach of real estate investment firm: financial and Personalp identification data exposed.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/fyhkJZB5p2GAqlXlBrqEK2UIx1evfW1amzefCUSOchcuqeKNytasL9DSXDi4Vn14kjHPCragk6M7wG9PWgm0JXJEalNpenRz",
+        "magnet": null,
+        "screen": "screenshots/anubis/Rutherford Investment Company.png",
+        "group_name": "anubis",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Saint-Gobain (France)",
         "discovered": "2026-02-08 14:43:12.602758",
         "description": "",
@@ -358,145 +378,5 @@
         "screen": "screenshots/insomnia/Chiarottino.png",
         "group_name": "insomnia",
         "sector": "Finance"
-    },
-    {
-        "post_title": "San Diego Eye Bank",
-        "discovered": "2026-02-08 09:42:41.351186",
-        "description": "San Diego Eye Tissue Bank",
-        "link": "Companies/sdeb",
-        "magnet": null,
-        "screen": "screenshots/pear/San Diego Eye Bank.png",
-        "group_name": "pear",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "AB Data",
-        "discovered": "2026-02-08 08:28:05.481850",
-        "description": "Business Services",
-        "link": "/site/view?uuid=df123a44-ad61-32ef-85bb-32ec0433351b",
-        "magnet": null,
-        "screen": "screenshots/qilin/AB Data.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Voyages Robin",
-        "discovered": "2026-02-08 08:28:02.962001",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=64eec247-e1fb-3bfa-a404-13c12a1911df",
-        "magnet": null,
-        "screen": "screenshots/qilin/Voyages Robin.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Abel Schillinger",
-        "discovered": "2026-02-08 03:40:08.151169",
-        "description": "Patent lawyers' data breach; Drafts and intellectual property.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/x2C+hrHSSEb9PGFSjNsohsM9vzKbUyE9Ia3mQYNblxcub8TAlCi1wEEPW22uP3ypX5fx3SY4GyNhtjXrVV3RHNHZIVHVU",
-        "magnet": null,
-        "screen": "screenshots/anubis/Abel Schillinger.png",
-        "group_name": "anubis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "granmanor.org",
-        "discovered": "2026-02-07 22:41:20.295185",
-        "description": "0",
-        "link": "/site/view?uuid=952c57a9-fb77-3ac0-84a0-14fcf1d12313",
-        "magnet": null,
-        "screen": "screenshots/qilin/granmanororg.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "zeroenergy.com",
-        "discovered": "2026-02-07 22:41:12.538798",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=d4221e0f-7586-3336-a68c-782751706f73",
-        "magnet": null,
-        "screen": "screenshots/qilin/zeroenergycom.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "poweron.com",
-        "discovered": "2026-02-07 22:41:04.845907",
-        "description": "Finance",
-        "link": "/site/view?uuid=83293fef-42f9-3f3f-a73a-e55ee92d585d",
-        "magnet": null,
-        "screen": "screenshots/qilin/poweroncom.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "castlestechemea.com",
-        "discovered": "2026-02-07 22:40:44.029560",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=6fb1a824-8a48-3ff5-9e34-eb7ee1f68f00",
-        "magnet": null,
-        "screen": "screenshots/qilin/castlestechemeacom.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "abdata.com",
-        "discovered": "2026-02-07 22:40:33.847972",
-        "description": "Business Services",
-        "link": "/site/view?uuid=df123a44-ad61-32ef-85bb-32ec0433351b",
-        "magnet": null,
-        "screen": "screenshots/qilin/abdatacom.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "voyages-robin.com",
-        "discovered": "2026-02-07 22:40:32.847198",
-        "description": "0",
-        "link": "/site/view?uuid=64eec247-e1fb-3bfa-a404-13c12a1911df",
-        "magnet": null,
-        "screen": "screenshots/qilin/voyages-robincom.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Municipio de Chihuahua",
-        "discovered": "2026-02-07 22:40:19.906268",
-        "description": "Government",
-        "link": "/site/view?uuid=18dce9a1-05a7-3618-b8ea-cc23ebe241a8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Municipio de Chihuahua.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "atadler.com.sg",
-        "discovered": "2026-02-07 21:41:43.506851",
-        "description": "Is a Singapore-based accounting, auditing and bookkeeping services firm that has been operating as a registered partnership since 25 October …",
-        "link": "/blog/post/atadlercomsg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/atadlercomsg.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kres.cz",
-        "discovered": "2026-02-07 21:41:42.538160",
-        "description": "Czech small-to-medium enterprise headquartered in Krnov – Pod Cvilínem, Czech Republic. The company specialises in the sale, repair and servicing …",
-        "link": "/blog/post/krescz/",
-        "magnet": null,
-        "screen": "screenshots/safepay/krescz.png",
-        "group_name": "safepay",
-        "sector": "Services"
-    },
-    {
-        "post_title": "groupepiche.ca",
-        "discovered": "2026-02-07 21:41:41.527998",
-        "description": "Is a privately held Canadian construction and interior systems company headquartered in Ferme-Neuve, Québec with additional offices in Boisbriand (QC), …",
-        "link": "/blog/post/groupepicheca/",
-        "magnet": null,
-        "screen": "screenshots/safepay/groupepicheca.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
     }
 ]
