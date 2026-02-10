@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Pavlus Travel",
+        "discovered": "2026-02-10 06:39:21.786442",
+        "description": "Specializes in luxury sea cruises, river cruises, and guided tours",
+        "link": "Companies/pavlus",
+        "magnet": null,
+        "screen": "screenshots/pear/Pavlus Travel.png",
+        "group_name": "pear",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Core Supply",
+        "discovered": "2026-02-10 01:41:10.918254",
+        "description": "",
+        "link": "/blog/disclosures/698600708f1d14b743d63501",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Core Supply.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Langley Twigg Law | Part 2",
+        "discovered": "2026-02-10 00:40:50.348576",
+        "description": "Personal and Corporate data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Vg0d5G0L1A6Bg+Eu0BEp66Pm9fjv878QN6Zuuv1NkgkaPDgr+N2qjwRysWbVw56KGcWsV6w1q3JnD0SIw3RB202VHlFTHNj",
+        "magnet": null,
+        "screen": "screenshots/anubis/Langley Twigg Law | Part 2.png",
+        "group_name": "anubis",
+        "sector": "Legal"
+    },
+    {
         "post_title": "tuftco",
         "discovered": "2026-02-09 20:40:39.870291",
         "description": "",
@@ -108,25 +138,5 @@
         "screen": null,
         "group_name": "crypto24",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Getly",
-        "discovered": "2026-02-09 02:45:54.665563",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rutherford Investment Company",
-        "discovered": "2026-02-09 01:43:18.287090",
-        "description": "Data breach of real estate investment firm: financial and Personalp identification data exposed.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/fyhkJZB5p2GAqlXlBrqEK2UIx1evfW1amzefCUSOchcuqeKNytasL9DSXDi4Vn14kjHPCragk6M7wG9PWgm0JXJEalNpenRz",
-        "magnet": null,
-        "screen": "screenshots/anubis/Rutherford Investment Company.png",
-        "group_name": "anubis",
-        "sector": "Finance"
     }
 ]
