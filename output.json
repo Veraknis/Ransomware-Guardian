@@ -1,5 +1,775 @@
 [
     {
+        "post_title": "Andringa Law",
+        "discovered": "2026-02-11 08:41:46.430608",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=ac24871b-2e6c-3217-8118-dfbe4d4e7413",
+        "magnet": null,
+        "screen": "screenshots/qilin/Andringa Law.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Cox & Sanchez",
+        "discovered": "2026-02-11 08:41:45.377506",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=475f9e56-7138-3c96-8733-41943d6500d6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cox & Sanchez.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Mt Barker Co-Operative",
+        "discovered": "2026-02-11 07:40:14.362643",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=a18678b7-bc8a-3f8a-bf85-b0610ebd0a94",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mt Barker Co-Operative.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Grand Manor Nursing & Rehabilitation Center",
+        "discovered": "2026-02-11 06:41:08.606586",
+        "description": "0",
+        "link": "/site/view?uuid=952c57a9-fb77-3ac0-84a0-14fcf1d12313",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grand Manor Nursing & Rehabilitation Center.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lindenhurst Fire Department",
+        "discovered": "2026-02-11 06:41:07.604950",
+        "description": "Government",
+        "link": "/site/view?uuid=c520a1ad-4466-3e6e-98e3-38578c11d164",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lindenhurst Fire Department.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Mississippi Market",
+        "discovered": "2026-02-11 06:41:06.452020",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=ceccc8ca-34dd-3b43-91cc-5a1de4211d39",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mississippi Market.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "ZeroEnergy Design",
+        "discovered": "2026-02-11 06:41:05.492603",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=d4221e0f-7586-3336-a68c-782751706f73",
+        "magnet": null,
+        "screen": "screenshots/qilin/ZeroEnergy Design.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "PowerON Services",
+        "discovered": "2026-02-11 06:40:57.703614",
+        "description": "Finance",
+        "link": "/site/view?uuid=83293fef-42f9-3f3f-a73a-e55ee92d585d",
+        "magnet": null,
+        "screen": "screenshots/qilin/PowerON Services.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Castles Technology UK & Ireland",
+        "discovered": "2026-02-11 06:40:47.497898",
+        "description": "Banking",
+        "link": "/site/view?uuid=6fb1a824-8a48-3ff5-9e34-eb7ee1f68f00",
+        "magnet": null,
+        "screen": "screenshots/qilin/Castles Technology UK & Ireland.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Federal Signal Corporation (USA)",
+        "discovered": "2026-02-11 05:41:06.273577",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Government"
+    },
+    {
+        "post_title": "REV Group (USA)",
+        "discovered": "2026-02-11 05:41:05.261244",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Oshkosh Corporation (USA)",
+        "discovered": "2026-02-11 05:41:01.396526",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Manitowoc Company (USA)",
+        "discovered": "2026-02-11 05:41:00.220604",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Terex Corporation (USA)",
+        "discovered": "2026-02-11 05:40:59.198725",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gencor Industries (USA)",
+        "discovered": "2026-02-11 05:40:58.145921",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Astec Industries (USA)",
+        "discovered": "2026-02-11 05:40:56.927117",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lindsay Corporation (USA)",
+        "discovered": "2026-02-11 05:40:55.908431",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alamo Group (USA)",
+        "discovered": "2026-02-11 05:40:54.874514",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tennant Company (USA)",
+        "discovered": "2026-02-11 05:40:53.855053",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Standex International (USA)",
+        "discovered": "2026-02-11 05:40:52.718923",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Enerpac Tool Group (USA)",
+        "discovered": "2026-02-11 05:40:51.366800",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Altra Industrial Motion (USA)",
+        "discovered": "2026-02-11 05:40:49.963187",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Timken Company (USA)",
+        "discovered": "2026-02-11 05:40:48.911804",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RBC Bearings (USA)",
+        "discovered": "2026-02-11 05:40:47.799409",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Columbus McKinnon (USA)",
+        "discovered": "2026-02-11 05:40:46.799877",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Helios Technologies (USA)",
+        "discovered": "2026-02-11 05:40:45.802356",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gorman-Rupp Company (USA)",
+        "discovered": "2026-02-11 05:40:44.821428",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SPX Flow (USA)",
+        "discovered": "2026-02-11 05:40:43.837535",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Franklin Electric (USA)",
+        "discovered": "2026-02-11 05:40:42.867593",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Badger Meter, Inc. (USA)",
+        "discovered": "2026-02-11 05:40:41.845242",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Zurn Elkay Water Solutions (USA)",
+        "discovered": "2026-02-11 05:40:40.822443",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "ESAB Corporation (USA/Sweden)",
+        "discovered": "2026-02-11 05:40:39.689577",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kadant Inc. (USA)",
+        "discovered": "2026-02-11 05:40:38.656772",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ITT Inc. (USA)",
+        "discovered": "2026-02-11 05:40:37.690492",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "EnPro Industries (USA)",
+        "discovered": "2026-02-11 05:40:36.703187",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Valmont Industries (USA)",
+        "discovered": "2026-02-11 05:40:35.695475",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Chart Industries (USA)",
+        "discovered": "2026-02-11 05:40:34.666767",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Donaldson Company (USA)",
+        "discovered": "2026-02-11 05:40:33.696802",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kennametal Inc. (USA)",
+        "discovered": "2026-02-11 05:40:32.610135",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Barnes Group Inc. (USA)",
+        "discovered": "2026-02-11 05:40:31.603375",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Moog Inc. (USA)",
+        "discovered": "2026-02-11 05:40:30.589464",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Curtiss-Wright Corporation (USA)",
+        "discovered": "2026-02-11 05:40:29.571423",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Woodward, Inc. (USA)",
+        "discovered": "2026-02-11 05:40:28.539587",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Novanta Inc. (USA)",
+        "discovered": "2026-02-11 05:40:27.551422",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Belden Inc. (USA)",
+        "discovered": "2026-02-11 05:40:26.518510",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lincoln Electric (USA)",
+        "discovered": "2026-02-11 05:40:25.463757",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Nordson Corporation (USA)",
+        "discovered": "2026-02-11 05:40:24.454517",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Graco Inc. (USA)",
+        "discovered": "2026-02-11 05:40:23.402744",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LivaNova PLC (UK/USA)",
+        "discovered": "2026-02-11 05:40:22.395758",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Carl Zeiss Meditec AG (Germany)",
+        "discovered": "2026-02-11 05:40:21.407394",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Renishaw plc (UK)",
+        "discovered": "2026-02-11 05:40:20.436130",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Entegris, Inc. (USA)",
+        "discovered": "2026-02-11 05:40:19.448834",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hillenbrand, Inc. (USA)",
+        "discovered": "2026-02-11 05:40:18.461416",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vesuvius plc (UK)",
+        "discovered": "2026-02-11 05:40:17.161505",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "0apt",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BCS ProSoft",
+        "discovered": "2026-02-11 01:39:29.786626",
+        "description": "BCS ProSoft is a technology consulting firm that specializes in business managem...",
+        "link": "/leaks/698b7f566387a4c9a29bbdf6",
+        "magnet": null,
+        "screen": "screenshots/sinobi/BCS ProSoft.png",
+        "group_name": "sinobi",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "When the Lockers Learned to Gossip: Washington International School Data Debacle.",
+        "discovered": "2026-02-10 22:41:19.100117",
+        "description": "#Leaknet #PrivateData #FreshLeak #DataBreach",
+        "link": "view_article.php?article=zI8UuBu7XbqrKbec0IJVU6nClWpK9twRVtxaia6nTfu9e71UJqcNCJUWxw86FKEB",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leaknet",
+        "sector": "Education"
+    },
+    {
+        "post_title": "DAD.CO.TH",
+        "discovered": "2026-02-10 21:12:23.945895",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "THEMORTGAGEFIRM.COM",
+        "discovered": "2026-02-10 21:12:22.929296",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FISHWINDOWCLEANING.COM",
+        "discovered": "2026-02-10 21:12:21.853666",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SOLUTIONSINSAFETY.COM",
+        "discovered": "2026-02-10 21:12:20.848491",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BOYDEN.COM",
+        "discovered": "2026-02-10 21:12:19.829459",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CFDT.FR",
+        "discovered": "2026-02-10 21:12:18.848830",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SPOHNASSOCIATES.COM",
+        "discovered": "2026-02-10 21:12:17.850332",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GARNERGROUP.NET",
+        "discovered": "2026-02-10 21:12:16.836095",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "THEPERPETUAL.COM",
+        "discovered": "2026-02-10 21:12:15.837904",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AIGBUSINESS.COM",
+        "discovered": "2026-02-10 21:12:14.803784",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HYDEPARKUMC.ORG",
+        "discovered": "2026-02-10 21:12:13.800613",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GIACARE.COM",
+        "discovered": "2026-02-10 21:12:12.818909",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GIASPACE.COM",
+        "discovered": "2026-02-10 21:12:11.817676",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ONESUPPORT.COM",
+        "discovered": "2026-02-10 21:12:10.807487",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HUDSONSUSTAINABLE.COM",
+        "discovered": "2026-02-10 21:12:09.816804",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GOKALLIT.COM",
+        "discovered": "2026-02-10 21:12:08.497525",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CHEHARDY.COM",
+        "discovered": "2026-02-10 21:12:07.378648",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RBDCONSTRUCTION.COM",
+        "discovered": "2026-02-10 21:12:06.368035",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BROADREACHRETAIL.COM",
+        "discovered": "2026-02-10 21:12:05.329589",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BE09.FR",
+        "discovered": "2026-02-10 21:12:00.853539",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Sundher Group",
+        "discovered": "2026-02-10 21:11:34.280438",
+        "description": "Sundher Group is a family-owned Canadian lumber manufacturer based in Surrey, Br...",
+        "link": "/leaks/698b8f4d6387a4c9a29c4bb0",
+        "magnet": null,
+        "screen": "screenshots/sinobi/The Sundher Group.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "FUSION HILL 🇺🇸",
         "discovered": "2026-02-10 19:43:09.271226",
         "description": "A company operating in the broad field of marketing and advertising.",
@@ -65,7 +835,7 @@
         "description": "PCCA supports the creation of personalized medicine and innovative products, as well as pharmaceutical compounding.",
         "link": "/posts/698b4e469dcf11e30d8de668",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/nitrogen/PCCA.png",
         "group_name": "nitrogen",
         "sector": "Unknown"
     },
@@ -438,35 +1208,5 @@
         "screen": "screenshots/reynolds/falconmgtcom.png",
         "group_name": "reynolds",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Pavlus Travel",
-        "discovered": "2026-02-10 06:39:21.786442",
-        "description": "Specializes in luxury sea cruises, river cruises, and guided tours",
-        "link": "Companies/pavlus",
-        "magnet": null,
-        "screen": "screenshots/pear/Pavlus Travel.png",
-        "group_name": "pear",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Core Supply",
-        "discovered": "2026-02-10 01:41:10.918254",
-        "description": "",
-        "link": "/blog/disclosures/698600708f1d14b743d63501",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Core Supply.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Langley Twigg Law | Part 2",
-        "discovered": "2026-02-10 00:40:50.348576",
-        "description": "Personal and Corporate data breach.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Vg0d5G0L1A6Bg+Eu0BEp66Pm9fjv878QN6Zuuv1NkgkaPDgr+N2qjwRysWbVw56KGcWsV6w1q3JnD0SIw3RB202VHlFTHNj",
-        "magnet": null,
-        "screen": "screenshots/anubis/Langley Twigg Law | Part 2.png",
-        "group_name": "anubis",
-        "sector": "Legal"
     }
 ]
