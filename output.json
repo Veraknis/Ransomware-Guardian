@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Northeast Pharmacy Service",
+        "discovered": "2026-02-14 12:37:59.944613",
+        "description": "Northeast Pharmacy Service Corporation (NPSC) is dedicated to supporting independent community pharmacies by providing business development services, individualized support, and strategic advocacy. They offer a range of concierge-level services, including access to dedicated pharmacy consultants, educational resources, and industry insights to help pharmacies thrive.We are going to upload company data soon. You will find financialdata (audit, invoices,financial reports), personal files and customers data.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "JC Resorts",
+        "discovered": "2026-02-14 10:38:16.413049",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=d1d58fc9-30d6-3501-9484-3d49cb98fa71",
+        "magnet": null,
+        "screen": "screenshots/qilin/JC Resorts.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
         "post_title": "Buff Law",
         "discovered": "2026-02-14 07:38:04.060467",
         "description": "Rosenthal, Kooshoian & Lennon, LLP is a long-established Buffalo, New York law firm with over 70 years of experience representing clients in personal injury, criminal defense, and related matters.  They handle a wide range of cases including construction and vehicle accidents, wrongful death, product liability, and DUI/DWI defense.  The firm is known for personalized legal advocacy, trial experience, and free consultations for many types of cases.  Their attorneys combine courtroom skill with community recognition and professional involvement.- Clients' personal data- Court decisions- Evidence- Police reports, etc.\nhttps://bufflaw.com/",
@@ -278,35 +298,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "The Marena Group",
-        "discovered": "2026-02-13 15:37:21.274497",
-        "description": "Contains a set of SQL databases\n\nFor the past 30 years, Marena has been dedicated to advancing the effective use of medical-grade compression through research, innovation, design, and manufacturing of garments for long-term wellness benefits. Our mission is to help patients around the world heal in comfort, recover with confidence, and live better.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Elite Screens Inc.",
-        "discovered": "2026-02-13 14:37:59.119663",
-        "description": "Founded in 2004, Elite Screens Inc. is a US-based projection screen manufacturing company with its world headquarters in California and satellite offices in Aus...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Figure Technology Solutions, Inc.",
-        "discovered": "2026-02-13 13:38:53.956243",
-        "description": "Thousands of applicants of Figure.com PII were compromised. They decided to waste time and hide instead because their leadership is a mess and can't make a decision.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Utilities"
     }
 ]
