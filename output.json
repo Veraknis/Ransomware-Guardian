@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Bitgo",
+        "discovered": "2026-02-14 23:39:18.524387",
+        "description": "",
+        "link": "/blog/disclosures/6990ec428f1d14b743b91260",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Bitgo.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Canada Goose",
+        "discovered": "2026-02-14 20:39:00.810113",
+        "description": "Over 600k records containing PII and payment/financial information have been compromised.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Stellium - Database Leaked",
         "discovered": "2026-02-14 16:38:30.125928",
         "description": "",
@@ -88,115 +108,5 @@
         "screen": "screenshots/qilin/JC Resorts.png",
         "group_name": "qilin",
         "sector": "Hospitality"
-    },
-    {
-        "post_title": "Buff Law",
-        "discovered": "2026-02-14 07:38:04.060467",
-        "description": "Rosenthal, Kooshoian & Lennon, LLP is a long-established Buffalo, New York law firm with over 70 years of experience representing clients in personal injury, criminal defense, and related matters.  They handle a wide range of cases including construction and vehicle accidents, wrongful death, product liability, and DUI/DWI defense.  The firm is known for personalized legal advocacy, trial experience, and free consultations for many types of cases.  Their attorneys combine courtroom skill with community recognition and professional involvement.- Clients' personal data- Court decisions- Evidence- Police reports, etc.\nhttps://bufflaw.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/114/buff-law",
-        "magnet": null,
-        "screen": "screenshots/space bears/Buff Law.png",
-        "group_name": "space bears",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Betesan",
-        "discovered": "2026-02-14 01:38:40.632881",
-        "description": "Betesan is a leading engineering company established in 1992 in Tuzla, specializing in ship electrical contracting and supply of electrical materials. The compa...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "MAIRIE DE FUMEL",
-        "discovered": "2026-02-14 00:38:39.778791",
-        "description": "Fumel is a commune in the Lot-et-Garonne department in south-western France. Situated at the right bank of the river Lot, it is the centre of a small agglomerat...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "SPIR STAR Asia",
-        "discovered": "2026-02-14 00:38:31.078057",
-        "description": "Headquartered in Mörlenbach, Germany, SPIR STAR designs and manufactures a wide range of thermoplastic high pressure hoses for working pressures up to 3200 bar ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Shining Labels",
-        "discovered": "2026-02-14 00:38:23.605835",
-        "description": "Shining Labels specializes in high-quality apparel accessories, including reusable face masks made from breathable 100% polyester fabric. The company integrates...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Yem Chio Co",
-        "discovered": "2026-02-14 00:38:14.917663",
-        "description": "Yem Chio Co., Ltd. was founded in 1978 by Mr. Chih Hsien Lee who is the current President and CEO. Although our business was started with low capital and easy e...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Robbins Parking Service Ltd",
-        "discovered": "2026-02-14 00:38:03.773270",
-        "description": "Robbins got its start back in 1958 when Jack Robbins, an entrepreneur at heart, founded our company as a small, one-lot business. Since then, we’ve grown to become Vancouver Island’s largest parking solutions provider, with more than 250 lots spanning all the way from Comox in the north to Victoria in the south. And even though our company has experienced incredible growth and development since those early days",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Copier Careers",
-        "discovered": "2026-02-13 23:39:56.167597",
-        "description": "Copier Careers is a recruiting firm connecting Copier Channel employers with skilled professionals. It focuses on strategic placements—Sales Reps, Managers, and other office equipment roles—to help businesses grow, and provides job seekers a job board.",
-        "link": "/Company/Copier/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Copier Careers.png",
-        "group_name": "insomnia",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "The Syverson Group",
-        "discovered": "2026-02-13 23:39:55.173645",
-        "description": "TSG is a retained executive search firm specializing in medical device and life sciences recruiting. They deliver rapid, client and candidate-focused talent acquisition—including diagnostics, clinical research and leadership placement.",
-        "link": "/Company/Syverson/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/The Syverson Group.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Archaeological Institute of America",
-        "discovered": "2026-02-13 23:39:37.027457",
-        "description": "https://www.archaeological.org\n\t\t\t\t\t\t\t\t\tFounded in 1879, the Archaeological Institute of America (AIA) is the oldest and largest archaeological organization in North America. Today, the AIA has over 200,000 members and 110 local societies in the United States, Canada, and abroad.",
-        "link": "http://efgmr2vxwynrn7vlemidwf4ffwl4vljsb4eusaz3bplwk3apthpkpsad.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Archaeological Institute of America.png",
-        "group_name": "interlock",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "CHASI (A part of Sun River Health)",
-        "discovered": "2026-02-13 22:38:15.624998",
-        "description": "An interesting non-profit organization",
-        "link": "/c3a27df2d6f6ef4bccc2/",
-        "magnet": null,
-        "screen": "screenshots/genesis/CHASI (A part of Sun River Health).png",
-        "group_name": "genesis",
-        "sector": "Healthcare"
     }
 ]
