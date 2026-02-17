@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Kymco",
+        "discovered": "2026-02-17 07:38:43.582344",
+        "description": "Kymco (Kwang Yang Motor Co., Ltd.) - Taiwanese company founded in 1963, specializing in the production of motorcycles, scooters, and electric vehicles. It is known for offering a wide range of high-quality products, from small scooters to sport motorcycles and e-bikes. The company actively integrates innovative technologies, including electric drivetrains and advanced control systems, positioning itself as a leader in the market. Kymco also has a strong global presence, exporting its products to over 100 countries. Additionally, the company is committed to developing eco-friendly transportation solutions, such as electric scooters and e-bikes.- Patent and Innovation Data- Financial Data- Customer and Partner Data- 3D models of developments- Schematics and test results- Much more\nhttps://www.kymco.com.tw",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/117/kymco",
+        "magnet": null,
+        "screen": "screenshots/space bears/Kymco.png",
+        "group_name": "space bears",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Atlas Air: MUSE INSECURE",
+        "discovered": "2026-02-17 04:38:08.406673",
+        "description": "",
+        "link": "/news/Atlas_Air/",
+        "magnet": null,
+        "screen": "screenshots/everest/Atlas Air: MUSE INSECURE.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "P****p",
+        "discovered": "2026-02-17 04:37:53.065054",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nebraska Health Imaging",
+        "discovered": "2026-02-17 03:38:02.053920",
+        "description": "Nebraska Health Imaging is an accredited outpatient diagnostic center in Omaha, NE, offering a comprehensive range of affordable diagnostic and screening radiology services, including MRI, CT, X-rays, and Ultrasound.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Nebraska Health Imaging.png",
+        "group_name": "nova",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Orain.io",
+        "discovered": "2026-02-17 01:40:50.410954",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PT Ikapharmindo Putramas",
+        "discovered": "2026-02-16 20:38:20.257654",
+        "description": "",
+        "link": "/companies/ika",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/PT Ikapharmindo Putramas.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mold Tech",
+        "discovered": "2026-02-16 20:38:19.221190",
+        "description": "",
+        "link": "/companies/moldtech",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Mold Tech.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Efficy",
+        "discovered": "2026-02-16 20:38:18.165601",
+        "description": "",
+        "link": "/companies/efficy",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Efficy.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Darma Henwa",
         "discovered": "2026-02-16 18:40:07.577468",
         "description": "PT Darma Henwa Tbk -  established in 1991, is a company that specializes in mining support and excavation activities. It provides services such as metal fabrication, machinery repair, and equipment leasing. The company also engages in road and railroad construction, as well as building and civil construction. Initially a domestic investment firm, Darma Henwa became a foreign investment company in 1996 and went public in 2007.- Employee personal data- Contracts and client information- Financial reports and audits- Projects and developments- Outlook emails- Internal security reports\nhttps://www.ptdh.co.id/",
@@ -587,46 +667,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mercer Advisors",
-        "discovered": "2026-02-16 02:39:04.861503",
-        "description": "Over 5 million records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 18 Feb 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Beacon Pointe Advisors, LLC.",
-        "discovered": "2026-02-16 02:39:01.907011",
-        "description": "Over 100k+ records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 18 Feb 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "OEC Bretagne 🇫🇷",
-        "discovered": "2026-02-16 00:38:51.930819",
-        "description": "Professional organization representing and regulating the activities of chartered accountants.",
-        "link": "/blog/c3a6cf71-2205-4f75-a1c3-bc403014a3ad",
-        "magnet": null,
-        "screen": "screenshots/bravox/OEC Bretagne 🇫🇷.png",
-        "group_name": "bravox",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Nang Kuang Pharmaceutical Co., Ltd.",
-        "discovered": "2026-02-15 22:37:38.489180",
-        "description": "",
-        "link": "/blog/disclosures/699237258f1d14b743d10b9a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Nang Kuang Pharmaceutical Co, Ltd.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
