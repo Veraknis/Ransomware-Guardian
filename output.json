@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "DeWalch Technologies, Inc",
+        "discovered": "2026-02-18 20:39:50.469904",
+        "description": "DeWalch Technologies, Inc. is a vertically integrated engineering and manufacturing company with operations in four key verticals: security, energy, manufacturing, and digital.",
+        "link": "/posts/69133f76eceea49e97964033",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/DeWalch Technologies, Inc.png",
+        "group_name": "nitrogen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "American Piping & Boiler Co",
+        "discovered": "2026-02-18 18:40:40.718083",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "O.Berk",
+        "discovered": "2026-02-18 18:40:19.895799",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=068c8a92-4c07-3df0-8f0e-a2ff6a0a3272",
+        "magnet": null,
+        "screen": "screenshots/qilin/OBerk.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KFZ Sauter GmbH Co. KG",
+        "discovered": "2026-02-18 16:39:25.435716",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Elgon Cosmetic",
+        "discovered": "2026-02-18 16:39:24.011892",
+        "description": "Elgon Cosmetic - was founded in 1970 in Italy. Since then, it has established itself as a leading manufacturer of professional hair care products, offering innovative and high-quality solutions for salons worldwide. Today, the brand continues to grow, constantly improving its products and staying aligned with the latest trends in the beauty industry.-- Company financial reports- Medical records- Personal user data- Product formulas- Customer data\nhttps://elgoncosmetic.com",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/119/elgon-cosmetic",
+        "magnet": null,
+        "screen": "screenshots/space bears/Elgon Cosmetic.png",
+        "group_name": "space bears",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "AdMark Asia Group",
+        "discovered": "2026-02-18 16:39:18.508045",
+        "description": "AdMark Home is a leading Asia-wide executive search firm (offices in Hong Kong, Shanghai, Tokyo) specializing in consumer, communication and retail sectors. With 7,000+ placements, they emphasize deep client insight, diligent screening, and long-term partnerships.",
+        "link": "/Company/AdMark/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/AdMark Asia Group.png",
+        "group_name": "insomnia",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Application Solution Providers",
+        "discovered": "2026-02-18 16:39:17.543993",
+        "description": "Application Solution Providers, Inc. delivers cloud-based DaaS and software, plus consulting, development, marketing, support, and training—enabling flexible, remote operations with tailored, customer-focused solutions to boost efficiency.",
+        "link": "/Company/ASP/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Application Solution Providers.png",
+        "group_name": "insomnia",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "[Internal database pack 4] Warren County Sheriff’s Office",
+        "discovered": "2026-02-18 16:39:03.000073",
+        "description": "",
+        "link": "/r/221cb4c013ccc1ef3de4181c3da69046a0d09fcb",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[Internal database pack 4] Warren County Sheriff’s Office.png",
+        "group_name": "ransomhouse",
+        "sector": "Government"
+    },
+    {
+        "post_title": "A&A Global Industries",
+        "discovered": "2026-02-18 16:38:59.397026",
+        "description": "A&A Global is a trusted partner operators, retailers, and business owners turn to for toys, candy, and creative product solutions that build loyalty, increase foot traffic, and drive real business results.We will upload corporate data soon. Detailed personal files of employees (SSNs, passports, DLs, medical information and other personal files), HR files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cargo Largo",
+        "discovered": "2026-02-18 16:38:58.316187",
+        "description": "Cargo Largo is a discount store located in Independence, MO, offering a wide range of name-brand products including electronics, clothing, furniture, shoes, and hardware at competitive prices.We will upload corporate data soon. Customer information, financials and other internal files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Cedar Grove Warehouse",
         "discovered": "2026-02-18 15:39:19.076568",
         "description": "Cedar Grove Warehouse is a family-owned logistics and warehousingcompany that offers a range of services including dock-to-dock logistics solutions, rail car cross docking, and various storage options such as refrigerated, freezer, and dry storage. We will upload almost 27gb of corporate data soon. Personal filesof employees (SSNs, passports, national IDs and DLs of more than100 ppl and other personal information), financials, HR files, projects, client files, NDAs and so on.",
@@ -288,35 +388,5 @@
         "screen": "screenshots/eraleign (apt73)/mahidolacth.png",
         "group_name": "eraleign (apt73)",
         "sector": "Education"
-    },
-    {
-        "post_title": "MESA Products",
-        "discovered": "2026-02-17 20:29:07.888115",
-        "description": "MESA Products is a U.S.-based industrial company that supplies cathodic protection materials and corrosion control solutions. The company focuses on preventing rust and structural damage in critical infrastructure such as pipelines and underground metal systems. Its product range includes test stations, connection kits, and monitoring equipment used to measure and maintain corrosion-protection systems. MESA emphasizes safety, reliable manufacturing, and high on-time delivery performance while supporting engineers, utilities, and construction sectors. The company’s mission is to protect people, property, and the environment by extending the life and reliability of essential infrastructure through quality protective technologies and technical support services. The company headquarters is located in 4445 S 74th East Ave, Tulsa, Oklahoma 74145, United States. 201-500 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/MESA Products.png",
-        "group_name": "medusa",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Barry Equipment: Big Machines, Big Leaks (and Even Bigger Questions)",
-        "discovered": "2026-02-17 18:41:47.808150",
-        "description": "#LeakNet #DataLeak #BarryEquipment",
-        "link": "view_article.php?article=0poHfkggbIlpicdOrOwmKBkLVxqPaOojC5GqJJRpH2A3qofDhoRmn1nvo91AzGPl",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leaknet",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Seac",
-        "discovered": "2026-02-17 18:41:45.378175",
-        "description": "https://www.zoominfo.com/c/seac-spa/372665234 www.seac.it Seac S.p.A. is a computer software company headquartered in Trento, Italy. The company offers analysis services regarding tax issues and labor legislation. Additionally, Seac provides IT, meeting and conference, consulting, and training services. \nVISIT LEAK SITE BEFORE FULL DATA REVEAL. LINK http://seac.lt/ By The Independent Hacking Group ©",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
     }
 ]
