@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Kroll International",
+        "discovered": "2026-02-19 19:40:51.870258",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=e157db1a-4d21-3ace-852b-2723b65f1fc9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kroll International.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "TCPN Inc",
+        "discovered": "2026-02-19 18:42:29.437453",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fico Ferragens Indústria e Comércio Ltda",
+        "discovered": "2026-02-19 18:42:28.359776",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RS Development LLC",
+        "discovered": "2026-02-19 18:42:27.317674",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ausgewählt Vertriebs GmbH",
+        "discovered": "2026-02-19 18:42:26.322509",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "exceldor.ca",
+        "discovered": "2026-02-19 18:42:00.264792",
+        "description": "We have about 1.5 TB of data from the company's servers. We will publish some of it in the near future. If you think you are here by mistake, please contact us at brain.dataleak@cy...",
+        "link": "/n/exceldor-ca",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/exceldorca.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Telecare",
+        "discovered": "2026-02-19 17:42:17.381091",
+        "description": "Healthcare Services",
+        "link": "/site/view?uuid=568578a9-0f7f-3aea-895d-c11eb05104eb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Telecare.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "MD Charts",
         "discovered": "2026-02-19 15:43:12.987735",
         "description": "",
@@ -238,95 +308,5 @@
         "screen": "screenshots/nitrogen/DeWalch Technologies, Inc.png",
         "group_name": "nitrogen",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "American Piping & Boiler Co",
-        "discovered": "2026-02-18 18:40:40.718083",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "O.Berk",
-        "discovered": "2026-02-18 18:40:19.895799",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=068c8a92-4c07-3df0-8f0e-a2ff6a0a3272",
-        "magnet": null,
-        "screen": "screenshots/qilin/OBerk.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KFZ Sauter GmbH Co. KG",
-        "discovered": "2026-02-18 16:39:25.435716",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Elgon Cosmetic",
-        "discovered": "2026-02-18 16:39:24.011892",
-        "description": "Elgon Cosmetic - was founded in 1970 in Italy. Since then, it has established itself as a leading manufacturer of professional hair care products, offering innovative and high-quality solutions for salons worldwide. Today, the brand continues to grow, constantly improving its products and staying aligned with the latest trends in the beauty industry.-- Company financial reports- Medical records- Personal user data- Product formulas- Customer data\nhttps://elgoncosmetic.com",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/119/elgon-cosmetic",
-        "magnet": null,
-        "screen": "screenshots/space bears/Elgon Cosmetic.png",
-        "group_name": "space bears",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "AdMark Asia Group",
-        "discovered": "2026-02-18 16:39:18.508045",
-        "description": "AdMark Home is a leading Asia-wide executive search firm (offices in Hong Kong, Shanghai, Tokyo) specializing in consumer, communication and retail sectors. With 7,000+ placements, they emphasize deep client insight, diligent screening, and long-term partnerships.",
-        "link": "/Company/AdMark/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/AdMark Asia Group.png",
-        "group_name": "insomnia",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Application Solution Providers",
-        "discovered": "2026-02-18 16:39:17.543993",
-        "description": "Application Solution Providers, Inc. delivers cloud-based DaaS and software, plus consulting, development, marketing, support, and training—enabling flexible, remote operations with tailored, customer-focused solutions to boost efficiency.",
-        "link": "/Company/ASP/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Application Solution Providers.png",
-        "group_name": "insomnia",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "[Internal database pack 4] Warren County Sheriff’s Office",
-        "discovered": "2026-02-18 16:39:03.000073",
-        "description": "",
-        "link": "/r/221cb4c013ccc1ef3de4181c3da69046a0d09fcb",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[Internal database pack 4] Warren County Sheriff’s Office.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "A&A Global Industries",
-        "discovered": "2026-02-18 16:38:59.397026",
-        "description": "A&A Global is a trusted partner operators, retailers, and business owners turn to for toys, candy, and creative product solutions that build loyalty, increase foot traffic, and drive real business results.We will upload corporate data soon. Detailed personal files of employees (SSNs, passports, DLs, medical information and other personal files), HR files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Cargo Largo",
-        "discovered": "2026-02-18 16:38:58.316187",
-        "description": "Cargo Largo is a discount store located in Independence, MO, offering a wide range of name-brand products including electronics, clothing, furniture, shoes, and hardware at competitive prices.We will upload corporate data soon. Customer information, financials and other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
