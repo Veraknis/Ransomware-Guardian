@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "ABAR S.p.A.",
+        "discovered": "2026-02-20 07:39:55.026199",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=2f5d0d3a-8a93-3240-b3b6-4bf16fd64a9e",
+        "magnet": null,
+        "screen": "screenshots/qilin/ABAR SpA.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wynn Resorts, Limited.",
+        "discovered": "2026-02-20 05:39:35.153068",
+        "description": "Over 800k records containing PII (SSNs, etc.) and employee data have been compromised.   This is a final warning to reach out by 24 Feb 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gentegra",
+        "discovered": "2026-02-20 01:41:40.326307",
+        "description": "GenTegra specializes in innovative solutions for the stabilization and shipping ...",
+        "link": "/leaks/69975c366387a4c9a215fb08",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Gentegra.png",
+        "group_name": "sinobi",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Graymatter",
+        "discovered": "2026-02-20 01:41:39.308363",
+        "description": "GrayMatter (graymatter.co.in) is a Bangalore-based IT company founded in 2006, s...",
+        "link": "/leaks/69976d5b6387a4c9a216b71e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Graymatter.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Universal Mailing Service",
+        "discovered": "2026-02-20 00:41:58.175077",
+        "description": "If the company does not contact us before 29/02/2026, the data will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Iblesoft",
+        "discovered": "2026-02-19 21:41:45.794034",
+        "description": "Iblesoft Inc. is a full service software development, global resource placement ...",
+        "link": "/leaks/699764a46387a4c9a2165d34",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Iblesoft.png",
+        "group_name": "sinobi",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Sika Technology",
+        "discovered": "2026-02-19 20:42:31.285584",
+        "description": "",
+        "link": "topic.php?id=40ITRO4EGChZPm",
+        "magnet": null,
+        "screen": "screenshots/play/Sika Technology.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Paisley Products of Canada",
+        "discovered": "2026-02-19 20:42:30.285419",
+        "description": "",
+        "link": "topic.php?id=sE4SQmT1cBR1Ms",
+        "magnet": null,
+        "screen": "screenshots/play/Paisley Products of Canada.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kirbor Homes",
+        "discovered": "2026-02-19 20:42:29.249369",
+        "description": "",
+        "link": "topic.php?id=okLYr7hft0geus",
+        "magnet": null,
+        "screen": "screenshots/play/Kirbor Homes.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tropic Tool & Mold",
+        "discovered": "2026-02-19 20:42:28.282669",
+        "description": "",
+        "link": "topic.php?id=Fn6oNkCblhOYjZ",
+        "magnet": null,
+        "screen": "screenshots/play/Tropic Tool & Mold.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arizona Lighting Sales",
+        "discovered": "2026-02-19 20:42:27.319386",
+        "description": "",
+        "link": "topic.php?id=frVxR5SypRKAAx",
+        "magnet": null,
+        "screen": "screenshots/play/Arizona Lighting Sales.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Indianapolis Car Exchange",
+        "discovered": "2026-02-19 20:42:26.325871",
+        "description": "",
+        "link": "topic.php?id=qaWotLRc7hIPvW",
+        "magnet": null,
+        "screen": "screenshots/play/Indianapolis Car Exchange.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Oklahoma Auto Exchange",
+        "discovered": "2026-02-19 20:42:25.276752",
+        "description": "",
+        "link": "topic.php?id=F7P163hKBbMUgV",
+        "magnet": null,
+        "screen": "screenshots/play/Oklahoma Auto Exchange.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Auto Auction of New England",
+        "discovered": "2026-02-19 20:42:24.264200",
+        "description": "",
+        "link": "topic.php?id=PbgsTRnIRyCVkS",
+        "magnet": null,
+        "screen": "screenshots/play/Auto Auction of New England.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Spring Brook Country Club",
+        "discovered": "2026-02-19 20:42:23.321165",
+        "description": "",
+        "link": "topic.php?id=dCcz8cvUMk2Aeq",
+        "magnet": null,
+        "screen": "screenshots/play/Spring Brook Country Club.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Corradino Group",
+        "discovered": "2026-02-19 20:41:50.690107",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=af489381-8de1-30f6-82fb-fcbf6b065f11",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Corradino Group.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "fivestates.com",
+        "discovered": "2026-02-19 20:41:38.993724",
+        "description": "Five States Energy is a private investment firm based in Dallas, Texas, with over 30 years of experience in the energy sector. The company specializes in acquir...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "cepezed.nl",
+        "discovered": "2026-02-19 20:41:26.479470",
+        "description": "cepezed is an award-winning spatial design firm. Its projects address challenges in urban planning, industry, interior design, and, especially, architecture. ce...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Saltech Systems",
+        "discovered": "2026-02-19 20:41:14.170436",
+        "description": "Saltech Systems is a technology company specializing in application development,...",
+        "link": "/leaks/69975b686387a4c9a215f77e",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Saltech Systems.png",
+        "group_name": "sinobi",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Electriduct",
+        "discovered": "2026-02-19 20:41:08.981243",
+        "description": "Electriduct specializes in cable management solutions, offering a wide range of ...",
+        "link": "/leaks/69975bd16387a4c9a215f8b4",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Electriduct.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mayfair Hotels & Resorts",
+        "discovered": "2026-02-19 20:41:06.565282",
+        "description": "MAYFAIR Hotels & Resorts is a premier, award-winning luxury hospitality chain in...",
+        "link": "/leaks/699761e76387a4c9a2163e4a",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Mayfair Hotels & Resorts.png",
+        "group_name": "sinobi",
+        "sector": "Retail"
+    },
+    {
         "post_title": "Kroll International",
         "discovered": "2026-02-19 19:40:51.870258",
         "description": "Architecture, Engineering & Design",
@@ -248,65 +458,5 @@
         "screen": "screenshots/qilin/Graneles de Chile.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Sawafi",
-        "discovered": "2026-02-19 03:39:17.426484",
-        "description": "sawafi.com zoominfo.com/c/sawafi-co/402330352 Sawafi is a Saudi Arabian company specializing in drilling, completions, and production services tailored to enhance oil and gas performance. With a commitment to innovation and sustainability, the company offers a variety of advanced technologies, including eco-friendly electric submersible pumps (ESP) and efficient drilling products. Targeting clients in the oil and gas sector, Sawafi is dedicated to supporting local value creation and self-sufficiency in line with national goals. The company also invests in strategic partnerships and acquisitions to bolster its service capabilities and market presence",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Valgo SA",
-        "discovered": "2026-02-19 01:39:20.305379",
-        "description": "",
-        "link": "/blog/disclosures/698cbf008f1d14b74360a03a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Valgo SA.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "University of Mannheim",
-        "discovered": "2026-02-18 23:39:58.087206",
-        "description": "Education",
-        "link": "/site/view?uuid=de1d6466-2ca8-34d0-8db1-4179e535803e",
-        "magnet": null,
-        "screen": "screenshots/qilin/University of Mannheim.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Washington International School - FULL DATA LEAK",
-        "discovered": "2026-02-18 22:39:15.657643",
-        "description": "#Leaknet #HackedData #CyberIncident #DataRisk #SensitiveData #PrivacyAlert #SecurityIncident #ConfidentialLeak #DataSpill #PrivacyBreach #Wis #InfoExposure\n#DataDump",
-        "link": "view_article.php?article=TdiCZNoVzzk8awIj7Lr3eiiuNFpfPMfmQsq0ZepZPszrbaxCw4dUXKlXO2k0tPO6",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leaknet",
-        "sector": "Education"
-    },
-    {
-        "post_title": "CCR Solutions",
-        "discovered": "2026-02-18 22:39:05.300362",
-        "description": "Here is porn with the CEO of the company and his naked photos.\nCCR Solutions is a diverse and talented group of problem solvers, imaginative thinkers and caring...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DeWalch Technologies, Inc",
-        "discovered": "2026-02-18 20:39:50.469904",
-        "description": "DeWalch Technologies, Inc. is a vertically integrated engineering and manufacturing company with operations in four key verticals: security, energy, manufacturing, and digital.",
-        "link": "/posts/69133f76eceea49e97964033",
-        "magnet": null,
-        "screen": "screenshots/nitrogen/DeWalch Technologies, Inc.png",
-        "group_name": "nitrogen",
-        "sector": "Manufacturing"
     }
 ]
