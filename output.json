@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Altalingua",
+        "discovered": "2026-02-20 19:39:46.384650",
+        "description": "Altalingua specializes in multilingual technical documentation, primarily servin...",
+        "link": "/leaks/698b71839c439c5f457c98af",
+        "magnet": null,
+        "screen": "screenshots/lynx/Altalingua.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "REDACTED",
+        "discovered": "2026-02-20 18:39:41.916226",
+        "description": "REDACTED",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Colonial Van Lines",
+        "discovered": "2026-02-20 18:21:13.015896",
+        "description": "Colonial Van Lines is a U.S.-based long-distance moving and relocation company headquartered in Pompano Beach, Florida. Founded in 2003, the family-owned company specializes in interstate and cross-country residential, corporate, and military moves. It provides full-service packing, loading, transportation, storage, and unpacking solutions across the 48 continental states. The company operates a nationwide network of agents and a fleet of moving trucks, handling thousands of moves annually. Colonial Van Lines trains its staff through its own training facility and focuses on customer care and customized relocation services. With decades of industry experience, it aims to make moving easier, safer, and more organized for customers. The company headquarters is located in 1441 SW 29th Ave, Pompano Beach, Florida 33069, United States. 51-200 Employees",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Colonial Van Lines.png",
+        "group_name": "medusa",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "RTC",
+        "discovered": "2026-02-20 18:20:44.442911",
+        "description": "RTC (rtc.com) is a global retail solutions and merchandising company that helps brands and retailers improve in-store shopping experiences and operational efficiency. The company designs and manufactures retail fixtures, shelf management systems, beverage merchandising displays, and theft-deterrence solutions, while also providing planning, development, rollout, and project management services. RTC works with major international brands to create customized retail environments that increase sales and productivity. With more than 75 years of industry experience, hundreds of employees, and offices and production facilities in multiple countries, RTC focuses on innovation, detail-driven retail design, and long-term client partnerships to support modern retail businesses worldwide. The company headquarters is located in 2800 Golf Road, Rolling Meadows, Illinois 60008, United States. 501-1,000 Employees",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/RTC.png",
+        "group_name": "medusa",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Aramsco",
+        "discovered": "2026-02-20 18:20:15.926098",
+        "description": "Aramsco is a U.S.-based distributor of professional cleaning, restoration, surface preparation, and safety products. The company supplies contractors and facility maintenance professionals with equipment, chemicals, tools, and personal protective equipment used in carpet cleaning, water and fire damage restoration, abatement, and construction preparation. In addition to product distribution, Aramsco provides training programs, technical education, disaster support, and equipment services to help businesses operate efficiently. It operates multiple branch locations and an online store serving customers nationwide. By combining industry expertise, support services, and a wide product catalog, Aramsco positions itself as a one-stop source for professional restoration and cleaning industry needs. The company headquarters is located in Five Radnor Corporate Center, 100 Matsonford Road, Suite 510, Radnor, Pennsylvania 19087, United States. 1K - 5K Employees",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Aramsco.png",
+        "group_name": "medusa",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Madison Services, Inc.",
+        "discovered": "2026-02-20 17:39:47.026750",
+        "description": "Construction",
+        "link": "/site/view?uuid=ec0bb78b-7c39-3c17-9647-3e4ab8a98f4b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Madison Services, Inc.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Stera Chemicals",
+        "discovered": "2026-02-20 16:39:57.343832",
+        "description": "Stera Chemicals is a leading distributor of raw chemical materials in Romania, s...",
+        "link": "/leaks/6994c4ea9c439c5f451468fd",
+        "magnet": null,
+        "screen": "screenshots/lynx/Stera Chemicals.png",
+        "group_name": "lynx",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Keylogistics Chile",
+        "discovered": "2026-02-20 16:39:56.352443",
+        "description": "Keylogistics Chile S A is a company that operates in the Restaurants industry. I...",
+        "link": "/leaks/6994ce069c439c5f451517ad",
+        "magnet": null,
+        "screen": "screenshots/lynx/Keylogistics Chile.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Cherokee Group",
+        "discovered": "2026-02-20 16:39:53.935163",
+        "description": "Fabcon manufactures and erects precast concrete wall panels for every type of structure. Projects range from a 10,000 square-foot machine shop to a one-million square foot distribution center, and from a single-story bakery to a 16-story housing facility.We will upload corporate data soon. Employee personal documents (passports, DLs and so on), financials, projects, drawings and specification, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "McFarlane Agencies",
+        "discovered": "2026-02-20 16:39:52.943649",
+        "description": "McFarlane Agencies is an independent insurance brokerage located in Okotoks, Alberta, specializing in a wide range of insurance and financial services since 1975. They offer automobile, recreational, commercial, travel, pet, farm, acreage, and property insurance, along with financial services through a partnership with Desjardins Financial Security Investments Inc.We will upload 10gb of corporate data soon. Detailed clients' personal documents (SSNs, passports, DLs, addresses, phones and so on), employee information, financials, client information, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
         "post_title": "polymedicure.com",
         "discovered": "2026-02-20 15:39:50.473232",
         "description": "",
@@ -258,75 +358,5 @@
         "screen": "screenshots/sinobi/Mayfair Hotels & Resorts.png",
         "group_name": "sinobi",
         "sector": "Retail"
-    },
-    {
-        "post_title": "Kroll International",
-        "discovered": "2026-02-19 19:40:51.870258",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=e157db1a-4d21-3ace-852b-2723b65f1fc9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kroll International.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TCPN Inc",
-        "discovered": "2026-02-19 18:42:29.437453",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fico Ferragens Indústria e Comércio Ltda",
-        "discovered": "2026-02-19 18:42:28.359776",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RS Development LLC",
-        "discovered": "2026-02-19 18:42:27.317674",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ausgewählt Vertriebs GmbH",
-        "discovered": "2026-02-19 18:42:26.322509",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "exceldor.ca",
-        "discovered": "2026-02-19 18:42:00.264792",
-        "description": "We have about 1.5 TB of data from the company's servers. We will publish some of it in the near future. If you think you are here by mistake, please contact us at brain.dataleak@cy...",
-        "link": "/n/exceldor-ca",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/exceldorca.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Telecare",
-        "discovered": "2026-02-19 17:42:17.381091",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=568578a9-0f7f-3aea-895d-c11eb05104eb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Telecare.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
