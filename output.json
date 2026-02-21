@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "onlinedivorcetexas.com",
+        "discovered": "2026-02-21 14:41:58.158588",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grupo Tomza",
+        "discovered": "2026-02-21 14:41:40.316730",
+        "description": "Software",
+        "link": "/site/view?uuid=9c11e7de-5468-31c0-85fc-063c5f869e36",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Tomza.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "WTSmedia",
+        "discovered": "2026-02-21 14:41:34.446270",
+        "description": "Electronics",
+        "link": "/site/view?uuid=41a0caff-94e8-33be-b76b-c5eef1eb1257",
+        "magnet": null,
+        "screen": "screenshots/qilin/WTSmedia.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Esperance Metaland",
+        "discovered": "2026-02-21 14:41:31.302528",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=767f25bb-dd04-3803-86b1-11bdabf3611a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Esperance Metaland.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Micaforce Technology",
         "discovered": "2026-02-21 03:39:09.057885",
         "description": "Data breach involving the cloud provider's clients.",
@@ -458,55 +498,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Finance"
-    },
-    {
-        "post_title": "polymedicure.com",
-        "discovered": "2026-02-20 15:39:50.473232",
-        "description": "",
-        "link": "/blog/disclosures/699860528f1d14b7434f80f7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/polymedicurecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fabcon",
-        "discovered": "2026-02-20 15:39:48.869072",
-        "description": "Fabcon manufactures and erects precast concrete wall panels for every type of structure. Projects range from a 10,000 square-foot machine shop to a one-million square foot distribution center, and from a single-story bakery to a 16-story housing facility.We will upload almost 190gb of corporate data soon. Client information, employee personal documents (passports, SSNs, DLs and so on), detailed financials, projects (confidential files), NDAs, etc. Kerkstra Precast company data will be disclosed as well.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Pearl Institute for Clinical Research LLC",
-        "discovered": "2026-02-20 10:40:47.182364",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Makimura Co., Ltd",
-        "discovered": "2026-02-20 10:40:45.979192",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.shora.ma",
-        "discovered": "2026-02-20 09:42:54.618167",
-        "description": "Shora Advisory is a network of accounting, consulting, and auditing firms located in major cities across Morocco, dedicated to providing high value-added services. They offer a range of services including financial management consulting, accounting expertise, legal and tax expertise, and training. The company focuses on proximity to clients, respecting their specific needs and constraints related to their industry. Shora Advisory aims to combine their expertise with that of their clients to foster mutual success",
-        "link": "/blog/4821b80070a6e4cec911a0f632e4702e30d7342375f19a0ad50809abd1ebc631/",
-        "magnet": null,
-        "screen": "screenshots/tengu/wwwshorama.png",
-        "group_name": "tengu",
-        "sector": "Professional Services"
     }
 ]
