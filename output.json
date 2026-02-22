@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Okanogan County Vets",
+        "discovered": "2026-02-22 07:42:44.565918",
+        "description": "Government",
+        "link": "/site/view?uuid=a89c1883-de00-3834-96bc-c28b562b24df",
+        "magnet": null,
+        "screen": "screenshots/qilin/Okanogan County Vets.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Tactis",
+        "discovered": "2026-02-22 07:42:43.523121",
+        "description": "Construction",
+        "link": "/site/view?uuid=38c25372-3a2d-3a4d-a3db-a5f426ab5780",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tactis.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Maintenance & Project Engineering",
+        "discovered": "2026-02-22 07:42:42.531628",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=65b66862-b338-37c2-9fb5-268046535e3f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Maintenance & Project Engineering.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Complete Thermal Svc",
+        "discovered": "2026-02-22 07:42:41.494604",
+        "description": "Construction",
+        "link": "/site/view?uuid=73aa04d9-d981-345e-bf87-f3d5d6512537",
+        "magnet": null,
+        "screen": "screenshots/qilin/Complete Thermal Svc.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "CYMOT",
+        "discovered": "2026-02-22 07:42:40.447121",
+        "description": "Automotive Parts",
+        "link": "/site/view?uuid=f0d8521b-e802-3471-988c-596f0c885439",
+        "magnet": null,
+        "screen": "screenshots/qilin/CYMOT.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "US Trading",
+        "discovered": "2026-02-22 07:42:39.426478",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=85c564d6-3913-37a7-821b-d85c07f4dca6",
+        "magnet": null,
+        "screen": "screenshots/qilin/US Trading.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Beacon Pointe Advisors",
+        "discovered": "2026-02-21 20:43:13.678662",
+        "description": "Over 100k Salesforce records were compromised including over 59k containing PII and other internal corporate data have been compromised.   The company failed to reach an agreement with us despite all the chances and offers we made. They don't care about their clients nor investors.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Bluefish Dental & Orthodontics",
         "discovered": "2026-02-21 17:42:32.414357",
         "description": "Healthcare Services",
@@ -47,366 +117,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Esperance Metaland.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Micaforce Technology",
-        "discovered": "2026-02-21 03:39:09.057885",
-        "description": "Data breach involving the cloud provider's clients.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/QL9vpaahcL7EUHxAwE9pdla1gO8avpwuBojORroyS4grTgEigru86b20MehFxBfRHulDhR5maZPZqdS9TE08QEF3ZjV1emVs",
-        "magnet": null,
-        "screen": "screenshots/anubis/Micaforce Technology.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "LaBaguette",
-        "discovered": "2026-02-20 23:42:19.031170",
-        "description": "Software",
-        "link": "/site/view?uuid=14ad1965-e490-3c87-9751-2448cf4cde71",
-        "magnet": null,
-        "screen": "screenshots/qilin/LaBaguette.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "bardahl.com.mx",
-        "discovered": "2026-02-20 21:53:51.840821",
-        "description": "About Bardahl De México, SA De CV\nBardahl de México specializes in automotive products, being a lea...",
-        "link": "/post/e1ce0ca66121476943a3c4d1d7481aa6",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/bardahlcommx.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "latinoseguros.com.mx",
-        "discovered": "2026-02-20 21:53:50.812413",
-        "description": "La Latinoamericana, Seguros SA is a company that operates in the Insurance industry. It employs 50to...",
-        "link": "/post/a02fa2e489bb14ff17bc6a822c2b1e46",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/latinoseguroscommx.png",
-        "group_name": "lockbit5",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "autoservizilocatelli.it",
-        "discovered": "2026-02-20 21:53:49.778705",
-        "description": "Autoservizi Locatelli garantisce un servizio di trasporto affidabile e capillare tra Bergamo (Stazio...",
-        "link": "/post/e2c093fd1cde0abf305d436b233c6155",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/autoservizilocatelliit.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "gruposelpe.com.br",
-        "discovered": "2026-02-20 21:53:48.755748",
-        "description": "Selpe Consultoria de RH specializes in human resources and people management, offering services in r...",
-        "link": "/post/5571ff3c5793a65734557cd6f0255c17",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/gruposelpecombr.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "guarnera.com.br",
-        "discovered": "2026-02-20 21:53:47.754817",
-        "description": "Guarnera Advogados is a law firm with over 35 years of experience specializing in international tran...",
-        "link": "/post/4cdcffe9af84c67d2dd5aa91a244b774",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/guarneracombr.png",
-        "group_name": "lockbit5",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "kenta.com.br",
-        "discovered": "2026-02-20 21:53:46.701209",
-        "description": "Kenta Informtica helps government and legal organizations manage their information better. Founded i...",
-        "link": "/post/a41f386eed175f6a1db08991fafd2817",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/kentacombr.png",
-        "group_name": "lockbit5",
-        "sector": "Government"
-    },
-    {
-        "post_title": "fcc-inc.com",
-        "discovered": "2026-02-20 21:53:45.703360",
-        "description": "Fremont Contract Carriers, Inc. - FCC - strives to be a low cost carrier, while still providing qual...",
-        "link": "/post/32c1f0ff04061256274c4146e9f734c0",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/fcc-inccom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "grupoferrosider.com.br",
-        "discovered": "2026-02-20 21:53:44.715387",
-        "description": "Ferrosider Componentes is a leading provider of automotive parts and components designed for the met...",
-        "link": "/post/761c926fb58634808f51350cf3dd2b03",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/grupoferrosidercombr.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "cs.at",
-        "discovered": "2026-02-20 21:53:43.687332",
-        "description": "CS Pflege & Betreuung\nDie CS Caritas Socialis bietet Pflege- und Betreuungsangebote aus einer Hand:...",
-        "link": "/post/7498b53ee40b9dd9708b3b6c289494a7",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/csat.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hanover-ma.gov",
-        "discovered": "2026-02-20 21:53:42.666422",
-        "description": "The mission of the Hanover Police Department is to prevent crime, but instead of doing their job, th...",
-        "link": "/post/edebbb48a4ce93f9b22e7ef0bfeaf8c5",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/hanover-magov.png",
-        "group_name": "lockbit5",
-        "sector": "Government"
-    },
-    {
-        "post_title": "sands.mu",
-        "discovered": "2026-02-20 21:53:41.571357",
-        "description": "Sands Suites Resort & Spa is a tranquil beachfront boutique hotel in Mauritius that offers luxury ac...",
-        "link": "/post/7144ec541db7941cc3220cb1045be9f2",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/sandsmu.png",
-        "group_name": "lockbit5",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "cmcconstruct.com",
-        "discovered": "2026-02-20 21:53:40.582326",
-        "description": "Chamberlain & McCreery is a general contractor specializing in the construction of custom, energy-ef...",
-        "link": "/post/0696101f503886e3aca502bcc9269dd8",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/cmcconstructcom.png",
-        "group_name": "lockbit5",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "renovagy.com",
-        "discovered": "2026-02-20 21:53:39.510206",
-        "description": "Renovagy provides business services. Contact them directly for more information about their offering...",
-        "link": "/post/a9001505f08f3179aa40c4a447f6c91f",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/renovagycom.png",
-        "group_name": "lockbit5",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "aeromedsocaustralasia.org",
-        "discovered": "2026-02-20 21:53:38.491903",
-        "description": "The Aeromedical Society of Australasia is a non-profit, membership-based organization that serves as...",
-        "link": "/post/41eb50ebf9cac71d2f01e78e4165b67b",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/aeromedsocaustralasiaorg.png",
-        "group_name": "lockbit5",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "isesa.cl",
-        "discovered": "2026-02-20 21:53:37.466320",
-        "description": "Isesa S.A. is a leader in providing a wide range of abrasive solutions, tools, and machinery, with o...",
-        "link": "/post/d56badb62f78dd241677268ffa5f656d",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/isesacl.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "sosltda.com",
-        "discovered": "2026-02-20 21:53:36.446636",
-        "description": "S.O.S. Ltda is a leading security solutions provider in Colombia, established in 1957. They speciali...",
-        "link": "/post/84262b603c5cb52851427833e6c7d3c8",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/sosltdacom.png",
-        "group_name": "lockbit5",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "sevenstarsgracebay.com",
-        "discovered": "2026-02-20 21:53:35.391751",
-        "description": "Seven Stars Resort & Spa is a luxurious oceanfront retreat located in Turks and Caicos, offering a p...",
-        "link": "/post/5a09fd3878cc6e7a3be05df44fc9f364",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/sevenstarsgracebaycom.png",
-        "group_name": "lockbit5",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "vilati.com",
-        "discovered": "2026-02-20 21:53:34.326627",
-        "description": "VILATI Gyártó Zrt. is a Central European company specialising in sheet metal cutting and bending, ma...",
-        "link": "/post/aa8a05537c2d45868b0b2eac1caae6cc",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/vilaticom.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "utc.com.kw",
-        "discovered": "2026-02-20 21:53:33.320235",
-        "description": "Union Trading Company W.L.L. (UTC) is a leading retailer and distributor in Kuwait",
-        "link": "/post/e1c338ff76a9706d2aa64e305094d951",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/utccomkw.png",
-        "group_name": "lockbit5",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "mengseng.com",
-        "discovered": "2026-02-20 21:53:32.343886",
-        "description": "Meng Seng Plastic Co., Ltd. is a comprehensive manufacturer of plastic packaging, specializing in co...",
-        "link": "/post/872a69c011e339a711d7176d133fe0f4",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/mengsengcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "maxusacorp.com",
-        "discovered": "2026-02-20 21:53:31.325636",
-        "description": "The company specializes in developing innovative and durable tools such as rebar tiers, nail guns, a...",
-        "link": "/post/c9b1db05a1ba965bcce5eef7eb4bca00",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/maxusacorpcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "lasevillanita.com",
-        "discovered": "2026-02-20 21:53:30.285589",
-        "description": "Transportes La Sevillanita Srl is a company that operates in the Freight & Logistics Services indust...",
-        "link": "/post/c68927dd8ebcf9f5f720855b22dab0b2",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/lasevillanitacom.png",
-        "group_name": "lockbit5",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "dmxm.com",
-        "discovered": "2026-02-20 21:53:29.216788",
-        "description": "Description: Dynamic Machining & Manufacturing (DM²) is a Swiss-style machining company that special...",
-        "link": "/post/53f5e83d19c597ce6d20eec90f453f53",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/dmxmcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "yfynqygs.com",
-        "discovered": "2026-02-20 21:53:28.204004",
-        "description": "http://wx.yfynqygs.com/\nYunan County Qingyuan Water Supply Co., Ltd., located in Yunfu City, Guangd...",
-        "link": "/post/4a84e7b40310af6fee699bb9f06203d4",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/yfynqygscom.png",
-        "group_name": "lockbit5",
-        "sector": "Government"
-    },
-    {
-        "post_title": "czkingdee.com",
-        "discovered": "2026-02-20 21:53:27.110807",
-        "description": "公司简介\n江苏智蝶数字科技有限公司（原常州金蝶）成立于1999年。是金蝶集团连续20多年优秀合作伙伴和2022首批“金蝶全国性交付伙伴”、江苏省高新技术企业、江苏省智能制造领军服务机构、江苏省专精特...",
-        "link": "/post/6315297437088b4cb558170d31df7a64",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/czkingdeecom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "humsnlr.com",
-        "discovered": "2026-02-20 21:53:26.118993",
-        "description": "Hum’s Hardware & Rental was founded by the Hum family in 1956 and the tradition continues with cur...",
-        "link": "/post/79091ae75d4ca0db9ee8f255e1583887",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/humsnlrcom.png",
-        "group_name": "lockbit5",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "crystalcoastpm.com",
-        "discovered": "2026-02-20 21:53:25.092382",
-        "description": "Crystal Coast Pain Management Center specializes in providing a comprehensive range of services for...",
-        "link": "/post/0d0691adb325bea169d66dfa956c28e9",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/crystalcoastpmcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "xpressnebs.com",
-        "discovered": "2026-02-20 21:53:24.077841",
-        "description": "Xpress Nebs is a JCAHO certified Durable Medical Equipment company that specializes in providing hig...",
-        "link": "/post/96eb781c3cc67b78dec6b36a88dd250f",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/xpressnebscom.png",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "wjnklaw.com",
-        "discovered": "2026-02-20 21:53:22.027475",
-        "description": "Westervelt, Johnson, Nicoll & Keller, LLC is a historic law firm based in Peoria, Illinois, with ove...",
-        "link": "/post/00028a663f77ab851c3413254946bdac",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/wjnklawcom.png",
-        "group_name": "lockbit5",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "smilescare.com",
-        "discovered": "2026-02-20 21:53:19.656295",
-        "description": "At SmilesCare.com, we are committed to being your trusted source for reliable and easy-to-understand...",
-        "link": "/post/0eab4e56ab479678799d02af01031a30",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/smilescarecom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "moa.gov.eg",
-        "discovered": "2026-02-20 21:53:17.017163",
-        "description": "The Ministry of Agriculture and Land Reclamation is a governmental body focused on advancing agricul...",
-        "link": "/post/5e2712d878f7e55580bf807bf95cdc93",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/moagoveg.png",
-        "group_name": "lockbit5",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "associated.org",
-        "discovered": "2026-02-20 21:53:11.241160",
-        "description": "The Associated: Jewish Federation of Baltimore is dedicated to supporting and nurturing Jewish life...",
-        "link": "/post/9ea02fe0b16eea767fee104e4f7e65b7",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/associatedorg.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "wilhelmsen.com",
-        "discovered": "2026-02-20 21:53:04.933855",
-        "description": "Founded in Norway in 1861, Wilhelmsen is a global maritime industry group. With the world&#039;s lar...",
-        "link": "/post/6671dd8da060de946eca8fa485f5925f",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/wilhelmsencom.png",
-        "group_name": "lockbit5",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "davila.cl",
-        "discovered": "2026-02-20 21:52:58.841748",
-        "description": "Bienvenidos a Red Dávila, contamos con la mejor atención y trabajamos con los más altos estándares d...",
-        "link": "/post/80949a2c05ca2ec9b38c43108bec83ad",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/davilacl.png",
-        "group_name": "lockbit5",
         "sector": "Unknown"
     }
 ]
