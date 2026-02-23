@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "FAMILY EYECARE LLC",
+        "discovered": "2026-02-23 15:44:05.311606",
+        "description": "0",
+        "link": "/site/view?uuid=0af6589d-f2ad-3e5d-b701-78bf9b7fd515",
+        "magnet": null,
+        "screen": "screenshots/qilin/FAMILY EYECARE LLC.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The City of Cocoa",
+        "discovered": "2026-02-23 15:44:01.584578",
+        "description": "",
+        "link": "/blog/disclosures/699c5c908f1d14b743962624",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/The City of Cocoa.png",
+        "group_name": "inc ransom",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Zip24 - ShipOx",
+        "discovered": "2026-02-23 15:10:59.152540",
+        "description": "Over 27 million rows of PII from ShipOx by Zip24 have been exfiltrated, including customer, driver, employee and order data totaling over 60GB, samples are being put together and will be uploaded shortly, they have 1 week to pay or contact us to negotiate, else all of it is leaked and their decryption keys will be destroyed.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cipherforce/Zip24 - ShipOx.png",
+        "group_name": "cipherforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "FindNear ",
+        "discovered": "2026-02-23 15:10:21.254740",
+        "description": "FindNear (findnear.vn) is a Vietnamese multi-utility app and platform, developed by ADA Vietnam, designed to connect users with nearby stores, services, and friends. It functions as a local, location-based social network and marketplace, allowing users to find, navigate, and buy from businesses close to them. Password for file: @shellforce",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cipherforce/FindNear .png",
+        "group_name": "cipherforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "tektreeinc.com",
+        "discovered": "2026-02-23 15:09:51.166503",
+        "description": "Previously this was for sale, no one bought it, so we are asking for a ransom, if it is not paid, this will be public.\r\n\r\n500k records of multinational applicants\r\n\r\nFirst Name\r\nLast Name\r\nCountry\r\nState\r\nCity\r\nZip code\r\nJob Title\r\nSkills\r\nRaw Resume (you can see applicant's phone number in cv)\r\nExperience Years\r\nExperience Months\r\nEducation Details\r\nEmail Address\r\nWork Authorization - (\"workAuthorization\": \"Employment Auth Document\", \"workAuthorization\": \"Green Card\" \"workAuthorization\": \"US Citizen\")\r\nGender\r\nRelocate\r\nLocation",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cipherforce/tektreeinccom.png",
+        "group_name": "cipherforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "hiringsteps.com",
+        "discovered": "2026-02-23 15:09:20.523844",
+        "description": "This breach includes:\r\n\r\nFull Name\r\nLocation\r\nCompany\r\nJob Title\r\nEmail\r\nApply Date\r\nAnd more\r\n\r\nNumber of Records:453k\r\n\r\nPass: @shellforce",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cipherforce/hiringstepscom.png",
+        "group_name": "cipherforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Biaodianyun Group Ltd",
+        "discovered": "2026-02-23 15:08:45.000696",
+        "description": "Biaodianyun Group Ltd is a Chinese technology company that specializes in video-centric solutions. It focuses primarily on Software as a Service (SaaS) and Platform as a Service (PaaS) offerings tailored for video technology.\r\n\r\nData available:\r\n189,288 Users Data\r\n3709 lines loan data\r\nFirst Name\r\nLast Name\r\nMobile Number\r\nGender\r\nCity\r\nAvatar\r\nWechat id\r\nunion id\r\nAccount balance\r\nBank Account Number\r\nBank code\r\nxcxopenid\r\nopenid",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cipherforce/Biaodianyun Group Ltd.png",
+        "group_name": "cipherforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Rohner",
+        "discovered": "2026-02-23 10:42:03.522816",
+        "description": "Rohner\nRohner designs and builds high-quality, custom paint booths and  manufactured industrial paint systems. Our quality and service, cutting-edge technology, and engineering experience provide the best value in the finishing equipment industry.\n\n\n\nMore",
+        "link": "archive.php?company=251",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Rohner.png",
+        "group_name": "rhysida",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "SATURNO transporti",
         "discovered": "2026-02-23 05:41:13.878359",
         "description": "",
@@ -98,45 +178,5 @@
         "screen": "screenshots/play/Chemical Computing Group.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Operations begin.",
-        "discovered": "2026-02-22 14:37:23.323228",
-        "description": "",
-        "link": "/post/operations-begin",
-        "magnet": null,
-        "screen": "screenshots/kittykatkrew/Operations begin.png",
-        "group_name": "kittykatkrew",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AllChem Industries",
-        "discovered": "2026-02-22 14:37:21.932272",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=c90c7d74-c4ad-3d55-9ee7-ef2b9171dd04",
-        "magnet": null,
-        "screen": "screenshots/qilin/AllChem Industries.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Cumberland International Trucks",
-        "discovered": "2026-02-22 13:44:01.791159",
-        "description": "Business Services",
-        "link": "/site/view?uuid=58731802-cea2-36bc-95ec-015c2b601ebe",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cumberland International Trucks.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "North Woodlands Medical Centre",
-        "discovered": "2026-02-22 12:42:42.432679",
-        "description": "0",
-        "link": "/site/view?uuid=fb9f4b8c-5813-37e0-9685-cd6a7aba20ed",
-        "magnet": null,
-        "screen": "screenshots/qilin/North Woodlands Medical Centre.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
     }
 ]
