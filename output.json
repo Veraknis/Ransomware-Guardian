@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Zaner Group",
+        "discovered": "2026-02-25 16:39:21.558507",
+        "description": "Zaner, a family-owned brokerage since 1980, provides global commodities risk-management, advisory, research, and trading tech. Serving futures, metals, currencies, energies and agriculture, they offer hedging, precious metals solutions, competitive pricing.",
+        "link": "/Company/Zaner/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Zaner Group.png",
+        "group_name": "insomnia",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Sus Insumos S.A.S",
+        "discovered": "2026-02-25 16:39:04.885405",
+        "description": "SECTOR: Seller                         •                         COUNTRY: CO                         •                         SITE: Susinsumos.com",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Del Rey",
+        "discovered": "2026-02-25 16:39:02.111385",
+        "description": "SECTOR: IT                         •                         COUNTRY: BR                         •                         SITE: https://delreyservicos.com.br",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Technology"
+    },
+    {
         "post_title": "111",
         "discovered": "2026-02-25 15:39:58.385674",
         "description": "",
@@ -368,115 +398,5 @@
         "screen": "screenshots/vect/AUVO.png",
         "group_name": "vect",
         "sector": "Technology"
-    },
-    {
-        "post_title": "S&H Accounting: When Your Accountant Needs IT Therapy",
-        "discovered": "2026-02-24 19:42:48.270728",
-        "description": "#Leaknet #InfoSec #CyberRisk #DataExposure #SecurityFailure #DataSpill #TrustBroken #Sandhaccounting #S&haccounting",
-        "link": "view_article.php?article=zY0b5Z24QQBFMDsipYTVVckyOAVx7C4zQvmqVTMPbrSTrRVbuGEnWzPyDyQvx3WM",
-        "magnet": null,
-        "screen": "screenshots/leaknet/S&H Accounting: When Your Accountant Needs IT Therapy.png",
-        "group_name": "leaknet",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Grant Production Testing Services",
-        "discovered": "2026-02-24 19:42:42.903296",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "K****g",
-        "discovered": "2026-02-24 19:42:41.846149",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hudson Awning",
-        "discovered": "2026-02-24 18:42:48.253568",
-        "description": "Hudson Awning has been providing exceptional products and services since 1881, specializing in a wide variety of awnings, including fabric awnings, metal canopi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Middlesex Transporters",
-        "discovered": "2026-02-24 18:42:46.781678",
-        "description": "Middlesex Transporters LLC specializes in non-emergency medical transportation services aimed at providing cost-effective solutions for patients with healthcare...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Sungwoo Co., Ltd",
-        "discovered": "2026-02-24 17:43:06.686181",
-        "description": "Overview: Sungwoo Co., Ltd. is a South Korean manufacturer primarily engaged in the production and sale of secondary battery components (rechargeable batteries).",
-        "link": "/card/sungwoo_co___ltd",
-        "magnet": null,
-        "screen": "screenshots/beast/Sungwoo Co, Ltd.png",
-        "group_name": "beast",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "SAIC Motor Corporation",
-        "discovered": "2026-02-24 17:43:05.641548",
-        "description": "SAIC Motor Corporation Limited is the largest state-owned automobile manufacturer in China and one of the \"Big Four\" in the country's automotive industry. Headquartered in Shanghai, the company's business covers the development, manufacture, and sale of passenger and commercial vehicles, as well as auto parts and financial services",
-        "link": "/card/saic_motor_corporation",
-        "magnet": null,
-        "screen": "screenshots/beast/SAIC Motor Corporation.png",
-        "group_name": "beast",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "AJU Pharm Co., Ltd",
-        "discovered": "2026-02-24 17:43:02.375445",
-        "description": "AJU Pharm Co., Ltd. is a prominent South Korean total healthcare company founded in 1953. For over 70 years, it has evolved from a manufacturer of raw materials into a global pharmaceutical group specializing in prescription drugs, medical devices, and health supplements",
-        "link": "/card/aju_pharm_co___ltd",
-        "magnet": null,
-        "screen": "screenshots/beast/AJU Pharm Co, Ltd.png",
-        "group_name": "beast",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "UMSA_LEAK.7z",
-        "discovered": "2026-02-24 17:19:51.821529",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/shadowbyt3$/UMSA_LEAK7z.png",
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Boltech",
-        "discovered": "2026-02-24 16:43:25.663557",
-        "description": "",
-        "link": "/news/Boltech/",
-        "magnet": null,
-        "screen": "screenshots/everest/Boltech.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Microforum",
-        "discovered": "2026-02-24 16:43:08.979804",
-        "description": "WMicroforum specializes in vinyl record pressing and offers a variety of services including CD/DVD & Blu-Ray production, cassette duplication, and bespoke packaging.We will upload over 1TB of corporate data soon. Employee files, specifications, projects, detailed financials, confidential agreements (PEPSICO and others), HR files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
     }
 ]
