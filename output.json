@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "Land and Lakes",
+        "discovered": "2026-02-27 15:43:10.322741",
+        "description": "Civil Engineering Construction",
+        "link": "/site/view?uuid=98003c77-3117-39e0-af79-e9a1a03c332a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Land and Lakes.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Straive",
+        "discovered": "2026-02-27 15:43:09.362533",
+        "description": "Business Services",
+        "link": "/site/view?uuid=bd94c6dc-a852-3754-9c05-272c053fff74",
+        "magnet": null,
+        "screen": "screenshots/qilin/Straive.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Golden GBC",
+        "discovered": "2026-02-27 15:43:08.361521",
+        "description": "Office Products Retail & Distribution",
+        "link": "/site/view?uuid=711610e0-d755-38d1-8fdb-7e61c5db600c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Golden GBC.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Unisoft Communications",
+        "discovered": "2026-02-27 15:43:06.511783",
+        "description": "Unisoft Communications, Inc. specializes in developing advanced communication software solutions for the non-standard Property andCasualty Insurance industry. With over 40 years of experience through its sister company, Unicorp Data Processing, Inc., the company addresses the communication challenges faced by insurance companies, premium finance companies, and their agents.We will upload 31gb of corporate data soon. Employee data, clients' data, financials, lots of contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gemsen",
+        "discovered": "2026-02-27 15:43:05.427299",
+        "description": "Gemsen is a leading national distributor of high-quality consumerelectronics in Canada. They specialize in supplying Canadian retailers with the finest brands of audio and video products in the home, mobile, marine, and power sports categories.We will upload 20gb of corporate data soon. Personal information of clients and employees, financials, lots of contracts and agreements, projects, NDA's, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Ching Feng Home Fashions",
+        "discovered": "2026-02-27 14:42:17.455713",
+        "description": "Business Services",
+        "link": "/site/view?uuid=fb608fb3-a3b5-3c59-a066-a407f24a6fe2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ching Feng Home Fashions.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Com-Tec",
+        "discovered": "2026-02-27 14:42:15.528796",
+        "description": "Com-Tec Communications specializes in structured network cabling and offers tailored technology solutions for businesses in OrangeCounty and Lake Forest, California. Their services include telecom VOIP, surveillance systems, Wi-Fi improvements, network infrastructure, and audio-visual enhancements to boost productivity andsecurity.We will upload 70gb of corporate data soon. Employee files (passport and DL scans, i-9 forms and so on), specifications and projects, financials, confidential files, HR files, client and partner files, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "American Beauty School",
+        "discovered": "2026-02-27 14:42:14.460459",
+        "description": "American Beauty School, established over 50 years ago, offers diverse and innovative educational opportunities in cosmetology, nail specialty, and esthetics. Located in the Bronx, NYC, the schoolhas built strong relationships with local salon and spa owners, providing hands-on experience and career support for its students. We will upload corporate data soon. Employee files (passport and DL scans and so on), financials and other internal files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Ace Ethanol",
+        "discovered": "2026-02-27 14:42:13.298696",
+        "description": "Ace Ethanol LLC serves as a marketing resource for corn producersin northwestern Wisconsin, focusing on the production of ethanol, dried distillers grains, and corn oil. The company aims to contribute to national energy freedom while ensuring improved efficiencies and environmental safety.We will upload 15gb of corporate data soon. Employee files (SSNs,w9 forms and so on), specifications and projects, chemical recipes, financials, lots of HR files, partner's files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Neinver",
+        "discovered": "2026-02-27 13:43:28.908493",
+        "description": "",
+        "link": "/r/fc6b55a32e7b3578c3aaa2adb48886e8d5748abf",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Neinver.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Accelerated Services",
+        "discovered": "2026-02-27 13:43:26.731739",
+        "description": "",
+        "link": "/r/3d49ed342f3d0efcfd865971522ed6316520d503",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Accelerated Services.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lymphedema Therapy Specialists",
+        "discovered": "2026-02-27 12:42:32.663280",
+        "description": "",
+        "link": "/blog/disclosures/69a170778f1d14b743449ab3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Lymphedema Therapy Specialists.png",
+        "group_name": "inc ransom",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Triumph International",
+        "discovered": "2026-02-27 12:42:30.644458",
+        "description": "",
+        "link": "/companies/triumphinter",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Triumph International.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "In.Sa.Cor",
+        "discovered": "2026-02-27 11:43:43.692313",
+        "description": "InSaCor specializes in a wide range of gas-related products and sanitary solutions, including gas regulators, fittings, and various types of plumbing fixtures. Their offerings include high-quality materials for both residential and commercial applications, catering to clients in the construction and maintenance sectors.",
+        "link": "/posts/25a9556d-86ed-45dd-a113-c1338f2488a4",
+        "magnet": null,
+        "screen": "screenshots/payload/InSaCor.png",
+        "group_name": "payload",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Prizm Pain",
+        "discovered": "2026-02-27 10:42:23.687863",
+        "description": "Prizm Pain Specialists is a privately held medical practice based in Canton, Michigan, specializing in comprehensive pain management for both chronic and acute conditions.",
+        "link": "/posts/cd04bee7-c70e-4394-87ec-10326a7d1b5d",
+        "magnet": null,
+        "screen": "screenshots/payload/Prizm Pain.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Law Offices Taenzer & Ettenson, P.C. (tesalaw.com)",
+        "discovered": "2026-02-27 10:42:00.498591",
+        "description": "",
+        "link": "/blog/disclosures/699ecb888f1d14b743ced0c0",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Law Offices Taenzer & Ettenson, PC (tesalawcom).png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Empresa de Transportes Via Pajuçara Ltda.",
+        "discovered": "2026-02-27 09:42:11.931941",
+        "description": "",
+        "link": "/blog/disclosures/69a154718f1d14b74341c877",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Empresa de Transportes Via Pajuçara Ltda.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Audexia group",
+        "discovered": "2026-02-27 09:42:09.531126",
+        "description": "Audexia Bourges - Volkswagen is a dealership known for its strong customer service and expertise in the automotive field. Located in Saint-Doulchard, France, it...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Tract Consulting",
         "discovered": "2026-02-27 03:39:13.833473",
         "description": "",
@@ -198,125 +378,5 @@
         "screen": "screenshots/insomnia/Thrash Commercial Contractors.png",
         "group_name": "insomnia",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "**d* **r *e*s",
-        "discovered": "2026-02-26 15:40:43.167323",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*i***q** **r**n*s * H**o*",
-        "discovered": "2026-02-26 15:40:38.470344",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Zabun",
-        "discovered": "2026-02-26 15:40:06.420444",
-        "description": "zabungrup.com.tr zoominfo.com/c/zabungrupcomtr/1334953411 Zabun Grup specializes in the design and construction of exhibition stands, leveraging extensive experience in both domestic and international prestigious trade fairs. Their projects focus on innovative and functional stand designs that enhance brand representation while prioritizing aesthetics, sustainability, and visitor experience. With a strong infrastructure in Turkey and various locations in Europe, they provide timely and high-quality solutions for both local and international projects. The company is committed to reliability, creativity, quality, and customer satisfaction, aiming to build long-term relationships with clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "WE Fitness",
-        "discovered": "2026-02-26 15:40:01.005626",
-        "description": "",
-        "link": "/blog/disclosures/69a048c68f1d14b74325849a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/WE Fitness.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "APRO Asian Protection Pte Ltd",
-        "discovered": "2026-02-26 15:39:48.180685",
-        "description": "",
-        "link": "/blog/disclosures/69a04cff8f1d14b743268d25",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/APRO Asian Protection Pte Ltd.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JA AKITA KITA LIFE SERVICE, K.K",
-        "discovered": "2026-02-26 15:39:44.015586",
-        "description": "",
-        "link": "/blog/disclosures/69a04fd18f1d14b7432740b8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/JA AKITA KITA LIFE SERVICE, KK.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "en.yofc.com",
-        "discovered": "2026-02-26 15:39:41.805087",
-        "description": "Yangtze Optical Fibre and Cable (YOFC) is a leading global supplier of op...2",
-        "link": "/post/f8bcaf5d-2899-4a4d-a68b-f2873bc5f958/",
-        "magnet": null,
-        "screen": "screenshots/blackout/enyofccom.png",
-        "group_name": "blackout",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Salvatori Group of Companies",
-        "discovered": "2026-02-26 15:39:40.591906",
-        "description": "Salvatori Group is a leading provider of transport and distribution services in Kent, specializing in UK and European logistics. They offer a comprehensive rang...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "thinlinetech.com",
-        "discovered": "2026-02-26 14:40:25.895535",
-        "description": "thinlinetech.com 29Gb uncompressed data",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "abyss-data",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Carlo J. Martina, P.C.",
-        "discovered": "2026-02-26 14:40:23.266814",
-        "description": "Plymouth MI Divorce & Family Law Attorneys",
-        "link": "Companies/martinalaw",
-        "magnet": null,
-        "screen": "screenshots/pear/Carlo J Martina, PC.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "The Odom Firm",
-        "discovered": "2026-02-26 14:40:22.217114",
-        "description": "Representing individuals and businesses in matters related to easements, agreements, and zoning, including variances and appeals",
-        "link": "Companies/mecklaw",
-        "magnet": null,
-        "screen": "screenshots/pear/The Odom Firm.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "milespartnership.com",
-        "discovered": "2026-02-26 09:39:47.483306",
-        "description": "The company was founded in 2005 and is based in Sarasota, Florida. Miles Partnership offers destination marketing, digital marketing, print publishing, data management, mobile marketing, email marketing, and hospitality marketing.",
-        "link": "/cKQ2LVOA8rM7vQLr1G6oc8FMPwHN1Q4B/milespartnership-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/milespartnershipcom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
     }
 ]
