@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "SK-Telecom - Data reuploaded",
+        "discovered": "2026-02-28 06:41:10.008244",
+        "description": "",
+        "link": "/companies/sktelecom",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/SK-Telecom - Data reuploaded.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "UD Trucks",
+        "discovered": "2026-02-28 03:41:29.193881",
+        "description": "",
+        "link": "/news/UD_Trucks/",
+        "magnet": null,
+        "screen": "screenshots/everest/UD Trucks.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pappytech",
+        "discovered": "2026-02-28 03:41:12.423080",
+        "description": "SECTOR: E-commerce                         •                         COUNTRY: IN                         •                         SITE: pappytech.com",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Casas del Mediterraneo",
+        "discovered": "2026-02-28 03:41:11.415197",
+        "description": "SECTOR: Real Estate                                                                         •                         SITE: casasdelmediterraneo.com",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "keliweb",
+        "discovered": "2026-02-28 03:41:10.411052",
+        "description": "SECTOR: IT                         •                         COUNTRY: IT                         •                         SITE: keliweb.it",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Atlas Air: MUSE INSECURE - Database Leaked",
+        "discovered": "2026-02-28 02:42:11.154301",
+        "description": "",
+        "link": "/news/Atlas_Air/",
+        "magnet": null,
+        "screen": "screenshots/everest/Atlas Air: MUSE INSECURE - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tsunami Tsolutions - Database Leaked",
+        "discovered": "2026-02-28 02:42:10.087800",
+        "description": "",
+        "link": "/news/Tsunami_Tsolutions/",
+        "magnet": null,
+        "screen": "screenshots/everest/Tsunami Tsolutions - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bolttech - Database Leaked",
+        "discovered": "2026-02-28 02:42:08.711535",
+        "description": "",
+        "link": "/news/Bolttech/",
+        "magnet": null,
+        "screen": "screenshots/everest/Bolttech - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "McDonalds India - Database Leaked",
+        "discovered": "2026-02-28 02:42:06.197566",
+        "description": "",
+        "link": "/news/McDonalds_India/",
+        "magnet": null,
+        "screen": "screenshots/everest/McDonalds India - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "jdaas",
+        "discovered": "2026-02-28 02:41:48.566871",
+        "description": "SECTOR: IT                         •                         COUNTRY: IN                         •                         SITE: jdaas.com",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Rockwood Retirement Communities",
+        "discovered": "2026-02-27 23:41:11.694974",
+        "description": "With more than 65 years of mission-driven nonprofit service and two thriving Life Plan communities in Spokane, Washington, Rockwood Retirement is the recognized leader in senior living in the Inland Northwest. Our vision is simple: to create caring retirement communities that enrich the lives of seniors, every day.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "Network Technology Services of New Jersey",
         "discovered": "2026-02-27 18:40:05.983005",
         "description": "Whole datacenter is encrypted. Waiting for you in chat.",
@@ -218,105 +328,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Tract Consulting",
-        "discovered": "2026-02-27 03:39:13.833473",
-        "description": "",
-        "link": "/blog/disclosures/69a0f4578f1d14b7433943cd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Tract Consulting.png",
-        "group_name": "inc ransom",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Pathstone Family Office, LLC",
-        "discovered": "2026-02-27 00:40:32.149558",
-        "description": "Over 641k records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 2 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Universidade Federal de Sergipe",
-        "discovered": "2026-02-26 22:40:09.341805",
-        "description": "https://www.zoominfo.com/c/universidade-federal-de-sergipe/429754078 www.ufs.br The Federal University of Sergipe (Portuguese: Universidade Federal de Sergipe, UFS) is a Brazilian public institution based in Sergipe, with campuses in São Cristóvão, Aracaju, Itabaiana, Laranjeiras, and Lagarto. Founded in 1967 by the junction of the state's existing colleges, it became its second university (the first being the University of Tiradentes, a private institution founded in 1962)and its first public one. It became the state's most reputable and competitive higher education institution, ranking among the country's 40 best universities and Latin America's top 200 list. IN DATA: Students personal data, private Personal Information, scientific projects, documents for internal use, etc",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "https://daricon.com/ (military US/CA/NATO)",
-        "discovered": "2026-02-26 22:40:07.038790",
-        "description": "",
-        "link": "/blog/disclosures/69a0a50c8f1d14b743303cea",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/dariconcom (military USCANATO).png",
-        "group_name": "inc ransom",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Landmark Rehab Group",
-        "discovered": "2026-02-26 21:43:05.315315",
-        "description": "",
-        "link": "topic.php?id=HaVGVaqX5dJbd9",
-        "magnet": null,
-        "screen": "screenshots/play/Landmark Rehab Group.png",
-        "group_name": "play",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "BT Services",
-        "discovered": "2026-02-26 21:43:03.249269",
-        "description": "",
-        "link": "topic.php?id=5nk71qKJKPXFyG",
-        "magnet": null,
-        "screen": "screenshots/play/BT Services.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ripple Neuro",
-        "discovered": "2026-02-26 21:43:00.179239",
-        "description": "Ripple Neuro builds neuroscience research tools and medical devices for electrophysiology, offering portable wireless processors, implantable tech, and accessories for various models. They serve researchers in BCI, closed-loop stimulation, and wireless signal acquisition.",
-        "link": "/Company/Ripple/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Ripple Neuro.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "https://daricon.com/",
-        "discovered": "2026-02-26 21:42:43.301961",
-        "description": "",
-        "link": "/blog/disclosures/69a0a50c8f1d14b743303cea",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/dariconcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Integrity Building",
-        "discovered": "2026-02-26 20:41:38.136831",
-        "description": "",
-        "link": "topic.php?id=QaId7439obiBCB",
-        "magnet": null,
-        "screen": "screenshots/play/Integrity Building.png",
-        "group_name": "play",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "P****s",
-        "discovered": "2026-02-26 20:41:20.845963",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
     }
 ]
