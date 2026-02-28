@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Easy Servizi",
+        "discovered": "2026-02-28 13:40:55.044049",
+        "description": "Easy Servizi is an Italian company that provides technical and operational services for utility network operators (gas, electricity, and water), including meter installation and replacement, network support, and customer data management. It operates as a contractor for energy and water companies rather than as a direct service provider to consumers.",
+        "link": "/posts/673376e5-e8c4-464e-91a2-53259bd9369d",
+        "magnet": null,
+        "screen": "screenshots/payload/Easy Servizi.png",
+        "group_name": "payload",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "PriceTable",
+        "discovered": "2026-02-28 13:40:53.988335",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hicare",
+        "discovered": "2026-02-28 13:40:53.007443",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GoHighLevel",
+        "discovered": "2026-02-28 13:40:52.026263",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aegis Project Controls",
+        "discovered": "2026-02-28 13:40:29.828892",
+        "description": "Aegis Project Controls is a construction company providing 4d scheduling, training, and construction scheduling services. \n214GB of files, projects, and documen...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Whipflip",
+        "discovered": "2026-02-28 12:43:12.749334",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grand Hotel",
+        "discovered": "2026-02-28 12:42:53.393034",
+        "description": "grand-hotel.org zoominfo.com/c/grand-hotel/369020995 The Grand Hotel was established in 1952. Supported by red columns and with golden roof tiling, the Grand Hotel stands midway up Yuanshan, much like a majestic 14-storey palace. Facing Keelung River, with Yangming Mountain to its, the hotel offers an amazing view of Songshan District to the East and Danshui to the West. The Grand Hotel, structured through western construction methods, is decorated with elegant classical Chinese details. This fusion ofEast and West makes the hotel a fine expression of Chinese art upon a foundation of modern western architecture. No matter if visitors are tourists or business men, all those who stop by and marvel at the architectural beauty of the hotel would no doubt want to reserve for themselves a wonderful stay. The hotel is equipped with 500 rooms",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Thg",
+        "discovered": "2026-02-28 11:41:41.494914",
+        "description": "gee.be zoominfo.com/c/thg/1212983204 Focus on your business, stay a step ahead of events, keep on the right track. thg is here to guide and advise you. The word digitalisation can be scary. Yet it offers some interesting perspectives, particularly in the fields of tax advice and accountancy. Simon Boskin, Partner at thg Luxembourg, talks about the numerous opportunities that the digital revolution offers our clients during an interview that appeared in our last newsletter. A must-read, as well as other current topics",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fundao Para",
+        "discovered": "2026-02-28 11:41:40.501896",
+        "description": "fundac.org zoominfo.com/c/fundao-para-o-desenvolvimento-das-artes-e-da-comunicao/546996710 Fundac is a non-profit organization with over 22 years of experience, focusing on projects in communication, marketing, arts, culture, education, and the environment. It collaborates with public television and works closely with both public and private sectors to optimize communication processes and promote human dignity. The organization also offers courses in journalism and communication and emphasizes public-private partnerships for community benefit. With a strong team of over 1000 collaborators and a network of journalists, Fundac is committed to enhancing media outreach and public engagement",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Skibiel Law",
+        "discovered": "2026-02-28 09:41:17.718524",
+        "description": "Georgia Work Injury And Personal Injury Lawyers",
+        "link": "Companies/skibiellaw",
+        "magnet": null,
+        "screen": "screenshots/pear/Skibiel Law.png",
+        "group_name": "pear",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "J.R. Martin & Associates",
+        "discovered": "2026-02-28 09:41:16.341780",
+        "description": "A High Quality, Comprehensive Accounting & Tax Service",
+        "link": "Companies/jrmartincpa",
+        "magnet": null,
+        "screen": "screenshots/pear/JR Martin & Associates.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "SK-Telecom - Data reuploaded",
         "discovered": "2026-02-28 06:41:10.008244",
         "description": "",
@@ -148,185 +258,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Land and Lakes",
-        "discovered": "2026-02-27 15:43:10.322741",
-        "description": "Civil Engineering Construction",
-        "link": "/site/view?uuid=98003c77-3117-39e0-af79-e9a1a03c332a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Land and Lakes.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Straive",
-        "discovered": "2026-02-27 15:43:09.362533",
-        "description": "Business Services",
-        "link": "/site/view?uuid=bd94c6dc-a852-3754-9c05-272c053fff74",
-        "magnet": null,
-        "screen": "screenshots/qilin/Straive.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden GBC",
-        "discovered": "2026-02-27 15:43:08.361521",
-        "description": "Office Products Retail & Distribution",
-        "link": "/site/view?uuid=711610e0-d755-38d1-8fdb-7e61c5db600c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Golden GBC.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Unisoft Communications",
-        "discovered": "2026-02-27 15:43:06.511783",
-        "description": "Unisoft Communications, Inc. specializes in developing advanced communication software solutions for the non-standard Property andCasualty Insurance industry. With over 40 years of experience through its sister company, Unicorp Data Processing, Inc., the company addresses the communication challenges faced by insurance companies, premium finance companies, and their agents.We will upload 31gb of corporate data soon. Employee data, clients' data, financials, lots of contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Gemsen",
-        "discovered": "2026-02-27 15:43:05.427299",
-        "description": "Gemsen is a leading national distributor of high-quality consumerelectronics in Canada. They specialize in supplying Canadian retailers with the finest brands of audio and video products in the home, mobile, marine, and power sports categories.We will upload 20gb of corporate data soon. Personal information of clients and employees, financials, lots of contracts and agreements, projects, NDA's, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Ching Feng Home Fashions",
-        "discovered": "2026-02-27 14:42:17.455713",
-        "description": "Business Services",
-        "link": "/site/view?uuid=fb608fb3-a3b5-3c59-a066-a407f24a6fe2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ching Feng Home Fashions.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Com-Tec",
-        "discovered": "2026-02-27 14:42:15.528796",
-        "description": "Com-Tec Communications specializes in structured network cabling and offers tailored technology solutions for businesses in OrangeCounty and Lake Forest, California. Their services include telecom VOIP, surveillance systems, Wi-Fi improvements, network infrastructure, and audio-visual enhancements to boost productivity andsecurity.We will upload 70gb of corporate data soon. Employee files (passport and DL scans, i-9 forms and so on), specifications and projects, financials, confidential files, HR files, client and partner files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "American Beauty School",
-        "discovered": "2026-02-27 14:42:14.460459",
-        "description": "American Beauty School, established over 50 years ago, offers diverse and innovative educational opportunities in cosmetology, nail specialty, and esthetics. Located in the Bronx, NYC, the schoolhas built strong relationships with local salon and spa owners, providing hands-on experience and career support for its students. We will upload corporate data soon. Employee files (passport and DL scans and so on), financials and other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Ace Ethanol",
-        "discovered": "2026-02-27 14:42:13.298696",
-        "description": "Ace Ethanol LLC serves as a marketing resource for corn producersin northwestern Wisconsin, focusing on the production of ethanol, dried distillers grains, and corn oil. The company aims to contribute to national energy freedom while ensuring improved efficiencies and environmental safety.We will upload 15gb of corporate data soon. Employee files (SSNs,w9 forms and so on), specifications and projects, chemical recipes, financials, lots of HR files, partner's files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Neinver",
-        "discovered": "2026-02-27 13:43:28.908493",
-        "description": "",
-        "link": "/r/fc6b55a32e7b3578c3aaa2adb48886e8d5748abf",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Neinver.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Accelerated Services",
-        "discovered": "2026-02-27 13:43:26.731739",
-        "description": "",
-        "link": "/r/3d49ed342f3d0efcfd865971522ed6316520d503",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Accelerated Services.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lymphedema Therapy Specialists",
-        "discovered": "2026-02-27 12:42:32.663280",
-        "description": "",
-        "link": "/blog/disclosures/69a170778f1d14b743449ab3",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Lymphedema Therapy Specialists.png",
-        "group_name": "inc ransom",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Triumph International",
-        "discovered": "2026-02-27 12:42:30.644458",
-        "description": "",
-        "link": "/companies/triumphinter",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Triumph International.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "In.Sa.Cor",
-        "discovered": "2026-02-27 11:43:43.692313",
-        "description": "InSaCor specializes in a wide range of gas-related products and sanitary solutions, including gas regulators, fittings, and various types of plumbing fixtures. Their offerings include high-quality materials for both residential and commercial applications, catering to clients in the construction and maintenance sectors.",
-        "link": "/posts/25a9556d-86ed-45dd-a113-c1338f2488a4",
-        "magnet": null,
-        "screen": "screenshots/payload/InSaCor.png",
-        "group_name": "payload",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Prizm Pain",
-        "discovered": "2026-02-27 10:42:23.687863",
-        "description": "Prizm Pain Specialists is a privately held medical practice based in Canton, Michigan, specializing in comprehensive pain management for both chronic and acute conditions.",
-        "link": "/posts/cd04bee7-c70e-4394-87ec-10326a7d1b5d",
-        "magnet": null,
-        "screen": "screenshots/payload/Prizm Pain.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Law Offices Taenzer & Ettenson, P.C. (tesalaw.com)",
-        "discovered": "2026-02-27 10:42:00.498591",
-        "description": "",
-        "link": "/blog/disclosures/699ecb888f1d14b743ced0c0",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Law Offices Taenzer & Ettenson, PC (tesalawcom).png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Empresa de Transportes Via Pajuçara Ltda.",
-        "discovered": "2026-02-27 09:42:11.931941",
-        "description": "",
-        "link": "/blog/disclosures/69a154718f1d14b74341c877",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Empresa de Transportes Via Pajuçara Ltda.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Audexia group",
-        "discovered": "2026-02-27 09:42:09.531126",
-        "description": "Audexia Bourges - Volkswagen is a dealership known for its strong customer service and expertise in the automotive field. Located in Saint-Doulchard, France, it...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
