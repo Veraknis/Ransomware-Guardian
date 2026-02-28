@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Hicare.net Inc",
+        "discovered": "2026-02-28 19:40:29.639329",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.pyramisgroup.com",
+        "discovered": "2026-02-28 17:39:16.754994",
+        "description": "PYRAMIS METALLOURGIA S.A.PYRAMIS  is the only producer of household electrical appliances in Greece, and at the same time, a Global Champion with presence in more than 85 countries and exports exceeding 97% of its production.",
+        "link": "blog_1-31",
+        "magnet": null,
+        "screen": "screenshots/mydata/wwwpyramisgroupcom.png",
+        "group_name": "mydata",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Easy Servizi",
         "discovered": "2026-02-28 13:40:55.044049",
         "description": "Easy Servizi is an Italian company that provides technical and operational services for utility network operators (gas, electricity, and water), including meter installation and replacement, network support, and customer data management. It operates as a contractor for energy and water companies rather than as a direct service provider to consumers.",
@@ -218,45 +238,5 @@
         "screen": null,
         "group_name": "kairos",
         "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Network Technology Services of New Jersey",
-        "discovered": "2026-02-27 18:40:05.983005",
-        "description": "Whole datacenter is encrypted. Waiting for you in chat.",
-        "link": "/article/b6ef723d-2e69-419e-9142-7cd511a5ee33",
-        "magnet": null,
-        "screen": "screenshots/linkc/Network Technology Services of New Jersey.png",
-        "group_name": "linkc",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "I****G",
-        "discovered": "2026-02-27 18:40:04.717927",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "US.MAD DOG CONSTRUCTION",
-        "discovered": "2026-02-27 17:43:18.717233",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Hrp Hitesh Cpa",
-        "discovered": "2026-02-27 16:40:06.843391",
-        "description": "HRP HITESH CPA PC specializes in providing cloud-based payroll and accounting services to business clients. The firm leverages advanced technology to automate payroll processes, compliance filing, and payroll taxes, ensuring a user-friendly experience.We will upload corporate data soon. Lots of clients data, financials, forms, a bit of personal information and more.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
