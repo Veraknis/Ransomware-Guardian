@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "LISI Group",
+        "discovered": "2026-03-01 16:40:27.670036",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=b6bd0e56-ab88-34b1-94d8-8ca7e0e0eee6",
+        "magnet": null,
+        "screen": "screenshots/qilin/LISI Group.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Riach Gese Jacobs",
         "discovered": "2026-03-01 11:42:05.805134",
         "description": "Law Firms & Legal Services",
@@ -98,25 +108,5 @@
         "screen": "screenshots/qilin/North Andover Country Club.png",
         "group_name": "qilin",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "Hicare.net Inc",
-        "discovered": "2026-02-28 19:40:29.639329",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://www.pyramisgroup.com",
-        "discovered": "2026-02-28 17:39:16.754994",
-        "description": "PYRAMIS METALLOURGIA S.A.PYRAMIS  is the only producer of household electrical appliances in Greece, and at the same time, a Global Champion with presence in more than 85 countries and exports exceeding 97% of its production.",
-        "link": "blog_1-31",
-        "magnet": null,
-        "screen": "screenshots/mydata/wwwpyramisgroupcom.png",
-        "group_name": "mydata",
-        "sector": "Manufacturing"
     }
 ]
