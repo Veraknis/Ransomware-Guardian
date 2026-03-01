@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Riach Gese Jacobs",
+        "discovered": "2026-03-01 11:42:05.805134",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/view?uuid=f0408acf-556d-3035-b710-cde98f74f66c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Riach Gese Jacobs.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Traffic Tech",
+        "discovered": "2026-03-01 11:42:04.798200",
+        "description": "Freight & Logistics Services",
+        "link": "/site/view?uuid=d7f6a86e-fd42-3677-81d7-411edf567597",
+        "magnet": null,
+        "screen": "screenshots/qilin/Traffic Tech.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "PLUS Malaysia Berhad",
+        "discovered": "2026-03-01 11:42:02.396376",
+        "description": "Business Services",
+        "link": "/site/view?uuid=6afbe57b-3337-33e7-8b33-a6a3e2afdf57",
+        "magnet": null,
+        "screen": "screenshots/qilin/PLUS Malaysia Berhad.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "https://www.hegelmann.com",
         "discovered": "2026-03-01 08:41:19.512493",
         "description": "Hegelmann Group is a family-run logistics company headquartered in Bruchsal, Ger...",
@@ -88,115 +118,5 @@
         "screen": "screenshots/mydata/wwwpyramisgroupcom.png",
         "group_name": "mydata",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Easy Servizi",
-        "discovered": "2026-02-28 13:40:55.044049",
-        "description": "Easy Servizi is an Italian company that provides technical and operational services for utility network operators (gas, electricity, and water), including meter installation and replacement, network support, and customer data management. It operates as a contractor for energy and water companies rather than as a direct service provider to consumers.",
-        "link": "/posts/673376e5-e8c4-464e-91a2-53259bd9369d",
-        "magnet": null,
-        "screen": "screenshots/payload/Easy Servizi.png",
-        "group_name": "payload",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "PriceTable",
-        "discovered": "2026-02-28 13:40:53.988335",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hicare",
-        "discovered": "2026-02-28 13:40:53.007443",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GoHighLevel",
-        "discovered": "2026-02-28 13:40:52.026263",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aegis Project Controls",
-        "discovered": "2026-02-28 13:40:29.828892",
-        "description": "Aegis Project Controls is a construction company providing 4d scheduling, training, and construction scheduling services. \n214GB of files, projects, and documen...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Whipflip",
-        "discovered": "2026-02-28 12:43:12.749334",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grand Hotel",
-        "discovered": "2026-02-28 12:42:53.393034",
-        "description": "grand-hotel.org zoominfo.com/c/grand-hotel/369020995 The Grand Hotel was established in 1952. Supported by red columns and with golden roof tiling, the Grand Hotel stands midway up Yuanshan, much like a majestic 14-storey palace. Facing Keelung River, with Yangming Mountain to its, the hotel offers an amazing view of Songshan District to the East and Danshui to the West. The Grand Hotel, structured through western construction methods, is decorated with elegant classical Chinese details. This fusion ofEast and West makes the hotel a fine expression of Chinese art upon a foundation of modern western architecture. No matter if visitors are tourists or business men, all those who stop by and marvel at the architectural beauty of the hotel would no doubt want to reserve for themselves a wonderful stay. The hotel is equipped with 500 rooms",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Thg",
-        "discovered": "2026-02-28 11:41:41.494914",
-        "description": "gee.be zoominfo.com/c/thg/1212983204 Focus on your business, stay a step ahead of events, keep on the right track. thg is here to guide and advise you. The word digitalisation can be scary. Yet it offers some interesting perspectives, particularly in the fields of tax advice and accountancy. Simon Boskin, Partner at thg Luxembourg, talks about the numerous opportunities that the digital revolution offers our clients during an interview that appeared in our last newsletter. A must-read, as well as other current topics",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fundao Para",
-        "discovered": "2026-02-28 11:41:40.501896",
-        "description": "fundac.org zoominfo.com/c/fundao-para-o-desenvolvimento-das-artes-e-da-comunicao/546996710 Fundac is a non-profit organization with over 22 years of experience, focusing on projects in communication, marketing, arts, culture, education, and the environment. It collaborates with public television and works closely with both public and private sectors to optimize communication processes and promote human dignity. The organization also offers courses in journalism and communication and emphasizes public-private partnerships for community benefit. With a strong team of over 1000 collaborators and a network of journalists, Fundac is committed to enhancing media outreach and public engagement",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Skibiel Law",
-        "discovered": "2026-02-28 09:41:17.718524",
-        "description": "Georgia Work Injury And Personal Injury Lawyers",
-        "link": "Companies/skibiellaw",
-        "magnet": null,
-        "screen": "screenshots/pear/Skibiel Law.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "J.R. Martin & Associates",
-        "discovered": "2026-02-28 09:41:16.341780",
-        "description": "A High Quality, Comprehensive Accounting & Tax Service",
-        "link": "Companies/jrmartincpa",
-        "magnet": null,
-        "screen": "screenshots/pear/JR Martin & Associates.png",
-        "group_name": "pear",
-        "sector": "Unknown"
     }
 ]
