@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "https://www.hegelmann.com",
+        "discovered": "2026-03-01 08:41:19.512493",
+        "description": "Hegelmann Group is a family-run logistics company headquartered in Bruchsal, Ger...",
+        "link": "/leaks/69a3e76b9c439c5f45279cb9",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwhegelmanncom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "USHA International Limited",
+        "discovered": "2026-03-01 04:40:46.449142",
+        "description": "SECTOR: manufacturer                         •                         COUNTRY: India                         •                         SITE: https://usha.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DAINTY CLOUD INC",
+        "discovered": "2026-03-01 02:41:50.492309",
+        "description": "DaintyCloud offers a variety of affordable virtual private server (VPS) solutions including Windows, Linux, and GPU servers across more than 34 data centers worldwide. Their services cater to clients who require high performance for applications such as gaming, video processing, and cloud computing. With competitive pricing and features like one-click deployment and easy management, DaintyCloud is geared towards both individual users and businesses seeking reliable cloud services. Additionally, they provide proxy services, ensuring clients have access to high-speed, dedicated IP options",
+        "link": "/blog/0f09749244704dd7eda6e563ddd286eb4bd7ab0138dfefbc93a237c6179c0b21/",
+        "magnet": null,
+        "screen": "screenshots/tengu/DAINTY CLOUD INC.png",
+        "group_name": "tengu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Schmuck Welt",
+        "discovered": "2026-02-28 20:39:15.070047",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/view?uuid=c88da50f-7c8e-39ca-93dc-0ba0b19bf65b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Schmuck Welt.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Unibros Shipping",
+        "discovered": "2026-02-28 20:39:13.881310",
+        "description": "Business Services",
+        "link": "/site/view?uuid=819aafee-47bb-3fe4-bbad-6956abc298a7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Unibros Shipping.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Pro-Plastics",
+        "discovered": "2026-02-28 20:39:11.664181",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=5bef5c0f-1a05-3b2a-9cca-eb4d703cd5b4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Pro-Plastics.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "North Andover Country Club",
+        "discovered": "2026-02-28 20:39:09.890141",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=7d48680e-fb94-3d0c-9166-fec256cf2f99",
+        "magnet": null,
+        "screen": "screenshots/qilin/North Andover Country Club.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
         "post_title": "Hicare.net Inc",
         "discovered": "2026-02-28 19:40:29.639329",
         "description": "",
@@ -128,115 +198,5 @@
         "screen": "screenshots/pear/JR Martin & Associates.png",
         "group_name": "pear",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "SK-Telecom - Data reuploaded",
-        "discovered": "2026-02-28 06:41:10.008244",
-        "description": "",
-        "link": "/companies/sktelecom",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/SK-Telecom - Data reuploaded.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "UD Trucks",
-        "discovered": "2026-02-28 03:41:29.193881",
-        "description": "",
-        "link": "/news/UD_Trucks/",
-        "magnet": null,
-        "screen": "screenshots/everest/UD Trucks.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pappytech",
-        "discovered": "2026-02-28 03:41:12.423080",
-        "description": "SECTOR: E-commerce                         •                         COUNTRY: IN                         •                         SITE: pappytech.com",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Casas del Mediterraneo",
-        "discovered": "2026-02-28 03:41:11.415197",
-        "description": "SECTOR: Real Estate                                                                         •                         SITE: casasdelmediterraneo.com",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "keliweb",
-        "discovered": "2026-02-28 03:41:10.411052",
-        "description": "SECTOR: IT                         •                         COUNTRY: IT                         •                         SITE: keliweb.it",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Atlas Air: MUSE INSECURE - Database Leaked",
-        "discovered": "2026-02-28 02:42:11.154301",
-        "description": "",
-        "link": "/news/Atlas_Air/",
-        "magnet": null,
-        "screen": "screenshots/everest/Atlas Air: MUSE INSECURE - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tsunami Tsolutions - Database Leaked",
-        "discovered": "2026-02-28 02:42:10.087800",
-        "description": "",
-        "link": "/news/Tsunami_Tsolutions/",
-        "magnet": null,
-        "screen": "screenshots/everest/Tsunami Tsolutions - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bolttech - Database Leaked",
-        "discovered": "2026-02-28 02:42:08.711535",
-        "description": "",
-        "link": "/news/Bolttech/",
-        "magnet": null,
-        "screen": "screenshots/everest/Bolttech - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "McDonalds India - Database Leaked",
-        "discovered": "2026-02-28 02:42:06.197566",
-        "description": "",
-        "link": "/news/McDonalds_India/",
-        "magnet": null,
-        "screen": "screenshots/everest/McDonalds India - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "jdaas",
-        "discovered": "2026-02-28 02:41:48.566871",
-        "description": "SECTOR: IT                         •                         COUNTRY: IN                         •                         SITE: jdaas.com",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Rockwood Retirement Communities",
-        "discovered": "2026-02-27 23:41:11.694974",
-        "description": "With more than 65 years of mission-driven nonprofit service and two thriving Life Plan communities in Spokane, Washington, Rockwood Retirement is the recognized leader in senior living in the Inland Northwest. Our vision is simple: to create caring retirement communities that enrich the lives of seniors, every day.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Nonprofit"
     }
 ]
