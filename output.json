@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "SIMETRI Inc",
+        "discovered": "2026-03-02 19:37:26.419800",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Soreco 🇨🇭",
+        "discovered": "2026-03-02 19:37:05.136319",
+        "description": "It develops and implements digital software for finance, document, and HR management.",
+        "link": "/blog/9926540e-a358-42a4-9526-87f6e075ee34",
+        "magnet": null,
+        "screen": "screenshots/bravox/Soreco 🇨🇭.png",
+        "group_name": "bravox",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "https://www.precisioncoating.com/",
+        "discovered": "2026-03-02 19:37:01.670423",
+        "description": "",
+        "link": "/blog/disclosures/69a5cfb18f1d14b7439bd883",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwprecisioncoatingcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bain Oil Company",
+        "discovered": "2026-03-02 18:37:34.653322",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "SIMETRI LLC",
+        "discovered": "2026-03-02 18:37:33.148180",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Martin, Cukjati & Tom, LLP",
+        "discovered": "2026-03-02 16:36:25.497204",
+        "description": "",
+        "link": "/blog/disclosures/69a5a97b8f1d14b74397b6b7",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Martin, Cukjati & Tom, LLP.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
         "post_title": "StrongLink [SAMPLE PUBLISHED]",
         "discovered": "2026-03-02 15:37:44.671135",
         "description": "DOWNLOAD SAMPLE: https://amber-wooden-prawn-35.mypinata.cloud/ipfs/bafybeian2lxaye6gwvi2kztzfpyr2lokzfngai3d4zjmtgqhhv74ixsvi4",
@@ -188,15 +248,5 @@
         "screen": "screenshots/qilin/Enterprise Network Group of Indiana.png",
         "group_name": "qilin",
         "sector": "Technology"
-    },
-    {
-        "post_title": "LISI Group",
-        "discovered": "2026-03-01 16:40:27.670036",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=b6bd0e56-ab88-34b1-94d8-8ca7e0e0eee6",
-        "magnet": null,
-        "screen": "screenshots/qilin/LISI Group.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
     }
 ]
