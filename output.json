@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Equine Canada",
+        "discovered": "2026-03-03 19:41:11.545189",
+        "description": "",
+        "link": "topic.php?id=lSZLemmlFZ4CRX",
+        "magnet": null,
+        "screen": "screenshots/play/Equine Canada.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GapVax",
+        "discovered": "2026-03-03 19:41:07.491357",
+        "description": "",
+        "link": "topic.php?id=bxG4jSz0TzfgUv",
+        "magnet": null,
+        "screen": "screenshots/play/GapVax.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "C****n",
+        "discovered": "2026-03-03 19:40:50.294594",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gericke",
+        "discovered": "2026-03-03 19:40:48.740566",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=3e72369f-72e9-36ad-b202-df75f2b46b47",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gericke.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Conklin Office Furniture",
+        "discovered": "2026-03-03 19:40:47.716236",
+        "description": "Furniture",
+        "link": "/site/view?uuid=82e1194d-ab32-3572-8df8-1665e6df1efc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Conklin Office Furniture.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JBC Computers",
+        "discovered": "2026-03-03 19:40:46.187081",
+        "description": "Business Services",
+        "link": "/site/view?uuid=8fee8d56-9031-397e-8e7f-b8828005511a",
+        "magnet": null,
+        "screen": "screenshots/qilin/JBC Computers.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CHS Villach",
+        "discovered": "2026-03-03 17:40:47.817030",
+        "description": "chs-villach.at zoominfo.com/c/chs-villach/429687687 CHS Villach is an educational institution offering a variety of vocational training programs in fields such as business, health and social services, media design, and arts. The school focuses on developing students' personal and social skills, encouraging them to take responsibility and engage actively in their communities. It provides opportunities for hands-on learning through projects, internships, and collaborations, fostering independence and creativity among students. CHS Villach aims to prepare young individuals for successful careers while promoting quality education and personal growth",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Education"
+    },
+    {
+        "post_title": "maisonlaw.com",
+        "discovered": "2026-03-03 17:40:46.398965",
+        "description": "",
+        "link": "/blog/disclosures/69a6f88b8f1d14b743b51a17",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/maisonlawcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Belmont Plastic Surgery",
+        "discovered": "2026-03-03 16:42:01.213631",
+        "description": "Belmont Plastic Surgery, led by award-winning surgeon Dr. Jules Feledy, offers comprehensive cosmetic and reconstructive procedures. The practice specializes in breast augmentation, body contouring, and facial rejuvenation, delivering natural-looking.",
+        "link": "/Company/Belmont/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Belmont Plastic Surgery.png",
+        "group_name": "insomnia",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aramco Hacked",
+        "discovered": "2026-03-03 16:41:44.102855",
+        "description": "For years, Aramco’s oil money was turned into bullets and bombs that were dropped on Palestinian children, or it funded the construction of the Epstein cult’s pedophile island, or paid for Trump’s missiles to strike a girls’ school in Iran. But that is no longer the case. Now the entire infrastructure of Aramco has been…",
+        "link": "https://handala-hack.to/aramco-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Aramco Hacked.png",
+        "group_name": "handala",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Encompass",
+        "discovered": "2026-03-03 16:41:42.986555",
+        "description": "Founded in 2001 and headquartered in Clarksville, Virginia, Encompass Solutions is a preferred Epicor partner and Value-Added Re-seller (VAR), that delivers mis...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Camelot Electronics Technology Co., Ltd.",
         "discovered": "2026-03-03 15:41:35.530783",
         "description": "Camelot Hubei Technology Limited Company (also known as Hubei Camelot Electronics) is a subsidiary of Camelot Electronics Technology Co., Ltd. (Jinlu Electronics), specializing in the manufacturing of printed circuit boards (PCBs).",
@@ -438,65 +548,5 @@
         "screen": "screenshots/inc ransom/mcfirmcom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "SIMETRI Inc",
-        "discovered": "2026-03-02 19:37:26.419800",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Soreco 🇨🇭",
-        "discovered": "2026-03-02 19:37:05.136319",
-        "description": "It develops and implements digital software for finance, document, and HR management.",
-        "link": "/blog/9926540e-a358-42a4-9526-87f6e075ee34",
-        "magnet": null,
-        "screen": "screenshots/bravox/Soreco 🇨🇭.png",
-        "group_name": "bravox",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "https://www.precisioncoating.com/",
-        "discovered": "2026-03-02 19:37:01.670423",
-        "description": "",
-        "link": "/blog/disclosures/69a5cfb18f1d14b7439bd883",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwprecisioncoatingcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bain Oil Company",
-        "discovered": "2026-03-02 18:37:34.653322",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "SIMETRI LLC",
-        "discovered": "2026-03-02 18:37:33.148180",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Martin, Cukjati & Tom, LLP",
-        "discovered": "2026-03-02 16:36:25.497204",
-        "description": "",
-        "link": "/blog/disclosures/69a5a97b8f1d14b74397b6b7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Martin, Cukjati & Tom, LLP.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
     }
 ]
