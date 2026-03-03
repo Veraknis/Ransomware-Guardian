@@ -1,5 +1,235 @@
 [
     {
+        "post_title": "Camelot Electronics Technology Co., Ltd.",
+        "discovered": "2026-03-03 15:41:35.530783",
+        "description": "Camelot Hubei Technology Limited Company (also known as Hubei Camelot Electronics) is a subsidiary of Camelot Electronics Technology Co., Ltd. (Jinlu Electronics), specializing in the manufacturing of printed circuit boards (PCBs).",
+        "link": "/card/camelot_electronics_technology_co___ltd_",
+        "magnet": null,
+        "screen": "screenshots/beast/Camelot Electronics Technology Co, Ltd.png",
+        "group_name": "beast",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Les Oliviers",
+        "discovered": "2026-03-03 14:39:50.477024",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=9b7f17b3-14fe-34c5-8188-96202981ccfa",
+        "magnet": null,
+        "screen": "screenshots/qilin/Les Oliviers.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Demanor",
+        "discovered": "2026-03-03 13:58:45.319386",
+        "description": "Date: Coming soon\r\n\r\nDemanor AS specializes in providing customized goods lifts and lifting machines tailored to the specific needs and conditions of their clients. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Demanor.png",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aaronson Rappaport Feinstein & Deutsch",
+        "discovered": "2026-03-03 13:58:15.281408",
+        "description": "Date: Coming soon\r\n\r\nAaronson Rappaport Feinstein and Deutsch, LLP is a New York-based law firm that specializes in providing legal services across various practice areas, including medical malpractice, construction litigation, and product liability. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Aaronson Rappaport Feinstein & Deutsch.png",
+        "group_name": "ailock",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Dallas Regional Chamber",
+        "discovered": "2026-03-03 13:57:44.809302",
+        "description": "Date: 2026-01-24\r\n\r\nThe Dallas Regional Chamber is a prominent business organization known for its role as the economic growth champion and business voice of the Dallas region.\r\nIt focuses on priorities such as economic development, education, public policy, and quality of life. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Dallas Regional Chamber.png",
+        "group_name": "ailock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "ShopBot Tools",
+        "discovered": "2026-03-03 13:57:05.749780",
+        "description": "Date: 2026-01-16\r\n\r\nShopBot Tools is a leading manufacturer of high-quality CNC routers, designed for machining various materials including wood, plastic, and aluminum. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/ShopBot Tools.png",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Navicore Solutions",
+        "discovered": "2026-03-03 13:56:37.830021",
+        "description": "Date: 2026-01-11\r\n\r\nNavicore Solutions strengthens the well-being of individuals and families through education, guidance, advocacy and support. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Navicore Solutions.png",
+        "group_name": "ailock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Professional Retail Outlet Services",
+        "discovered": "2026-03-03 13:56:07.559514",
+        "description": "Date: 2026-01-09\r\n\r\nPROS specializes in facilities management and maintenance services for specialty retail chains, boasting 20 years of experience. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Professional Retail Outlet Services.png",
+        "group_name": "ailock",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "S&R Compression, LLC",
+        "discovered": "2026-03-03 13:55:11.190347",
+        "description": "Date: 2026-01-10\r\n\r\nS&R Compression is an oil & energy company offering compression and vapor recovery services. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/S&R Compression, LLC.png",
+        "group_name": "ailock",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Emanuelson-Podas",
+        "discovered": "2026-03-03 13:54:35.961082",
+        "description": "Date: 2026-01-10\r\n\r\nEmanuelson-Podas, Inc. is a mechanical, electrical, and plumbing engineering firm that specializes in creating innovative building system solutions. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Emanuelson-Podas.png",
+        "group_name": "ailock",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ELO Digital Office",
+        "discovered": "2026-03-03 13:53:56.841903",
+        "description": "Date: Coming soon\r\n\r\nELO Digital Office, founded in 1996 and headquartered in Stuggart, Germany, is a provider of enterprise content management systems and develops software solutions to digitize business processes.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/ELO Digital Office.png",
+        "group_name": "ailock",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Promotion Management Center",
+        "discovered": "2026-03-03 13:53:24.406653",
+        "description": "Date: 2025-10-14\r\n\r\nFounded in 1983, Promotion Management Center, Inc. (PMC) provides fulfillment services.\r\nThe company specializes in customer incentives, loyalty rewards, employee recognition awards, rebates and third party logistics (3PL) orders your programs generate. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Promotion Management Center.png",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sterling Industries",
+        "discovered": "2026-03-03 13:52:53.618272",
+        "description": "Date: 2025-10-11\r\n\r\nSterling Industries is a North American-based contract manufacturer and assembler of medical devices and sub-components. ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Sterling Industries.png",
+        "group_name": "ailock",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Raw Seafoods",
+        "discovered": "2026-03-03 13:52:09.599151",
+        "description": "Date: 2025-07-24\r\n\r\nRaw Seafoods, Inc. is a family owned and operated company in Fall River, Massachusetts dedicated to providing our customers with exceptional products, and service.\r\nWe specialize in fresh and frozen scallops, fish and value-added food solutions.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Raw Seafoods.png",
+        "group_name": "ailock",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "FUJIFILM Speciality Ink Systems",
+        "discovered": "2026-03-03 13:51:34.878994",
+        "description": "Date: 2025-07-21\r\n\r\nFUJIFILM Speciality Ink Systems Ltd is a company that operates in the Chemicals & Related Products industry.\r\nThe company is headquartered in Saint Peters, Kent, United Kingdom.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/FUJIFILM Speciality Ink Systems.png",
+        "group_name": "ailock",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Lewis Drug",
+        "discovered": "2026-03-03 13:50:48.898039",
+        "description": "Date: 2025-07-06\r\n\r\nFounded in 1942, Lewis Drug owns and operates a chain of drug and pharmacy stores.\r\nIt provides prescription and non-prescription drugs.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Lewis Drug.png",
+        "group_name": "ailock",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "HomeSite Services",
+        "discovered": "2026-03-03 13:50:04.728831",
+        "description": "HomeSite Services Inc., a residential, commercial and retail services company, was founded in 2005 with three goals in mind:\r\nto perform superior work, offer quality products, and provide our clients with unbeatable service.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/HomeSite Services.png",
+        "group_name": "ailock",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Revival Animal Health",
+        "discovered": "2026-03-03 13:49:21.278003",
+        "description": "Revival Animal Health was founded in 1989 by Dr. Roy Nielsen, Jr., affectionately known as \"Doc Roy.\"\r\nQuickly the company expanded from pet vaccines to an extensive line of pet healthcare products.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Revival Animal Health.png",
+        "group_name": "ailock",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "AJ Networks",
+        "discovered": "2026-03-03 13:48:31.622617",
+        "description": "AJ Networks Co. Ltd is a company that operates in the Other Rental Stores (Furniture, A/V, Construction & Industrial Equipment) industry.\r\nIt employs 500to999 people and has 500Mto1G of revenue. The company is headquartered in Seoul, South Korea.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/AJ Networks.png",
+        "group_name": "ailock",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Integral Analytics",
+        "discovered": "2026-03-03 13:47:55.325650",
+        "description": "Integral Analytics specializes in data intelligence solutions for the energy sector, focusing on improving planning and forecasting for utilities, producers, manufacturers, and regulators.\r\nTheir flagship products include LoadSEER, DSMore, and IDROP, which assist in energy efficiency, demand response, and distributed energy resource management.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/ailock/Integral Analytics.png",
+        "group_name": "ailock",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Thai Solar Energy Public",
+        "discovered": "2026-03-03 13:40:08.595525",
+        "description": "Thai Solar Energy Public Company Limited (TSE) was established in 2008 based in Bangkok, Thailand. TSE is the first in Southeast Asia to have effectively applied an advanced technology to utilize the sun's radiation and converting it into green energy. TSE is in collaboration with several World renowned energy institutes and specialized energy companies to continuously evaluate our performance.",
+        "link": "/posts/913aabd8-cc6b-4240-9664-0fc95cf79fdc",
+        "magnet": null,
+        "screen": "screenshots/payload/Thai Solar Energy Public.png",
+        "group_name": "payload",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "United Limsun International Trading",
+        "discovered": "2026-03-03 13:40:07.173966",
+        "description": "United Limsun Corporation is a rapidly growing retail and distribution company that selects multifunctional brands of everyday goods for urban travellers. The company specialises in sourcing, supplying, distributing and marketing high-quality goods.",
+        "link": "/posts/5af6a3ad-230f-4aa4-b07a-7086a80faca1",
+        "magnet": null,
+        "screen": "screenshots/payload/United Limsun International Trading.png",
+        "group_name": "payload",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Union Laitiere de la Meuse",
+        "discovered": "2026-03-03 11:39:26.269346",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "IOTA HOTEL TBILISI",
         "discovered": "2026-03-03 08:39:11.697066",
         "description": "",
@@ -268,75 +498,5 @@
         "screen": "screenshots/inc ransom/Martin, Cukjati & Tom, LLP.png",
         "group_name": "inc ransom",
         "sector": "Legal"
-    },
-    {
-        "post_title": "StrongLink [SAMPLE PUBLISHED]",
-        "discovered": "2026-03-02 15:37:44.671135",
-        "description": "DOWNLOAD SAMPLE: https://amber-wooden-prawn-35.mypinata.cloud/ipfs/bafybeian2lxaye6gwvi2kztzfpyr2lokzfngai3d4zjmtgqhhv74ixsvi4",
-        "link": "/article/f6bda96a-5c72-4e90-a32c-5f414e58e9dc",
-        "magnet": null,
-        "screen": "screenshots/linkc/StrongLink [SAMPLE PUBLISHED].png",
-        "group_name": "linkc",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "F****y",
-        "discovered": "2026-03-02 14:37:52.539465",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TIW Group",
-        "discovered": "2026-03-02 14:37:49.373826",
-        "description": "TIW Group consists of two related contracting entities: Tidewater Interior Wall and Ceiling, Inc. and Mid-Atlantic Painting, Inc., offering Class-A drywall and ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Israel Opportunity Energy Hacked",
-        "discovered": "2026-03-02 12:41:36.362938",
-        "description": "One of the most prominent oil and gas exploration companies has been hacked. This is the beginning of a rage that had been suppressed for years out of humanity, ethics, and religious restraint. However, the leaders of the Epstein faction , Trump and Netanyahu , ignited years of anger and fury. Know that from now…",
-        "link": "https://handala-hack.to/israel-opportunity-energy-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Israel Opportunity Energy Hacked.png",
-        "group_name": "handala",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Grupo D'arc",
-        "discovered": "2026-03-02 09:41:54.359514",
-        "description": "Automotive Parts",
-        "link": "/site/view?uuid=8d20164c-4e95-38e1-8e98-535b966532e3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo D'arc.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "fgv.br",
-        "discovered": "2026-03-02 09:41:51.686239",
-        "description": "Fundação Getulio Vargas (FGV) is a prestigious educational institution in Brazil, offering a wide range of programs including undergraduate, MBA, master's, and ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Southold Town Senior ServicesSouthold Police Department",
-        "discovered": "2026-03-02 09:41:49.233594",
-        "description": "Southold Town Senior ServicesSouthold Police Department\nThe Town of Southold, New York provides various government services including forms and permits, online payments, and notifications for residents. Southold Police Department is a company that operates in the Local industry.\n\n\n\nMore",
-        "link": "archive.php?company=252",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Southold Town Senior ServicesSouthold Police Department.png",
-        "group_name": "rhysida",
-        "sector": "Government"
     }
 ]
