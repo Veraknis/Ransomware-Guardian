@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "Klevorn",
+        "discovered": "2026-03-04 06:41:49.461736",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=2d839fe4-fb88-3383-b9fa-e498973ba5de",
+        "magnet": null,
+        "screen": "screenshots/qilin/Klevorn.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AKOL LAW",
+        "discovered": "2026-03-04 03:40:38.709948",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "K**I* I***I*A *A",
+        "discovered": "2026-03-04 03:40:37.787269",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "importservices.co.uk",
+        "discovered": "2026-03-04 01:42:14.346113",
+        "description": "Import Services Ltd (importservices.co.uk) is a Southampton-based UK logistics company specializing in retail supply chain services, contract warehousing, freig...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "MPA Pharma GmbH",
+        "discovered": "2026-03-04 00:42:40.301941",
+        "description": "MPA Pharma GmbH is an internationally active, rapidly growing company specializing in the import and trade of high-quality pharmaceuticals, including both patented and generic products. With over 35 years of expertise in the pharmaceutical market, they also provide contract manufacturing services for third parties. Their primary clients include pharmacies and businesses in need of reliable pharmaceutical and medical products. \nRevenue $614 Million",
+        "link": "/0AFC:4404aa27485e4a23c09cb94a0b145ccfeaae7cc25274ed5f93fb47444a635c70/0AFC:35effaa696683a7dfe2ad83e19ccd03e62b3009163cf00fe2059669f63b3bf8a/0AFC:c418f4d1f80551ff44623b5ec841e76e21e2ae343266946d394d978b1be567e2",
+        "magnet": null,
+        "screen": "screenshots/metaencryptor/MPA Pharma GmbH.png",
+        "group_name": "metaencryptor",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Brockman Injury Lawyer",
+        "discovered": "2026-03-04 00:42:22.424322",
+        "description": "",
+        "link": "/blog/disclosures/69a75d7a8f1d14b743bc56dc",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Brockman Injury Lawyer.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hersher Law",
+        "discovered": "2026-03-04 00:42:21.463778",
+        "description": "",
+        "link": "/blog/disclosures/69a75fc98f1d14b743bc999c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Hersher Law.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Hopkins Law",
+        "discovered": "2026-03-04 00:42:20.501948",
+        "description": "",
+        "link": "/blog/disclosures/69a761858f1d14b743bcc860",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Hopkins Law.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Napolin Law Firm",
+        "discovered": "2026-03-04 00:42:18.523901",
+        "description": "",
+        "link": "/blog/disclosures/69a7670b8f1d14b743bd2d3d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Napolin Law Firm.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Law Offices of Mark E. Lewis & Associates",
+        "discovered": "2026-03-04 00:42:17.633866",
+        "description": "",
+        "link": "/blog/disclosures/69a76eeb8f1d14b743bdca2d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Law Offices of Mark E Lewis & Associates.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Verlat Energy",
+        "discovered": "2026-03-04 00:42:16.062971",
+        "description": "SECTOR: Energy                         •                         COUNTRY: PERU                         •                         SITE: https://verlatenergy.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Lawrence Journal - World",
+        "discovered": "2026-03-03 23:41:08.562860",
+        "description": "Lawrence Journal-World is a news organization based in Lawrence, Kansas, providing coverage on diverse topics including news, sports, opinion, and community eve...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Minogue Associates",
+        "discovered": "2026-03-03 23:40:57.652491",
+        "description": "Minogue Associates, Inc. specializes in comprehensive construction valuation reports and estimates for both commercial and residential properties, as well as co...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Luro",
+        "discovered": "2026-03-03 21:40:46.085623",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=ae51059f-c48a-33c5-b924-122325f184ce",
+        "magnet": null,
+        "screen": "screenshots/qilin/Luro.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Viviany",
+        "discovered": "2026-03-03 21:40:34.769279",
+        "description": "Construction",
+        "link": "/site/view?uuid=23245cfa-8e68-3a51-a96b-dc10d5227afb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Viviany.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Franz-Sales-Haus.de",
+        "discovered": "2026-03-03 20:42:24.069968",
+        "description": "Located at Steeler Straße 261, 45138 Essen, is a support organization dedicated to empowering people with disabilities to live self-determined …",
+        "link": "/blog/post/franz-sales-hausde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/Franz-Sales-Hausde.png",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "ripobec.com",
+        "discovered": "2026-03-03 20:42:23.060628",
+        "description": "Is a Canadian family-owned agricultural supply company headquartered in Saint-Apollinaire, Quebec, specialising in the production and distribution of premium wood …",
+        "link": "/blog/post/ripobeccom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/ripobeccom.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Aluthea Group",
+        "discovered": "2026-03-03 20:42:00.392697",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=8e75d0e6-a719-3586-9d9a-3cca12d67929",
+        "magnet": null,
+        "screen": "screenshots/qilin/Aluthea Group.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "www.chrishudsonlaw.com",
+        "discovered": "2026-03-03 20:41:59.028508",
+        "description": "",
+        "link": "/blog/disclosures/69a727988f1d14b743b8c8e5",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwchrishudsonlawcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ukimportservices.com",
+        "discovered": "2026-03-03 20:41:56.563358",
+        "description": "Import Services Ltd (importservices.co.uk) is a Southampton-based UK logistics company specializing in retail supply chain services, contract warehousing, freig...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Katz Kantor Stonestreet & Buckner",
+        "discovered": "2026-03-03 20:41:53.312503",
+        "description": "Katz, Kantor, Stonestreet & Buckner serves all of West Virginia with compassionate and zealous legal representation built on decades of experience. Established in 1931, our firm has been representing clients from Bluefield, Princeton, Beckley, Welch, Lewisburg, Charleston, Morgantown, and all areas in between in West Virginia for over 88 years.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Legal"
+    },
+    {
         "post_title": "Equine Canada",
         "discovered": "2026-03-03 19:41:11.545189",
         "description": "",
@@ -337,216 +547,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IOTA HOTEL TBILISI",
-        "discovered": "2026-03-03 08:39:11.697066",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Woflow, Inc.",
-        "discovered": "2026-03-03 07:39:50.740866",
-        "description": "Several hundreds of millions of records containing PII, transaction/order data, other internal corporate data, and a lot more (you don't want us to say publicly) have been compromised.   This is a final warning to reach out by 06 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Andal Law Group",
-        "discovered": "2026-03-03 05:39:38.539627",
-        "description": "Injury accident law firm data breach: driver IDs and other personal data.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/7c0dk4mZyLqlb6RQEmh978aiMnuuS23Hzdc+mmkCRDsqX2ScCI5AFpiSZNeBlfW81kfuw9MZbuawwhnpQfAzZyOVc4Ulg2",
-        "magnet": null,
-        "screen": "screenshots/anubis/Andal Law Group.png",
-        "group_name": "anubis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "https://www.bartramtrail.net/",
-        "discovered": "2026-03-03 03:39:15.689943",
-        "description": "Bartram Trail Surveying",
-        "link": "/post/69a6314dfeb604ea6ee5ab74",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwbartramtrailnet.png",
-        "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lundeen Consulting",
-        "discovered": "2026-03-02 23:37:42.241025",
-        "description": "Construction",
-        "link": "/site/view?uuid=afa2a0ea-20ba-3ddf-8c5c-2aeea9e5dc43",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lundeen Consulting.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Fusion Superplex",
-        "discovered": "2026-03-02 23:37:41.278437",
-        "description": "Software",
-        "link": "/site/view?uuid=83ccb8e6-884e-3a9d-be81-276e075d37e8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fusion Superplex.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bayshore Ford Truck Sales",
-        "discovered": "2026-03-02 23:37:40.291536",
-        "description": "Automotive Parts",
-        "link": "/site/view?uuid=24c84000-9d85-33e1-bf61-b47cb14f0e26",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bayshore Ford Truck Sales.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Sharjah National Oil Corporation Hacked",
-        "discovered": "2026-03-02 22:37:17.136405",
-        "description": "Today, one of the UAE’s largest oil and gas giants, Sharjah National Oil Corporation, has fallen to a decisive blow from us, Handala Hack. Your critical infrastructure, the very heart of the region’s energy production and distribution, was dismantled in moments. Now, 1.3 terabytes of your most confidential financial data, oil contracts, project details, and…",
-        "link": "https://handala-hack.to/sharjah-national-oil-corporation-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Sharjah National Oil Corporation Hacked.png",
-        "group_name": "handala",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Gordon/Clifford Realty",
-        "discovered": "2026-03-02 21:38:41.645705",
-        "description": "",
-        "link": "topic.php?id=iQUQb0YLpHZ0Y",
-        "magnet": null,
-        "screen": "screenshots/play/GordonClifford Realty.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cabka",
-        "discovered": "2026-03-02 21:38:40.418759",
-        "description": "",
-        "link": "topic.php?id=KyZN7Uu2uEj1FZ",
-        "magnet": null,
-        "screen": "screenshots/play/Cabka.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Kuker Group",
-        "discovered": "2026-03-02 21:38:39.439204",
-        "description": "",
-        "link": "topic.php?id=iBFJv1izaj7Avy",
-        "magnet": null,
-        "screen": "screenshots/play/The Kuker Group.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LRA Constructors",
-        "discovered": "2026-03-02 21:38:38.506061",
-        "description": "",
-        "link": "topic.php?id=GWHc5jXRjaQ2Xo",
-        "magnet": null,
-        "screen": "screenshots/play/LRA Constructors.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cobblestone Creek Country Club",
-        "discovered": "2026-03-02 21:38:37.508107",
-        "description": "",
-        "link": "topic.php?id=2b6sdrwgOklQkn",
-        "magnet": null,
-        "screen": "screenshots/play/Cobblestone Creek Country Club.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Project Consulting Services",
-        "discovered": "2026-03-02 21:38:36.473672",
-        "description": "",
-        "link": "topic.php?id=uiH8YUlv4Cfu06",
-        "magnet": null,
-        "screen": "screenshots/play/Project Consulting Services.png",
-        "group_name": "play",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Go Professional Cases",
-        "discovered": "2026-03-02 21:38:35.497707",
-        "description": "",
-        "link": "topic.php?id=DQtZWs5LgurnKL",
-        "magnet": null,
-        "screen": "screenshots/play/Go Professional Cases.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WCC Technologies Group",
-        "discovered": "2026-03-02 21:38:34.363168",
-        "description": "",
-        "link": "topic.php?id=jm47mNKnWblGg",
-        "magnet": null,
-        "screen": "screenshots/play/WCC Technologies Group.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Favaro Lavezzo Gill Caretti",
-        "discovered": "2026-03-02 21:38:33.258704",
-        "description": "",
-        "link": "topic.php?id=7TBimCgidUuAww",
-        "magnet": null,
-        "screen": "screenshots/play/Favaro Lavezzo Gill Caretti.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Phoenix Systems",
-        "discovered": "2026-03-02 21:38:15.767299",
-        "description": "Business Services",
-        "link": "/site/view?uuid=23324ed5-1d05-3a3c-8817-5545ae670939",
-        "magnet": null,
-        "screen": "screenshots/qilin/Phoenix Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Akkök Holding",
-        "discovered": "2026-03-02 20:38:28.672518",
-        "description": "Business Services",
-        "link": "/site/view?uuid=8a78806b-e5c1-3850-b873-bf82962ea20f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Akkök Holding.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "IDH Entertainment",
-        "discovered": "2026-03-02 20:38:27.666103",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=5f442bca-e033-3788-8ab5-bbfd917adbae",
-        "magnet": null,
-        "screen": "screenshots/qilin/IDH Entertainment.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "mcfirm.com",
-        "discovered": "2026-03-02 20:38:25.811465",
-        "description": "",
-        "link": "/blog/disclosures/69a5a97b8f1d14b74397b6b7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/mcfirmcom.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
