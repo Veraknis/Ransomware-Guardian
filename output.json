@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "K & S Company, Inc",
+        "discovered": "2026-03-05 14:39:14.987156",
+        "description": "Real Estate",
+        "link": "/site/view?uuid=8b635233-e793-31b3-83e1-4bae8ca3d614",
+        "magnet": null,
+        "screen": "screenshots/qilin/K & S Company, Inc.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Trionex",
+        "discovered": "2026-03-05 14:39:13.076493",
+        "description": "Trionex Achats specializes in the manufacturing and repair of hydraulic and pneumatic cylinders, as well as providing hydraulic services and engineering solutions. Their product offerings includea wide range of hydraulic components, pumps, filtration systems,and pneumatic equipment, catering to various industries such as mining, forestry, and industrial sectors.We will upload corporate data soon. Personal files of employees (passport and DLs, SSNs and so on), financials, project documentation, contracts and agreements, NDAs, clients contacts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "DesignSourceCT",
+        "discovered": "2026-03-05 14:39:11.181920",
+        "description": "DesignSourceCT is Connecticut's largest and most comprehensive designer showroom, established in 2005, catering to trade professionals and their clients. The showroom offers a thoughtfully curated selection of high-quality home furnishings, including fabric, furniture, flooring, and more from trusted brand names.We will upload corporate data soon. Projects, contracts, clients docs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "JBS Brazil - We have 3TB of your data",
+        "discovered": "2026-03-05 13:41:37.306774",
+        "description": "",
+        "link": "/companies/jbs",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/JBS Brazil - We have 3TB of your data.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "CTI & Coordinators",
+        "discovered": "2026-03-05 13:41:33.599303",
+        "description": "Freight transportation services throughout the United States and province of Ontario Canada",
+        "link": "Companies/cticoordinators",
+        "magnet": null,
+        "screen": "screenshots/pear/CTI & Coordinators.png",
+        "group_name": "pear",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "**a****t ***el*****t Gr*up L**",
+        "discovered": "2026-03-05 12:41:44.696519",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rowad Modern Engineering",
+        "discovered": "2026-03-05 12:41:21.803816",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "KLEIN IBERICA SA",
         "discovered": "2026-03-05 08:42:16.022948",
         "description": "",
@@ -278,225 +348,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "lawofficesoferichershler.com",
-        "discovered": "2026-03-04 15:41:01.534849",
-        "description": "",
-        "link": "/blog/disclosures/69a75fc98f1d14b743bc999c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/lawofficesoferichershlercom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hopkins-law.com",
-        "discovered": "2026-03-04 15:41:00.578743",
-        "description": "",
-        "link": "/blog/disclosures/69a761858f1d14b743bcc860",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/hopkins-lawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "BK Group",
-        "discovered": "2026-03-04 15:40:59.093202",
-        "description": "bk Group is the leading general contractor in Europe for interiorconstruction and technical facility management. They specialize in planning, building, and maintaining various types of projects,including retail stores, fitness centers, and automotive buildings.We will upload 89gb of corporate data soon. Employee personal files (passports, DLs, German IDs and so on), NDAs, contracts and agreements, financials, international projects, confidential files,and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Business Automation Specialists of Minnesota",
-        "discovered": "2026-03-04 15:40:58.210864",
-        "description": "Business Automation Specialists (BASM) is a Microsoft Partner that focuses on providing implementation, consultation, customization, and support for Microsoft Dynamics 365 Business Central and NAV.We will upload 10 gb of corporate data soon. Employee personal files (passports, DLs, medical files), NDAs, contracts and agreements, financials, projects, clients' files, internal confidential files, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "HTH Companies",
-        "discovered": "2026-03-04 15:40:57.270414",
-        "description": "HTH Companies Inc. is a leading professional industrial service provider, specializing in scaffold erection, mechanical insulation, industrial cleaning, industrial maintenance, mechanical work, and painting and coatings.We will upload over 60gb of corporate data soon. Employee personal files (i9, w9, passports, DLs, medical information), NDAs, contracts and agreements, projects, financials, confidential files, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Nicholas & Tangeman",
-        "discovered": "2026-03-04 15:40:56.132336",
-        "description": "Nicholas & Tangeman, LLC is a general practice law firm based in Laramie, Wyoming, serving clients in Wyoming and Colorado. The firm offers a wide range of legal services including civil litigation, criminal law, personal injury, estate planning, and corporatebusiness planning.We will upload over 100gb of corporate data soon. Lots of clients' personal files (passports, DLs, medical record), NDA, police reports, court files, and other confidential files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Reynolds DeMarco & Boland",
-        "discovered": "2026-03-04 15:40:55.193811",
-        "description": "Reynolds, DeMarco Boland, Ltd. is a general litigation law firm based in Rhode Island, specializing in insurance law, personal injury, civil rights, and numerous other practice areas. The firm primarily represents insurers and their insureds in civil litigation, as well as providing legal advice for first party claims and coverage issues.We will upload over 100gb of corporate data soon. Clients' personal files (w9, i9 forms, passports, DLs, SSNs, medical records), police reports, court files, and other confidential files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Huffman Insurance Agency",
-        "discovered": "2026-03-04 15:40:53.364373",
-        "description": "Huffman Insurance Agency was founded in 1975 and operates in the Richlands, Virginia area with an office in Ashland, Kentucky. Huffman represents a strong netwo...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Primus",
-        "discovered": "2026-03-04 14:41:00.729604",
-        "description": "benzprimus.com is the official website of Primus Autohaus, a leading authorized Mercedes-Benz dealer in Thailand . They offer new and certified pre-owned vehicles, along with comprehensive after-sales services, and have won multiple awards for sales and service excellence",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Comtec 2000",
-        "discovered": "2026-03-04 14:40:59.802647",
-        "description": "comtec-int.ro zoominfo.com/c/comtec-2000-inc/459031613 COMTEC 2000 INC specializes in high-quality electrical products and professional equipment for industrial applications, catering to the needs of demanding clients. Their offerings include a wide range of electrical devices, lighting solutions, and photovoltaic systems, ensuring compliance with European standards. The company is committed to sustainability, implementing waste management and energy-efficient practices. With a focus on innovation, COMTEC provides advanced LED lighting and reliable telecommunications equipment to enhance modern infrastructure",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Reanthong Partcenter",
-        "discovered": "2026-03-04 14:40:58.869203",
-        "description": "rtvalve.com zoominfo.com/c/reanthong-partcenter-co-ltd/393312914 Reanthong Partcenter Co., Ltd. is a prominent manufacturer in Thailand specializing in LPG Cylinder Valves, Brass Fittings, and Gas Accessories with over 32 years of expertise. The company focuses on research and development, manufacturing, sales, and high-quality service, holding ISO9001 certification and various international approvals. Their RT valve products for LPG cylinders are known for their superb quality, competitive pricing, and impressive customer service. Reanthong Partcenter serves clients and customers worldwide, ensuring high standards in their offerings",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "ATS Group",
-        "discovered": "2026-03-04 13:39:54.063018",
-        "description": "Business Services",
-        "link": "/site/view?uuid=ed6099b7-c1b7-372e-9ca1-227b72b4ddc0",
-        "magnet": null,
-        "screen": "screenshots/qilin/ATS Group.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vision Aero",
-        "discovered": "2026-03-04 13:39:53.120569",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=952a8b2d-f8de-3d56-91dc-5098dfbdacab",
-        "magnet": null,
-        "screen": "screenshots/qilin/Vision Aero.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The City of Hesperia, CA",
-        "discovered": "2026-03-04 13:39:51.481984",
-        "description": "",
-        "link": "/blog/disclosures/69a745538f1d14b743ba90ba",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/The City of Hesperia, CA.png",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Outsourcia",
-        "discovered": "2026-03-04 12:40:47.627650",
-        "description": "Business Services",
-        "link": "/site/view?uuid=c1c6fb98-7596-3397-b08e-28dc143d27ec",
-        "magnet": null,
-        "screen": "screenshots/qilin/Outsourcia.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden Clay Industries Sdn Bhd",
-        "discovered": "2026-03-04 12:40:46.658873",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=6ae6dd8b-4a99-3f27-a8b5-86625b42ccc8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Golden Clay Industries Sdn Bhd.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cwpa.com",
-        "discovered": "2026-03-04 12:40:45.380579",
-        "description": "",
-        "link": "/blog/disclosures/69a6d03a8f1d14b743b10cfc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cwpacom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NEW GENERATION MEDIA",
-        "discovered": "2026-03-04 12:40:41.440249",
-        "description": "NGM is a new generation media and production company founded on the understanding that producing content for the television industry is 'not just a commercial ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Media"
-    },
-    {
-        "post_title": "ICAFe Companies",
-        "discovered": "2026-03-04 11:40:33.800149",
-        "description": "Southwest Air Equipment is a single-source equipment supplier dedicated to the spray foam industry, offering comprehensive services including replacement parts, repairs, and complete spray rig setups.We will upload corporate data soon. Lots of clients files, NDAs, contracts and agreements, financials, confidential files, a bit of personal information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bravo Electro Components",
-        "discovered": "2026-03-04 11:40:32.134635",
-        "description": "Bravo Electro specializes in providing a wide range of power supplies, including AC/DC converters, medical power supplies, and modular power solutions. They als...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Lincoln Green Brewing",
-        "discovered": "2026-03-04 11:40:31.187165",
-        "description": "Lincoln Green Brewing Company Ltd. specializes in crafting a wide range of beers, including core, occasional, and special brews, available for online purchase. ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dr. Pizzoglio",
-        "discovered": "2026-03-04 09:43:05.131371",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=71c5eed9-f071-3a88-b16e-1de17211b36a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dr Pizzoglio.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
