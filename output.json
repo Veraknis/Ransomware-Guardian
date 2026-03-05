@@ -1,5 +1,145 @@
 [
     {
+        "post_title": "parkerlipman.com",
+        "discovered": "2026-03-05 20:39:02.851942",
+        "description": "",
+        "link": "/blog/disclosures/69a9caa98f1d14b7434b8533",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/parkerlipmancom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nopa Industriearmaturen",
+        "discovered": "2026-03-05 19:39:09.909247",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=c3257305-2da8-35c5-aa85-b36c833f78cc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Nopa Industriearmaturen.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ELC Security Products",
+        "discovered": "2026-03-05 19:39:08.888647",
+        "description": "Business Services",
+        "link": "/site/view?uuid=8d371143-900b-34e3-8d18-53a7f2defb2d",
+        "magnet": null,
+        "screen": "screenshots/qilin/ELC Security Products.png",
+        "group_name": "qilin",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "A Lococo Wholesale",
+        "discovered": "2026-03-05 19:39:07.925488",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=f69fd746-ad09-31ed-bb8b-209421d85dc5",
+        "magnet": null,
+        "screen": "screenshots/qilin/A Lococo Wholesale.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Abutriek",
+        "discovered": "2026-03-05 19:39:06.924874",
+        "description": "Construction",
+        "link": "/site/view?uuid=8a394eb9-484e-3476-97e2-305ab9d9c3d2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Abutriek.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "liteline.com",
+        "discovered": "2026-03-05 19:39:01.191979",
+        "description": "We have 350GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/liteline",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/litelinecom.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "westonconsulting.com",
+        "discovered": "2026-03-05 19:39:00.183838",
+        "description": "We have 800GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/westonconsulting",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/westonconsultingcom.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tennessee Valley Electric Cooperative",
+        "discovered": "2026-03-05 18:38:53.921082",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/view?uuid=0209ba19-6b23-3516-ac35-2972c5c5667b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tennessee Valley Electric Cooperative.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Cheongdam OracleClinic",
+        "discovered": "2026-03-05 18:38:52.875531",
+        "description": "0",
+        "link": "/site/view?uuid=0388f261-0e78-39aa-90e6-9f31c9b21ce4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cheongdam OracleClinic.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Donjon",
+        "discovered": "2026-03-05 17:39:42.342502",
+        "description": "Donjon Pte Ltd, established in 2003, specializes in Mechanical and Electrical Engineering, offering services such as electrical engineering, renewable engineering, generator supply, service and maintenance, annual shutdowns, integrated building services, and air-conditioning and mechanical ventilation.We will upload 58gb of corporate data soon. Employee personal documents, HR files, lots of drawings and specifications, projects, contracts and agreements, internal confidential files, clients docs, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Ecofit",
+        "discovered": "2026-03-05 17:39:41.218703",
+        "description": "Rosenberg Vendôme specializes in ventilation solutions, offering customized design and manufacturing services. They provide technical support tailored to meet the specific needs of their clients,ensuring energy-efficient and effective ventilation systems.We will upload 16gb of corporate data soon. Employee passports and other scanned docs, HR files, projects, contracts and agreements, clients docs and contacts, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Schaltbau",
+        "discovered": "2026-03-05 16:38:06.568110",
+        "description": "Schaltbau develops and manufactures electromechanical components and innovative driver's desks for railways and industry. Since 1929, the company has been responsible for the safe operation of rail services, and today the company protect systems in industrial applications for renewable energy, e-mobility, and automation.We will upload 20gb of corporate data soon. Employee passports and other personal docs scans, lots of projects, specifications, contracts, internal confidential files, clients docs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Applied Products",
+        "discovered": "2026-03-05 16:38:05.411520",
+        "description": "Applied Products, Inc. is a leading supplier of high-performance,pressure-sensitive adhesives for various OEM industries such as HVAC, construction, automotive, and appliance manufacturing.We will upload corporate data soon. Employee passports, DLs, projects, confidential agreements, clients docs, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Atlas Insurances Ltd Hacked",
+        "discovered": "2026-03-05 16:38:03.480316",
+        "description": "In our ongoing efforts to confront the support networks of the Zionist occupation regime, Handala Hack has successfully targeted a key economic pillar of this regime in the field of marine insurance. Atlas Insurances Ltd (אטלס ביטוחים), which for decades has acted as the primary insurer of the Zionist regime’s maritime fleet and the transfer…",
+        "link": "https://handala-hack.to/atlas-insurances-ltd-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Atlas Insurances Ltd Hacked.png",
+        "group_name": "handala",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "K & S Company, Inc",
         "discovered": "2026-03-05 14:39:14.987156",
         "description": "Real Estate",
@@ -198,155 +338,5 @@
         "screen": null,
         "group_name": "lapsus$",
         "sector": "Energy"
-    },
-    {
-        "post_title": "saturnmachine.net",
-        "discovered": "2026-03-04 20:42:09.749728",
-        "description": "",
-        "link": "/blog/disclosures/69a86c0b8f1d14b743f6d074",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/saturnmachinenet.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Öztekin Group",
-        "discovered": "2026-03-04 20:42:07.440581",
-        "description": "Öztekin Group specializes in project design and construction of industrial, residential, and commercial buildings. The company emphasizes commitment to promises...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Environmental Air",
-        "discovered": "2026-03-04 20:42:06.505245",
-        "description": "Environmental Air, Inc. has been a trusted provider of Sheet Metal Fabrication, Custom Ductwork Fittings, Welding, and HVAC Installation services for over 40 ye...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "eholo health",
-        "discovered": "2026-03-04 19:54:12.641996",
-        "description": "--> Company : Eholo ( www.eholo.health ) is a software solution designed specifically for psychologists and psychological centers, facilitating the management of clinical practices. The platform enables efficient patient management, automated billing, scheduling, and secure handling of clinical histories. Targeting professionals in the psychology field, Eholo offers tools like automated reminders, consent management, and integrated videoconferencing tailored for psychologists. Over 10,000 psychologists have trusted Eholo to streamline their practice and improve patient care\r\n\r\n--> Record : 1 146 700 Medical notes &&  601 308 users pii\r\n\r\n--> Ransom : 300 000$\r\n\r\n--> Deadline : 15/3/2026\r\n\r\n--> Contact : - session : 05d3d75e8370cfc72c7a563c9880995eaf4c33f1bd42a5d4e9cd65e713b190c934\r\n\t              - keybase : https://keybase.io/XP95\r\n            \r\n--> Samples : - https://biteblob.com/Information/YNlNvLRPhA0F3W/#samples_notes.zip\r\n\t              - https://biteblob.com/Information/caYuDi8i5XnzS1/#samples_pii.zip\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/xp95/eholo health.png",
-        "group_name": "xp95",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Tenteks Tente",
-        "discovered": "2026-03-04 19:40:07.441501",
-        "description": "Tenteks specializes in high-quality awning and shading systems, offering a wide range of models suitable for various applications. The company provides solution...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Communitymosaic.co.uk",
-        "discovered": "2026-03-04 18:40:44.907287",
-        "description": "Community Mosaic Cic is an active company incorporated on 21 June 2018 with the registered office located in Peterborough, Cambridgeshire. Community Mosaic Cic was registered 7 years ago",
-        "link": "/blog/9169dd48cabbf3e397e0a7a8e857dcab66598b3c22984607080f4a13b77b51e9/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Communitymosaiccouk.png",
-        "group_name": "tengu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eos Technology srl",
-        "discovered": "2026-03-04 18:40:43.963765",
-        "description": "Eos Technology srl is a company with 15 years of experience in the ICT sector, initially starting as an assembly and repair laboratory for PCs and peripherals. Over time, it has developed expertise that has allowed it to become a partner of various international brands. The company offers a range of services including IT assistance, multimedia services, help desk support, corporate security systems, and the design of virtual switchboards and video surveillance systems. Eos Technology srl aims to provide consulting services to clients navigating the dynamic audiovisual ICT landscape.",
-        "link": "/blog/15f2b93e929d7acc1e24dfd6b25ab9f5c7144e70d305869c0d3685e63525bf40/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Eos Technology srl.png",
-        "group_name": "tengu",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "CJL Engineering",
-        "discovered": "2026-03-04 18:40:25.929372",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=1450df7c-a2f6-38a7-92f2-2255681f8169",
-        "magnet": null,
-        "screen": "screenshots/qilin/CJL Engineering.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "AHMED MUBARAK DEBT COLLECTION",
-        "discovered": "2026-03-04 18:40:23.218763",
-        "description": "With over 14 years of experience, Ahmed Mubarak Debt Collection (AMDC) is licensed by the Government of Sharjah as “Debt Collectors” for consumer & commercial d...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Pantomath Group",
-        "discovered": "2026-03-04 18:40:22.210667",
-        "description": "Pantomath is a mid-market investment bank that offers a range of financial services including investment banking, corporate advisory, asset management, and stru...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Israel Institute for National Security Studies (INSS) Hacked",
-        "discovered": "2026-03-04 17:40:22.725897",
-        "description": "INSS Hacked Your national security is built on deception, media manipulation, and the brainwashing of Jews. How did your national security institution imagine it could end the war in just a few days? But this time is different, and there will be no end. This is a war between good and evil, and all the…",
-        "link": "https://handala-hack.to/israel-institute-for-national-security-studies-inss-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Israel Institute for National Security Studies (INSS) Hacked.png",
-        "group_name": "handala",
-        "sector": "Media"
-    },
-    {
-        "post_title": "brockmaninjurylawyer.com",
-        "discovered": "2026-03-04 16:41:00.776651",
-        "description": "",
-        "link": "/blog/disclosures/69a75d7a8f1d14b743bc56dc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/brockmaninjurylawyercom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "napolinlaw.com",
-        "discovered": "2026-03-04 16:40:59.679396",
-        "description": "",
-        "link": "/blog/disclosures/69a7670b8f1d14b743bd2d3d",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/napolinlawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bclawoffices.com",
-        "discovered": "2026-03-04 16:40:58.638694",
-        "description": "",
-        "link": "/blog/disclosures/69a76eeb8f1d14b743bdca2d",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/bclawofficescom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MarketGraphics Research Group",
-        "discovered": "2026-03-04 16:40:56.170436",
-        "description": "MG Research Markets specializes in providing comprehensive housing market research and analysis services. The company serves a diverse range of clients by delivering accurate and forward-thinkingdata through various interactive tools and GIS services.We will upload 60gb of corporate data soon. Personal files of employees (passport and DL numbers, SSNs and so on), detailed financials, projects, contracts, NDAs, partners and clients contacts and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
