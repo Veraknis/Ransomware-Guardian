@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "ASB Saarland",
+        "discovered": "2026-03-06 19:41:45.403708",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/view?uuid=124e84cb-b657-3990-a820-31f2eb4c89b7",
+        "magnet": null,
+        "screen": "screenshots/qilin/ASB Saarland.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Albany Pumps",
+        "discovered": "2026-03-06 19:41:44.405557",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=0c94668c-bc5d-32bb-8728-36747b6e24b4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Albany Pumps.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "H & L Systems",
+        "discovered": "2026-03-06 19:41:43.368961",
+        "description": "Software",
+        "link": "/site/view?uuid=5e40020a-bbb1-3f38-975e-a023c092e5b5",
+        "magnet": null,
+        "screen": "screenshots/qilin/H & L Systems.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hyundai Elevator",
+        "discovered": "2026-03-06 18:41:37.082160",
+        "description": "",
+        "link": "/news/Hyundai_Elevator/",
+        "magnet": null,
+        "screen": "screenshots/everest/Hyundai Elevator.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Suchthilfe direkt Essen gGmbH",
+        "discovered": "2026-03-06 18:41:21.034682",
+        "description": "0",
+        "link": "/site/view?uuid=ad77927d-b337-3e49-b3e1-4d2c51958d40",
+        "magnet": null,
+        "screen": "screenshots/qilin/Suchthilfe direkt Essen gGmbH.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Waterloo Information Systems",
+        "discovered": "2026-03-06 18:41:20.033281",
+        "description": "Business Services",
+        "link": "/site/view?uuid=5fbb9177-fe17-3632-a0db-6f59a5a97a0a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Waterloo Information Systems.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Orange Madagascar",
+        "discovered": "2026-03-06 18:41:19.062745",
+        "description": "Software",
+        "link": "/site/view?uuid=dff04a2c-3922-3de4-8145-ebeebbe9d770",
+        "magnet": null,
+        "screen": "screenshots/qilin/Orange Madagascar.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Graham County Electric Cooperative",
+        "discovered": "2026-03-06 18:41:16.356871",
+        "description": "Graham County Electric is committed to provide members with affordable cost effective energy solutions.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "IDF in Farsi Hacked",
+        "discovered": "2026-03-06 17:41:02.197966",
+        "description": "Tonight, the silence of the Persian pages of the Zionist army has been broken. Handala Hack is here; this time not for a warning, but for proof. All confidential information from Israeli army accounts has fallen into our hands. Now, 26 pages of individuals connected to the Zionist army in the Axis of Resistance countries…",
+        "link": "https://handala-hack.to/idf-in-farsi-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/IDF in Farsi Hacked.png",
+        "group_name": "handala",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "R&C Fence, Inc.",
+        "discovered": "2026-03-06 16:41:37.866699",
+        "description": "R&C Fence, Inc. is a locally owned and operated company that has been providing custom-built fence installation services for both commercial and residential cli...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "B** *r*t**r* *i* **s***s of ***te** *i**o**i",
         "discovered": "2026-03-06 15:38:53.804489",
         "description": "",
@@ -208,135 +308,5 @@
         "screen": "screenshots/inc ransom/parkerlipmancom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Nopa Industriearmaturen",
-        "discovered": "2026-03-05 19:39:09.909247",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=c3257305-2da8-35c5-aa85-b36c833f78cc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Nopa Industriearmaturen.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ELC Security Products",
-        "discovered": "2026-03-05 19:39:08.888647",
-        "description": "Business Services",
-        "link": "/site/view?uuid=8d371143-900b-34e3-8d18-53a7f2defb2d",
-        "magnet": null,
-        "screen": "screenshots/qilin/ELC Security Products.png",
-        "group_name": "qilin",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "A Lococo Wholesale",
-        "discovered": "2026-03-05 19:39:07.925488",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=f69fd746-ad09-31ed-bb8b-209421d85dc5",
-        "magnet": null,
-        "screen": "screenshots/qilin/A Lococo Wholesale.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Abutriek",
-        "discovered": "2026-03-05 19:39:06.924874",
-        "description": "Construction",
-        "link": "/site/view?uuid=8a394eb9-484e-3476-97e2-305ab9d9c3d2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Abutriek.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "liteline.com",
-        "discovered": "2026-03-05 19:39:01.191979",
-        "description": "We have 350GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/liteline",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/litelinecom.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "westonconsulting.com",
-        "discovered": "2026-03-05 19:39:00.183838",
-        "description": "We have 800GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/westonconsulting",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/westonconsultingcom.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tennessee Valley Electric Cooperative",
-        "discovered": "2026-03-05 18:38:53.921082",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=0209ba19-6b23-3516-ac35-2972c5c5667b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tennessee Valley Electric Cooperative.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Cheongdam OracleClinic",
-        "discovered": "2026-03-05 18:38:52.875531",
-        "description": "0",
-        "link": "/site/view?uuid=0388f261-0e78-39aa-90e6-9f31c9b21ce4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cheongdam OracleClinic.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Donjon",
-        "discovered": "2026-03-05 17:39:42.342502",
-        "description": "Donjon Pte Ltd, established in 2003, specializes in Mechanical and Electrical Engineering, offering services such as electrical engineering, renewable engineering, generator supply, service and maintenance, annual shutdowns, integrated building services, and air-conditioning and mechanical ventilation.We will upload 58gb of corporate data soon. Employee personal documents, HR files, lots of drawings and specifications, projects, contracts and agreements, internal confidential files, clients docs, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ecofit",
-        "discovered": "2026-03-05 17:39:41.218703",
-        "description": "Rosenberg Vendôme specializes in ventilation solutions, offering customized design and manufacturing services. They provide technical support tailored to meet the specific needs of their clients,ensuring energy-efficient and effective ventilation systems.We will upload 16gb of corporate data soon. Employee passports and other scanned docs, HR files, projects, contracts and agreements, clients docs and contacts, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Schaltbau",
-        "discovered": "2026-03-05 16:38:06.568110",
-        "description": "Schaltbau develops and manufactures electromechanical components and innovative driver's desks for railways and industry. Since 1929, the company has been responsible for the safe operation of rail services, and today the company protect systems in industrial applications for renewable energy, e-mobility, and automation.We will upload 20gb of corporate data soon. Employee passports and other personal docs scans, lots of projects, specifications, contracts, internal confidential files, clients docs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Applied Products",
-        "discovered": "2026-03-05 16:38:05.411520",
-        "description": "Applied Products, Inc. is a leading supplier of high-performance,pressure-sensitive adhesives for various OEM industries such as HVAC, construction, automotive, and appliance manufacturing.We will upload corporate data soon. Employee passports, DLs, projects, confidential agreements, clients docs, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Atlas Insurances Ltd Hacked",
-        "discovered": "2026-03-05 16:38:03.480316",
-        "description": "In our ongoing efforts to confront the support networks of the Zionist occupation regime, Handala Hack has successfully targeted a key economic pillar of this regime in the field of marine insurance. Atlas Insurances Ltd (אטלס ביטוחים), which for decades has acted as the primary insurer of the Zionist regime’s maritime fleet and the transfer…",
-        "link": "https://handala-hack.to/atlas-insurances-ltd-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Atlas Insurances Ltd Hacked.png",
-        "group_name": "handala",
-        "sector": "Transportation"
     }
 ]
