@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Geotec Surveys",
+        "discovered": "2026-03-07 18:39:58.824682",
+        "description": "Software",
+        "link": "/site/view?uuid=9949d38c-52b0-3ba9-8ba0-74d00d426f6b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Geotec Surveys.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Artemedica",
+        "discovered": "2026-03-07 18:39:57.692228",
+        "description": "0",
+        "link": "/site/view?uuid=7cd3db5c-d36a-37c6-bdaf-abd8daac311c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Artemedica.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kuzco Lighting",
+        "discovered": "2026-03-07 18:39:56.576753",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=4143509c-5888-304e-b429-f619e32068af",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kuzco Lighting.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Brothers Produce",
+        "discovered": "2026-03-07 17:39:50.672883",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=3105a8f7-027c-354f-a788-85b0fa50640d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Brothers Produce.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Dielco",
+        "discovered": "2026-03-07 17:39:49.625837",
+        "description": "Banking",
+        "link": "/site/view?uuid=d22abc53-c565-31c2-b4d9-fab70161918a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dielco.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Stalwart Development Group LLC",
         "discovered": "2026-03-07 14:43:16.672809",
         "description": "",
@@ -327,106 +377,6 @@
         "magnet": null,
         "screen": "screenshots/play/Garland Williams & Associates.png",
         "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ASB Saarland",
-        "discovered": "2026-03-06 19:41:45.403708",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/view?uuid=124e84cb-b657-3990-a820-31f2eb4c89b7",
-        "magnet": null,
-        "screen": "screenshots/qilin/ASB Saarland.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Albany Pumps",
-        "discovered": "2026-03-06 19:41:44.405557",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=0c94668c-bc5d-32bb-8728-36747b6e24b4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Albany Pumps.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "H & L Systems",
-        "discovered": "2026-03-06 19:41:43.368961",
-        "description": "Software",
-        "link": "/site/view?uuid=5e40020a-bbb1-3f38-975e-a023c092e5b5",
-        "magnet": null,
-        "screen": "screenshots/qilin/H & L Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Hyundai Elevator",
-        "discovered": "2026-03-06 18:41:37.082160",
-        "description": "",
-        "link": "/news/Hyundai_Elevator/",
-        "magnet": null,
-        "screen": "screenshots/everest/Hyundai Elevator.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Suchthilfe direkt Essen gGmbH",
-        "discovered": "2026-03-06 18:41:21.034682",
-        "description": "0",
-        "link": "/site/view?uuid=ad77927d-b337-3e49-b3e1-4d2c51958d40",
-        "magnet": null,
-        "screen": "screenshots/qilin/Suchthilfe direkt Essen gGmbH.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Waterloo Information Systems",
-        "discovered": "2026-03-06 18:41:20.033281",
-        "description": "Business Services",
-        "link": "/site/view?uuid=5fbb9177-fe17-3632-a0db-6f59a5a97a0a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Waterloo Information Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Orange Madagascar",
-        "discovered": "2026-03-06 18:41:19.062745",
-        "description": "Software",
-        "link": "/site/view?uuid=dff04a2c-3922-3de4-8145-ebeebbe9d770",
-        "magnet": null,
-        "screen": "screenshots/qilin/Orange Madagascar.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Graham County Electric Cooperative",
-        "discovered": "2026-03-06 18:41:16.356871",
-        "description": "Graham County Electric is committed to provide members with affordable cost effective energy solutions.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "IDF in Farsi Hacked",
-        "discovered": "2026-03-06 17:41:02.197966",
-        "description": "Tonight, the silence of the Persian pages of the Zionist army has been broken. Handala Hack is here; this time not for a warning, but for proof. All confidential information from Israeli army accounts has fallen into our hands. Now, 26 pages of individuals connected to the Zionist army in the Axis of Resistance countries…",
-        "link": "https://handala-hack.to/idf-in-farsi-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/IDF in Farsi Hacked.png",
-        "group_name": "handala",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "R&C Fence, Inc.",
-        "discovered": "2026-03-06 16:41:37.866699",
-        "description": "R&C Fence, Inc. is a locally owned and operated company that has been providing custom-built fence installation services for both commercial and residential cli...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
         "sector": "Unknown"
     }
 ]
