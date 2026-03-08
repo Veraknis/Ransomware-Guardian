@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Infinity Systems",
+        "discovered": "2026-03-08 18:39:50.674573",
+        "description": "",
+        "link": "topic.php?id=GuYZipBxL6uLXa",
+        "magnet": null,
+        "screen": "screenshots/play/Infinity Systems.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Serrano Industries",
+        "discovered": "2026-03-08 18:39:49.667076",
+        "description": "",
+        "link": "topic.php?id=NDL90oWLR6HAER",
+        "magnet": null,
+        "screen": "screenshots/play/Serrano Industries.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Helen Kaminski",
+        "discovered": "2026-03-08 18:39:48.647130",
+        "description": "",
+        "link": "topic.php?id=WH9xeptEBqPtto",
+        "magnet": null,
+        "screen": "screenshots/play/Helen Kaminski.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Byard F Brogan",
+        "discovered": "2026-03-08 18:39:47.487575",
+        "description": "",
+        "link": "topic.php?id=xaJr9YVJH3T8QA",
+        "magnet": null,
+        "screen": "screenshots/play/Byard F Brogan.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Facilities USA",
+        "discovered": "2026-03-08 18:39:46.335944",
+        "description": "",
+        "link": "topic.php?id=Hj2OEYo7G2KB",
+        "magnet": null,
+        "screen": "screenshots/play/Facilities USA.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Southern Concrete Construction",
+        "discovered": "2026-03-08 18:39:45.073640",
+        "description": "",
+        "link": "topic.php?id=lv3qyA69HxNXGW",
+        "magnet": null,
+        "screen": "screenshots/play/Southern Concrete Construction.png",
+        "group_name": "play",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "T**n*e**l S.A. C***t**c***a",
+        "discovered": "2026-03-08 16:39:20.294954",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Sagent Pharmaceuticals",
         "discovered": "2026-03-08 11:40:49.292274",
         "description": "",
@@ -38,55 +108,5 @@
         "screen": "screenshots/handala/Jerusalem Water Supply Facilities Hacked.png",
         "group_name": "handala",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Geotec Surveys",
-        "discovered": "2026-03-07 18:39:58.824682",
-        "description": "Software",
-        "link": "/site/view?uuid=9949d38c-52b0-3ba9-8ba0-74d00d426f6b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Geotec Surveys.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Artemedica",
-        "discovered": "2026-03-07 18:39:57.692228",
-        "description": "0",
-        "link": "/site/view?uuid=7cd3db5c-d36a-37c6-bdaf-abd8daac311c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Artemedica.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kuzco Lighting",
-        "discovered": "2026-03-07 18:39:56.576753",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=4143509c-5888-304e-b429-f619e32068af",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kuzco Lighting.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Brothers Produce",
-        "discovered": "2026-03-07 17:39:50.672883",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=3105a8f7-027c-354f-a788-85b0fa50640d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Brothers Produce.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Dielco",
-        "discovered": "2026-03-07 17:39:49.625837",
-        "description": "Banking",
-        "link": "/site/view?uuid=d22abc53-c565-31c2-b4d9-fab70161918a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dielco.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
