@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Sagent Pharmaceuticals",
+        "discovered": "2026-03-08 11:40:49.292274",
+        "description": "",
+        "link": "/companies/4963154147",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Sagent Pharmaceuticals.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Israeli Weather Stations Crippled",
+        "discovered": "2026-03-08 10:40:05.162901",
+        "description": "Greetings to all freedom-loving nations and resistance fighters. Following a series of successful cyber operations, Handala Hack has fully infiltrated the main servers of the Zionist regime’s meteorological systems and has wiped out all governmental and military weather stations. As of this moment, none of these stations are operational, leaving the enemy’s aviation and military…",
+        "link": "https://handala-hack.to/israeli-weather-stations-crippled/",
+        "magnet": null,
+        "screen": "screenshots/handala/Israeli Weather Stations Crippled.png",
+        "group_name": "handala",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Contact Handala",
         "discovered": "2026-03-08 08:39:57.168530",
         "description": "In the name of freedom and justice To all freedom-seekers of the world; We, the members of Handala Hack, extend our hand of support to all those who cherish freedom and justice during this critical moment in history. Today, more than ever, it is possible for all freedom-seekers to establish direct and secure communication with…",
@@ -67,126 +87,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Dielco.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stalwart Development Group LLC",
-        "discovered": "2026-03-07 14:43:16.672809",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "crescentenergyco.com",
-        "discovered": "2026-03-07 14:42:55.424447",
-        "description": "Crescent is a growth-oriented U.S. independent energy company engaged in the acquisition, development and operation of oil and natural gas properties. Crescents portfolio of low-decline, cash-flow oriented assets comprises both mid-cycle unconventional and conventional assets with a long reserve lif…",
-        "link": "/Ximk9LkDWjtu9BOA7qEnm12Dam4VhCRi/crescentenergyco-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/crescentenergycocom.png",
-        "group_name": "chaos",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Sileno Companies Inc",
-        "discovered": "2026-03-07 12:44:02.902501",
-        "description": "Sileno Companies Inc.\nA US company primarily operating in the hospitality and real estate sectors, its activities include:\nHotel operation\nProperty management\nManagement of hotels' restaurants and bars\nHospitality project development\n22.9TB was encrypted in 14 hours on 3/5/2026\nMore than 67.07 GB was extracted",
-        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
-        "magnet": null,
-        "screen": "screenshots/tengu/Sileno Companies Inc.png",
-        "group_name": "tengu",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Griswold Controls",
-        "discovered": "2026-03-07 11:43:06.856914",
-        "description": "A leader in flow control technology and valves, specializing in HVAC and irrigation applications",
-        "link": "/8a6750dcebd3a0fd2bbd/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Griswold Controls.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NADAP",
-        "discovered": "2026-03-07 11:43:05.809709",
-        "description": "A non-profit organization",
-        "link": "/1ca8fe3a546e93a71932/",
-        "magnet": null,
-        "screen": "screenshots/genesis/NADAP.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "City of Hart",
-        "discovered": "2026-03-07 11:43:04.700629",
-        "description": "A City of Hart local municipal organization",
-        "link": "/f5ba1939019c35515efe/",
-        "magnet": null,
-        "screen": "screenshots/genesis/City of Hart.png",
-        "group_name": "genesis",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Brighton Eye",
-        "discovered": "2026-03-07 11:43:00.303765",
-        "description": "An eye care center in Brooklyn, NY",
-        "link": "/da29fb1f818a057026e0/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Brighton Eye.png",
-        "group_name": "genesis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Cornerstone Financial Advisors, INC",
-        "discovered": "2026-03-07 11:42:59.103887",
-        "description": "A full service CPA firm",
-        "link": "/74334afe71750e09b8d2/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Cornerstone Financial Advisors, INC.png",
-        "group_name": "genesis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Sanders Legal Group",
-        "discovered": "2026-03-07 11:42:57.720298",
-        "description": "A law firm based in Atlanta, Georgia",
-        "link": "/6962c55a25d2e9b34b4d/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Sanders Legal Group.png",
-        "group_name": "genesis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "OneSource Medical Group",
-        "discovered": "2026-03-07 11:42:56.649488",
-        "description": "A provider of RCM and billing services",
-        "link": "/6243244f2cab542be965/",
-        "magnet": null,
-        "screen": "screenshots/genesis/OneSource Medical Group.png",
-        "group_name": "genesis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Sierra Management Group",
-        "discovered": "2026-03-07 11:42:54.997450",
-        "description": "Provides comprehensive medical practice management",
-        "link": "/0fc724d1b71a64ccedc/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Sierra Management Group.png",
-        "group_name": "genesis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Handala New Telegram",
-        "discovered": "2026-03-07 09:43:42.343388",
-        "description": "Please Join and Share https://t.me/HANDALA_HPR2 https://t.me/HANDALA_HPR2 https://t.me/HANDALA_HPR2",
-        "link": "https://handala-hack.to/handala-new-telegram/",
-        "magnet": null,
-        "screen": "screenshots/handala/Handala New Telegram.png",
-        "group_name": "handala",
         "sector": "Unknown"
     }
 ]
