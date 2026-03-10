@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "A J Taylor Electrical",
+        "discovered": "2026-03-10 08:37:51.360604",
+        "description": "Data breach at electrical installation company: drawings, tenders, and other data on the healthcare and education sectors.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/+jDJdnGcVTnYLixdsyohXz7MCFHtJpglSm89HPqtPafDJMlHMlL4LLaZBgu4SikHO7WK1mO1niVCvSIIubOzZZMHZENWlC",
+        "magnet": null,
+        "screen": "screenshots/anubis/A J Taylor Electrical.png",
+        "group_name": "anubis",
+        "sector": "Education"
+    },
+    {
+        "post_title": "First Priority Group",
+        "discovered": "2026-03-10 03:38:56.294348",
+        "description": "",
+        "link": "/news/First_Priority_Group_/",
+        "magnet": null,
+        "screen": "screenshots/everest/First Priority Group.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Taylor County Property Appraiser's Office",
+        "discovered": "2026-03-10 02:39:29.677085",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Invaccs software technologies pvt ltd",
+        "discovered": "2026-03-10 02:39:06.047311",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Estra Automotive",
+        "discovered": "2026-03-10 01:39:56.111285",
+        "description": "",
+        "link": "/blog/disclosures/69abe7068f1d14b743e12b6b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Estra Automotive.png",
+        "group_name": "inc ransom",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "crown-security.com.tw",
+        "discovered": "2026-03-10 00:40:02.818063",
+        "description": "Crown Security is a technology company specializing in information security and digital systems, offering advanced solutions to protect corporate networks and data from breaches and cyberattacks\nThe company focuses on providing security consulting and implementing integrated protection systems tailored to each organization's needs",
+        "link": "/blog/7e4d2cc0b26635dfe620f21d6729f4cd122f8f73c1a95c65bf38693f4a6f0751/",
+        "magnet": null,
+        "screen": "screenshots/tengu/crown-securitycomtw.png",
+        "group_name": "tengu",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Wagon Mound Public Schools",
+        "discovered": "2026-03-09 22:38:34.420105",
+        "description": "https://www.wm.k12.nm.us\n\t\t\t\t\t\t\t\t\tWagon Mound Public Schools provides education to students in the Wagon Mound area, providing resources and support for both elementary and middle schools. However, they neglected to address the security of their materials, resulting in the compromise of all their personal data, including the school's blueprints. We present to your attention a 80 GB of data, which includes staff and student information, their phone numbers, residence addresses, and passport numbers.",
+        "link": "http://hu5zd7ek6glyoke5kfc4mvt6s3cmia6ebtqptumvbogzdo2vrn5e7bid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Wagon Mound Public Schools.png",
+        "group_name": "interlock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "O****C",
+        "discovered": "2026-03-09 21:40:19.805653",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RWB Consulting Engineers",
+        "discovered": "2026-03-09 21:40:18.435000",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=f0668431-ee3f-3570-99cb-ea7d9c0691c6",
+        "magnet": null,
+        "screen": "screenshots/qilin/RWB Consulting Engineers.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "altaortho.com",
+        "discovered": "2026-03-09 21:40:17.125923",
+        "description": "",
+        "link": "/blog/disclosures/69af1b058f1d14b7433e952e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/altaorthocom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "tupeloeye.com",
+        "discovered": "2026-03-09 21:40:16.127223",
+        "description": "",
+        "link": "/blog/disclosures/69af1cac8f1d14b7433f4e7b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tupeloeyecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "arbd.com",
+        "discovered": "2026-03-09 21:40:15.004974",
+        "description": "",
+        "link": "/blog/disclosures/69af27c88f1d14b743442f8c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/arbdcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pacepacific.com",
+        "discovered": "2026-03-09 20:39:50.377340",
+        "description": "",
+        "link": "/blog/disclosures/69a1b8458f1d14b7434b2a2b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/pacepacificcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information",
         "discovered": "2026-03-09 18:39:56.394547",
         "description": "In response to the ongoing brutal crimes of the occupying regime against the people of the resistance, Handala Hack has delivered an unprecedented blow to Tel Aviv’s security apparatus. For the first time, the complete details of 50 senior officers serving in the Israeli Air Force, who are directly involved in bombing innocent civilians and…",
@@ -328,15 +458,5 @@
         "screen": "screenshots/qilin/Pleiad Investment Advisors (Singapore brach).png",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Full Access: Jerusalem’s Security Cameras in Handala’s Hands",
-        "discovered": "2026-03-09 08:39:11.340517",
-        "description": "Full Access: Jerusalem’s Security Cameras in Handala’s Hands Jerusalem’s Security Cameras Hacked   For years, the urban and security cameras of Jerusalem, nothing more than Shabak’s playthings, have tirelessly recorded every movement, hoping to bring peace of mind to their anxious masters. Yet, oblivious to reality, these weary, lifeless eyes have long since become mere…",
-        "link": "https://handala-hack.to/full-access-jerusalems-security-cameras-in-handalas-hands/",
-        "magnet": null,
-        "screen": "screenshots/handala/Full Access: Jerusalem’s Security Cameras in Handala’s Hands.png",
-        "group_name": "handala",
-        "sector": "Defense"
     }
 ]
