@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "csi-ri.com",
+        "discovered": "2026-03-10 17:40:17.320975",
+        "description": "",
+        "link": "/blog/disclosures/69a1b9be8f1d14b7434b447b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/csi-ricom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Paass Logistik",
+        "discovered": "2026-03-10 16:40:54.233494",
+        "description": "Paass Logistik is a transportation/trucking/railroad company based out of Köln, Germany.We will upload 26gb of corporate data soon. Employee files (passports DLs), detailed financials, clients' files, contracts and agreements (DHL and others), NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Exhibit Network",
         "discovered": "2026-03-10 15:41:39.788574",
         "description": "From the company's headquarters in Houston, Exhibit Network handles all the details involved in your custom trade show display, logistics, and show services, allowing you to focus on the big picture. The company offers extensive expertise at competitive prices.We will upload almost 50gb of corporate data soon. Employee files(passports and some other scanned documents), financials, clients' files, contracts and agreements, NDAs and so on.",
@@ -268,55 +288,5 @@
         "screen": "screenshots/inc ransom/pacepacificcom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information",
-        "discovered": "2026-03-09 18:39:56.394547",
-        "description": "In response to the ongoing brutal crimes of the occupying regime against the people of the resistance, Handala Hack has delivered an unprecedented blow to Tel Aviv’s security apparatus. For the first time, the complete details of 50 senior officers serving in the Israeli Air Force, who are directly involved in bombing innocent civilians and…",
-        "link": "https://handala-hack.to/unprecedented-disclosure-of-50-senior-israeli-air-force-officers-information/",
-        "magnet": null,
-        "screen": "screenshots/handala/Unprecedented Disclosure of 50 Senior Israeli Air Force Officers’ Information.png",
-        "group_name": "handala",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "CFGI Management (cfgi.com)",
-        "discovered": "2026-03-09 17:38:48.400302",
-        "description": "Over 800k records containing PII and other internal corporate data have been compromised.   The company failed to reach an agreement with us despite all the chances and offers we made. They don't care about their clients nor investors.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Vertex Inc.",
-        "discovered": "2026-03-09 17:38:47.392166",
-        "description": "Over 2M records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 12 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Salesforce Aura Campaign",
-        "discovered": "2026-03-09 17:38:46.422706",
-        "description": "Several hundreds of companies set to release with FINAL WARNINGs upon failure to comply.   To all affected companies who will be or are being contacted by us (\"ShinyHunters\"), please consider this a preliminary warning before we release your name with FINAL WARNING or a complete data leak. Reply, engage, pay a small price, and prevent a publication.   Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "nch.com",
-        "discovered": "2026-03-09 17:38:27.626805",
-        "description": "Your leading global experts in industrial solutions.\r\n\r\nAt NCH Corporation, we don’t just sell products—we deliver solutions that keep businesses moving. For ov...",
-        "link": "/#/post/03b3d5e3-f729-45e0-af55-1ca6949a3e9f",
-        "magnet": null,
-        "screen": "screenshots/embargo/nchcom.png",
-        "group_name": "embargo",
-        "sector": "Manufacturing"
     }
 ]
