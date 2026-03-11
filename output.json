@@ -1,5 +1,225 @@
 [
     {
+        "post_title": "Big Brothers Big Sisters",
+        "discovered": "2026-03-11 15:38:44.972419",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tecnoedil S.A. Constructora",
+        "discovered": "2026-03-11 15:38:44.030311",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CFTC Métallurgie",
+        "discovered": "2026-03-11 15:38:42.998633",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Special Shapes Refractory",
+        "discovered": "2026-03-11 15:38:22.892453",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=9af00188-22f0-3faf-bf61-86b472ec8da6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Special Shapes Refractory.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Powers HVAC",
+        "discovered": "2026-03-11 15:38:21.885247",
+        "description": "Construction",
+        "link": "/site/view?uuid=efe20076-d5f4-3d32-8f7f-645bed887987",
+        "magnet": null,
+        "screen": "screenshots/qilin/Powers HVAC.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Jadtec Security Services",
+        "discovered": "2026-03-11 15:38:20.874840",
+        "description": "Business Services",
+        "link": "/site/view?uuid=23995ab9-f813-3dc2-acd6-49341d9d8cb4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jadtec Security Services.png",
+        "group_name": "qilin",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Omega Optical",
+        "discovered": "2026-03-11 15:38:19.669017",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=15f32a70-47cb-3e62-8cf8-4db6579a9be0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Omega Optical.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stryker Corporation Hacked",
+        "discovered": "2026-03-11 15:38:16.314045",
+        "description": "We announce to the world that, in retaliation for the brutal attack on the Minab school and in response to ongoing cyber assaults against the infrastructure of the Axis of Resistance, our major cyber operation has been executed with complete success. The Zionist-rooted corporation, Stryker, one of the key arms of the global Zionist lobby…",
+        "link": "https://handala-hack.to/stryker-corporation-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Stryker Corporation Hacked.png",
+        "group_name": "handala",
+        "sector": "Education"
+    },
+    {
+        "post_title": "HB Brantner: When Your Trailers Are Stronger Than Your Security",
+        "discovered": "2026-03-11 14:38:50.002450",
+        "description": "#Leaknet #HackedData #CyberIncident #DataRisk #SensitiveData #PrivacyRisk #SecurityMatters #ProtectYourData #InfoLeak #DataSpill #BreachAlert #BreachWatch #CyberFail #Hbbrantner",
+        "link": "view_article.php?article=QZjdSV4DYe8UEAUi4LXjEq7mx6tQv0M05SJtPkU7l4lkPaVvEjVpbURzgV4R1WP7",
+        "magnet": null,
+        "screen": "screenshots/leaknet/HB Brantner: When Your Trailers Are Stronger Than Your Security.png",
+        "group_name": "leaknet",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Peak Toolworks",
+        "discovered": "2026-03-11 14:38:48.382884",
+        "description": "",
+        "link": "/companies/4402916269",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Peak Toolworks.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Curtiembre Austral S.R.L.",
+        "discovered": "2026-03-11 14:38:46.730945",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=692dfb9e-194c-3d54-b4f8-e709b189751d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Curtiembre Austral SRL.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Yuma Sun",
+        "discovered": "2026-03-11 14:38:43.993372",
+        "description": "Advertising & Marketing",
+        "link": "/site/view?uuid=2282dcf9-043f-3583-aadc-722db21e1cc1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Yuma Sun.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Composition Systems",
+        "discovered": "2026-03-11 14:38:42.974069",
+        "description": "Business Services",
+        "link": "/site/view?uuid=e5a11423-fc09-333d-972e-7cdbdd79d461",
+        "magnet": null,
+        "screen": "screenshots/qilin/Composition Systems.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Retamar",
+        "discovered": "2026-03-11 14:38:40.284535",
+        "description": "Education",
+        "link": "/site/view?uuid=de187625-6c88-3d1f-b97c-02e42f9a2351",
+        "magnet": null,
+        "screen": "screenshots/qilin/Retamar.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "UMBERG TREUHAND AG 🇨🇭",
+        "discovered": "2026-03-11 14:38:38.988379",
+        "description": "The company provides tax optimization consulting for individuals, businesses, and public organizations.",
+        "link": "/blog/a25f4a62-4dc0-4ebe-aef8-d10d2e1fd5e4",
+        "magnet": null,
+        "screen": "screenshots/bravox/UMBERG TREUHAND AG 🇨🇭.png",
+        "group_name": "bravox",
+        "sector": "Government"
+    },
+    {
+        "post_title": "seit.cl",
+        "discovered": "2026-03-11 13:38:16.186590",
+        "description": "seit.cl is the website of SEiT S.p.A., a company providing IT services to businesses in Chile. In...",
+        "link": "/page_company.php?id=134",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/seitcl.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hazeldenes.com.au",
+        "discovered": "2026-03-11 13:38:14.251635",
+        "description": "Hazeldenes is a family-owned chicken farm that has been supplying high-quality Australian chicken since 1938.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "B****.",
+        "discovered": "2026-03-11 12:40:01.222330",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JBS Brazil - We have 3TB of your data - Pics added",
+        "discovered": "2026-03-11 11:42:00.877914",
+        "description": "",
+        "link": "/companies/jbs",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/JBS Brazil - We have 3TB of your data - Pics added.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "bg.ac.rs",
+        "discovered": "2026-03-11 11:41:59.652637",
+        "description": "University of Belgrade. Internal documents, letters, attachments, financial reports. Total size: ...",
+        "link": "/page_company.php?id=132",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/bgacrs.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "novoair-bd.com",
+        "discovered": "2026-03-11 11:41:58.655666",
+        "description": "novoair-bd.com is the website of Novoair, a private airline based in Bangladesh. Internal documen...",
+        "link": "/page_company.php?id=133",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/novoair-bdcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Elliott-Lewis",
+        "discovered": "2026-03-11 09:40:45.658467",
+        "description": "https://elliottlewis.com\n\t\t\t\t\t\t\t\t\tSince 1905, Elliott-Lewis Corporate has provided comprehensive solutions for maintenance, repair and operations, engineering, design, installation, and energy consumption. In addition, Elliott-Lewis' Facilities Management team provides individual on-site operations management but does not provide security to its customers, resulting in a large database of confidential contracts and projects, as well as personal customer and employee data.",
+        "link": "http://x2ol75zago3z2nrp7lnmbcwoq3okiexuwi456oe6jqurbprg6lljz3yd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Elliott-Lewis.png",
+        "group_name": "interlock",
+        "sector": "Services"
+    },
+    {
         "post_title": "shlomo bit",
         "discovered": "2026-03-11 07:38:36.163580",
         "description": "",
@@ -108,145 +328,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "Exhibit Network",
-        "discovered": "2026-03-10 15:41:39.788574",
-        "description": "From the company's headquarters in Houston, Exhibit Network handles all the details involved in your custom trade show display, logistics, and show services, allowing you to focus on the big picture. The company offers extensive expertise at competitive prices.We will upload almost 50gb of corporate data soon. Employee files(passports and some other scanned documents), financials, clients' files, contracts and agreements, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "banak.com",
-        "discovered": "2026-03-10 15:41:38.103812",
-        "description": "Banak is a Spanish company that sells furniture and home decor. Internal documents, letters, atta...",
-        "link": "/page_company.php?id=130",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/banakcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bankasia-bd.com",
-        "discovered": "2026-03-10 15:41:37.134576",
-        "description": "bankasia-bd.com is the official website of Bank Asia PLC, a commercial bank in Bangladesh. Intern...",
-        "link": "/page_company.php?id=131",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/bankasia-bdcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Sajet Products [SAMPLE PUBLUSHED]",
-        "discovered": "2026-03-10 14:39:48.806306",
-        "description": "700mb of blueprints including Amazon LEO (satellite) Project Kuiper scheme, Airbus, Boeing engines and metal alloy technologies.  Enjoy. \n\nhttps://amber-wooden-prawn-35.mypinata.cloud/ipfs/bafybeic5m7e3dvlunitnv6vxzbcvqqgm4pybgc3ykn3jo62jipshf6bjve",
-        "link": "/article/380c7555-a38b-418a-8048-14771e23d5d0",
-        "magnet": null,
-        "screen": "screenshots/linkc/Sajet Products [SAMPLE PUBLUSHED].png",
-        "group_name": "linkc",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Advanced Animations",
-        "discovered": "2026-03-10 14:39:46.610318",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=11fa5336-1188-352a-99d3-4214bfae708b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Advanced Animations.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A-Fast Tile & Coping",
-        "discovered": "2026-03-10 14:39:45.346568",
-        "description": "Construction",
-        "link": "/site/view?uuid=480f6d0b-98bd-3c74-be06-8f8e809ec3d8",
-        "magnet": null,
-        "screen": "screenshots/qilin/A-Fast Tile & Coping.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "RetireRight Financial Planning",
-        "discovered": "2026-03-10 14:39:44.087635",
-        "description": "Finance",
-        "link": "/site/view?uuid=67daf84d-63f7-3294-b639-5214b145e2bd",
-        "magnet": null,
-        "screen": "screenshots/qilin/RetireRight Financial Planning.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Salford City College",
-        "discovered": "2026-03-10 14:39:43.051406",
-        "description": "Education",
-        "link": "/site/view?uuid=99c69058-239f-334b-9088-571b8ca0940d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Salford City College.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Root Security",
-        "discovered": "2026-03-10 14:39:41.988057",
-        "description": "Government",
-        "link": "/site/view?uuid=968e730c-0443-3e1b-9aef-043aa1a44509",
-        "magnet": null,
-        "screen": "screenshots/qilin/Root Security.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "netCOMPONENTS",
-        "discovered": "2026-03-10 14:39:38.841517",
-        "description": "netCOMPONENTS is a market leader in sourcing services for the global electronic components industry, connecting buyers and suppliers in a vendor-neutral environment. The platform offers extensivefeatures for purchasing agents and procurement professionals, including part searches, supplier quality ratings, and multilingualmessaging systems.We will upload corporate data soon. Detailed employee files (passports, DLs, a bit of medical files), clients' files, financials, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "maa-architects.com",
-        "discovered": "2026-03-10 14:39:24.034564",
-        "description": "Matthew Allchurch Architects (MAA) specializes in high-quality architectural solutions across a range of sectors, including residential, commercial, office, cow...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "tazzetti.com",
-        "discovered": "2026-03-10 14:39:18.155504",
-        "description": "TAZZETTI - Special fluids and environmental services: Your international partner in refrigerants, specialty gases, hydrodynamic systems, gaseous waste treatment...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "LHT Holdings Limited",
-        "discovered": "2026-03-10 13:40:15.844209",
-        "description": "",
-        "link": "/blog/disclosures/69ae98878f1d14b74314ae6a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/LHT Holdings Limited.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Teknopres_TR",
-        "discovered": "2026-03-10 13:40:14.723125",
-        "description": "",
-        "link": "/blog/disclosures/69aea23f8f1d14b7431576fd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Teknopres_TR.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
