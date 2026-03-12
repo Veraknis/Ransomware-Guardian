@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "Giaroli S.A.S",
+        "discovered": "2026-03-12 15:40:30.879716",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "I**M**",
+        "discovered": "2026-03-12 15:40:29.853705",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mh Soluciones",
+        "discovered": "2026-03-12 15:40:04.804549",
+        "description": "mh SOLUCIONES specializes in outsourcing support and management processes, helping clients enhance performance while ensuring transparency and better cost control. The company offers tailored solutions for maintenance and installation businesses, allowing clients to focus on their core operations.We will upload 85gb of corporate data soon. Lots of employee scanned docs (passports, DLs and so on), project docs (hazardous wastes management, government contracts), agreements, client information.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "moccae.gov.ae",
+        "discovered": "2026-03-12 15:39:44.942475",
+        "description": "The Ministry of Climate Change and Environment (moccae.gov.ae) is a government ministry in the Un...",
+        "link": "/page_company.php?id=138",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/moccaegovae.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Credit Freedom & Restoration",
+        "discovered": "2026-03-12 14:10:26.355547",
+        "description": "",
+        "link": "#Credit%20Freedom%20%26%20Restoration",
+        "magnet": null,
+        "screen": "screenshots/loki/Credit Freedom & Restoration.png",
+        "group_name": "loki",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Fannin CAD",
+        "discovered": "2026-03-12 14:10:04.993559",
+        "description": "Zoominfo: https://www.zoominfo.com/pic/fannin-central-appraisal-district/1117264519\n\nExfiltrated: 400 GB of data",
+        "link": "#Fannin%20CAD",
+        "magnet": null,
+        "screen": "screenshots/exitium/Fannin CAD.png",
+        "group_name": "exitium",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Marborges Agroindustria",
+        "discovered": "2026-03-12 14:09:59.842085",
+        "description": "Zoominfo: https://www.zoominfo.com/c/marborges-agroindustria/547271801\n\nCompany in Brasil with a bad security.",
+        "link": "#Marborges%20Agroindustria",
+        "magnet": null,
+        "screen": "screenshots/exitium/Marborges Agroindustria.png",
+        "group_name": "exitium",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "University of Mississippi Medical Center",
+        "discovered": "2026-03-12 13:47:24.273112",
+        "description": "The University of Mississippi School of Medicine (UMSOM) is the medical school of the University of Mississippi in the U.S. state of Mississippi. The UMSOM was created in 1903 on the Oxford campus. In 1955, it was moved from the Oxford campus to the state capital of Jackson and was expanded to include the third and fourth years of training. The University of Mississippi Medical Center, the health sciences campus of the University of Mississippi, houses the School of Medicine. As of 2006, there were 413 students enrolled in UMSOM. This includes students enrolled in the four-year M.D. program as well as students enrolled in the seven-year M.D./Ph.D program. \nThe company headquarters is located in 2500 North State Street, Jackson, Mississippi 39216, United States.\n5K - 10K Employees",
+        "link": "detail?id=899c487a9799c74081971544afef8fce",
+        "magnet": null,
+        "screen": "screenshots/medusa/University of Mississippi Medical Center.png",
+        "group_name": "medusa",
+        "sector": "Education"
+    },
+    {
+        "post_title": "shj.ae",
+        "discovered": "2026-03-12 11:40:13.276939",
+        "description": "Sharjah Electricity, Water, and Gas Authority (sec.shj.ae) is a government-owned utility in Sharj...",
+        "link": "/page_company.php?id=137",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/shjae.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Raz Zimmt Hacked (head of the Iran Desk at Israeli security institutes)",
+        "discovered": "2026-03-12 10:39:55.600669",
+        "description": "Mr. Raz Zimmt, Do you still think you can comment on Iran? Today, you learned the hard way what happens when you play with fire, you get burned. The so-called head of the Iran Desk at Israeli security institutes has now become the hunted. We didn’t just access your inbox, we unlocked your entire world.…",
+        "link": "https://handala-hack.to/raz-zimmt-hacked-head-of-the-iran-desk-at-israeli-security-institutes/",
+        "magnet": null,
+        "screen": "screenshots/handala/Raz Zimmt Hacked (head of the Iran Desk at Israeli security institutes).png",
+        "group_name": "handala",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "gedco.ps",
+        "discovered": "2026-03-12 09:38:42.212571",
+        "description": "gedco.ps is the website of the Gaza Electricity Distribution Company (GEDCO), the electricity dis...",
+        "link": "/page_company.php?id=135",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/gedcops.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "haca.ma",
+        "discovered": "2026-03-12 09:38:41.120586",
+        "description": "haca.ma is the official website of the High Authority for Audiovisual Communication (HACA). The o...",
+        "link": "/page_company.php?id=136",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/hacama.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Government"
+    },
+    {
+        "post_title": "England Hockey",
+        "discovered": "2026-03-12 09:38:38.675728",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "AbelZeta",
         "discovered": "2026-03-12 06:39:00.081304",
         "description": "AbelZeta Pharma is a global cell therapy leader focused on discovering, developing and manufacturing therapeutics to address unmet medical needs across hematologic malignancies, inflammatory and immunological diseases and solid tumors.Partners: AstraZeneca, Janssen (J&J), NovartisInvestors: HSG, Yunfeng Capital, GIC, TF Capital, CICC Capital, Sailing Capital, Dangdai Group, AstraZeneca-CICC Fund170,000+ different files670+ separate archives with experiments on various candidates All studies: CAR032, CAR39, CAR66, CAR168, TIL, CD, Tcell, etc. There are a huge number of files and studies, all of which are confidential and valuable for competitive research.\nhttps://www.abelzeta.com/",
@@ -238,345 +368,5 @@
         "screen": "screenshots/handala/Verifone Hacked.png",
         "group_name": "handala",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Chartre Consulting",
-        "discovered": "2026-03-11 16:18:41.217091",
-        "description": "Chartre Consulting is a U.S.–based professional services and management consulting company headquartered in Oxford, Mississippi. Founded in the early 1990s, the firm operates within the business services sector and provides consultancy related to corporate management, development projects, and real-estate-related activities. The company advises organizations on operational planning, project development, and business improvement while also being connected to construction and property development work, including commercial and residential projects. Chartre Consulting serves private clients and businesses seeking guidance on management decisions, organizational strategy, and development initiatives. The company is privately owned and employs a small-to-mid-sized workforce, generating multi-million-dollar annual revenue from its consulting and development services. \nThe company headquarters is located in 2330 University Ave, Suite C, Oxford, MS 38655, United States.",
-        "link": "detail?id=fbd96bd5b55e1d12103cf522421666a2",
-        "magnet": null,
-        "screen": "screenshots/medusa/Chartre Consulting.png",
-        "group_name": "medusa",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "ToolpartsPro",
-        "discovered": "2026-03-11 16:18:40.202345",
-        "description": "ToolpartsPro specializes in providing a vast inventory of genuine OEM power tool parts, replacement parts, and accessories for various brands including DeWalt, Makita, and Milwaukee. The company caters to both DIY enthusiasts and professional tradesmen, ensuring they have access to high-quality parts at competitive prices. With a commitment to customer satisfaction, ToolpartsPro offers expert diagnosis and repair services for faulty tools. Their user-friendly online platform enhances the shopping experience, featuring a comprehensive parts finder and regular promotions. \nThe company headquarters is located in 2117 Industrial Ct, Vista, CA 92081-7957, United States.\n51-200 Employees.",
-        "link": "detail?id=6c3c023c6bfcdb9e28fa3e4f1bd142d4",
-        "magnet": null,
-        "screen": "screenshots/medusa/ToolpartsPro.png",
-        "group_name": "medusa",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "AMEVIDA",
-        "discovered": "2026-03-11 16:18:39.093893",
-        "description": "AMEVIDA is one of the largest owner-managed companies in the German call center and customer care industry, employing over 2,400 communication experts. The company specializes in sales, retention, and service, offering tailored customer solutions with industry expertise. AMEVIDA is recognized for its effective customer retention and sales communication, and has won the CCV Quality Award 2024 for its innovative AI-based coaching solutions. Their services include customer communication for sales, service, retention, as well as IT as a Service and webinar hosting. \nThe company headquarters is located in Kurt-Schumacher-Straße 100, 45881 Gelsenkirchen, North Rhine-Westphalia, Germany.\n1K - 5K Employees",
-        "link": "detail?id=442a927fff93618065a40c630ab6b44c",
-        "magnet": null,
-        "screen": "screenshots/medusa/AMEVIDA.png",
-        "group_name": "medusa",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Internation Planning Group",
-        "discovered": "2026-03-11 16:18:38.077051",
-        "description": "IPG has served clients residing in multiple Asian countries including China, Guam, Hong Kong, Indonesia, Japan, Macau, Malaysia, Singapore, Taiwan, Thailand and Vietnam, for over 10 years. International Planning Group Ltd is a registered member of the Hong Kong Confederation of Insurance Brokers. IPG Financial Services, PTE, located in Singapore (a subsidiary of International Planning Group, Ltd.) is licensed under the Financial Advisers' Act and regulated by the Monetary Authority of Singapore. IPG Asia has developed strategic partnerships with local and global private banks to assist in providing their clients with appropriate wealth structuring and transfer planning strategies and solutions. With over 40 employees operating out of the company's Singapore and Hong Kong offices, IPG has 10 local, highly trained and professional sales producers, support staff including field underwriting personnel and product specialists and local senior management to oversee the company's Asia operations. IPG has placed more than $9 billion of life insurance coverage in Asia and has more than 450 clients residing in the region. Because IPG has several years experience in the market, fully staffed regional offices and the support of the Home office in Boston Massachusetts, the company understands the tax and regulatory environment for each individual jurisdiction in which the company operates. As such, the company has developed specific strategies to meet the needs of the company's Asian clients, provide access to the world's life insurance capacity through IPG's open architecture philosophy and operate under strict protocols to provide best in class access to life insurance solutions for the high net worth market. \nThe company headquarters is located in 62 Walnut Street, First Floor, Wellesley, MA 02481, United States.\n201-500 Employees",
-        "link": "detail?id=dcdf7bd4f689e06b31a08f38b4525387",
-        "magnet": null,
-        "screen": "screenshots/medusa/Internation Planning Group.png",
-        "group_name": "medusa",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Shaft Drillers International",
-        "discovered": "2026-03-11 16:18:37.049662",
-        "description": "Shaft Drillers International is a U.S.-based construction and drilling services company headquartered in Mt. Morris, Pennsylvania. It is a leader in specialized geotechnical construction, large-diameter shaft drilling, and complex infrastructure projects, offering solutions in ground stabilization, deep foundations, dam construction and rehabilitation, and water resource development. The company operates through a network of subsidiaries that provide a broad range of services including drilling, earthwork, structural support systems, soil stabilization, and well services. Known for innovative technology and experienced teams, Shaft Drillers International serves civil, mining, energy, and industrial sectors with durable, cost-effective construction solutions. \nThe company headquarters is located in 130 Meadow Ridge Road, Mount Morris, PA 15349, United States.\n501-1,000 Employees",
-        "link": "detail?id=c5d7013af32c83df05084c870409f0d1",
-        "magnet": null,
-        "screen": "screenshots/medusa/Shaft Drillers International.png",
-        "group_name": "medusa",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Acme",
-        "discovered": "2026-03-11 16:18:35.939762",
-        "description": "Acme Truck Line, Inc. (from www.acmetruck.com) is a U.S. transportation and freight carrier specializing in hauling equipment, materials, and supplies across the country. Founded in 1960, this employee-owned trucking company serves a wide range of industries — especially the oil and gas sector — with services including expedited freight, heavy haul, drive-away, 3PL logistics, and more. Its fleet operates more than 1,500 trucks across 40 service markets in over 15 states, running 24/7 to ensure safe, on-time deliveries. Acme emphasizes safety, integrity, and personalized customer service through its full-service terminals and certified drivers. \nThe company headquarters is located in 200 Westbank Expressway, Gretna, Louisiana 70053, United States.\n1K - 5K Employees",
-        "link": "detail?id=a3968289e87d78a4e4d1fceb56ada049",
-        "magnet": null,
-        "screen": "screenshots/medusa/Acme.png",
-        "group_name": "medusa",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Frauenshuh",
-        "discovered": "2026-03-11 16:18:34.966938",
-        "description": "Frauenshuh Commercial Real Estate has been a leader in the commercial real estate sector for over forty years, offering a wide range of services including corporate real estate solutions, development, and healthcare real estate solutions. The company prides itself on building long-term relationships and utilizing innovative tools to provide comprehensive real estate services. Their expertise extends to leasing and sales brokerage, project management, and property and asset management. Frauenshuh aims to create enduring value for its clients through professionalism and financial depth. \nThe company headquarters is located in 7101 W 78th St, Suite 100, Minneapolis, MN 55439.\n51-200 Employees",
-        "link": "detail?id=88e7351c1c55309258a61e1c86ad04c2",
-        "magnet": null,
-        "screen": "screenshots/medusa/Frauenshuh.png",
-        "group_name": "medusa",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AIGHEALTHCARE.IN",
-        "discovered": "2026-03-11 16:16:06.713159",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CLOUD.CLEARWAYGROUP.COM",
-        "discovered": "2026-03-11 16:16:05.005239",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "T****O",
-        "discovered": "2026-03-11 16:15:37.063174",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Priderock Capital Partners",
-        "discovered": "2026-03-11 16:15:27.922119",
-        "description": "Priderock Capital Partners is a private multi-family asset management and development firm. Priderock's principals have over 100 years of experience in acquiring, developing, financing, managing and renovating apartment communities across the continental U.S.We will upload 110gb of corporate data soon. Employee files (passport numbers, DL number, scanned w9 and i9 forms and other personal information), financials, clients and partners files, lots of contracts and agreements, reports and violation docs so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "ubm.hu",
-        "discovered": "2026-03-11 16:15:24.358301",
-        "description": "The UBM Group is a leading Hungarian agricultural company, founded in 1996, specializing in the production of compound feed, the trading of feed ingredients (gr...",
-        "link": "/#/post/1e33d318-6503-45b2-987e-074c30c25e89",
-        "magnet": null,
-        "screen": "screenshots/embargo/ubmhu.png",
-        "group_name": "embargo",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Big Brothers Big Sisters",
-        "discovered": "2026-03-11 15:38:44.972419",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tecnoedil S.A. Constructora",
-        "discovered": "2026-03-11 15:38:44.030311",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CFTC Métallurgie",
-        "discovered": "2026-03-11 15:38:42.998633",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Special Shapes Refractory",
-        "discovered": "2026-03-11 15:38:22.892453",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=9af00188-22f0-3faf-bf61-86b472ec8da6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Special Shapes Refractory.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Powers HVAC",
-        "discovered": "2026-03-11 15:38:21.885247",
-        "description": "Construction",
-        "link": "/site/view?uuid=efe20076-d5f4-3d32-8f7f-645bed887987",
-        "magnet": null,
-        "screen": "screenshots/qilin/Powers HVAC.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Jadtec Security Services",
-        "discovered": "2026-03-11 15:38:20.874840",
-        "description": "Business Services",
-        "link": "/site/view?uuid=23995ab9-f813-3dc2-acd6-49341d9d8cb4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jadtec Security Services.png",
-        "group_name": "qilin",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Omega Optical",
-        "discovered": "2026-03-11 15:38:19.669017",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=15f32a70-47cb-3e62-8cf8-4db6579a9be0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Omega Optical.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stryker Corporation Hacked",
-        "discovered": "2026-03-11 15:38:16.314045",
-        "description": "We announce to the world that, in retaliation for the brutal attack on the Minab school and in response to ongoing cyber assaults against the infrastructure of the Axis of Resistance, our major cyber operation has been executed with complete success. The Zionist-rooted corporation, Stryker, one of the key arms of the global Zionist lobby…",
-        "link": "https://handala-hack.to/stryker-corporation-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Stryker Corporation Hacked.png",
-        "group_name": "handala",
-        "sector": "Education"
-    },
-    {
-        "post_title": "HB Brantner: When Your Trailers Are Stronger Than Your Security",
-        "discovered": "2026-03-11 14:38:50.002450",
-        "description": "#Leaknet #HackedData #CyberIncident #DataRisk #SensitiveData #PrivacyRisk #SecurityMatters #ProtectYourData #InfoLeak #DataSpill #BreachAlert #BreachWatch #CyberFail #Hbbrantner",
-        "link": "view_article.php?article=QZjdSV4DYe8UEAUi4LXjEq7mx6tQv0M05SJtPkU7l4lkPaVvEjVpbURzgV4R1WP7",
-        "magnet": null,
-        "screen": "screenshots/leaknet/HB Brantner: When Your Trailers Are Stronger Than Your Security.png",
-        "group_name": "leaknet",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Peak Toolworks",
-        "discovered": "2026-03-11 14:38:48.382884",
-        "description": "",
-        "link": "/companies/4402916269",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Peak Toolworks.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Curtiembre Austral S.R.L.",
-        "discovered": "2026-03-11 14:38:46.730945",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=692dfb9e-194c-3d54-b4f8-e709b189751d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Curtiembre Austral SRL.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Yuma Sun",
-        "discovered": "2026-03-11 14:38:43.993372",
-        "description": "Advertising & Marketing",
-        "link": "/site/view?uuid=2282dcf9-043f-3583-aadc-722db21e1cc1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Yuma Sun.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Composition Systems",
-        "discovered": "2026-03-11 14:38:42.974069",
-        "description": "Business Services",
-        "link": "/site/view?uuid=e5a11423-fc09-333d-972e-7cdbdd79d461",
-        "magnet": null,
-        "screen": "screenshots/qilin/Composition Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Retamar",
-        "discovered": "2026-03-11 14:38:40.284535",
-        "description": "Education",
-        "link": "/site/view?uuid=de187625-6c88-3d1f-b97c-02e42f9a2351",
-        "magnet": null,
-        "screen": "screenshots/qilin/Retamar.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "UMBERG TREUHAND AG 🇨🇭",
-        "discovered": "2026-03-11 14:38:38.988379",
-        "description": "The company provides tax optimization consulting for individuals, businesses, and public organizations.",
-        "link": "/blog/a25f4a62-4dc0-4ebe-aef8-d10d2e1fd5e4",
-        "magnet": null,
-        "screen": "screenshots/bravox/UMBERG TREUHAND AG 🇨🇭.png",
-        "group_name": "bravox",
-        "sector": "Government"
-    },
-    {
-        "post_title": "seit.cl",
-        "discovered": "2026-03-11 13:38:16.186590",
-        "description": "seit.cl is the website of SEiT S.p.A., a company providing IT services to businesses in Chile. In...",
-        "link": "/page_company.php?id=134",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/seitcl.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hazeldenes.com.au",
-        "discovered": "2026-03-11 13:38:14.251635",
-        "description": "Hazeldenes is a family-owned chicken farm that has been supplying high-quality Australian chicken since 1938.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "B****.",
-        "discovered": "2026-03-11 12:40:01.222330",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JBS Brazil - We have 3TB of your data - Pics added",
-        "discovered": "2026-03-11 11:42:00.877914",
-        "description": "",
-        "link": "/companies/jbs",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/JBS Brazil - We have 3TB of your data - Pics added.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "bg.ac.rs",
-        "discovered": "2026-03-11 11:41:59.652637",
-        "description": "University of Belgrade. Internal documents, letters, attachments, financial reports. Total size: ...",
-        "link": "/page_company.php?id=132",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/bgacrs.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "novoair-bd.com",
-        "discovered": "2026-03-11 11:41:58.655666",
-        "description": "novoair-bd.com is the website of Novoair, a private airline based in Bangladesh. Internal documen...",
-        "link": "/page_company.php?id=133",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/novoair-bdcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Elliott-Lewis",
-        "discovered": "2026-03-11 09:40:45.658467",
-        "description": "https://elliottlewis.com\n\t\t\t\t\t\t\t\t\tSince 1905, Elliott-Lewis Corporate has provided comprehensive solutions for maintenance, repair and operations, engineering, design, installation, and energy consumption. In addition, Elliott-Lewis' Facilities Management team provides individual on-site operations management but does not provide security to its customers, resulting in a large database of confidential contracts and projects, as well as personal customer and employee data.",
-        "link": "http://x2ol75zago3z2nrp7lnmbcwoq3okiexuwi456oe6jqurbprg6lljz3yd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Elliott-Lewis.png",
-        "group_name": "interlock",
-        "sector": "Services"
     }
 ]
