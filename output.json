@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Syed Professional Services",
+        "discovered": "2026-03-12 19:42:14.860753",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=b2ee3f6f-a899-33d3-96c4-6baa623321cc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Syed Professional Services.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TDS Construction",
+        "discovered": "2026-03-12 18:41:52.233494",
+        "description": "Construction",
+        "link": "/site/view?uuid=0f0c766b-df6a-3ed3-9625-37491ef4fbb1",
+        "magnet": null,
+        "screen": "screenshots/qilin/TDS Construction.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Silvon Software",
+        "discovered": "2026-03-12 18:41:46.550845",
+        "description": "Software",
+        "link": "/site/view?uuid=fdf4dfe9-838d-31ff-86ad-f251e462789e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Silvon Software.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Circle Floors",
+        "discovered": "2026-03-12 17:43:48.766980",
+        "description": "",
+        "link": "topic.php?id=Sg23aBosY1RHmn",
+        "magnet": null,
+        "screen": "screenshots/play/Circle Floors.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eagle Industrial Equipment",
+        "discovered": "2026-03-12 17:43:47.685983",
+        "description": "",
+        "link": "topic.php?id=SzO86TqtNcQJi2",
+        "magnet": null,
+        "screen": "screenshots/play/Eagle Industrial Equipment.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Bioptik Technology",
+        "discovered": "2026-03-12 17:43:25.535829",
+        "description": "",
+        "link": "/r/41f81426ac831a7ed08665bae31c73caeeeceee5",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Bioptik Technology.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Financial Brokerage",
+        "discovered": "2026-03-12 17:43:18.165239",
+        "description": "Financial Brokerage Inc. collaborates with top insurance carriersto provide a variety of financial products including Life Insurance, Fixed Annuities, Long Term Care, Disability Insurance, and Medicare Supplement plans. The company targets insurance agents and brokers looking to enhance their product offerings and client services.We will upload corporate data soon. Employee personal documents, detailed personal information of hundreds clients and companies, confidential financial and other docs of their clients, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "flad.com",
+        "discovered": "2026-03-12 17:43:08.348281",
+        "description": "We are announcing a major security breach and data exfiltration from Flad Architects, a leading national firm specializing in high-stakes science and technology infrastructure.\n\nTotal volume of exfiltrated data: Over 2.2 TB\n\nThe leaked archive includes critical and sensitive information across the f…",
+        "link": "/RHU4A6M5GpZOAczfdRrAPgKVZ6GVSaHk/flad-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/fladcom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Extreme Trailers",
+        "discovered": "2026-03-12 16:42:17.948892",
+        "description": "Extreme Trailers, LLC is located in Dover, Ohio and is a leader in innovative design and high-quality manufacturing of equipment for the flatbed trailer market. Established in 2016 in Dover, Ohio, the company manufactures a diverse range of products, including: an innovative, patent-pending design trademarked as the X-Lite flatbed trailer, aluminum drop deck trailers, aluminum and customdesigns.We will upload 15gb of corporate data soon. Lots of employee scanned docs (passports, DLs, SSNs, w9, i9 forms, medical informationfor a few dozens of people), project docs contracts and agreements, a bit of client information and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Porsche Zentrum Fulda",
+        "discovered": "2026-03-12 16:42:15.178995",
+        "description": "Porsche Zentrum Fulda is a dealership offering both new and used Porsche vehicles, including popular models like the Taycan, 911, and Macan. The company provides a range of services including vehicle maintenance, financing options, and lifestyle accessories.We will upload 10gb of corporate data soon. Employee passports and other documents, projects, contracts and agreements, internal confidential files, client files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Giaroli S.A.S",
         "discovered": "2026-03-12 15:40:30.879716",
         "description": "",
@@ -248,125 +348,5 @@
         "screen": "screenshots/coinbase cartel/Staples.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Taylor County Property Appraiser Office",
-        "discovered": "2026-03-11 19:42:47.158050",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Government"
-    },
-    {
-        "post_title": "E-Fci",
-        "discovered": "2026-03-11 19:42:46.201118",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JJR Engineering & Fabrication",
-        "discovered": "2026-03-11 19:42:45.230599",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Telcom Live Content Inc",
-        "discovered": "2026-03-11 19:42:19.074075",
-        "description": "",
-        "link": "/victims/d5901a60-8184-4b67-a651-65accd4df00e",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/Telcom Live Content Inc.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "seclore.com",
-        "discovered": "2026-03-11 19:42:13.437296",
-        "description": "At Seclore, we believe that cybersecurity should revolve around what matters most—your data. Traditional security perimeters are no longer enough in today’s hyp...",
-        "link": "/#/post/3de1159c-7576-404f-8ad6-36c9f98cb860",
-        "magnet": null,
-        "screen": "screenshots/embargo/seclorecom.png",
-        "group_name": "embargo",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Alef Realty, LLC",
-        "discovered": "2026-03-11 18:39:02.164401",
-        "description": "Real Estate",
-        "link": "/site/view?uuid=b65794c2-07ca-34c3-acc7-a8f27d7ad3e8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alef Realty, LLC.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "thethibeauxfirm.com",
-        "discovered": "2026-03-11 17:41:36.155575",
-        "description": "",
-        "link": "/blog/disclosures/69b171288f1d14b743fa547b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/thethibeauxfirmcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kentucky Injury",
-        "discovered": "2026-03-11 17:41:35.202032",
-        "description": "",
-        "link": "/blog/disclosures/69b1755f8f1d14b743fab8f6",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kentucky Injury.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Robinson Nursery",
-        "discovered": "2026-03-11 17:41:33.694484",
-        "description": "Robinson Nursery sells wholesale bare root trees & shrubs as wellas container trees. The company offers over 300 different varieties of shade trees, ornamental trees and shrubs. The company growplants that are hardy for zones 3 through 9. As a licensed grower of many named cultivars the company is able to offer a great selection of some of the most asked for varieties of trees and shrubs.We will upload corporate data soon. Employee files (scanned passports, DLs, SSNs and so on), financials, clients and partners files, contracts and agreements, projects, recipes and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Murray's Cheese",
-        "discovered": "2026-03-11 17:41:31.367876",
-        "description": "Murray's Cheese, founded in 1940 in Greenwich Village, is the oldest cheese shop in New York City. The company specializes in retail grocery with a focus on premium cheese products. Murray's has earned recognition for its quality offerings and has expanded to multiple locations. The business operates both B2B and B2C models, providing specialty cheese and related products to consumers and businesses alike.We will upload corporate data soon. Very detailed employee (more than 300 employees) information (passports, DOB, DLs, and so on),financials, clients files, contracts and agreements, projects, internal confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
-    },
-    {
-        "post_title": "D3 Embedded",
-        "discovered": "2026-03-11 17:41:28.866148",
-        "description": "D3 Embedded is a U.S.-based company specializing in the development of end-to-end solutions for performance-critical embedded systems, integrating sensors, connectivity, embedded processing, and AI. Their product offerings include camera modules, radar sensors, and various boards and cards designed for applications in robotics and autonomous machines.We will upload 415gb of corporate data soon. Lots of projects andrelated documents, agreements, licenses and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Verifone Hacked",
-        "discovered": "2026-03-11 17:41:26.374019",
-        "description": "Today, Handala Hack has successfully breached the Israeli company Verifone, a leading provider of payment solutions and point-of-sale terminals to countries across the globe. This sophisticated operation has caused widespread disruption in payment systems and terminals, and all related transaction and financial data have been extracted. This attack is a decisive and direct response to…",
-        "link": "https://handala-hack.to/verifone-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Verifone Hacked.png",
-        "group_name": "handala",
-        "sector": "Technology"
     }
 ]
