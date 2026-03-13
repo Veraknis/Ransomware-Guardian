@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "www.integer.net",
+        "discovered": "2026-03-13 19:40:59.973554",
+        "description": "",
+        "link": "/blog/disclosures/69b4473c8f1d14b743373908",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwintegernet.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KLA Laboratories",
+        "discovered": "2026-03-13 18:42:50.846924",
+        "description": "How a single data breach exposed contracts, credentials, and critical infrastructure details.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/iHo8aqQo3qJEwm+Xyc5sWCEH6yqbS31b9EgHtqwgNwxHDqxSqXjN3sNNh5Ynib4ag6uTxZzfVmmO6BliL7buzRMVU1xd3JK",
+        "magnet": null,
+        "screen": "screenshots/anubis/KLA Laboratories.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tamir Hayman Hacked",
+        "discovered": "2026-03-13 18:42:34.058216",
+        "description": "Hey Tamir, Still feeling safe behind those fancy titles? Former chief of Aman, and now the proud executive director of Israel’s national security institutes, yet you couldn’t even secure your own mailbox! What a joke. Tonight, reality hit you harder than any intelligence briefing ever could. Consider all your “top secret” correspondence exposed: 50,000 emails,…",
+        "link": "https://handala-hack.to/tamir-hayman-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Tamir Hayman Hacked.png",
+        "group_name": "handala",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "**n*a**t** **o*p",
+        "discovered": "2026-03-13 17:41:31.704833",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wills Point Chevrolet",
+        "discovered": "2026-03-13 17:41:11.423172",
+        "description": "Wills Point Chevrolet is a dealership located in Wills Point, Texas, serving clients from Forney, Mineola, and Terrell. They offera wide selection of new and pre-owned Chevrolet vehicles, including electric models, along with financing options and certified service.We will upload corporate data soon. Lots of scanned personal employee docs (passports, Dls, w9 forms, bank statements and other docs), financials, various agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tyler Media",
+        "discovered": "2026-03-13 16:41:47.866525",
+        "description": "Tyler Media is a comprehensive media company in Oklahoma, offering a variety of services that include radio, television, and outdoor advertising. With several radio stations and partnerships with prominent television networks, they cater to a diverse audience, showcasing both English and Spanish content. Their key clients range from local businesses to larger organizations seeking effective marketing solutions and brand awareness.",
+        "link": "/posts/c504943e-62aa-4e13-86a3-f66b4a9d205a",
+        "magnet": null,
+        "screen": "screenshots/payload/Tyler Media.png",
+        "group_name": "payload",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Río Grande (Puerto Rico)",
+        "discovered": "2026-03-13 16:41:46.874920",
+        "description": "Río Grande is a municipality located in Puerto Rico, a U.S. territory in the Caribbean. It has its own local government that manages public services, administration, and community programs for residents.",
+        "link": "/posts/bd5cbdf2-bbdd-49ba-a6d3-f5307d591741",
+        "magnet": null,
+        "screen": "screenshots/payload/Río Grande (Puerto Rico).png",
+        "group_name": "payload",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Alarmco",
+        "discovered": "2026-03-13 16:41:26.519337",
+        "description": "Business Services",
+        "link": "/site/view?uuid=13772aa6-e17d-3ee8-b66f-841127db4a6d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Alarmco.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stokes",
+        "discovered": "2026-03-13 16:41:14.415568",
+        "description": "Stokes Inc. is Canadas leading tableware, kitchenware and home décor store. Based in Montreal, we are a privately owned and operated company with two brands at the heart of our success: Stokes and thinkkitchen. Now operating more than 100 stores in Canada, as well as running an ever-growing online presence, we employ more than 1,000 associates and are constantly expanding our horizons.We will upload corporate data soon. Employee personal information(phones, addresses, personal bank statements and other information), confidential files, financials, clients information, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "FMRS Health Systems",
         "discovered": "2026-03-13 15:43:00.071611",
         "description": "0",
@@ -458,105 +548,5 @@
         "screen": "screenshots/lynx/Africa Insurance.png",
         "group_name": "lynx",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Syed Professional Services",
-        "discovered": "2026-03-12 19:42:14.860753",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=b2ee3f6f-a899-33d3-96c4-6baa623321cc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Syed Professional Services.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TDS Construction",
-        "discovered": "2026-03-12 18:41:52.233494",
-        "description": "Construction",
-        "link": "/site/view?uuid=0f0c766b-df6a-3ed3-9625-37491ef4fbb1",
-        "magnet": null,
-        "screen": "screenshots/qilin/TDS Construction.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Silvon Software",
-        "discovered": "2026-03-12 18:41:46.550845",
-        "description": "Software",
-        "link": "/site/view?uuid=fdf4dfe9-838d-31ff-86ad-f251e462789e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Silvon Software.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Circle Floors",
-        "discovered": "2026-03-12 17:43:48.766980",
-        "description": "",
-        "link": "topic.php?id=Sg23aBosY1RHmn",
-        "magnet": null,
-        "screen": "screenshots/play/Circle Floors.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eagle Industrial Equipment",
-        "discovered": "2026-03-12 17:43:47.685983",
-        "description": "",
-        "link": "topic.php?id=SzO86TqtNcQJi2",
-        "magnet": null,
-        "screen": "screenshots/play/Eagle Industrial Equipment.png",
-        "group_name": "play",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Bioptik Technology",
-        "discovered": "2026-03-12 17:43:25.535829",
-        "description": "",
-        "link": "/r/41f81426ac831a7ed08665bae31c73caeeeceee5",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Bioptik Technology.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Financial Brokerage",
-        "discovered": "2026-03-12 17:43:18.165239",
-        "description": "Financial Brokerage Inc. collaborates with top insurance carriersto provide a variety of financial products including Life Insurance, Fixed Annuities, Long Term Care, Disability Insurance, and Medicare Supplement plans. The company targets insurance agents and brokers looking to enhance their product offerings and client services.We will upload corporate data soon. Employee personal documents, detailed personal information of hundreds clients and companies, confidential financial and other docs of their clients, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "flad.com",
-        "discovered": "2026-03-12 17:43:08.348281",
-        "description": "We are announcing a major security breach and data exfiltration from Flad Architects, a leading national firm specializing in high-stakes science and technology infrastructure.\n\nTotal volume of exfiltrated data: Over 2.2 TB\n\nThe leaked archive includes critical and sensitive information across the f…",
-        "link": "/RHU4A6M5GpZOAczfdRrAPgKVZ6GVSaHk/flad-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/fladcom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Extreme Trailers",
-        "discovered": "2026-03-12 16:42:17.948892",
-        "description": "Extreme Trailers, LLC is located in Dover, Ohio and is a leader in innovative design and high-quality manufacturing of equipment for the flatbed trailer market. Established in 2016 in Dover, Ohio, the company manufactures a diverse range of products, including: an innovative, patent-pending design trademarked as the X-Lite flatbed trailer, aluminum drop deck trailers, aluminum and customdesigns.We will upload 15gb of corporate data soon. Lots of employee scanned docs (passports, DLs, SSNs, w9, i9 forms, medical informationfor a few dozens of people), project docs contracts and agreements, a bit of client information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Porsche Zentrum Fulda",
-        "discovered": "2026-03-12 16:42:15.178995",
-        "description": "Porsche Zentrum Fulda is a dealership offering both new and used Porsche vehicles, including popular models like the Taycan, 911, and Macan. The company provides a range of services including vehicle maintenance, financing options, and lifestyle accessories.We will upload 10gb of corporate data soon. Employee passports and other documents, projects, contracts and agreements, internal confidential files, client files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
