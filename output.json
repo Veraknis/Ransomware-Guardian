@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "RMZ Oilfield Engineering",
+        "discovered": "2026-03-13 08:41:56.547190",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=83e8a523-a23c-3e9f-af2a-527ecb2d762d",
+        "magnet": null,
+        "screen": "screenshots/qilin/RMZ Oilfield Engineering.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Keller Polska",
+        "discovered": "2026-03-13 07:42:24.313964",
+        "description": "Keller Polska, operating for over 20 years, is a leader in the geotechnical mark...",
+        "link": "/leaks/69ab22c69c439c5f45a86b32",
+        "magnet": null,
+        "screen": "screenshots/lynx/Keller Polska.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Africa Insurance",
+        "discovered": "2026-03-13 07:42:19.273669",
+        "description": "Lion of Africa Insurance Company Ltd is a company that operates in the Insurance...",
+        "link": "/leaks/69ab23879c439c5f45a87b2a",
+        "magnet": null,
+        "screen": "screenshots/lynx/Africa Insurance.png",
+        "group_name": "lynx",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Syed Professional Services",
         "discovered": "2026-03-12 19:42:14.860753",
         "description": "Accounting Services",
@@ -227,126 +257,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AbelZeta",
-        "discovered": "2026-03-12 06:39:00.081304",
-        "description": "AbelZeta Pharma is a global cell therapy leader focused on discovering, developing and manufacturing therapeutics to address unmet medical needs across hematologic malignancies, inflammatory and immunological diseases and solid tumors.Partners: AstraZeneca, Janssen (J&J), NovartisInvestors: HSG, Yunfeng Capital, GIC, TF Capital, CICC Capital, Sailing Capital, Dangdai Group, AstraZeneca-CICC Fund170,000+ different files670+ separate archives with experiments on various candidates All studies: CAR032, CAR39, CAR66, CAR168, TIL, CD, Tcell, etc. There are a huge number of files and studies, all of which are confidential and valuable for competitive research.\nhttps://www.abelzeta.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/121/abelzeta",
-        "magnet": null,
-        "screen": "screenshots/space bears/AbelZeta.png",
-        "group_name": "space bears",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Central National Gottesman",
-        "discovered": "2026-03-12 02:39:32.500430",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NIXVAL IT Infrastructure",
-        "discovered": "2026-03-12 01:39:13.347522",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aura Group, Inc",
-        "discovered": "2026-03-11 22:42:06.572440",
-        "description": "Over 2M records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 14 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "TCT Broadband Solutions",
-        "discovered": "2026-03-11 22:41:47.585973",
-        "description": "",
-        "link": "/victims/7b772f70-b0a0-4a48-803c-bd7a4bae5842",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/TCT Broadband Solutions.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mission Announcement",
-        "discovered": "2026-03-11 22:41:45.273832",
-        "description": "",
-        "link": "pages/announce.html",
-        "magnet": null,
-        "screen": "screenshots/nasir security/Mission Announcement.png",
-        "group_name": "nasir security",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Advanced Rehabilitation Technology",
-        "discovered": "2026-03-11 22:41:41.583986",
-        "description": "Advanced Rehabilitation Technology (ART) specializes in state-of-the-art no-dig technology solutions aimed at protecting and extending the life of critical infr...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Arimex Importadora",
-        "discovered": "2026-03-11 21:40:52.048768",
-        "description": "Electronics",
-        "link": "/site/view?uuid=3ba7bb81-7cbc-39cb-8da8-ac92ce06c7fd",
-        "magnet": null,
-        "screen": "screenshots/qilin/Arimex Importadora.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fortress Systems",
-        "discovered": "2026-03-11 21:40:48.331918",
-        "description": "Electronics",
-        "link": "/site/view?uuid=172a0c0b-0e11-3dca-9679-be3c35f7b51d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fortress Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Canada Goose",
-        "discovered": "2026-03-11 20:41:37.163713",
-        "description": "",
-        "link": "/companies/goose",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Canada Goose.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lacoste",
-        "discovered": "2026-03-11 20:41:36.143009",
-        "description": "",
-        "link": "/companies/lacoste",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Lacoste.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Staples",
-        "discovered": "2026-03-11 20:41:35.036881",
-        "description": "",
-        "link": "/companies/staples",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Staples.png",
-        "group_name": "coinbase cartel",
         "sector": "Unknown"
     }
 ]
