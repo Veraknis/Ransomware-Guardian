@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Mid-America Export Experts",
+        "discovered": "2026-03-14 06:41:39.465591",
+        "description": "Mid-America experts is an organizations that provide support to organizations exporting goods in the MidWest USA. They work with many transportation and logistics providers with strong presence in the Midwest.",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nova/Mid-America Export Experts.png",
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Duffy's Sports Grill",
+        "discovered": "2026-03-14 06:41:37.202198",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=78ed959a-66b1-3328-9d16-53e58f3b84f6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Duffy's Sports Grill.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "S** *A* ***E* **T*L",
+        "discovered": "2026-03-13 22:42:29.927125",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dubai Petroleum Breached",
+        "discovered": "2026-03-13 21:43:07.231759",
+        "description": "By the grace of God, we successfully breached .... Victory comes from none but God, the Almighty, the All‑Wise.",
+        "link": "pages/dubai-petrol.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/Dubai Petroleum Breached.png",
+        "group_name": "nasir security",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "www.integer.net",
         "discovered": "2026-03-13 19:40:59.973554",
         "description": "",
@@ -518,35 +558,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Government"
-    },
-    {
-        "post_title": "RMZ Oilfield Engineering",
-        "discovered": "2026-03-13 08:41:56.547190",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=83e8a523-a23c-3e9f-af2a-527ecb2d762d",
-        "magnet": null,
-        "screen": "screenshots/qilin/RMZ Oilfield Engineering.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Keller Polska",
-        "discovered": "2026-03-13 07:42:24.313964",
-        "description": "Keller Polska, operating for over 20 years, is a leader in the geotechnical mark...",
-        "link": "/leaks/69ab22c69c439c5f45a86b32",
-        "magnet": null,
-        "screen": "screenshots/lynx/Keller Polska.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Africa Insurance",
-        "discovered": "2026-03-13 07:42:19.273669",
-        "description": "Lion of Africa Insurance Company Ltd is a company that operates in the Insurance...",
-        "link": "/leaks/69ab23879c439c5f45a87b2a",
-        "magnet": null,
-        "screen": "screenshots/lynx/Africa Insurance.png",
-        "group_name": "lynx",
-        "sector": "Finance"
     }
 ]
