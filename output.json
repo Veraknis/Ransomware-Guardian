@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "indrub.com",
+        "discovered": "2026-03-14 17:42:10.915057",
+        "description": "Industrial Rubber Supply is a leading manufacturer and supplier of custom-molded...",
+        "link": "/leaks/69b274ef9c439c5f452fe26a",
+        "magnet": null,
+        "screen": "screenshots/lynx/indrubcom.png",
+        "group_name": "lynx",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Liberty Tax",
         "discovered": "2026-03-14 13:41:19.698882",
         "description": "",
@@ -88,95 +98,5 @@
         "screen": "screenshots/nasir security/Dubai Petroleum Breached.png",
         "group_name": "nasir security",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "www.integer.net",
-        "discovered": "2026-03-13 19:40:59.973554",
-        "description": "",
-        "link": "/blog/disclosures/69b4473c8f1d14b743373908",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwintegernet.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KLA Laboratories",
-        "discovered": "2026-03-13 18:42:50.846924",
-        "description": "How a single data breach exposed contracts, credentials, and critical infrastructure details.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/iHo8aqQo3qJEwm+Xyc5sWCEH6yqbS31b9EgHtqwgNwxHDqxSqXjN3sNNh5Ynib4ag6uTxZzfVmmO6BliL7buzRMVU1xd3JK",
-        "magnet": null,
-        "screen": "screenshots/anubis/KLA Laboratories.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tamir Hayman Hacked",
-        "discovered": "2026-03-13 18:42:34.058216",
-        "description": "Hey Tamir, Still feeling safe behind those fancy titles? Former chief of Aman, and now the proud executive director of Israel’s national security institutes, yet you couldn’t even secure your own mailbox! What a joke. Tonight, reality hit you harder than any intelligence briefing ever could. Consider all your “top secret” correspondence exposed: 50,000 emails,…",
-        "link": "https://handala-hack.to/tamir-hayman-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Tamir Hayman Hacked.png",
-        "group_name": "handala",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "**n*a**t** **o*p",
-        "discovered": "2026-03-13 17:41:31.704833",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wills Point Chevrolet",
-        "discovered": "2026-03-13 17:41:11.423172",
-        "description": "Wills Point Chevrolet is a dealership located in Wills Point, Texas, serving clients from Forney, Mineola, and Terrell. They offera wide selection of new and pre-owned Chevrolet vehicles, including electric models, along with financing options and certified service.We will upload corporate data soon. Lots of scanned personal employee docs (passports, Dls, w9 forms, bank statements and other docs), financials, various agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Tyler Media",
-        "discovered": "2026-03-13 16:41:47.866525",
-        "description": "Tyler Media is a comprehensive media company in Oklahoma, offering a variety of services that include radio, television, and outdoor advertising. With several radio stations and partnerships with prominent television networks, they cater to a diverse audience, showcasing both English and Spanish content. Their key clients range from local businesses to larger organizations seeking effective marketing solutions and brand awareness.",
-        "link": "/posts/c504943e-62aa-4e13-86a3-f66b4a9d205a",
-        "magnet": null,
-        "screen": "screenshots/payload/Tyler Media.png",
-        "group_name": "payload",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Río Grande (Puerto Rico)",
-        "discovered": "2026-03-13 16:41:46.874920",
-        "description": "Río Grande is a municipality located in Puerto Rico, a U.S. territory in the Caribbean. It has its own local government that manages public services, administration, and community programs for residents.",
-        "link": "/posts/bd5cbdf2-bbdd-49ba-a6d3-f5307d591741",
-        "magnet": null,
-        "screen": "screenshots/payload/Río Grande (Puerto Rico).png",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Alarmco",
-        "discovered": "2026-03-13 16:41:26.519337",
-        "description": "Business Services",
-        "link": "/site/view?uuid=13772aa6-e17d-3ee8-b66f-841127db4a6d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alarmco.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stokes",
-        "discovered": "2026-03-13 16:41:14.415568",
-        "description": "Stokes Inc. is Canadas leading tableware, kitchenware and home décor store. Based in Montreal, we are a privately owned and operated company with two brands at the heart of our success: Stokes and thinkkitchen. Now operating more than 100 stores in Canada, as well as running an ever-growing online presence, we employ more than 1,000 associates and are constantly expanding our horizons.We will upload corporate data soon. Employee personal information(phones, addresses, personal bank statements and other information), confidential files, financials, clients information, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
