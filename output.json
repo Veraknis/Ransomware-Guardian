@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Oman CC Energy Development Hacked",
+        "discovered": "2026-03-15 19:42:36.382984",
+        "description": "The Call to the Enemy .... Strong against disbelievers, merciful among themselves.",
+        "link": "pages/oman-cced.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/Oman CC Energy Development Hacked.png",
+        "group_name": "nasir security",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Evaluate a Norstella company",
+        "discovered": "2026-03-15 18:43:21.802927",
+        "description": "",
+        "link": "/news/Evaluate_a_Norstella_company/",
+        "magnet": null,
+        "screen": "screenshots/everest/Evaluate a Norstella company.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Salag",
+        "discovered": "2026-03-15 18:43:06.047709",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=c5441ba3-cc79-3152-9747-07c872a96faa",
+        "magnet": null,
+        "screen": "screenshots/qilin/Salag.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Royal Bahrain Hospital",
         "discovered": "2026-03-15 13:44:53.446487",
         "description": "Established in 2011, Royal Bahrain Hospital (RBH) is a leading healthcare facility in Bahrain, offering a wide range of medical specialties and services. The hospital is equipped with 70 beds and provides both inpatient and outpatient care, including operating rooms, maternity services, and various diagnostic facilities. RBH is committed to delivering quality and affordable healthcare to its patients, with a focus on clinical excellence and patient satisfaction. The hospital serves a diverse clientele, including residents of Bahrain and neighboring countries such as Oman, Qatar, Saudi Arabia, and the UAE.",
@@ -118,15 +148,5 @@
         "screen": "screenshots/embargo/westportcom.png",
         "group_name": "embargo",
         "sector": "Energy"
-    },
-    {
-        "post_title": "indrub.com",
-        "discovered": "2026-03-14 17:42:10.915057",
-        "description": "Industrial Rubber Supply is a leading manufacturer and supplier of custom-molded...",
-        "link": "/leaks/69b274ef9c439c5f452fe26a",
-        "magnet": null,
-        "screen": "screenshots/lynx/indrubcom.png",
-        "group_name": "lynx",
-        "sector": "Manufacturing"
     }
 ]
