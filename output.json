@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Royal Bahrain Hospital",
+        "discovered": "2026-03-15 13:44:53.446487",
+        "description": "Established in 2011, Royal Bahrain Hospital (RBH) is a leading healthcare facility in Bahrain, offering a wide range of medical specialties and services. The hospital is equipped with 70 beds and provides both inpatient and outpatient care, including operating rooms, maternity services, and various diagnostic facilities. RBH is committed to delivering quality and affordable healthcare to its patients, with a focus on clinical excellence and patient satisfaction. The hospital serves a diverse clientele, including residents of Bahrain and neighboring countries such as Oman, Qatar, Saudi Arabia, and the UAE.",
+        "link": "/posts/c08cd55e-7711-400a-8d91-c546b5a3371e",
+        "magnet": null,
+        "screen": "screenshots/payload/Royal Bahrain Hospital.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Laura Gilinski Hacked",
+        "discovered": "2026-03-15 11:43:24.716400",
+        "description": "Today, the iron walls of secrecy and the illusion of security within the Zionist regime have been shattered forever. One of Mossad’s most critical intelligence figures, Laura Gilinski, former Deputy Head of Planning & Strategy at Mossad and current Deputy Director of the Institute for National Security Studies (INSS), has been taken down by our…",
+        "link": "https://handala-hack.to/laura-gilinski-hacked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Laura Gilinski Hacked.png",
+        "group_name": "handala",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Aura Group, Inc. (aura.com)",
+        "discovered": "2026-03-15 10:43:29.745915",
+        "description": "Over 900k records containing PII and other internal corporate data have been compromised.   The company failed to reach an agreement with us despite all the chances and offers we made. They don't care.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Augenomics",
         "discovered": "2026-03-15 02:43:22.595351",
         "description": "",
@@ -98,55 +128,5 @@
         "screen": "screenshots/lynx/indrubcom.png",
         "group_name": "lynx",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Liberty Tax",
-        "discovered": "2026-03-14 13:41:19.698882",
-        "description": "",
-        "link": "/victims/6c8e1ad8-08f5-448c-886a-403069425ceb",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/Liberty Tax.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CFTC Metallurgie",
-        "discovered": "2026-03-14 12:41:29.942603",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Trinity Catholic High School",
-        "discovered": "2026-03-14 12:41:28.714004",
-        "description": "Trinity Catholic High School offers a full array of co-curricular activities and sports programs. Our athletic programs include football, cheerleading, cross country, golf, swimming, tennis, weight lifting, basketball, volleyball, baseball, bowling, girls flag football, softball, lacrosse and track and field. Our State Championships include: football, women's soccer, baseball, wrestling and track.",
-        "link": "/card/trinity_catholic_high_school",
-        "magnet": null,
-        "screen": "screenshots/beast/Trinity Catholic High School.png",
-        "group_name": "beast",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Communicate UK",
-        "discovered": "2026-03-14 12:41:27.754870",
-        "description": "Communicate UK is a customer-focused security company based in the southeast of England, specializing in the installation, maintenance, and support of security systems including burglar alarms, CCTV, fire alarms, access control, and gate automation. Their products cater to a wide range of clients, including domestic households, retail establishments, licensed venues, and various commercial and industrial sectors. With over 25 years of experience, they provide tailored security solutions designed to protect premises, valuables, and employees, ensuring 24/7 monitoring and peace of mind. The company also emphasizes customer service, offering dedicated account management and 24-hour support",
-        "link": "/card/communicate_uk",
-        "magnet": null,
-        "screen": "screenshots/beast/Communicate UK.png",
-        "group_name": "beast",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "No Place to Hide: Senior Navy Officers’ Identities Now Public",
-        "discovered": "2026-03-14 12:41:02.528183",
-        "description": "In unwavering obedience to the command to keep the Strait of Hormuz closed, we, the warriors of Handala Hack, deliver this warning to the naval forces of the oppressive regime: While you tremble in fear, unable to even approach our powerful waters, know that none of your secrets remain hidden anymore. For years, you hid…",
-        "link": "https://handala-hack.to/no-place-to-hide-senior-navy-officers-identities-now-public/",
-        "magnet": null,
-        "screen": "screenshots/handala/No Place to Hide: Senior Navy Officers’ Identities Now Public.png",
-        "group_name": "handala",
-        "sector": "Government"
     }
 ]
