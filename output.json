@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Augenomics",
+        "discovered": "2026-03-15 02:43:22.595351",
+        "description": "",
+        "link": "/companies/aug",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Augenomics.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "nChroma Bio",
+        "discovered": "2026-03-15 02:43:21.592536",
+        "description": "",
+        "link": "/companies/nchroma",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/nChroma Bio.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Geno Bank",
+        "discovered": "2026-03-15 02:43:20.543431",
+        "description": "",
+        "link": "/companies/genobank",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Geno Bank.png",
+        "group_name": "coinbase cartel",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Neochromosome",
+        "discovered": "2026-03-15 02:43:19.454119",
+        "description": "",
+        "link": "/companies/neo",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Neochromosome.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Novogene",
+        "discovered": "2026-03-15 02:43:18.435453",
+        "description": "",
+        "link": "/companies/novo",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Novogene.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ATG - New samples added",
+        "discovered": "2026-03-15 01:43:30.771567",
+        "description": "",
+        "link": "/companies/atg",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/ATG - New samples added.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ILLUMINA  - Data uploaded",
+        "discovered": "2026-03-15 01:43:29.757278",
+        "description": "",
+        "link": "/companies/illumina",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/ILLUMINA  - Data uploaded.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Dolby Laboratories - updated Sample",
+        "discovered": "2026-03-15 01:43:28.652902",
+        "description": "",
+        "link": "/companies/dolby",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Dolby Laboratories - updated Sample.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "westport.com",
+        "discovered": "2026-03-14 21:43:21.018601",
+        "description": "We connect synergistic technologies to power a cleaner tomorrow. As a leading supplier of affordable, alternative fuel, low-emissions transportation technologie...",
+        "link": "/#/post/81b2598c-ee5e-4eb0-a5a6-b2fea7820333",
+        "magnet": null,
+        "screen": "screenshots/embargo/westportcom.png",
+        "group_name": "embargo",
+        "sector": "Energy"
+    },
+    {
         "post_title": "indrub.com",
         "discovered": "2026-03-14 17:42:10.915057",
         "description": "Industrial Rubber Supply is a leading manufacturer and supplier of custom-molded...",
@@ -58,45 +148,5 @@
         "screen": "screenshots/handala/No Place to Hide: Senior Navy Officers’ Identities Now Public.png",
         "group_name": "handala",
         "sector": "Government"
-    },
-    {
-        "post_title": "Mid-America Export Experts",
-        "discovered": "2026-03-14 06:41:39.465591",
-        "description": "Mid-America experts is an organizations that provide support to organizations exporting goods in the MidWest USA. They work with many transportation and logistics providers with strong presence in the Midwest.",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nova/Mid-America Export Experts.png",
-        "group_name": "nova",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Duffy's Sports Grill",
-        "discovered": "2026-03-14 06:41:37.202198",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=78ed959a-66b1-3328-9d16-53e58f3b84f6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Duffy's Sports Grill.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "S** *A* ***E* **T*L",
-        "discovered": "2026-03-13 22:42:29.927125",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dubai Petroleum Breached",
-        "discovered": "2026-03-13 21:43:07.231759",
-        "description": "By the grace of God, we successfully breached .... Victory comes from none but God, the Almighty, the All‑Wise.",
-        "link": "pages/dubai-petrol.html",
-        "magnet": null,
-        "screen": "screenshots/nasir security/Dubai Petroleum Breached.png",
-        "group_name": "nasir security",
-        "sector": "Unknown"
     }
 ]
