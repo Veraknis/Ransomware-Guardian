@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "frazercenter.org",
+        "discovered": "2026-03-16 19:46:26.340029",
+        "description": "",
+        "link": "/blog/disclosures/69b83be78f1d14b743891a72",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/frazercenterorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Folet & Rivoire",
+        "discovered": "2026-03-16 19:46:22.295882",
+        "description": "Notre équipe d'avocats expérimentés, est à même de répondre à la plupart des préoccupations tant des particuliers que des entreprises. Son intervention dans les différents domaines du droit lui permet une approche transversale des solutions à apporter aux problèmes de ses clients.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PINNACLE TAX INC",
+        "discovered": "2026-03-16 18:42:45.334070",
+        "description": "Business Services",
+        "link": "/site/view?uuid=2f25268a-eb51-3665-8e2f-2f2281c18069",
+        "magnet": null,
+        "screen": "screenshots/qilin/PINNACLE TAX INC.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hyundai Elevator - Database Leaked",
+        "discovered": "2026-03-16 17:43:00.314986",
+        "description": "",
+        "link": "/news/Hyundai_Elevator/",
+        "magnet": null,
+        "screen": "screenshots/everest/Hyundai Elevator - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Steve Quick Jeweler",
+        "discovered": "2026-03-16 17:42:43.843047",
+        "description": "Steve Quick Jeweler is a Chicagoland-based jeweler that has been offering unique, handcrafted jewelry since 1986. They specialize in engagement rings, wedding bands, and a variety of other jewelry pieces, ensuring a personalized shopping experience for their customers.We will upload corporate data soon. HR files, financials, client files, contracts, NDAs, partners files and and other business files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Broadway National",
+        "discovered": "2026-03-16 16:41:40.002641",
+        "description": "Broadway National is a service provider for big box retailers, restaurants, and bank industries. They are located in Hauppauge, New York.We will upload corporate data soon. Lots of HR files and employeeinformation, clients information, financials, contracts and agreements, drawings, projects, NDA and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mingat Location",
+        "discovered": "2026-03-16 16:41:39.046571",
+        "description": "Mingat Location helps people rent vehicles for any need in France.We will upload 30gb of corporate data soon. Lots of client files,agreements, contracts, detailed financials and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tax & Accounting Plus",
+        "discovered": "2026-03-16 16:41:38.069670",
+        "description": "Tax & Accounting Plus, Inc. offers a range of personal and professional tax and accounting services with a focus on a low-pressureapproach. The firm prides itself on its high client-retention rate and the quality of its services. They provide various resources, including financial calculators and tax-related guides, to assist clients.We will upload 85gb of corporate data soon. Great amount of clients' and employees personal documents (scanned passports, DLs, SSNs, medical records and so on), contracts and agreements, detailedfinancials, NDAs, partners files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "MCC Economics",
         "discovered": "2026-03-16 14:43:35.569422",
         "description": "Business Services",
@@ -57,46 +137,6 @@
         "magnet": null,
         "screen": "screenshots/handala/Stryker Hit by Unprecedented 12-Petabyte Data Wipe.png",
         "group_name": "handala",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Executive Aviation",
-        "discovered": "2026-03-15 20:43:29.921328",
-        "description": "",
-        "link": "topic.php?id=UbiQY3El2hyhzj",
-        "magnet": null,
-        "screen": "screenshots/play/Executive Aviation.png",
-        "group_name": "play",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Oman CC Energy Development Hacked",
-        "discovered": "2026-03-15 19:42:36.382984",
-        "description": "The Call to the Enemy .... Strong against disbelievers, merciful among themselves.",
-        "link": "pages/oman-cced.html",
-        "magnet": null,
-        "screen": "screenshots/nasir security/Oman CC Energy Development Hacked.png",
-        "group_name": "nasir security",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Evaluate a Norstella company",
-        "discovered": "2026-03-15 18:43:21.802927",
-        "description": "",
-        "link": "/news/Evaluate_a_Norstella_company/",
-        "magnet": null,
-        "screen": "screenshots/everest/Evaluate a Norstella company.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Salag",
-        "discovered": "2026-03-15 18:43:06.047709",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=c5441ba3-cc79-3152-9747-07c872a96faa",
-        "magnet": null,
-        "screen": "screenshots/qilin/Salag.png",
-        "group_name": "qilin",
         "sector": "Technology"
     }
 ]
