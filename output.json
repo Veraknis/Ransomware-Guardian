@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Biogel",
+        "discovered": "2026-03-16 09:44:31.780348",
+        "description": "Chemicals & Related Products",
+        "link": "/site/view?uuid=7131070f-c2a1-3e52-bd54-9d60ecda3263",
+        "magnet": null,
+        "screen": "screenshots/qilin/Biogel.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Shock for Israeli Intelligence: 100,000 Classified Emails of Mossad’s Ex-Deputy Director S",
+        "discovered": "2026-03-16 09:44:29.112739",
+        "description": "In an incident that sent shockwaves through the Israeli intelligence apparatus, the personal email of Sima Shine, the former Deputy Director for Research of Mossad, former Head of the Iran Desk, and current leader of one of Israel’s most secretive intelligence institutions, has been hacked. Now, over 100,000 of her ultra-classified emails are available for…",
+        "link": "https://handala-hack.to/shock-for-israeli-intelligence-100000-classified-emails-of-mossads-ex-deputy-director-sima-shine-leaked/",
+        "magnet": null,
+        "screen": null,
+        "group_name": "handala",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stryker Hit by Unprecedented 12-Petabyte Data Wipe",
+        "discovered": "2026-03-16 06:44:33.800899",
+        "description": "Today, for the first time, we proudly release the documentation of a unique cyber operation, an operation that will etch the name Handala Hack into the minds of all players in the global cybersecurity arena. In a swift and calculated attack, we succeeded in penetrating the deepest layers of the network belonging to the medical…",
+        "link": "https://handala-hack.to/stryker-hit-by-unprecedented-12-petabyte-data-wipe/",
+        "magnet": null,
+        "screen": "screenshots/handala/Stryker Hit by Unprecedented 12-Petabyte Data Wipe.png",
+        "group_name": "handala",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Executive Aviation",
+        "discovered": "2026-03-15 20:43:29.921328",
+        "description": "",
+        "link": "topic.php?id=UbiQY3El2hyhzj",
+        "magnet": null,
+        "screen": "screenshots/play/Executive Aviation.png",
+        "group_name": "play",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Oman CC Energy Development Hacked",
         "discovered": "2026-03-15 19:42:36.382984",
         "description": "The Call to the Enemy .... Strong against disbelievers, merciful among themselves.",
@@ -58,95 +98,5 @@
         "screen": null,
         "group_name": "shinyhunters",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Augenomics",
-        "discovered": "2026-03-15 02:43:22.595351",
-        "description": "",
-        "link": "/companies/aug",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Augenomics.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nChroma Bio",
-        "discovered": "2026-03-15 02:43:21.592536",
-        "description": "",
-        "link": "/companies/nchroma",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/nChroma Bio.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Geno Bank",
-        "discovered": "2026-03-15 02:43:20.543431",
-        "description": "",
-        "link": "/companies/genobank",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Geno Bank.png",
-        "group_name": "coinbase cartel",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Neochromosome",
-        "discovered": "2026-03-15 02:43:19.454119",
-        "description": "",
-        "link": "/companies/neo",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Neochromosome.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Novogene",
-        "discovered": "2026-03-15 02:43:18.435453",
-        "description": "",
-        "link": "/companies/novo",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Novogene.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ATG - New samples added",
-        "discovered": "2026-03-15 01:43:30.771567",
-        "description": "",
-        "link": "/companies/atg",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/ATG - New samples added.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ILLUMINA  - Data uploaded",
-        "discovered": "2026-03-15 01:43:29.757278",
-        "description": "",
-        "link": "/companies/illumina",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/ILLUMINA  - Data uploaded.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Dolby Laboratories - updated Sample",
-        "discovered": "2026-03-15 01:43:28.652902",
-        "description": "",
-        "link": "/companies/dolby",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Dolby Laboratories - updated Sample.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "westport.com",
-        "discovered": "2026-03-14 21:43:21.018601",
-        "description": "We connect synergistic technologies to power a cleaner tomorrow. As a leading supplier of affordable, alternative fuel, low-emissions transportation technologie...",
-        "link": "/#/post/81b2598c-ee5e-4eb0-a5a6-b2fea7820333",
-        "magnet": null,
-        "screen": "screenshots/embargo/westportcom.png",
-        "group_name": "embargo",
-        "sector": "Energy"
     }
 ]
