@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "MCC Economics",
+        "discovered": "2026-03-16 14:43:35.569422",
+        "description": "Business Services",
+        "link": "/site/view?uuid=09fe0944-ef5f-3d12-ba5b-e92f45f8ac7f",
+        "magnet": null,
+        "screen": "screenshots/qilin/MCC Economics.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pilana Group, TRITCON",
+        "discovered": "2026-03-16 13:44:36.541786",
+        "description": "Pilana Group is a Czech company with nearly 90 years of experience, specializing in the production of industrial knives and parts for the wood processing, recycling, and metal processing industries. They serve over 1400 customers globally, providing high-quality products for various machine manufacturers.We will upload 93gb of corporate data soon. Personal employee information (passports, Dls, addresses, emails), clients information(addresses, IDs, emails, phones and so on), financials, contracts and agreements, drawings and specifications, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Ruhnau Clarke",
+        "discovered": "2026-03-16 12:43:06.675489",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=fb78d1e5-2092-3e50-8f0b-e21dd5c1ac1e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ruhnau Clarke.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Biogel",
         "discovered": "2026-03-16 09:44:31.780348",
         "description": "Chemicals & Related Products",
@@ -67,36 +97,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Salag.png",
         "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Royal Bahrain Hospital",
-        "discovered": "2026-03-15 13:44:53.446487",
-        "description": "Established in 2011, Royal Bahrain Hospital (RBH) is a leading healthcare facility in Bahrain, offering a wide range of medical specialties and services. The hospital is equipped with 70 beds and provides both inpatient and outpatient care, including operating rooms, maternity services, and various diagnostic facilities. RBH is committed to delivering quality and affordable healthcare to its patients, with a focus on clinical excellence and patient satisfaction. The hospital serves a diverse clientele, including residents of Bahrain and neighboring countries such as Oman, Qatar, Saudi Arabia, and the UAE.",
-        "link": "/posts/c08cd55e-7711-400a-8d91-c546b5a3371e",
-        "magnet": null,
-        "screen": "screenshots/payload/Royal Bahrain Hospital.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Laura Gilinski Hacked",
-        "discovered": "2026-03-15 11:43:24.716400",
-        "description": "Today, the iron walls of secrecy and the illusion of security within the Zionist regime have been shattered forever. One of Mossad’s most critical intelligence figures, Laura Gilinski, former Deputy Head of Planning & Strategy at Mossad and current Deputy Director of the Institute for National Security Studies (INSS), has been taken down by our…",
-        "link": "https://handala-hack.to/laura-gilinski-hacked/",
-        "magnet": null,
-        "screen": "screenshots/handala/Laura Gilinski Hacked.png",
-        "group_name": "handala",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Aura Group, Inc. (aura.com)",
-        "discovered": "2026-03-15 10:43:29.745915",
-        "description": "Over 900k records containing PII and other internal corporate data have been compromised.   The company failed to reach an agreement with us despite all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
         "sector": "Technology"
     }
 ]
