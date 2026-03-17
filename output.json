@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Mossad’s Secret Treasury Exposed: 50,000 Confidential Emails Leaked",
+        "discovered": "2026-03-17 08:43:05.985865",
+        "description": "Today, a shadow has been lifted from one of the darkest layers of the Israeli intelligence and security apparatus. In a sophisticated operation, Handala Hack succeeded in breaching the email systems and confidential data of Ilan Steiner, former Budget Director of Mossad and current Chief Financial Officer of Israel’s National Security Institute, the research and…",
+        "link": "https://handala-hack.to/mossads-secret-treasury-exposed-50000-confidential-emails-leaked/",
+        "magnet": null,
+        "screen": "screenshots/handala/Mossad’s Secret Treasury Exposed: 50,000 Confidential Emails Leaked.png",
+        "group_name": "handala",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "G* *r**n*e",
+        "discovered": "2026-03-17 01:45:04.952253",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "S*m**y* **ru**l* ***s**t**g **gi****r*",
+        "discovered": "2026-03-17 01:45:01.595637",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kichler Lighting",
+        "discovered": "2026-03-17 01:44:42.484190",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Florida East Coast Railway",
+        "discovered": "2026-03-17 01:44:40.462687",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.nollandtam.com/",
+        "discovered": "2026-03-17 01:43:13.803608",
+        "description": "Noll and Tam Architects",
+        "link": "/post/69b89749c3aeb8d444653045",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwnollandtamcom.png",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Von Weise Associates",
+        "discovered": "2026-03-16 22:45:08.121882",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=160ec3c5-325f-3383-9efb-54ce9d41cca7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Von Weise Associates.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "mcquaidinjurylaw.com",
+        "discovered": "2026-03-16 21:46:53.602217",
+        "description": "",
+        "link": "/blog/disclosures/69b85ada8f1d14b7438bbd0a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/mcquaidinjurylawcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "frazercenter.org",
         "discovered": "2026-03-16 19:46:26.340029",
         "description": "",
@@ -108,35 +188,5 @@
         "screen": "screenshots/qilin/Ruhnau Clarke.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Biogel",
-        "discovered": "2026-03-16 09:44:31.780348",
-        "description": "Chemicals & Related Products",
-        "link": "/site/view?uuid=7131070f-c2a1-3e52-bd54-9d60ecda3263",
-        "magnet": null,
-        "screen": "screenshots/qilin/Biogel.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Shock for Israeli Intelligence: 100,000 Classified Emails of Mossad’s Ex-Deputy Director S",
-        "discovered": "2026-03-16 09:44:29.112739",
-        "description": "In an incident that sent shockwaves through the Israeli intelligence apparatus, the personal email of Sima Shine, the former Deputy Director for Research of Mossad, former Head of the Iran Desk, and current leader of one of Israel’s most secretive intelligence institutions, has been hacked. Now, over 100,000 of her ultra-classified emails are available for…",
-        "link": "https://handala-hack.to/shock-for-israeli-intelligence-100000-classified-emails-of-mossads-ex-deputy-director-sima-shine-leaked/",
-        "magnet": null,
-        "screen": null,
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stryker Hit by Unprecedented 12-Petabyte Data Wipe",
-        "discovered": "2026-03-16 06:44:33.800899",
-        "description": "Today, for the first time, we proudly release the documentation of a unique cyber operation, an operation that will etch the name Handala Hack into the minds of all players in the global cybersecurity arena. In a swift and calculated attack, we succeeded in penetrating the deepest layers of the network belonging to the medical…",
-        "link": "https://handala-hack.to/stryker-hit-by-unprecedented-12-petabyte-data-wipe/",
-        "magnet": null,
-        "screen": "screenshots/handala/Stryker Hit by Unprecedented 12-Petabyte Data Wipe.png",
-        "group_name": "handala",
-        "sector": "Technology"
     }
 ]
