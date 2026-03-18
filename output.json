@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "Valley Family Health Care",
+        "discovered": "2026-03-18 16:43:06.332932",
+        "description": "Valley Family Health Care is a Community Health Center offering medical, dental, behavioral health, and nutrition services. With 12 locations (including a mobile unit), they accept major insurances and provide income-based sliding fees to ensure accessible care.",
+        "link": "/Company/VFHC/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Valley Family Health Care.png",
+        "group_name": "insomnia",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "J****g",
+        "discovered": "2026-03-18 16:42:50.737203",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BTX Global Logistics",
+        "discovered": "2026-03-18 15:45:05.468723",
+        "description": "Freight & Logistics Services",
+        "link": "/site/view?uuid=bd427b2f-c8cd-30f3-a2b1-2718e23ab855",
+        "magnet": null,
+        "screen": "screenshots/qilin/BTX Global Logistics.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "hollu Systemhygiene",
+        "discovered": "2026-03-18 15:45:04.465888",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=e54ec58d-0030-3e9e-ae8a-431a29825373",
+        "magnet": null,
+        "screen": "screenshots/qilin/hollu Systemhygiene.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Arca Service",
+        "discovered": "2026-03-18 15:45:01.568355",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=feb9c071-d0e2-3c2c-9e8e-7ba0512d3638",
+        "magnet": null,
+        "screen": "screenshots/qilin/Arca Service.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Reflex Angelo",
+        "discovered": "2026-03-18 15:44:59.687530",
+        "description": "Reflex Angelo specializes in high-end furniture and lighting solutions, offering a diverse range of products including tables, chairs, sofas, and bespoke designs. Their collections, such as LineaDisegno and Linea Glamour, blend modern aesthetics with classic Venetian influences, showcasing a commitment to quality and craftsmanship.We will upload 34gb of corporate data soon. Lots of employee personal information (passport scans, addresses, phones, emails), detailed financials, client information, contracts and agreements, confidential projects and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Elite Flower",
+        "discovered": "2026-03-18 14:44:05.605829",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/view?uuid=32890d33-68c4-3176-bc4a-9de6cd31b4c3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Elite Flower.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Jacobs & Sons",
+        "discovered": "2026-03-18 14:44:04.553489",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/view?uuid=33e5dd2d-60e7-36e0-96e3-a5b3ca8c8601",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jacobs & Sons.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Sievert Electric Service and Sales",
+        "discovered": "2026-03-18 14:44:00.473929",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=13641fa1-fa50-3483-872f-fd836bad6379",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sievert Electric Service and Sales.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Productos La Aguadillana",
+        "discovered": "2026-03-18 14:43:59.532378",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=3f5d6ae5-a96f-3eca-96ad-bd5fec7f7ea6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Productos La Aguadillana.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "L H Lacy",
+        "discovered": "2026-03-18 14:43:58.526366",
+        "description": "Construction",
+        "link": "/site/view?uuid=d5e1146c-ea8c-3ded-896a-6e321389411e",
+        "magnet": null,
+        "screen": "screenshots/qilin/L H Lacy.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Affinity Designs",
+        "discovered": "2026-03-18 14:43:57.509192",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/view?uuid=e2c37a53-3086-3ebd-b475-2ba5b52a2cc1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Affinity Designs.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Texollini",
+        "discovered": "2026-03-18 14:43:55.514462",
+        "description": "Texollini is a textile manufacturer that combines fashion and technology to create innovative materials and advanced performance textiles. They offer a wide range of products including activewear, athleisure wear, swimwear, and intimate apparel, catering to various markets. We will upload 20gb of corporate data soon. Employee passports and DLs, medical records, HR forms, financial files, a bit of client files, contracts and agreements, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Pyrénées",
+        "discovered": "2026-03-18 14:43:54.405127",
+        "description": "Grans Magatzems Pyrénées Andorra offers a wide range of high-quality products and services, including food, fashion, sports, and technology. Their offerings encompass gourmet food, online shopping, and various dining options, as well as travel agency services and financial solutions.We will upload 263gb of corporate data soon. Employee passports and DLs, HR forms, financials, client information, lots of contracts and agreements, NDAs, and a lot of other interesting files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Rainbow Technology",
+        "discovered": "2026-03-18 14:43:53.298412",
+        "description": "Rainbow Technology specializes in providing a wide range of products and services tailored for the utility and industrial markets,including safety items and specialty products. Their offerings include adhesives, sealants, cleaning supplies, personal protection equipment, and tools, aimed at delivering superior performance and value for money.We will upload corporate data soon. Employee passports and DLs and other information, HR files, financials, client information, credit card information, contracts and agreements, and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Martyr Ali Larijani",
         "discovered": "2026-03-18 07:42:30.586978",
         "description": "The enemies thought that by silencing the smile of a great man, they could extinguish the sun of hope. But they are blind to the truth: the everlasting smile of Martyr Ali Larijani not only remains unforgettable but lives on in every operation by Handala. Today, every move we make, every cyberattack, every blow delivered…",
@@ -188,145 +338,5 @@
         "screen": "screenshots/eraleign (apt73)/dpwhgovph.png",
         "group_name": "eraleign (apt73)",
         "sector": "Government"
-    },
-    {
-        "post_title": "Shwapno",
-        "discovered": "2026-03-17 16:44:53.154891",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/view?uuid=dffe3961-d699-3290-ba7c-8b3b9a912b04",
-        "magnet": null,
-        "screen": "screenshots/qilin/Shwapno.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "doghairinc.com",
-        "discovered": "2026-03-17 16:44:50.797379",
-        "description": "Dog Hair INCluded is a small company (online brand) that sells pet accessories and products with ...",
-        "link": "/page_company.php?id=141",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/doghairinccom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "**ste* **vi**n***t** **b**a****",
-        "discovered": "2026-03-17 15:45:10.088560",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vanheyghenstaal.be",
-        "discovered": "2026-03-17 15:44:49.363200",
-        "description": "Van Heyghen Staal is a metallurgical company in Belgium, which is engaged in the processing and r...",
-        "link": "/page_company.php?id=139",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/vanheyghenstaalbe.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "isosl.be",
-        "discovered": "2026-03-17 15:44:48.389435",
-        "description": "ISOSL is an engineering company in Belgium, which deals with industrial solutions, automation and...",
-        "link": "/page_company.php?id=140",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/isoslbe.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Bonanza Casino",
-        "discovered": "2026-03-17 15:15:27.842721",
-        "description": "Bonanza Casino is a vibrant entertainment venue in Reno that offers gaming, dining, and community-focused events. It features award-winning restaurants such as Cactus Creek Prime Steakhouse and Branding Iron Cafe, serving a variety of cuisines. The casino is dedicated to supporting local initiatives, including scholarships for students and fundraising for prostate cancer research. With a commitment to creating a fun and friendly atmosphere, Bonanza Casino aims to provide exceptional experiences for its guests. \nThe company headquarters is located in 4720 North Virginia Street, Reno, Nevada 89506, United States.\n51-200 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Bonanza Casino.png",
-        "group_name": "medusa",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "bestgraphics.net",
-        "discovered": "2026-03-17 14:43:21.668648",
-        "description": "Founded in 1977, Best Graphics Group offers a full range of equipment for printing, bookbinding, finishing, and packaging",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "**l** ****** ****** C***",
-        "discovered": "2026-03-17 13:42:22.054094",
-        "description": "A multi-service, accessible community health network designed to provide inclusive, affordable care to all.",
-        "link": "/Company/Announce/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/**l** ****** ****** C***.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Vahid Offline Members",
-        "discovered": "2026-03-17 13:42:04.843387",
-        "description": "The list of 180,000 Iranian members of this channel, along with their mobile numbers, has been published. From now on, you’d better change your name from “Vahid Online” to “Vahid Offline”! Download Members",
-        "link": "https://handala-hack.to/vahid-offline-members/",
-        "magnet": null,
-        "screen": "screenshots/handala/Vahid Offline Members.png",
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Solutions Extreme Technology",
-        "discovered": "2026-03-17 13:42:01.162236",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Passaic County",
-        "discovered": "2026-03-17 13:15:18.638859",
-        "description": "Passaic County was created out of parts of Essex and Bergen Counties with the same legislation that created Atlantic County in 1837. Passaic County borders New York State on the north and is surrounded on the other sides by Sussex, Morris, Essex and Bergen counties in New Jersey. Passaic County has 186 square miles of land area, making it the 18th in size among New Jerseys counties. On the basis of population, it ranks as the 9th most populous county in New Jersey. The 2020 Decennial Census estimated the population of Passaic County to be 524,118. Passaic County is shaped like a bent hourglass with the area above the neck running generally north and south and the portion below, east to west. The upper half of Passaic County is characterized by large lakes and watershed areas with low-density development. The lower half of Passaic County contains more than 85% of the population in a third of the area. Passaic County has 16 municipalities. \nThe company headquarters is located in 401 Grand Street, Paterson, NJ 07505, United States.\n1K - 5K Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Passaic County.png",
-        "group_name": "medusa",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Who is VahidOnline?",
-        "discovered": "2026-03-17 12:42:46.610934",
-        "description": "The crimes and foolishness of the leaders of the Epstein sect and the Kahanist sect have reached such a level that today, not only the elites and freedom-seekers of the world, but even Western governments and the masses of Jews, Christians, and Muslims have clearly drawn a line separating themselves from these two bloodthirsty…",
-        "link": "https://handala-hack.to/who-is-vahidonline/",
-        "magnet": null,
-        "screen": "screenshots/handala/Who is VahidOnline.png",
-        "group_name": "handala",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cape May County",
-        "discovered": "2026-03-17 12:15:24.668512",
-        "description": "Cape May County Government is the official governing body of Cape May County, located in New Jersey. It is responsible for managing public services, infrastructure, and administrative operations for county residents and businesses. The government oversees departments such as public safety, corrections, health and human services, public works, and emergency management. It also manages county facilities, parks, transportation systems, and social service programs. Led by elected commissioners and constitutional officers, the organization works to ensure community development, regulatory compliance, and fiscal responsibility while supporting economic growth, tourism, and quality of life across the county. \nThe company headquarters is located in 4 Moore Road, Cape May Court House, New Jersey 08210, USA.\n51-200 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Cape May County.png",
-        "group_name": "medusa",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Lehigh Carbon Community College",
-        "discovered": "2026-03-17 12:15:23.653762",
-        "description": "Lehigh Carbon Community College provides affordable, quality education through both online and in-person formats across multiple campuses in Lehigh and Carbon Counties. The college offers over 90 programs, including associate degrees, workforce certificates, ESL, and GED courses, catering to a diverse range of academic and professional goals. LCCC aims to support students in achieving their educational aspirations and career development, with resources for financial aid and transfer opportunities to four-year institutions. The intended clients include local residents seeking higher education, workforce training, and English language learning support. \nThe company headquarters is located in 4525 Education Park Drive, Schnecksville, PA 18078, United States.\n201-500 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Lehigh Carbon Community College.png",
-        "group_name": "medusa",
-        "sector": "Education"
     }
 ]
