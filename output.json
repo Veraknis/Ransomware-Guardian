@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Dynex/Rivett",
+        "discovered": "2026-03-18 19:42:53.817350",
+        "description": "Dynex/Rivett Inc. specializes in high-pressure hydraulic components and systems, including piston pumps, power units, motors, and valves, designed for demanding...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Flexform",
+        "discovered": "2026-03-18 19:42:52.799447",
+        "description": "Flexform SpA is an Italian company with its head office in Meda, Italy, at the centre of the furniture production district of La Brianza. Founded in 1959 by the...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "HARTMANN BAU",
+        "discovered": "2026-03-18 19:42:51.837571",
+        "description": "Hartmann Bau GmbH is a construction company based in Borgentreich near Kassel, specializing in residential, commercial, agricultural, and civil engineering proj...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "loopcap.com",
+        "discovered": "2026-03-18 18:44:05.168442",
+        "description": "We provided the management of Loop Capital with ample time and opportunity to protect their clients, their employees, and their shareholders. However, the company chose a path of total ignorance, opting for silence and bureaucratic delays instead of accountability.\n\nFor an investment firm of this ca…",
+        "link": "/pAJEoGD0IPltwmdp8J8wiDnx8CGpSz5j/loopcap-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/loopcapcom.png",
+        "group_name": "chaos",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Conrad Capital Management",
+        "discovered": "2026-03-18 18:44:01.441430",
+        "description": "(including customers personal information and financial data) Conrad Capital Management (CCM) is an independent Registered Investment Advisory firm that provide...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Valley Family Health Care",
         "discovered": "2026-03-18 16:43:06.332932",
         "description": "Valley Family Health Care is a Community Health Center offering medical, dental, behavioral health, and nutrition services. With 12 locations (including a mobile unit), they accept major insurances and provide income-based sliding fees to ensure accessible care.",
@@ -258,85 +308,5 @@
         "screen": "screenshots/safepay/thenavigatorcompanycom.png",
         "group_name": "safepay",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Eco Sound Builders",
-        "discovered": "2026-03-17 19:43:05.399793",
-        "description": "EcoSound Builders, LLC specializes in crafting high-performance custom homes, fo...",
-        "link": "/leaks/69b995126387a4c9a28636b3",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Eco Sound Builders.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "McAfee Tool & Die",
-        "discovered": "2026-03-17 19:43:01.637606",
-        "description": "McAfee Tool & Die, Inc. is a company specializing in the manufacturing of precis...",
-        "link": "/leaks/69b995cc6387a4c9a2863ee3",
-        "magnet": null,
-        "screen": "screenshots/sinobi/McAfee Tool & Die.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Teco",
-        "discovered": "2026-03-17 19:43:00.405041",
-        "description": "Teco HVAC, LLC is a full-service HVAC and plumbing company serving the Baltimore...",
-        "link": "/leaks/69b9968d6387a4c9a2864509",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Teco.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "S****s",
-        "discovered": "2026-03-17 18:44:20.446067",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Classified",
-        "discovered": "2026-03-17 18:44:15.942280",
-        "description": "Information will be available after publication",
-        "link": "#Classified",
-        "magnet": null,
-        "screen": "screenshots/exitium/Classified.png",
-        "group_name": "exitium",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Knight's Site Services",
-        "discovered": "2026-03-17 17:45:32.770782",
-        "description": "",
-        "link": "topic.php?id=ojkgcviE58B9hn",
-        "magnet": null,
-        "screen": "screenshots/play/Knight's Site Services.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gsolutionz",
-        "discovered": "2026-03-17 17:45:31.817669",
-        "description": "",
-        "link": "topic.php?id=P5ghPXbkZqWBFb",
-        "magnet": null,
-        "screen": "screenshots/play/Gsolutionz.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dpwh.gov.ph",
-        "discovered": "2026-03-17 17:45:13.171808",
-        "description": "Department of Public Works and Highways is a government agency in the Philippines that is respons...",
-        "link": "/page_company.php?id=142",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/dpwhgovph.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Government"
     }
 ]
