@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "ENENSYS Technologies",
+        "discovered": "2026-03-19 15:43:56.331753",
+        "description": "One of the leaders in video stream optimization, security, and content monetization. Offers advanced solutions for efficient video delivery across all digital ecosystems.",
+        "link": "/posts/69bbfc2aa512ea6b1f8de666",
+        "magnet": null,
+        "screen": "screenshots/nitrogen/ENENSYS Technologies.png",
+        "group_name": "nitrogen",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Enviaseo ESP",
+        "discovered": "2026-03-19 15:43:55.256693",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=21c69c0b-97c6-316b-9b28-21526d8289c3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Enviaseo ESP.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Health Management Systems",
+        "discovered": "2026-03-19 15:43:52.600355",
+        "description": "Health Management Systems provides tailored health care software designed to enhance business processes and improve staff management for service providers in co...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "airports.com.na",
+        "discovered": "2026-03-19 14:43:41.711819",
+        "description": "",
+        "link": "/blog/disclosures/69bbef478f1d14b743d8daad",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/airportscomna.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PC SOFT FRANCE",
+        "discovered": "2026-03-19 12:44:41.310943",
+        "description": "",
+        "link": "/companies/pcsoft",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/PC SOFT FRANCE.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Onyx Graphics",
+        "discovered": "2026-03-19 12:44:40.366310",
+        "description": "",
+        "link": "/companies/onyx",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Onyx Graphics.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tecnocap Group",
+        "discovered": "2026-03-19 12:44:39.376394",
+        "description": "",
+        "link": "/companies/tecno",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Tecnocap Group.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Verimatrix",
+        "discovered": "2026-03-19 12:44:38.403990",
+        "description": "",
+        "link": "/companies/security-software",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Verimatrix.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ariston",
+        "discovered": "2026-03-19 12:44:37.318429",
+        "description": "",
+        "link": "/companies/ariston",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Ariston.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Petra Industries",
+        "discovered": "2026-03-19 12:44:36.165873",
+        "description": "",
+        "link": "/companies/petra",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Petra Industries.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Bonheure",
         "discovered": "2026-03-19 06:45:10.467839",
         "description": "Karaoke BusinessOperation of a network of karaoke establishments, providing leisure and entertainment services for individual and corporate clients.        Restaurant Business (Izakaya)Development and management of a chain of food and beverage establishments, primarily in the Japanese izakaya style, as well as other concepts within the HoReCa sector.Real Estate OperationsInvolvement in the real estate market, including property management, leasing, and the potential development of commercial real estate assets.Internet Cafe ManagementOperation of internet cafes that provide customers with internet access along with ancillary services such as relaxation areas, reading materials, and refreshments.\nhttps://bonheure.co.jp/",
@@ -148,135 +248,5 @@
         "screen": null,
         "group_name": "payoutsking",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "BTX Global Logistics",
-        "discovered": "2026-03-18 15:45:05.468723",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=bd427b2f-c8cd-30f3-a2b1-2718e23ab855",
-        "magnet": null,
-        "screen": "screenshots/qilin/BTX Global Logistics.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "hollu Systemhygiene",
-        "discovered": "2026-03-18 15:45:04.465888",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=e54ec58d-0030-3e9e-ae8a-431a29825373",
-        "magnet": null,
-        "screen": "screenshots/qilin/hollu Systemhygiene.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Arca Service",
-        "discovered": "2026-03-18 15:45:01.568355",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=feb9c071-d0e2-3c2c-9e8e-7ba0512d3638",
-        "magnet": null,
-        "screen": "screenshots/qilin/Arca Service.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Reflex Angelo",
-        "discovered": "2026-03-18 15:44:59.687530",
-        "description": "Reflex Angelo specializes in high-end furniture and lighting solutions, offering a diverse range of products including tables, chairs, sofas, and bespoke designs. Their collections, such as LineaDisegno and Linea Glamour, blend modern aesthetics with classic Venetian influences, showcasing a commitment to quality and craftsmanship.We will upload 34gb of corporate data soon. Lots of employee personal information (passport scans, addresses, phones, emails), detailed financials, client information, contracts and agreements, confidential projects and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Elite Flower",
-        "discovered": "2026-03-18 14:44:05.605829",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/view?uuid=32890d33-68c4-3176-bc4a-9de6cd31b4c3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Elite Flower.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Jacobs & Sons",
-        "discovered": "2026-03-18 14:44:04.553489",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/view?uuid=33e5dd2d-60e7-36e0-96e3-a5b3ca8c8601",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jacobs & Sons.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Sievert Electric Service and Sales",
-        "discovered": "2026-03-18 14:44:00.473929",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=13641fa1-fa50-3483-872f-fd836bad6379",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sievert Electric Service and Sales.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Productos La Aguadillana",
-        "discovered": "2026-03-18 14:43:59.532378",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=3f5d6ae5-a96f-3eca-96ad-bd5fec7f7ea6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Productos La Aguadillana.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "L H Lacy",
-        "discovered": "2026-03-18 14:43:58.526366",
-        "description": "Construction",
-        "link": "/site/view?uuid=d5e1146c-ea8c-3ded-896a-6e321389411e",
-        "magnet": null,
-        "screen": "screenshots/qilin/L H Lacy.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Affinity Designs",
-        "discovered": "2026-03-18 14:43:57.509192",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/view?uuid=e2c37a53-3086-3ebd-b475-2ba5b52a2cc1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Affinity Designs.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Texollini",
-        "discovered": "2026-03-18 14:43:55.514462",
-        "description": "Texollini is a textile manufacturer that combines fashion and technology to create innovative materials and advanced performance textiles. They offer a wide range of products including activewear, athleisure wear, swimwear, and intimate apparel, catering to various markets. We will upload 20gb of corporate data soon. Employee passports and DLs, medical records, HR forms, financial files, a bit of client files, contracts and agreements, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Pyrénées",
-        "discovered": "2026-03-18 14:43:54.405127",
-        "description": "Grans Magatzems Pyrénées Andorra offers a wide range of high-quality products and services, including food, fashion, sports, and technology. Their offerings encompass gourmet food, online shopping, and various dining options, as well as travel agency services and financial solutions.We will upload 263gb of corporate data soon. Employee passports and DLs, HR forms, financials, client information, lots of contracts and agreements, NDAs, and a lot of other interesting files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Rainbow Technology",
-        "discovered": "2026-03-18 14:43:53.298412",
-        "description": "Rainbow Technology specializes in providing a wide range of products and services tailored for the utility and industrial markets,including safety items and specialty products. Their offerings include adhesives, sealants, cleaning supplies, personal protection equipment, and tools, aimed at delivering superior performance and value for money.We will upload corporate data soon. Employee passports and DLs and other information, HR files, financials, client information, credit card information, contracts and agreements, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
     }
 ]
