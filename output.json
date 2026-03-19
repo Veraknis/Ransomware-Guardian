@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Tecnocad Group",
+        "discovered": "2026-03-19 19:43:20.765510",
+        "description": "",
+        "link": "/companies/tecno",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Tecnocad Group.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vatractor.com",
+        "discovered": "2026-03-19 18:42:29.978733",
+        "description": "Virginia Maryland Tractor specializes in John Deere equipment,  offering a wide selection of new and used machinery, financing options, parts, and service.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Angus-Young Associates",
+        "discovered": "2026-03-19 17:42:03.726783",
+        "description": "Angus-Young is a full-service architectural, landscape architecture, engineering, and interior design firm that offers high-quality design solutions, construction documentation, bid management, and construction services. With over 60 years of experience, the firm collaborates on a diverse range of project types, ensuring informed decisions and integrated designs.We will upload 50gb of corporate data soon. Employee personal information (w9 forms, docs scans), HR data, financials, a bit of client data, contracts and agreements, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Decorative Paving",
+        "discovered": "2026-03-19 16:41:05.317404",
+        "description": "Decorative Paving Company specializes in the manufacturing, installation, and distribution of high-quality paving systems. With over twenty years of experience, the company has established a strong international reputation for excellence in its services.We will upload 20gb of corporate data soon. Employee personal information (passports, DLs and other HR files), projects, financials and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Career Adventures",
+        "discovered": "2026-03-19 16:41:04.002916",
+        "description": "Career Adventures, Inc is a leading employment agency in Shreveport and Bossier City, Louisiana, specializing in temporary and full-time staffing solutions for start-up manufacturing facilities. With over 30 years of experience, they provide tailored programs that enhance employee performance and reduce turnover.We will upload 8gb of corporate data soon. Employee personal information (passports, DLs and so on), lots of HR data, financials, a bit of client data, projects, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Government"
+    },
+    {
         "post_title": "ENENSYS Technologies",
         "discovered": "2026-03-19 15:43:56.331753",
         "description": "One of the leaders in video stream optimization, security, and content monetization. Offers advanced solutions for efficient video delivery across all digital ecosystems.",
@@ -178,75 +228,5 @@
         "screen": "screenshots/interlock/Delta Manufacturing.png",
         "group_name": "interlock",
         "sector": "Defense"
-    },
-    {
-        "post_title": "Dynex/Rivett",
-        "discovered": "2026-03-18 19:42:53.817350",
-        "description": "Dynex/Rivett Inc. specializes in high-pressure hydraulic components and systems, including piston pumps, power units, motors, and valves, designed for demanding...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Flexform",
-        "discovered": "2026-03-18 19:42:52.799447",
-        "description": "Flexform SpA is an Italian company with its head office in Meda, Italy, at the centre of the furniture production district of La Brianza. Founded in 1959 by the...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "HARTMANN BAU",
-        "discovered": "2026-03-18 19:42:51.837571",
-        "description": "Hartmann Bau GmbH is a construction company based in Borgentreich near Kassel, specializing in residential, commercial, agricultural, and civil engineering proj...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "loopcap.com",
-        "discovered": "2026-03-18 18:44:05.168442",
-        "description": "We provided the management of Loop Capital with ample time and opportunity to protect their clients, their employees, and their shareholders. However, the company chose a path of total ignorance, opting for silence and bureaucratic delays instead of accountability.\n\nFor an investment firm of this ca…",
-        "link": "/pAJEoGD0IPltwmdp8J8wiDnx8CGpSz5j/loopcap-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/loopcapcom.png",
-        "group_name": "chaos",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Conrad Capital Management",
-        "discovered": "2026-03-18 18:44:01.441430",
-        "description": "(including customers personal information and financial data) Conrad Capital Management (CCM) is an independent Registered Investment Advisory firm that provide...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Valley Family Health Care",
-        "discovered": "2026-03-18 16:43:06.332932",
-        "description": "Valley Family Health Care is a Community Health Center offering medical, dental, behavioral health, and nutrition services. With 12 locations (including a mobile unit), they accept major insurances and provide income-based sliding fees to ensure accessible care.",
-        "link": "/Company/VFHC/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Valley Family Health Care.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "J****g",
-        "discovered": "2026-03-18 16:42:50.737203",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
     }
 ]
