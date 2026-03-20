@@ -1,5 +1,225 @@
 [
     {
+        "post_title": "AGENCAVI SRL",
+        "discovered": "2026-03-20 17:41:21.656903",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=46636a14-8107-3960-8979-aaa6e867336d",
+        "magnet": null,
+        "screen": "screenshots/qilin/AGENCAVI SRL.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Frontier Financial Group",
+        "discovered": "2026-03-20 16:46:34.180777",
+        "description": "",
+        "link": "/company/38QGDXyCydCZi7pcM6fv8",
+        "magnet": null,
+        "screen": "screenshots/gunra/Frontier Financial Group.png",
+        "group_name": "gunra",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "El Ezh Building Contracting LLC",
+        "discovered": "2026-03-20 16:46:33.196057",
+        "description": "",
+        "link": "/company/k6GfXqEjTFJaq-SdZWgVb",
+        "magnet": null,
+        "screen": "screenshots/gunra/El Ezh Building Contracting LLC.png",
+        "group_name": "gunra",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Thai Petroleum & Trading Co., Ltd.",
+        "discovered": "2026-03-20 16:46:32.161556",
+        "description": "",
+        "link": "/company/JbmV2IiHMShyMJoIhLjHS",
+        "magnet": null,
+        "screen": "screenshots/gunra/Thai Petroleum & Trading Co, Ltd.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grupo PyD",
+        "discovered": "2026-03-20 16:46:31.152245",
+        "description": "",
+        "link": "/company/oHDkjfchNeb5Fk3TgrqtJ",
+        "magnet": null,
+        "screen": "screenshots/gunra/Grupo PyD.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ipiranga Contábil",
+        "discovered": "2026-03-20 16:46:30.192023",
+        "description": "",
+        "link": "/company/Y3SsApOQVgaXv2jLDE6hF",
+        "magnet": null,
+        "screen": "screenshots/gunra/Ipiranga Contábil.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NeoDerm",
+        "discovered": "2026-03-20 16:46:29.187814",
+        "description": "",
+        "link": "/company/UT-1nslyVQKm6Hbe9YJFq",
+        "magnet": null,
+        "screen": "screenshots/gunra/NeoDerm.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "INCARFE S.L.",
+        "discovered": "2026-03-20 16:46:28.209551",
+        "description": "",
+        "link": "/company/FeCzYJNdnF15Vw9OHoytP",
+        "magnet": null,
+        "screen": "screenshots/gunra/INCARFE SL.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eric Davis Dental",
+        "discovered": "2026-03-20 16:46:27.233617",
+        "description": "",
+        "link": "/company/T-jk-flzZoFacIzIiC-l8",
+        "magnet": null,
+        "screen": "screenshots/gunra/Eric Davis Dental.png",
+        "group_name": "gunra",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Ventilaciones Nerual, S.L.",
+        "discovered": "2026-03-20 16:46:26.102450",
+        "description": "",
+        "link": "/company/qrgaGFQRQXEF-POYz_g4z",
+        "magnet": null,
+        "screen": "screenshots/gunra/Ventilaciones Nerual, SL.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Envy Recycling",
+        "discovered": "2026-03-20 16:46:25.164016",
+        "description": "",
+        "link": "/company/Mj7pvJJFOaHWp-zHxm1Oi",
+        "magnet": null,
+        "screen": "screenshots/gunra/Envy Recycling.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "VINTAGE HOMESTEAD GmbHy",
+        "discovered": "2026-03-20 16:46:24.203385",
+        "description": "",
+        "link": "/company/HGFBYVZlY2gV4lmZaxjWf",
+        "magnet": null,
+        "screen": "screenshots/gunra/VINTAGE HOMESTEAD GmbHy.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Diamond",
+        "discovered": "2026-03-20 16:46:23.203927",
+        "description": "",
+        "link": "/company/PEB8x_juWat7MUfka-l93",
+        "magnet": null,
+        "screen": "screenshots/gunra/Diamond.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ASPShips",
+        "discovered": "2026-03-20 16:46:22.247586",
+        "description": "",
+        "link": "/company/AzgOIo8UjFtQBb1MdPl--",
+        "magnet": null,
+        "screen": "screenshots/gunra/ASPShips.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "triotech.com.sg",
+        "discovered": "2026-03-20 16:46:21.291472",
+        "description": "",
+        "link": "/company/-jkHgiHpWSP6PRVqrFl4a",
+        "magnet": null,
+        "screen": "screenshots/gunra/triotechcomsg.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bkksky.com",
+        "discovered": "2026-03-20 16:46:19.997528",
+        "description": "",
+        "link": "/company/ofQJSH_x5VqsKn5B6I1TT",
+        "magnet": null,
+        "screen": "screenshots/gunra/bkkskycom.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SURTECHINC",
+        "discovered": "2026-03-20 16:41:56.965397",
+        "description": "Website: surtechinc.kr\nRevenue: $5 Million\nCompany is a leader in the plating industry, leveraging our accumulated experience and technological prowess to provide the highest quality and service.\nThrough continuous research and development and innovation, we create new value in the plating industry and live up to our customers' trust.As part of this innovation, we are pioneering the adoption of cutting-edge technologies, such as HMI systems, to enhance production efficiency and quality.\nOur cutting-edge technology and expertise, in harmony with our traditions, are the driving force behind providing differentiated solutions to our customers.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "New publication",
+        "discovered": "2026-03-20 16:41:56.006871",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Savvy Hawk",
+        "discovered": "2026-03-20 16:41:37.214408",
+        "description": "Savvy Hawk is a Miami-based IT service provider that specializes in business-focused communication solutions for small to enterprise-level clients. They offer services such as custom cloud solutions, data backup and recovery, and VoIP telephone services, all designed to enhance productivity and business continuity.We will upload 941gb of corporate data soon. Detailed employee personal information (passports, DLs, SSNs, medical records and so on), HR files, client's credit cards and other information, financials, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "theunlimited.co.za",
+        "discovered": "2026-03-20 16:41:35.357642",
+        "description": "The Unlimited offers a full range of insurance products, including health, auto, legal, and life insurance, designed to provide peace of mind and financial prot...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "wardencc.com",
+        "discovered": "2026-03-20 16:41:34.275912",
+        "description": "Warden Construction is a general contractor based in Jacksonville, Florida, specializing in design-build, construction management, renovation, and new construct...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "odayequipment.com",
+        "discovered": "2026-03-20 16:41:32.471570",
+        "description": "Founded in 1935, ODay Equipment specializes in supplying and maintaining equipment for the oil and gas industry, serving customers in the U.S. Midwest.The compa...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
         "post_title": "INP Schweiz",
         "discovered": "2026-03-20 15:40:17.937419",
         "description": "INP Schweiz AG partners with leading companies in the energy generation and transmission sector, providing comprehensive engineering services that include concept development, planning, commissioning, and testing.We will upload 9gb of corporate data soon. Employee personal information (passports, DLs and os on), HR files, financials, client files, contracts with Siemens and others, etc.",
@@ -258,55 +478,5 @@
         "screen": "screenshots/qilin/Accolend.png",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Tecnocad Group",
-        "discovered": "2026-03-19 19:43:20.765510",
-        "description": "",
-        "link": "/companies/tecno",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Tecnocad Group.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vatractor.com",
-        "discovered": "2026-03-19 18:42:29.978733",
-        "description": "Virginia Maryland Tractor specializes in John Deere equipment,  offering a wide selection of new and used machinery, financing options, parts, and service.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Angus-Young Associates",
-        "discovered": "2026-03-19 17:42:03.726783",
-        "description": "Angus-Young is a full-service architectural, landscape architecture, engineering, and interior design firm that offers high-quality design solutions, construction documentation, bid management, and construction services. With over 60 years of experience, the firm collaborates on a diverse range of project types, ensuring informed decisions and integrated designs.We will upload 50gb of corporate data soon. Employee personal information (w9 forms, docs scans), HR data, financials, a bit of client data, contracts and agreements, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Decorative Paving",
-        "discovered": "2026-03-19 16:41:05.317404",
-        "description": "Decorative Paving Company specializes in the manufacturing, installation, and distribution of high-quality paving systems. With over twenty years of experience, the company has established a strong international reputation for excellence in its services.We will upload 20gb of corporate data soon. Employee personal information (passports, DLs and other HR files), projects, financials and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Career Adventures",
-        "discovered": "2026-03-19 16:41:04.002916",
-        "description": "Career Adventures, Inc is a leading employment agency in Shreveport and Bossier City, Louisiana, specializing in temporary and full-time staffing solutions for start-up manufacturing facilities. With over 30 years of experience, they provide tailored programs that enhance employee performance and reduce turnover.We will upload 8gb of corporate data soon. Employee personal information (passports, DLs and so on), lots of HR data, financials, a bit of client data, projects, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
     }
 ]
