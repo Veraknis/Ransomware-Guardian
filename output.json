@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Grupo Coril",
+        "discovered": "2026-03-21 19:39:01.239634",
+        "description": "Banking",
+        "link": "/site/view?uuid=44ef1dbe-d696-3034-94b7-37d05dd2a4b7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Coril.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Muffett",
+        "discovered": "2026-03-21 18:37:40.286966",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/view?uuid=394b2ad0-70c2-3671-be11-c905d0b35773",
+        "magnet": null,
+        "screen": "screenshots/qilin/Muffett.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Nanxun Enterprise Co., Ltd.",
+        "discovered": "2026-03-21 17:37:02.363703",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=30582aba-6b50-39a0-aae2-54d423e3b33a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Nanxun Enterprise Co, Ltd.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "LeBlanc, Fantaci, Villio, LLC",
+        "discovered": "2026-03-21 16:37:58.699047",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IASMOS",
+        "discovered": "2026-03-21 16:37:57.731374",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Millerfoto",
+        "discovered": "2026-03-21 16:37:38.460969",
+        "description": "Consumer Services",
+        "link": "/site/view?uuid=5f7b8fa7-30fd-3afc-9a62-4ac7c2466955",
+        "magnet": null,
+        "screen": "screenshots/qilin/Millerfoto.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Accident Justice LLC",
         "discovered": "2026-03-21 15:38:48.365026",
         "description": "",
@@ -98,225 +158,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Finance"
-    },
-    {
-        "post_title": "AGENCAVI SRL",
-        "discovered": "2026-03-20 17:41:21.656903",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=46636a14-8107-3960-8979-aaa6e867336d",
-        "magnet": null,
-        "screen": "screenshots/qilin/AGENCAVI SRL.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Frontier Financial Group",
-        "discovered": "2026-03-20 16:46:34.180777",
-        "description": "",
-        "link": "/company/38QGDXyCydCZi7pcM6fv8",
-        "magnet": null,
-        "screen": "screenshots/gunra/Frontier Financial Group.png",
-        "group_name": "gunra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "El Ezh Building Contracting LLC",
-        "discovered": "2026-03-20 16:46:33.196057",
-        "description": "",
-        "link": "/company/k6GfXqEjTFJaq-SdZWgVb",
-        "magnet": null,
-        "screen": "screenshots/gunra/El Ezh Building Contracting LLC.png",
-        "group_name": "gunra",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Thai Petroleum & Trading Co., Ltd.",
-        "discovered": "2026-03-20 16:46:32.161556",
-        "description": "",
-        "link": "/company/JbmV2IiHMShyMJoIhLjHS",
-        "magnet": null,
-        "screen": "screenshots/gunra/Thai Petroleum & Trading Co, Ltd.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo PyD",
-        "discovered": "2026-03-20 16:46:31.152245",
-        "description": "",
-        "link": "/company/oHDkjfchNeb5Fk3TgrqtJ",
-        "magnet": null,
-        "screen": "screenshots/gunra/Grupo PyD.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ipiranga Contábil",
-        "discovered": "2026-03-20 16:46:30.192023",
-        "description": "",
-        "link": "/company/Y3SsApOQVgaXv2jLDE6hF",
-        "magnet": null,
-        "screen": "screenshots/gunra/Ipiranga Contábil.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NeoDerm",
-        "discovered": "2026-03-20 16:46:29.187814",
-        "description": "",
-        "link": "/company/UT-1nslyVQKm6Hbe9YJFq",
-        "magnet": null,
-        "screen": "screenshots/gunra/NeoDerm.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "INCARFE S.L.",
-        "discovered": "2026-03-20 16:46:28.209551",
-        "description": "",
-        "link": "/company/FeCzYJNdnF15Vw9OHoytP",
-        "magnet": null,
-        "screen": "screenshots/gunra/INCARFE SL.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eric Davis Dental",
-        "discovered": "2026-03-20 16:46:27.233617",
-        "description": "",
-        "link": "/company/T-jk-flzZoFacIzIiC-l8",
-        "magnet": null,
-        "screen": "screenshots/gunra/Eric Davis Dental.png",
-        "group_name": "gunra",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Ventilaciones Nerual, S.L.",
-        "discovered": "2026-03-20 16:46:26.102450",
-        "description": "",
-        "link": "/company/qrgaGFQRQXEF-POYz_g4z",
-        "magnet": null,
-        "screen": "screenshots/gunra/Ventilaciones Nerual, SL.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Envy Recycling",
-        "discovered": "2026-03-20 16:46:25.164016",
-        "description": "",
-        "link": "/company/Mj7pvJJFOaHWp-zHxm1Oi",
-        "magnet": null,
-        "screen": "screenshots/gunra/Envy Recycling.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VINTAGE HOMESTEAD GmbHy",
-        "discovered": "2026-03-20 16:46:24.203385",
-        "description": "",
-        "link": "/company/HGFBYVZlY2gV4lmZaxjWf",
-        "magnet": null,
-        "screen": "screenshots/gunra/VINTAGE HOMESTEAD GmbHy.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Diamond",
-        "discovered": "2026-03-20 16:46:23.203927",
-        "description": "",
-        "link": "/company/PEB8x_juWat7MUfka-l93",
-        "magnet": null,
-        "screen": "screenshots/gunra/Diamond.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ASPShips",
-        "discovered": "2026-03-20 16:46:22.247586",
-        "description": "",
-        "link": "/company/AzgOIo8UjFtQBb1MdPl--",
-        "magnet": null,
-        "screen": "screenshots/gunra/ASPShips.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "triotech.com.sg",
-        "discovered": "2026-03-20 16:46:21.291472",
-        "description": "",
-        "link": "/company/-jkHgiHpWSP6PRVqrFl4a",
-        "magnet": null,
-        "screen": "screenshots/gunra/triotechcomsg.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bkksky.com",
-        "discovered": "2026-03-20 16:46:19.997528",
-        "description": "",
-        "link": "/company/ofQJSH_x5VqsKn5B6I1TT",
-        "magnet": null,
-        "screen": "screenshots/gunra/bkkskycom.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SURTECHINC",
-        "discovered": "2026-03-20 16:41:56.965397",
-        "description": "Website: surtechinc.kr\nRevenue: $5 Million\nCompany is a leader in the plating industry, leveraging our accumulated experience and technological prowess to provide the highest quality and service.\nThrough continuous research and development and innovation, we create new value in the plating industry and live up to our customers' trust.As part of this innovation, we are pioneering the adoption of cutting-edge technologies, such as HMI systems, to enhance production efficiency and quality.\nOur cutting-edge technology and expertise, in harmony with our traditions, are the driving force behind providing differentiated solutions to our customers.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "New publication",
-        "discovered": "2026-03-20 16:41:56.006871",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Savvy Hawk",
-        "discovered": "2026-03-20 16:41:37.214408",
-        "description": "Savvy Hawk is a Miami-based IT service provider that specializes in business-focused communication solutions for small to enterprise-level clients. They offer services such as custom cloud solutions, data backup and recovery, and VoIP telephone services, all designed to enhance productivity and business continuity.We will upload 941gb of corporate data soon. Detailed employee personal information (passports, DLs, SSNs, medical records and so on), HR files, client's credit cards and other information, financials, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "theunlimited.co.za",
-        "discovered": "2026-03-20 16:41:35.357642",
-        "description": "The Unlimited offers a full range of insurance products, including health, auto, legal, and life insurance, designed to provide peace of mind and financial prot...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "wardencc.com",
-        "discovered": "2026-03-20 16:41:34.275912",
-        "description": "Warden Construction is a general contractor based in Jacksonville, Florida, specializing in design-build, construction management, renovation, and new construct...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "odayequipment.com",
-        "discovered": "2026-03-20 16:41:32.471570",
-        "description": "Founded in 1935, ODay Equipment specializes in supplying and maintaining equipment for the oil and gas industry, serving customers in the U.S. Midwest.The compa...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
     }
 ]
