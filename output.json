@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Resch Maschinenbau",
+        "discovered": "2026-03-21 07:39:15.354938",
+        "description": "Wir setzen in unserer Position als Fertigungsspezialist neben einer qualitativ hochwertigen Fertigung stark auf unsere Rolle als Berater. Unser Anspruch ist es, dass Sie von unserer langjährigen Erfahrung und unserem Know How profitieren. Mit Kreativität und unserem Fachwissen unterstützen wir Sie beispielsweise bereits bei der Entwicklung in DFMA, um Ihre Produkte noch kostengünstiger zu gestalten und die Lieferzeiten zu verkürzen.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Peachtree Group",
+        "discovered": "2026-03-20 22:41:37.159979",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "smythco.com",
+        "discovered": "2026-03-20 21:40:18.603730",
+        "description": "Smyth Companies, LLC has failed to protect its infrastructure. We have successfully exfiltrated high-value corporate data, and the window for private negotiation is now closed.\n\nTHE TERMS:\nYou have 24 HOURS to finalize the settlement. If the deadline expires:\n\n    FULL DISCLOSURE: 1000 GB of interna…",
+        "link": "/EKOWyRZFHpYF8o9Bg0IyEzYToXLhueXD/smythco-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/smythcocom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "TS Lines Philippines",
+        "discovered": "2026-03-20 20:42:02.483880",
+        "description": "Trusted shipping and logistics partner in the Philippines offering container transport and vessel services.",
+        "link": "/posts/7a4b5fcc-c2f5-477e-9118-6b061bbb956e",
+        "magnet": null,
+        "screen": "screenshots/payload/TS Lines Philippines.png",
+        "group_name": "payload",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "WAL Consultant",
+        "discovered": "2026-03-20 20:41:43.184169",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=60bdc9de-7958-3194-8bf0-4ea43bda4ffa",
+        "magnet": null,
+        "screen": "screenshots/qilin/WAL Consultant.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Edifice Design + Architecture",
+        "discovered": "2026-03-20 20:41:40.425704",
+        "description": "We shape our buildings, and afterward our buildings shape us - Winston Churchill At Edifice, we believe architecture and design have a unique physical, spiritua...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "The Farese Group",
+        "discovered": "2026-03-20 20:41:38.891776",
+        "description": "The Farese Group specializes in retirement income planning, investment management, and financial planning, focusing on the distribution phase of retirement. Wit...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
         "post_title": "AGENCAVI SRL",
         "discovered": "2026-03-20 17:41:21.656903",
         "description": "Industrial Machinery & Equipment",
@@ -408,75 +478,5 @@
         "screen": "screenshots/worldleaks/TSN Co, Ltd.png",
         "group_name": "worldleaks",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "University of Mississippi Medical Center (@ummcdata)",
-        "discovered": "2026-03-20 09:15:23.719971",
-        "description": "Leak Direct(https://t.me/ummcdata)\nThe University of Mississippi School of Medicine (UMSOM) is the medical school of the University of Mississippi in the U.S. state of Mississippi. The UMSOM was created in 1903 on the Oxford campus. In 1955, it was moved from the Oxford campus to the state capital of Jackson and was expanded to include the third and fourth years of training. The University of Mississippi Medical Center, the health sciences campus of the University of Mississippi, houses the School of Medicine. As of 2006, there were 413 students enrolled in UMSOM. This includes students enrolled in the four-year M.D. program as well as students enrolled in the seven-year M.D./Ph.D program. \nThe company headquarters is located in 2500 North State Street, Jackson, Mississippi 39216, United States.\n5K - 10K Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/University of Mississippi Medical Center (@ummcdata).png",
-        "group_name": "medusa",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Berkadia Commercial Mortgage LLC",
-        "discovered": "2026-03-20 05:41:17.922863",
-        "description": "Over 5M Salesforce records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 22 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Mercedes-Benz of Arlington",
-        "discovered": "2026-03-20 00:46:15.479568",
-        "description": "Mercedes-Benz of Arlington is a premier dealership specializing in new and pre-owned Mercedes-Benz vehicles, offering a wide selection of luxury cars, SUVs, and...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "G* *r**c*",
-        "discovered": "2026-03-19 21:46:35.781276",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lucky Innovative Manufacturing Corporation",
-        "discovered": "2026-03-19 20:46:17.234463",
-        "description": "Lucky Innovative Manufacturing Corporation is a company based in Lipa City, Batangas, Philippines, specializing in the import and export of textiles and apparel products, including fabrics, hats, gloves, and other items from the garment industry. The company is registered as an international trading participant and is listed in global trade databases as a supplier and importer across various countries. Its operations focus on manufacturing and distributing goods to international markets, leveraging its strategic location in the Philippines.",
-        "link": "/posts/c22cf0b2-6405-40b1-9e83-4b8ce4e8e820",
-        "magnet": null,
-        "screen": "screenshots/payload/Lucky Innovative Manufacturing Corporation.png",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Notaría 89",
-        "discovered": "2026-03-19 20:46:16.181010",
-        "description": "Notaría 89 – Edomex, located in the State of Mexico, offers specialized legal services for various real estate transactions and contracts. Under the leadership of Licenciado Luis Octavio Hermoso y Colín, the notary public provides services such as the granting of powers, purchase contracts, real estate mortgages, and the constitution of societies. The notary public also handles testaments and other notarial services, ensuring all legal requirements are met for property transfers and other legal matters.",
-        "link": "/posts/82447502-f5ea-458b-ad22-ab4cbc122d66",
-        "magnet": null,
-        "screen": "screenshots/payload/Notaría 89.png",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Accolend",
-        "discovered": "2026-03-19 20:45:56.698578",
-        "description": "Finance",
-        "link": "/site/view?uuid=99ec05dd-d493-3c37-a528-9ad6506c3513",
-        "magnet": null,
-        "screen": "screenshots/qilin/Accolend.png",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
