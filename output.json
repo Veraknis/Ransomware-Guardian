@@ -1,5 +1,435 @@
 [
     {
+        "post_title": "O**e*",
+        "discovered": "2026-03-22 01:40:30.775382",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "First Priority Group - Database Leaked",
+        "discovered": "2026-03-22 01:40:25.962194",
+        "description": "",
+        "link": "/news/First_Priority_Group/",
+        "magnet": null,
+        "screen": "screenshots/everest/First Priority Group - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Centro de Especialidades",
+        "discovered": "2026-03-21 21:17:27.565183",
+        "description": "ceaca.net zoominfo.com/c/centro-de-especialidades-anzoátegui-ca---ceaca/467549041 Centro de Especialidades Anzotegui, CA - CEACA is a well-known medical center serving patients in eastern Venezuela and the Caribbean islands since 1971. We offer complete health services including emergency care, specialized medical consultations, surgery, and intensive care for adults and newborns. Our team provides compassionate treatment with a deep respect for human life and patient well-being",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Cortporation Colina",
+        "discovered": "2026-03-21 21:17:26.608500",
+        "description": "corporacioncolina.cl zoominfo.com/c/contacto--corporación-colina/472370437 Corporación Colina is a municipal social development corporation that offers a wide range of services in education and health. Their educational services include various preschools and schools, while their health services encompass community pharmacies, mobile health units, and urgent care facilities. The corporation aims to support the local community, particularly focusing on children, the elderly, and those in need of healthcare. Their intended clients include families, students, and residents of Colina seeking educational and health resources",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Kabelovna Kabex",
+        "discovered": "2026-03-21 21:17:24.594495",
+        "description": "kabex.cz rocketreach.co/kabelovna-kabex-as-profile_b5947399f662772e Kabelovna Kabex is a Czech special cable manufacturer founded in 1994 . The company specializes in cables for nuclear power plants (including LOCA-cables), hermetic cable penetrations, and power cables up to 30 kV . Kabex is a key supplier to Czech and Slovak nuclear plants and has supplied projects like the Kudankulam NPP in India",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Payap University",
+        "discovered": "2026-03-21 21:17:23.561695",
+        "description": "payap.ac.th zoominfo.com/c/payap-university/29803045 Payap University is an international educational institution offering a variety of programs, including interdisciplinary studies and multiple international programs. It provides services such as student exchange programs, language enhancement, and various proficiency testing centers. The university aims to cater to a diverse international clientele seeking higher education and innovation opportunities. Additionally, it hosts events like the International Conference on Lifespan Innovation",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Canal Capital",
+        "discovered": "2026-03-21 21:17:22.261761",
+        "description": "canalcapital.gov.co zoominfo.com/c/canal-capital/459823596 Canal Capital is a media organization based in Bogotá, Colombia, providing a variety of programming that includes documentaries and series focused on social issues, cultural expressions, and community engagement. Their services aim to create transparency and facilitate citizen participation through diverse media content, including programs specifically designed for different age groups and interests. The company primarily targets the local audience in Bogotá, as well as anyone interested in Colombian culture and social matters. Their initiatives also involve collaborations with citizens, promoting awareness on environmental, social, and health issues",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Chase Asia",
+        "discovered": "2026-03-21 21:17:21.341279",
+        "description": "chase.co.th zoominfo.com/c/chase-asia-co-ltd/463991442 Chase Asia is a Thai public company specializing in debt collection and management of non-performing loans (NPLs) . Founded in 1998 and headquartered in Nonthaburi, it also provides lending services and legal collection support",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "BCN Medical",
+        "discovered": "2026-03-21 21:17:20.389114",
+        "description": "bcnmedical.com zoominfo.com/c/bcn-medical/375204700 BCN Medical is a Colombian pharmaceutical distributor based in Bogotá . Founded in 1999, the company distributes medications, supplements, and medical devices. It was acquired by Faes Farma in a merger and acquisition deal.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "BITS Business Information Technology Solutions",
+        "discovered": "2026-03-21 21:17:19.430401",
+        "description": "bits.com.tn zoominfo.com/c/bits-business-information-technology-solutions/462382490 Bits is a computer services company that helps businesses solve real technology challenges. Our team works closely with partners across the tech world to create smart solutions for everyday problems. We pride ourselves on our five-star support and quick response times, making sure every client gets the help they need quickly and effectively",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Vexin Normand",
+        "discovered": "2026-03-21 21:17:18.518331",
+        "description": "cdc-vexin-normand.fr zoominfo.com/c/cdc-vexin-normandfr/1316064619 The Communauté de Communes du Vexin Normand offers a wide range of services including health care, public services, and cultural activities to support the local community. It focuses on various sectors such as health, education, mobility, and economic development, catering to residents and businesses in the Vexin Normand area. The community also promotes tourism and recreational activities, providing facilities like swimming pools, gyms, and libraries. Their initiatives aim to enhance the quality of life and foster a connected and sustainable environment for all inhabitants",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "GPAINNOVA",
+        "discovered": "2026-03-21 21:17:17.592618",
+        "description": "gpainnova.com zoominfo.com/c/gpainnova/467953270 GPAINNOVA is a leading tech company specializing in surface finishing machinery for metal polishing and medical device manufacturing. They are also known for their innovative power electronics and energy storage systems. With a strong global presence, they focus on high-tech, sustainable solutions.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "2LG Prod",
+        "discovered": "2026-03-21 21:17:16.650843",
+        "description": "2lg-prod.com zoominfo.com/c/2lg-prod/532401614 2LG PROD S.r.l. is an Italian company specializing in the design and production of professional cleaning machines and floor maintenance equipment. They offer a wide range of products including scrubber dryers, sweepers, and vacuum cleaners for industrial and commercial use. The company focuses on innovation, reliability, and high performance to meet diverse cleaning needs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Excellentiam",
+        "discovered": "2026-03-21 21:17:15.661776",
+        "description": "excellentiam.co zoominfo.com/c/excellentiam-soluciones-empresariales/372558079 Excellentiam offers comprehensive BPO, KYC, and IT support services. Their solutions include end-to-end Client Knowledge Form management with identity validation and electronic signature, plus a national IT Service Desk for technical support. They also provide on-site or off-site operational outsourcing, advanced document management covering the entire document lifecycle, and specialized consulting to optimize business processes with efficiency and quality.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Economia",
+        "discovered": "2026-03-21 21:17:14.691381",
+        "description": "economia.cz zoominfo.com/c/economia-as/426681440 Economia is a leading Czech media house founded in 1990, publishing prestigious economic and professional periodicals. The company publishes Hospodářské noviny daily and Ekonom weekly. With approximately 500 to 1,000 employees, Economia reaches 66 percent of Czech business owners and top management, positioning itself as a symbol of free journalism and valuable content. The media house focuses on digital transformation while maintaining high-quality print publications, serving decision-makers and opinion leaders across the country.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Media"
+    },
+    {
+        "post_title": "MicroChem",
+        "discovered": "2026-03-21 21:17:13.733572",
+        "description": "microchem.pt zoominfo.com/c/microchem/480964446 Microchem - Ensaios e Analises Tecnicas, Lda is a Portuguese technical testing and analysis laboratory founded in 2006, located in Matosinhos, Porto. The company specialises in technical testing and analytical services (CAE 71200), supporting industries with quality control, material testing, and compliance verification.Microchem serves as a trusted partner for businesses requiring precise and reliable laboratory analysis.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Cerio",
+        "discovered": "2026-03-21 21:17:12.758577",
+        "description": "cerio.io  zoominfo.com/c/rockport-networks-inc/1330256755 Cerio is an accelerated computing platform focused on next-generation data center infrastructure for AI workloads . The company specialises in disaggregated infrastructure — decoupling compute, memory, and storage resources beyond a single PCIe domain to enable elastic capacity and optimized data movement at scale . Their approach aims to eliminate the \"capacity trap\" of traditional tightly integrated systems, making AI infrastructure more agile and efficient",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "MEDICUS SHUPPAN",
+        "discovered": "2026-03-21 21:17:11.827428",
+        "description": "medica.co.jp zoominfo.com/c/medicus-shuppan-co-ltd/463963337 is dedicated to providing enjoyable learning experiences for healthcare professionals through a variety of products and services, including seminar books and digital content. The company aims to support the education of medical practitioners and contribute to the future of healthcare. They also focus on sustainability and creating valuable content that serves as a backbone in the medical field. Their intended clients include healthcare professionals, authors, and bookstores",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Rajagiri Hospital",
+        "discovered": "2026-03-21 21:17:10.893098",
+        "description": "rajagirihospital.com zoominfo.com/c/rajagiri-hospital/358774283 At Rajagiri Hospital, the company's Neonatal Intensive Care Unit (NICU) provides care for babies after birth who need special attention. Some of the reasons include preterm birth, low birth weight, breathing difficulty, low blood sugar and infection. The company's level 2 beds in the nursery provide care for some babies who are convalescing but who continue to require the services of a specialized hospital. Physicians, nurses and support staff who work in the NICU are available 24 hours a day, 7 days a week. .Parents are encouraged to be active members of the team that takes care of their infant while in the company's unit. The company's nurses understand the unique medical needs of infants and can teach parents to understand how best to care for their babies",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Micro Leasing",
+        "discovered": "2026-03-21 21:17:09.897116",
+        "description": "microleasingplc.com zoominfo.com/c/micro-leasing/482150678 Micro Leasing Public Company Limited specializes in providing financing services for second-hand trucks, including truck purchase loans and refinancing options. The company targets clients in need of commercial vehicles, positioning itself as a leader in the second-hand truck financing sector in Thailand. In addition to truck financing, they also offer motorcycle loans and insurance brokerage services. Micro Leasing aims to support business expansion and improve liquidity for its clients while providing excellent consulting services",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Groupe Caddac",
+        "discovered": "2026-03-21 21:17:08.596805",
+        "description": "groupe-caddac.com Groupe CADDAC is a French construction materials company founded in 1962, specializing in ready-mix concrete (RMC), prefabricated concrete elements, aggregates, and building materials. Headquartered in Donges, Pays de la Loire, the group operates 19 concrete plants along France's Atlantic coast and employs between 200 and 500 people. It ranks among the top 7 regional ready-mix concrete producers in France",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Elundini",
+        "discovered": "2026-03-21 21:17:06.627836",
+        "description": "elundini.gov.za zoominfo.com/c/elundini/425741285 Elundini Local Municipality (ELM) is dedicated to nurturing the history and sustainable growth of its communities within the Joe Gqabi District of the Eastern Cape province. The municipality is recognized for its good governance, particularly in AG audits. ELM offers various services aimed at community development, including training interventions in fields such as environment, media, technical skills, and public administration. Its intended clients include local residents, businesses, and organizations seeking to invest and engage in community initiatives",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "toncandigital.com",
+        "discovered": "2026-03-21 21:14:26.659494",
+        "description": "Obtenga impresión confiable y rápida para las tareas diarias de oficina con nuestra gama de impres...",
+        "link": "/post/2c2b2c99e1a74a465e451f5fbf2b9ef2",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/toncandigitalcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ssskwt.com",
+        "discovered": "2026-03-21 21:14:25.608938",
+        "description": "Specialised Security Systems Co. (SSS) is a leading system integrator based in Kuwait, providing tur...",
+        "link": "/post/2b2f505594bbe53268146efb0a931126",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/ssskwtcom.png",
+        "group_name": "lockbit5",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "roamingnetworks.rs",
+        "discovered": "2026-03-21 21:14:24.521785",
+        "description": "Dot Networks has been present on the market since 2008, continuously growing in line with modern tre...",
+        "link": "/post/299b9855b87997113ed9b912246f0d12",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/roamingnetworksrs.png",
+        "group_name": "lockbit5",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "manchester.com.mx",
+        "discovered": "2026-03-21 21:14:23.536803",
+        "description": "Manchester inicia sus operaciones en el año 1939. Su fundador, Don Espiridion Canavati tiene la visi...",
+        "link": "/post/d7118542676fcc6f0b5ea674278390a6",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/manchestercommx.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "glop.mx",
+        "discovered": "2026-03-21 21:14:22.570685",
+        "description": "We are a firm of accountants specialized in the accounting and auditing area, with vast experience i...",
+        "link": "/post/7eb07f4b92b90e7ceb846e980f340427",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/glopmx.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "flamagasindia.com",
+        "discovered": "2026-03-21 21:14:21.579853",
+        "description": "Flamagas India Pvt. Ltd.\n\nAddress:\n121/2C, Mambakkam Post, Mambakkam, Vandalur,\nTamil Nadu - 600...",
+        "link": "/post/1d712bad2d3febda1f002e3b1fce0e32",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/flamagasindiacom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "charliebears.com.au",
+        "discovered": "2026-03-21 21:14:20.525072",
+        "description": "Charlie Bears specializes in creating collectable and affordable teddy bears, each uniquely handcraf...",
+        "link": "/post/652dbedb0ca334fb4df84a8627094bcf",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/charliebearscomau.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rovinj-rovigno.hr",
+        "discovered": "2026-03-21 21:14:19.531495",
+        "description": "The beautiful coast of Istria, contiguous to the Lim Canal, is where you will find the most romantic...",
+        "link": "/post/44cf616910b461d311ec0ae5e688b2f6",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/rovinj-rovignohr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "breastcare.com",
+        "discovered": "2026-03-21 21:14:18.295021",
+        "description": "Dr. John G. West is a pioneering general surgeon who established Orange County&#039;s first breast c...",
+        "link": "/post/facc3c4bf7aecf469d1483acd63dd3ef",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/breastcarecom.png",
+        "group_name": "lockbit5",
+        "sector": "Government"
+    },
+    {
+        "post_title": "jean.com.tw",
+        "discovered": "2026-03-21 21:14:16.570626",
+        "description": "Jean Co.,Ltd engages in the construction and development business in Taiwan. It operates through fou...",
+        "link": "/post/237fa3eb64a358be64e49e6c434a0337",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/jeancomtw.png",
+        "group_name": "lockbit5",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "sidercentersas.com",
+        "discovered": "2026-03-21 21:14:14.387850",
+        "description": "La Sider Center sas opera nella sua sede di Marcianise, Zona Industriale Asi Sud.\nLa struttura lavo...",
+        "link": "/post/a711a958afb408020d488f335ebd3611",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/sidercentersascom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "sesi.org.br",
+        "discovered": "2026-03-21 21:14:13.298015",
+        "description": "SESI provides quality education, health, and cultural services aimed at improving the quality of lif...",
+        "link": "/post/7060431d197d7ab73d607463c43fb45e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/sesiorgbr.png",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "senai.br",
+        "discovered": "2026-03-21 21:14:12.267432",
+        "description": "SENAI is a leading institution in professional education, offering a wide range of undergraduate, sp...",
+        "link": "/post/c3d58f7a9b985669f35a5245f7d04064",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/senaibr.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "fiepe.org.br",
+        "discovered": "2026-03-21 21:14:11.277701",
+        "description": "Fiepe is an industrial organization that helps local businesses grow and succeed. They work directly...",
+        "link": "/post/f94731d92b8239f02e082bcc40c44717",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/fiepeorgbr.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "luetz-binder.de",
+        "discovered": "2026-03-21 21:14:10.256051",
+        "description": "Bereits im Jahr 1972 gründete Bernd Lütz-Binder die Kanzlei in Landau in der Pfalz. Heute führt sein...",
+        "link": "/post/0775b1d6b7dc39613eaae1eac1a33981",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/luetz-binderde.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gov.krd",
+        "discovered": "2026-03-21 21:14:09.260815",
+        "description": "The Ministry of Higher Education and Scientific Research oversees higher education institutions in t...",
+        "link": "/post/f920e5616f921aae64557a9973e9dac3",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/govkrd.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "ombudsman.gov.ws",
+        "discovered": "2026-03-21 21:14:08.217748",
+        "description": "Ombudsman Western Australia is an impartial and independent office serving the community by investig...",
+        "link": "/post/3c3161e1104d3b4e0a316eafa3276c44",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/ombudsmangovws.png",
+        "group_name": "lockbit5",
+        "sector": "Government"
+    },
+    {
+        "post_title": "nandrin.be",
+        "discovered": "2026-03-21 21:14:07.248501",
+        "description": "Nandrin (French pronunciation: [nɑ̃dʁɛ̃]) is a municipality of Wallonia located in the province of L...",
+        "link": "/post/269a55607e525090a63c3d631564f1c0",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/nandrinbe.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "maritasdenim.com",
+        "discovered": "2026-03-21 21:14:05.821520",
+        "description": "Maritaş is a denim production company that emphasizes circularity, sustainability, and innovation in...",
+        "link": "/post/4be2978cb14c610e7d28079a6a8eaf86",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/maritasdenimcom.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "isoledilcappotti.it",
+        "discovered": "2026-03-21 21:14:04.151923",
+        "description": "La professionalità al Vostro servizio\n\nISOLEDIL una garanzia di qualità ed esperienza...\n\nGrazie...",
+        "link": "/post/afac816b2a2e3700dcc5bbb41febb0a1",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/isoledilcappottiit.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Al-Safi Oil Company (PURE IN) Hacked",
+        "discovered": "2026-03-21 20:38:19.847097",
+        "description": "We succeeded last week in penetrating the oil .... And We never punish until We have sent a messenger.",
+        "link": "pages/rumaila.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/Al-Safi Oil Company (PURE IN) Hacked.png",
+        "group_name": "nasir security",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Grupo Coril",
         "discovered": "2026-03-21 19:39:01.239634",
         "description": "Banking",
@@ -88,75 +518,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Resch Maschinenbau",
-        "discovered": "2026-03-21 07:39:15.354938",
-        "description": "Wir setzen in unserer Position als Fertigungsspezialist neben einer qualitativ hochwertigen Fertigung stark auf unsere Rolle als Berater. Unser Anspruch ist es, dass Sie von unserer langjährigen Erfahrung und unserem Know How profitieren. Mit Kreativität und unserem Fachwissen unterstützen wir Sie beispielsweise bereits bei der Entwicklung in DFMA, um Ihre Produkte noch kostengünstiger zu gestalten und die Lieferzeiten zu verkürzen.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Peachtree Group",
-        "discovered": "2026-03-20 22:41:37.159979",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "smythco.com",
-        "discovered": "2026-03-20 21:40:18.603730",
-        "description": "Smyth Companies, LLC has failed to protect its infrastructure. We have successfully exfiltrated high-value corporate data, and the window for private negotiation is now closed.\n\nTHE TERMS:\nYou have 24 HOURS to finalize the settlement. If the deadline expires:\n\n    FULL DISCLOSURE: 1000 GB of interna…",
-        "link": "/EKOWyRZFHpYF8o9Bg0IyEzYToXLhueXD/smythco-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/smythcocom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "TS Lines Philippines",
-        "discovered": "2026-03-20 20:42:02.483880",
-        "description": "Trusted shipping and logistics partner in the Philippines offering container transport and vessel services.",
-        "link": "/posts/7a4b5fcc-c2f5-477e-9118-6b061bbb956e",
-        "magnet": null,
-        "screen": "screenshots/payload/TS Lines Philippines.png",
-        "group_name": "payload",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "WAL Consultant",
-        "discovered": "2026-03-20 20:41:43.184169",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=60bdc9de-7958-3194-8bf0-4ea43bda4ffa",
-        "magnet": null,
-        "screen": "screenshots/qilin/WAL Consultant.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Edifice Design + Architecture",
-        "discovered": "2026-03-20 20:41:40.425704",
-        "description": "We shape our buildings, and afterward our buildings shape us - Winston Churchill At Edifice, we believe architecture and design have a unique physical, spiritua...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "The Farese Group",
-        "discovered": "2026-03-20 20:41:38.891776",
-        "description": "The Farese Group specializes in retirement income planning, investment management, and financial planning, focusing on the distribution phase of retirement. Wit...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
     }
 ]
