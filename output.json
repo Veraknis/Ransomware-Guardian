@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Cannavative Group",
+        "discovered": "2026-03-22 14:41:54.240060",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SAS CAP ESTEL HOTEL",
+        "discovered": "2026-03-22 14:41:53.270699",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Semenya Furumele Consulting Engineers",
+        "discovered": "2026-03-22 14:41:52.300107",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "**o**d* *h**a*y ***v***s",
+        "discovered": "2026-03-22 14:41:51.309716",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HOPPECKE Singapore",
+        "discovered": "2026-03-22 12:40:58.952219",
+        "description": "HOPPECKE Asia Pacific Pte Ltd is the regional headquarters of the HOPPECKE Batteries Group in Singapore. It manages sales, service, and distribution for the Asia-Pacific region, providing industrial energy storage solutions. The company supports sectors including renewable energy, rail, telecommunications, and logistics.",
+        "link": "/posts/6a8eaa9a-dc53-4147-a018-506dfbd68c1a",
+        "magnet": null,
+        "screen": "screenshots/payload/HOPPECKE Singapore.png",
+        "group_name": "payload",
+        "sector": "Energy"
+    },
+    {
         "post_title": "O**e*",
         "discovered": "2026-03-22 01:40:30.775382",
         "description": "",
@@ -487,36 +537,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Millerfoto.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Accident Justice LLC",
-        "discovered": "2026-03-21 15:38:48.365026",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fidanque Hermanos e Hijos, S.A",
-        "discovered": "2026-03-21 15:38:47.372571",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "**V**C** *E**C** ***EM**I**",
-        "discovered": "2026-03-21 15:38:46.048769",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
         "sector": "Unknown"
     }
 ]
