@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Estudio O'Farrell",
+        "discovered": "2026-03-24 09:41:50.249898",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kiswire",
+        "discovered": "2026-03-23 23:42:49.817184",
+        "description": "",
+        "link": "/blog/disclosures/69c1acc58f1d14b7434fc1f0",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Kiswire.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "iGLS",
+        "discovered": "2026-03-23 22:41:54.865340",
+        "description": "IGLS Laboratorio specializes in genetic and reproductive immunology, providing advanced diagnostic services tailored for assisted reproduction centers, specialists, hospitals, and healthcare institutions worldwide. The company is committed to innovation, utilizing cutting-edge technology and scientific advancements to deliver precise solutions for fertility issues. Their extensive range of services includes preconception, preimplantation, and prenatal testing, aimed at both medical professionals and patients facing infertility challenges.",
+        "link": "/posts/a98b42af-a6d6-4981-b5f0-a6c2f8d438c1",
+        "magnet": null,
+        "screen": "screenshots/payload/iGLS.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "The Most Massive Hack Operation in UAE History. It's Just The Beginning of Nightmares...",
+        "discovered": "2026-03-23 22:41:36.507278",
+        "description": "Wating for US.....",
+        "link": "#",
+        "magnet": null,
+        "screen": "screenshots/nasir security/The Most Massive Hack Operation in UAE History It's Just The Beginning of Nightmares.png",
+        "group_name": "nasir security",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Most Massive Hack Operation in UAE History and Its Just The Bigginig the Nightmare Tha",
+        "discovered": "2026-03-23 21:43:19.070895",
+        "description": "Wating for US.....",
+        "link": "#",
+        "magnet": null,
+        "screen": null,
+        "group_name": "nasir security",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Groupe SFPI",
         "discovered": "2026-03-23 18:42:38.431802",
         "description": "Building Materials",
@@ -88,75 +138,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Ameriprise Financial, Inc.",
-        "discovered": "2026-03-23 08:41:29.510139",
-        "description": "Salesforce records containing PII and over 200GB compressed Sharepoint internal corporate data have been compromised.   This is a final warning to reach out by 25 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Infinite Campus, Inc.",
-        "discovered": "2026-03-23 08:41:28.483640",
-        "description": "Salesforce records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 25 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Tuna.uy",
-        "discovered": "2026-03-23 07:40:45.887604",
-        "description": "",
-        "link": "/victims/dd850a16-f650-4c5c-9f5f-d4864450dcef",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/Tunauy.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*o**e-*a** du ***n*c****",
-        "discovered": "2026-03-23 06:40:49.082076",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*L* **i**n*-**n**** GmbH",
-        "discovered": "2026-03-23 06:40:48.112710",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "**l**a* & ***c** **n*n**** I**e*t**** *L*",
-        "discovered": "2026-03-23 06:40:47.091860",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JDV Products",
-        "discovered": "2026-03-23 02:41:48.598926",
-        "description": "",
-        "link": "/blog/disclosures/69b214a48f1d14b7430934e7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/JDV Products.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
