@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "All Real Estate Title Solutions",
+        "discovered": "2026-03-24 20:39:22.621707",
+        "description": "",
+        "link": "topic.php?id=k5pR5wjvyoGVJ",
+        "magnet": null,
+        "screen": "screenshots/play/All Real Estate Title Solutions.png",
+        "group_name": "play",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Roxiticus Golf Club",
+        "discovered": "2026-03-24 20:39:21.672535",
+        "description": "",
+        "link": "topic.php?id=3DGQsm1jagV4xV",
+        "magnet": null,
+        "screen": "screenshots/play/Roxiticus Golf Club.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pinnacle",
+        "discovered": "2026-03-24 20:39:20.684269",
+        "description": "",
+        "link": "topic.php?id=QBgj83ap5rxgDe",
+        "magnet": null,
+        "screen": "screenshots/play/Pinnacle.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ascent Asset Group",
+        "discovered": "2026-03-24 20:39:19.684243",
+        "description": "",
+        "link": "topic.php?id=0YCDehYPJABm1Q",
+        "magnet": null,
+        "screen": "screenshots/play/Ascent Asset Group.png",
+        "group_name": "play",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Capital Wholesale Drug",
+        "discovered": "2026-03-24 20:39:18.615195",
+        "description": "",
+        "link": "topic.php?id=gBEXSajCsUYnQu",
+        "magnet": null,
+        "screen": "screenshots/play/Capital Wholesale Drug.png",
+        "group_name": "play",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Block Engineering",
+        "discovered": "2026-03-24 20:39:16.976187",
+        "description": "",
+        "link": "topic.php?id=sDPb1TozpBJOdp",
+        "magnet": null,
+        "screen": "screenshots/play/Block Engineering.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Window & Door Design Center of Florida",
+        "discovered": "2026-03-24 20:39:15.778464",
+        "description": "",
+        "link": "topic.php?id=oBG897C16zFvDj",
+        "magnet": null,
+        "screen": "screenshots/play/Window & Door Design Center of Florida.png",
+        "group_name": "play",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "cerboniservices.com",
+        "discovered": "2026-03-24 20:38:58.539480",
+        "description": "",
+        "link": "/blog/disclosures/69c2be7f8f1d14b74366cb23",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cerboniservicescom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aroostook Mental Health Services",
+        "discovered": "2026-03-24 19:40:24.281381",
+        "description": "0",
+        "link": "/site/view?uuid=99440aae-cecb-3eb0-872a-68cfd4cd1e6f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Aroostook Mental Health Services.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Retail Centenario",
+        "discovered": "2026-03-24 19:40:23.272887",
+        "description": "Business Services",
+        "link": "/site/view?uuid=bd40fb13-ecde-323d-ac86-d89deb3612e2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Retail Centenario.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Mooers Immigration",
+        "discovered": "2026-03-24 17:39:18.335212",
+        "description": "Mooers Immigration is dedicated to the practice of immigration and nationality law, offering services such as employment-based andfamily-based immigration, naturalization, and strategic compliance planning. The firm focuses on delivering cost-effective solutions to help individuals and families achieve their American dreams and navigate complex immigration processes.We will upload 138gb of corporate data soon. Lots of client documents (passports (LIONEL MESSI, LUCIANO ACOSTA passports and visasand other interesting documents), DLs, SSNs, visas, credit cardsand so on), financials, confidential docs, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
         "post_title": "The Russell's Law Firm",
         "discovered": "2026-03-24 15:39:00.278020",
         "description": "The Russell's Law Firm specializes in personal injury, wrongful death, criminal defense, and DUI cases, offering expert legal representation for their clients. They aim to support individuals whohave been harmed due to negligence or charged with crimes, emphasizing that everyone deserves fair treatment under the law.We will upload 15gb of corporate data soon. We took a lot of personal data of their clients (passports, DLs, SSNs, death\\birth certs, addresses, phones, emails, medical records, and so on), police reports, court docs, lots of confidential files, financials, etc.",
@@ -108,15 +218,5 @@
         "screen": null,
         "group_name": "nasir security",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Groupe SFPI",
-        "discovered": "2026-03-23 18:42:38.431802",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=f760e0ba-22d7-3d48-996f-3f8a466d3b69",
-        "magnet": null,
-        "screen": "screenshots/qilin/Groupe SFPI.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
