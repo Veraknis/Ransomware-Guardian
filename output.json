@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "glenmarkpharma.com",
+        "discovered": "2026-03-25 16:34:50.201902",
+        "description": "",
+        "link": "/blog/disclosures/69c3d3d18f1d14b7437c320c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/glenmarkpharmacom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HLF Heizung-Sanitär GmbH",
+        "discovered": "2026-03-25 15:35:15.811921",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Anbogen Therapeutics Inc.",
+        "discovered": "2026-03-25 15:35:14.869769",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Eastex Environmental Laboratory",
+        "discovered": "2026-03-25 15:35:13.922726",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "J***T*P, **C",
+        "discovered": "2026-03-25 15:35:12.829607",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vancompare Insurance",
+        "discovered": "2026-03-25 11:40:40.665243",
+        "description": "Vancompare.co.uk is a UK-based online comparison service that helps users find the best insurance deals for cars, homes, businesses, and other types of coverage. The site allows users to quickly compare prices and terms from multiple insurance providers to choose the most suitable and cost-effective policy.",
+        "link": "/posts/cdfce212-ac3c-4271-a05a-b5cceb8cc366",
+        "magnet": null,
+        "screen": "screenshots/payload/Vancompare Insurance.png",
+        "group_name": "payload",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Berkadia Commercial Mortgage, LLC. (berkadia.com)",
         "discovered": "2026-03-25 01:40:31.573798",
         "description": "Salesforce records containing PII and other internal corporate data have been compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care.",
@@ -148,65 +208,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Finance"
-    },
-    {
-        "post_title": "The Russell's Law Firm",
-        "discovered": "2026-03-24 15:39:00.278020",
-        "description": "The Russell's Law Firm specializes in personal injury, wrongful death, criminal defense, and DUI cases, offering expert legal representation for their clients. They aim to support individuals whohave been harmed due to negligence or charged with crimes, emphasizing that everyone deserves fair treatment under the law.We will upload 15gb of corporate data soon. We took a lot of personal data of their clients (passports, DLs, SSNs, death\\birth certs, addresses, phones, emails, medical records, and so on), police reports, court docs, lots of confidential files, financials, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "French Engineering",
-        "discovered": "2026-03-24 15:38:59.299542",
-        "description": "French Engineering offers a range of services in Traffic Engineering, Water Resources Engineering, and Sustainable Planning and Design Consulting in Pennsylvania, West Virginia, and Maryland. Their services include traffic data collection, traffic signal design, roadway safety audits, and transportation impact studies, aimed at supporting new commercial, industrial, and residential developments.We will upload 72gb of corporate data soon. Employee documents (passports, DLs, addresses, phones, emails, medical records, creditcards), financials, confidential docs, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Gustavo Preston",
-        "discovered": "2026-03-24 15:38:58.255264",
-        "description": "Gustavo Preston Company specializes in designing, selling, and servicing commercial pump solutions, including water boosters, wastewater pumps, and circulator pumps. They offer a range of products such as packaged pumping systems, elevator pumps, and commercial water heaters, along with comprehensive pump equipment serviceslike maintenance and repairs.We will upload 31gb of corporate data soon. Employee documents (passports, DLs, addresses, phones, emails, medical records, creditcards), financials, client information, confidential docs, NDAs,etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Concord Components, Wefapress, Environment Masters, FairmontHot Springs Resort,Road Americ",
-        "discovered": "2026-03-24 15:38:57.214034",
-        "description": "We obtained about 17gb of data of the following companies:JConcord Components, Inc. was founded in 1995 in Concord, Nebraska as a retail catalog company, supplying hard-to-find electronic components. Wefapress is a leading manufacturer of plastic products, specializing in high-quality semi-finished products, custom plastic parts, and various profiles and guides. At Environment Masters, the company prides ourselves on delivering honest, reliable service. If the company tell you, you'll be better off with Crystal Springs HVAC repair, you can believe what the company say.Fairmont Hot Springs Resort, home to Canada's largest natural mineral hot springs, is a year-round destination nestled in the heart of the British Columbia Rocky Mountains and the stunning Columbia Valley.Road America, located in Elkhart Lake, Wisconsin, is one of the world's fastest permanent road racing tracks, offering a variety of motorsport events and experiences. The company provides a rangeof services including driving schools, karting, and various racing events such as the MotoAmerica Superbikes and the INDYCAR Grand Prix. You will find personal employee personal data (hundreds of SSNs and so on), medical information, client information, numerous project files, confidential files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "M3 Group",
-        "discovered": "2026-03-24 15:38:55.077971",
-        "description": "Founded in Lansing more than 11 years ago by Dowling, M3 Group prides itself on being the only local agency that offers the most comprehensive array of integrat...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "pellenc.com",
-        "discovered": "2026-03-24 14:16:36.056767",
-        "description": "Country: France\r\nRevenue: $543.1 Million\r\nStorage: 228GB\r\n\r\nDescription:\r\nPellenc is a manufacturer of battery-powered equipment and tools for agriculture, green spaces and local communities. Pellenc is headquartered in Pertuis, France.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/alp-001/pellenccom.png",
-        "group_name": "alp-001",
-        "sector": "Manufacturing"
     }
 ]
