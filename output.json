@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "pulpdent.com",
+        "discovered": "2026-03-25 20:37:01.004755",
+        "description": "",
+        "link": "/blog/disclosures/69c42f858f1d14b7438430bc",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/pulpdentcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Live! Casino",
+        "discovered": "2026-03-25 17:15:21.323033",
+        "description": "Live! Casino is a premier gaming and entertainment company located in Greensburg, Pennsylvania. Opened in 2020, the property was developed and is operated by The Cordish Companies, a privately held, family-owned real estate and entertainment firm founded in 1910. The casino operates under the nationally recognized “Live!” brand, which integrates gaming, dining, and live entertainment into a single destination experience. The facility features hundreds of slot machines, table games, a poker room, and a sportsbook, alongside several restaurants and event spaces. It serves as a major regional entertainment hub, supporting tourism, employment, and economic growth in western Pennsylvania. \nThe company headquarters is located in 7002 Arundel Mills Cir #7777, Hanover, MD 21076, USA.\n1K - 5K Employees",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Live! Casino.png",
+        "group_name": "medusa",
+        "sector": "Hospitality"
+    },
+    {
         "post_title": "glenmarkpharma.com",
         "discovered": "2026-03-25 16:34:50.201902",
         "description": "",
@@ -98,115 +118,5 @@
         "screen": "screenshots/chaos/kdmpopcom.png",
         "group_name": "chaos",
         "sector": "Technology"
-    },
-    {
-        "post_title": "All Real Estate Title Solutions",
-        "discovered": "2026-03-24 20:39:22.621707",
-        "description": "",
-        "link": "topic.php?id=k5pR5wjvyoGVJ",
-        "magnet": null,
-        "screen": "screenshots/play/All Real Estate Title Solutions.png",
-        "group_name": "play",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Roxiticus Golf Club",
-        "discovered": "2026-03-24 20:39:21.672535",
-        "description": "",
-        "link": "topic.php?id=3DGQsm1jagV4xV",
-        "magnet": null,
-        "screen": "screenshots/play/Roxiticus Golf Club.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pinnacle",
-        "discovered": "2026-03-24 20:39:20.684269",
-        "description": "",
-        "link": "topic.php?id=QBgj83ap5rxgDe",
-        "magnet": null,
-        "screen": "screenshots/play/Pinnacle.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ascent Asset Group",
-        "discovered": "2026-03-24 20:39:19.684243",
-        "description": "",
-        "link": "topic.php?id=0YCDehYPJABm1Q",
-        "magnet": null,
-        "screen": "screenshots/play/Ascent Asset Group.png",
-        "group_name": "play",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Capital Wholesale Drug",
-        "discovered": "2026-03-24 20:39:18.615195",
-        "description": "",
-        "link": "topic.php?id=gBEXSajCsUYnQu",
-        "magnet": null,
-        "screen": "screenshots/play/Capital Wholesale Drug.png",
-        "group_name": "play",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Block Engineering",
-        "discovered": "2026-03-24 20:39:16.976187",
-        "description": "",
-        "link": "topic.php?id=sDPb1TozpBJOdp",
-        "magnet": null,
-        "screen": "screenshots/play/Block Engineering.png",
-        "group_name": "play",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Window & Door Design Center of Florida",
-        "discovered": "2026-03-24 20:39:15.778464",
-        "description": "",
-        "link": "topic.php?id=oBG897C16zFvDj",
-        "magnet": null,
-        "screen": "screenshots/play/Window & Door Design Center of Florida.png",
-        "group_name": "play",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "cerboniservices.com",
-        "discovered": "2026-03-24 20:38:58.539480",
-        "description": "",
-        "link": "/blog/disclosures/69c2be7f8f1d14b74366cb23",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cerboniservicescom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aroostook Mental Health Services",
-        "discovered": "2026-03-24 19:40:24.281381",
-        "description": "0",
-        "link": "/site/view?uuid=99440aae-cecb-3eb0-872a-68cfd4cd1e6f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Aroostook Mental Health Services.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Retail Centenario",
-        "discovered": "2026-03-24 19:40:23.272887",
-        "description": "Business Services",
-        "link": "/site/view?uuid=bd40fb13-ecde-323d-ac86-d89deb3612e2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Retail Centenario.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Mooers Immigration",
-        "discovered": "2026-03-24 17:39:18.335212",
-        "description": "Mooers Immigration is dedicated to the practice of immigration and nationality law, offering services such as employment-based andfamily-based immigration, naturalization, and strategic compliance planning. The firm focuses on delivering cost-effective solutions to help individuals and families achieve their American dreams and navigate complex immigration processes.We will upload 138gb of corporate data soon. Lots of client documents (passports (LIONEL MESSI, LUCIANO ACOSTA passports and visasand other interesting documents), DLs, SSNs, visas, credit cardsand so on), financials, confidential docs, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
     }
 ]
