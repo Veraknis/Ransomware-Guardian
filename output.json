@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Berkadia Commercial Mortgage, LLC. (berkadia.com)",
+        "discovered": "2026-03-25 01:40:31.573798",
+        "description": "Salesforce records containing PII and other internal corporate data have been compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "PWNA Plains",
+        "discovered": "2026-03-24 23:40:15.968974",
+        "description": "",
+        "link": "/blog/disclosures/69c30c758f1d14b7436d1047",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/PWNA Plains.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "jenningsk12.org",
+        "discovered": "2026-03-24 21:39:57.433444",
+        "description": "",
+        "link": "/blog/disclosures/69c2e4b58f1d14b743698da2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/jenningsk12org.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "kdmpop.com",
+        "discovered": "2026-03-24 21:39:54.852194",
+        "description": "FINAL WARNING: KDM P.O.P. SOLUTIONS\n\nSTATUS: PRE-RELEASE (48 HOURS REMAINING)\nDATA VOLUME: 600 GB ARCHIVE\n\nNegotiations are on the verge of collapse due to management negligence.\n\nULTIMATUM:\n\nThe company has 48 HOURS to reach an agreement.\n\nIf the timer reaches zero, 600 GB of corporate secrets and…",
+        "link": "/QbsoKIzgo7XVC2vpXYqK4ntmltet0e4d/kdmpop-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/kdmpopcom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
         "post_title": "All Real Estate Title Solutions",
         "discovered": "2026-03-24 20:39:22.621707",
         "description": "",
@@ -168,55 +208,5 @@
         "screen": "screenshots/alp-001/pellenccom.png",
         "group_name": "alp-001",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Estudio O'Farrell",
-        "discovered": "2026-03-24 09:41:50.249898",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kiswire",
-        "discovered": "2026-03-23 23:42:49.817184",
-        "description": "",
-        "link": "/blog/disclosures/69c1acc58f1d14b7434fc1f0",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kiswire.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "iGLS",
-        "discovered": "2026-03-23 22:41:54.865340",
-        "description": "IGLS Laboratorio specializes in genetic and reproductive immunology, providing advanced diagnostic services tailored for assisted reproduction centers, specialists, hospitals, and healthcare institutions worldwide. The company is committed to innovation, utilizing cutting-edge technology and scientific advancements to deliver precise solutions for fertility issues. Their extensive range of services includes preconception, preimplantation, and prenatal testing, aimed at both medical professionals and patients facing infertility challenges.",
-        "link": "/posts/a98b42af-a6d6-4981-b5f0-a6c2f8d438c1",
-        "magnet": null,
-        "screen": "screenshots/payload/iGLS.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "The Most Massive Hack Operation in UAE History. It's Just The Beginning of Nightmares...",
-        "discovered": "2026-03-23 22:41:36.507278",
-        "description": "Wating for US.....",
-        "link": "#",
-        "magnet": null,
-        "screen": "screenshots/nasir security/The Most Massive Hack Operation in UAE History It's Just The Beginning of Nightmares.png",
-        "group_name": "nasir security",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Most Massive Hack Operation in UAE History and Its Just The Bigginig the Nightmare Tha",
-        "discovered": "2026-03-23 21:43:19.070895",
-        "description": "Wating for US.....",
-        "link": "#",
-        "magnet": null,
-        "screen": null,
-        "group_name": "nasir security",
-        "sector": "Unknown"
     }
 ]
