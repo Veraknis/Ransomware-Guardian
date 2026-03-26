@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "TPIS Industrial Services",
+        "discovered": "2026-03-26 19:37:57.435306",
+        "description": "",
+        "link": "topic.php?id=8vllI41DbaahMT",
+        "magnet": null,
+        "screen": "screenshots/play/TPIS Industrial Services.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "BMW Group Internal Documents/Recon",
+        "discovered": "2026-03-26 18:38:12.984157",
+        "description": "",
+        "link": "/victims/5afc65a1-3eee-4aed-bab5-1415c88e8474",
+        "magnet": null,
+        "screen": "screenshots/cipherforce/BMW Group Internal DocumentsRecon.png",
+        "group_name": "cipherforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bedrosians Tile & Stone",
+        "discovered": "2026-03-26 18:38:10.943040",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=b9fb2970-bd1d-35e7-9423-af0188bef6cb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bedrosians Tile & Stone.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Transgas",
+        "discovered": "2026-03-26 18:38:09.999788",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/view?uuid=91c9f523-2c84-3a96-96e8-e4c62c58c4c8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Transgas.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Washoe Tribe",
+        "discovered": "2026-03-26 18:38:08.971293",
+        "description": "0",
+        "link": "/site/view?uuid=c48c928e-1bc7-3081-8e14-5e3ead8427e0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Washoe Tribe.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Maderas Del Noroeste",
+        "discovered": "2026-03-26 18:38:07.985830",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=93adfb44-a1e9-3d10-af72-a0730487c374",
+        "magnet": null,
+        "screen": "screenshots/qilin/Maderas Del Noroeste.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Voltamper",
+        "discovered": "2026-03-26 18:38:07.045118",
+        "description": "Business Services",
+        "link": "/site/view?uuid=91606b27-0bf6-372f-a293-f2b9ac9705e7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Voltamper.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arnaud",
+        "discovered": "2026-03-26 18:38:06.087492",
+        "description": "Freight & Logistics Services",
+        "link": "/site/view?uuid=20057788-a72e-3343-a32c-c670e7791d66",
+        "magnet": null,
+        "screen": "screenshots/qilin/Arnaud.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "www.davidhelfandlaw.com",
+        "discovered": "2026-03-26 18:38:04.836808",
+        "description": "",
+        "link": "/blog/disclosures/69c5609c8f1d14b743a08e12",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwdavidhelfandlawcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sacor",
+        "discovered": "2026-03-26 17:37:51.845617",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=43a1694d-5e28-379f-93b3-5d83141b1980",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sacor.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Kaemmerlen Solutions",
+        "discovered": "2026-03-26 17:37:50.813282",
+        "description": "Construction",
+        "link": "/site/view?uuid=e0d7d7b2-1c84-36e1-a7a5-7236a9448df6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kaemmerlen Solutions.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Louise Medical Center",
+        "discovered": "2026-03-26 17:37:49.718327",
+        "description": "0",
+        "link": "/site/view?uuid=8f2120b3-8464-3b2e-9336-26f167ec4460",
+        "magnet": null,
+        "screen": "screenshots/qilin/Louise Medical Center.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "ires.ma",
+        "discovered": "2026-03-26 17:37:47.343501",
+        "description": "Institut Royal des Études Stratégiques is a state—owned analytical center in Morocco, which i...",
+        "link": "/page_company.php?id=144",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/iresma.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Education"
+    },
+    {
+        "post_title": "2m.ma",
+        "discovered": "2026-03-26 17:37:46.347611",
+        "description": "2M TV (2m.ma ) is a national television channel in Morocco, which is engaged in television broadc...",
+        "link": "/page_company.php?id=145",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/2mma.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Media"
+    },
+    {
+        "post_title": "centrum.sk",
+        "discovered": "2026-03-26 17:37:45.073747",
+        "description": "Centrum.sk (centrum.sk ) is an online portal in Slovakia that provides an email service, news and...",
+        "link": "/page_company.php?id=146",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/centrumsk.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Media"
+    },
+    {
         "post_title": "Sportradar.io",
         "discovered": "2026-03-26 16:39:07.527801",
         "description": "",
@@ -158,25 +308,5 @@
         "screen": "screenshots/nasir security/UAE Customs (Federal Customs Authority) - ACCESS GRANTED !.png",
         "group_name": "nasir security",
         "sector": "Government"
-    },
-    {
-        "post_title": "pulpdent.com",
-        "discovered": "2026-03-25 20:37:01.004755",
-        "description": "",
-        "link": "/blog/disclosures/69c42f858f1d14b7438430bc",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/pulpdentcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Live! Casino",
-        "discovered": "2026-03-25 17:15:21.323033",
-        "description": "Live! Casino is a premier gaming and entertainment company located in Greensburg, Pennsylvania. Opened in 2020, the property was developed and is operated by The Cordish Companies, a privately held, family-owned real estate and entertainment firm founded in 1910. The casino operates under the nationally recognized “Live!” brand, which integrates gaming, dining, and live entertainment into a single destination experience. The facility features hundreds of slot machines, table games, a poker room, and a sportsbook, alongside several restaurants and event spaces. It serves as a major regional entertainment hub, supporting tourism, employment, and economic growth in western Pennsylvania. \nThe company headquarters is located in 7002 Arundel Mills Cir #7777, Hanover, MD 21076, USA.\n1K - 5K Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Live! Casino.png",
-        "group_name": "medusa",
-        "sector": "Hospitality"
     }
 ]
