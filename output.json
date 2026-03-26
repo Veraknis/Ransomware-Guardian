@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "LP Kolding",
+        "discovered": "2026-03-26 09:37:26.451637",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=57472fec-ef21-389a-81c6-c20a81230808",
+        "magnet": null,
+        "screen": "screenshots/qilin/LP Kolding.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "ssp-ce.de",
+        "discovered": "2026-03-26 09:37:23.842800",
+        "description": "SSP Airport Gastronomiegesellschaft mbH operates in the air transport, airport, and aviation services sectors. The company employs between 250 and 499 people an...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Interact Technology Solutions",
+        "discovered": "2026-03-26 09:37:21.132007",
+        "description": "Leading company in providing the latest technologies and business solutions",
+        "link": "Companies/interactts",
+        "magnet": null,
+        "screen": "screenshots/pear/Interact Technology Solutions.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Monmouth University",
+        "discovered": "2026-03-26 09:37:20.134346",
+        "description": "Private university in West Long Branch, New Jersey",
+        "link": "Companies/monmouth",
+        "magnet": null,
+        "screen": "screenshots/pear/Monmouth University.png",
+        "group_name": "pear",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Noi Hotels",
+        "discovered": "2026-03-26 08:38:19.084299",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=c04ae26c-5a2a-3c09-9b4e-b1365d513638",
+        "magnet": null,
+        "screen": "screenshots/qilin/Noi Hotels.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "UAE Customs (Federal Customs Authority) - ACCESS GRANTED !",
+        "discovered": "2026-03-26 00:37:16.687140",
+        "description": "Peace be upon the Resistance and its martyrs. .... God is Great.",
+        "link": "pages/uae-customs.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/UAE Customs (Federal Customs Authority) - ACCESS GRANTED !.png",
+        "group_name": "nasir security",
+        "sector": "Government"
+    },
+    {
         "post_title": "pulpdent.com",
         "discovered": "2026-03-25 20:37:01.004755",
         "description": "",
@@ -78,45 +138,5 @@
         "screen": "screenshots/payload/Vancompare Insurance.png",
         "group_name": "payload",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Berkadia Commercial Mortgage, LLC. (berkadia.com)",
-        "discovered": "2026-03-25 01:40:31.573798",
-        "description": "Salesforce records containing PII and other internal corporate data have been compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "PWNA Plains",
-        "discovered": "2026-03-24 23:40:15.968974",
-        "description": "",
-        "link": "/blog/disclosures/69c30c758f1d14b7436d1047",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/PWNA Plains.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "jenningsk12.org",
-        "discovered": "2026-03-24 21:39:57.433444",
-        "description": "",
-        "link": "/blog/disclosures/69c2e4b58f1d14b743698da2",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/jenningsk12org.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kdmpop.com",
-        "discovered": "2026-03-24 21:39:54.852194",
-        "description": "FINAL WARNING: KDM P.O.P. SOLUTIONS\n\nSTATUS: PRE-RELEASE (48 HOURS REMAINING)\nDATA VOLUME: 600 GB ARCHIVE\n\nNegotiations are on the verge of collapse due to management negligence.\n\nULTIMATUM:\n\nThe company has 48 HOURS to reach an agreement.\n\nIf the timer reaches zero, 600 GB of corporate secrets and…",
-        "link": "/QbsoKIzgo7XVC2vpXYqK4ntmltet0e4d/kdmpop-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/kdmpopcom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
     }
 ]
