@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Sportradar.io",
+        "discovered": "2026-03-26 16:39:07.527801",
+        "description": "",
+        "link": "/victims/5fefea08-244b-41dd-b404-dd8599e70480",
+        "magnet": null,
+        "screen": "screenshots/cipherforce/Sportradario.png",
+        "group_name": "cipherforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "iam.ma",
+        "discovered": "2026-03-26 16:39:04.086144",
+        "description": "Maroc Telecom is a telecommunications company in Morocco that provides mobile communications, Int...",
+        "link": "/page_company.php?id=143",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/iamma.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ETFSA",
+        "discovered": "2026-03-26 14:39:12.464555",
+        "description": "",
+        "link": "/blog/disclosures/69c5317f8f1d14b7439c9337",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ETFSA.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ZenBusiness, Inc.",
+        "discovered": "2026-03-26 12:39:04.144553",
+        "description": "Several terabytes from Snowflake, Mixpanel, Salesforce, and ect. have been compromised.   This is a final warning to reach out by 30 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED] Irec Sas",
+        "discovered": "2026-03-26 12:38:50.372088",
+        "description": "",
+        "link": "/r/4eb8b5bd4f8395d79d12f239cd07cd4b3e699df0",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED] Irec Sas.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Living in green, s. r. o.",
+        "discovered": "2026-03-26 12:38:47.849545",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/view?uuid=05d0168e-d612-372f-a138-a539c20e6af6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Living in green, s r o.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mac Interiors",
+        "discovered": "2026-03-26 12:38:46.828735",
+        "description": "Construction",
+        "link": "/site/view?uuid=ebc25d38-20f6-34c6-b807-fe269015e502",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mac Interiors.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Goodwill",
+        "discovered": "2026-03-26 11:37:43.750903",
+        "description": "https://goodwillinc.org\n\t\t\t\t\t\t\t\t\tGoodwill Industries of North Central Pennsylvania is dedicated to turning donations into jobs, providing employment for more than 700 people across 15 counties in Pennsylvania and one county in New York.\nHowever, they have been extremely negligent and irresponsible regarding security, resulting in the compromise and online leak of hundreds of pieces of personal data belonging to employees and partners, as well as financial documents.",
+        "link": "http://3ssy6kepkwajapmra262il4tnufgbujf2boz7odgigc3e46dzdqd6wad.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Goodwill.png",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "kalimaresort.com",
+        "discovered": "2026-03-26 10:36:38.265848",
+        "description": "Kalima Resort & Spa is a luxurious 5-star resort located just a few minutes from Patong Beach in Phuket, known for its stunning sea views and hillside setting. ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "pridesol.com",
+        "discovered": "2026-03-26 10:36:37.273352",
+        "description": "Pride Solvents & Chemical Co. is an authorized distributor of the largest and most reputable global manufacturers of chemical products and solvents.\nThis list i...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
         "post_title": "LP Kolding",
         "discovered": "2026-03-26 09:37:26.451637",
         "description": "Building Materials",
@@ -78,65 +178,5 @@
         "screen": "screenshots/medusa/Live! Casino.png",
         "group_name": "medusa",
         "sector": "Hospitality"
-    },
-    {
-        "post_title": "glenmarkpharma.com",
-        "discovered": "2026-03-25 16:34:50.201902",
-        "description": "",
-        "link": "/blog/disclosures/69c3d3d18f1d14b7437c320c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/glenmarkpharmacom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HLF Heizung-Sanitär GmbH",
-        "discovered": "2026-03-25 15:35:15.811921",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Anbogen Therapeutics Inc.",
-        "discovered": "2026-03-25 15:35:14.869769",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eastex Environmental Laboratory",
-        "discovered": "2026-03-25 15:35:13.922726",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "J***T*P, **C",
-        "discovered": "2026-03-25 15:35:12.829607",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vancompare Insurance",
-        "discovered": "2026-03-25 11:40:40.665243",
-        "description": "Vancompare.co.uk is a UK-based online comparison service that helps users find the best insurance deals for cars, homes, businesses, and other types of coverage. The site allows users to quickly compare prices and terms from multiple insurance providers to choose the most suitable and cost-effective policy.",
-        "link": "/posts/cdfce212-ac3c-4271-a05a-b5cceb8cc366",
-        "magnet": null,
-        "screen": "screenshots/payload/Vancompare Insurance.png",
-        "group_name": "payload",
-        "sector": "Finance"
     }
 ]
