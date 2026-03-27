@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "Edward Beiner",
+        "discovered": "2026-03-27 15:59:38.814221",
+        "description": "Edward Beiner specializes in designer sunglasses and luxury eyewear, offering a blend of fashion and vision. Their product range includes sunglasses and eyeglas...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PROMOSFERA S.R.l.",
+        "discovered": "2026-03-27 15:59:35.279718",
+        "description": "",
+        "link": "/4401a68f-4fb6-4e94-a6af-c9d26c8a9c2a",
+        "magnet": null,
+        "screen": "screenshots/black nevas/PROMOSFERA SRl.png",
+        "group_name": "black nevas",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quality Data Service, Inc.",
+        "discovered": "2026-03-27 15:59:34.325562",
+        "description": "",
+        "link": "/5adc2d41-1a26-4cba-a9e6-8dbd13bd64a4",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Quality Data Service, Inc.png",
+        "group_name": "black nevas",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "KINAS SOLICITORS",
+        "discovered": "2026-03-27 15:59:33.299722",
+        "description": "",
+        "link": "/41d35858-aae9-405c-9441-c13f700ca975",
+        "magnet": null,
+        "screen": "screenshots/black nevas/KINAS SOLICITORS.png",
+        "group_name": "black nevas",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Paramount Health Services & Insurance TPA Pvt. Ltd",
+        "discovered": "2026-03-27 15:59:32.255393",
+        "description": "",
+        "link": "/56b42200-1bda-4b80-b043-a63746a92da3",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Paramount Health Services & Insurance TPA Pvt Ltd.png",
+        "group_name": "black nevas",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "The company MST (Sanko Makina and ASKO Holding)",
+        "discovered": "2026-03-27 15:59:31.212206",
+        "description": "",
+        "link": "/b0d5c3ac-d2f9-4e6c-97d0-a49255c54de0",
+        "magnet": null,
+        "screen": "screenshots/black nevas/The company MST (Sanko Makina and ASKO Holding).png",
+        "group_name": "black nevas",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "E-CON Packaging Private Limited",
+        "discovered": "2026-03-27 15:59:30.121529",
+        "description": "",
+        "link": "/f18b1b95-574c-49ae-8817-b76b0b75e5be",
+        "magnet": null,
+        "screen": "screenshots/black nevas/E-CON Packaging Private Limited.png",
+        "group_name": "black nevas",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Heng An Standard Life Insurance",
+        "discovered": "2026-03-27 15:59:29.099766",
+        "description": "",
+        "link": "/a269572e-ffee-4c63-8038-ed994eb007aa",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Heng An Standard Life Insurance.png",
+        "group_name": "black nevas",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Axiomatic Technologies Corporation",
+        "discovered": "2026-03-27 15:59:27.712598",
+        "description": "Axiomatic Technologies is a quality designer and manufacturer of electronic controllers and power management converters Robust andreliable electronic controls optimize working machines for performance and emission control. Axiomatic Technologies is located inCanada.We will upload 10gb of corporate data soon. Employee personal documents (credit cards, medical records and other HR files), project files, financials docs, contracts and agreements, client files,NDAs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Quality Carton and Converting",
+        "discovered": "2026-03-27 15:59:26.690672",
+        "description": "Quality Carton and Converting, LLC. specializes in food and beverage paperboard packaging, offering both in-stock items and customfolding carton solutions. Their product range includes various types of bakery and donut boxes, pizza boxes, cupcake inserts, andutility trays.We will upload corporate data soon. Employee personal documents (credit cards, DLs and so on), HR files, project files, financialsdocs, payment details, contracts and agreements, client files, confidential files, NDAs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Sheladia Associates",
+        "discovered": "2026-03-27 15:59:25.315223",
+        "description": "Sheladia Associates, Inc. is a multidisciplinary consulting firm specializing in architectural, engineering, and development consulting services. Established in 1974, the company focuses on infrastructure projects in sectors such as transportation, water supply, sanitation, and energy across various regions including Asia, Africa, and the Americas.We will upload corporate data soon. Big amount of employee personal documents (passports, driver licenses, credit cards, immigration docs and so on), project files, medical information, financials, contracts and agreements, client files, internal confidential files, NDAs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ITWAL",
+        "discovered": "2026-03-27 14:58:49.022941",
+        "description": "Grocery Retail",
+        "link": "/site/view?uuid=0728931c-ab04-3bfb-a7e9-b58c202db0ff",
+        "magnet": null,
+        "screen": "screenshots/qilin/ITWAL.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "BHS Bau",
+        "discovered": "2026-03-27 14:58:47.213019",
+        "description": "Based in Dresden, BHS Bau- und Handelsgruppe GmbH & Co. KG has extensive experience in the extraction of building materials, asphalt production, and civil engineering. The company offers a comprehensive service package for deep and road construction.We will upload 10gb of corporate data soon. Employee personal documents, project files, financials docs, contracts and agreements,client files, NDAs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Kerjaya Prospek Group",
+        "discovered": "2026-03-27 13:50:56.666183",
+        "description": "Construction",
+        "link": "/site/view?uuid=ce720cbe-9973-3142-8d32-0ee69d248dc6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kerjaya Prospek Group.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "ACR1.COM Commercial Roofing",
+        "discovered": "2026-03-27 13:50:55.715225",
+        "description": "Construction",
+        "link": "/site/view?uuid=dafb295c-d408-3806-a136-307fc11bc94c",
+        "magnet": null,
+        "screen": "screenshots/qilin/ACR1COM Commercial Roofing.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Frontier Technologies",
+        "discovered": "2026-03-27 13:50:53.900171",
+        "description": "New Frontier Technologies (NFT) is a system integrator specializing in bridging the gap between industrial automation and businessdata, providing solutions such as SCADA systems, PLCs, remote operations, and cyber security. Their services cater to a variety of sectors, including oil and gas, discrete manufacturing, processmanufacturing, and food and beverage.We will upload 60gb of corporate data soon. Project files, financials docs, contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Big Thumb",
+        "discovered": "2026-03-27 10:15:46.014382",
+        "description": "BigThumb IT Consultants provides a range of IT solutions including managed real-time professional support and cybersecurity services tailored to meet individual business needs. They focus on helping organizations manage their IT across mobile devices, ensuring optimal pricing and plans through dedicated account management. The company emphasizes the importance of agility in business, enabling clients to adapt to market shifts and growth opportunities with a digital workspace. Their security experts specialize in compliance with PCI, HIPAA, and GLBA, addressing the increasing threats of cyber attacks for businesses of all sizes. \nThe company headquarters is located in 6235 Enterprise Ct, Dublin, OH 43016-3293, United States.\n201-500 Employees",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Big Thumb.png",
+        "group_name": "medusa",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Schlam Stone & Dolan LLP",
+        "discovered": "2026-03-27 09:51:35.202589",
+        "description": "Data breach at a law firm representing clients ranging from government institutions to Fortune 500 companies.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/26XYDvSlEdcotLH1sNZE3Y7tz7Sf3ZoQz7aCECJoY8NCcpOaHcJBBm7tQgszFjd7fBinAv97fWtbPaRSOBGlERVlEUGlB",
+        "magnet": null,
+        "screen": "screenshots/anubis/Schlam Stone & Dolan LLP.png",
+        "group_name": "anubis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Scalian",
+        "discovered": "2026-03-27 09:51:34.278692",
+        "description": "Data breach at a major french IT company.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/uzNTItpu+oRiQuAFxkyYYSxw7R4pZSQsS8nKWjIMmjOBSaaEfW6UoeDSX2aZnMkSuyNmBz7O6fX9LRW6ymxgkpIb01LM1VX",
+        "magnet": null,
+        "screen": "screenshots/anubis/Scalian.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "STS Travel",
+        "discovered": "2026-03-27 09:51:30.404427",
+        "description": "STS Travel was founded in 1984 by two Cornell University graduates who shared one common goal: to specialize in the marketing and operation of travel services d...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Groupe Courtois Automobiles",
+        "discovered": "2026-03-27 09:51:29.419582",
+        "description": "Groupe Courtois is an automotive dealership specializing in Honda vehicles, with over 40 years of experience in the automotive industry. They operate in Chambou...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "ActionPower",
         "discovered": "2026-03-27 05:34:41.954517",
         "description": "",
@@ -248,85 +458,5 @@
         "screen": "screenshots/eraleign (apt73)/iamma.png",
         "group_name": "eraleign (apt73)",
         "sector": "Technology"
-    },
-    {
-        "post_title": "ETFSA",
-        "discovered": "2026-03-26 14:39:12.464555",
-        "description": "",
-        "link": "/blog/disclosures/69c5317f8f1d14b7439c9337",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ETFSA.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ZenBusiness, Inc.",
-        "discovered": "2026-03-26 12:39:04.144553",
-        "description": "Several terabytes from Snowflake, Mixpanel, Salesforce, and ect. have been compromised.   This is a final warning to reach out by 30 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED] Irec Sas",
-        "discovered": "2026-03-26 12:38:50.372088",
-        "description": "",
-        "link": "/r/4eb8b5bd4f8395d79d12f239cd07cd4b3e699df0",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED] Irec Sas.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Living in green, s. r. o.",
-        "discovered": "2026-03-26 12:38:47.849545",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=05d0168e-d612-372f-a138-a539c20e6af6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Living in green, s r o.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mac Interiors",
-        "discovered": "2026-03-26 12:38:46.828735",
-        "description": "Construction",
-        "link": "/site/view?uuid=ebc25d38-20f6-34c6-b807-fe269015e502",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mac Interiors.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Goodwill",
-        "discovered": "2026-03-26 11:37:43.750903",
-        "description": "https://goodwillinc.org\n\t\t\t\t\t\t\t\t\tGoodwill Industries of North Central Pennsylvania is dedicated to turning donations into jobs, providing employment for more than 700 people across 15 counties in Pennsylvania and one county in New York.\nHowever, they have been extremely negligent and irresponsible regarding security, resulting in the compromise and online leak of hundreds of pieces of personal data belonging to employees and partners, as well as financial documents.",
-        "link": "http://3ssy6kepkwajapmra262il4tnufgbujf2boz7odgigc3e46dzdqd6wad.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Goodwill.png",
-        "group_name": "interlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "kalimaresort.com",
-        "discovered": "2026-03-26 10:36:38.265848",
-        "description": "Kalima Resort & Spa is a luxurious 5-star resort located just a few minutes from Patong Beach in Phuket, known for its stunning sea views and hillside setting. ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "pridesol.com",
-        "discovered": "2026-03-26 10:36:37.273352",
-        "description": "Pride Solvents & Chemical Co. is an authorized distributor of the largest and most reputable global manufacturers of chemical products and solvents.\nThis list i...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
     }
 ]
