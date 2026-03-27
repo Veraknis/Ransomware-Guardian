@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Sheraton Hotel",
+        "discovered": "2026-03-27 19:34:14.010407",
+        "description": "",
+        "link": "/companies/0433968074",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Sheraton Hotel.png",
+        "group_name": "worldleaks",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "CIM",
+        "discovered": "2026-03-27 19:34:13.019229",
+        "description": "",
+        "link": "/companies/5682629549",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/CIM.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "E****b",
+        "discovered": "2026-03-27 19:34:08.583327",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Orient Petroleum",
+        "discovered": "2026-03-27 17:38:01.319172",
+        "description": "",
+        "link": "/companies/8250496889",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Orient Petroleum.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Leighton",
+        "discovered": "2026-03-27 17:38:00.981227",
+        "description": "",
+        "link": "/companies/1504221778",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Leighton.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fondation Boghossian",
+        "discovered": "2026-03-27 17:37:57.483573",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=9c324476-eb4b-39b9-884b-98baa22c9d21",
+        "magnet": null,
+        "screen": "screenshots/qilin/Fondation Boghossian.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Inside the Rosenthal Agency Data Exposure: What Was Never Meant to Be Seen.",
+        "discovered": "2026-03-27 17:37:43.905518",
+        "description": "#Leaknet #ConfidentialLeak #DataSpill #PrivacyBreach #TheRosenthalAgency #RosenthalAgency #Insurance #LifeInsurance",
+        "link": "view_article.php?article=ZkF14bHxER7pjUQHIx5utVMHCXHoFXg9iuyMne6LNt4T8SkxuFzdchxAWEznNfIs",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Inside the Rosenthal Agency Data Exposure: What Was Never Meant to Be Seen.png",
+        "group_name": "leaknet",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "GeoMechanics Technologies",
+        "discovered": "2026-03-27 17:37:37.214721",
+        "description": "GeoMechanics Technologies, formerly called Terralog Technologies USA, was founded in 1994 by Dr. Michael S. Bruno. It originally operated as the US subsidiary of Terralog Technologies Inc in Canada. The new name, adopted August 1, 2012, reflects our primary and expanding focus on Advanced Geomechanics from the wellbore to the reservoir scale.We will upload corporate data soon. Employee personal documents (passports, driver licenses, SSNs and so on), project files, medical information, financials, contracts and agreements (Bentley andothers), client files, NDAs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Edward Beiner",
         "discovered": "2026-03-27 15:59:38.814221",
         "description": "Edward Beiner specializes in designer sunglasses and luxury eyewear, offering a blend of fashion and vision. Their product range includes sunglasses and eyeglas...",
@@ -288,175 +368,5 @@
         "screen": "screenshots/embargo/ludlumscom.png",
         "group_name": "embargo",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TPIS Industrial Services",
-        "discovered": "2026-03-26 19:37:57.435306",
-        "description": "",
-        "link": "topic.php?id=8vllI41DbaahMT",
-        "magnet": null,
-        "screen": "screenshots/play/TPIS Industrial Services.png",
-        "group_name": "play",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "BMW Group Internal Documents/Recon",
-        "discovered": "2026-03-26 18:38:12.984157",
-        "description": "",
-        "link": "/victims/5afc65a1-3eee-4aed-bab5-1415c88e8474",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/BMW Group Internal DocumentsRecon.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bedrosians Tile & Stone",
-        "discovered": "2026-03-26 18:38:10.943040",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/view?uuid=b9fb2970-bd1d-35e7-9423-af0188bef6cb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bedrosians Tile & Stone.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Transgas",
-        "discovered": "2026-03-26 18:38:09.999788",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/view?uuid=91c9f523-2c84-3a96-96e8-e4c62c58c4c8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Transgas.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Washoe Tribe",
-        "discovered": "2026-03-26 18:38:08.971293",
-        "description": "0",
-        "link": "/site/view?uuid=c48c928e-1bc7-3081-8e14-5e3ead8427e0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Washoe Tribe.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Maderas Del Noroeste",
-        "discovered": "2026-03-26 18:38:07.985830",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=93adfb44-a1e9-3d10-af72-a0730487c374",
-        "magnet": null,
-        "screen": "screenshots/qilin/Maderas Del Noroeste.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Voltamper",
-        "discovered": "2026-03-26 18:38:07.045118",
-        "description": "Business Services",
-        "link": "/site/view?uuid=91606b27-0bf6-372f-a293-f2b9ac9705e7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Voltamper.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Arnaud",
-        "discovered": "2026-03-26 18:38:06.087492",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=20057788-a72e-3343-a32c-c670e7791d66",
-        "magnet": null,
-        "screen": "screenshots/qilin/Arnaud.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "www.davidhelfandlaw.com",
-        "discovered": "2026-03-26 18:38:04.836808",
-        "description": "",
-        "link": "/blog/disclosures/69c5609c8f1d14b743a08e12",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwdavidhelfandlawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sacor",
-        "discovered": "2026-03-26 17:37:51.845617",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=43a1694d-5e28-379f-93b3-5d83141b1980",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sacor.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Kaemmerlen Solutions",
-        "discovered": "2026-03-26 17:37:50.813282",
-        "description": "Construction",
-        "link": "/site/view?uuid=e0d7d7b2-1c84-36e1-a7a5-7236a9448df6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kaemmerlen Solutions.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Louise Medical Center",
-        "discovered": "2026-03-26 17:37:49.718327",
-        "description": "0",
-        "link": "/site/view?uuid=8f2120b3-8464-3b2e-9336-26f167ec4460",
-        "magnet": null,
-        "screen": "screenshots/qilin/Louise Medical Center.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "ires.ma",
-        "discovered": "2026-03-26 17:37:47.343501",
-        "description": "Institut Royal des Études Stratégiques is a state—owned analytical center in Morocco, which i...",
-        "link": "/page_company.php?id=144",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/iresma.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Education"
-    },
-    {
-        "post_title": "2m.ma",
-        "discovered": "2026-03-26 17:37:46.347611",
-        "description": "2M TV (2m.ma ) is a national television channel in Morocco, which is engaged in television broadc...",
-        "link": "/page_company.php?id=145",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/2mma.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Media"
-    },
-    {
-        "post_title": "centrum.sk",
-        "discovered": "2026-03-26 17:37:45.073747",
-        "description": "Centrum.sk (centrum.sk ) is an online portal in Slovakia that provides an email service, news and...",
-        "link": "/page_company.php?id=146",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/centrumsk.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Sportradar.io",
-        "discovered": "2026-03-26 16:39:07.527801",
-        "description": "",
-        "link": "/victims/5fefea08-244b-41dd-b404-dd8599e70480",
-        "magnet": null,
-        "screen": "screenshots/cipherforce/Sportradario.png",
-        "group_name": "cipherforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "iam.ma",
-        "discovered": "2026-03-26 16:39:04.086144",
-        "description": "Maroc Telecom is a telecommunications company in Morocco that provides mobile communications, Int...",
-        "link": "/page_company.php?id=143",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/iamma.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Technology"
     }
 ]
