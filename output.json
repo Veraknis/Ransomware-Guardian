@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "meridenct.gov",
+        "discovered": "2026-03-27 21:33:41.067265",
+        "description": "",
+        "link": "/blog/disclosures/69b1930c8f1d14b743fd3bb1",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/meridenctgov.png",
+        "group_name": "inc ransom",
+        "sector": "Government"
+    },
+    {
         "post_title": "Sheraton Hotel",
         "discovered": "2026-03-27 19:34:14.010407",
         "description": "",
@@ -287,86 +297,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ActionPower",
-        "discovered": "2026-03-27 05:34:41.954517",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "crypto24",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A*v**c** *e**c** ***em**i**",
-        "discovered": "2026-03-27 01:39:15.888101",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BreachForums version 5",
-        "discovered": "2026-03-27 01:39:10.258808",
-        "description": "BreachForums has been run by many fakes, but by us, following the FBI seizure on 10 Oct 2025. Maintaining such an ecosystem is a waste of our time. There was an unauthorised leak on 9 Jan 2026. Ever since then, false personas going by “N/A“ and “Indra“ were successfully able to restore a similar-looking “legitimate“ forum. All the current forums are fake [ .sb, .ac, .fi, .bf, .us, ect.]. If they continue to exist, we'll leak all the BF backups, including every private message, emails, IP addresses, posts, ect. We have exploits for all 1.8 versions of MyBB.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "carlysle.net",
-        "discovered": "2026-03-27 00:38:54.405102",
-        "description": "Carlysle.net belongs to Carlysle Engineering, Inc., an engineering firm based in Boston.\nThe company specializes in designing, installing, and maintaining fire protection systems such as sprinklers.\nThey also provide building inspections and consulting services to ensure compliance with safety and insurance requirements.",
-        "link": "/posts/788aae8a-ed19-43c2-b23d-f9ec73282173",
-        "magnet": null,
-        "screen": "screenshots/payload/carlyslenet.png",
-        "group_name": "payload",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Durable Superior Casters",
-        "discovered": "2026-03-26 23:38:28.890897",
-        "description": "Durable Superior Casters, Inc. was established in 1991. In a relatively short period of time Durable USA has become the finest manufacturer and importer of cast...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "njpcs.org",
-        "discovered": "2026-03-26 22:39:59.281347",
-        "description": "NJ Pain Care Specialists is a leading interventional pain management practice lo...",
-        "link": "/leaks/69b91b239c439c5f4505d926",
-        "magnet": null,
-        "screen": "screenshots/lynx/njpcsorg.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Netalia",
-        "discovered": "2026-03-26 22:39:57.785218",
-        "description": "Business Services",
-        "link": "/site/view?uuid=1ca0f966-be15-3af3-91b0-09432ca9c4d1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Netalia.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ludlums.com",
-        "discovered": "2026-03-26 21:39:13.398908",
-        "description": "Ludlum Measurements, Inc.\r\n(LMI), founded in 1962 in Sweetwater, Texas, designs, manufactures, and supplies radiation detection and measurement equipment used w...",
-        "link": "/#/post/23ad763c-b5d6-489c-b4c1-bb30b8fdf08c",
-        "magnet": null,
-        "screen": "screenshots/embargo/ludlumscom.png",
-        "group_name": "embargo",
         "sector": "Manufacturing"
     }
 ]
