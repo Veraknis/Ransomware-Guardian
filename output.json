@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "European Commission (*.europa.eu)",
+        "discovered": "2026-03-28 14:58:11.760342",
+        "description": "Over 350 GB+ of data was compromised, including data dumps of mail servers, databases, confidential documents, contracts, and much more sensitive material.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "A A Al Moosa Enterprises (ARENCO Group)",
+        "discovered": "2026-03-28 14:58:08.701900",
+        "description": "A.A. Al Moosa Enterprises, also known as ARENCO Group, is a diversified conglomerate based in Dubai, with interests spanning architectural and engineering consulting, real estate, hospitality, car rentals, manufacturing, and interior design. Established in 1971, the group has grown into one of the top family-owned business groups in Dubai, focusing on quality, service, and innovation.",
+        "link": "/posts/c41b26fb-d454-4eb3-a1d1-e07b9abb64a1",
+        "magnet": null,
+        "screen": "screenshots/payload/A A Al Moosa Enterprises (ARENCO Group).png",
+        "group_name": "payload",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Genobank",
+        "discovered": "2026-03-28 13:56:03.743876",
+        "description": "",
+        "link": "/companies/genobank-2",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Genobank.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "meridenct.gov",
         "discovered": "2026-03-27 21:33:41.067265",
         "description": "",
@@ -198,105 +228,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "ITWAL",
-        "discovered": "2026-03-27 14:58:49.022941",
-        "description": "Grocery Retail",
-        "link": "/site/view?uuid=0728931c-ab04-3bfb-a7e9-b58c202db0ff",
-        "magnet": null,
-        "screen": "screenshots/qilin/ITWAL.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "BHS Bau",
-        "discovered": "2026-03-27 14:58:47.213019",
-        "description": "Based in Dresden, BHS Bau- und Handelsgruppe GmbH & Co. KG has extensive experience in the extraction of building materials, asphalt production, and civil engineering. The company offers a comprehensive service package for deep and road construction.We will upload 10gb of corporate data soon. Employee personal documents, project files, financials docs, contracts and agreements,client files, NDAs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Kerjaya Prospek Group",
-        "discovered": "2026-03-27 13:50:56.666183",
-        "description": "Construction",
-        "link": "/site/view?uuid=ce720cbe-9973-3142-8d32-0ee69d248dc6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kerjaya Prospek Group.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "ACR1.COM Commercial Roofing",
-        "discovered": "2026-03-27 13:50:55.715225",
-        "description": "Construction",
-        "link": "/site/view?uuid=dafb295c-d408-3806-a136-307fc11bc94c",
-        "magnet": null,
-        "screen": "screenshots/qilin/ACR1COM Commercial Roofing.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Frontier Technologies",
-        "discovered": "2026-03-27 13:50:53.900171",
-        "description": "New Frontier Technologies (NFT) is a system integrator specializing in bridging the gap between industrial automation and businessdata, providing solutions such as SCADA systems, PLCs, remote operations, and cyber security. Their services cater to a variety of sectors, including oil and gas, discrete manufacturing, processmanufacturing, and food and beverage.We will upload 60gb of corporate data soon. Project files, financials docs, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Big Thumb",
-        "discovered": "2026-03-27 10:15:46.014382",
-        "description": "BigThumb IT Consultants provides a range of IT solutions including managed real-time professional support and cybersecurity services tailored to meet individual business needs. They focus on helping organizations manage their IT across mobile devices, ensuring optimal pricing and plans through dedicated account management. The company emphasizes the importance of agility in business, enabling clients to adapt to market shifts and growth opportunities with a digital workspace. Their security experts specialize in compliance with PCI, HIPAA, and GLBA, addressing the increasing threats of cyber attacks for businesses of all sizes. \nThe company headquarters is located in 6235 Enterprise Ct, Dublin, OH 43016-3293, United States.\n201-500 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/Big Thumb.png",
-        "group_name": "medusa",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Schlam Stone & Dolan LLP",
-        "discovered": "2026-03-27 09:51:35.202589",
-        "description": "Data breach at a law firm representing clients ranging from government institutions to Fortune 500 companies.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/26XYDvSlEdcotLH1sNZE3Y7tz7Sf3ZoQz7aCECJoY8NCcpOaHcJBBm7tQgszFjd7fBinAv97fWtbPaRSOBGlERVlEUGlB",
-        "magnet": null,
-        "screen": "screenshots/anubis/Schlam Stone & Dolan LLP.png",
-        "group_name": "anubis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Scalian",
-        "discovered": "2026-03-27 09:51:34.278692",
-        "description": "Data breach at a major french IT company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/uzNTItpu+oRiQuAFxkyYYSxw7R4pZSQsS8nKWjIMmjOBSaaEfW6UoeDSX2aZnMkSuyNmBz7O6fX9LRW6ymxgkpIb01LM1VX",
-        "magnet": null,
-        "screen": "screenshots/anubis/Scalian.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "STS Travel",
-        "discovered": "2026-03-27 09:51:30.404427",
-        "description": "STS Travel was founded in 1984 by two Cornell University graduates who shared one common goal: to specialize in the marketing and operation of travel services d...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Groupe Courtois Automobiles",
-        "discovered": "2026-03-27 09:51:29.419582",
-        "description": "Groupe Courtois is an automotive dealership specializing in Honda vehicles, with over 40 years of experience in the automotive industry. They operate in Chambou...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
