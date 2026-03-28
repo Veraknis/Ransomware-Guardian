@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "IBB Institut für Bildung und Beratung",
+        "discovered": "2026-03-28 19:51:19.535587",
+        "description": "Education",
+        "link": "/site/view?uuid=66de7a05-e3a7-36c9-9986-7905c275e5e0",
+        "magnet": null,
+        "screen": "screenshots/qilin/IBB Institut für Bildung und Beratung.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "TR Construya",
+        "discovered": "2026-03-28 19:51:18.609302",
+        "description": "Construction",
+        "link": "/site/view?uuid=319d1d61-d81d-3d8c-9c5d-25bad117245a",
+        "magnet": null,
+        "screen": "screenshots/qilin/TR Construya.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Q2 Artificial Lift Services",
+        "discovered": "2026-03-28 19:51:17.377667",
+        "description": "Q2 Artificial Lift Services is a leading company specializing in the sales, service, engineering, and manufacturing of down hole rod pumps. With a state-of-the-art facility in Red Deer, Alberta, and over 40 service locations across Canada and the USA, they provide innovative solutions and technical support. Their product range includes various types of rod pumps, production tools, and specialty accessories. Q2 aims to maximize productivity and enhance the operational lifespan of their clients' pumping systems.",
+        "link": "/posts/6c4afbe8-3443-4729-8272-a0138a5370af",
+        "magnet": null,
+        "screen": "screenshots/payload/Q2 Artificial Lift Services.png",
+        "group_name": "payload",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Don-Nan",
+        "discovered": "2026-03-28 19:51:16.471658",
+        "description": "Q2 Artificial Lift Services specializes in the sales, service, engineering, and manufacturing of down hole rod pumps, positioning itself as a leader in artificial lift technology. The company operates from a state-of-the-art 118,000 sq. ft. facility and boasts over 40 service and repair locations across Canada and the USA. Q2 offers a comprehensive range of products, including API pumps, specialty tubing, and production tools, combined with supportive engineering and technical services. Their commitment to quality and innovation enables them to provide tailored solutions that maximize productivity for their clients in the oilfield sector.",
+        "link": "/posts/2ee43398-38d0-4a03-bc33-c1ee4a0c401e",
+        "magnet": null,
+        "screen": "screenshots/payload/Don-Nan.png",
+        "group_name": "payload",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "*h**i **o**e**",
+        "discovered": "2026-03-28 19:51:15.158341",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "*H* G** **O**",
+        "discovered": "2026-03-28 19:51:14.194526",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "European Commission (*.europa.eu)",
         "discovered": "2026-03-28 14:58:11.760342",
         "description": "Over 350 GB+ of data was compromised, including data dumps of mail servers, databases, confidential documents, contracts, and much more sensitive material.",
@@ -38,195 +98,5 @@
         "screen": "screenshots/inc ransom/meridenctgov.png",
         "group_name": "inc ransom",
         "sector": "Government"
-    },
-    {
-        "post_title": "Sheraton Hotel",
-        "discovered": "2026-03-27 19:34:14.010407",
-        "description": "",
-        "link": "/companies/0433968074",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Sheraton Hotel.png",
-        "group_name": "worldleaks",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "CIM",
-        "discovered": "2026-03-27 19:34:13.019229",
-        "description": "",
-        "link": "/companies/5682629549",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/CIM.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "E****b",
-        "discovered": "2026-03-27 19:34:08.583327",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Orient Petroleum",
-        "discovered": "2026-03-27 17:38:01.319172",
-        "description": "",
-        "link": "/companies/8250496889",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Orient Petroleum.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Leighton",
-        "discovered": "2026-03-27 17:38:00.981227",
-        "description": "",
-        "link": "/companies/1504221778",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Leighton.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fondation Boghossian",
-        "discovered": "2026-03-27 17:37:57.483573",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=9c324476-eb4b-39b9-884b-98baa22c9d21",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fondation Boghossian.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Inside the Rosenthal Agency Data Exposure: What Was Never Meant to Be Seen.",
-        "discovered": "2026-03-27 17:37:43.905518",
-        "description": "#Leaknet #ConfidentialLeak #DataSpill #PrivacyBreach #TheRosenthalAgency #RosenthalAgency #Insurance #LifeInsurance",
-        "link": "view_article.php?article=ZkF14bHxER7pjUQHIx5utVMHCXHoFXg9iuyMne6LNt4T8SkxuFzdchxAWEznNfIs",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Inside the Rosenthal Agency Data Exposure: What Was Never Meant to Be Seen.png",
-        "group_name": "leaknet",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "GeoMechanics Technologies",
-        "discovered": "2026-03-27 17:37:37.214721",
-        "description": "GeoMechanics Technologies, formerly called Terralog Technologies USA, was founded in 1994 by Dr. Michael S. Bruno. It originally operated as the US subsidiary of Terralog Technologies Inc in Canada. The new name, adopted August 1, 2012, reflects our primary and expanding focus on Advanced Geomechanics from the wellbore to the reservoir scale.We will upload corporate data soon. Employee personal documents (passports, driver licenses, SSNs and so on), project files, medical information, financials, contracts and agreements (Bentley andothers), client files, NDAs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Edward Beiner",
-        "discovered": "2026-03-27 15:59:38.814221",
-        "description": "Edward Beiner specializes in designer sunglasses and luxury eyewear, offering a blend of fashion and vision. Their product range includes sunglasses and eyeglas...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PROMOSFERA S.R.l.",
-        "discovered": "2026-03-27 15:59:35.279718",
-        "description": "",
-        "link": "/4401a68f-4fb6-4e94-a6af-c9d26c8a9c2a",
-        "magnet": null,
-        "screen": "screenshots/black nevas/PROMOSFERA SRl.png",
-        "group_name": "black nevas",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quality Data Service, Inc.",
-        "discovered": "2026-03-27 15:59:34.325562",
-        "description": "",
-        "link": "/5adc2d41-1a26-4cba-a9e6-8dbd13bd64a4",
-        "magnet": null,
-        "screen": "screenshots/black nevas/Quality Data Service, Inc.png",
-        "group_name": "black nevas",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "KINAS SOLICITORS",
-        "discovered": "2026-03-27 15:59:33.299722",
-        "description": "",
-        "link": "/41d35858-aae9-405c-9441-c13f700ca975",
-        "magnet": null,
-        "screen": "screenshots/black nevas/KINAS SOLICITORS.png",
-        "group_name": "black nevas",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Paramount Health Services & Insurance TPA Pvt. Ltd",
-        "discovered": "2026-03-27 15:59:32.255393",
-        "description": "",
-        "link": "/56b42200-1bda-4b80-b043-a63746a92da3",
-        "magnet": null,
-        "screen": "screenshots/black nevas/Paramount Health Services & Insurance TPA Pvt Ltd.png",
-        "group_name": "black nevas",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "The company MST (Sanko Makina and ASKO Holding)",
-        "discovered": "2026-03-27 15:59:31.212206",
-        "description": "",
-        "link": "/b0d5c3ac-d2f9-4e6c-97d0-a49255c54de0",
-        "magnet": null,
-        "screen": "screenshots/black nevas/The company MST (Sanko Makina and ASKO Holding).png",
-        "group_name": "black nevas",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "E-CON Packaging Private Limited",
-        "discovered": "2026-03-27 15:59:30.121529",
-        "description": "",
-        "link": "/f18b1b95-574c-49ae-8817-b76b0b75e5be",
-        "magnet": null,
-        "screen": "screenshots/black nevas/E-CON Packaging Private Limited.png",
-        "group_name": "black nevas",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Heng An Standard Life Insurance",
-        "discovered": "2026-03-27 15:59:29.099766",
-        "description": "",
-        "link": "/a269572e-ffee-4c63-8038-ed994eb007aa",
-        "magnet": null,
-        "screen": "screenshots/black nevas/Heng An Standard Life Insurance.png",
-        "group_name": "black nevas",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Axiomatic Technologies Corporation",
-        "discovered": "2026-03-27 15:59:27.712598",
-        "description": "Axiomatic Technologies is a quality designer and manufacturer of electronic controllers and power management converters Robust andreliable electronic controls optimize working machines for performance and emission control. Axiomatic Technologies is located inCanada.We will upload 10gb of corporate data soon. Employee personal documents (credit cards, medical records and other HR files), project files, financials docs, contracts and agreements, client files,NDAs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Quality Carton and Converting",
-        "discovered": "2026-03-27 15:59:26.690672",
-        "description": "Quality Carton and Converting, LLC. specializes in food and beverage paperboard packaging, offering both in-stock items and customfolding carton solutions. Their product range includes various types of bakery and donut boxes, pizza boxes, cupcake inserts, andutility trays.We will upload corporate data soon. Employee personal documents (credit cards, DLs and so on), HR files, project files, financialsdocs, payment details, contracts and agreements, client files, confidential files, NDAs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Sheladia Associates",
-        "discovered": "2026-03-27 15:59:25.315223",
-        "description": "Sheladia Associates, Inc. is a multidisciplinary consulting firm specializing in architectural, engineering, and development consulting services. Established in 1974, the company focuses on infrastructure projects in sectors such as transportation, water supply, sanitation, and energy across various regions including Asia, Africa, and the Americas.We will upload corporate data soon. Big amount of employee personal documents (passports, driver licenses, credit cards, immigration docs and so on), project files, medical information, financials, contracts and agreements, client files, internal confidential files, NDAs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
