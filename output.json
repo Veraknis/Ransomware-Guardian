@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Greenology Products",
+        "discovered": "2026-03-29 19:44:03.809757",
+        "description": "",
+        "link": "/blog/disclosures/69c9505a8f1d14b743fad95d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Greenology Products.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Doctor.com",
         "discovered": "2026-03-29 15:40:42.273686",
         "description": "0",
@@ -88,65 +98,5 @@
         "screen": "screenshots/exitium/IKRON.png",
         "group_name": "exitium",
         "sector": "Technology"
-    },
-    {
-        "post_title": "IBB Institut für Bildung und Beratung",
-        "discovered": "2026-03-28 19:51:19.535587",
-        "description": "Education",
-        "link": "/site/view?uuid=66de7a05-e3a7-36c9-9986-7905c275e5e0",
-        "magnet": null,
-        "screen": "screenshots/qilin/IBB Institut für Bildung und Beratung.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "TR Construya",
-        "discovered": "2026-03-28 19:51:18.609302",
-        "description": "Construction",
-        "link": "/site/view?uuid=319d1d61-d81d-3d8c-9c5d-25bad117245a",
-        "magnet": null,
-        "screen": "screenshots/qilin/TR Construya.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Q2 Artificial Lift Services",
-        "discovered": "2026-03-28 19:51:17.377667",
-        "description": "Q2 Artificial Lift Services is a leading company specializing in the sales, service, engineering, and manufacturing of down hole rod pumps. With a state-of-the-art facility in Red Deer, Alberta, and over 40 service locations across Canada and the USA, they provide innovative solutions and technical support. Their product range includes various types of rod pumps, production tools, and specialty accessories. Q2 aims to maximize productivity and enhance the operational lifespan of their clients' pumping systems.",
-        "link": "/posts/6c4afbe8-3443-4729-8272-a0138a5370af",
-        "magnet": null,
-        "screen": "screenshots/payload/Q2 Artificial Lift Services.png",
-        "group_name": "payload",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Don-Nan",
-        "discovered": "2026-03-28 19:51:16.471658",
-        "description": "Q2 Artificial Lift Services specializes in the sales, service, engineering, and manufacturing of down hole rod pumps, positioning itself as a leader in artificial lift technology. The company operates from a state-of-the-art 118,000 sq. ft. facility and boasts over 40 service and repair locations across Canada and the USA. Q2 offers a comprehensive range of products, including API pumps, specialty tubing, and production tools, combined with supportive engineering and technical services. Their commitment to quality and innovation enables them to provide tailored solutions that maximize productivity for their clients in the oilfield sector.",
-        "link": "/posts/2ee43398-38d0-4a03-bc33-c1ee4a0c401e",
-        "magnet": null,
-        "screen": "screenshots/payload/Don-Nan.png",
-        "group_name": "payload",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "*h**i **o**e**",
-        "discovered": "2026-03-28 19:51:15.158341",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*H* G** **O**",
-        "discovered": "2026-03-28 19:51:14.194526",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
     }
 ]
