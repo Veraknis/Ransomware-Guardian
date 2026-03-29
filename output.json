@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Doctor.com",
+        "discovered": "2026-03-29 15:40:42.273686",
+        "description": "0",
+        "link": "/site/view?uuid=24434a9c-41ad-3c65-8b43-75b90b9e2724",
+        "magnet": null,
+        "screen": "screenshots/qilin/Doctorcom.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Popular Tags",
+        "discovered": "2026-03-29 15:40:40.797773",
+        "description": "",
+        "link": "../news/home?tag=orion",
+        "magnet": null,
+        "screen": "screenshots/orion/Popular Tags.png",
+        "group_name": "orion",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pastas Allegri  https://pastasallegri.com.ve",
+        "discovered": "2026-03-29 15:40:39.551089",
+        "description": "",
+        "link": "../news/home?tag=orion",
+        "magnet": null,
+        "screen": "screenshots/orion/Pastas Allegri  https:pastasallegricomve.png",
+        "group_name": "orion",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ming Hwei Energy",
+        "discovered": "2026-03-29 13:01:56.997552",
+        "description": "Zoominfo: https://www.zoominfo.com/c/ming-hwei-energy-co-ltd/446006038\n\nA small private B2B firm (11–50 staff, <$5M revenue), part of a Taiwanese fastener conglomerate. Manufacturer of solar cells in a niche where Taiwanese firms are consistently undercut by Chinese pricing.\n\nTheir infra encrypted.",
+        "link": "#Ming%20Hwei%20Energy",
+        "magnet": null,
+        "screen": "screenshots/exitium/Ming Hwei Energy.png",
+        "group_name": "exitium",
+        "sector": "Energy"
+    },
+    {
         "post_title": "D**o*s** Fr**e* *A",
         "discovered": "2026-03-29 05:03:39.446119",
         "description": "",
@@ -107,36 +147,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "European Commission (*.europa.eu)",
-        "discovered": "2026-03-28 14:58:11.760342",
-        "description": "Over 350 GB+ of data was compromised, including data dumps of mail servers, databases, confidential documents, contracts, and much more sensitive material.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "A A Al Moosa Enterprises (ARENCO Group)",
-        "discovered": "2026-03-28 14:58:08.701900",
-        "description": "A.A. Al Moosa Enterprises, also known as ARENCO Group, is a diversified conglomerate based in Dubai, with interests spanning architectural and engineering consulting, real estate, hospitality, car rentals, manufacturing, and interior design. Established in 1971, the group has grown into one of the top family-owned business groups in Dubai, focusing on quality, service, and innovation.",
-        "link": "/posts/c41b26fb-d454-4eb3-a1d1-e07b9abb64a1",
-        "magnet": null,
-        "screen": "screenshots/payload/A A Al Moosa Enterprises (ARENCO Group).png",
-        "group_name": "payload",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Genobank",
-        "discovered": "2026-03-28 13:56:03.743876",
-        "description": "",
-        "link": "/companies/genobank-2",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Genobank.png",
-        "group_name": "coinbase cartel",
         "sector": "Unknown"
     }
 ]
