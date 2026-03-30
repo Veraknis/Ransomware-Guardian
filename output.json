@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Motleys Asset Disposition Group",
+        "discovered": "2026-03-30 16:40:30.838791",
+        "description": "Based in Richmond, VA, Motleys Asset Disposition Group offers sales, appraisal and acquisition services. The company offers real estate services, auction services, appraisals and more.We will upload 11gb of corporate data soon. Employee personal documents (passports, DLs, SSNs and so on), project files, detailed financials, contracts and agreements, client and partner files, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Office Peeps, Nappie's Food Service, Janome America, IT-Supporten, A-1 Pools.",
+        "discovered": "2026-03-30 16:40:29.870298",
+        "description": "We obtained about 13gb of data of the following companies:Office Peeps offers a wide range of over 50,000 office supplies, including general office supplies, ink and toner, coffee and breakroom items, and janitorial supplies.Nappie's Foods is a family-owned food service provider and restaurant supply expert based in Pittsburgh. The company emphasizes quality, service, and loyalty, aiming to maintain superior customerservice while operating with a friendly, family-owned mentality.Janome America is the largest subsidiary of Janome Sewing MachineCompany of Japan, which produces nearly two million sewing machines annually as well as a line of related sewing products and embroidery software.IT-Supporten provides tailored IT solutions for both private and business markets, ensuring optimal results for each client. They are a comprehensive supplier of IT equipment, offering competitive pricing and a range of services including consultation and operational agreements.A-1 Pools is a family-owned business based in Wisconsin, specializing in above-ground pools, hot tubs, swim spas, and saunas. Theyserve clients in Waukesha County, Washington County, and Milwaukee County, offering high-quality products and exceptional customer service.You will find personal employee personal data, lots of HR files, medical information, client information, numerous project files, confidential files, accounting and financials and other internal operational files.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Miles Electric",
+        "discovered": "2026-03-30 16:00:09.685514",
+        "description": "Construction",
+        "link": "/site/view?uuid=59569b55-f963-3c3d-a8e7-2fe914c6a3cd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Miles Electric.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Dow",
+        "discovered": "2026-03-30 16:00:08.598687",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=2fec27e5-785a-3ed9-9df1-9e2c21deffb8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dow.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wm Erath & Son",
+        "discovered": "2026-03-30 16:00:07.513393",
+        "description": "Construction",
+        "link": "/site/view?uuid=9ddcceb2-08ec-30cc-935b-36744564eebc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Wm Erath & Son.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Richard J. Hackerman P.A.",
+        "discovered": "2026-03-30 16:00:06.139287",
+        "description": "Tax Attorney and Bankruptcy Lawyer in Baltimore",
+        "link": "Companies/richardhackerman",
+        "magnet": null,
+        "screen": "screenshots/pear/Richard J Hackerman PA.png",
+        "group_name": "pear",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Wyatt Insurance Agency",
+        "discovered": "2026-03-30 16:00:05.158967",
+        "description": "Auto Insurance, Home Insurance, Renters Insurance, Motorcycle Insurance",
+        "link": "Companies/wyattinsuranceca",
+        "magnet": null,
+        "screen": "screenshots/pear/Wyatt Insurance Agency.png",
+        "group_name": "pear",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Summit Tax Advisory",
+        "discovered": "2026-03-30 14:36:41.896139",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=c4531ba3-aa0e-36b2-91c1-4a3483cde8e7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Summit Tax Advisory.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Blantyre Capital",
+        "discovered": "2026-03-30 12:58:46.847984",
+        "description": "Credit Cards & Transaction Processing",
+        "link": "/site/view?uuid=fd5f6cee-982c-386c-a7b3-2ebcfe161a41",
+        "magnet": null,
+        "screen": "screenshots/qilin/Blantyre Capital.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Conveyors, Inc.",
         "discovered": "2026-03-30 02:57:07.746125",
         "description": "",
@@ -28,45 +118,5 @@
         "screen": "screenshots/inc ransom/Greenology Products.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Doctor.com",
-        "discovered": "2026-03-29 15:40:42.273686",
-        "description": "0",
-        "link": "/site/view?uuid=24434a9c-41ad-3c65-8b43-75b90b9e2724",
-        "magnet": null,
-        "screen": "screenshots/qilin/Doctorcom.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Popular Tags",
-        "discovered": "2026-03-29 15:40:40.797773",
-        "description": "",
-        "link": "../news/home?tag=orion",
-        "magnet": null,
-        "screen": "screenshots/orion/Popular Tags.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pastas Allegri  https://pastasallegri.com.ve",
-        "discovered": "2026-03-29 15:40:39.551089",
-        "description": "",
-        "link": "../news/home?tag=orion",
-        "magnet": null,
-        "screen": "screenshots/orion/Pastas Allegri  https:pastasallegricomve.png",
-        "group_name": "orion",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ming Hwei Energy",
-        "discovered": "2026-03-29 13:01:56.997552",
-        "description": "Zoominfo: https://www.zoominfo.com/c/ming-hwei-energy-co-ltd/446006038\n\nA small private B2B firm (11–50 staff, <$5M revenue), part of a Taiwanese fastener conglomerate. Manufacturer of solar cells in a niche where Taiwanese firms are consistently undercut by Chinese pricing.\n\nTheir infra encrypted.",
-        "link": "#Ming%20Hwei%20Energy",
-        "magnet": null,
-        "screen": "screenshots/exitium/Ming Hwei Energy.png",
-        "group_name": "exitium",
-        "sector": "Energy"
     }
 ]
