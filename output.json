@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Conveyors, Inc.",
+        "discovered": "2026-03-30 02:57:07.746125",
+        "description": "",
+        "link": "/blog/disclosures/69c906e98f1d14b743f528dc",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Conveyors, Inc.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alliance Select Foods International",
+        "discovered": "2026-03-29 21:29:21.647919",
+        "description": "Alliance Select Foods International, Inc. is a leading seafood company specializing in the tuna canning industry since 2003, producing premium-quality tuna and ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Agriculture"
+    },
+    {
         "post_title": "Greenology Products",
         "discovered": "2026-03-29 19:44:03.809757",
         "description": "",
@@ -48,55 +68,5 @@
         "screen": "screenshots/exitium/Ming Hwei Energy.png",
         "group_name": "exitium",
         "sector": "Energy"
-    },
-    {
-        "post_title": "D**o*s** Fr**e* *A",
-        "discovered": "2026-03-29 05:03:39.446119",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "S***h***t*** **n**r***e of **v***h-**y A***n***ts",
-        "discovered": "2026-03-28 22:59:16.474937",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "OTNet",
-        "discovered": "2026-03-28 21:27:27.889440",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Florida Therapy Services",
-        "discovered": "2026-03-28 21:27:25.943924",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "IKRON",
-        "discovered": "2026-03-28 21:27:05.025538",
-        "description": "Zoominfo: https://www.zoominfo.com/c/ikron-corp/1307855073\n\nTotally stolen: 278 GB\nWe have many PII(fullz, emails, ssn, patient records, etc.), CEO emails and many other data.",
-        "link": "#IKRON",
-        "magnet": null,
-        "screen": "screenshots/exitium/IKRON.png",
-        "group_name": "exitium",
-        "sector": "Technology"
     }
 ]
