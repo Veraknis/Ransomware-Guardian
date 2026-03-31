@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "delapazlaw.com",
+        "discovered": "2026-03-31 15:59:58.241174",
+        "description": "",
+        "link": "/blog/disclosures/69cbb56d8f1d14b74332df1f",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/delapazlawcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "submissionfinance.com",
+        "discovered": "2026-03-31 15:59:57.247118",
+        "description": "",
+        "link": "/blog/disclosures/69cbc35d8f1d14b743348acf",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/submissionfinancecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Catalyst Learning Company",
+        "discovered": "2026-03-31 15:59:56.113564",
+        "description": "Specializes in healthcare training and employee development, aiming to empower staff for better patient outcomes and organizational success.",
+        "link": "/fa29dbc302e01133c33d/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Catalyst Learning Company.png",
+        "group_name": "genesis",
+        "sector": "Education"
+    },
+    {
+        "post_title": "B&R Sheet Metal",
+        "discovered": "2026-03-31 15:59:55.143854",
+        "description": "Specializes in industrial construction projects, offering design, fabrication, and installation services for pneumatic, mechanical conveying, and filtration systems",
+        "link": "/f81a476d040a331c866e/",
+        "magnet": null,
+        "screen": "screenshots/genesis/B&R Sheet Metal.png",
+        "group_name": "genesis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Green Giftz",
+        "discovered": "2026-03-31 15:59:54.179525",
+        "description": "A certified branded merchandise agency based.",
+        "link": "/8ff88b877daeb1069deb/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Green Giftz.png",
+        "group_name": "genesis",
+        "sector": "Government"
+    },
+    {
+        "post_title": "HMI Elements",
+        "discovered": "2026-03-31 15:59:53.194274",
+        "description": "The production of reliable human-machine interfaces (HMIs) designed for use in hazardous environments",
+        "link": "/7cfe3af8242b09e20596/",
+        "magnet": null,
+        "screen": "screenshots/genesis/HMI Elements.png",
+        "group_name": "genesis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "MC-Rx",
+        "discovered": "2026-03-31 15:59:52.132856",
+        "description": "Formerly MC-21 and ProCare PBM",
+        "link": "/6ec9d951deef0bbe770c/",
+        "magnet": null,
+        "screen": "screenshots/genesis/MC-Rx.png",
+        "group_name": "genesis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Raphael Ortho",
+        "discovered": "2026-03-31 15:59:51.180785",
+        "description": "Modern Advanced Print Solutions (MAPS, Inc.).",
+        "link": "/3723a40c32f5dbf7531e/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Raphael Ortho.png",
+        "group_name": "genesis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Secure Health",
+        "discovered": "2026-03-31 15:59:50.179129",
+        "description": "Provides administrative, care management, and healthy lifestyle services to employers with self-funded, group health care plans",
+        "link": "/22df2e5148908f66099d/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Secure Health.png",
+        "group_name": "genesis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Cox Design & Metal Fabrication",
+        "discovered": "2026-03-31 15:59:45.489887",
+        "description": "Cox Design and Metal Fabrication, Inc. specializes in custom metal design and fabrication, offering a wide range of services including aluminum fabrication, architectural steel design, and customfood trucks.We will upload 20gb of corporate data soon. Employee personal document, financials, projects, contracts and agreements, NDA, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Dean Supply",
+        "discovered": "2026-03-31 15:59:44.465282",
+        "description": "Dean Supply specializes in providing a comprehensive range of restaurant supplies and equipment, including kitchenware, dining essentials, and janitorial products. We will upload 15gb of corporate data soon. Employee medical information and other docs, NDAs, financials, projects, contracts andagreements, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Excel Healthcare Receivable Management &Consulting",
+        "discovered": "2026-03-31 15:59:41.167694",
+        "description": "Excel Healthcare is a specialized firm focusing on revenue cycle management and consulting services for healthcare professionals, including hospitals and medical practices of all sizes. They offer comprehensive services such as accounts receivable management, insurance follow-up, denial auditing, and consulting on workflow optimization to enhance cash flow and operational efficiency.We will upload 54gb of corporate data soon. Employee and customerpersonal information, project information, lots of contracts andagreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "https://www.lagoonpark.com/",
+        "discovered": "2026-03-31 14:56:41.017149",
+        "description": "Lagoon Amusement Park\r\n, located in Farmington, Utah, is a historic family-owned park operating since 1886. It features a combination of roller coasters (includ...",
+        "link": "/#/post/1061dd29-a4b3-48d4-b28d-9dfd165f4501",
+        "magnet": null,
+        "screen": "screenshots/embargo/wwwlagoonparkcom.png",
+        "group_name": "embargo",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MerchNOW",
+        "discovered": "2026-03-31 14:56:37.179790",
+        "description": "MerchNow is a music merchandising company with over 20 years of experience, specializing in a wide range of products including music, apparel, accessories, and custom merchandise for bands. They offer services such as screen printing, record pressing, embroidery, and fulfillment to help artists create unique merchandise.We will upload corporate data soon. Great amount of employee personal documents (passports, DLs, SSNs and other scanned docs), financials, contracts and agreements, client files, NDA, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Chickasaw Holding",
+        "discovered": "2026-03-31 12:58:52.464620",
+        "description": "Accounting Services",
+        "link": "/site/view?uuid=29384992-7b2b-358c-93a4-09c370558db3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Chickasaw Holding.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "A****y",
+        "discovered": "2026-03-31 12:58:51.219670",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "San Felipe Del Rio CISD School",
+        "discovered": "2026-03-31 11:58:38.846325",
+        "description": "",
+        "link": "/companies/0300206018",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/San Felipe Del Rio CISD School.png",
+        "group_name": "worldleaks",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Q-Lab",
+        "discovered": "2026-03-31 11:58:35.525249",
+        "description": "Manufacturing",
+        "link": "/site/view?uuid=d7cfdb29-1a34-31f7-bdbf-16a7a99e9b53",
+        "magnet": null,
+        "screen": "screenshots/qilin/Q-Lab.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Beltran & Garcia Financial Investment SLU",
         "discovered": "2026-03-31 04:57:52.573388",
         "description": "",
@@ -408,95 +588,5 @@
         "screen": "screenshots/coinbase cartel/Propertyfinder  PropSpace CRM  -  In aucitioin place your bids now !!!.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Motleys Asset Disposition Group",
-        "discovered": "2026-03-30 16:40:30.838791",
-        "description": "Based in Richmond, VA, Motleys Asset Disposition Group offers sales, appraisal and acquisition services. The company offers real estate services, auction services, appraisals and more.We will upload 11gb of corporate data soon. Employee personal documents (passports, DLs, SSNs and so on), project files, detailed financials, contracts and agreements, client and partner files, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Office Peeps, Nappie's Food Service, Janome America, IT-Supporten, A-1 Pools.",
-        "discovered": "2026-03-30 16:40:29.870298",
-        "description": "We obtained about 13gb of data of the following companies:Office Peeps offers a wide range of over 50,000 office supplies, including general office supplies, ink and toner, coffee and breakroom items, and janitorial supplies.Nappie's Foods is a family-owned food service provider and restaurant supply expert based in Pittsburgh. The company emphasizes quality, service, and loyalty, aiming to maintain superior customerservice while operating with a friendly, family-owned mentality.Janome America is the largest subsidiary of Janome Sewing MachineCompany of Japan, which produces nearly two million sewing machines annually as well as a line of related sewing products and embroidery software.IT-Supporten provides tailored IT solutions for both private and business markets, ensuring optimal results for each client. They are a comprehensive supplier of IT equipment, offering competitive pricing and a range of services including consultation and operational agreements.A-1 Pools is a family-owned business based in Wisconsin, specializing in above-ground pools, hot tubs, swim spas, and saunas. Theyserve clients in Waukesha County, Washington County, and Milwaukee County, offering high-quality products and exceptional customer service.You will find personal employee personal data, lots of HR files, medical information, client information, numerous project files, confidential files, accounting and financials and other internal operational files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Miles Electric",
-        "discovered": "2026-03-30 16:00:09.685514",
-        "description": "Construction",
-        "link": "/site/view?uuid=59569b55-f963-3c3d-a8e7-2fe914c6a3cd",
-        "magnet": null,
-        "screen": "screenshots/qilin/Miles Electric.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Dow",
-        "discovered": "2026-03-30 16:00:08.598687",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=2fec27e5-785a-3ed9-9df1-9e2c21deffb8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dow.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wm Erath & Son",
-        "discovered": "2026-03-30 16:00:07.513393",
-        "description": "Construction",
-        "link": "/site/view?uuid=9ddcceb2-08ec-30cc-935b-36744564eebc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Wm Erath & Son.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Richard J. Hackerman P.A.",
-        "discovered": "2026-03-30 16:00:06.139287",
-        "description": "Tax Attorney and Bankruptcy Lawyer in Baltimore",
-        "link": "Companies/richardhackerman",
-        "magnet": null,
-        "screen": "screenshots/pear/Richard J Hackerman PA.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Wyatt Insurance Agency",
-        "discovered": "2026-03-30 16:00:05.158967",
-        "description": "Auto Insurance, Home Insurance, Renters Insurance, Motorcycle Insurance",
-        "link": "Companies/wyattinsuranceca",
-        "magnet": null,
-        "screen": "screenshots/pear/Wyatt Insurance Agency.png",
-        "group_name": "pear",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Summit Tax Advisory",
-        "discovered": "2026-03-30 14:36:41.896139",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=c4531ba3-aa0e-36b2-91c1-4a3483cde8e7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Summit Tax Advisory.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Blantyre Capital",
-        "discovered": "2026-03-30 12:58:46.847984",
-        "description": "Credit Cards & Transaction Processing",
-        "link": "/site/view?uuid=fd5f6cee-982c-386c-a7b3-2ebcfe161a41",
-        "magnet": null,
-        "screen": "screenshots/qilin/Blantyre Capital.png",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
