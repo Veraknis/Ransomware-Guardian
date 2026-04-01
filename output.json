@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "blossmangas.com",
+        "discovered": "2026-04-01 19:30:25.174268",
+        "description": "Blossman Gas, founded in 1951 and located in Ocean Springs, Mississippi, is a family-owned business that provides a wide range of services in the  liquefied pet...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Starr Insurance",
+        "discovered": "2026-04-01 19:30:17.816200",
+        "description": "Starr Insurance Inc. is an independent insurance agency based in Chambersburg, Pennsylvania, offering a wide range of insurance products including car, home, business, and commercial insurance. The agency serves over 18,000 individuals and businesses across Pennsylvania and neighboring states, providing clients with tailored coverage options from a selection of reputable insurance carriers.We will upload 15gb of corporate data soon. Employee passports, DLs, SSNs and other personal information, financials, customers' information, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Builtrite",
+        "discovered": "2026-04-01 19:30:14.557655",
+        "description": "Northshore Manufacturing offers 3 main product lines that are marketed under the Builtrite Brand. The company also produce components for several O.E.M.'s and tackle custom projects within the company's realm of expertise.We will upload 40gb of corporate data soon. Detailed employee passports, DLs (13 persons), SSNs and other personal information, financials, violations, police records, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "State Road and Tollway Authority",
         "discovered": "2026-04-01 17:24:26.965231",
         "description": "Government",
@@ -228,55 +258,5 @@
         "screen": "screenshots/leaknet/The Bayside Distributing Breach: A Costly Lesson in Neglected Security.png",
         "group_name": "leaknet",
         "sector": "Defense"
-    },
-    {
-        "post_title": "Service Star Freightways",
-        "discovered": "2026-03-31 20:58:30.856219",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=3faeb8ae-d1d1-359a-aa93-4838364ffe7d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Service Star Freightways.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Seeing Machines",
-        "discovered": "2026-03-31 20:58:28.847575",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=ee502f3e-d3ab-37d7-89ff-011997f664b0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Seeing Machines.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SERAM SpA",
-        "discovered": "2026-03-31 20:58:27.148771",
-        "description": "Business Services",
-        "link": "/site/view?uuid=b9493a73-8548-330f-9f9e-66ba732b4f70",
-        "magnet": null,
-        "screen": "screenshots/qilin/SERAM SpA.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Brute Wrestling Was Brute Forced and Fully Compromised.",
-        "discovered": "2026-03-31 20:02:39.175890",
-        "description": "#Leaknet #DataCompromise #PrivacyBreach  #InfoExposure #DataDump #TrustBroken #BruteWrestling",
-        "link": "view_article.php?article=HT8LS4z4xAgDRdQtVRON9FghaHlrJkvm6h09I9bW6ku5yZIOl8wqWPZUlunSgXxy",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Brute Wrestling Was Brute Forced and Fully Compromised.png",
-        "group_name": "leaknet",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Modern Advanced Print Solutions (MAPS, Inc.)",
-        "discovered": "2026-03-31 18:02:23.026050",
-        "description": "Modern Advanced Print Solutions (MAPS, Inc.).",
-        "link": "/3723a40c32f5dbf7531e/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Modern Advanced Print Solutions (MAPS, Inc).png",
-        "group_name": "genesis",
-        "sector": "Unknown"
     }
 ]
