@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "State Road and Tollway Authority",
+        "discovered": "2026-04-01 17:24:26.965231",
+        "description": "Government",
+        "link": "/site/view?uuid=72e1831b-e9ce-3951-9392-1c01457374be",
+        "magnet": null,
+        "screen": "screenshots/qilin/State Road and Tollway Authority.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "SAYEGH",
+        "discovered": "2026-04-01 17:24:25.558310",
+        "description": "Sayegh 1944 presents itself as an educational company, yet its activities appear broad and somewhat lacking in transparency.\nUnder the umbrella of developing learning materials and services for schools, it spans multiple areas where a clear core expertise is hard to identify.\nOverall, it gives the impression of an organization trying to cover many segments of education without demonstrating a strong, well-defined specialization or standout results.",
+        "link": "/posts/1240fa31-cadd-4716-9fbc-a4b0b2f78463",
+        "magnet": null,
+        "screen": "screenshots/payload/SAYEGH.png",
+        "group_name": "payload",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Alliance Roofing",
+        "discovered": "2026-04-01 17:24:05.180045",
+        "description": "Alliance Roofing Company Inc is a national leader in commercial roofing and waterproofing services with more than 27 years of industry experience. Founded in 1986 and established in San Jose, thecompany has expanded its geographic footprint to serve the Central Valley and Northern California region, including Sacramento, Reno, and Modesto, providing comprehensive roofing and waterproofing solutions to corporate enterprises, small businesses, and property owners across diverse market segments.We will upload 170gb of corporate data soon. Employee passports, DL, phones, addresses and so on, detailed client information (financials, agreements and so on), projects, drawings and specifications, NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Swagelok",
+        "discovered": "2026-04-01 17:24:02.638605",
+        "description": "Swagelok is a worldwide leader in industrial fluid system manufacturing and support. Since the introduction of the revolutionary, leak-tight Swagelok® tube fitting in 1947, they have applied a passion for making high-quality products and an unwavering focus onmeeting customer needs to help a wide range of industries safely, efficiently, and reliably move liquids and gases in demanding applications.We will upload 90gb of corporate data soon. Employee passports, and other personal information, detailed client information (financials, agreements with Nikon, Kawasaki, Mitsubishi and others), projects, HR files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AMBAU Personalservice",
+        "discovered": "2026-04-01 15:52:20.246986",
+        "description": "",
+        "link": "/companies/2617010624",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/AMBAU Personalservice.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alamo Heights School District",
+        "discovered": "2026-04-01 15:52:19.332814",
+        "description": "",
+        "link": "/companies/7418640192",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Alamo Heights School District.png",
+        "group_name": "worldleaks",
+        "sector": "Education"
+    },
+    {
+        "post_title": "First Trinity Financial",
+        "discovered": "2026-04-01 15:51:59.363189",
+        "description": "FTFC is an insurance holding company based in Tulsa, Oklahoma. FTFC operates two life insurance companies, Trinity Life Insurance Company (TLIC), Tulsa, Oklahom...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tange , Mann & Garza",
+        "discovered": "2026-04-01 15:51:55.548239",
+        "description": "Tange , Mann & Garza is a full-service accounting firm offering abroad range of services for individuals, business owners, executives, and independent professionals. We will upload 40gb of corporate data soon. Employee passports DLand so on, detailed client information (financials, agreements and so on), NDA, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Publishers Clearing House",
+        "discovered": "2026-04-01 11:55:55.386155",
+        "description": "The fall of a sweepstakes giant.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/mkP2I4eJZ6ArTLj+PQga6ft0A2OIj29zsLe+fR9VZy7l91bdL0FhNMnNLBaWN8JFITI0ma25IV9KIi0KH39v+mZrd3BMS1FV",
+        "magnet": null,
+        "screen": "screenshots/anubis/Publishers Clearing House.png",
+        "group_name": "anubis",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "A****ia**on O*A**A",
         "discovered": "2026-04-01 10:46:18.266656",
         "description": "",
@@ -188,185 +278,5 @@
         "screen": "screenshots/genesis/Modern Advanced Print Solutions (MAPS, Inc).png",
         "group_name": "genesis",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "delapazlaw.com",
-        "discovered": "2026-03-31 15:59:58.241174",
-        "description": "",
-        "link": "/blog/disclosures/69cbb56d8f1d14b74332df1f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/delapazlawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "submissionfinance.com",
-        "discovered": "2026-03-31 15:59:57.247118",
-        "description": "",
-        "link": "/blog/disclosures/69cbc35d8f1d14b743348acf",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/submissionfinancecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Catalyst Learning Company",
-        "discovered": "2026-03-31 15:59:56.113564",
-        "description": "Specializes in healthcare training and employee development, aiming to empower staff for better patient outcomes and organizational success.",
-        "link": "/fa29dbc302e01133c33d/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Catalyst Learning Company.png",
-        "group_name": "genesis",
-        "sector": "Education"
-    },
-    {
-        "post_title": "B&R Sheet Metal",
-        "discovered": "2026-03-31 15:59:55.143854",
-        "description": "Specializes in industrial construction projects, offering design, fabrication, and installation services for pneumatic, mechanical conveying, and filtration systems",
-        "link": "/f81a476d040a331c866e/",
-        "magnet": null,
-        "screen": "screenshots/genesis/B&R Sheet Metal.png",
-        "group_name": "genesis",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Green Giftz",
-        "discovered": "2026-03-31 15:59:54.179525",
-        "description": "A certified branded merchandise agency based.",
-        "link": "/8ff88b877daeb1069deb/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Green Giftz.png",
-        "group_name": "genesis",
-        "sector": "Government"
-    },
-    {
-        "post_title": "HMI Elements",
-        "discovered": "2026-03-31 15:59:53.194274",
-        "description": "The production of reliable human-machine interfaces (HMIs) designed for use in hazardous environments",
-        "link": "/7cfe3af8242b09e20596/",
-        "magnet": null,
-        "screen": "screenshots/genesis/HMI Elements.png",
-        "group_name": "genesis",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "MC-Rx",
-        "discovered": "2026-03-31 15:59:52.132856",
-        "description": "Formerly MC-21 and ProCare PBM",
-        "link": "/6ec9d951deef0bbe770c/",
-        "magnet": null,
-        "screen": "screenshots/genesis/MC-Rx.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Raphael Ortho",
-        "discovered": "2026-03-31 15:59:51.180785",
-        "description": "Modern Advanced Print Solutions (MAPS, Inc.).",
-        "link": "/3723a40c32f5dbf7531e/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Raphael Ortho.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Secure Health",
-        "discovered": "2026-03-31 15:59:50.179129",
-        "description": "Provides administrative, care management, and healthy lifestyle services to employers with self-funded, group health care plans",
-        "link": "/22df2e5148908f66099d/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Secure Health.png",
-        "group_name": "genesis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Cox Design & Metal Fabrication",
-        "discovered": "2026-03-31 15:59:45.489887",
-        "description": "Cox Design and Metal Fabrication, Inc. specializes in custom metal design and fabrication, offering a wide range of services including aluminum fabrication, architectural steel design, and customfood trucks.We will upload 20gb of corporate data soon. Employee personal document, financials, projects, contracts and agreements, NDA, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Dean Supply",
-        "discovered": "2026-03-31 15:59:44.465282",
-        "description": "Dean Supply specializes in providing a comprehensive range of restaurant supplies and equipment, including kitchenware, dining essentials, and janitorial products. We will upload 15gb of corporate data soon. Employee medical information and other docs, NDAs, financials, projects, contracts andagreements, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Excel Healthcare Receivable Management &Consulting",
-        "discovered": "2026-03-31 15:59:41.167694",
-        "description": "Excel Healthcare is a specialized firm focusing on revenue cycle management and consulting services for healthcare professionals, including hospitals and medical practices of all sizes. They offer comprehensive services such as accounts receivable management, insurance follow-up, denial auditing, and consulting on workflow optimization to enhance cash flow and operational efficiency.We will upload 54gb of corporate data soon. Employee and customerpersonal information, project information, lots of contracts andagreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "https://www.lagoonpark.com/",
-        "discovered": "2026-03-31 14:56:41.017149",
-        "description": "Lagoon Amusement Park\r\n, located in Farmington, Utah, is a historic family-owned park operating since 1886. It features a combination of roller coasters (includ...",
-        "link": "/#/post/1061dd29-a4b3-48d4-b28d-9dfd165f4501",
-        "magnet": null,
-        "screen": "screenshots/embargo/wwwlagoonparkcom.png",
-        "group_name": "embargo",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MerchNOW",
-        "discovered": "2026-03-31 14:56:37.179790",
-        "description": "MerchNow is a music merchandising company with over 20 years of experience, specializing in a wide range of products including music, apparel, accessories, and custom merchandise for bands. They offer services such as screen printing, record pressing, embroidery, and fulfillment to help artists create unique merchandise.We will upload corporate data soon. Great amount of employee personal documents (passports, DLs, SSNs and other scanned docs), financials, contracts and agreements, client files, NDA, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Chickasaw Holding",
-        "discovered": "2026-03-31 12:58:52.464620",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=29384992-7b2b-358c-93a4-09c370558db3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chickasaw Holding.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "A****y",
-        "discovered": "2026-03-31 12:58:51.219670",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "San Felipe Del Rio CISD School",
-        "discovered": "2026-03-31 11:58:38.846325",
-        "description": "",
-        "link": "/companies/0300206018",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/San Felipe Del Rio CISD School.png",
-        "group_name": "worldleaks",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Q-Lab",
-        "discovered": "2026-03-31 11:58:35.525249",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=d7cfdb29-1a34-31f7-bdbf-16a7a99e9b53",
-        "magnet": null,
-        "screen": "screenshots/qilin/Q-Lab.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
     }
 ]
