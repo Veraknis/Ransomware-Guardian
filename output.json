@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "project1631.com",
+        "discovered": "2026-04-02 20:35:06.319467",
+        "description": "project1631.com",
+        "link": "/card/project1631_com",
+        "magnet": null,
+        "screen": "screenshots/beast/project1631com.png",
+        "group_name": "beast",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "*****d **d**** ****o**",
+        "discovered": "2026-04-02 18:30:56.935436",
+        "description": "Functions as a comprehensive healthcare ecosystem—combining clinical care, surgical services, research innovation, and workforce development—all under one organization dedicated to improving community health in California",
+        "link": "/Company/Announce/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/*****d **d**** ****o**.png",
+        "group_name": "insomnia",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Serap",
+        "discovered": "2026-04-02 18:30:50.033698",
+        "description": "SERAP is an independent company and opened up its capital to employees on a voluntary basis. Today more than 90% of SERAP employees are company shareholders. SERAP operates an ambitious development strategy on every continent and is currently the 1st largest world manufacturer of on-farm milk coolers and No. 1 in France andmany other countries.We will upload 50gb of corporate data soon. Employee personal information, HR files, client files (contracts with more than 80 countries), financials, payment details, NDAs, detailed projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "jbrand.co.uk",
         "discovered": "2026-04-02 16:40:08.580404",
         "description": "J Brand, headquartered in London, UK, provides a range of services in the electrical engineering and IT sectors.",
@@ -408,35 +438,5 @@
         "screen": "screenshots/inc ransom/Lincoln Property LLC.png",
         "group_name": "inc ransom",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "blossmangas.com",
-        "discovered": "2026-04-01 19:30:25.174268",
-        "description": "Blossman Gas, founded in 1951 and located in Ocean Springs, Mississippi, is a family-owned business that provides a wide range of services in the  liquefied pet...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Starr Insurance",
-        "discovered": "2026-04-01 19:30:17.816200",
-        "description": "Starr Insurance Inc. is an independent insurance agency based in Chambersburg, Pennsylvania, offering a wide range of insurance products including car, home, business, and commercial insurance. The agency serves over 18,000 individuals and businesses across Pennsylvania and neighboring states, providing clients with tailored coverage options from a selection of reputable insurance carriers.We will upload 15gb of corporate data soon. Employee passports, DLs, SSNs and other personal information, financials, customers' information, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Builtrite",
-        "discovered": "2026-04-01 19:30:14.557655",
-        "description": "Northshore Manufacturing offers 3 main product lines that are marketed under the Builtrite Brand. The company also produce components for several O.E.M.'s and tackle custom projects within the company's realm of expertise.We will upload 40gb of corporate data soon. Detailed employee passports, DLs (13 persons), SSNs and other personal information, financials, violations, police records, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
