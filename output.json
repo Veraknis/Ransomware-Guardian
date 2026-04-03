@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Nissan - Database Leaked",
+        "discovered": "2026-04-03 19:57:01.450011",
+        "description": "",
+        "link": "/news/Nissan/",
+        "magnet": null,
+        "screen": "screenshots/everest/Nissan - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Woodland Trade",
+        "discovered": "2026-04-03 18:57:08.033540",
+        "description": "Woodland Trade Company is a full-service tool design and manufacturing firm based in Tacoma, Washington, specializing in tool design and fabrication using composites, metals, and 3D printed hardware. The company serves a diverse range of industries including aerospace, automotive, marine, medical, and space, and is recognized for its engineering design, CNC machining, and additive manufacturing capabilities.We will upload 13gb of corporate data soon. Detailed employee information (passport, DLs, SSNs, addresses, phones, emails and so on), financials, payment details, credit card information, projects, drawings and specification contracts with government facilities and big names like BOEING and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Community College of Beaver County",
+        "discovered": "2026-04-03 17:53:13.467380",
+        "description": "https://ccbc.edu\n\t\t\t\t\t\t\t\t\tThe college serves a diverse student body, including recent high school graduates, adult learners, and those seeking career advancement. By focusing heavily on workforce development but neglecting its security, the college compromised hundreds of records containing personal and confidential information, as well as financial documents, projects, and contracts, which were subsequently leaked to the public.",
+        "link": "http://kcykitrgt5sceuap4wrgeqdx53z2kgailaa5a62qxmdl7mbqarfgt3id.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Community College of Beaver County.png",
+        "group_name": "interlock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Westamerica Communications",
+        "discovered": "2026-04-03 17:53:07.308679",
+        "description": "Westamerica Communications services include commercial lithographic and digital printing, direct mailing and online marketing, strategy and branding, distribution and fulfillment.We will upload over 70gb of corporate data soon. Employee personal information (DLs and so on), customer files, detailed financials, payment details, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Charles River Insurance",
+        "discovered": "2026-04-03 17:53:06.281322",
+        "description": "Charles River Insurance is an independent insurance agency headquartered in the state of Massachusetts that focuses on delivering personalized risk management and insurance solutions to individuals and businesses.We will upload 63gb of corporate data soon. Detailed employee andcustomer personal information (passport, DLs, SSNs, addresses, phones, emails and so on), detailed financials, payment details, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Government"
+    },
+    {
         "post_title": "American Vintage Home, Briggs Plumbing Products, Genco Manufacturing, American Vintage Hom",
         "discovered": "2026-04-03 15:47:28.991429",
         "description": "We obtained about 11gb of data of the following companies:American Vintage Home specializes in heating, air conditioning, and plumbing services tailored for vintage homes in the Chicago North Shore area. Their expert technicians focus on preserving the charm of older homes while providing modern HVAC solutions, including high-velocity and ductless systems.Briggs Plumbing Products, Inc. manufactures and markets enameled steel products, vitreous china, and faucets for residential, hospitality, and commercial applications. Founded in 1908 and headquartered in Goose Creek, SC.Genco Manufacturing specializes in high-quality, American-made utility truck beds, offering a range of products including the Genco Royal Utility Truck Bed and Genco Sporting Flatbed Body.American Vintage Home specializes in heating, air conditioning, and plumbing services tailored for vintage homes in the Chicago North Shore area.Associates of Clifton Park offers a range of insurance products including long-term care insurance, Medicare supplements, life insurance, and group disability insurance. You will find personal employee personal data, HR files, medical information, client information, project files, confidential files, accounting and financials, contracts and agreements and so on.",
@@ -168,35 +218,5 @@
         "screen": "screenshots/inc ransom/VLawyers.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "project1631.com",
-        "discovered": "2026-04-02 20:35:06.319467",
-        "description": "project1631.com",
-        "link": "/card/project1631_com",
-        "magnet": null,
-        "screen": "screenshots/beast/project1631com.png",
-        "group_name": "beast",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*****d **d**** ****o**",
-        "discovered": "2026-04-02 18:30:56.935436",
-        "description": "Functions as a comprehensive healthcare ecosystem—combining clinical care, surgical services, research innovation, and workforce development—all under one organization dedicated to improving community health in California",
-        "link": "/Company/Announce/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/*****d **d**** ****o**.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Serap",
-        "discovered": "2026-04-02 18:30:50.033698",
-        "description": "SERAP is an independent company and opened up its capital to employees on a voluntary basis. Today more than 90% of SERAP employees are company shareholders. SERAP operates an ambitious development strategy on every continent and is currently the 1st largest world manufacturer of on-farm milk coolers and No. 1 in France andmany other countries.We will upload 50gb of corporate data soon. Employee personal information, HR files, client files (contracts with more than 80 countries), financials, payment details, NDAs, detailed projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
