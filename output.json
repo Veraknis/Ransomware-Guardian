@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Asmar Schor & McKenna",
+        "discovered": "2026-04-03 08:52:01.016609",
+        "description": "Asmar, Schor & McKenna is a leading construction law firm specializing in construction law, government contracts, commercial real estate transactions, and corpo...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "United Finance Egypt",
+        "discovered": "2026-04-03 02:49:24.794317",
+        "description": "United Finance Egypt is an Egyptian non-bank financial institution (NBFI) that provides financing services for businesses and real estate.\nIt operates in several areas: financial and operating leases, factoring, and mortgage lending.\nThe data breach involves the company’s entire infrastructure. The majority of the leaked data consists of the company’s customer information.",
+        "link": "/posts/ad284bf3-0789-4d98-a7d0-4810f027bda0",
+        "magnet": null,
+        "screen": "screenshots/payload/United Finance Egypt.png",
+        "group_name": "payload",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tscherne Consulting Steuerberatung GmbH",
+        "discovered": "2026-04-03 02:49:23.717619",
+        "description": "Tscherne Consulting Steuerberatung GmbH is an Austrian tax consulting firm based in Graz. The company specializes in services for small and medium-sized businesses, including bookkeeping, tax planning, payroll processing, and business consulting.",
+        "link": "/posts/f09e43ac-79b7-4cf1-bcd8-93d6f27b6436",
+        "magnet": null,
+        "screen": "screenshots/payload/Tscherne Consulting Steuerberatung GmbH.png",
+        "group_name": "payload",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Faulkner County Sheriff's Office",
+        "discovered": "2026-04-03 00:44:45.692240",
+        "description": "Government",
+        "link": "/site/view?uuid=dabe7dbe-6775-3271-8fb1-5d3f2f1f3652",
+        "magnet": null,
+        "screen": "screenshots/qilin/Faulkner County Sheriff's Office.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "VLawyers",
+        "discovered": "2026-04-02 22:53:22.704907",
+        "description": "",
+        "link": "/blog/disclosures/69ceb7aa8f1d14b7437d1f41",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/VLawyers.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "project1631.com",
         "discovered": "2026-04-02 20:35:06.319467",
         "description": "project1631.com",
@@ -218,225 +268,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "irpea.it",
-        "discovered": "2026-04-02 09:49:03.938549",
-        "description": "",
-        "link": "/blog/disclosures/69ce0dba8f1d14b7436c8084",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/irpeait.png",
-        "group_name": "inc ransom",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "TouchSource",
-        "discovered": "2026-04-02 09:15:24.695100",
-        "description": "TouchSource delivers simple solutions for smart spaces that engage people. Our captivating digital displays and IoT-connected directory solutions improve the experience of tenants, visitors, and shoppers. We create intelligent digital experiences in residential, business, retail, healthcare, and public spaces with relevant, engaging content that moves people where it matters. Our digital signage solutions in the TouchSource ActiveSpaces portfolio are simple to deploy, easy to use and low effort to maintain. \nThe company headquarters is located in 1370 Miners Drive, Suite 103, Lafayette, Colorado 80026, USA.\n11-50 Employees.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/medusa/TouchSource.png",
-        "group_name": "medusa",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Blanchard",
-        "discovered": "2026-04-02 02:40:12.285349",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LOCKHEED MARTIN",
-        "discovered": "2026-04-02 01:14:21.735893",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/threatmarket/LOCKHEED MARTIN.png",
-        "group_name": "threatmarket",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Neurologic Associates Of Central Brevard",
-        "discovered": "2026-04-02 00:38:35.985000",
-        "description": "0",
-        "link": "/site/view?uuid=4eaab58e-96ae-32a4-840f-a235732f1fbf",
-        "magnet": null,
-        "screen": "screenshots/qilin/Neurologic Associates Of Central Brevard.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CHEK News",
-        "discovered": "2026-04-02 00:38:35.047431",
-        "description": "Broadcasting",
-        "link": "/site/view?uuid=cecefc09-2f41-3838-8223-000d3ad145f2",
-        "magnet": null,
-        "screen": "screenshots/qilin/CHEK News.png",
-        "group_name": "qilin",
-        "sector": "Media"
-    },
-    {
-        "post_title": "jursaconsulting",
-        "discovered": "2026-04-02 00:38:34.078158",
-        "description": "Business Services",
-        "link": "/site/view?uuid=06958e37-9494-3cfc-9691-dbff2c1b7b15",
-        "magnet": null,
-        "screen": "screenshots/qilin/jursaconsulting.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Die Linke",
-        "discovered": "2026-04-02 00:38:33.137384",
-        "description": "Membership Organizations",
-        "link": "/site/view?uuid=cf337092-3ec3-33b6-aab1-939f12ecf38a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Die Linke.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Blanchard Training and Development Likely to Engage tag.",
-        "discovered": "2026-04-02 00:38:31.554239",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Fountain",
-        "discovered": "2026-04-02 00:38:08.938331",
-        "description": "Over the last 40 years, Fountain has established itself as Europe's leading supplier of drinks vending machines for businesses, delivering the widest range of s...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Elara Engineering",
-        "discovered": "2026-04-02 00:38:07.966867",
-        "description": "Elara Engineering is a full-service Mechanical, Electrical, Plumbing, Fire Protection, and Technology consulting engineering firm based in Chicago, Illinois. Wi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Jordan India Fertilizer Company ",
-        "discovered": "2026-04-02 00:21:47.609590",
-        "description": "\r\n\r\nIndian Farmers Fertiliser Cooperative (IFFCO) and Jordan Phosphates Mines Company Ltd (JPMC) had formed a Limited Liability Joint Venture Company, namely Jordan India Fertiliser Company (JIFCO) on March 6, 2008 in Amman, Jordan under the 'Free Zone' system to set up a Phosphoric Acid Plant of 1500 tonnes per day P2O5 capacity at Eshidiya in Jordan. In this company, IFFCO and its affiliates hold 52 % equity, while JPMC holds 48 % equity.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/Jordan India Fertilizer Company .png",
-        "group_name": "netrunner",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Harman Fitness ",
-        "discovered": "2026-04-02 00:21:16.448351",
-        "description": "\r\n\r\nHarman Fitness is a multi-unit franchise operator and management company that owns and runs dozens of Crunch Fitness clubs across the U.S. — operating Crunch locations under franchise agreements with over 40 gyms nationwide\r\n\r\n1.4 TB of internal financial and legal data covering 10 years of operation will be available soon\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/Harman Fitness .png",
-        "group_name": "netrunner",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Nippon Medical School Musashi Kosugi Hospital ",
-        "discovered": "2026-04-02 00:20:42.342697",
-        "description": "Nippon Medical School Musashi Kosugi Hospital is a 372-bed regional teaching hospital in Nakahara-ku, Kawasaki (Musashi-Kosugi area), affiliated with Nippon Medical School. Established in 1937, it offers comprehensive services across 36 clinical departments, including emergency and critical care, ICU, NICU, perinatal and pediatric care, cancer treatment, and minimally invasive endovascular procedures. The hospital serves as a regional hub with disaster-resistant facilities and an on-site heliport, and emphasizes advanced, patient-centered care and medical education.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/Nippon Medical School Musashi Kosugi Hospital .png",
-        "group_name": "netrunner",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Shiraume Hospital ",
-        "discovered": "2026-04-02 00:20:02.401337",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/Shiraume Hospital .png",
-        "group_name": "netrunner",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "GEG Telecomunicazioni ",
-        "discovered": "2026-04-02 00:19:06.735713",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/GEG Telecomunicazioni .png",
-        "group_name": "netrunner",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Seoyon E-Hwa Summit",
-        "discovered": "2026-04-02 00:18:01.372902",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/netrunner/Seoyon E-Hwa Summit.png",
-        "group_name": "netrunner",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BJ Grupo",
-        "discovered": "2026-04-01 23:56:04.621720",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/krybit/BJ Grupo.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kramer-nsc.at",
-        "discovered": "2026-04-01 23:55:36.181810",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/krybit/kramer-nscat.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TESSCO",
-        "discovered": "2026-04-01 23:04:19.776550",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "H****o",
-        "discovered": "2026-04-01 22:01:56.186848",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lincoln Property LLC",
-        "discovered": "2026-04-01 22:01:38.978187",
-        "description": "",
-        "link": "/blog/disclosures/69cd601a8f1d14b7435a8105",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Lincoln Property LLC.png",
-        "group_name": "inc ransom",
-        "sector": "Real Estate"
     }
 ]
