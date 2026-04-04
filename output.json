@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Siam Okamura International Co",
+        "discovered": "2026-04-04 20:43:29.180890",
+        "description": "Siam Okamura International Co., Ltd., established in Thailand in 1996, is a leading provider of high-quality Japanese-designed ergonomic office furniture and in...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AUG Pharma",
+        "discovered": "2026-04-04 20:00:04.735619",
+        "description": "AUG Pharma is an Egyptian shareholding company dedicated to enhancing public health through the development, manufacturing, and commercialization of innovative ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Vietnam Fortress Tools JSC",
+        "discovered": "2026-04-04 20:00:03.669906",
+        "description": "Vietnam Fortress Tools JSC, established in 2006, is a leading manufacturer of gardening tools, with over 90% of its products exported to North America and Europ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "G Plants",
+        "discovered": "2026-04-04 18:34:14.487030",
+        "description": "G Plants Ltd specializes in providing innovative gardening products and gifts, including seasonal plant items and lawn care solutions. They cater to a diverse c...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Shine Aviation",
         "discovered": "2026-04-04 15:46:25.220530",
         "description": "Aviation firm data breach.",
@@ -78,55 +118,5 @@
         "screen": null,
         "group_name": "bqtlock",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Nissan - Database Leaked",
-        "discovered": "2026-04-03 19:57:01.450011",
-        "description": "",
-        "link": "/news/Nissan/",
-        "magnet": null,
-        "screen": "screenshots/everest/Nissan - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Woodland Trade",
-        "discovered": "2026-04-03 18:57:08.033540",
-        "description": "Woodland Trade Company is a full-service tool design and manufacturing firm based in Tacoma, Washington, specializing in tool design and fabrication using composites, metals, and 3D printed hardware. The company serves a diverse range of industries including aerospace, automotive, marine, medical, and space, and is recognized for its engineering design, CNC machining, and additive manufacturing capabilities.We will upload 13gb of corporate data soon. Detailed employee information (passport, DLs, SSNs, addresses, phones, emails and so on), financials, payment details, credit card information, projects, drawings and specification contracts with government facilities and big names like BOEING and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Community College of Beaver County",
-        "discovered": "2026-04-03 17:53:13.467380",
-        "description": "https://ccbc.edu\n\t\t\t\t\t\t\t\t\tThe college serves a diverse student body, including recent high school graduates, adult learners, and those seeking career advancement. By focusing heavily on workforce development but neglecting its security, the college compromised hundreds of records containing personal and confidential information, as well as financial documents, projects, and contracts, which were subsequently leaked to the public.",
-        "link": "http://kcykitrgt5sceuap4wrgeqdx53z2kgailaa5a62qxmdl7mbqarfgt3id.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Community College of Beaver County.png",
-        "group_name": "interlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Westamerica Communications",
-        "discovered": "2026-04-03 17:53:07.308679",
-        "description": "Westamerica Communications services include commercial lithographic and digital printing, direct mailing and online marketing, strategy and branding, distribution and fulfillment.We will upload over 70gb of corporate data soon. Employee personal information (DLs and so on), customer files, detailed financials, payment details, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Charles River Insurance",
-        "discovered": "2026-04-03 17:53:06.281322",
-        "description": "Charles River Insurance is an independent insurance agency headquartered in the state of Massachusetts that focuses on delivering personalized risk management and insurance solutions to individuals and businesses.We will upload 63gb of corporate data soon. Detailed employee andcustomer personal information (passport, DLs, SSNs, addresses, phones, emails and so on), detailed financials, payment details, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
     }
 ]
