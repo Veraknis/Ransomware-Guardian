@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Advanced Vehicle Assemblies",
+        "discovered": "2026-04-04 03:24:58.588702",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Community Connections",
+        "discovered": "2026-04-04 03:24:43.226204",
+        "description": "",
+        "link": "/blog/disclosures/69c90c9e8f1d14b743f59f93",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Community Connections.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "coronapa.com",
+        "discovered": "2026-04-04 03:24:41.802326",
+        "description": "",
+        "link": "/blog/disclosures/69d04c918f1d14b743a602d2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/coronapacom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BERGE-BAU GmbH & Co. KG",
+        "discovered": "2026-04-03 23:57:20.995842",
+        "description": "",
+        "link": "/blog/disclosures/69d00e508f1d14b7439e964b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/BERGE-BAU GmbH & Co KG.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Infonet Media d.o.o.",
+        "discovered": "2026-04-03 23:57:20.432058",
+        "description": "",
+        "link": "/blog/disclosures/69d01af68f1d14b7439fc1b3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Infonet Media doo.png",
+        "group_name": "inc ransom",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Metro Hospital USA",
+        "discovered": "2026-04-03 23:57:16.855518",
+        "description": "Primary Domain:\n\nmetro.hospital (Internet Site - before it went down)\n\n\n\nInternal/Email Domain:\nmetro-hospital.net (internal facing nomenclature / business email)\n\n\nCompromised Data Volume:\n5.355 TB of sensitive medical files\n\n\nPatient Records:\n123,458 patients (scripts, radiology, eKG, MRI, ultrasound, blood work)\n\n\nAdditional Assets:\nComplete email archives, SonicWall VPN access credentials, network infrastructure information, internal backups\n\n\nPayment Status:\nUNPAID 400 xmr - Private negotiation / Ransom demand active\n\n\n info : Metro Hospital USA suffered a full-scale compromise. Over 5.3TB of mission-critical medical data exfiltrated, including radiology images, electronic health records (EHR), diagnostic results, and personal identifiable health information. Additionally, SonicWall appliance access and complete corporate email repositories were obtained. Decryption key and deletion of stolen data available upon ransom fulfillment. Deadline strict.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "bqtlock",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Nissan - Database Leaked",
         "discovered": "2026-04-03 19:57:01.450011",
         "description": "",
@@ -167,56 +227,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Asmar Schor & McKenna",
-        "discovered": "2026-04-03 08:52:01.016609",
-        "description": "Asmar, Schor & McKenna is a leading construction law firm specializing in construction law, government contracts, commercial real estate transactions, and corpo...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "United Finance Egypt",
-        "discovered": "2026-04-03 02:49:24.794317",
-        "description": "United Finance Egypt is an Egyptian non-bank financial institution (NBFI) that provides financing services for businesses and real estate.\nIt operates in several areas: financial and operating leases, factoring, and mortgage lending.\nThe data breach involves the company’s entire infrastructure. The majority of the leaked data consists of the company’s customer information.",
-        "link": "/posts/ad284bf3-0789-4d98-a7d0-4810f027bda0",
-        "magnet": null,
-        "screen": "screenshots/payload/United Finance Egypt.png",
-        "group_name": "payload",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Tscherne Consulting Steuerberatung GmbH",
-        "discovered": "2026-04-03 02:49:23.717619",
-        "description": "Tscherne Consulting Steuerberatung GmbH is an Austrian tax consulting firm based in Graz. The company specializes in services for small and medium-sized businesses, including bookkeeping, tax planning, payroll processing, and business consulting.",
-        "link": "/posts/f09e43ac-79b7-4cf1-bcd8-93d6f27b6436",
-        "magnet": null,
-        "screen": "screenshots/payload/Tscherne Consulting Steuerberatung GmbH.png",
-        "group_name": "payload",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Faulkner County Sheriff's Office",
-        "discovered": "2026-04-03 00:44:45.692240",
-        "description": "Government",
-        "link": "/site/view?uuid=dabe7dbe-6775-3271-8fb1-5d3f2f1f3652",
-        "magnet": null,
-        "screen": "screenshots/qilin/Faulkner County Sheriff's Office.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "VLawyers",
-        "discovered": "2026-04-02 22:53:22.704907",
-        "description": "",
-        "link": "/blog/disclosures/69ceb7aa8f1d14b7437d1f41",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/VLawyers.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
