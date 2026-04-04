@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Shine Aviation",
+        "discovered": "2026-04-04 15:46:25.220530",
+        "description": "Aviation firm data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/4iULXKdowH48HPGJpRnRJ8q9iPXPHtc7FNVlRxKTNPGE7H8D9MkcmPeBz79kwuYq0aA0Cf7ntc3b3k7O37N+TjhDaTl5Z3I1",
+        "magnet": null,
+        "screen": "screenshots/anubis/Shine Aviation.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Kopran",
+        "discovered": "2026-04-04 13:38:24.702151",
+        "description": "Kopran Limited & its subsidiary Kopran Research Laboratories Limited has established an indomitable presence in the realm of manufacturing an extensive spectrum...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Advanced Vehicle Assemblies",
         "discovered": "2026-04-04 03:24:58.588702",
         "description": "",
@@ -108,125 +128,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Government"
-    },
-    {
-        "post_title": "American Vintage Home, Briggs Plumbing Products, Genco Manufacturing, American Vintage Hom",
-        "discovered": "2026-04-03 15:47:28.991429",
-        "description": "We obtained about 11gb of data of the following companies:American Vintage Home specializes in heating, air conditioning, and plumbing services tailored for vintage homes in the Chicago North Shore area. Their expert technicians focus on preserving the charm of older homes while providing modern HVAC solutions, including high-velocity and ductless systems.Briggs Plumbing Products, Inc. manufactures and markets enameled steel products, vitreous china, and faucets for residential, hospitality, and commercial applications. Founded in 1908 and headquartered in Goose Creek, SC.Genco Manufacturing specializes in high-quality, American-made utility truck beds, offering a range of products including the Genco Royal Utility Truck Bed and Genco Sporting Flatbed Body.American Vintage Home specializes in heating, air conditioning, and plumbing services tailored for vintage homes in the Chicago North Shore area.Associates of Clifton Park offers a range of insurance products including long-term care insurance, Medicare supplements, life insurance, and group disability insurance. You will find personal employee personal data, HR files, medical information, client information, project files, confidential files, accounting and financials, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Southeastern Conference of Seventh-day Adventists",
-        "discovered": "2026-04-03 13:29:16.005843",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dubosson Frères SA",
-        "discovered": "2026-04-03 13:29:14.280323",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Siena Construction",
-        "discovered": "2026-04-03 13:29:13.360852",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "PARS AR-GE",
-        "discovered": "2026-04-03 13:29:12.413465",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Neptune Mechanical, Inc.",
-        "discovered": "2026-04-03 13:29:11.492944",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TTAF Defense",
-        "discovered": "2026-04-03 13:29:10.557538",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Association OCACIA",
-        "discovered": "2026-04-03 13:29:09.655854",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "S***a V**a***s",
-        "discovered": "2026-04-03 13:29:08.705175",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "roodtrucking.com",
-        "discovered": "2026-04-03 13:28:53.103842",
-        "description": "",
-        "link": "/blog/disclosures/69cf9f358f1d14b743937025",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/roodtruckingcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Berning & Söhne GmbH",
-        "discovered": "2026-04-03 13:28:48.190929",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Piet Vijverberg",
-        "discovered": "2026-04-03 13:28:47.162661",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
     }
 ]
