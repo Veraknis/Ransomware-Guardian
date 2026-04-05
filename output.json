@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Barnes Solicitors LLP",
+        "discovered": "2026-04-04 22:56:25.175272",
+        "description": "",
+        "link": "topic.php?id=5ZUCDVzPU8qVr",
+        "magnet": null,
+        "screen": "screenshots/play/Barnes Solicitors LLP.png",
+        "group_name": "play",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Sokolin",
+        "discovered": "2026-04-04 22:56:24.211353",
+        "description": "",
+        "link": "topic.php?id=zJxLV3CFob7Brz",
+        "magnet": null,
+        "screen": "screenshots/play/Sokolin.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Siam Okamura International Co",
         "discovered": "2026-04-04 20:43:29.180890",
         "description": "Siam Okamura International Co., Ltd., established in Thailand in 1996, is a leading provider of high-quality Japanese-designed ergonomic office furniture and in...",
@@ -58,65 +78,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Advanced Vehicle Assemblies",
-        "discovered": "2026-04-04 03:24:58.588702",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Community Connections",
-        "discovered": "2026-04-04 03:24:43.226204",
-        "description": "",
-        "link": "/blog/disclosures/69c90c9e8f1d14b743f59f93",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Community Connections.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "coronapa.com",
-        "discovered": "2026-04-04 03:24:41.802326",
-        "description": "",
-        "link": "/blog/disclosures/69d04c918f1d14b743a602d2",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/coronapacom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BERGE-BAU GmbH & Co. KG",
-        "discovered": "2026-04-03 23:57:20.995842",
-        "description": "",
-        "link": "/blog/disclosures/69d00e508f1d14b7439e964b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/BERGE-BAU GmbH & Co KG.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Infonet Media d.o.o.",
-        "discovered": "2026-04-03 23:57:20.432058",
-        "description": "",
-        "link": "/blog/disclosures/69d01af68f1d14b7439fc1b3",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Infonet Media doo.png",
-        "group_name": "inc ransom",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Metro Hospital USA",
-        "discovered": "2026-04-03 23:57:16.855518",
-        "description": "Primary Domain:\n\nmetro.hospital (Internet Site - before it went down)\n\n\n\nInternal/Email Domain:\nmetro-hospital.net (internal facing nomenclature / business email)\n\n\nCompromised Data Volume:\n5.355 TB of sensitive medical files\n\n\nPatient Records:\n123,458 patients (scripts, radiology, eKG, MRI, ultrasound, blood work)\n\n\nAdditional Assets:\nComplete email archives, SonicWall VPN access credentials, network infrastructure information, internal backups\n\n\nPayment Status:\nUNPAID 400 xmr - Private negotiation / Ransom demand active\n\n\n info : Metro Hospital USA suffered a full-scale compromise. Over 5.3TB of mission-critical medical data exfiltrated, including radiology images, electronic health records (EHR), diagnostic results, and personal identifiable health information. Additionally, SonicWall appliance access and complete corporate email repositories were obtained. Decryption key and deletion of stolen data available upon ransom fulfillment. Deadline strict.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "bqtlock",
-        "sector": "Healthcare"
     }
 ]
