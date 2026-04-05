@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Innovision Holdings",
+        "discovered": "2026-04-05 14:48:20.536467",
+        "description": "Founded in 2004, InnoVision Holdings Corporation is a group of apparel and accessories companies that focus on brand developments, product innovation, global sa...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kuwait Ministry Of Interior Hacked!",
+        "discovered": "2026-04-05 12:36:41.264336",
+        "description": "No US Allies is Protected Anymore....",
+        "link": "pages/kuwait-ministry-interior.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/Kuwait Ministry Of Interior Hacked!.png",
+        "group_name": "nasir security",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "Barnes Solicitors LLP",
         "discovered": "2026-04-04 22:56:25.175272",
         "description": "",
@@ -58,25 +78,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Shine Aviation",
-        "discovered": "2026-04-04 15:46:25.220530",
-        "description": "Aviation firm data breach.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/4iULXKdowH48HPGJpRnRJ8q9iPXPHtc7FNVlRxKTNPGE7H8D9MkcmPeBz79kwuYq0aA0Cf7ntc3b3k7O37N+TjhDaTl5Z3I1",
-        "magnet": null,
-        "screen": "screenshots/anubis/Shine Aviation.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Kopran",
-        "discovered": "2026-04-04 13:38:24.702151",
-        "description": "Kopran Limited & its subsidiary Kopran Research Laboratories Limited has established an indomitable presence in the realm of manufacturing an extensive spectrum...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
     }
 ]
