@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Zenbusiness, Inc.",
+        "discovered": "2026-04-05 18:57:09.928713",
+        "description": "Several terabytes combined from Snowflake, Mixpanel, Salesforce, financial/kyc data, other data containing sensitive PII, business data, and ect. were compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care AT ALL.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Innovision Holdings",
         "discovered": "2026-04-05 14:48:20.536467",
         "description": "Founded in 2004, InnoVision Holdings Corporation is a group of apparel and accessories companies that focus on brand developments, product innovation, global sa...",
@@ -38,45 +48,5 @@
         "screen": "screenshots/play/Sokolin.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Siam Okamura International Co",
-        "discovered": "2026-04-04 20:43:29.180890",
-        "description": "Siam Okamura International Co., Ltd., established in Thailand in 1996, is a leading provider of high-quality Japanese-designed ergonomic office furniture and in...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUG Pharma",
-        "discovered": "2026-04-04 20:00:04.735619",
-        "description": "AUG Pharma is an Egyptian shareholding company dedicated to enhancing public health through the development, manufacturing, and commercialization of innovative ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Vietnam Fortress Tools JSC",
-        "discovered": "2026-04-04 20:00:03.669906",
-        "description": "Vietnam Fortress Tools JSC, established in 2006, is a leading manufacturer of gardening tools, with over 90% of its products exported to North America and Europ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "G Plants",
-        "discovered": "2026-04-04 18:34:14.487030",
-        "description": "G Plants Ltd specializes in providing innovative gardening products and gifts, including seasonal plant items and lawn care solutions. They cater to a diverse c...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
