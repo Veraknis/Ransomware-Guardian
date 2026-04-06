@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Crystal Point",
+        "discovered": "2026-04-06 20:52:04.274451",
+        "description": "",
+        "link": "topic.php?id=AsDvBVPeKb1lSd",
+        "magnet": null,
+        "screen": "screenshots/play/Crystal Point.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Morphosis",
+        "discovered": "2026-04-06 20:52:02.306370",
+        "description": "",
+        "link": "topic.php?id=gwIfFKKjz4Iyw0",
+        "magnet": null,
+        "screen": "screenshots/play/Morphosis.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "soundinsurance.ca",
+        "discovered": "2026-04-06 18:40:11.349156",
+        "description": "We have 500GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/soundinsurance",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/soundinsuranceca.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "endeavourautomotive.co.uk",
+        "discovered": "2026-04-06 18:40:10.333656",
+        "description": "We have 150GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/endeavourautomotive",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/endeavourautomotivecouk.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "eworldme.com",
+        "discovered": "2026-04-06 18:40:09.352393",
+        "description": "We have 300GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/eworldme",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/eworldmecom.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AKM Consulting Engineers",
+        "discovered": "2026-04-06 18:40:06.873631",
+        "description": "AKM Consulting Engineers specializes in providing expert engineering solutions for public agencies, focusing on water and wastewater systems, infrastructure, and flood control projects.We will upload 17gb of corporate data soon. HR files, drawings and specifications, client docs, detailed financials, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Aqua-Serv© Engineers",
+        "discovered": "2026-04-06 18:40:05.893396",
+        "description": "Aqua-Serv Engineers, Inc. is one of the largest independent regional industrial water treatment companies in the United States, headquartered in Fontana, California. They provide a wide range of water treatment products and services to various industries, including healthcare, government, food and beverage, and hospitality.We will upload 17gb of corporate data soon. Employee personal documents (passports, driver licenses and other docs), drawings and specifications, client information, detailed financials, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "dinisrl.it",
+        "discovered": "2026-04-06 17:26:52.267642",
+        "description": "DINI is a family-run transportation and automotive business based in Noceto, Italy. With two main branches - Dini Autogr and Dini Autotrasporti - the company provides local trucking and automotive services across the Parma region. Since 2012, they have built a strong reputation for reliable and professional transportation solutions.\r\n\r\nThe download will be available on April 13 at 12:00 UTC",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cry0/dinisrlit.png",
+        "group_name": "cry0",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Operinter",
         "discovered": "2026-04-06 16:30:33.254848",
         "description": "Freight & Logistics Services",
@@ -888,15 +968,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Zenbusiness, Inc.",
-        "discovered": "2026-04-05 18:57:09.928713",
-        "description": "Several terabytes combined from Snowflake, Mixpanel, Salesforce, financial/kyc data, other data containing sensitive PII, business data, and ect. were compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care AT ALL.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
     }
 ]
