@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "C***n** **tu*e *n S**ur*** P**ot**hn**u*",
+        "discovered": "2026-04-06 06:29:07.224190",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Carmelo Candy Inc",
+        "discovered": "2026-04-06 04:36:13.522905",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cabinet d’Étude en Sécurité Pyrotechnique",
+        "discovered": "2026-04-06 04:36:12.243549",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Zenbusiness, Inc.",
         "discovered": "2026-04-05 18:57:09.928713",
         "description": "Several terabytes combined from Snowflake, Mixpanel, Salesforce, financial/kyc data, other data containing sensitive PII, business data, and ect. were compromised.  The company failed to reach an agreement with us despite all the chances and offers we made. They don't care AT ALL.",
@@ -28,25 +58,5 @@
         "screen": "screenshots/nasir security/Kuwait Ministry Of Interior Hacked!.png",
         "group_name": "nasir security",
         "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Barnes Solicitors LLP",
-        "discovered": "2026-04-04 22:56:25.175272",
-        "description": "",
-        "link": "topic.php?id=5ZUCDVzPU8qVr",
-        "magnet": null,
-        "screen": "screenshots/play/Barnes Solicitors LLP.png",
-        "group_name": "play",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Sokolin",
-        "discovered": "2026-04-04 22:56:24.211353",
-        "description": "",
-        "link": "topic.php?id=zJxLV3CFob7Brz",
-        "magnet": null,
-        "screen": "screenshots/play/Sokolin.png",
-        "group_name": "play",
-        "sector": "Unknown"
     }
 ]
