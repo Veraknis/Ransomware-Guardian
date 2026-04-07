@@ -1,5 +1,235 @@
 [
     {
+        "post_title": "ARC Dialysis LLC",
+        "discovered": "2026-04-07 17:31:21.690387",
+        "description": "Independent dialysis service provider",
+        "link": "Companies/arcdialysis",
+        "magnet": null,
+        "screen": "screenshots/pear/ARC Dialysis LLC.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AnchorsGordon",
+        "discovered": "2026-04-07 17:31:01.148976",
+        "description": "AnchorsGordon is a law firm based in Northwest Florida with decades of experience in various legal fields. They specialize in complex business and commercial li...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Bit-Wizards",
+        "discovered": "2026-04-07 17:31:00.230533",
+        "description": "Bit-Wizards is a technology company that develops an application, builds a brand, or move to the cloud. This company is headquartered in Florida",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Star Fuels",
+        "discovered": "2026-04-07 17:30:56.234910",
+        "description": "Data breach at a small fuel company.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/6QprKFSowk18qEbHPxiFQ5SpAd64ik2Pvu1oI27AJAIV3b9GbpjW2wJKo9x+VMK3b6lf3uWdaX3bcjTK0GFWS0JZRHdm",
+        "magnet": null,
+        "screen": "screenshots/anubis/Star Fuels.png",
+        "group_name": "anubis",
+        "sector": "Energy"
+    },
+    {
+        "post_title": " AUDIT ENTITY: [ COOPERATION REACHED ] China",
+        "discovered": "2026-04-07 14:54:05.227379",
+        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] China.png",
+        "group_name": "audit team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AUDIT ENTITY: [ COOPERATION REACHED ] Thailand",
+        "discovered": "2026-04-07 14:53:21.368047",
+        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] Thailand.png",
+        "group_name": "audit team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AUDIT ENTITY: [ COOPERATION REACHED ] Hong Kong",
+        "discovered": "2026-04-07 14:52:40.159687",
+        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] Hong Kong.png",
+        "group_name": "audit team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AUDIT ENTITY: joycity",
+        "discovered": "2026-04-07 14:51:34.390651",
+        "description": "Joycity is a prominent South Korean game developer and publisher founded in 1994 and listed on the KOSDAQ. Renowned for its innovation and global reach, the company originally pioneered the hip-hop-themed sports genre with its self-developed FreeStyle series, which became a cultural milestone for players across Asia.\r\n\r\nIn the mobile era, Joycity successfully pivoted to the Strategy (SLG) genre, producing high-revenue titles like Gunship Battle: Total Warfare and Pirates of the Caribbean: Tides of War, with international markets consistently accounting for over 70% of its total revenue.\r\n\r\nCurrently, Joycity is actively expanding into Web3 technologies and major cross-platform projects. Its blockbuster collaboration with Capcom and Aniplex, Resident Evil Survival Unit, has already surpassed 5 million global downloads as of early 2026, demonstrating the company’s robust R&D and operational expertise in managing world-class intellectual properties.\r\n",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: joycity.png",
+        "group_name": "audit team",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "AUDIT ENTITY: Kawasaki Motors Philippines Corporation",
+        "discovered": "2026-04-07 14:50:17.527106",
+        "description": "Kawasaki Motors Philippines Corporation (KMPC), located in Muntinlupa, Metro Manila, is a leading manufacturer and distributor of Kawasaki motorcycles in the Philippines, operating for over 40 years. As an affiliate of Kawasaki Heavy Industries, Ltd. (KHI), it produces commuter bikes, tricycles, and underbones, with an annual capacity of 250,000 units, making it one of the largest plants in Kawasaki's global network.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: Kawasaki Motors Philippines Corporation.png",
+        "group_name": "audit team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hospital del Sur",
+        "discovered": "2026-04-07 14:13:42.255229",
+        "description": "hospitaldelsur.gov.co zoominfo.com/c/hospital-del-sur-itag-gabriel-jaramillo-piedrahita-sede-santamara/547031936 E.S.E Hospital del Sur is a healthcare institution located in Itagüí, Antioquia, Colombia, providing a range of medical services including general consultations, hospitalization, imaging, laboratory services, and emergency care",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Ciarus",
+        "discovered": "2026-04-07 14:13:41.193157",
+        "description": "ciarus.de zoominfo.com/c/ciarus/1324145982 Ciarus Technologies is a software development company based in Germany that specializes in custom software development, web and mobile app development, IT outsourcing, and DevOps services. They cater to businesses looking for tailored IT solutions to enhance their competitiveness in the digital landscape. With a focus on exceptional customer service and technical expertise, Ciarus aims to help clients bring their ideas to life through reliable and cost-effective technology",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mahyco Pvt",
+        "discovered": "2026-04-07 14:13:40.221323",
+        "description": "mahyco.com zoominfo.com/c/mahyco-pvt-ltd/23527722 Mahyco Private Limited is a pioneer in the research, development, production, processing, and marketing of high-quality hybrid and open-pollinated seeds for the Indian agricultural sector. Founded in 1964, the company aims to enhance the lives of farmers through innovative agricultural products and cutting-edge technology. Mahyco serves a diverse clientele of farmers across India, providing them with superior seed varieties that improve yield and profitability",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Innovision Holdings",
+        "discovered": "2026-04-07 14:13:39.210774",
+        "description": "ivcorp.com zoominfo.com/c/innovision-holdings-corp/1132964507 Founded in 2004, InnoVision Holdings Corporation is a group of apparel and accessories companies that focus on brand developments, product innovation, global sales, marketing and distribution. From the company's luxury fashion division to the company's mass market fan wear subsidiary, InnoVisions companies combine innovative designs, high quality, utility with respected brands in their respective markets. Through its portfolio of brands, be it its fully owned or licensed, created or acquired, InnoVision designs, manufacture and distribute to a diverse base of retailers in luxury lifestyle, outdoor, speciality and mass markets in over 30 countries",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Win Academy",
+        "discovered": "2026-04-07 14:13:38.132856",
+        "description": "Winacademy.net is an educational platform dedicated to preparing students for the JEE Main engineering entrance exam in India. It provides comprehensive details about the exam, including its pattern, syllabus, and eligibility criteria for top engineering institutes",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Education"
+    },
+    {
+        "post_title": "DGS",
+        "discovered": "2026-04-07 14:13:37.075675",
+        "description": "dgsts.com DGS Technical Services is a structural steel and mechanical engineering firm that has been providing comprehensive design, detailing, and 3D modeling services since 2004. Based in Elgin, Illinois, they serve a variety of industrial and commercial clients, including those in the semiconductor and vending machine industries.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "EMCO Holding",
+        "discovered": "2026-04-07 14:13:36.020540",
+        "description": "emcoholding.com Grupo EMCO Holding is a conglomerate of prestigious companies operating in different areas, guided by a philosophy of excellence and responsibility, with significant investments in Central America. In recent years, the group has diversified and has strongly positioned itself in fields such as the airport sector, cargo terminals, steel production, and steel manufacturing, and is currently developing energy generation projects. Thanks to its major projects, rapid growth, and investments, Grupo EMCO has established itself as one of the most important, strongest, and most prestigious groups in Central America.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Metropolitan Pediatrics",
+        "discovered": "2026-04-07 13:13:23.781612",
+        "description": "metropeds.com zoominfo.com/c/metropolitan-pediatrics/51350701 Metropolitan Pediatrics is an independent pediatrician practice with a 51-year history of providing quality care to Metropolitan Pediatrics's community. Metropolitan Pediatrics's pediatricians are all trained to manage and prevent health problems in infants, children, teens and young adults in the most friendly and cost effective manner possible",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Burning Rock Biotech",
+        "discovered": "2026-04-07 13:13:22.839593",
+        "description": "brbiotech.com zoominfo.com/c/burning-rock-biotech/426006520 Burning Rock Biotech Limited (NASDAQ: BNR), whose mission is to Guard Life via Science, focuses on the application of next generation sequencing (NGS) technology in the field of precision oncology. Its business consists of i) NGS-based therapy selection testing for late-stage cancer patients, with the leading market share in China and ii) NGS-based cancer early detection, which has moved beyond proof-of-concept R&D into the clinical validation stage",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Thai Rung Union Car",
+        "discovered": "2026-04-07 13:13:21.873017",
+        "description": "thairung.co.th zoominfo.com/c/thai-rung-union-car-public-company-ltd/104628554 Thai Rung Union Car Public Company Limited focuses on providing high-quality automotive solutions tailored for the Thai market. The company emphasizes constant innovation and sustainable development in its operations. It aims to build a better community through its products and services. Their target clients include individuals and businesses seeking reliable and innovative automotive options",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Structures Stucco",
+        "discovered": "2026-04-07 13:13:20.899353",
+        "description": "structuresstucco.com zoominfo.com/c/structures-stucco-llc/398264895 Structures Stucco, LLC is a stucco subcontractor based in Phoenix, Arizona, specializing in multi-family homes, single-family homes, and commercial buildings. The company is committed to providing quality work, honest service, and great value, ensuring customer satisfaction through top-quality stucco services. They offer written quotes with accurate estimates of time and budget before starting any project. Structures Stucco prioritizes delivering quality jobs without compromising affordability or speed of implementation",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Thai Special Gas",
+        "discovered": "2026-04-07 13:13:19.930283",
+        "description": "tsgco.co.th zoominfo.com/c/thai-special-gas-co-ltd/454621538 Thai Special Gas (TSG) specializes in providing high-quality industrial and energy gases, onsite gas generators, refrigerants, and related equipment. The company is dedicated to delivering exceptional customer service and integrated solutions, ensuring client satisfaction through advanced technology and rapid response. TSG also offers engineering services, quality control and laboratory testing, cylinder testing, and training programs for gas handling. With over 20 years of expertise",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ACE Consulting Engineers",
+        "discovered": "2026-04-07 13:13:18.965787",
+        "description": "ace-mb.com rocketreach.co/ace-consulting-engineers-moharrambakhoum-profile_b6a453d5c87891f3 CE Moharam Bakhoum is a privately-owned international multidisciplinary engineering consultancy and project management organization, founded in 1950. With over 70 years of experience, ACE has become one of the most accomplished and well-renowned companies worldwide. We operate primarily across the Middle East, Africa, Asia, and Eastern Europe and have an exceptional portfolio of mega-projects and award-winning designs in more than 35 countries. Our services span across the entire range of construction-related activities; planning, design, project management and construction supervision, to name a few",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Optima Servicios Financieros",
+        "discovered": "2026-04-07 13:13:17.891233",
+        "description": "optima.com.sv zoominfo.com/c/optima-servicios-financieros/372626508 Optima Sociedad de Ahorro y Crédito provides financial products and services tailored for the micro, small, and medium enterprises sector in El Salvador. The company offers various types of loans, including business, corporate, and personal loans, along with services such as basic services payment and remittances. With over 15 years of experience and international backing, Optima aims for dual profitability in its operations. Their commitment to customer service and transparency is supported by a range of financial solutions designed to assist their clients effectively",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
         "post_title": "KUKJE PHARM CO.,LTD",
         "discovered": "2026-04-07 10:46:09.305352",
         "description": "",
@@ -108,875 +338,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "dinisrl.it",
-        "discovered": "2026-04-06 17:26:52.267642",
-        "description": "DINI is a family-run transportation and automotive business based in Noceto, Italy. With two main branches - Dini Autogr and Dini Autotrasporti - the company provides local trucking and automotive services across the Parma region. Since 2012, they have built a strong reputation for reliable and professional transportation solutions.\r\n\r\nThe download will be available on April 13 at 12:00 UTC",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/cry0/dinisrlit.png",
-        "group_name": "cry0",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Operinter",
-        "discovered": "2026-04-06 16:30:33.254848",
-        "description": "Freight & Logistics Services",
-        "link": "/site/view?uuid=fa27e2ce-0804-3645-96e8-a6ffff5864d6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Operinter.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Muller Technology",
-        "discovered": "2026-04-06 16:30:32.328194",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=906d03ca-0457-34e0-8783-97b6d88cb618",
-        "magnet": null,
-        "screen": "screenshots/qilin/Muller Technology.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Pacific Building Solutions (PBS)",
-        "discovered": "2026-04-06 16:30:31.392116",
-        "description": "Construction",
-        "link": "/site/view?uuid=fc02e9e4-1023-335c-b34c-e198fa7403d7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pacific Building Solutions (PBS).png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Sa**** A** Products",
-        "discovered": "2026-04-06 16:30:29.204362",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gauthier Connectique",
-        "discovered": "2026-04-06 16:29:59.937832",
-        "description": "Gauthier Connectique makes specialized connectors for both civilian and military aircraft. They're experts at creating precise connection parts that keep planes safely linked together.We will upload 42gb of corporate data soon. Employee scanned docs(passport, DLs and so on), drawings and specifications, internalconfidential files, financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Thammasat University ",
-        "discovered": "2026-04-06 16:27:21.677288",
-        "description": "basthammasat.org zoominfo.com/c/thammasat-university/371284040 The British and American Studies Programme at Thammasat University offers a comprehensive curriculum focused on the cultural, historical, and social aspects of the UK and the USA. It aims to equip students with critical thinking and analytical skills, preparing them for various career paths in international relations, education, and cultural studies. The programme is designed for students interested in deepening their understanding",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "PTT Philippines",
-        "discovered": "2026-04-06 16:27:20.736402",
-        "description": "pttphilippines.com zoominfo.com/c/ptt-philippines-corp/353484173 PTT Philippines Corporation, a subsidiary of Thailand's PTT Oil and Retail Business Public Company Limited, specializes in the trading of petroleum products across retail, wholesale, and commercial markets. The company offers a range of high-performance fuels, lubricants, and services, aiming to enhance customer satisfaction and fuel efficiency. Targeting both individual consumers and businesses, PTT Philippines is committed to providing products of international standards while expanding its market presence in the Philippines. With a focus on innovation and quality, PTT Philippines also engages in corporate social responsibility initiatives to support local communities",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Heatherwood Golf Club",
-        "discovered": "2026-04-06 16:27:19.757303",
-        "description": "https://www.zoominfo.com/c/heatherwood-golf-club/46681078 www.heatherwood.com For more than 60 years, Heatherwood has been committed to building upscale residential rental communities, commercial property and luxury urban spaces. Heatherwood is a privately owned, family run company founded on the principles of exemplary service, striking design, quality construction and appreciation for natural beauty. It is the company's commitment to these principles that has made Heatherwood one of the most highly regarded leaders in the industry. The company's formidable portfolio spans rental property from Brooklyn and Queens to the east end of Long Island. Heatherwood made its mark in the construction industry in the 1950's; building 5,000 homes across Long Island. The company has maintained the company's presence in the \"for sale\" real estate market with the completion of two senior communities; The Meadows at Valley Stream (2000) and Dutchgate Condominiums (2006).",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "University_Of_Georgia",
-        "discovered": "2026-04-06 14:35:24.072893",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Education"
-    },
-    {
-        "post_title": "StarBucks_Sample",
-        "discovered": "2026-04-06 14:35:23.143939",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "StarBucks_10GB_Pay_or_gets_leaked",
-        "discovered": "2026-04-06 14:35:22.242347",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nyayanagarpublicschool_in_part_1",
-        "discovered": "2026-04-06 14:35:21.334254",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nyayanagarpublicschool_in_part_4",
-        "discovered": "2026-04-06 14:35:20.394447",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nyayanagarpublicschool_in_part_2",
-        "discovered": "2026-04-06 14:35:19.456672",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nyayanagarpublicschool_in_part_5",
-        "discovered": "2026-04-06 14:35:18.544720",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nyayanagarpublicschool_in_part_3",
-        "discovered": "2026-04-06 14:35:17.631147",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eurobetscasino",
-        "discovered": "2026-04-06 14:35:16.742869",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UMSA_Argentina_All_15GB",
-        "discovered": "2026-04-06 14:35:15.796445",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "$HADOWBYT3$_1.0_Leak",
-        "discovered": "2026-04-06 14:35:14.864207",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PGP_Verified_Public_key",
-        "discovered": "2026-04-06 14:35:13.928930",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Government"
-    },
-    {
-        "post_title": "VATIER 🇫🇷",
-        "discovered": "2026-04-06 14:34:52.446645",
-        "description": "An international law firm providing comprehensive legal services to corporate and private clients in France and abroad.",
-        "link": "/blog/3d5717d5-486d-4623-93dc-cdf8efc0c476",
-        "magnet": null,
-        "screen": "screenshots/bravox/VATIER 🇫🇷.png",
-        "group_name": "bravox",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Aculab 🇬🇧",
-        "discovered": "2026-04-06 14:34:51.506735",
-        "description": "The company provides advanced global telecommunication and cloud communication solutions.",
-        "link": "/blog/93a2e386-d538-401a-9a45-83e272daa4ba",
-        "magnet": null,
-        "screen": "screenshots/bravox/Aculab 🇬🇧.png",
-        "group_name": "bravox",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tesla Systems",
-        "discovered": "2026-04-06 14:34:49.568793",
-        "description": "Careless IT contractor jeopardizes client security.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/sebTA0BLWgNhNmYvh3kXgh6uDKESknevGry3pHgvRWKTUVuyHtaCoIDttwVFWj31+5Gk3ZiAv6IXuh8xuvk3RCYXI5MUNG",
-        "magnet": null,
-        "screen": "screenshots/anubis/Tesla Systems.png",
-        "group_name": "anubis",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "ARCHIVE14",
-        "discovered": "2026-04-06 14:00:32.191779",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ARCHIVE13",
-        "discovered": "2026-04-06 14:00:31.130688",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ARCHIVE12",
-        "discovered": "2026-04-06 14:00:29.962257",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Tawa",
-        "discovered": "2026-04-06 14:00:27.032796",
-        "description": "grupotawa.com zoominfo.com/c/grupo-tawa/459512890 Grupo Tawa is a business group operating in Peru and Chile, dedicated to providing comprehensive business solutions that allow clients to focus on their core competencies. With over 18 years of experience, they offer expertise in personnel solutions, process outsourcing, cleaning, maintenance, and commercial management. The group serves more than 2,500 clients and employs over 15,000 individuals annually. Their commitment to excellence positions them as a reliable partner for companies across various industries",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Omikenshi",
-        "discovered": "2026-04-06 14:00:26.019646",
-        "description": "omikenshi.co.jp zoominfo.com/c/omikenshi-co-ltd/372144961 Omikenshi specializes in the production of textiles, including cotton and yarn, as well as advanced processing technologies. The company also offers a range of lifestyle products, cosmetics, and software development services. Their intended clients include businesses seeking office supplies and electronic catalogs. Additionally, Omikenshi is committed to environmental sustainability and actively engages in eco-friendly practices",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Friktimporten Stockholm",
-        "discovered": "2026-04-06 14:00:24.944011",
-        "description": "fruktimporten.se rocketreach.co/fruktimporten-stockholm-ab-profile_b7bc38e2c53a0296  Fruktimporten Stockholm AB, founded in 2013 and based in Norsborg (Stockholm), is the leading fruit and vegetable wholesaler in the Mälardalen region. They stock over 950 products across a ~5,000 m² warehouse, offering fresh produce from around the world — loose, packed, cut, and processed. The company is part of Dole Nordic AB, a subsidiary of the global giant Dole plc",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sgt",
-        "discovered": "2026-04-06 14:00:22.946595",
-        "description": "sgt-pet.com zoominfo.com/c/sgt/370244282 SGT founded in 1981 and based in France, is a specialist in PET and RPET packaging . The company designs and manufactures PET/RPET preforms (mono- and multi-layer), HDPE caps, and bottles for the beverage and industrial sectors . With over 200 employees, 26 injection presses, and two recycled PET (SGR) factories, SGT is strongly committed to eco-responsibility and circular packaging .",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "SYSTHERM INFO",
-        "discovered": "2026-04-06 14:00:21.907939",
-        "description": "systherm-info.pl Systherm Info Sp. z o.o. is a Polish IT company headquartered in Poznan, founded in 1996. It specializes in GIS (Geographic Information Systems), IT solutions, and software security — most notably developing GEO-INFO, a leading land information system widely used in Polish geodesy and surveying. The company also distributes world-class software protection solutions (Sentinel/Gemalto) and holds ISO quality certifications",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Cosmo Group",
-        "discovered": "2026-04-06 14:00:20.647157",
-        "description": "cosmo.co.th zoominfo.com/c/cosmo-group-public-co/459326707 Cosmo Group PCL, founded in 1964 and headquartered in Bangkok (Sukhumvit), is a Thai luxury packaging manufacturer with over 60 years of experience. The company specializes in premium gift boxes, displays, watch dials, cases, and accessories for global luxury brands in jewelry, watches, cosmetics, and perfume. With 1,000–5,000 employees and a Swiss sales office (Cosmo Pusterla 1880), Cosmo serves top-tier international clients and holds multiple quality and sustainability certifications",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Sunspray Food",
-        "discovered": "2026-04-06 14:00:19.677634",
-        "description": "sunspray.co.za zoominfo.com/c/sunspray-food-ingredients-ltd/425184083 Sunspray Solutions (Pty) Ltd, founded in 1944 and headquartered in Johannesburg, South Africa, is the country's largest independent manufacturer of spray-dried food ingredients. The company operates 10 spray dryers across two manufacturing sites (Industria, Johannesburg and Bronkhorstspruit, Gauteng), producing hundreds of products including caramel powders, fat powders, fruit & vegetable powders, creamers, egg powders, and cheese powders. In 2023, Israeli company Turpaz Industries acquired a 55% controlling stake, enabling Sunspray's geographic and portfolio expansion",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Intra",
-        "discovered": "2026-04-06 14:00:18.573116",
-        "description": "intracare.co.nz zoominfo.com/c/intra-ltd/430152179 IntraCare is New Zealand's leading private centre of excellence for advanced image-guided medical diagnostics and interventions, founded in 1990 in Auckland. It specialises in three areas: Interventional Cardiology, Electrophysiology, and Interventional Radiology, with over 30 practising specialists treating more than 2,000 patients per year. The clinic operates from two locations — Allevia Hospital Epsom and Southern Cross Hospital North Shore — and is internationally recognized for pioneering procedures like TAVI, implanting the first device in the Asia-Pacific region in 2008",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Americo Advogados",
-        "discovered": "2026-04-06 14:00:17.405778",
-        "description": "americoadvogados.com.br zoominfo.com/c/americo-advogados-associados/513361264 Americo Advogados Associados is a Brazilian private law firm founded in 1995 and headquartered in Anápolis, Goiás, Brazil. The firm is a mid-to-large legal practice with 201–500 employees, offering a full range of legal services for individuals and businesses. It is one of the more established regional law firms in the Centre-West of Brazil, serving clients from its main office on Rua Engenheiro Portela in central Anápolis",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Jati Tinggi",
-        "discovered": "2026-04-06 14:00:16.376368",
-        "description": "jatitinggi.com zoominfo.com/c/jati-tinggi-holding-sdn-bhd/399353498 Jati Tinggi Group Berhad, founded in 2003 and headquartered in Cheras, Selangor, Malaysia, is a publicly listed infrastructure utilities engineering company (KLSE: JTGROUP). The company specialises in underground and overhead utilities for electricity transmission & distribution, fiber optic networks, drainage, sewerage pipelines, substation EPCC services, and street lighting. It operates as a subsidiary of Broad River Capital Sdn Bhd, employs 51–200 people, and recently won an RM80 million contract from TNB (Tenaga Nasional Berhad)",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CH Express",
-        "discovered": "2026-04-06 14:00:15.230940",
-        "description": "chxpress.com.ve C.H. Express C.A. is a Venezuelan logistics and light cargo transport company with over 20 years of experience in the national market. Based in San Diego, Carabobo state — a strategically central location — the company offers parcel delivery (encomiendas), cargo consolidation, and nationwide distribution across all Venezuelan states. The company continuously invests in fleet renewal, staff training, and technology to maintain efficiency and reliability throughout Venezuela",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Casa Andina",
-        "discovered": "2026-04-06 14:00:14.104755",
-        "description": "casaandina.com.co zoominfo.com/c/casa-andina/426558931 Casa Andina SAS is the leading hardware and construction materials distributor in south-western Colombia, headquartered in Pasto, Nariño. The company serves both wholesale and retail channels, offering a specialized portfolio including plumbing, drainage, lightweight construction systems (drywall), architectural carpentry, paints, ceramics, and chemical construction products. With 51–200 employees and nationwide online delivery across Colombia, Casa Andina positions itself as a one-stop specialist solutions provider for builders and renovators",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Aichi Electric",
-        "discovered": "2026-04-06 14:00:12.949272",
-        "description": "aichidenki.jp zoominfo.com/c/aichi-electric-co-ltd/425347408 Aichi Electric Co., Ltd., founded in 1942 and headquartered in Kasugai, Aichi Prefecture, Japan, is a publicly listed manufacturer of power equipment and industrial motors. The company produces transformers, distribution switchgear, control systems, and various motors for electric power infrastructure, serving utilities and industries across Japan and internationally. Operating under the motto \"Active management, Technology training, Respect for human,\" Aichi Electric has offices and group companies nationwide and abroad, working toward its 100th anniversary vision of contributing to a sustainable society through manufacturing",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Tapon Corona",
-        "discovered": "2026-04-06 14:00:11.859353",
-        "description": "taponcorona.com.mx Tapon Corona S.A. de C.V. is a Mexican manufacturer based in Azcapotzalco, Mexico City, specializing in world-class crown caps (metal bottle caps) for beer and soft drink brands. The company is part of Grupo Zapata and operates alongside subsidiaries producing aluminum cans (Jalisco) and PET packaging (CDMX).",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Test Rite",
-        "discovered": "2026-04-06 14:00:10.816647",
-        "description": "successwithtestrite.com Test Rite is a publicly listed Taiwanese company founded in 1978 and headquartered in Taipei, with nearly 40 years of expertise in export trading and global supply. It supplies quality products to major international retailers including Walmart, Sam's Club, Target, Staples, Carrefour, and Metro, operating across 10+ countries. Beyond B2B trading, the company runs its own retail brands — HOLA, HOLA CASA, TLW, and HOLA Petite — in Taiwan and China, making it a fully omni-channel enterprise.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Ravands Plastech",
-        "discovered": "2026-04-06 14:00:09.688166",
-        "description": "ravands.com zoominfo.com/c/ravands-plastech/347934317 Ravands Plastech is an Indian manufacturer based in Chittoor, Andhra Pradesh, founded in 2002 by a farmer's son with a mission to solve irrigation challenges for local farmers. The company produces thermoplastic ball valves, gate valves, non-return valves, filters, and drip irrigation components using high-quality polymers and CNC injection molding technology. With over 20 years of experience and nearly 7 million valves sold, Ravands is considered one of India's leading irrigation component manufacturers.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gesvalt",
-        "discovered": "2026-04-06 14:00:08.515450",
-        "description": "gesvalt.es zoominfo.com/c/gesvalt/429923714 Gesvalt is a leading Spanish real estate valuation and appraisal company serving both private individuals and businesses. It offers official property appraisals for mortgage guarantees, asset distribution, and general valuation purposes, with prices starting from €75 for garages and storage units, and €165 for residential properties — reports are valid for all Spanish banks. Beyond standard appraisals, the company also provides sustainability consulting services, including BREEAM certification and decarbonization roadmaps for commercial real estate and hotel portfolios",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "DYSA",
-        "discovered": "2026-04-06 14:00:07.425249",
-        "description": "dysa.com.py DYSA Healthcare S.A. is a family-founded Paraguayan company co-founded by Ricardo Hellmers Fonseca and Florencia Llano de Hellmers, dedicated to supplying healthcare technologies and services to hospitals and medical professionals in Paraguay",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Delta Ducon Engenharia",
-        "discovered": "2026-04-06 14:00:06.347918",
-        "description": "deltaducon.com.br zoominfo.com/c/delta-ducon-engenharia/372415810 Delta Ducon is a company with over 25 years of experience in environmental systems and technologies, specializing in air emission control, dust removal processes, gas washing and treatment, and water treatment. They offer a comprehensive range of equipment and solutions, including pneumatic transport and handling technologies. Their products cater to various sectors such as metallurgy, chemical, pharmaceutical, food, and construction industries. Delta Ducon prioritizes environmental sustainability and provides complete systems with guaranteed performance",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "SATS Sports Club Sweden",
-        "discovered": "2026-04-06 14:00:05.308557",
-        "description": "sats.se zoominfo.com/c/sats-sports-club-sweden-ab/431547514 SATS is the largest fitness chain in the Nordics, founded in Sweden in 1995 with a mission to make people healthier and happier. Operating under the brands SATS, ELIXIA, and Fresh Fitness, the group runs over 274 clubs across Norway, Sweden, Finland, and Denmark, serving 733,000 members with 10,000 employees. It is also one of the five largest fitness operators in Europe, offering gym facilities, group classes, personal training, and digital fitness tools",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Distritech",
-        "discovered": "2026-04-06 14:00:04.221128",
-        "description": "distritech.com zoominfo.com/c/distritech-llc/358799326 DISTRITECH LLC offers a wide range of consumer electronics and accessories, including audio and video equipment, computers, cameras, mobility devices, gaming products, wearables, smart home solutions, and home living items. The company targets technology enthusiasts and everyday consumers seeking high-quality electronic products and personalized service. With a commitment to providing updated inventories and quick warranty support, DISTRITECH emphasizes exceptional customer experience and market insights. Additionally, they provide options for vendor registration and a range of weekly deals, making technology accessible and affordable to their clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Synergy France",
-        "discovered": "2026-04-06 14:00:00.651178",
-        "description": "synergy.fr zoominfo.com/c/synergy-france/430369679 Synergy France specializes in data-centric solutions, assisting clients with data management projects, including integration, storage, and transformation in the cloud. They offer services in data analysis, reporting, data visualization, and data science, as well as governance through the establishment of data repositories. The company provides certified training programs in Lille and Paris, tailored to meet the specific needs of businesses",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AIRCOS",
-        "discovered": "2026-04-06 13:59:59.668982",
-        "description": "aircospascual-anjac.com rocketreach.co/aircos-profile_b5cafd62f42e1406 Aircos Pascual is a French industrial cosmetics manufacturer and part of the ANJAC Group, specializing in hybrid makeup technologies — loose powders, hot-cast formulas, lip fluids, and foundation fluids. With 300 employees, 25 R&D specialists, 450 active formulas, and 3 production sites across France, the company serves leading beauty brands from ideation through launch.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Zanzi",
-        "discovered": "2026-04-06 13:59:58.718822",
-        "description": "zanzi.com rocketreach.co/zanzi-spa-profile_b420e827fee433b4 Zanzi S.p.A. is an Italian engineering company founded in 1920 by Giovanni Zanzi in Ivrea, Turin, recognized as a global leader in high-performance valve manufacturing for engines. The company serves the aeronautical, motor racing, motorbike racing, and marine diesel sectors, producing mono- and bi-metallic intake/exhaust valves and sodium-cooled hollow valves — a technology they invented and patented in the 1930s",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Das Labor",
-        "discovered": "2026-04-06 13:59:57.760373",
-        "description": "daslabor.eu zoominfo.com/c/friedrich-holzweber/549578383 is an Austrian private medical and chemical diagnostic laboratory led by Dr. Margit Striednig-Zechner and Dr. Beatrix Sterz. The lab offers a dedicated online ordering system called Cyberlab for referring physicians and healthcare professionals, emphasizing quality-oriented and service-driven care. It is a regional clinical diagnostics practice focused on delivering reliable medical and chemical laboratory testing to local healthcare providers",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "GCA Professional",
-        "discovered": "2026-04-06 13:59:56.798082",
-        "description": "gca-group.com zoominfo.com/c/gca-professional-services-group-ltd/346680381 GCA Professional Services Group is a leading financial services provider headquartered in Hong Kong, with over 25 years of experience serving blue-chip institutional, corporate, and individual clients globally. Its core services include valuation and advisory, corporate finance, mining and mineral consultancy, and corporate services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "GCA Group",
-        "discovered": "2026-04-06 13:59:55.776215",
-        "description": "gcagroupllc.com zoominfo.com/c/gca-group-llc/539618075 GCA Group LLC (Global Capital Advisors Group LLC) is an international business development and capital formation advisory firm focused on start-ups, early-stage businesses, alternative asset managers, and philanthropic organizations worldwide. Their services include capital introductions, marketing, brand management, new product development plans, and event coordination and logistics. The company is privately held, headquartered in Houston, Texas, with approximately 6 employees and annual revenues of around $7.2 million",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "St Fabian",
-        "discovered": "2026-04-06 13:59:54.773715",
-        "description": "stfabian.org zoominfo.com/c/st-fabian-catholic-church--school/152879338 St. Fabian Catholic Church & School, located in Farmington Hills, MI, offers a range of religious services and educational programs. The church provides sacraments, youth ministry, and various community activities, while the school focuses on academic excellence and student engagement.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Gaposa",
-        "discovered": "2026-04-06 13:59:53.808384",
-        "description": "gaposa.it zoominfo.com/c/gaposa-srl/372820509 Founded in 1969, Gaposa has persevered from its first years of activity in a constant R&D policy in order to anticipate market changes. With a number of patents and a 100% Italian production, Gaposa has strengthened its position as one of the leaders in both the industrial and residential markets",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "alloha.com",
-        "discovered": "2026-04-06 13:59:52.738744",
-        "description": "alloha.com zoominfo.com/c/alloha-fibra/1318975911 Alloha is the largest independent FTTH (Fiber To The Home) operator in Brazil, founded in 2018 and headquartered in Sao Paulo. The company has a network of over 140,000 km of optical fiber and serves 1.5 million customers across 280 cities",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Far East Fame",
-        "discovered": "2026-04-06 13:59:51.705237",
-        "description": "fareastfamelineddb.com zoominfo.com/c/far-east-fame-line-ddb-plc/455777113 Far East Fame Line DDB is a data-driven advertising and marketing communications agency . The company specializes in \"Connected Creative Solutions,\" combining data analytics, AI technology, and creative strategy to build brand platforms and deliver performance marketing campaigns . Their approach focuses on understanding the customer journey and behavioral insights to drive brand momentum in the modern digital landscape",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Medici Group",
-        "discovered": "2026-04-06 13:59:50.705184",
-        "description": "themedicigroup.com zoominfo.com/c/medici-group-llc/348014372 Via Renaissance offers a subscription-based enterprise solution designed to enhance organizational performance through innovative methods developed over 20 years of research and 15 years of consulting. Their approach, known as MOVES, enables organizations to implement simple, actionable changes that foster high-performance behaviors and adaptability. Targeting government organizations, they provide tailored support and resources, including an AI Coach and performance engineering sessions, to facilitate sustained change",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Terminal 21",
-        "discovered": "2026-04-06 13:59:49.682677",
-        "description": "terminal21.co.th  zoominfo.com/c/terminal-21/425950251  Terminal21 is a unique shopping complex that brings together the essence of global shopping experiences under one roof, catering to diverse lifestyles. The mall features a themed design inspired by famous shopping streets and landmarks from eight major cities around the world. With a focus on convenience and a wide variety of merchandise and food options, Terminal21 aims to provide an extraordinary shopping experience.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "UCPS",
-        "discovered": "2026-04-06 13:59:48.667704",
-        "description": "ucpsthai.com United Creation Packaging Solutions (Thailand) Co., Ltd (UCPS) is a leading large-scale integrated packaging and printing company based in Thailand, established in 1994. It is recognized as Asia's largest packaging company and holds the prestigious title of No. 1 in Forest and Paper Products. The company focuses on sustainable, innovative, and eco-friendly packaging solutions for global markets.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Dreamtoy",
-        "discovered": "2026-04-06 13:59:47.663367",
-        "description": "dreamtoy.co.th zoominfo.com/c/dreamtoy/539777419 Dream Toy Co., Ltd. specializes in the sale of authentic Japanese toys, including popular brands such as BANDAI, GUNDAM, KAMEN RIDER, and SENTAI. The company offers a wide range of products including action figures, model kits, and collectibles aimed at enthusiasts and fans of Japanese pop culture",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Zamek Namest",
-        "discovered": "2026-04-06 13:59:46.693645",
-        "description": "zamek-namest.cz  is a historic Czech town famous for its Renaissance chateau and a unique 18th-century Baroque bridge decorated with 20 statues. It serves as a cultural hub in the Vysocina region, hosting the popular Folk Holidays music festival and various art exhibitions. The town is also strategically significant due to its proximity to the Namest military airbase and the Dukovany nuclear power plant",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Equity Life",
-        "discovered": "2026-04-06 13:59:45.748450",
-        "description": "equity.co.id zoominfo.com/c/equity-life-indonesia/372772715 Equity Life Indonesia offers a range of life and health insurance solutions tailored for individual clients, corporate employee benefits, and retail insurance through various distribution channels. Their services include professional agency support, bancassurance partnerships, and customizable employee benefit programs to ensure the safety and well-being of employees",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "jrk.com",
-        "discovered": "2026-04-06 13:59:44.801865",
-        "description": "A leading real estate investment and property management company specializing in multifamily and commercial assets. The data includes a breach involving 111,000 Social Security numbers from the company jrk.com.\n\nResponsibility for the publication will lie with both the company itself and the insurance providers servicing it - mash.com (the intermediary) and the primary insurer beazley.com - which fails to properly value its clients’ data and is deliberately ignoring communications in an attempt to avoid payment, thereby putting the company at risk.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Adaptavist Group LTD",
-        "discovered": "2026-04-06 13:59:43.837389",
-        "description": "Adaptavist Group LTD is a British platinum Atlassian partner and enterprise software developer serving Fortune 500 clients including NASA, Visa, Deutsche Bank, and government organizations. The company's flagship product is ScriptRunner for Atlassian Jira, Confluence, and Bitbucket.\nComplete infrastructure compromise: source code of all products (ScriptRunner, Salable licensing platform), 484,220 customer records from HubSpot CRM (GDPR violation), 20,000+ legal tickets with 33,000 documents including 2,000 NDAs and contracts, 3TB+ from Nexus repositories (production secrets, Docker images, Helm charts), Kubernetes, OAuth credentials, Snowflake Data Warehouse, Confluence (24,547 pages, 100+GB documentation), production databases. Licensing system compromised enabling product cloning.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "fastindustria.com.br",
-        "discovered": "2026-04-06 13:59:42.785577",
-        "description": "Fast Tecnologia Industrial specializes in industrial equipment and systems for wastewater treatment...",
-        "link": "/post/c12e5c622022fe3694473c0b3bc513a9",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/fastindustriacombr.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "gas.mercedes-benz.com.eg",
-        "discovered": "2026-04-06 13:59:41.816759",
-        "description": "Mercedes-Benz, founded in 1967 and headquartered in Giza, Egypt, is a automobile dealer and motor ve...",
-        "link": "/post/33cd3932416d997324162442e6ef7cb8",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/gasmercedes-benzcomeg.png",
-        "group_name": "lockbit5",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "abuhatim.com",
-        "discovered": "2026-04-06 13:59:40.799052",
-        "description": "Abu Hatim Co LLC is an Excellent Grade Engineering Construction Company established in 1991, special...",
-        "link": "/post/a9c9feec1a75387b9f56b655bb8fe615",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/abuhatimcom.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "milanocavi.com",
-        "discovered": "2026-04-06 13:59:39.791352",
-        "description": "Wineuropa is a web agency based in Arezzo that specializes in web marketing, SEO services, and websi...",
-        "link": "/post/86f78122ae31c73d46ef258497fa6477",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/milanocavicom.png",
-        "group_name": "lockbit5",
-        "sector": "Government"
-    },
-    {
-        "post_title": "zsfh.cz",
-        "discovered": "2026-04-06 13:59:38.815706",
-        "description": "Základní škola a Mateřská škola F. Hrubína Havířov-Podlesí",
-        "link": "/post/ce887ccfa0dd84e59ec8341d9f040e4e",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/zsfhcz.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "contrar.it",
-        "discovered": "2026-04-06 13:59:37.836765",
-        "description": "Il consorzio CON.TR.AR. nasce nel 1985 dall’aggregazione di alcuni padroncini artigiani che sentiron...",
-        "link": "/post/179df44036efeb7da32c0002ccd9dfc3",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/contrarit.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "awvgrazerfeld.at",
-        "discovered": "2026-04-06 13:59:36.885127",
-        "description": "Verwaltung\nUnter dem Motto \"Weg vom Kostenumleger und hin zum Dienstleister\" hat sich die Geschäfts...",
-        "link": "/post/c1bde493c2d5b49db7824ae746389c1c",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/awvgrazerfeldat.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "douglasstruckbodies.com",
-        "discovered": "2026-04-06 13:59:35.884237",
-        "description": "Douglass Truck Bodies specializes in the manufacturing and design of standard and custom truck bodie...",
-        "link": "/post/8aa129dcac8ee270dd2de768be2b8a56",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/douglasstruckbodiescom.png",
-        "group_name": "lockbit5",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "mesto-jemnice.cz",
-        "discovered": "2026-04-06 13:59:34.921575",
-        "description": "Historie města Jemnice\nMěsto Jemnice je správním, hospodářským a kulturním střediskem kraje mezi Da...",
-        "link": "/post/13744344206ec4cb841cc232af093afd",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/mesto-jemnicecz.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "meyzietp.com",
-        "discovered": "2026-04-06 13:59:33.942099",
-        "description": "Fondée en 1954, l’entreprise MEYZIE TP est spécialisée dans les travaux de terrassements routiers et...",
-        "link": "/post/4f0211de29729f02ae8e55657d820c2b",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/meyzietpcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pegasussrl.com",
-        "discovered": "2026-04-06 13:59:32.983638",
-        "description": "Agenzia Unipol Assicurazioni 39547 Prato - Pegasus srl\nAgenzia 39547 Prato R.U.I. N. A000671187- P....",
-        "link": "/post/f3f85c6d129371a31960935069bb979d",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/pegasussrlcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "villa-romane.fr",
-        "discovered": "2026-04-06 13:59:31.946811",
-        "description": "Villa Romane, constructeur de maison à Perpignan\nFondée en 1982, Villa Romane est une entreprise fa...",
-        "link": "/post/f4c3d7e351be8e2fc506c506fdfc043a",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/villa-romanefr.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vitropor.pt",
-        "discovered": "2026-04-06 13:59:30.961794",
-        "description": "Tal como o nosso vidro, somos transparentes, seguros e resistentes.\nCom mais de 30 anos na indústri...",
-        "link": "/post/aaf3f2ed04d803c0befe664feec979a0",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/vitroporpt.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "defcon5italy.com",
-        "discovered": "2026-04-06 13:59:30.001783",
-        "description": "Our mission is in our name\nDEFCON, the U.S. acronym for DEFense CONdition, tells of the highest deg...",
-        "link": "/post/18068325b5d631c0fc434c85ea4e69ad",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/defcon5italycom.png",
-        "group_name": "lockbit5",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "vitexpharma.com",
-        "discovered": "2026-04-06 13:59:28.977747",
-        "description": "Vitex Pharmaceuticals is Australia&#039;s leading contract manufacturer specializing in vitamins, mi...",
-        "link": "/post/66b50491d737d542be2708632f80942d",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/vitexpharmacom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "seleniaravenna.it",
-        "discovered": "2026-04-06 13:59:27.972233",
-        "description": "Servizi all&#039;avanguardia a Ravenna\nNato nel 1992 dall&#039;unione delle principali realtà coope...",
-        "link": "/post/c126309e63f127e42b053d663736428a",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/seleniaravennait.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "aplast.ro",
-        "discovered": "2026-04-06 13:59:26.799122",
-        "description": "You are welcome in our offices across Central and Eastern Europe. With international presence since...",
-        "link": "/post/43b17c6157880975105f7ff8034b3661",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/aplastro.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "shunhinggroup.com",
-        "discovered": "2026-04-06 13:59:25.852813",
-        "description": "The Shun Hing Group (信興集團) is a prominent Hong Kong-based conglomerate founded in 1953, primarily kn...",
-        "link": "/post/87b1fcc2f27f800858ca030b21fef20e",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/shunhinggroupcom.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "earthprotect.co.jp",
-        "discovered": "2026-04-06 13:59:24.888320",
-        "description": "Earth Protect Co., Ltd\n Thinking about what we can do to protect and create tomorrow&#039;s global...",
-        "link": "/post/5429d2c74d54ec6da98a470c2f48d1bd",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/earthprotectcojp.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "wibeats.it",
-        "discovered": "2026-04-06 13:59:23.906745",
-        "description": "WIBEATS is an independent Asset Management and Loans Service groups, highly specialised in the selec...",
-        "link": "/post/2e84bd195247a45faa74902578f2ef22",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/wibeatsit.png",
-        "group_name": "lockbit5",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "[DISCLOSED]Bioptik Technology",
-        "discovered": "2026-04-06 12:43:12.907543",
-        "description": "",
-        "link": "/r/eb1348dba1f71141cdd844d96ba7de5e02bb3fdd",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]Bioptik Technology.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
     }
 ]
