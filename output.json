@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "www.smithdollar.com",
+        "discovered": "2026-04-07 19:52:05.809137",
+        "description": "Smith Dollar is a Santa Rosa law firm that provides comprehensive legal services...",
+        "link": "/leaks/69d532919c439c5f4505712f",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwsmithdollarcom.png",
+        "group_name": "lynx",
+        "sector": "Legal"
+    },
+    {
         "post_title": "ARC Dialysis LLC",
         "discovered": "2026-04-07 17:31:21.690387",
         "description": "Independent dialysis service provider",
@@ -268,75 +278,5 @@
         "screen": "screenshots/safepay/academyhealthorg.png",
         "group_name": "safepay",
         "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Crystal Point",
-        "discovered": "2026-04-06 20:52:04.274451",
-        "description": "",
-        "link": "topic.php?id=AsDvBVPeKb1lSd",
-        "magnet": null,
-        "screen": "screenshots/play/Crystal Point.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Morphosis",
-        "discovered": "2026-04-06 20:52:02.306370",
-        "description": "",
-        "link": "topic.php?id=gwIfFKKjz4Iyw0",
-        "magnet": null,
-        "screen": "screenshots/play/Morphosis.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "soundinsurance.ca",
-        "discovered": "2026-04-06 18:40:11.349156",
-        "description": "We have 500GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/soundinsurance",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/soundinsuranceca.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "endeavourautomotive.co.uk",
-        "discovered": "2026-04-06 18:40:10.333656",
-        "description": "We have 150GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/endeavourautomotive",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/endeavourautomotivecouk.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "eworldme.com",
-        "discovered": "2026-04-06 18:40:09.352393",
-        "description": "We have 300GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/eworldme",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/eworldmecom.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AKM Consulting Engineers",
-        "discovered": "2026-04-06 18:40:06.873631",
-        "description": "AKM Consulting Engineers specializes in providing expert engineering solutions for public agencies, focusing on water and wastewater systems, infrastructure, and flood control projects.We will upload 17gb of corporate data soon. HR files, drawings and specifications, client docs, detailed financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Aqua-Serv© Engineers",
-        "discovered": "2026-04-06 18:40:05.893396",
-        "description": "Aqua-Serv Engineers, Inc. is one of the largest independent regional industrial water treatment companies in the United States, headquartered in Fontana, California. They provide a wide range of water treatment products and services to various industries, including healthcare, government, food and beverage, and hospitality.We will upload 17gb of corporate data soon. Employee personal documents (passports, driver licenses and other docs), drawings and specifications, client information, detailed financials, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
