@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "rxm.com.au",
+        "discovered": "2026-04-08 19:37:57.718854",
+        "description": "",
+        "link": "/blog/disclosures/69d676a58f1d14b74332aa2f",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/rxmcomau.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JBS Brazil - Sample uploaded",
+        "discovered": "2026-04-08 19:37:54.461113",
+        "description": "",
+        "link": "/companies/jbs",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/JBS Brazil - Sample uploaded.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Marlborough Partners",
+        "discovered": "2026-04-08 19:37:53.505315",
+        "description": "",
+        "link": "/companies/marl",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Marlborough Partners.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Scholle IPN",
+        "discovered": "2026-04-08 19:37:52.551419",
+        "description": "",
+        "link": "/companies/sig",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Scholle IPN.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Balfour Beatty",
+        "discovered": "2026-04-08 19:37:51.579957",
+        "description": "",
+        "link": "/companies/bal",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Balfour Beatty.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KEB",
+        "discovered": "2026-04-08 19:37:50.629121",
+        "description": "",
+        "link": "/companies/keb",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/KEB.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Correios",
+        "discovered": "2026-04-08 19:37:49.612073",
+        "description": "",
+        "link": "/companies/correios",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Correios.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "EasTech",
+        "discovered": "2026-04-08 19:37:48.467010",
+        "description": "",
+        "link": "/companies/eastech",
+        "magnet": null,
+        "screen": null,
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Idera -",
+        "discovered": "2026-04-08 19:37:46.109749",
+        "description": "",
+        "link": "/companies/idera",
+        "magnet": null,
+        "screen": null,
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Deaconess Health System",
         "discovered": "2026-04-08 16:40:15.980944",
         "description": "",
@@ -98,15 +188,5 @@
         "screen": "screenshots/inc ransom/pacificwestinjurycom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "www.smithdollar.com",
-        "discovered": "2026-04-07 19:52:05.809137",
-        "description": "Smith Dollar is a Santa Rosa law firm that provides comprehensive legal services...",
-        "link": "/leaks/69d532919c439c5f4505712f",
-        "magnet": null,
-        "screen": "screenshots/lynx/wwwsmithdollarcom.png",
-        "group_name": "lynx",
-        "sector": "Legal"
     }
 ]
