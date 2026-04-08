@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Deaconess Health System",
+        "discovered": "2026-04-08 16:40:15.980944",
+        "description": "",
+        "link": "/companies/0543941525",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Deaconess Health System.png",
+        "group_name": "worldleaks",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "ASTRAZENECA CORP ",
+        "discovered": "2026-04-08 15:11:24.380989",
+        "description": "2026-03-25 | Source Code, Employee DB, API Keys, MongoDB/MySQL Creds",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lapsus$/ASTRAZENECA CORP .png",
+        "group_name": "lapsus$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "VirtaHealth.com",
+        "discovered": "2026-04-08 15:10:48.691721",
+        "description": "2026-03-29 | Healthcare research ",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lapsus$/VirtaHealthcom.png",
+        "group_name": "lapsus$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FR MINISTRY AGRICULTURE",
+        "discovered": "2026-04-08 15:07:54.417796",
+        "description": "2025-12-28 | Government Infrastructure",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lapsus$/FR MINISTRY AGRICULTURE.png",
+        "group_name": "lapsus$",
+        "sector": "Government"
+    },
+    {
+        "post_title": "AXCERA.IO",
+        "discovered": "2026-04-08 15:07:29.305840",
+        "description": "2026-03-22 | Source Code + Infrastructure Configs",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/lapsus$/AXCERAIO.png",
+        "group_name": "lapsus$",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "[DISCLOSED]Accelerated Services",
         "discovered": "2026-04-08 05:44:55.032504",
         "description": "",
@@ -58,235 +108,5 @@
         "screen": "screenshots/lynx/wwwsmithdollarcom.png",
         "group_name": "lynx",
         "sector": "Legal"
-    },
-    {
-        "post_title": "ARC Dialysis LLC",
-        "discovered": "2026-04-07 17:31:21.690387",
-        "description": "Independent dialysis service provider",
-        "link": "Companies/arcdialysis",
-        "magnet": null,
-        "screen": "screenshots/pear/ARC Dialysis LLC.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AnchorsGordon",
-        "discovered": "2026-04-07 17:31:01.148976",
-        "description": "AnchorsGordon is a law firm based in Northwest Florida with decades of experience in various legal fields. They specialize in complex business and commercial li...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Bit-Wizards",
-        "discovered": "2026-04-07 17:31:00.230533",
-        "description": "Bit-Wizards is a technology company that develops an application, builds a brand, or move to the cloud. This company is headquartered in Florida",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Star Fuels",
-        "discovered": "2026-04-07 17:30:56.234910",
-        "description": "Data breach at a small fuel company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/6QprKFSowk18qEbHPxiFQ5SpAd64ik2Pvu1oI27AJAIV3b9GbpjW2wJKo9x+VMK3b6lf3uWdaX3bcjTK0GFWS0JZRHdm",
-        "magnet": null,
-        "screen": "screenshots/anubis/Star Fuels.png",
-        "group_name": "anubis",
-        "sector": "Energy"
-    },
-    {
-        "post_title": " AUDIT ENTITY: [ COOPERATION REACHED ] China",
-        "discovered": "2026-04-07 14:54:05.227379",
-        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] China.png",
-        "group_name": "audit team",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AUDIT ENTITY: [ COOPERATION REACHED ] Thailand",
-        "discovered": "2026-04-07 14:53:21.368047",
-        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] Thailand.png",
-        "group_name": "audit team",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AUDIT ENTITY: [ COOPERATION REACHED ] Hong Kong",
-        "discovered": "2026-04-07 14:52:40.159687",
-        "description": "\r\n// ALL ACQUIRED DATA HAS BEEN PURGED FROM OUR SERVERS\r\n// ENTERPRISE SECURITY REMEDIATION VERIFIED\r\n// ENTITY HAS DEMONSTRATED HIGH SECURITY COMPLIANCE\r\n// NO FURTHER ACTION REQUIRED — CASE CLOSED\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: [ COOPERATION REACHED ] Hong Kong.png",
-        "group_name": "audit team",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AUDIT ENTITY: joycity",
-        "discovered": "2026-04-07 14:51:34.390651",
-        "description": "Joycity is a prominent South Korean game developer and publisher founded in 1994 and listed on the KOSDAQ. Renowned for its innovation and global reach, the company originally pioneered the hip-hop-themed sports genre with its self-developed FreeStyle series, which became a cultural milestone for players across Asia.\r\n\r\nIn the mobile era, Joycity successfully pivoted to the Strategy (SLG) genre, producing high-revenue titles like Gunship Battle: Total Warfare and Pirates of the Caribbean: Tides of War, with international markets consistently accounting for over 70% of its total revenue.\r\n\r\nCurrently, Joycity is actively expanding into Web3 technologies and major cross-platform projects. Its blockbuster collaboration with Capcom and Aniplex, Resident Evil Survival Unit, has already surpassed 5 million global downloads as of early 2026, demonstrating the company’s robust R&D and operational expertise in managing world-class intellectual properties.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: joycity.png",
-        "group_name": "audit team",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AUDIT ENTITY: Kawasaki Motors Philippines Corporation",
-        "discovered": "2026-04-07 14:50:17.527106",
-        "description": "Kawasaki Motors Philippines Corporation (KMPC), located in Muntinlupa, Metro Manila, is a leading manufacturer and distributor of Kawasaki motorcycles in the Philippines, operating for over 40 years. As an affiliate of Kawasaki Heavy Industries, Ltd. (KHI), it produces commuter bikes, tricycles, and underbones, with an annual capacity of 250,000 units, making it one of the largest plants in Kawasaki's global network.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: Kawasaki Motors Philippines Corporation.png",
-        "group_name": "audit team",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Hospital del Sur",
-        "discovered": "2026-04-07 14:13:42.255229",
-        "description": "hospitaldelsur.gov.co zoominfo.com/c/hospital-del-sur-itag-gabriel-jaramillo-piedrahita-sede-santamara/547031936 E.S.E Hospital del Sur is a healthcare institution located in Itagüí, Antioquia, Colombia, providing a range of medical services including general consultations, hospitalization, imaging, laboratory services, and emergency care",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Ciarus",
-        "discovered": "2026-04-07 14:13:41.193157",
-        "description": "ciarus.de zoominfo.com/c/ciarus/1324145982 Ciarus Technologies is a software development company based in Germany that specializes in custom software development, web and mobile app development, IT outsourcing, and DevOps services. They cater to businesses looking for tailored IT solutions to enhance their competitiveness in the digital landscape. With a focus on exceptional customer service and technical expertise, Ciarus aims to help clients bring their ideas to life through reliable and cost-effective technology",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mahyco Pvt",
-        "discovered": "2026-04-07 14:13:40.221323",
-        "description": "mahyco.com zoominfo.com/c/mahyco-pvt-ltd/23527722 Mahyco Private Limited is a pioneer in the research, development, production, processing, and marketing of high-quality hybrid and open-pollinated seeds for the Indian agricultural sector. Founded in 1964, the company aims to enhance the lives of farmers through innovative agricultural products and cutting-edge technology. Mahyco serves a diverse clientele of farmers across India, providing them with superior seed varieties that improve yield and profitability",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Innovision Holdings",
-        "discovered": "2026-04-07 14:13:39.210774",
-        "description": "ivcorp.com zoominfo.com/c/innovision-holdings-corp/1132964507 Founded in 2004, InnoVision Holdings Corporation is a group of apparel and accessories companies that focus on brand developments, product innovation, global sales, marketing and distribution. From the company's luxury fashion division to the company's mass market fan wear subsidiary, InnoVisions companies combine innovative designs, high quality, utility with respected brands in their respective markets. Through its portfolio of brands, be it its fully owned or licensed, created or acquired, InnoVision designs, manufacture and distribute to a diverse base of retailers in luxury lifestyle, outdoor, speciality and mass markets in over 30 countries",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Win Academy",
-        "discovered": "2026-04-07 14:13:38.132856",
-        "description": "Winacademy.net is an educational platform dedicated to preparing students for the JEE Main engineering entrance exam in India. It provides comprehensive details about the exam, including its pattern, syllabus, and eligibility criteria for top engineering institutes",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "DGS",
-        "discovered": "2026-04-07 14:13:37.075675",
-        "description": "dgsts.com DGS Technical Services is a structural steel and mechanical engineering firm that has been providing comprehensive design, detailing, and 3D modeling services since 2004. Based in Elgin, Illinois, they serve a variety of industrial and commercial clients, including those in the semiconductor and vending machine industries.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "EMCO Holding",
-        "discovered": "2026-04-07 14:13:36.020540",
-        "description": "emcoholding.com Grupo EMCO Holding is a conglomerate of prestigious companies operating in different areas, guided by a philosophy of excellence and responsibility, with significant investments in Central America. In recent years, the group has diversified and has strongly positioned itself in fields such as the airport sector, cargo terminals, steel production, and steel manufacturing, and is currently developing energy generation projects. Thanks to its major projects, rapid growth, and investments, Grupo EMCO has established itself as one of the most important, strongest, and most prestigious groups in Central America.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Metropolitan Pediatrics",
-        "discovered": "2026-04-07 13:13:23.781612",
-        "description": "metropeds.com zoominfo.com/c/metropolitan-pediatrics/51350701 Metropolitan Pediatrics is an independent pediatrician practice with a 51-year history of providing quality care to Metropolitan Pediatrics's community. Metropolitan Pediatrics's pediatricians are all trained to manage and prevent health problems in infants, children, teens and young adults in the most friendly and cost effective manner possible",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Burning Rock Biotech",
-        "discovered": "2026-04-07 13:13:22.839593",
-        "description": "brbiotech.com zoominfo.com/c/burning-rock-biotech/426006520 Burning Rock Biotech Limited (NASDAQ: BNR), whose mission is to Guard Life via Science, focuses on the application of next generation sequencing (NGS) technology in the field of precision oncology. Its business consists of i) NGS-based therapy selection testing for late-stage cancer patients, with the leading market share in China and ii) NGS-based cancer early detection, which has moved beyond proof-of-concept R&D into the clinical validation stage",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Thai Rung Union Car",
-        "discovered": "2026-04-07 13:13:21.873017",
-        "description": "thairung.co.th zoominfo.com/c/thai-rung-union-car-public-company-ltd/104628554 Thai Rung Union Car Public Company Limited focuses on providing high-quality automotive solutions tailored for the Thai market. The company emphasizes constant innovation and sustainable development in its operations. It aims to build a better community through its products and services. Their target clients include individuals and businesses seeking reliable and innovative automotive options",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Structures Stucco",
-        "discovered": "2026-04-07 13:13:20.899353",
-        "description": "structuresstucco.com zoominfo.com/c/structures-stucco-llc/398264895 Structures Stucco, LLC is a stucco subcontractor based in Phoenix, Arizona, specializing in multi-family homes, single-family homes, and commercial buildings. The company is committed to providing quality work, honest service, and great value, ensuring customer satisfaction through top-quality stucco services. They offer written quotes with accurate estimates of time and budget before starting any project. Structures Stucco prioritizes delivering quality jobs without compromising affordability or speed of implementation",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Thai Special Gas",
-        "discovered": "2026-04-07 13:13:19.930283",
-        "description": "tsgco.co.th zoominfo.com/c/thai-special-gas-co-ltd/454621538 Thai Special Gas (TSG) specializes in providing high-quality industrial and energy gases, onsite gas generators, refrigerants, and related equipment. The company is dedicated to delivering exceptional customer service and integrated solutions, ensuring client satisfaction through advanced technology and rapid response. TSG also offers engineering services, quality control and laboratory testing, cylinder testing, and training programs for gas handling. With over 20 years of expertise",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ACE Consulting Engineers",
-        "discovered": "2026-04-07 13:13:18.965787",
-        "description": "ace-mb.com rocketreach.co/ace-consulting-engineers-moharrambakhoum-profile_b6a453d5c87891f3 CE Moharam Bakhoum is a privately-owned international multidisciplinary engineering consultancy and project management organization, founded in 1950. With over 70 years of experience, ACE has become one of the most accomplished and well-renowned companies worldwide. We operate primarily across the Middle East, Africa, Asia, and Eastern Europe and have an exceptional portfolio of mega-projects and award-winning designs in more than 35 countries. Our services span across the entire range of construction-related activities; planning, design, project management and construction supervision, to name a few",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Optima Servicios Financieros",
-        "discovered": "2026-04-07 13:13:17.891233",
-        "description": "optima.com.sv zoominfo.com/c/optima-servicios-financieros/372626508 Optima Sociedad de Ahorro y Crédito provides financial products and services tailored for the micro, small, and medium enterprises sector in El Salvador. The company offers various types of loans, including business, corporate, and personal loans, along with services such as basic services payment and remittances. With over 15 years of experience and international backing, Optima aims for dual profitability in its operations. Their commitment to customer service and transparency is supported by a range of financial solutions designed to assist their clients effectively",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
     }
 ]
