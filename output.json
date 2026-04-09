@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "*W* **L LLC",
+        "discovered": "2026-04-09 04:55:13.891158",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "A Roettgers",
+        "discovered": "2026-04-09 00:55:12.435525",
+        "description": "Business Services",
+        "link": "/site/view?uuid=e403c001-d25c-38b6-9c21-58988d8e7f12",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PsychPlus",
+        "discovered": "2026-04-08 23:12:32.539081",
+        "description": "psychplus.com zoominfo.com/c/psychplus/1319245304 PsychPlus is a digital psychiatry platform offering both virtual and in-person mental healthcare, treating conditions like anxiety and depression. Its mission is to reduce suicide rates and eliminate disability caused by mental illness by making high-quality care as prioritized as physical health.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "ACNHealthcare",
+        "discovered": "2026-04-08 22:40:24.441688",
+        "description": "www.acnhealthcare.com\n Revenue $253.6 Million\n We specialize in medical billing ...",
+        "link": "/leaks/69d6902c9c439c5f451badbe",
+        "magnet": null,
+        "screen": "screenshots/lynx/ACNHealthcare.png",
+        "group_name": "lynx",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "irmler.org",
+        "discovered": "2026-04-08 22:40:05.313726",
+        "description": "irmler.rechtsanwalte specializes exclusively in architectural law, public procurement law and private and public construction law.",
+        "link": "/card/irmler_org",
+        "magnet": null,
+        "screen": "screenshots/beast/irmlerorg.png",
+        "group_name": "beast",
+        "sector": "Government"
+    },
+    {
+        "post_title": "www.oncologica.com/",
+        "discovered": "2026-04-08 22:19:52.626195",
+        "description": "File preview: https://gofile.io/d/lMyi9o We breached into their intranet and have total control of it , with 1TB+ data exfiltrated including covid-19 database and SaaS src code like oncomine KB and Other PII Full data breach after the DDL",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/timc/wwwoncologicacom.png",
+        "group_name": "timc",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.seidor.com",
+        "discovered": "2026-04-08 22:19:16.294355",
+        "description": "File preview: https://gofile.io/d/csFpUY On behalf of A IT solution company , the first response to the data breach was trying to cover the truth, shame on you When the countdown was over, we will public your newest 200GB+ data.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/timc/wwwseidorcom.png",
+        "group_name": "timc",
+        "sector": "Government"
+    },
+    {
+        "post_title": "debene.com/",
+        "discovered": "2026-04-08 22:18:44.812773",
+        "description": "File preview: https://gofile.io/d/mZqL4B We've taken down their DC and FS, 100GB+ of the data including PII, Trade record and Full 20GB+ MySQL database backup files Due to their non-behavior we choose to put them on our shame list , full data breach will take place after the deadline",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/timc/debenecom.png",
+        "group_name": "timc",
+        "sector": "Technology"
+    },
+    {
         "post_title": "rxm.com.au",
         "discovered": "2026-04-08 19:37:57.718854",
         "description": "",
@@ -75,7 +155,7 @@
         "description": "",
         "link": "/companies/eastech",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/coinbase cartel/EasTech.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
     },
@@ -85,7 +165,7 @@
         "description": "",
         "link": "/companies/idera",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/coinbase cartel/Idera -.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
     },
@@ -137,56 +217,6 @@
         "magnet": null,
         "screen": "screenshots/lapsus$/AXCERAIO.png",
         "group_name": "lapsus$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED]Accelerated Services",
-        "discovered": "2026-04-08 05:44:55.032504",
-        "description": "",
-        "link": "/r/563877f98daa266ba8adda0da892df2d530924b0",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]Accelerated Services.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.bnc.com.ve",
-        "discovered": "2026-04-08 05:44:54.514076",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=f42d82e7-5b6c-37a2-acbe-34b3a6c834dc",
-        "magnet": null,
-        "screen": "screenshots/qilin/wwwbnccomve.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "El Wastani Petroleum Company (WASCO)",
-        "discovered": "2026-04-08 05:44:53.222188",
-        "description": "El Wastani Petroleum Company (WASCO) is an Egyptian oil and gas company focused on the exploration, production, and processing of natural gas and condensate. It operates fields and infrastructure, including processing facilities and compression stations, mainly in the Nile Delta and North Sinai regions. The company serves as a regional operator, supporting the development of Egypt’s gas industry.",
-        "link": "/posts/29732084-774a-4667-9dcd-b2ebfb6a748a",
-        "magnet": null,
-        "screen": "screenshots/payload/El Wastani Petroleum Company (WASCO).png",
-        "group_name": "payload",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Noble Inc.",
-        "discovered": "2026-04-08 05:44:37.867579",
-        "description": "Noble Casing, Inc., founded in 2009, provides casing running and conductor drilling services in the Rocky Mountain region, emphasizing safety, training and equipment upkeep. Subsidiaries Noble Drilling and Noble Trucking support production and rig moves.",
-        "link": "/Company/Noble/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Noble Inc.png",
-        "group_name": "insomnia",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "pacificwestinjury.com",
-        "discovered": "2026-04-08 05:44:36.909700",
-        "description": "",
-        "link": "/blog/disclosures/69d571478f1d14b74318a0ee",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/pacificwestinjurycom.png",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
