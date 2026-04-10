@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Alvi Associates",
+        "discovered": "2026-04-10 10:53:37.326663",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "martek co ltd.",
+        "discovered": "2026-04-10 05:53:17.236957",
+        "description": "",
+        "link": "/blog/disclosures/69d861b58f1d14b743603f0e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/martek co ltd.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kannarr Eye Care",
+        "discovered": "2026-04-10 02:54:59.090100",
+        "description": "",
+        "link": "/blog/disclosures/69d4bb2e8f1d14b7430855d1",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Kannarr Eye Care.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "UK Electronics",
+        "discovered": "2026-04-10 02:36:27.912272",
+        "description": "ukelectronics.co.uk zoominfo.com/c/uk-electronics-ltd/51921022 UK Electronics specializes in the manufacture of high-quality electronic assemblies, offering a comprehensive range of services including PCB assembly, mechanical assembly, and testing. With over 40 years of experience, they provide full turnkey solutions from concept to manufacture, catering to various industries such as military, aviation, medical, and manufacturing",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "GEM Terminal",
+        "discovered": "2026-04-10 02:36:26.847840",
+        "description": "gem.com.tw zoominfo.com/c/gem-terminal-industry-co-ltd/46452181 Gem Terminal Ind. Co., Ltd. is engaged in the manufacture and sale of terminals used for electronic communication, automobile transportation and electrical plugs. The Company also offers ceramic ferrules, bushings and modules. During the year ended December 31, 2007, the Company obtained approximately 92% of its total revenue from terminals",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Sample_Forestal Atlántico Sur (FAS)_fas.com.uy",
+        "discovered": "2026-04-09 23:55:11.300965",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pay_until_timer_runs_outForestal Atlántico Sur (FAS)_fas.com.uy",
+        "discovered": "2026-04-09 23:55:10.243386",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Chalmers & Kubeck",
         "discovered": "2026-04-09 21:57:15.563869",
         "description": "Industrial Machinery & Equipment",
@@ -168,85 +238,5 @@
         "screen": null,
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "*W* **L LLC",
-        "discovered": "2026-04-09 04:55:13.891158",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A Roettgers",
-        "discovered": "2026-04-09 00:55:12.435525",
-        "description": "Business Services",
-        "link": "/site/view?uuid=e403c001-d25c-38b6-9c21-58988d8e7f12",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PsychPlus",
-        "discovered": "2026-04-08 23:12:32.539081",
-        "description": "psychplus.com zoominfo.com/c/psychplus/1319245304 PsychPlus is a digital psychiatry platform offering both virtual and in-person mental healthcare, treating conditions like anxiety and depression. Its mission is to reduce suicide rates and eliminate disability caused by mental illness by making high-quality care as prioritized as physical health.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "ACNHealthcare",
-        "discovered": "2026-04-08 22:40:24.441688",
-        "description": "www.acnhealthcare.com\n Revenue $253.6 Million\n We specialize in medical billing ...",
-        "link": "/leaks/69d6902c9c439c5f451badbe",
-        "magnet": null,
-        "screen": "screenshots/lynx/ACNHealthcare.png",
-        "group_name": "lynx",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "irmler.org",
-        "discovered": "2026-04-08 22:40:05.313726",
-        "description": "irmler.rechtsanwalte specializes exclusively in architectural law, public procurement law and private and public construction law.",
-        "link": "/card/irmler_org",
-        "magnet": null,
-        "screen": "screenshots/beast/irmlerorg.png",
-        "group_name": "beast",
-        "sector": "Government"
-    },
-    {
-        "post_title": "www.oncologica.com/",
-        "discovered": "2026-04-08 22:19:52.626195",
-        "description": "File preview: https://gofile.io/d/lMyi9o We breached into their intranet and have total control of it , with 1TB+ data exfiltrated including covid-19 database and SaaS src code like oncomine KB and Other PII Full data breach after the DDL",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/timc/wwwoncologicacom.png",
-        "group_name": "timc",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.seidor.com",
-        "discovered": "2026-04-08 22:19:16.294355",
-        "description": "File preview: https://gofile.io/d/csFpUY On behalf of A IT solution company , the first response to the data breach was trying to cover the truth, shame on you When the countdown was over, we will public your newest 200GB+ data.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/timc/wwwseidorcom.png",
-        "group_name": "timc",
-        "sector": "Government"
-    },
-    {
-        "post_title": "debene.com/",
-        "discovered": "2026-04-08 22:18:44.812773",
-        "description": "File preview: https://gofile.io/d/mZqL4B We've taken down their DC and FS, 100GB+ of the data including PII, Trade record and Full 20GB+ MySQL database backup files Due to their non-behavior we choose to put them on our shame list , full data breach will take place after the deadline",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/timc/debenecom.png",
-        "group_name": "timc",
-        "sector": "Technology"
     }
 ]
