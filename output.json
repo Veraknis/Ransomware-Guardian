@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "wright-ryan.com",
+        "discovered": "2026-04-10 19:52:47.557643",
+        "description": "",
+        "link": "/blog/disclosures/69d92e6c8f1d14b74370ad02",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wright-ryancom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Arkansas Oral & Maxillofacial Surgeons",
         "discovered": "2026-04-10 15:54:47.569168",
         "description": "Offers a wide range of services in the field of maxillofacial surgery",
@@ -95,7 +105,7 @@
         "description": "Industrial Machinery & Equipment",
         "link": "/site/view?uuid=190127f9-a05a-3e44-9572-571ae7508d59",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Chalmers & Kubeck.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
     },
@@ -105,7 +115,7 @@
         "description": "Architecture, Engineering & Design",
         "link": "/site/view?uuid=77d44086-fbd3-3e6e-b560-e73739ae1364",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Guerin Glass.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
     },
@@ -115,78 +125,8 @@
         "description": "Accounting Services",
         "link": "/site/view?uuid=a2616b11-fee6-3789-8dc9-4529a1021443",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/HIGASHIYAMA INDUSTRIES Co,Ltd.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Sonn Law Group",
-        "discovered": "2026-04-09 19:54:52.031698",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/view?uuid=e02e9ece-8a47-3baf-87b9-5838c3c630c4",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "TIS",
-        "discovered": "2026-04-09 19:54:50.564891",
-        "description": "Construction",
-        "link": "/site/view?uuid=2d08645f-d5a5-37db-8f00-570a2c115e06",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Alamo Heights School District",
-        "discovered": "2026-04-09 18:54:31.211212",
-        "description": "Education",
-        "link": "/site/view?uuid=19ace3e8-456b-3d4c-a957-18ee02a73380",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "SAAM Towage",
-        "discovered": "2026-04-09 18:54:30.209549",
-        "description": "Business Services",
-        "link": "/site/view?uuid=b417193b-a64b-3548-8f25-c96db365694b",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Autogalerie Heister",
-        "discovered": "2026-04-09 18:54:29.242848",
-        "description": "Business Services",
-        "link": "/site/view?uuid=16d25d6b-9bdd-38b5-b30b-836a9a5eec34",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "United Medical Doctors",
-        "discovered": "2026-04-09 17:55:39.459798",
-        "description": "United Medical Doctors (UMD) is an independent multi‑specialty medical‑surgical group with 70+ Southern California locations and 40+ specialties. They focus on high‑quality, compassionate care, patient satisfaction, process improvement, outpatient surgery, clinical research.",
-        "link": "/Company/UnitedMD/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/United Medical Doctors.png",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "egov.sc",
-        "discovered": "2026-04-09 17:55:37.283919",
-        "description": "eGov Seychelles is a government portal in Seychelles that provides online public services and ele...",
-        "link": "/page_company.php?id=148",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/egovsc.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Government"
     }
 ]
