@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Arkansas Oral & Maxillofacial Surgeons",
+        "discovered": "2026-04-10 15:54:47.569168",
+        "description": "Offers a wide range of services in the field of maxillofacial surgery",
+        "link": "Companies/arsurgeons",
+        "magnet": null,
+        "screen": "screenshots/pear/Arkansas Oral & Maxillofacial Surgeons.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Colonial Presbyterian Church",
+        "discovered": "2026-04-10 15:54:46.462563",
+        "description": "Colonial Presbyterian Church operates two campuses in Overland Park and South Kansas City",
+        "link": "Companies/colonialkc",
+        "magnet": null,
+        "screen": "screenshots/pear/Colonial Presbyterian Church.png",
+        "group_name": "pear",
+        "sector": "Government"
+    },
+    {
         "post_title": "Alvi Associates",
         "discovered": "2026-04-10 10:53:37.326663",
         "description": "",
@@ -168,75 +188,5 @@
         "screen": "screenshots/eraleign (apt73)/egovsc.png",
         "group_name": "eraleign (apt73)",
         "sector": "Government"
-    },
-    {
-        "post_title": "Siegel Lewitter Malkani",
-        "discovered": "2026-04-09 16:56:55.559067",
-        "description": "A highly respected law firm in the San Francisco Bay Area, specializing in employment law",
-        "link": "Companies/sl-employmentlaw",
-        "magnet": null,
-        "screen": "screenshots/pear/Siegel Lewitter Malkani.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Family Psychological Associates",
-        "discovered": "2026-04-09 16:56:54.587133",
-        "description": "Provides mental health services",
-        "link": "Companies/kcifpa",
-        "magnet": null,
-        "screen": "screenshots/pear/Family Psychological Associates.png",
-        "group_name": "pear",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Powell, Powell & Powell, P.A.",
-        "discovered": "2026-04-09 16:56:53.623036",
-        "description": "A law firm specializing in personal injury cases",
-        "link": "Companies/powelllawfirm",
-        "magnet": null,
-        "screen": "screenshots/pear/Powell, Powell & Powell, PA.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "The McLamb Group, Inc",
-        "discovered": "2026-04-09 16:56:52.666504",
-        "description": "Specializ in warehousing and fulfillment, direct mail services, inventory management, printing and graphic design, and builder services",
-        "link": "Companies/themclambgroup",
-        "magnet": null,
-        "screen": "screenshots/pear/The McLamb Group, Inc.png",
-        "group_name": "pear",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "asunim.co",
-        "discovered": "2026-04-09 14:58:08.003191",
-        "description": "Asunim is a company operating in the field of renewable energy, which is engaged in the developme...",
-        "link": "/page_company.php?id=147",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/asunimco.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Signature Healthcare",
-        "discovered": "2026-04-09 14:58:01.373326",
-        "description": "Will there be a release? Keep an eye on the timer.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/yjTCX8pFGSbt8WvAPixkYEvbvlJXG1Okc94ma70YbbEbSp2N2XpxZcMlcrVC+50Gsw0l5lv01DCV2OjySdS1ZSNjcwTDFx",
-        "magnet": null,
-        "screen": "screenshots/anubis/Signature Healthcare.png",
-        "group_name": "anubis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Nan Liu Enterprises",
-        "discovered": "2026-04-09 13:56:23.036463",
-        "description": "Manufacturing",
-        "link": "/site/view?uuid=de0363ae-9327-3262-a04e-17d697918fab",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
