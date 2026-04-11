@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "Rockstar Games",
+        "discovered": "2026-04-11 05:54:29.570226",
+        "description": "Your Snowflake instances metrics data was compromised thanks to Anodot.com. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Abrigo, Inc.",
+        "discovered": "2026-04-11 05:54:28.539206",
+        "description": "Over 1.7M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Marcus & Millichap, Inc.",
+        "discovered": "2026-04-11 05:54:27.524053",
+        "description": "Over 30M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Kemper Corporation",
+        "discovered": "2026-04-11 05:54:26.306051",
+        "description": "Over 13M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Ryan, LLC.",
+        "discovered": "2026-04-11 05:54:24.532071",
+        "description": "Over 4.8M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "McGraw Hill, Inc. (mheducation.com)",
+        "discovered": "2026-04-11 05:54:22.931185",
+        "description": "Over 45M Salesforce records containing PII data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "National Railroad Passenger Corporation (amtrak.com)",
+        "discovered": "2026-04-11 05:54:20.022024",
+        "description": "Over 9.4M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.campbell.edu",
+        "discovered": "2026-04-11 04:54:10.514981",
+        "description": "",
+        "link": "/blog/disclosures/69d9adee8f1d14b7437c374e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwcampbelledu.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://anonfilesnew.com/7N0EOmzgCpg/sample_Pay_or_gets_leaked_and_sold_and_on_news.",
+        "discovered": "2026-04-10 21:53:48.278402",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Media"
+    },
+    {
+        "post_title": "sample_Pay_or_gets_leaked_and_sold_and_on_news",
+        "discovered": "2026-04-10 21:53:47.344051",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Hofland",
+        "discovered": "2026-04-10 21:53:44.649855",
+        "description": "Business Services",
+        "link": "/site/view?uuid=70b95e0d-7706-3c4f-a872-584029928f69",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Peuker & Alexander",
+        "discovered": "2026-04-10 21:53:43.651672",
+        "description": "Building Materials",
+        "link": "/site/view?uuid=82df6f05-72c8-36e6-ab4c-e5895529218b",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Sadtek",
+        "discovered": "2026-04-10 21:53:42.391174",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/view?uuid=63d6e298-bf26-369d-8f27-41f46c5ae90b",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "wright-ryan.com",
         "discovered": "2026-04-10 19:52:47.557643",
         "description": "",
@@ -37,96 +167,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "martek co ltd.",
-        "discovered": "2026-04-10 05:53:17.236957",
-        "description": "",
-        "link": "/blog/disclosures/69d861b58f1d14b743603f0e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/martek co ltd.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kannarr Eye Care",
-        "discovered": "2026-04-10 02:54:59.090100",
-        "description": "",
-        "link": "/blog/disclosures/69d4bb2e8f1d14b7430855d1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kannarr Eye Care.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UK Electronics",
-        "discovered": "2026-04-10 02:36:27.912272",
-        "description": "ukelectronics.co.uk zoominfo.com/c/uk-electronics-ltd/51921022 UK Electronics specializes in the manufacture of high-quality electronic assemblies, offering a comprehensive range of services including PCB assembly, mechanical assembly, and testing. With over 40 years of experience, they provide full turnkey solutions from concept to manufacture, catering to various industries such as military, aviation, medical, and manufacturing",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "GEM Terminal",
-        "discovered": "2026-04-10 02:36:26.847840",
-        "description": "gem.com.tw zoominfo.com/c/gem-terminal-industry-co-ltd/46452181 Gem Terminal Ind. Co., Ltd. is engaged in the manufacture and sale of terminals used for electronic communication, automobile transportation and electrical plugs. The Company also offers ceramic ferrules, bushings and modules. During the year ended December 31, 2007, the Company obtained approximately 92% of its total revenue from terminals",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Sample_Forestal Atlántico Sur (FAS)_fas.com.uy",
-        "discovered": "2026-04-09 23:55:11.300965",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pay_until_timer_runs_outForestal Atlántico Sur (FAS)_fas.com.uy",
-        "discovered": "2026-04-09 23:55:10.243386",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Chalmers & Kubeck",
-        "discovered": "2026-04-09 21:57:15.563869",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/view?uuid=190127f9-a05a-3e44-9572-571ae7508d59",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chalmers & Kubeck.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Guerin Glass",
-        "discovered": "2026-04-09 21:57:14.597881",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=77d44086-fbd3-3e6e-b560-e73739ae1364",
-        "magnet": null,
-        "screen": "screenshots/qilin/Guerin Glass.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "HIGASHIYAMA INDUSTRIES Co.,Ltd.",
-        "discovered": "2026-04-09 21:57:13.263453",
-        "description": "Accounting Services",
-        "link": "/site/view?uuid=a2616b11-fee6-3789-8dc9-4529a1021443",
-        "magnet": null,
-        "screen": "screenshots/qilin/HIGASHIYAMA INDUSTRIES Co,Ltd.png",
-        "group_name": "qilin",
         "sector": "Unknown"
     }
 ]
