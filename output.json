@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Mytheresa",
+        "discovered": "2026-04-11 16:54:35.927476",
+        "description": "Sensitive customer PII data and transactional history data was compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gastroenterology & Hepatology of CNY",
+        "discovered": "2026-04-11 16:54:17.776153",
+        "description": "Website: gandhofcny.com\nZoominfo: https://www.zoominfo.com/c/gastroenterology--hepatology-of-cny-pc/346091487\n\nData sample, whole internal data will be sold if they wouldn't pay ransom.\n\nAlso Digestive Disease Center of CNY, LLC (ddcofcny.com)\n\nGI practice + AAAHC-accredited endoscopy center. Syracuse, New York, USA.\n\nFull database for sale — 167,303 patients, 124,761 SSN, 49,798 with sensitive diagnoses:\n- 167,303 patients — 124,761 with SSN, 166,402 (99%) with address, 164,296 (98%) with phone, 85,318 (51%) with email\n- 1,093,863 diagnoses (ICD-10), 1,547,142 medications, 186,246 pathology specimens with narrative reports\n- Sensitive (dx + meds): 49,798 patients — 44,861 with SSN. Mental health: 43,902 | Substance/Alcohol: 5,111 | STIs: 2,779 | Cancer: 2,708 | Hepatitis C: 1,906\n- Includes notable individuals (politicians, businesspeople, public figures)",
+        "link": "#Gastroenterology%20%26%20Hepatology%20of%20CNY",
+        "magnet": null,
+        "screen": "screenshots/exitium/Gastroenterology & Hepatology of CNY.png",
+        "group_name": "exitium",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Rockstar Games",
         "discovered": "2026-04-11 05:54:29.570226",
         "description": "Your Snowflake instances metrics data was compromised thanks to Anodot.com. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -137,36 +157,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/wright-ryancom.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Arkansas Oral & Maxillofacial Surgeons",
-        "discovered": "2026-04-10 15:54:47.569168",
-        "description": "Offers a wide range of services in the field of maxillofacial surgery",
-        "link": "Companies/arsurgeons",
-        "magnet": null,
-        "screen": "screenshots/pear/Arkansas Oral & Maxillofacial Surgeons.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Colonial Presbyterian Church",
-        "discovered": "2026-04-10 15:54:46.462563",
-        "description": "Colonial Presbyterian Church operates two campuses in Overland Park and South Kansas City",
-        "link": "Companies/colonialkc",
-        "magnet": null,
-        "screen": "screenshots/pear/Colonial Presbyterian Church.png",
-        "group_name": "pear",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Alvi Associates",
-        "discovered": "2026-04-10 10:53:37.326663",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
         "sector": "Unknown"
     }
 ]
