@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "BRC Biotechnology",
+        "discovered": "2026-04-11 18:49:24.178916",
+        "description": "brcbiotech.com BRC Biotechnology is a biopharmaceutical contract development and manufacturing company that strictly adheres to GMP standards from China, the USA, and Europe. It holds certifications including EU GMP QP compliance, US FDA FEI registration, and ISO 9001:2015, offering professional risk assessments, customized biomanufacturing solutions, and welcoming regular client audits.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NSOFT",
+        "discovered": "2026-04-11 18:49:23.138235",
+        "description": "nsoft.in zoominfo.com/c/nsoft-india-services-pvt-ltd/442822236 Founded in 1996 in Bangalore, NSOFT India Services is a leading utility automation and Smart Metering/AMI specialist, helping electricity, water, and gas utilities maximize revenue and reduce losses. The company serves over 16 million consumers across 11+ utilities in India, handling transactions worth more than ₹10,000 crores annually, with a team of 1,000+ employees. It is certified CMMI Level 5, ISO 9001, ISO 27001, and ISO 20000, founded and led by Dr. Naagaraj Subramanya (IIT/IISc).",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Brand Collective",
+        "discovered": "2026-04-11 18:26:10.861820",
+        "description": "brandcollective.com.au zoominfo.com/c/brand-collective-pty-ltd/366644163 Brand Collective is Australia's leading house of apparel, footwear, and sports brands. They manage owned and licensed brands across the full product lifecycle — from strategy, design, and development to sales, supply chain, retail operations, e-commerce, and marketing.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Cleor",
+        "discovered": "2026-04-11 18:26:09.901970",
+        "description": "cleor.com zoominfo.com/c/cleor/355616744 CLEOR is a historic French jewelry brand with over 20 years of experience, offering jewelry, watches, and accessories for men, women, and children online and in stores across France. They control the full production chain — from raw material sourcing to creative design and assembly — with a focus on quality precious materials (18K gold, diamonds, pearls, gemstones) at fair prices",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Harlem Stage",
+        "discovered": "2026-04-11 18:26:08.950490",
+        "description": "harlemstage.org zoominfo.com/c/harlem-stage/109888723 Founded in 1983, Harlem Stage is a New York-based performing arts organization dedicated to empowering artists of the Global Majority — amplifying stories that have been whispered, silenced, or erased. Operating under the motto \"Harlem is our home; the world is our stage,\" it supports dance, music, theater, film, and visual arts through commissions, festivals, education programs, and global partnerships.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Media"
+    },
+    {
+        "post_title": "International Maritime Hospita",
+        "discovered": "2026-04-11 18:26:07.989417",
+        "description": "imah.gov.gh zoominfo.com/c/international-maritime-hospital-imah/1339985496  IMaH (International Maritime Hospital) is a government-affiliated, world-class healthcare facility located in Tema, Ghana, operating 24/7 year-round including holidays. It specializes in maritime and general health services, offering a wide range of facilities including operating theatres, maternity wards, an oxygen plant, morgue, and emergency care. The hospital is ranked among the top ten hospitals in Ghana and actively participates in international medical tourism expos",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Double C Farm",
+        "discovered": "2026-04-11 18:26:07.015389",
+        "description": "doublecfarm.net zoominfo.com/c/double-c-farm-llc/356570449 Double C Farm is a private equestrian facility in Montgomery County, Maryland, near Sugarloaf Mountain, owned and operated by Cridder Halle. It features an Extreme Mountain Trail Obstacle Course with 30+ obstacles (bridges, balance beams, water obstacles, trenches) and offers Ranch Riding clinics, group/private lessons, and schooling shows for all skill levels — approved by the East Coast Ranch Riding Association (ECRRA).",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Sahara Air Products",
+        "discovered": "2026-04-11 17:54:00.612993",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Mytheresa",
         "discovered": "2026-04-11 16:54:35.927476",
         "description": "Sensitive customer PII data and transactional history data was compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -148,15 +228,5 @@
         "screen": null,
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "wright-ryan.com",
-        "discovered": "2026-04-10 19:52:47.557643",
-        "description": "",
-        "link": "/blog/disclosures/69d92e6c8f1d14b74370ad02",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wright-ryancom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
