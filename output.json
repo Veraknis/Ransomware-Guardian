@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "mastercom.com.au",
+        "discovered": "2026-04-12 02:54:36.108069",
+        "description": "",
+        "link": "/blog/disclosures/69dadb098f1d14b743952754",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/mastercomcomau.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "morgancountyga.gov",
+        "discovered": "2026-04-12 02:54:35.064643",
+        "description": "",
+        "link": "/blog/disclosures/69dadc2a8f1d14b74395452e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/morgancountygagov.png",
+        "group_name": "inc ransom",
+        "sector": "Government"
+    },
+    {
         "post_title": "BRC Biotechnology",
         "discovered": "2026-04-11 18:49:24.178916",
         "description": "brcbiotech.com BRC Biotechnology is a biopharmaceutical contract development and manufacturing company that strictly adheres to GMP standards from China, the USA, and Europe. It holds certifications including EU GMP QP compliance, US FDA FEI registration, and ISO 9001:2015, offering professional risk assessments, customized biomanufacturing solutions, and welcoming regular client audits.",
@@ -98,135 +118,5 @@
         "screen": "screenshots/exitium/Gastroenterology & Hepatology of CNY.png",
         "group_name": "exitium",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Rockstar Games",
-        "discovered": "2026-04-11 05:54:29.570226",
-        "description": "Your Snowflake instances metrics data was compromised thanks to Anodot.com. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Abrigo, Inc.",
-        "discovered": "2026-04-11 05:54:28.539206",
-        "description": "Over 1.7M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Marcus & Millichap, Inc.",
-        "discovered": "2026-04-11 05:54:27.524053",
-        "description": "Over 30M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Kemper Corporation",
-        "discovered": "2026-04-11 05:54:26.306051",
-        "description": "Over 13M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Ryan, LLC.",
-        "discovered": "2026-04-11 05:54:24.532071",
-        "description": "Over 4.8M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "McGraw Hill, Inc. (mheducation.com)",
-        "discovered": "2026-04-11 05:54:22.931185",
-        "description": "Over 45M Salesforce records containing PII data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "National Railroad Passenger Corporation (amtrak.com)",
-        "discovered": "2026-04-11 05:54:20.022024",
-        "description": "Over 9.4M Salesforce records containing PII and other internal corporate data have been compromised. Pay or leak.   This is a final warning to reach out by 14 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.campbell.edu",
-        "discovered": "2026-04-11 04:54:10.514981",
-        "description": "",
-        "link": "/blog/disclosures/69d9adee8f1d14b7437c374e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwcampbelledu.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://anonfilesnew.com/7N0EOmzgCpg/sample_Pay_or_gets_leaked_and_sold_and_on_news.",
-        "discovered": "2026-04-10 21:53:48.278402",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Media"
-    },
-    {
-        "post_title": "sample_Pay_or_gets_leaked_and_sold_and_on_news",
-        "discovered": "2026-04-10 21:53:47.344051",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Hofland",
-        "discovered": "2026-04-10 21:53:44.649855",
-        "description": "Business Services",
-        "link": "/site/view?uuid=70b95e0d-7706-3c4f-a872-584029928f69",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Peuker & Alexander",
-        "discovered": "2026-04-10 21:53:43.651672",
-        "description": "Building Materials",
-        "link": "/site/view?uuid=82df6f05-72c8-36e6-ab4c-e5895529218b",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Sadtek",
-        "discovered": "2026-04-10 21:53:42.391174",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/view?uuid=63d6e298-bf26-369d-8f27-41f46c5ae90b",
-        "magnet": null,
-        "screen": null,
-        "group_name": "qilin",
-        "sector": "Manufacturing"
     }
 ]
