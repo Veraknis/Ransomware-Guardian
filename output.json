@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "ifmis.go.ke",
+        "discovered": "2026-04-13 15:52:53.523942",
+        "description": "Integrated Financial Management Information System (IFMIS) is a government system in Kenya that i...",
+        "link": "/page_company.php?id=152",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/ifmisgoke.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "whessoe.com.my",
+        "discovered": "2026-04-13 14:55:06.605318",
+        "description": "Whessoe Engineering (Malaysia) Sdn Bhd is an engineering company in Malaysia that designs and bui...",
+        "link": "/page_company.php?id=150",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/whessoecommy.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "olpro.com.my",
+        "discovered": "2026-04-13 14:55:05.645458",
+        "description": "OLPRO Engineering Sdn Bhd is an engineering company in Malaysia that designs and manufactures ind...",
+        "link": "/page_company.php?id=151",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/olprocommy.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "UNDER 0APT ATTACK",
+        "discovered": "2026-04-13 13:54:23.810041",
+        "description": "Krybit is under attack, and its identity data is in the hands of 0apt. Contact them immediately, or the real identities ...",
+        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
+        "magnet": null,
+        "screen": null,
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Transaction Packing Inc",
+        "discovered": "2026-04-13 12:53:43.369345",
+        "description": "",
+        "link": "/r/34e83e75e22b2fe401f472f3f1440e0ea288b1a0",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Transaction Packing Inc.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "phb.com",
+        "discovered": "2026-04-13 12:53:25.874926",
+        "description": "PHB Inc. is an industrial company in the United States that manufactures equipment and metal stru...",
+        "link": "/page_company.php?id=149",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/phbcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "edtg.com",
+        "discovered": "2026-04-13 12:53:24.552705",
+        "description": "The Eldorado Trading Group is a company that operates in the Banking industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Travel of America",
+        "discovered": "2026-04-13 12:53:23.576857",
+        "description": "Travel of America specializes in luxury ocean, river, and expedition cruises, as well as hotels, resorts, guided tours, and custom land arrangements for both in...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Lift",
+        "discovered": "2026-04-13 12:53:21.990373",
+        "description": "Lift AG is a Swiss lift manufacturer established in 1958, specializing in high-quality elevator solutions for residential and commercial buildings. The company ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rudolf-med.com",
+        "discovered": "2026-04-13 12:53:20.905555",
+        "description": "RUDOLF Medical GmbH + Co. KG specializes in providing medical products and services. They offer a range of items through E-catalogs and support their clients wi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "www.sistemigestioneintegrata.eu",
+        "discovered": "2026-04-13 11:53:09.500633",
+        "description": "SGI – Sistemi Gestione Integrata is an Italian consulting firm headquartered in Bergamo, Lombardy, specializing in workplace health & safety, environmental comp...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "K Subsea Group",
         "discovered": "2026-04-13 04:54:19.800521",
         "description": "",
@@ -15,7 +125,7 @@
         "description": "",
         "link": "/blog/disclosures/69dc23a08f1d14b743b06acc",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/inc ransom/bdaccomau.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
     },
@@ -58,115 +168,5 @@
         "screen": "screenshots/coinbase cartel/Carters.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Straten & Kollegen",
-        "discovered": "2026-04-12 15:54:39.790479",
-        "description": "",
-        "link": "/blog/disclosures/69db99ad8f1d14b743a4694c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Straten & Kollegen.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dencom.co.nz",
-        "discovered": "2026-04-12 14:07:00.033176",
-        "description": "Dencom New Zealand Limited has been delivering IT support and solutions for over 30 years, catering to a diverse range o...",
-        "link": "/blog/9169dd48cabbf3e397e0a7a8e857dcab66598b3c22984607080f4a13b77b51e9/",
-        "magnet": null,
-        "screen": "screenshots/krybit/dencomconz.png",
-        "group_name": "krybit",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "whiskey.co.jp",
-        "discovered": "2026-04-12 14:06:59.055863",
-        "description": "Whiskey & Co., Inc. (in Japanese: Whiskey & Co.株式会社) is a modern Japanese company founded on January 28, 2021. I...",
-        "link": "/blog/e8b0c393c196a0a84226dbc2f8dab97d90324ab4da25e56c4ab5fab42d65d458/",
-        "magnet": null,
-        "screen": "screenshots/krybit/whiskeycojp.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "lkc.ac.bw",
-        "discovered": "2026-04-12 14:06:58.104061",
-        "description": "Livingstone Kolobeng College (LKC) is a private educational institution located in Gaborone, the capital of Botswana . I...",
-        "link": "/blog/efcc06636b8343665024cac5fca80b93a04e96c5a54ccf8c4fbe7f3c1986c5c6/",
-        "magnet": null,
-        "screen": "screenshots/krybit/lkcacbw.png",
-        "group_name": "krybit",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "fraper.com",
-        "discovered": "2026-04-12 14:06:56.852833",
-        "description": "Comercial Fraper S.L. is a privately held Spanish company specializing in building materials, tools, and household suppl...",
-        "link": "/blog/11ac6b8c40ceefc19fdefe1df6e614ab9f8ba80dd5f38c78ec6bc90f22668cdc/",
-        "magnet": null,
-        "screen": "screenshots/krybit/frapercom.png",
-        "group_name": "krybit",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "CCCKeito.edu.hk",
-        "discovered": "2026-04-12 14:06:55.883202",
-        "description": "CCC Kei To Secondary School (中華基督教會基道中學)\nCCCKeito.edu.hk is the official website of this secondary ...",
-        "link": "/blog/4821b80070a6e4cec911a0f632e4702e30d7342375f19a0ad50809abd1ebc631/",
-        "magnet": null,
-        "screen": "screenshots/krybit/CCCKeitoeduhk.png",
-        "group_name": "krybit",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Gerald Zisser GmbH",
-        "discovered": "2026-04-12 14:06:54.898801",
-        "description": "Gerald Zisser GmbH is a private Austrian company specializing in building technical services, focusing on plumbing, heat...",
-        "link": "/blog/3483b78af6ee44881238e7fc60509b54c0e83edce7687f606c2682e60ab9b981/",
-        "magnet": null,
-        "screen": "screenshots/krybit/Gerald Zisser GmbH.png",
-        "group_name": "krybit",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "megasurf.co.za",
-        "discovered": "2026-04-12 14:06:53.869390",
-        "description": "Megasurf is an internet service provider and data center operator specializing in high-speed fibre and wireless internet...",
-        "link": "/blog/0f09749244704dd7eda6e563ddd286eb4bd7ab0138dfefbc93a237c6179c0b21/",
-        "magnet": null,
-        "screen": "screenshots/krybit/megasurfcoza.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "conrepsa.ro",
-        "discovered": "2026-04-12 14:06:52.899181",
-        "description": "CONREP SA is a Romanian construction, contracting, and infrastructure company, considered one of the most experienced in...",
-        "link": "/blog/15f2b93e929d7acc1e24dfd6b25ab9f5c7144e70d305869c0d3685e63525bf40/",
-        "magnet": null,
-        "screen": "screenshots/krybit/conrepsaro.png",
-        "group_name": "krybit",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Verzinkerei Rentrop",
-        "discovered": "2026-04-12 13:48:47.465201",
-        "description": "verzinkerei-rentrop.de zoominfo.com/c/verzinkerei-rentrop-gmbh/1103509945 Verzinkerei Rentrop GmbH is a German industrial company founded in 1929 in Plettenberg, NRW, specializing in steel surface treatment — primarily hot-dip galvanizing, electrogalvanizing, and phosphatizing. The company also produces steel products such as protective grids, fencing, sheets, and profiles. After filing for insolvency in 2019, its assets were sold to Verzinkerei",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Hangzhou Industrial",
-        "discovered": "2026-04-12 13:48:46.463990",
-        "description": "hztrust.com zoominfo.com/c/hangzhou-industrial--commercial-trust-co-ltd/430077414 Hangzhou Industrial & Commercial Trust (hztrust.com) is a state-owned Chinese financial firm founded in 1986, headquartered in Hangzhou with offices in Shanghai and Beijing. It operates as a joint venture with Morgan Stanley, which holds a 19.9% equity stake (the legal maximum for foreign banks in China). The firm specializes in alternative asset management — private equity, separate accounts, and joint ventures — and as of 2014 managed over $4.8 billion AUM. Services include equity investment, M&A, asset restructuring, corporate finance, and financial advisory",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
     }
 ]
