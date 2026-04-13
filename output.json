@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "sentrydynamics.com",
+        "discovered": "2026-04-13 21:52:14.236948",
+        "description": "Sentry Dynamics, Inc. provides a powerful integrated suite of data solutions tai...",
+        "link": "/leaks/69dd3a079c439c5f4597c655",
+        "magnet": null,
+        "screen": "screenshots/lynx/sentrydynamicscom.png",
+        "group_name": "lynx",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tax Prep and More",
+        "discovered": "2026-04-13 19:52:02.999693",
+        "description": "If the company does not contact us by 20/04/2026, the data will be published. Full client data in this leak.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "J Brand",
+        "discovered": "2026-04-13 19:52:00.238760",
+        "description": "Business Services",
+        "link": "/site/view?uuid=371709c5-e5fd-3329-999e-6640b88a19da",
+        "magnet": null,
+        "screen": "screenshots/qilin/J Brand.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PGDIS.PAPETIQUE PRO",
+        "discovered": "2026-04-13 19:51:59.243667",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/view?uuid=8d5d99b3-6280-345e-8701-3c0406c2f352",
+        "magnet": null,
+        "screen": "screenshots/qilin/PGDISPAPETIQUE PRO.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Alternativa de Moda SAS",
+        "discovered": "2026-04-13 19:51:58.236155",
+        "description": "Business Services",
+        "link": "/site/view?uuid=47c9c289-e177-3fed-b894-b2040318a2c7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Alternativa de Moda SAS.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Frutcola Olmué",
+        "discovered": "2026-04-13 19:51:57.252786",
+        "description": "Agriculture",
+        "link": "/site/view?uuid=f6394e43-d202-3c94-9c56-bbcd58429fa1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Frutcola Olmué.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Basalt Dentistry",
+        "discovered": "2026-04-13 19:51:55.911155",
+        "description": "Healthcare Services",
+        "link": "/site/view?uuid=6ff3c3c1-ef34-3819-abb5-706489571ee9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Basalt Dentistry.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Herth+Buss",
+        "discovered": "2026-04-13 18:51:57.317279",
+        "description": "Automotive Parts",
+        "link": "/site/view?uuid=279bbb1a-02ac-34c1-aa32-009933b4c804",
+        "magnet": null,
+        "screen": "screenshots/qilin/Herth+Buss.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Després Mécanique Mobile",
+        "discovered": "2026-04-13 18:51:56.350677",
+        "description": "Business Services",
+        "link": "/site/view?uuid=66a8895d-a9e7-3ebf-bb8e-14054837e8c0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Després Mécanique Mobile.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Northeast Missouri Rural Telephone",
+        "discovered": "2026-04-13 18:15:50.370519",
+        "description": "NEMR provides high-speed and reliable internet services tailored for various customer needs, including residential and business clients. They offer multiple broadband plans, such as Gigzilla for heavy data usage and Surfer for smaller households, ensuring options for every type of user. Alongside internet services, NEMR also provides phone and TV services, establishing itself as a comprehensive provider of communication solutions. Their commitment to service quality makes them an ideal choice for consumers in Northeast Missouri seeking fast connectivity. \nThe company headquarters is located in 718 S West St, Green City, MO 63545, USA. 11-50 Employees",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "medusa",
+        "sector": "Government"
+    },
+    {
         "post_title": "ifmis.go.ke",
         "discovered": "2026-04-13 15:52:53.523942",
         "description": "Integrated Financial Management Information System (IFMIS) is a government system in Kenya that i...",
@@ -35,7 +135,7 @@
         "description": "Krybit is under attack, and its identity data is in the hands of 0apt. Contact them immediately, or the real identities ...",
         "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/krybit/UNDER 0APT ATTACK.png",
         "group_name": "krybit",
         "sector": "Technology"
     },
