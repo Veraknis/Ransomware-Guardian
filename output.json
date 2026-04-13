@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "K Subsea Group",
+        "discovered": "2026-04-13 04:54:19.800521",
+        "description": "",
+        "link": "/news/K_Subsea_Group/",
+        "magnet": null,
+        "screen": "screenshots/everest/K Subsea Group.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bdac.com.au",
+        "discovered": "2026-04-13 03:55:30.385098",
+        "description": "",
+        "link": "/blog/disclosures/69dc23a08f1d14b743b06acc",
+        "magnet": null,
+        "screen": null,
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Affordable Oil",
+        "discovered": "2026-04-12 23:54:51.417854",
+        "description": "The goal of Affordable Oil is in our name. We strive to provide the best heating oil delivery service at the lowest cost. Our friendly office staff is here Mond...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Helzberg",
+        "discovered": "2026-04-12 22:55:29.399534",
+        "description": "",
+        "link": "/companies/helzberg",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Helzberg.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ralph Lauren",
+        "discovered": "2026-04-12 22:55:28.442979",
+        "description": "",
+        "link": "/companies/rl",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Ralph Lauren.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Carters",
+        "discovered": "2026-04-12 22:55:27.457874",
+        "description": "",
+        "link": "/companies/carters",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Carters.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Straten & Kollegen",
         "discovered": "2026-04-12 15:54:39.790479",
         "description": "",
@@ -108,145 +168,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Amplify_Technology_breached_032326",
-        "discovered": "2026-04-12 10:48:07.237946",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hotelogix (Hotelogix.com)",
-        "discovered": "2026-04-12 10:48:06.304376",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Proof Sample Hotelogix (Hotelogix.com)",
-        "discovered": "2026-04-12 10:48:05.383374",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gauthier Tissus",
-        "discovered": "2026-04-12 10:47:49.264156",
-        "description": "gauthier-tissus.com - Based in the Rhone-Alpes basin, Gauthier Tissus is specialized in the weaving and finishing of multi-risk fabrics for technical usage, fabrics for brand image clothes and uniforms.",
-        "link": "/post/3f858b049faf525fdc1482644f7f6da4",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CNAOC",
-        "discovered": "2026-04-12 10:47:48.337977",
-        "description": "cnaoc.org - Depuis 1924, la CNAOC porte la voix du vignoble français dans toute sa richesse : vins, eaux-de-vie de vin, vins doux naturels et vins de liqueur. Nous sommes un collectif vivant de femmes et d’hommes au service d’une viticulture d’appellation authen",
-        "link": "/post/9ca4f70dcc71e29f98249373bebb5ed0",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "FILAIR",
-        "discovered": "2026-04-12 10:47:47.406240",
-        "description": "filair.fr - Since 1953, Filair, a French company, has been designing, manufacturing and retrofitting wire equipment and mechanically welded assemblies.",
-        "link": "/post/4af9050a6c429cabdf7aec064397ed34",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Beaver Engineering",
-        "discovered": "2026-04-12 10:47:46.413569",
-        "description": "beaverengineering.com - Beaver Engineering, Inc. is a Nashville-based geotechnical engineering firm founded in 1968, specializing in construction observation, materials testing, and sinkhole investigation throughout the southeastern United States.",
-        "link": "/post/d0b81c7b668b01438608973ab40a58ea",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ClientSolution EFO Service Srl Logitech Srl Safety",
-        "discovered": "2026-04-12 10:47:45.493874",
-        "description": "clientsolution.it - ClientSolution — facility management and business support services\r\nEFO Service Srl — technical and operational support services\r\nLogitech Srl — industrial automation solutions\r\nSafetyMed Srl — occupational health and",
-        "link": "/post/e763caa5e6d912e3d06b36aaaceeb0b0",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Servetto Srl",
-        "discovered": "2026-04-12 10:47:44.540429",
-        "description": "servetto.it - Servetto Srl, einem weltweit führenden italienischen Unternehmen für Kleiderschrank-Zubehör. Bekannt ist die Marke vor allem für den sogenannten „Servetto“ – einen ausziehbaren Garderobenlift (Saliscendi), der den Zugriff auf hohe Schrankbereiche erl",
-        "link": "/post/dd6aa83b573e5813d16173dd87f79ed3",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "International Assistance Sdn",
-        "discovered": "2026-04-12 10:47:43.616218",
-        "description": "international-assist.com - To provide the highest standard of service which adds value to our customers with the ultimate goal of becoming the preferred healthcare Contact Centre and Third-Party Administrator infrastructure and service provider in Malaysia.",
-        "link": "/post/5c546a8b362fcb23136f9dccc0746491",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Seacare Hotel",
-        "discovered": "2026-04-12 10:47:42.630625",
-        "description": "theseacarehotel.com - The Seacare hotel is strategically located near Singapore's top tourist spots such as Orchard Road, Chinatown and Clarke Quay. Enjoy viewing the skyline at our Sky lounge, sweat it out at our well-equipped Gym and savour the most delectable cuisine a",
-        "link": "/post/4827194b2b9b26d9a53f62a45e4ddf36",
-        "magnet": null,
-        "screen": null,
-        "group_name": "lamashtu",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "medical-park",
-        "discovered": "2026-04-12 10:47:35.600898",
-        "description": "Medical Park Hastaneler Grubu is Turkey's leading healthcare group, operating 36 hospitals across 14 provinces with a workforce of 14,000 employees. They offer a wide range of medical services.",
-        "link": "/blog?uuid=500eaba7-8a1c-3f42-a247-4be113b72b6e",
-        "magnet": null,
-        "screen": "screenshots/blackwater/medical-park.png",
-        "group_name": "blackwater",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "mastercom.com.au",
-        "discovered": "2026-04-12 02:54:36.108069",
-        "description": "",
-        "link": "/blog/disclosures/69dadb098f1d14b743952754",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/mastercomcomau.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "morgancountyga.gov",
-        "discovered": "2026-04-12 02:54:35.064643",
-        "description": "",
-        "link": "/blog/disclosures/69dadc2a8f1d14b74395452e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/morgancountygagov.png",
-        "group_name": "inc ransom",
-        "sector": "Government"
     }
 ]
