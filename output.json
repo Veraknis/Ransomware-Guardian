@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "LACROIX",
+        "discovered": "2026-04-14 21:54:48.438099",
+        "description": "palacroix.com - Pièces d'Auto Lacroix is a Canadian company specializing in the retail distribution of automotive parts and accessories across several locations in Quebec.",
+        "link": "/post/8da3233a0fc6f66616e5d6042c2ae0a8",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/LACROIX.png",
+        "group_name": "lamashtu",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Flash Charm INC  - (IDERA)",
+        "discovered": "2026-04-14 21:54:43.927348",
+        "description": "",
+        "link": "/companies/idera",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Flash Charm INC  - (IDERA).png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stonehenge",
+        "discovered": "2026-04-14 20:53:01.196446",
+        "description": "Stonehenge Co Ltd is a company that operates in the Commercial & Residential Con...",
+        "link": "/leaks/69d442099c439c5f45f25fd7",
+        "magnet": null,
+        "screen": "screenshots/lynx/Stonehenge.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hacked 0APT",
+        "discovered": "2026-04-14 20:52:48.375873",
+        "description": "Next time, don't play with the big boys.\n\nThe response will be fast....",
+        "link": "/blog/65dc321e50f74c6fd042423cf707e16ef0ff3b265b0049db4d6c17249dbfb76a/",
+        "magnet": null,
+        "screen": "screenshots/krybit/Hacked 0APT.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "coastappliances.com",
+        "discovered": "2026-04-14 19:52:41.900223",
+        "description": "It offers refrigerators, freezers, wall ovens, washers, and electric ranges.",
+        "link": "/KGan5zh1NKkLgZjJkdq5jUzLeUfvSO0x/coastappliances-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/coastappliancescom.png",
+        "group_name": "chaos",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "itc-group.com",
+        "discovered": "2026-04-14 19:52:40.943486",
+        "description": "Founded in 1983, ITC Construction Group is a Commercial and Residential Construction company that specializes in residential high rises, mixed-use developments, and select commercial projects.",
+        "link": "/GhKwrjbUfSi9CAxsiPlUSnOSeYeK6DWP/itc-group-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/itc-groupcom.png",
+        "group_name": "chaos",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Apply Capnor",
+        "discovered": "2026-04-14 18:52:04.950073",
+        "description": "Capnor specializes in laser scanning, engineering, and 3D data management services, offering a comprehensive range of solutions including design engineering, re...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "BK Tomorrow",
         "discovered": "2026-04-14 15:53:13.301573",
         "description": "",
@@ -308,105 +378,5 @@
         "screen": "screenshots/pear/Colorado Pulmonary Intensivists.png",
         "group_name": "pear",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "sentrydynamics.com",
-        "discovered": "2026-04-13 21:52:14.236948",
-        "description": "Sentry Dynamics, Inc. provides a powerful integrated suite of data solutions tai...",
-        "link": "/leaks/69dd3a079c439c5f4597c655",
-        "magnet": null,
-        "screen": "screenshots/lynx/sentrydynamicscom.png",
-        "group_name": "lynx",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tax Prep and More",
-        "discovered": "2026-04-13 19:52:02.999693",
-        "description": "If the company does not contact us by 20/04/2026, the data will be published. Full client data in this leak.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "J Brand",
-        "discovered": "2026-04-13 19:52:00.238760",
-        "description": "Business Services",
-        "link": "/site/view?uuid=371709c5-e5fd-3329-999e-6640b88a19da",
-        "magnet": null,
-        "screen": "screenshots/qilin/J Brand.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PGDIS.PAPETIQUE PRO",
-        "discovered": "2026-04-13 19:51:59.243667",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/view?uuid=8d5d99b3-6280-345e-8701-3c0406c2f352",
-        "magnet": null,
-        "screen": "screenshots/qilin/PGDISPAPETIQUE PRO.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Alternativa de Moda SAS",
-        "discovered": "2026-04-13 19:51:58.236155",
-        "description": "Business Services",
-        "link": "/site/view?uuid=47c9c289-e177-3fed-b894-b2040318a2c7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alternativa de Moda SAS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Frutcola Olmué",
-        "discovered": "2026-04-13 19:51:57.252786",
-        "description": "Agriculture",
-        "link": "/site/view?uuid=f6394e43-d202-3c94-9c56-bbcd58429fa1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Frutcola Olmué.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Basalt Dentistry",
-        "discovered": "2026-04-13 19:51:55.911155",
-        "description": "Healthcare Services",
-        "link": "/site/view?uuid=6ff3c3c1-ef34-3819-abb5-706489571ee9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Basalt Dentistry.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Herth+Buss",
-        "discovered": "2026-04-13 18:51:57.317279",
-        "description": "Automotive Parts",
-        "link": "/site/view?uuid=279bbb1a-02ac-34c1-aa32-009933b4c804",
-        "magnet": null,
-        "screen": "screenshots/qilin/Herth+Buss.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Després Mécanique Mobile",
-        "discovered": "2026-04-13 18:51:56.350677",
-        "description": "Business Services",
-        "link": "/site/view?uuid=66a8895d-a9e7-3ebf-bb8e-14054837e8c0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Després Mécanique Mobile.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Northeast Missouri Rural Telephone",
-        "discovered": "2026-04-13 18:15:50.370519",
-        "description": "NEMR provides high-speed and reliable internet services tailored for various customer needs, including residential and business clients. They offer multiple broadband plans, such as Gigzilla for heavy data usage and Surfer for smaller households, ensuring options for every type of user. Alongside internet services, NEMR also provides phone and TV services, establishing itself as a comprehensive provider of communication solutions. Their commitment to service quality makes them an ideal choice for consumers in Northeast Missouri seeking fast connectivity. \nThe company headquarters is located in 718 S West St, Green City, MO 63545, USA. 11-50 Employees",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "medusa",
-        "sector": "Government"
     }
 ]
