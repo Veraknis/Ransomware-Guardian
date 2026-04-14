@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "BK Tomorrow",
+        "discovered": "2026-04-14 15:53:13.301573",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "asesoriauriel.com",
+        "discovered": "2026-04-14 15:52:59.530233",
+        "description": "Asesoría Uriel is a consultancy and management firm located in Soria, specialized in providing services to individuals,...",
+        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
+        "magnet": null,
+        "screen": "screenshots/krybit/asesoriaurielcom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "unipest.co.th",
+        "discovered": "2026-04-14 15:52:58.542103",
+        "description": "Unipest Company Limited specializes in pest control services, including the elimination of termites, ants, cockroaches, ...",
+        "link": "/blog/7e4d2cc0b26635dfe620f21d6729f4cd122f8f73c1a95c65bf38693f4a6f0751/",
+        "magnet": null,
+        "screen": "screenshots/krybit/unipestcoth.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "palladium.gen.tr",
+        "discovered": "2026-04-14 15:52:57.522734",
+        "description": "Palladium Teknoloji ve Mühendislik Ltd. Şti. is a private Turkish company operating in the field of industrial enginee...",
+        "link": "/blog/bc5723b509285febe34720381141a5509f50a50f44f48f250c899b37ff117b41/",
+        "magnet": null,
+        "screen": "screenshots/krybit/palladiumgentr.png",
+        "group_name": "krybit",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "secran.com.br",
+        "discovered": "2026-04-14 15:52:56.558231",
+        "description": "SECRAN Group is a trusted partner with over 40 years of experience, focusing on providing a comprehensive portfolio of b...",
+        "link": "/blog/59817f58a05bc6e9720a72bfca2c7857539f7a9ee0e56f52b937752d26bde155/",
+        "magnet": null,
+        "screen": "screenshots/krybit/secrancombr.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Some 0APT  false claims",
+        "discovered": "2026-04-14 15:52:55.614852",
+        "description": "We apologize for this data leak, but it did not affect our operations. The error was in the server settings; the phpMyAd...",
+        "link": "/blog/9f0cdb3a132b8c6cbd7e2edace269a145da2fcb8ee744931c4e7bdf61180bcd2/",
+        "magnet": null,
+        "screen": "screenshots/krybit/Some 0APT  false claims.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "tremcar.com",
+        "discovered": "2026-04-14 15:52:51.766385",
+        "description": "Tremcar Drummond Inc. manufactures and designs high-quality textile machinery and equipment. The company was founded in 1962",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "imadesign.com",
+        "discovered": "2026-04-14 15:52:50.814215",
+        "description": "IMA Design Group, Inc. specializes in master planning, development services, and landscape architecture, with a particular focus on creating exceptional spaces ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "advprograms.com",
+        "discovered": "2026-04-14 15:52:49.866789",
+        "description": "Advanced Programs, Incorporated (API) specializes in providing secure, high-quality integrated \nsystem solutions designed specifically for government and indust...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "novafp.com",
+        "discovered": "2026-04-14 15:52:48.392952",
+        "description": "Nova Fire Protection Inc. specializes in sprinkler fire suppression systems, \noffering design, installation, repair, inspection, and testing services to homeown...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ppiplastics.com",
+        "discovered": "2026-04-14 15:52:47.423797",
+        "description": "Preproduction Plastics Inc. is a company specializing in structural foam injection molding and gas-assisted injection molding.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "je-nyc.com",
+        "discovered": "2026-04-14 15:52:46.445735",
+        "description": "Jacmel Enterprise Inc. offers a wide range of IT services, including Microsoft Dynamics solutions, project services such as data cabling and server configurati...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "breslinbuilders.com",
+        "discovered": "2026-04-14 15:52:45.464457",
+        "description": "Breslin Builders is a general contractor specializing in design and construction, based in Las Vegas, Nevada, and serving the Las Vegas Valley and Southern Neva...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "tulsachamber.com",
+        "discovered": "2026-04-14 15:52:44.497669",
+        "description": "The Talsi Regional Chamber of Commerce is committed to serving as a leading business-oriented organization and improving the quality of life in the community by...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "milliondollarbabyco.com",
+        "discovered": "2026-04-14 14:52:51.398265",
+        "description": "Million Dollar Baby Co. was founded in 1990 and is a proudly family-owned business based in Los Angeles. Since then, MDB has grown to include seven distinct chi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "graphicinfo.com",
+        "discovered": "2026-04-14 14:52:50.429402",
+        "description": "Graphic Information Systems Inc. specializes in the custom production of barcode labels, product number/identification labels, and warehouse signage, serving bu...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "gtlcompany.com",
+        "discovered": "2026-04-14 14:52:49.453678",
+        "description": "Gloyer-Taylor Laboratories, Inc. (GTL) is a high-tech company specializing in providing revolutionary technologies for the aerospace industry. Its product portf...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "WEDA ROBOTICS",
+        "discovered": "2026-04-14 13:52:47.550452",
+        "description": "wedarobotics.com - Over 100 Years of Engineering. Now Pioneering the Future of Sustainable Cleaning.\r\nFrom mechanical pool cleaners in the 1920s to submerged, no drain robotic\r\nsystems used across 40+ countries.",
+        "link": "/post/f38d9c6b2ab7f32218aaad1f043b0180",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/WEDA ROBOTICS.png",
+        "group_name": "lamashtu",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Ultimate Metals",
         "discovered": "2026-04-14 09:52:38.180905",
         "description": "https://www.tungsten-alloys.co.uk/ Ultimate Metals is an international supplier of speciality materials to a variety of industries, which include aerospace and defence, engineering and electronic.We strive to respond to any request within 24 hours, priding ourselves on the professionalism of our team, which consists of technical sales people, metallurgists and engineers with years of experience.Personal information of employees and сlientsFinancial documentsOther files\nhttps://www.ultimatemetals.com/",
@@ -95,7 +275,7 @@
         "description": "",
         "link": "/companies/2062444748/storage",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/Jersey Fabrication Group LLC.png",
         "group_name": "worldleaks",
         "sector": "Manufacturing"
     },
@@ -228,115 +408,5 @@
         "screen": null,
         "group_name": "medusa",
         "sector": "Government"
-    },
-    {
-        "post_title": "ifmis.go.ke",
-        "discovered": "2026-04-13 15:52:53.523942",
-        "description": "Integrated Financial Management Information System (IFMIS) is a government system in Kenya that i...",
-        "link": "/page_company.php?id=152",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/ifmisgoke.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "whessoe.com.my",
-        "discovered": "2026-04-13 14:55:06.605318",
-        "description": "Whessoe Engineering (Malaysia) Sdn Bhd is an engineering company in Malaysia that designs and bui...",
-        "link": "/page_company.php?id=150",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/whessoecommy.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "olpro.com.my",
-        "discovered": "2026-04-13 14:55:05.645458",
-        "description": "OLPRO Engineering Sdn Bhd is an engineering company in Malaysia that designs and manufactures ind...",
-        "link": "/page_company.php?id=151",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/olprocommy.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "UNDER 0APT ATTACK",
-        "discovered": "2026-04-13 13:54:23.810041",
-        "description": "Krybit is under attack, and its identity data is in the hands of 0apt. Contact them immediately, or the real identities ...",
-        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
-        "magnet": null,
-        "screen": "screenshots/krybit/UNDER 0APT ATTACK.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Transaction Packing Inc",
-        "discovered": "2026-04-13 12:53:43.369345",
-        "description": "",
-        "link": "/r/34e83e75e22b2fe401f472f3f1440e0ea288b1a0",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Transaction Packing Inc.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "phb.com",
-        "discovered": "2026-04-13 12:53:25.874926",
-        "description": "PHB Inc. is an industrial company in the United States that manufactures equipment and metal stru...",
-        "link": "/page_company.php?id=149",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/phbcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "edtg.com",
-        "discovered": "2026-04-13 12:53:24.552705",
-        "description": "The Eldorado Trading Group is a company that operates in the Banking industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Travel of America",
-        "discovered": "2026-04-13 12:53:23.576857",
-        "description": "Travel of America specializes in luxury ocean, river, and expedition cruises, as well as hotels, resorts, guided tours, and custom land arrangements for both in...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Lift",
-        "discovered": "2026-04-13 12:53:21.990373",
-        "description": "Lift AG is a Swiss lift manufacturer established in 1958, specializing in high-quality elevator solutions for residential and commercial buildings. The company ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "rudolf-med.com",
-        "discovered": "2026-04-13 12:53:20.905555",
-        "description": "RUDOLF Medical GmbH + Co. KG specializes in providing medical products and services. They offer a range of items through E-catalogs and support their clients wi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "www.sistemigestioneintegrata.eu",
-        "discovered": "2026-04-13 11:53:09.500633",
-        "description": "SGI – Sistemi Gestione Integrata is an Italian consulting firm headquartered in Bergamo, Lombardy, specializing in workplace health & safety, environmental comp...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
     }
 ]
