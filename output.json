@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "S&PGLOBAL, LiteLLM/Trivy campaign (TeamPCP)",
+        "discovered": "2026-04-15 20:52:47.795651",
+        "description": "SECTOR: Business Services                         •                         COUNTRY: US                         •                         SITE: https://www.spglobal.com/en",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "guesty, LITELLM/TRIVY CAMPAIGN (TEAMPCP)",
+        "discovered": "2026-04-15 20:52:45.334520",
+        "description": "SECTOR: property management                         •                         COUNTRY: IL                         •                         SITE: www.guesty.com",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "vect",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Limkon",
+        "discovered": "2026-04-15 19:52:47.511002",
+        "description": "Food & Beverage",
+        "link": "/site/view?uuid=433a4569-2ad7-3b40-b1d1-1b5bf391aa35",
+        "magnet": null,
+        "screen": "screenshots/qilin/Limkon.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Uniwersytet Warszawski",
+        "discovered": "2026-04-15 18:54:38.522510",
+        "description": "https://www.uw.edu.pl\n\t\t\t\t\t\t\t\t\tThe Faculty of Management at the University of Warsaw is a leading institution in the field of business education, offering a wide range of undergraduate and graduate programs that combine theory with practical experience. However, it is not known for its high level of security and data storage reliability, resulting in the leak of data on students, instructors, and leading professors, as well as student projects and papers.",
+        "link": "http://efs3fkrjyvqsk7nugzteelo5i5jxoch5ziqhf37dzmmlmzzlymhawmid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Uniwersytet Warszawski.png",
+        "group_name": "interlock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "The Epoch Times",
+        "discovered": "2026-04-15 18:54:34.270454",
+        "description": "",
+        "link": "/companies/theepoch",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/The Epoch Times.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Grace Design Studios",
         "discovered": "2026-04-15 15:52:47.843898",
         "description": "",
@@ -318,75 +368,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "LACROIX",
-        "discovered": "2026-04-14 21:54:48.438099",
-        "description": "palacroix.com - Pièces d'Auto Lacroix is a Canadian company specializing in the retail distribution of automotive parts and accessories across several locations in Quebec.",
-        "link": "/post/8da3233a0fc6f66616e5d6042c2ae0a8",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/LACROIX.png",
-        "group_name": "lamashtu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Flash Charm INC  - (IDERA)",
-        "discovered": "2026-04-14 21:54:43.927348",
-        "description": "",
-        "link": "/companies/idera",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Flash Charm INC  - (IDERA).png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Stonehenge",
-        "discovered": "2026-04-14 20:53:01.196446",
-        "description": "Stonehenge Co Ltd is a company that operates in the Commercial & Residential Con...",
-        "link": "/leaks/69d442099c439c5f45f25fd7",
-        "magnet": null,
-        "screen": "screenshots/lynx/Stonehenge.png",
-        "group_name": "lynx",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hacked 0APT",
-        "discovered": "2026-04-14 20:52:48.375873",
-        "description": "Next time, don't play with the big boys.\n\nThe response will be fast....",
-        "link": "/blog/65dc321e50f74c6fd042423cf707e16ef0ff3b265b0049db4d6c17249dbfb76a/",
-        "magnet": null,
-        "screen": "screenshots/krybit/Hacked 0APT.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "coastappliances.com",
-        "discovered": "2026-04-14 19:52:41.900223",
-        "description": "It offers refrigerators, freezers, wall ovens, washers, and electric ranges.",
-        "link": "/KGan5zh1NKkLgZjJkdq5jUzLeUfvSO0x/coastappliances-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/coastappliancescom.png",
-        "group_name": "chaos",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "itc-group.com",
-        "discovered": "2026-04-14 19:52:40.943486",
-        "description": "Founded in 1983, ITC Construction Group is a Commercial and Residential Construction company that specializes in residential high rises, mixed-use developments, and select commercial projects.",
-        "link": "/GhKwrjbUfSi9CAxsiPlUSnOSeYeK6DWP/itc-group-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/itc-groupcom.png",
-        "group_name": "chaos",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Apply Capnor",
-        "discovered": "2026-04-14 18:52:04.950073",
-        "description": "Capnor specializes in laser scanning, engineering, and 3D data management services, offering a comprehensive range of solutions including design engineering, re...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
