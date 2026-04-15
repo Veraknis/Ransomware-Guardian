@@ -1,5 +1,315 @@
 [
     {
+        "post_title": "Grace Design Studios",
+        "discovered": "2026-04-15 15:52:47.843898",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Englewood Lab",
+        "discovered": "2026-04-15 15:52:46.866876",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "F****p",
+        "discovered": "2026-04-15 15:52:45.827103",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Canada Goose - Updated with proof",
+        "discovered": "2026-04-15 15:52:28.157339",
+        "description": "",
+        "link": "/companies/goose",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Canada Goose - Updated with proof.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lacoste - Updated with proof",
+        "discovered": "2026-04-15 15:52:27.236224",
+        "description": "",
+        "link": "/companies/lac",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Lacoste - Updated with proof.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "UOM University",
+        "discovered": "2026-04-15 15:52:26.305624",
+        "description": "",
+        "link": "/companies/uom",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/UOM University.png",
+        "group_name": "coinbase cartel",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Vluznet",
+        "discovered": "2026-04-15 15:52:25.367189",
+        "description": "",
+        "link": "/companies/vlz",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Vluznet.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Epoch Times",
+        "discovered": "2026-04-15 15:52:24.411140",
+        "description": "",
+        "link": "/companies/epoch",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Epoch Times.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Superintendency of territorial planning",
+        "discovered": "2026-04-15 15:52:23.344860",
+        "description": "",
+        "link": "/companies/sot",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Superintendency of territorial planning.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GL Steel",
+        "discovered": "2026-04-15 15:52:22.373930",
+        "description": "",
+        "link": "/companies/glsteel",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/GL Steel.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wayne Brothers Construction",
+        "discovered": "2026-04-15 15:52:21.390746",
+        "description": "",
+        "link": "/companies/bros",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Wayne Brothers Construction.png",
+        "group_name": "coinbase cartel",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Questivity",
+        "discovered": "2026-04-15 15:52:19.988775",
+        "description": "",
+        "link": "/companies/quest",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Questivity.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Millenium Packaging",
+        "discovered": "2026-04-15 15:52:19.046275",
+        "description": "",
+        "link": "/companies/pkg",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Millenium Packaging.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kemenpppa",
+        "discovered": "2026-04-15 15:52:18.050855",
+        "description": "",
+        "link": "/companies/kemen",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Kemenpppa.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rogiken / institute of Science Tokyo",
+        "discovered": "2026-04-15 15:52:16.471526",
+        "description": "",
+        "link": "/companies/tokyo",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Rogiken  institute of Science Tokyo.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "La Maison Bleue France",
+        "discovered": "2026-04-15 15:52:15.514274",
+        "description": "",
+        "link": "/companies/bleue",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/La Maison Bleue France.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sampol",
+        "discovered": "2026-04-15 15:52:14.423095",
+        "description": "",
+        "link": "/companies/sampol",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Sampol.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Astreya",
+        "discovered": "2026-04-15 15:52:13.488409",
+        "description": "",
+        "link": "/companies/astraya",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Astreya.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cognizant",
+        "discovered": "2026-04-15 15:52:12.528136",
+        "description": "",
+        "link": "/companies/cog",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Cognizant.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Greenpharma",
+        "discovered": "2026-04-15 15:01:19.713098",
+        "description": "greenpharma.com.br zoominfo.com/c/greenpharma-química-e-farmacêutica-eireli/558034818 Greenpharma Química & Farmaceutica is a Brazilian pharmaceutical manufacturer founded in 1989 in Anapolis, Goiás, acquired in 1995 by industrial pharmacist Eduardo Gonçalves. The company produces generic and OTC medicines, distributes across all Brazilian states through pharmacy and hospital channels, and operates its own certified pharmaceutical equivalence laboratory (EQFAR-21) accredited by ANVISA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Disk Precision",
+        "discovered": "2026-04-15 15:01:18.645310",
+        "description": "diskprecision.com zoominfo.com/c/disk-precision-group/11452653 Disk Precision Group (DP Group) is a Singapore-headquartered precision engineering company founded in 1986, specializing in CNC Turning and Milling of high-precision metal components. With manufacturing sites across Southeast Asia (Singapore, Malaysia, Thailand), they serve global OEM clients in Oil & Gas, Automotive, Consumer Electronics, and Aerospace sectors",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "IC Partners",
+        "discovered": "2026-04-15 15:01:17.324682",
+        "description": "icpartners.it rocketreach.co/icadvisory-services-india-pvt-ltd-profile_b5c0f34ff42e08a0 IC&Partners is an Italian management consulting firm founded in 1999, headquartered in Udine and Milan, specializing in internationalization strategies for SMEs and large companies. With 27 subsidiaries across Central & Eastern Europe, Russia, China, South Asia, and the Americas, they provide tax, legal, accounting, financial, and HR support for foreign market entry.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Marchesi di Barolo",
+        "discovered": "2026-04-15 15:01:16.280457",
+        "description": "marchesibarolo.com zoominfo.com/c/marchesi-di-barolo/372735437 English:\nMarchesi di Barolo is one of Piedmont's most prestigious wine estates, with roots dating back to the early 19th century, when Marchesa Juliette Colbert Falletti pioneered the production of dry, structured Barolo — earning it the title \"Wine of Kings, King of Wines\". In 1929, local winemaker Pietro Abbona acquired the historic cellars, and the Abbona family has been leading the estate for six generations ever since",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "El Ordeno",
+        "discovered": "2026-04-15 15:01:15.125266",
+        "description": "elordeno.com zoominfo.com/c/el-ordeño/363579816 El Ordeño (Sociedad Industrial Ganadera El Ordeño S.A.) is an Ecuadorian agro-industrial dairy company founded in 2001, headquartered in Quito, Pichincha Province. It operates an inclusive and associative business model that connects over 6,000 small and medium dairy producers across 100+ collection centers in the Ecuadorian highlands and Amazon. In 2019, it became the first certified B Corporation dairy company in Ecuador, Latin America, and the Caribbean",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Gruppo ICM SPA",
+        "discovered": "2026-04-15 14:51:43.258372",
+        "description": "Construction",
+        "link": "/site/view?uuid=c7f1fef9-9aab-3ba9-8758-9a21b1cb1bf3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gruppo ICM SPA.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Yad Vashem Museum Hacked!",
+        "discovered": "2026-04-15 14:51:41.185217",
+        "description": "The Biggest Israel's national Holocaust museum Not safe at all...",
+        "link": "pages/Holocaust-Museum.html",
+        "magnet": null,
+        "screen": "screenshots/nasir security/Yad Vashem Museum Hacked!.png",
+        "group_name": "nasir security",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "VOLTERRIES",
+        "discovered": "2026-04-15 13:51:47.394640",
+        "description": "volterres.fr - Volterres, a subsidiary of the Eiffage group, is reinventing the supply of green electricity for businesses and public sector players.",
+        "link": "/post/72196be43f72a424ca72de5127a3cdbf",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/VOLTERRIES.png",
+        "group_name": "lamashtu",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Curtis Design Group",
+        "discovered": "2026-04-15 12:53:33.582444",
+        "description": "Curtis Design Group specializes in home architecture and design, creating beautiful and livable spaces tailored to the needs of families and developers. They fo...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "McCOR",
+        "discovered": "2026-04-15 12:53:32.587736",
+        "description": "McCor is a leading real estate and property management company in Canada, specializing in commercial, retail, and residential property management services. The ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "bela - pharm",
+        "discovered": "2026-04-15 12:53:31.508685",
+        "description": "bela-pharm GmbH specializes in the production of veterinary pharmaceuticals aimed at enhancing animal health. Their product range includes solutions for various...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Carrera Casting Corp.",
+        "discovered": "2026-04-15 11:52:17.697597",
+        "description": "",
+        "link": "/485ca005-c573-4e11-9dad-4e3a85382819",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Carrera Casting Corp.png",
+        "group_name": "black nevas",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "D-Troy Logistics",
         "discovered": "2026-04-15 00:54:18.643765",
         "description": "",
@@ -78,185 +388,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "BK Tomorrow",
-        "discovered": "2026-04-14 15:53:13.301573",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "asesoriauriel.com",
-        "discovered": "2026-04-14 15:52:59.530233",
-        "description": "Asesoría Uriel is a consultancy and management firm located in Soria, specialized in providing services to individuals,...",
-        "link": "/blog/404e2516d4022752f93dc9844fb4712339199312accc129b66a85bcb379cda09/",
-        "magnet": null,
-        "screen": "screenshots/krybit/asesoriaurielcom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "unipest.co.th",
-        "discovered": "2026-04-14 15:52:58.542103",
-        "description": "Unipest Company Limited specializes in pest control services, including the elimination of termites, ants, cockroaches, ...",
-        "link": "/blog/7e4d2cc0b26635dfe620f21d6729f4cd122f8f73c1a95c65bf38693f4a6f0751/",
-        "magnet": null,
-        "screen": "screenshots/krybit/unipestcoth.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "palladium.gen.tr",
-        "discovered": "2026-04-14 15:52:57.522734",
-        "description": "Palladium Teknoloji ve Mühendislik Ltd. Şti. is a private Turkish company operating in the field of industrial enginee...",
-        "link": "/blog/bc5723b509285febe34720381141a5509f50a50f44f48f250c899b37ff117b41/",
-        "magnet": null,
-        "screen": "screenshots/krybit/palladiumgentr.png",
-        "group_name": "krybit",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "secran.com.br",
-        "discovered": "2026-04-14 15:52:56.558231",
-        "description": "SECRAN Group is a trusted partner with over 40 years of experience, focusing on providing a comprehensive portfolio of b...",
-        "link": "/blog/59817f58a05bc6e9720a72bfca2c7857539f7a9ee0e56f52b937752d26bde155/",
-        "magnet": null,
-        "screen": "screenshots/krybit/secrancombr.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Some 0APT  false claims",
-        "discovered": "2026-04-14 15:52:55.614852",
-        "description": "We apologize for this data leak, but it did not affect our operations. The error was in the server settings; the phpMyAd...",
-        "link": "/blog/9f0cdb3a132b8c6cbd7e2edace269a145da2fcb8ee744931c4e7bdf61180bcd2/",
-        "magnet": null,
-        "screen": "screenshots/krybit/Some 0APT  false claims.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "tremcar.com",
-        "discovered": "2026-04-14 15:52:51.766385",
-        "description": "Tremcar Drummond Inc. manufactures and designs high-quality textile machinery and equipment. The company was founded in 1962",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "imadesign.com",
-        "discovered": "2026-04-14 15:52:50.814215",
-        "description": "IMA Design Group, Inc. specializes in master planning, development services, and landscape architecture, with a particular focus on creating exceptional spaces ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "advprograms.com",
-        "discovered": "2026-04-14 15:52:49.866789",
-        "description": "Advanced Programs, Incorporated (API) specializes in providing secure, high-quality integrated \nsystem solutions designed specifically for government and indust...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "novafp.com",
-        "discovered": "2026-04-14 15:52:48.392952",
-        "description": "Nova Fire Protection Inc. specializes in sprinkler fire suppression systems, \noffering design, installation, repair, inspection, and testing services to homeown...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ppiplastics.com",
-        "discovered": "2026-04-14 15:52:47.423797",
-        "description": "Preproduction Plastics Inc. is a company specializing in structural foam injection molding and gas-assisted injection molding.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "je-nyc.com",
-        "discovered": "2026-04-14 15:52:46.445735",
-        "description": "Jacmel Enterprise Inc. offers a wide range of IT services, including Microsoft Dynamics solutions, project services such as data cabling and server configurati...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "breslinbuilders.com",
-        "discovered": "2026-04-14 15:52:45.464457",
-        "description": "Breslin Builders is a general contractor specializing in design and construction, based in Las Vegas, Nevada, and serving the Las Vegas Valley and Southern Neva...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "tulsachamber.com",
-        "discovered": "2026-04-14 15:52:44.497669",
-        "description": "The Talsi Regional Chamber of Commerce is committed to serving as a leading business-oriented organization and improving the quality of life in the community by...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "milliondollarbabyco.com",
-        "discovered": "2026-04-14 14:52:51.398265",
-        "description": "Million Dollar Baby Co. was founded in 1990 and is a proudly family-owned business based in Los Angeles. Since then, MDB has grown to include seven distinct chi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "graphicinfo.com",
-        "discovered": "2026-04-14 14:52:50.429402",
-        "description": "Graphic Information Systems Inc. specializes in the custom production of barcode labels, product number/identification labels, and warehouse signage, serving bu...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "gtlcompany.com",
-        "discovered": "2026-04-14 14:52:49.453678",
-        "description": "Gloyer-Taylor Laboratories, Inc. (GTL) is a high-tech company specializing in providing revolutionary technologies for the aerospace industry. Its product portf...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "WEDA ROBOTICS",
-        "discovered": "2026-04-14 13:52:47.550452",
-        "description": "wedarobotics.com - Over 100 Years of Engineering. Now Pioneering the Future of Sustainable Cleaning.\r\nFrom mechanical pool cleaners in the 1920s to submerged, no drain robotic\r\nsystems used across 40+ countries.",
-        "link": "/post/f38d9c6b2ab7f32218aaad1f043b0180",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/WEDA ROBOTICS.png",
-        "group_name": "lamashtu",
-        "sector": "Technology"
     }
 ]
