@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Alert 360 Opco Inc. (alert360.com)",
+        "discovered": "2026-04-16 17:55:42.221337",
+        "description": "Over 2.5M records containing PII and other internal corporate data have been compromised.   Please read the chatlog of the negociation by cliking the Download button below to see why this data was leaked.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "GoTip",
+        "discovered": "2026-04-16 17:55:39.721083",
+        "description": "GoTip - 1.13GB leaked. Gotip.jp is a Japanese live-streaming enhancement tool that connects digital tips (donations) to physical Bluetooth-enabled devices. It allows viewers to support creators by sending tips, which in turn trigger actions on devices owned by the creator, aimed at making live streams more interactive and engaging.",
+        "link": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/2026/04/16/gotip/",
+        "magnet": null,
+        "screen": "screenshots/ransomexx/GoTip.png",
+        "group_name": "ransomexx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Franziskusschule Wilhelmshaven",
+        "discovered": "2026-04-16 13:53:53.874086",
+        "description": "Franziskusschule Wilhelmshaven is a school located in Wilhelmshaven, a city in northern Germany on the North Sea coast. The name “Franziskusschule” indicates that it is a Franciscan or Catholic school, often inspired by the values of Saint Francis of Assisi, emphasizing community, social responsibility, and moral education alongside academic learning.",
+        "link": "/posts/7c90fc7c-33c6-4fbe-913c-b43b396b278a",
+        "magnet": null,
+        "screen": "screenshots/payload/Franziskusschule Wilhelmshaven.png",
+        "group_name": "payload",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Marino Food Products Pvt",
+        "discovered": "2026-04-16 13:53:52.808137",
+        "description": "Marino Food Products Pvt Ltd, based in Hyderabad, India, specializes in a wide range of healthy and delicious bakery items including biscuits, cookies, cakes, and breads. The company is dedicated to providing high-quality food products that combine wellness with taste, making them an ideal choice for health-conscious consumers. Their offerings are available for online ordering and in various retail stores, ensuring accessibility for their clients. Marino aims to be the go-to destination for snacking bliss, with a commitment to crafting irresistible snacks that satisfy cravings while promoting a healthy lifestyle.",
+        "link": "/posts/0de813bc-eaed-452e-9b1e-10c6c085e000",
+        "magnet": null,
+        "screen": "screenshots/payload/Marino Food Products Pvt.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Sunlight Express Airways",
+        "discovered": "2026-04-16 13:53:51.765055",
+        "description": "Sunlight Air offers affordable flights to popular Philippine island destinations such as Cebu, Coron, Boracay, Siquijor, and Siargao. The airline provides various services including private charters, vacation packages, and a loyalty program called Sunlight Miles. Targeting both leisure and business travelers, Sunlight Air aims to enhance the travel experience with exclusive passenger perks and flexible booking options. With a commitment to expanding flight frequencies and routes, the company continues to facilitate convenient travel across the Philippines.",
+        "link": "/posts/b4c9d63d-2827-4bb9-b1b9-edf84f780a74",
+        "magnet": null,
+        "screen": "screenshots/payload/Sunlight Express Airways.png",
+        "group_name": "payload",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "orientalweavers.com",
+        "discovered": "2026-04-16 13:53:50.791105",
+        "description": "Established in 1979, Oriental Weavers is a manufacturer of textiles used to construct rugs, carpet, upholstery, and more. This company is headquartered in Cairo, Egypt",
+        "link": "/posts/b32ffa64-bd8e-487d-a358-cdb8f7d2bb8d",
+        "magnet": null,
+        "screen": "screenshots/payload/orientalweaverscom.png",
+        "group_name": "payload",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TFE Group",
+        "discovered": "2026-04-16 13:53:49.693109",
+        "description": "TFE Group is a company that operates in the Architecture, Engineering & Design industry.",
+        "link": "/posts/555031f0-db54-4cc0-b7ed-c5b3c1d5f400",
+        "magnet": null,
+        "screen": "screenshots/payload/TFE Group.png",
+        "group_name": "payload",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Empower Group",
+        "discovered": "2026-04-16 13:53:32.811266",
+        "description": "Empower Group has positioned itself in this space as a hub for it's clients to access these different types of funding products. Empower Group has leveraged par...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Biotehnos",
+        "discovered": "2026-04-16 12:53:36.729018",
+        "description": "biotehnos.ro - Biotehnos is a Romanian pharmaceutical company founded in 1993 by Prof. Dr. Ioan Manzatu. It is currently headquartered in Otopeni, Ilfov County, near the country’s capital, Bucharest, and celebrated its 30th anniversary in 2023.",
+        "link": "/post/2bff47b8b7414902df9b5c49cf876d81",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Biotehnos.png",
+        "group_name": "lamashtu",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Clearwater Marine Aquarium",
         "discovered": "2026-04-15 22:54:34.298809",
         "description": "Hospitality",
@@ -67,316 +157,6 @@
         "magnet": null,
         "screen": "screenshots/coinbase cartel/The Epoch Times.png",
         "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grace Design Studios",
-        "discovered": "2026-04-15 15:52:47.843898",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Englewood Lab",
-        "discovered": "2026-04-15 15:52:46.866876",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "F****p",
-        "discovered": "2026-04-15 15:52:45.827103",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Canada Goose - Updated with proof",
-        "discovered": "2026-04-15 15:52:28.157339",
-        "description": "",
-        "link": "/companies/goose",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Canada Goose - Updated with proof.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lacoste - Updated with proof",
-        "discovered": "2026-04-15 15:52:27.236224",
-        "description": "",
-        "link": "/companies/lac",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Lacoste - Updated with proof.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UOM University",
-        "discovered": "2026-04-15 15:52:26.305624",
-        "description": "",
-        "link": "/companies/uom",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/UOM University.png",
-        "group_name": "coinbase cartel",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Vluznet",
-        "discovered": "2026-04-15 15:52:25.367189",
-        "description": "",
-        "link": "/companies/vlz",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Vluznet.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Epoch Times",
-        "discovered": "2026-04-15 15:52:24.411140",
-        "description": "",
-        "link": "/companies/epoch",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Epoch Times.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Superintendency of territorial planning",
-        "discovered": "2026-04-15 15:52:23.344860",
-        "description": "",
-        "link": "/companies/sot",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Superintendency of territorial planning.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "GL Steel",
-        "discovered": "2026-04-15 15:52:22.373930",
-        "description": "",
-        "link": "/companies/glsteel",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/GL Steel.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wayne Brothers Construction",
-        "discovered": "2026-04-15 15:52:21.390746",
-        "description": "",
-        "link": "/companies/bros",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Wayne Brothers Construction.png",
-        "group_name": "coinbase cartel",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Questivity",
-        "discovered": "2026-04-15 15:52:19.988775",
-        "description": "",
-        "link": "/companies/quest",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Questivity.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Millenium Packaging",
-        "discovered": "2026-04-15 15:52:19.046275",
-        "description": "",
-        "link": "/companies/pkg",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Millenium Packaging.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kemenpppa",
-        "discovered": "2026-04-15 15:52:18.050855",
-        "description": "",
-        "link": "/companies/kemen",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Kemenpppa.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rogiken / institute of Science Tokyo",
-        "discovered": "2026-04-15 15:52:16.471526",
-        "description": "",
-        "link": "/companies/tokyo",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Rogiken  institute of Science Tokyo.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "La Maison Bleue France",
-        "discovered": "2026-04-15 15:52:15.514274",
-        "description": "",
-        "link": "/companies/bleue",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/La Maison Bleue France.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sampol",
-        "discovered": "2026-04-15 15:52:14.423095",
-        "description": "",
-        "link": "/companies/sampol",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Sampol.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Astreya",
-        "discovered": "2026-04-15 15:52:13.488409",
-        "description": "",
-        "link": "/companies/astraya",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Astreya.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cognizant",
-        "discovered": "2026-04-15 15:52:12.528136",
-        "description": "",
-        "link": "/companies/cog",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Cognizant.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Greenpharma",
-        "discovered": "2026-04-15 15:01:19.713098",
-        "description": "greenpharma.com.br zoominfo.com/c/greenpharma-química-e-farmacêutica-eireli/558034818 Greenpharma Química & Farmaceutica is a Brazilian pharmaceutical manufacturer founded in 1989 in Anapolis, Goiás, acquired in 1995 by industrial pharmacist Eduardo Gonçalves. The company produces generic and OTC medicines, distributes across all Brazilian states through pharmacy and hospital channels, and operates its own certified pharmaceutical equivalence laboratory (EQFAR-21) accredited by ANVISA",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Disk Precision",
-        "discovered": "2026-04-15 15:01:18.645310",
-        "description": "diskprecision.com zoominfo.com/c/disk-precision-group/11452653 Disk Precision Group (DP Group) is a Singapore-headquartered precision engineering company founded in 1986, specializing in CNC Turning and Milling of high-precision metal components. With manufacturing sites across Southeast Asia (Singapore, Malaysia, Thailand), they serve global OEM clients in Oil & Gas, Automotive, Consumer Electronics, and Aerospace sectors",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "IC Partners",
-        "discovered": "2026-04-15 15:01:17.324682",
-        "description": "icpartners.it rocketreach.co/icadvisory-services-india-pvt-ltd-profile_b5c0f34ff42e08a0 IC&Partners is an Italian management consulting firm founded in 1999, headquartered in Udine and Milan, specializing in internationalization strategies for SMEs and large companies. With 27 subsidiaries across Central & Eastern Europe, Russia, China, South Asia, and the Americas, they provide tax, legal, accounting, financial, and HR support for foreign market entry.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Marchesi di Barolo",
-        "discovered": "2026-04-15 15:01:16.280457",
-        "description": "marchesibarolo.com zoominfo.com/c/marchesi-di-barolo/372735437 English:\nMarchesi di Barolo is one of Piedmont's most prestigious wine estates, with roots dating back to the early 19th century, when Marchesa Juliette Colbert Falletti pioneered the production of dry, structured Barolo — earning it the title \"Wine of Kings, King of Wines\". In 1929, local winemaker Pietro Abbona acquired the historic cellars, and the Abbona family has been leading the estate for six generations ever since",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "El Ordeno",
-        "discovered": "2026-04-15 15:01:15.125266",
-        "description": "elordeno.com zoominfo.com/c/el-ordeño/363579816 El Ordeño (Sociedad Industrial Ganadera El Ordeño S.A.) is an Ecuadorian agro-industrial dairy company founded in 2001, headquartered in Quito, Pichincha Province. It operates an inclusive and associative business model that connects over 6,000 small and medium dairy producers across 100+ collection centers in the Ecuadorian highlands and Amazon. In 2019, it became the first certified B Corporation dairy company in Ecuador, Latin America, and the Caribbean",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Gruppo ICM SPA",
-        "discovered": "2026-04-15 14:51:43.258372",
-        "description": "Construction",
-        "link": "/site/view?uuid=c7f1fef9-9aab-3ba9-8758-9a21b1cb1bf3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gruppo ICM SPA.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Yad Vashem Museum Hacked!",
-        "discovered": "2026-04-15 14:51:41.185217",
-        "description": "The Biggest Israel's national Holocaust museum Not safe at all...",
-        "link": "pages/Holocaust-Museum.html",
-        "magnet": null,
-        "screen": "screenshots/nasir security/Yad Vashem Museum Hacked!.png",
-        "group_name": "nasir security",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "VOLTERRIES",
-        "discovered": "2026-04-15 13:51:47.394640",
-        "description": "volterres.fr - Volterres, a subsidiary of the Eiffage group, is reinventing the supply of green electricity for businesses and public sector players.",
-        "link": "/post/72196be43f72a424ca72de5127a3cdbf",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/VOLTERRIES.png",
-        "group_name": "lamashtu",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Curtis Design Group",
-        "discovered": "2026-04-15 12:53:33.582444",
-        "description": "Curtis Design Group specializes in home architecture and design, creating beautiful and livable spaces tailored to the needs of families and developers. They fo...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "McCOR",
-        "discovered": "2026-04-15 12:53:32.587736",
-        "description": "McCor is a leading real estate and property management company in Canada, specializing in commercial, retail, and residential property management services. The ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "bela - pharm",
-        "discovered": "2026-04-15 12:53:31.508685",
-        "description": "bela-pharm GmbH specializes in the production of veterinary pharmaceuticals aimed at enhancing animal health. Their product range includes solutions for various...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Carrera Casting Corp.",
-        "discovered": "2026-04-15 11:52:17.697597",
-        "description": "",
-        "link": "/485ca005-c573-4e11-9dad-4e3a85382819",
-        "magnet": null,
-        "screen": "screenshots/black nevas/Carrera Casting Corp.png",
-        "group_name": "black nevas",
         "sector": "Unknown"
     }
 ]
