@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Clearwater Marine Aquarium",
+        "discovered": "2026-04-15 22:54:34.298809",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=1b2b5018-bc00-3fc8-b5b5-01b2110c9924",
+        "magnet": null,
+        "screen": "screenshots/qilin/Clearwater Marine Aquarium.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "First 1% Out: Greenfield City Breach Is Officially Public",
+        "discovered": "2026-04-15 22:54:19.928078",
+        "description": "#DataBreach #LeakNET #Greenfield",
+        "link": "view_article.php?article=h8UG6nmmvMCX9WSIBq9gj5KwnAW6k2EpWvD7tBR6zPwEWWqVv7juMiqmS0iVMl3t",
+        "magnet": null,
+        "screen": "screenshots/leaknet/First 1% Out: Greenfield City Breach Is Officially Public.png",
+        "group_name": "leaknet",
+        "sector": "Government"
+    },
+    {
         "post_title": "S&PGLOBAL, LiteLLM/Trivy campaign (TeamPCP)",
         "discovered": "2026-04-15 20:52:47.795651",
         "description": "SECTOR: Business Services                         •                         COUNTRY: US                         •                         SITE: https://www.spglobal.com/en",
@@ -357,16 +377,6 @@
         "magnet": null,
         "screen": "screenshots/black nevas/Carrera Casting Corp.png",
         "group_name": "black nevas",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "D-Troy Logistics",
-        "discovered": "2026-04-15 00:54:18.643765",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
         "sector": "Unknown"
     }
 ]
