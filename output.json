@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "bbalawgroup.com",
+        "discovered": "2026-04-16 21:49:34.465150",
+        "description": "Also referred to as BBA Immigration, is a boutique U.S. legal practice headquartered in Houston, Texas, specialising in immigration law …",
+        "link": "/blog/post/bbalawgroupcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/bbalawgroupcom.png",
+        "group_name": "safepay",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "firstcambodia.com.kh",
+        "discovered": "2026-04-16 21:49:33.503149",
+        "description": "First Cambodia Co., Ltd. is a leading IT services and system integration company headquartered in Phnom Penh, Cambodia. Founded in …",
+        "link": "/blog/post/firstcambodiacomkh/",
+        "magnet": null,
+        "screen": "screenshots/safepay/firstcambodiacomkh.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cheeky.com.ar",
+        "discovered": "2026-04-16 21:49:32.569999",
+        "description": "Cheeky is a well-established Argentine children’s fashion brand owned by CHEEK S.A., headquartered in Martínez, Buenos Aires Province. Founded in …",
+        "link": "/blog/post/cheekycomar/",
+        "magnet": null,
+        "screen": "screenshots/safepay/cheekycomar.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "abfall-kreis-kassel.de",
+        "discovered": "2026-04-16 21:49:31.586771",
+        "description": "The website abfall-kreis-kassel.de represents the Abfallentsorgung Kreis Kassel, a publicly owned waste management entity (Eigenbetrieb) operated by the district of …",
+        "link": "/blog/post/abfall-kreis-kasselde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/abfall-kreis-kasselde.png",
+        "group_name": "safepay",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "genealogysa.org.au",
+        "discovered": "2026-04-16 21:49:30.648986",
+        "description": "Genealogy SA, formally known as the South Australian Genealogy & Heraldry Society, is a leading Australian nonprofit organisation dedicated to …",
+        "link": "/blog/post/genealogysaorgau/",
+        "magnet": null,
+        "screen": "screenshots/safepay/genealogysaorgau.png",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "lynxprecast.co.uk",
+        "discovered": "2026-04-16 21:49:29.711752",
+        "description": "Lynx Precast Ltd is a UK-based construction manufacturing company specialising in the design, manufacture and installation of precast concrete products …",
+        "link": "/blog/post/lynxprecastcouk/",
+        "magnet": null,
+        "screen": "screenshots/safepay/lynxprecastcouk.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "thruwayplumbingservice.com",
+        "discovered": "2026-04-16 21:49:28.774021",
+        "description": "The business provides standard residential and commercial plumbing services, including: - Leak detection and pipe repair - Drain cleaning and …",
+        "link": "/blog/post/thruwayplumbingservicecom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/thruwayplumbingservicecom.png",
+        "group_name": "safepay",
+        "sector": "Services"
+    },
+    {
+        "post_title": "Standard Bank Group",
+        "discovered": "2026-04-16 21:49:26.019166",
+        "description": "Beginning on February 27th 2026, The 3 week long attack on both Standard Bank and Liberty has resulted in 1.2TB of data being exfiltrated from internal servers.",
+        "link": "http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion/SB",
+        "magnet": null,
+        "screen": "screenshots/prinz eugen/Standard Bank Group.png",
+        "group_name": "prinz eugen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "S****p",
+        "discovered": "2026-04-16 19:55:11.078337",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Alert 360 Opco Inc. (alert360.com)",
         "discovered": "2026-04-16 17:55:42.221337",
         "description": "Over 2.5M records containing PII and other internal corporate data have been compromised.   Please read the chatlog of the negociation by cliking the Download button below to see why this data was leaked.",
@@ -108,55 +198,5 @@
         "screen": "screenshots/leaknet/First 1% Out: Greenfield City Breach Is Officially Public.png",
         "group_name": "leaknet",
         "sector": "Government"
-    },
-    {
-        "post_title": "S&PGLOBAL, LiteLLM/Trivy campaign (TeamPCP)",
-        "discovered": "2026-04-15 20:52:47.795651",
-        "description": "SECTOR: Business Services                         •                         COUNTRY: US                         •                         SITE: https://www.spglobal.com/en",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "guesty, LITELLM/TRIVY CAMPAIGN (TEAMPCP)",
-        "discovered": "2026-04-15 20:52:45.334520",
-        "description": "SECTOR: property management                         •                         COUNTRY: IL                         •                         SITE: www.guesty.com",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "vect",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Limkon",
-        "discovered": "2026-04-15 19:52:47.511002",
-        "description": "Food & Beverage",
-        "link": "/site/view?uuid=433a4569-2ad7-3b40-b1d1-1b5bf391aa35",
-        "magnet": null,
-        "screen": "screenshots/qilin/Limkon.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Uniwersytet Warszawski",
-        "discovered": "2026-04-15 18:54:38.522510",
-        "description": "https://www.uw.edu.pl\n\t\t\t\t\t\t\t\t\tThe Faculty of Management at the University of Warsaw is a leading institution in the field of business education, offering a wide range of undergraduate and graduate programs that combine theory with practical experience. However, it is not known for its high level of security and data storage reliability, resulting in the leak of data on students, instructors, and leading professors, as well as student projects and papers.",
-        "link": "http://efs3fkrjyvqsk7nugzteelo5i5jxoch5ziqhf37dzmmlmzzlymhawmid.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Uniwersytet Warszawski.png",
-        "group_name": "interlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "The Epoch Times",
-        "discovered": "2026-04-15 18:54:34.270454",
-        "description": "",
-        "link": "/companies/theepoch",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/The Epoch Times.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
     }
 ]
