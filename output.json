@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Winnitex (Americas) Limited",
+        "discovered": "2026-04-17 20:55:13.749811",
+        "description": "",
+        "link": "/r/ce9db193622ca5d81b719073d7a4d0b6700e405c",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Winnitex (Americas) Limited.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SOGO Auction",
+        "discovered": "2026-04-17 20:55:12.562988",
+        "description": "SOGO Auction - 951MB leaked. SOGO Auction is a prominent Japan-based, specialized auctioneer with over 30 years of experience in trading used construction machinery and heavy equipment. Operating since the 1990s, they provide both on-site and online, high-volume auctions for items like excavators and bulldozers. It is operated by SOGO Corporation.",
+        "link": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/2026/04/17/sogo-auction/",
+        "magnet": null,
+        "screen": "screenshots/ransomexx/SOGO Auction.png",
+        "group_name": "ransomexx",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "D****n",
+        "discovered": "2026-04-17 20:55:10.185272",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rhode-hv.de",
+        "discovered": "2026-04-17 20:54:55.820783",
+        "description": "iseg Spezialelektronik GmbH is a German company specializing in high-voltage microelectronics (high-voltage electronics)...",
+        "link": "/blog/346fe18c28421843210f79b8bd2549f8d8765b4fe20dc5348a42dd1ac0e468c3/",
+        "magnet": null,
+        "screen": "screenshots/krybit/rhode-hvde.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mag. Fünder Hausverwaltungs GmbH",
+        "discovered": "2026-04-17 20:54:53.023111",
+        "description": "",
+        "link": "/blog/disclosures/69e236208f1d14b743348a3d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Mag Fünder Hausverwaltungs GmbH.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "alupco.com",
+        "discovered": "2026-04-17 19:53:05.020893",
+        "description": "",
+        "link": "/blog/disclosures/69e25d808f1d14b743381eca",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/alupcocom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "***",
+        "discovered": "2026-04-17 18:52:54.392831",
+        "description": "A healthcare organization",
+        "link": "/11111111111111111111/",
+        "magnet": null,
+        "screen": "screenshots/genesis/***.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Aman Resorts (aman.com)",
+        "discovered": "2026-04-17 17:53:34.368592",
+        "description": "Over 500k Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "The Canada Life Assurance Company (aman.com)",
         "discovered": "2026-04-17 15:55:39.067758",
         "description": "Over 500k Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -298,115 +378,5 @@
         "screen": "screenshots/safepay/st-bernardsbhamschuk.png",
         "group_name": "safepay",
         "sector": "Education"
-    },
-    {
-        "post_title": "bbalawgroup.com",
-        "discovered": "2026-04-16 21:49:34.465150",
-        "description": "Also referred to as BBA Immigration, is a boutique U.S. legal practice headquartered in Houston, Texas, specialising in immigration law …",
-        "link": "/blog/post/bbalawgroupcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/bbalawgroupcom.png",
-        "group_name": "safepay",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "firstcambodia.com.kh",
-        "discovered": "2026-04-16 21:49:33.503149",
-        "description": "First Cambodia Co., Ltd. is a leading IT services and system integration company headquartered in Phnom Penh, Cambodia. Founded in …",
-        "link": "/blog/post/firstcambodiacomkh/",
-        "magnet": null,
-        "screen": "screenshots/safepay/firstcambodiacomkh.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cheeky.com.ar",
-        "discovered": "2026-04-16 21:49:32.569999",
-        "description": "Cheeky is a well-established Argentine children’s fashion brand owned by CHEEK S.A., headquartered in Martínez, Buenos Aires Province. Founded in …",
-        "link": "/blog/post/cheekycomar/",
-        "magnet": null,
-        "screen": "screenshots/safepay/cheekycomar.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "abfall-kreis-kassel.de",
-        "discovered": "2026-04-16 21:49:31.586771",
-        "description": "The website abfall-kreis-kassel.de represents the Abfallentsorgung Kreis Kassel, a publicly owned waste management entity (Eigenbetrieb) operated by the district of …",
-        "link": "/blog/post/abfall-kreis-kasselde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/abfall-kreis-kasselde.png",
-        "group_name": "safepay",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "genealogysa.org.au",
-        "discovered": "2026-04-16 21:49:30.648986",
-        "description": "Genealogy SA, formally known as the South Australian Genealogy & Heraldry Society, is a leading Australian nonprofit organisation dedicated to …",
-        "link": "/blog/post/genealogysaorgau/",
-        "magnet": null,
-        "screen": "screenshots/safepay/genealogysaorgau.png",
-        "group_name": "safepay",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "lynxprecast.co.uk",
-        "discovered": "2026-04-16 21:49:29.711752",
-        "description": "Lynx Precast Ltd is a UK-based construction manufacturing company specialising in the design, manufacture and installation of precast concrete products …",
-        "link": "/blog/post/lynxprecastcouk/",
-        "magnet": null,
-        "screen": "screenshots/safepay/lynxprecastcouk.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "thruwayplumbingservice.com",
-        "discovered": "2026-04-16 21:49:28.774021",
-        "description": "The business provides standard residential and commercial plumbing services, including: - Leak detection and pipe repair - Drain cleaning and …",
-        "link": "/blog/post/thruwayplumbingservicecom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/thruwayplumbingservicecom.png",
-        "group_name": "safepay",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Standard Bank Group",
-        "discovered": "2026-04-16 21:49:26.019166",
-        "description": "Beginning on February 27th 2026, The 3 week long attack on both Standard Bank and Liberty has resulted in 1.2TB of data being exfiltrated from internal servers.",
-        "link": "http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion/SB",
-        "magnet": null,
-        "screen": "screenshots/prinz eugen/Standard Bank Group.png",
-        "group_name": "prinz eugen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "S****p",
-        "discovered": "2026-04-16 19:55:11.078337",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Alert 360 Opco Inc. (alert360.com)",
-        "discovered": "2026-04-16 17:55:42.221337",
-        "description": "Over 2.5M records containing PII and other internal corporate data have been compromised.   Please read the chatlog of the negociation by cliking the Download button below to see why this data was leaked.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "GoTip",
-        "discovered": "2026-04-16 17:55:39.721083",
-        "description": "GoTip - 1.13GB leaked. Gotip.jp is a Japanese live-streaming enhancement tool that connects digital tips (donations) to physical Bluetooth-enabled devices. It allows viewers to support creators by sending tips, which in turn trigger actions on devices owned by the creator, aimed at making live streams more interactive and engaging.",
-        "link": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/2026/04/16/gotip/",
-        "magnet": null,
-        "screen": "screenshots/ransomexx/GoTip.png",
-        "group_name": "ransomexx",
-        "sector": "Unknown"
     }
 ]
