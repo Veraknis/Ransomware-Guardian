@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "The Canada Life Assurance Company (aman.com)",
+        "discovered": "2026-04-17 15:55:39.067758",
+        "description": "Over 500k Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Canada Life Assurance Company (canadalife.com)",
+        "discovered": "2026-04-17 15:55:38.047130",
+        "description": "Over 5.6M Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pitney Bowes Inc. (pb.com)",
+        "discovered": "2026-04-17 15:55:36.854004",
+        "description": "Over 25M Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "7-Eleven, Inc. (7-eleven.com)",
+        "discovered": "2026-04-17 15:55:35.880522",
+        "description": "Over 600k Salesforce records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Carnival Corporation & plc (carnivalcorp.com)",
+        "discovered": "2026-04-17 15:55:34.913100",
+        "description": "Over 8.7M records containing PII and other terabytes of internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Medtronic plc (medtronic.com)",
+        "discovered": "2026-04-17 15:55:33.951257",
+        "description": "Over 9M records containing PII and other terabytes of internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Zara (zara.com)",
+        "discovered": "2026-04-17 15:55:32.976902",
+        "description": "Your Bigquery instances data was compromised thanks to Anodot.com. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Fagen Friedman & Fulfrost LLP",
+        "discovered": "2026-04-17 11:18:04.982625",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "F...n F...n & F... LLP",
+        "discovered": "2026-04-17 11:18:03.932958",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Cox, Castle & Nicholson LLP",
+        "discovered": "2026-04-17 11:18:00.473005",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Goulston & Storrs",
+        "discovered": "2026-04-17 11:17:59.504900",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jones Day",
+        "discovered": "2026-04-17 11:17:58.393130",
+        "description": "Jones Day founded in 1893 and headquartered in Cleveland Ohio, is a global law firm with locations acr…",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Plunkett Cooney",
+        "discovered": "2026-04-17 11:17:57.354830",
+        "description": "Founded in 1913 and headquartered in Bloomfield Hills, Michigan. Plunkett Cooney is a law firm with of…",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Harris Beach Murtha",
+        "discovered": "2026-04-17 11:17:56.341650",
+        "description": "The two firms announced their combination effective Jan. 1, 2025; the merged Harris Beach Murtha repor…",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "B...ge & D...d PC",
+        "discovered": "2026-04-17 11:17:55.357920",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "G... R...d",
+        "discovered": "2026-04-17 11:17:54.325188",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "J...n L...is",
+        "discovered": "2026-04-17 11:17:53.304210",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "R... T...",
+        "discovered": "2026-04-17 11:17:52.291321",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ellucian PowerCampus Sample (ellucian.com)",
         "discovered": "2026-04-17 09:55:08.421989",
         "description": "",
@@ -228,75 +408,5 @@
         "screen": "screenshots/ransomexx/GoTip.png",
         "group_name": "ransomexx",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Franziskusschule Wilhelmshaven",
-        "discovered": "2026-04-16 13:53:53.874086",
-        "description": "Franziskusschule Wilhelmshaven is a school located in Wilhelmshaven, a city in northern Germany on the North Sea coast. The name “Franziskusschule” indicates that it is a Franciscan or Catholic school, often inspired by the values of Saint Francis of Assisi, emphasizing community, social responsibility, and moral education alongside academic learning.",
-        "link": "/posts/7c90fc7c-33c6-4fbe-913c-b43b396b278a",
-        "magnet": null,
-        "screen": "screenshots/payload/Franziskusschule Wilhelmshaven.png",
-        "group_name": "payload",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Marino Food Products Pvt",
-        "discovered": "2026-04-16 13:53:52.808137",
-        "description": "Marino Food Products Pvt Ltd, based in Hyderabad, India, specializes in a wide range of healthy and delicious bakery items including biscuits, cookies, cakes, and breads. The company is dedicated to providing high-quality food products that combine wellness with taste, making them an ideal choice for health-conscious consumers. Their offerings are available for online ordering and in various retail stores, ensuring accessibility for their clients. Marino aims to be the go-to destination for snacking bliss, with a commitment to crafting irresistible snacks that satisfy cravings while promoting a healthy lifestyle.",
-        "link": "/posts/0de813bc-eaed-452e-9b1e-10c6c085e000",
-        "magnet": null,
-        "screen": "screenshots/payload/Marino Food Products Pvt.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Sunlight Express Airways",
-        "discovered": "2026-04-16 13:53:51.765055",
-        "description": "Sunlight Air offers affordable flights to popular Philippine island destinations such as Cebu, Coron, Boracay, Siquijor, and Siargao. The airline provides various services including private charters, vacation packages, and a loyalty program called Sunlight Miles. Targeting both leisure and business travelers, Sunlight Air aims to enhance the travel experience with exclusive passenger perks and flexible booking options. With a commitment to expanding flight frequencies and routes, the company continues to facilitate convenient travel across the Philippines.",
-        "link": "/posts/b4c9d63d-2827-4bb9-b1b9-edf84f780a74",
-        "magnet": null,
-        "screen": "screenshots/payload/Sunlight Express Airways.png",
-        "group_name": "payload",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "orientalweavers.com",
-        "discovered": "2026-04-16 13:53:50.791105",
-        "description": "Established in 1979, Oriental Weavers is a manufacturer of textiles used to construct rugs, carpet, upholstery, and more. This company is headquartered in Cairo, Egypt",
-        "link": "/posts/b32ffa64-bd8e-487d-a358-cdb8f7d2bb8d",
-        "magnet": null,
-        "screen": "screenshots/payload/orientalweaverscom.png",
-        "group_name": "payload",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TFE Group",
-        "discovered": "2026-04-16 13:53:49.693109",
-        "description": "TFE Group is a company that operates in the Architecture, Engineering & Design industry.",
-        "link": "/posts/555031f0-db54-4cc0-b7ed-c5b3c1d5f400",
-        "magnet": null,
-        "screen": "screenshots/payload/TFE Group.png",
-        "group_name": "payload",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Empower Group",
-        "discovered": "2026-04-16 13:53:32.811266",
-        "description": "Empower Group has positioned itself in this space as a hub for it's clients to access these different types of funding products. Empower Group has leveraged par...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Biotehnos",
-        "discovered": "2026-04-16 12:53:36.729018",
-        "description": "biotehnos.ro - Biotehnos is a Romanian pharmaceutical company founded in 1993 by Prof. Dr. Ioan Manzatu. It is currently headquartered in Otopeni, Ilfov County, near the country’s capital, Bucharest, and celebrated its 30th anniversary in 2023.",
-        "link": "/post/2bff47b8b7414902df9b5c49cf876d81",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Biotehnos.png",
-        "group_name": "lamashtu",
-        "sector": "Finance"
     }
 ]
