@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "Ellucian PowerCampus Sample (ellucian.com)",
+        "discovered": "2026-04-17 09:55:08.421989",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ellucian PowerCampus (ellucian.com)",
+        "discovered": "2026-04-17 09:55:07.435504",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "medicalnetworks CJ GmbH & Co. KG",
+        "discovered": "2026-04-17 08:53:43.646430",
+        "description": "Medicalnetworks specializes in integrated healthcare solutions, offering services such as ascleoncare and Hybrid-DRG billing. Their products are designed to str...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.lanap.com/",
+        "discovered": "2026-04-17 04:54:13.905284",
+        "description": "Millennium Dental Technologies",
+        "link": "/post/69e1671a786a0e50d7a6a887",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwlanapcom.png",
+        "group_name": "termite",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Qatar Biomedical Research Institute (QBRI)",
+        "discovered": "2026-04-17 04:53:53.965728",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "crypto24",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bgcsnv.org",
+        "discovered": "2026-04-17 01:56:36.744005",
+        "description": "",
+        "link": "/blog/disclosures/69e16db28f1d14b743252555",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/bgcsnvorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stride Learning Parent Company (stridelearning.com)",
+        "discovered": "2026-04-17 00:56:50.381839",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HBX Group",
+        "discovered": "2026-04-17 00:56:47.551516",
+        "description": "Hospitality",
+        "link": "/site/view?uuid=a00422e2-f93b-3e47-9c2b-35386294a918",
+        "magnet": null,
+        "screen": "screenshots/qilin/HBX Group.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "putzbaer.berlin",
+        "discovered": "2026-04-17 00:56:32.845689",
+        "description": "putzbär Gebäudemanagement GmbH is a building management company based in Berlin, specializing in a wide range of servi...",
+        "link": "/blog/36488a24bdf98e19b64735365ea6d9a34384e0337e949bb08667a22ec852d572/",
+        "magnet": null,
+        "screen": "screenshots/krybit/putzbaerberlin.png",
+        "group_name": "krybit",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "treelawoffice.com",
+        "discovered": "2026-04-17 00:56:29.104815",
+        "description": "",
+        "link": "/blog/disclosures/69e1639f8f1d14b743245150",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/treelawofficecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "favellefavco.com",
+        "discovered": "2026-04-16 22:55:49.944061",
+        "description": "Favelle Favco is a leading manufacturer of heavy-duty cranes, including: - tower cranes - offshore cranes - wharf and marine …",
+        "link": "/blog/post/favellefavcocom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/favellefavcocom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "st-bernards.bham.sch.uk",
+        "discovered": "2026-04-16 22:55:44.337567",
+        "description": "St Bernard’s provides primary education for children, including: English, maths, science and general curriculum subjects Religious education (Catholic values are …",
+        "link": "/blog/post/st-bernardsbhamschuk/",
+        "magnet": null,
+        "screen": "screenshots/safepay/st-bernardsbhamschuk.png",
+        "group_name": "safepay",
+        "sector": "Education"
+    },
+    {
         "post_title": "bbalawgroup.com",
         "discovered": "2026-04-16 21:49:34.465150",
         "description": "Also referred to as BBA Immigration, is a boutique U.S. legal practice headquartered in Houston, Texas, specialising in immigration law …",
@@ -178,25 +298,5 @@
         "screen": "screenshots/lamashtu/Biotehnos.png",
         "group_name": "lamashtu",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Clearwater Marine Aquarium",
-        "discovered": "2026-04-15 22:54:34.298809",
-        "description": "Hospitality",
-        "link": "/site/view?uuid=1b2b5018-bc00-3fc8-b5b5-01b2110c9924",
-        "magnet": null,
-        "screen": "screenshots/qilin/Clearwater Marine Aquarium.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "First 1% Out: Greenfield City Breach Is Officially Public",
-        "discovered": "2026-04-15 22:54:19.928078",
-        "description": "#DataBreach #LeakNET #Greenfield",
-        "link": "view_article.php?article=h8UG6nmmvMCX9WSIBq9gj5KwnAW6k2EpWvD7tBR6zPwEWWqVv7juMiqmS0iVMl3t",
-        "magnet": null,
-        "screen": "screenshots/leaknet/First 1% Out: Greenfield City Breach Is Officially Public.png",
-        "group_name": "leaknet",
-        "sector": "Government"
     }
 ]
