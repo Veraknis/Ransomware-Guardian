@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "HS Technology Group",
+        "discovered": "2026-04-18 19:55:03.596277",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=6277f05c-0c36-4af9-a003-6217d7cf60c5",
+        "magnet": null,
+        "screen": "screenshots/qilin/HS Technology Group.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Securitevolfeu",
+        "discovered": "2026-04-18 17:56:58.910073",
+        "description": "",
+        "link": "/companies/securitevolfeu",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Securitevolfeu.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Altpro",
+        "discovered": "2026-04-18 17:56:55.918149",
+        "description": "",
+        "link": "/companies/altpro",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Altpro.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "McCuaig and associates Engineering",
+        "discovered": "2026-04-18 17:56:53.682263",
+        "description": "",
+        "link": "/companies/mccuaig",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/McCuaig and associates Engineering.png",
+        "group_name": "coinbase cartel",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Evict them for me",
         "discovered": "2026-04-18 16:55:11.509849",
         "description": "",
@@ -98,85 +138,5 @@
         "screen": "screenshots/blackwater/Minidoka Memorial Hospital.png",
         "group_name": "blackwater",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Winnitex (Americas) Limited",
-        "discovered": "2026-04-17 20:55:13.749811",
-        "description": "",
-        "link": "/r/ce9db193622ca5d81b719073d7a4d0b6700e405c",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Winnitex (Americas) Limited.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SOGO Auction",
-        "discovered": "2026-04-17 20:55:12.562988",
-        "description": "SOGO Auction - 951MB leaked. SOGO Auction is a prominent Japan-based, specialized auctioneer with over 30 years of experience in trading used construction machinery and heavy equipment. Operating since the 1990s, they provide both on-site and online, high-volume auctions for items like excavators and bulldozers. It is operated by SOGO Corporation.",
-        "link": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/2026/04/17/sogo-auction/",
-        "magnet": null,
-        "screen": "screenshots/ransomexx/SOGO Auction.png",
-        "group_name": "ransomexx",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "D****n",
-        "discovered": "2026-04-17 20:55:10.185272",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "rhode-hv.de",
-        "discovered": "2026-04-17 20:54:55.820783",
-        "description": "iseg Spezialelektronik GmbH is a German company specializing in high-voltage microelectronics (high-voltage electronics)...",
-        "link": "/blog/346fe18c28421843210f79b8bd2549f8d8765b4fe20dc5348a42dd1ac0e468c3/",
-        "magnet": null,
-        "screen": "screenshots/krybit/rhode-hvde.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mag. Fünder Hausverwaltungs GmbH",
-        "discovered": "2026-04-17 20:54:53.023111",
-        "description": "",
-        "link": "/blog/disclosures/69e236208f1d14b743348a3d",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Mag Fünder Hausverwaltungs GmbH.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "alupco.com",
-        "discovered": "2026-04-17 19:53:05.020893",
-        "description": "",
-        "link": "/blog/disclosures/69e25d808f1d14b743381eca",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/alupcocom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "***",
-        "discovered": "2026-04-17 18:52:54.392831",
-        "description": "A healthcare organization",
-        "link": "/11111111111111111111/",
-        "magnet": null,
-        "screen": "screenshots/genesis/***.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Aman Resorts (aman.com)",
-        "discovered": "2026-04-17 17:53:34.368592",
-        "description": "Over 500k Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
     }
 ]
