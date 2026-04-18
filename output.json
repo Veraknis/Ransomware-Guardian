@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Evict them for me",
+        "discovered": "2026-04-18 16:55:11.509849",
+        "description": "",
+        "link": "/companies/evict",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Evict them for me.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hazel Mercantile",
+        "discovered": "2026-04-18 13:47:50.721975",
+        "description": "Hazel Mercantile Limited (HML) is a multi-faceted organization with diversified business interests in chemicals, petrochemicals, polymers, petroleum, metals, minerals, rubber, and fertilizers. The company offers holistic customized solutions through its various business domains, including alternative fuel and energy, infrastructure and logistics, and international trade and distribution. HML prides itself on its robust systems, swift adaptability, and a strong global network, ensuring quality and expertise in its services. Their intended clients include businesses seeking comprehensive solutions across multiple industries.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "South Florida Injury Centers",
+        "discovered": "2026-04-18 13:47:49.744333",
+        "description": "South Florida Injury Centers was founded in 2000 by Dr. Brian Wilner, DC, a graduate of Life University College of Chiropractic. In his 24 years of experience with personal injury and auto accident cases, he has treated and managed conditions of the musculoskeletal system as well as Traumatic Brain Injuries. Conditions treated in the office include whiplash, herniated discs, torticollis, cervical strains, headaches, sciatica, and general low back pain.  We pride ourselves in providing both South Florida and the Treasure Coast with great service in Chiropractic care.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Colonial Presbyterian Church",
+        "discovered": "2026-04-18 13:47:48.679783",
+        "description": "We are a community of believers who seek to be the Light of Christ in a hurting culture so that the lost are found, the broken are made whole, the fatherless find hope and our city is blessed.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Pullen Moving",
+        "discovered": "2026-04-18 13:47:47.665166",
+        "description": "Pullen Moving Company owns and operates two warehouses for storing household goods, office furniture, and industrial equipment in Woodbridge, VA as well as a fleet of vehicles for local, long distance, and international moving. We are proud members of the American Trucking",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "FriendlyCare Pharmacy",
+        "discovered": "2026-04-18 13:47:46.658065",
+        "description": "FriendlyCare Pharmacy offers a wide range of health and beauty products, including cosmetics, skincare, personal care, and medical devices. Their services cater to various health needs such as asthma care, diabetes management, and first aid supplies. The pharmacy targets a diverse clientele, including individuals seeking general health products, beauty enthusiasts, and families in need of baby care items. With multiple store locations and a commitment to customer satisfaction, they provide a price match guarantee and free shipping on orders over $99.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Strata Republic",
+        "discovered": "2026-04-18 13:47:45.534090",
+        "description": "Strata Republic is a strata management company based in Sydney and Byron Bay, specializing in residential and commercial strata services. With over a decade of experience, they focus on effective communication and technology-enabled solutions to provide reliable management for their clients. Their services include comprehensive residential strata management, commercial strata management, and community property management, ensuring optimal returns for property owners. Strata Republic caters to a diverse clientele, including owners corporations and property developers, across various regions in New South Wales.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "S***s*a A**ul***e C***s",
         "discovered": "2026-04-18 03:55:14.623527",
         "description": "",
@@ -107,186 +177,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Canada Life Assurance Company (aman.com)",
-        "discovered": "2026-04-17 15:55:39.067758",
-        "description": "Over 500k Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Canada Life Assurance Company (canadalife.com)",
-        "discovered": "2026-04-17 15:55:38.047130",
-        "description": "Over 5.6M Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pitney Bowes Inc. (pb.com)",
-        "discovered": "2026-04-17 15:55:36.854004",
-        "description": "Over 25M Salesforce records containing PII have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "7-Eleven, Inc. (7-eleven.com)",
-        "discovered": "2026-04-17 15:55:35.880522",
-        "description": "Over 600k Salesforce records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Carnival Corporation & plc (carnivalcorp.com)",
-        "discovered": "2026-04-17 15:55:34.913100",
-        "description": "Over 8.7M records containing PII and other terabytes of internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Medtronic plc (medtronic.com)",
-        "discovered": "2026-04-17 15:55:33.951257",
-        "description": "Over 9M records containing PII and other terabytes of internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Zara (zara.com)",
-        "discovered": "2026-04-17 15:55:32.976902",
-        "description": "Your Bigquery instances data was compromised thanks to Anodot.com. Pay or Leak.   This is a final warning to reach out by 21 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fagen Friedman & Fulfrost LLP",
-        "discovered": "2026-04-17 11:18:04.982625",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "F...n F...n & F... LLP",
-        "discovered": "2026-04-17 11:18:03.932958",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Cox, Castle & Nicholson LLP",
-        "discovered": "2026-04-17 11:18:00.473005",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Goulston & Storrs",
-        "discovered": "2026-04-17 11:17:59.504900",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jones Day",
-        "discovered": "2026-04-17 11:17:58.393130",
-        "description": "Jones Day founded in 1893 and headquartered in Cleveland Ohio, is a global law firm with locations acr…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Plunkett Cooney",
-        "discovered": "2026-04-17 11:17:57.354830",
-        "description": "Founded in 1913 and headquartered in Bloomfield Hills, Michigan. Plunkett Cooney is a law firm with of…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Harris Beach Murtha",
-        "discovered": "2026-04-17 11:17:56.341650",
-        "description": "The two firms announced their combination effective Jan. 1, 2025; the merged Harris Beach Murtha repor…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "B...ge & D...d PC",
-        "discovered": "2026-04-17 11:17:55.357920",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "G... R...d",
-        "discovered": "2026-04-17 11:17:54.325188",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "J...n L...is",
-        "discovered": "2026-04-17 11:17:53.304210",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "R... T...",
-        "discovered": "2026-04-17 11:17:52.291321",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "leakeddata",
         "sector": "Unknown"
     }
 ]
