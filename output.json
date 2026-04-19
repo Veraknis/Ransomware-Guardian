@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "ASTM Group",
+        "discovered": "2026-04-19 00:57:13.722594",
+        "description": "",
+        "link": "/companies/astm",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/ASTM Group.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "HS Technology Group",
         "discovered": "2026-04-18 19:55:03.596277",
         "description": "Business Services",
@@ -108,35 +118,5 @@
         "screen": null,
         "group_name": "kairos",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "S***s*a A**ul***e C***s",
-        "discovered": "2026-04-18 03:55:14.623527",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo EBD",
-        "discovered": "2026-04-18 01:55:43.647419",
-        "description": "All data will be published soon...",
-        "link": "/blog?uuid=762a499b-372d-33b8-8148-aa698f077aba",
-        "magnet": null,
-        "screen": "screenshots/blackwater/Grupo EBD.png",
-        "group_name": "blackwater",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Minidoka Memorial Hospital",
-        "discovered": "2026-04-18 01:00:11.148625",
-        "description": "Data will be published after 7 days.",
-        "link": "/blog?uuid=9f470660-332d-37de-8914-393cc1603b4f",
-        "magnet": null,
-        "screen": "screenshots/blackwater/Minidoka Memorial Hospital.png",
-        "group_name": "blackwater",
-        "sector": "Healthcare"
     }
 ]
