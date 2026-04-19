@@ -128,45 +128,5 @@
         "screen": "screenshots/coinbase cartel/ASTM Group.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "HS Technology Group",
-        "discovered": "2026-04-18 19:55:03.596277",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=6277f05c-0c36-4af9-a003-6217d7cf60c5",
-        "magnet": null,
-        "screen": "screenshots/qilin/HS Technology Group.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Securitevolfeu",
-        "discovered": "2026-04-18 17:56:58.910073",
-        "description": "",
-        "link": "/companies/securitevolfeu",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Securitevolfeu.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Altpro",
-        "discovered": "2026-04-18 17:56:55.918149",
-        "description": "",
-        "link": "/companies/altpro",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Altpro.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "McCuaig and associates Engineering",
-        "discovered": "2026-04-18 17:56:53.682263",
-        "description": "",
-        "link": "/companies/mccuaig",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/McCuaig and associates Engineering.png",
-        "group_name": "coinbase cartel",
-        "sector": "Manufacturing"
     }
 ]
