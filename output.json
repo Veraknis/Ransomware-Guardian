@@ -1,11 +1,111 @@
 [
     {
+        "post_title": "JOH Investments Limited",
+        "discovered": "2026-04-20 21:54:05.029402",
+        "description": "JOH Investments Limited is an officially registered financial entity based in Kingston, Jamaica, holding an active Legal Entity Identifier (LEI) for international operations. The company specializes in investment activities and asset management, maintaining integration with global banking systems for financial transactions.",
+        "link": "/posts/30db07c6-741c-401d-acc1-60b2f60bcfd9",
+        "magnet": null,
+        "screen": "screenshots/payload/JOH Investments Limited.png",
+        "group_name": "payload",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "cipsoft.com",
+        "discovered": "2026-04-20 21:53:38.489244",
+        "description": "Dutch healthcare software provider ChipSoft is currently responding to a major April 2026 ransomware attack that resulted in stolen patient data and disrupted s...",
+        "link": "/#/post/d31e1e40-86b7-4da4-a1a5-1aeca05ff9cd",
+        "magnet": null,
+        "screen": "screenshots/embargo/cipsoftcom.png",
+        "group_name": "embargo",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hoeren Gartencenter GmbH",
+        "discovered": "2026-04-20 20:56:46.729534",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=30762bad-00f9-4941-94ed-47492b717f37",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hoeren Gartencenter GmbH.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "B&e Juice",
+        "discovered": "2026-04-20 20:56:46.179430",
+        "description": "Grocery Retail",
+        "link": "/site/blog?uuid=81716728-be03-4db5-8692-02cc9658c2c7",
+        "magnet": null,
+        "screen": "screenshots/qilin/B&e Juice.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "ATKINSON RITSON SOLICITORS LIMITED",
+        "discovered": "2026-04-20 20:56:35.634631",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=db4de85c-a728-44b3-bb89-865aa54fc83a",
+        "magnet": null,
+        "screen": "screenshots/qilin/ATKINSON RITSON SOLICITORS LIMITED.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "SafeRain",
+        "discovered": "2026-04-20 20:53:16.038051",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=6be18f50-6056-4ec9-809e-9ee8e59680dc",
+        "magnet": null,
+        "screen": "screenshots/qilin/SafeRain.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SEL (Safety Engineering Laboratory)",
+        "discovered": "2026-04-20 19:54:07.280180",
+        "description": "Software",
+        "link": "/site/blog?uuid=6b488b8f-3e31-4acf-885a-7d15760922d3",
+        "magnet": null,
+        "screen": "screenshots/qilin/SEL (Safety Engineering Laboratory).png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "SmartSystems",
+        "discovered": "2026-04-20 19:25:22.192558",
+        "description": "iesmartsystems.com zoominfo.com/c/smart-systems/139592895 Technology integrator since 2000 — Founded in Houston, Texas by Gary and Doug Colvin, i.e. Smart Systems has over 25 years of experience delivering design-build technology solutions for commercial clients.Core services: A/V, Cabling & Security — The company specializes in audio/video systems, structured cabling (fiber optic, voice, network), security systems (video surveillance, access control), wireless networks, and video conferencing solutions.Strong client loyalty — More than 90% of their business comes from repeat customers, ranging from small municipalities to large publicly-traded corporations; they serve universities, oil & gas campuses, banks, and more across Texas.Award-winning company — i.e. Smart Systems is a four-time Houston Business Journal Fast Tech 50 award recipient, with ~94 employees and revenue of approximately $18.7 million.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Champion Homes",
+        "discovered": "2026-04-20 19:25:20.673267",
+        "description": "championhomes.com.au zoominfo.com/c/champion-homes-pty-ltd/345413802 Established Sydney home builder since 1998 — Champion Homes is a residential building company operating in Greater Sydney and the Illawarra region of NSW, with thousands of homes built over more than 25 years. Specializes in duplexes, knockdown rebuilds & house/land packages — Their core offerings include duplex construction, knock-down rebuilds, house & land packages, narrow lot designs, and custom single or double-storey homes with 3–5 bedrooms.Quality-first approach with guarantees — Every completed home comes with 9 Champion Certificates & Guarantees, and the company partners exclusively with leading Australian brands as standard inclusions for maximum value.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Euro Creations",
+        "discovered": "2026-04-20 19:25:19.690566",
+        "description": "eurocreations.co.th Luxury furniture retailer founded in 1996, Bangkok — Euro Creations is a Thailand-based public company (SET: EURO) specializing in importing and distributing European luxury furniture, lighting, and home accessories, headquartered on Sukhumvit Road, Bangkok. Three flagship stores in prime Bangkok locations — The company operates showrooms at CDC, Siam Paragon, and Thonglor, offering curated collections from world-renowned European brands across living room, bedroom, bathroom, kitchen, outdoor, and wardrobe categories.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
         "post_title": "City'Pro",
         "discovered": "2026-04-20 17:44:37.707571",
         "description": "Education",
         "link": "/site/blog?uuid=eedd0eaa-5cd6-4450-b165-24877fb4124d",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/City'Pro.png",
         "group_name": "qilin",
         "sector": "Education"
     },
@@ -15,7 +115,7 @@
         "description": "Law Firms & Legal Services",
         "link": "/site/blog?uuid=bfe4f5a0-89c7-4751-bce6-b2fb8a332f39",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/GUEGUEN Avocats.png",
         "group_name": "qilin",
         "sector": "Legal"
     },
@@ -25,7 +125,7 @@
         "description": "Business Services",
         "link": "/site/blog?uuid=90ebc9a6-cf80-4514-a4a7-4282a2a56223",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/The Go Solution.png",
         "group_name": "qilin",
         "sector": "Unknown"
     },
