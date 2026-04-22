@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "Equatorial Coca-Cola Bottling",
+        "discovered": "2026-04-22 14:51:15.495470",
+        "description": "",
+        "link": "/companies/5186331866",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Equatorial Coca-Cola Bottling.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PremCom",
+        "discovered": "2026-04-22 13:54:11.552999",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "comunidadandina.org",
+        "discovered": "2026-04-22 13:51:49.408752",
+        "description": "La Comunidad Andina (CAN) es un organismo internacional de integración subregional fundado el 26 de...",
+        "link": "/post/bbaac87b25aaf8c1f764b7fca126c0dc",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/comunidadandinaorg.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "fondonorma.org.ve",
+        "discovered": "2026-04-22 13:51:48.445389",
+        "description": "Fondonorma is a Venezuelan certification company that helps businesses prove they meet quality and s...",
+        "link": "/post/8a65d62506b2d1b2570b3e894e71e15e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/fondonormaorgve.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cegasa.com",
+        "discovered": "2026-04-22 13:51:47.507631",
+        "description": "Cegasa is a leading European company specializing in innovative energy solutions, particularly lithi...",
+        "link": "/post/ab4e5c1cd83cb07eaafdb3ef43f58558",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/cegasacom.png",
+        "group_name": "lockbit5",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "nucleodediagnostico.mx",
+        "discovered": "2026-04-22 13:51:46.571331",
+        "description": "Núcleo de Diagnóstico\nNúcleo de Diagnóstico es un laboratorio de análisis clínicos ubicado en Guada...",
+        "link": "/post/9f98bc6c2e7cb045ef87df9ceb43ee19",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/nucleodediagnosticomx.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "marti.do",
+        "discovered": "2026-04-22 13:51:45.418414",
+        "description": "ABOUT THE GROUP\nSomos un grupo empresarial con más de 60 años de experiencia, sirviendo con entusia...",
+        "link": "/post/4fa8270015958266c4c3f6866f6f46d7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/martido.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "decaturdiagnosticlab.net",
+        "discovered": "2026-04-22 13:51:44.399602",
+        "description": "Located inside the Med-Surg Complex; Decatur Diagnostic Lab is a privately owned lab servicing the D...",
+        "link": "/post/fe10588cc70183ad263865cacfe96b96",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/decaturdiagnosticlabnet.png",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "studiopiu.net",
+        "discovered": "2026-04-22 13:51:43.458223",
+        "description": "Di fronte al Lago di Garda, a Desenzano, batte uno dei cuori storici della radiofonia dance italiana...",
+        "link": "/post/0d88adf2c6849b1ea53b8980c49142c6",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/studiopiunet.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "murni.co.id",
+        "discovered": "2026-04-22 13:51:42.514018",
+        "description": "PT Murni Solusindo Nusantara is an ICT-based solution provider company with ISO 9001:2015 certificat...",
+        "link": "/post/1f6ace0b98cd8870617e578fb83bcd4e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/murnicoid.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bardehle.com",
+        "discovered": "2026-04-22 13:51:41.533399",
+        "description": "BARDEHLE PAGENBERG is a leading intellectual property law firm in Europe, specializing in patent lit...",
+        "link": "/post/6af067af1a852b63a94cba574c937cdb",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/bardehlecom.png",
+        "group_name": "lockbit5",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "erstransportes.com.br",
+        "discovered": "2026-04-22 13:51:40.383126",
+        "description": "A ERS Transportes, iniciou suas atividades em 2003, transportando cargas em equipamentos porta contê...",
+        "link": "/post/f0a14e58baf5f2243d0d636c7fff5b2f",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/erstransportescombr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kinsmen TeleMiracle",
+        "discovered": "2026-04-22 12:12:25.054937",
+        "description": "Charitable organization that hosts an annual telethon to raise funds for the Kinsmen Foundation",
+        "link": "Companies/telemiracle",
+        "magnet": null,
+        "screen": "screenshots/pear/Kinsmen TeleMiracle.png",
+        "group_name": "pear",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "The Galliher Law Firm",
+        "discovered": "2026-04-22 11:55:58.308475",
+        "description": "The Galliher Law Firm, established in 1974, specializes in personal injury law, providing dedicated legal representation to clients in Las Vegas and surrounding...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Primius Law Firm",
+        "discovered": "2026-04-22 11:55:57.312388",
+        "description": "Primius Law Firm is a modern and effective legal firm established to provide holistic solutions to various legal issues. With a team of experienced professional...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
         "post_title": "K2 Electric, Inc",
         "discovered": "2026-04-21 22:56:35.153776",
         "description": "Commercial and industrial electrical contractor.",
@@ -108,85 +258,5 @@
         "screen": "screenshots/qilin/Ferguson Timar.png",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Safety Engineering Laboratories",
-        "discovered": "2026-04-21 16:55:52.998337",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=5151f924-dd51-4654-96ee-4f251051c958",
-        "magnet": null,
-        "screen": "screenshots/qilin/Safety Engineering Laboratories.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ruskcountywi.us",
-        "discovered": "2026-04-21 16:55:51.944006",
-        "description": "Government",
-        "link": "/site/blog?uuid=52fc0d7f-7cf9-4c90-9519-d886e27197a8",
-        "magnet": null,
-        "screen": "screenshots/qilin/ruskcountywius.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Avitrans",
-        "discovered": "2026-04-21 16:55:50.947883",
-        "description": "Freight & Logistics Services",
-        "link": "/site/blog?uuid=630d6424-b8e2-4d05-b67f-1d0e9054c16b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Avitrans.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "STERIMED",
-        "discovered": "2026-04-21 16:55:49.964245",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=afa2db4c-b35b-40aa-9812-82a35ab9c6bf",
-        "magnet": null,
-        "screen": "screenshots/qilin/STERIMED.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "H****l",
-        "discovered": "2026-04-21 16:55:48.705147",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Boston Capital Leak: A Story of Stolen Data and Broken Confidence",
-        "discovered": "2026-04-21 16:55:34.749973",
-        "description": "#DataBreach #LeakNET #BostonCapital #CyberSecurity",
-        "link": "view_article.php?article=qSwEHKHrqT16rxe57QpaXH4DRtpuD6nxhirMzCGozb0xxvSU14YRYeVKVNAakcHQ",
-        "magnet": null,
-        "screen": "screenshots/leaknet/The Boston Capital Leak: A Story of Stolen Data and Broken Confidence.png",
-        "group_name": "leaknet",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "GGI",
-        "discovered": "2026-04-21 15:21:39.996360",
-        "description": "Website: ggitokiomarine.com\nWebsite: ggipinsurance.com\nRevenue: $19.2 Million\nProvides comprehensive general and life insurance solutions, including motor, fire, marine, and specialized health coverage. Established in 2012, the firm partners with international companies like Tokio Marine and Nippon Life to offer tailored coverage options for individuals and corporations.\nData:\n\nFinancial Documents\nEmployee records\nContracts with customers and suppliers\nStrategic Plans\nConfidential data\nPersonal data\nInsurance compensations\n\nThe volume of retrieved data is 325 GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Champion Homes",
-        "discovered": "2026-04-21 14:55:23.408272",
-        "description": "Champion Homes is a progressive residential building company which undertakes building work in the Greater Sydney and Illawarra region. Champion Homes operates ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
     }
 ]
