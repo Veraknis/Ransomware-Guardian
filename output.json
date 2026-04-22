@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Eric J Taylor Doxx",
+        "discovered": "2026-04-22 21:55:26.446186",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "krwlawyers.com",
+        "discovered": "2026-04-22 21:55:08.478425",
+        "description": "",
+        "link": "/blog/disclosures/69e919e58f1d14b743d20955",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/krwlawyerscom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "INCYTE",
+        "discovered": "2026-04-22 21:55:06.404985",
+        "description": "Incyte Corporation, a biopharmaceutical company, focuses on the discovery, development, and commercialization of various therapeutics in the United States. The ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Millennium",
+        "discovered": "2026-04-22 19:54:41.044280",
+        "description": "",
+        "link": "/company?dataBlobId=312c4039-9ffe-4791-b733-99cc9236d71c",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Equatorial Coca-Cola Bottling",
         "discovered": "2026-04-22 14:51:15.495470",
         "description": "",
@@ -158,105 +198,5 @@
         "screen": "screenshots/genesis/K2 Electric, Inc.png",
         "group_name": "genesis",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Jiangsu Zenergy Battery Technologies Group Co., Ltd.",
-        "discovered": "2026-04-21 20:55:54.236960",
-        "description": "",
-        "link": "/r/dc227a632118c7c3f9c1e30d3715c607390ee1ae",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Jiangsu Zenergy Battery Technologies Group Co, Ltd.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Synergy Engineering",
-        "discovered": "2026-04-21 19:56:11.818506",
-        "description": "If the company does not contact us before 28/04/2026 the files will be published. ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Kolin Turkey",
-        "discovered": "2026-04-21 19:56:08.946414",
-        "description": "Construction",
-        "link": "/site/blog?uuid=49c8d270-ed6d-4c8c-bf61-fea4bdb57137",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kolin Turkey.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Sea Air International Forwarders",
-        "discovered": "2026-04-21 19:56:07.998602",
-        "description": "Freight & Logistics Services",
-        "link": "/site/blog?uuid=a2309864-11e9-47d6-8322-8437cd03b94f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sea Air International Forwarders.png",
-        "group_name": "qilin",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Huonker GmbH",
-        "discovered": "2026-04-21 19:56:06.999060",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=678cb953-ff11-4240-9477-428ff570d7ae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Huonker GmbH.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PTS Office Systems",
-        "discovered": "2026-04-21 19:56:05.849725",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=97424ce2-0b2a-4f99-a245-2fe5d2a983d4",
-        "magnet": null,
-        "screen": "screenshots/qilin/PTS Office Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Industrial Carrocera Arbuciense",
-        "discovered": "2026-04-21 19:56:04.825031",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=63939a85-62e9-4a69-8cd7-81558761113b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Industrial Carrocera Arbuciense.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Gastroenterology & Hepatology",
-        "discovered": "2026-04-21 19:11:54.781006",
-        "description": "",
-        "link": "/company?dataBlobId=d5f10299-088a-4fb6-b3cc-54c713acd3c0",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Heartland Steel Products",
-        "discovered": "2026-04-21 18:14:35.201407",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=78c871f8-711e-400f-b626-d725ffc3e8cc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Heartland Steel Products.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Ferguson Timar",
-        "discovered": "2026-04-21 17:55:22.348049",
-        "description": "Finance",
-        "link": "/site/blog?uuid=1bbcec82-5c8c-46ec-9639-20f7c1a47db0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ferguson Timar.png",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
