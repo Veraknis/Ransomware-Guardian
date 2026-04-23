@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Virginia Health Services",
+        "discovered": "2026-04-23 12:53:49.638239",
+        "description": "",
+        "link": "/companies/2481593133",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Virginia Health Services.png",
+        "group_name": "worldleaks",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Sanna Web",
+        "discovered": "2026-04-23 12:53:29.685896",
+        "description": "",
+        "link": "/companies/sanna",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Sanna Web.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Peru LNG  (Hunt LNG Operating Company)",
+        "discovered": "2026-04-23 12:53:28.637516",
+        "description": "",
+        "link": "/companies/peru",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Peru LNG  (Hunt LNG Operating Company).png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Aptim",
+        "discovered": "2026-04-23 12:53:27.617544",
+        "description": "",
+        "link": "/companies/aptim",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Aptim.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kementerian Pertanian",
+        "discovered": "2026-04-23 11:53:11.197136",
+        "description": "",
+        "link": "/companies/kementerian",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Kementerian Pertanian.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sea Telecom Br",
+        "discovered": "2026-04-23 11:53:10.207059",
+        "description": "",
+        "link": "/companies/sea",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Sea Telecom Br.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Precision Coating",
+        "discovered": "2026-04-23 11:53:09.238605",
+        "description": "",
+        "link": "/companies/coating",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Precision Coating.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Integer Holdings",
+        "discovered": "2026-04-23 11:53:08.243299",
+        "description": "",
+        "link": "/companies/integer",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Integer Holdings.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Tractial",
         "discovered": "2026-04-23 10:53:44.652112",
         "description": "A small but substantial data breach at a fintech company.",
@@ -118,155 +198,5 @@
         "screen": null,
         "group_name": "leak bazaar",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Equatorial Coca-Cola Bottling",
-        "discovered": "2026-04-22 14:51:15.495470",
-        "description": "",
-        "link": "/companies/5186331866",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Equatorial Coca-Cola Bottling.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PremCom",
-        "discovered": "2026-04-22 13:54:11.552999",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "comunidadandina.org",
-        "discovered": "2026-04-22 13:51:49.408752",
-        "description": "La Comunidad Andina (CAN) es un organismo internacional de integración subregional fundado el 26 de...",
-        "link": "/post/bbaac87b25aaf8c1f764b7fca126c0dc",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/comunidadandinaorg.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "fondonorma.org.ve",
-        "discovered": "2026-04-22 13:51:48.445389",
-        "description": "Fondonorma is a Venezuelan certification company that helps businesses prove they meet quality and s...",
-        "link": "/post/8a65d62506b2d1b2570b3e894e71e15e",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/fondonormaorgve.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cegasa.com",
-        "discovered": "2026-04-22 13:51:47.507631",
-        "description": "Cegasa is a leading European company specializing in innovative energy solutions, particularly lithi...",
-        "link": "/post/ab4e5c1cd83cb07eaafdb3ef43f58558",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/cegasacom.png",
-        "group_name": "lockbit5",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "nucleodediagnostico.mx",
-        "discovered": "2026-04-22 13:51:46.571331",
-        "description": "Núcleo de Diagnóstico\nNúcleo de Diagnóstico es un laboratorio de análisis clínicos ubicado en Guada...",
-        "link": "/post/9f98bc6c2e7cb045ef87df9ceb43ee19",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/nucleodediagnosticomx.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "marti.do",
-        "discovered": "2026-04-22 13:51:45.418414",
-        "description": "ABOUT THE GROUP\nSomos un grupo empresarial con más de 60 años de experiencia, sirviendo con entusia...",
-        "link": "/post/4fa8270015958266c4c3f6866f6f46d7",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/martido.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "decaturdiagnosticlab.net",
-        "discovered": "2026-04-22 13:51:44.399602",
-        "description": "Located inside the Med-Surg Complex; Decatur Diagnostic Lab is a privately owned lab servicing the D...",
-        "link": "/post/fe10588cc70183ad263865cacfe96b96",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/decaturdiagnosticlabnet.png",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "studiopiu.net",
-        "discovered": "2026-04-22 13:51:43.458223",
-        "description": "Di fronte al Lago di Garda, a Desenzano, batte uno dei cuori storici della radiofonia dance italiana...",
-        "link": "/post/0d88adf2c6849b1ea53b8980c49142c6",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/studiopiunet.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "murni.co.id",
-        "discovered": "2026-04-22 13:51:42.514018",
-        "description": "PT Murni Solusindo Nusantara is an ICT-based solution provider company with ISO 9001:2015 certificat...",
-        "link": "/post/1f6ace0b98cd8870617e578fb83bcd4e",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/murnicoid.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bardehle.com",
-        "discovered": "2026-04-22 13:51:41.533399",
-        "description": "BARDEHLE PAGENBERG is a leading intellectual property law firm in Europe, specializing in patent lit...",
-        "link": "/post/6af067af1a852b63a94cba574c937cdb",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/bardehlecom.png",
-        "group_name": "lockbit5",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "erstransportes.com.br",
-        "discovered": "2026-04-22 13:51:40.383126",
-        "description": "A ERS Transportes, iniciou suas atividades em 2003, transportando cargas em equipamentos porta contê...",
-        "link": "/post/f0a14e58baf5f2243d0d636c7fff5b2f",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/erstransportescombr.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kinsmen TeleMiracle",
-        "discovered": "2026-04-22 12:12:25.054937",
-        "description": "Charitable organization that hosts an annual telethon to raise funds for the Kinsmen Foundation",
-        "link": "Companies/telemiracle",
-        "magnet": null,
-        "screen": "screenshots/pear/Kinsmen TeleMiracle.png",
-        "group_name": "pear",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "The Galliher Law Firm",
-        "discovered": "2026-04-22 11:55:58.308475",
-        "description": "The Galliher Law Firm, established in 1974, specializes in personal injury law, providing dedicated legal representation to clients in Las Vegas and surrounding...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Primius Law Firm",
-        "discovered": "2026-04-22 11:55:57.312388",
-        "description": "Primius Law Firm is a modern and effective legal firm established to provide holistic solutions to various legal issues. With a team of experienced professional...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Legal"
     }
 ]
