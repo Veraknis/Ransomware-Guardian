@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Udemy, Inc. (udemy.com)",
+        "discovered": "2026-04-24 03:53:46.011940",
+        "description": "Over 1.4M records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 27 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ADT, Inc. (adt.com)",
+        "discovered": "2026-04-24 03:53:45.042207",
+        "description": "Over 10M records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 27 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "EEC Group",
+        "discovered": "2026-04-24 00:01:43.757081",
+        "description": "eecegypt.com zoominfo.com/c/eec-group/372746808 EEC Group (Engineering Enterprises for Civil & Steel Constructions S.A.E.) is an Egyptian engineering and construction conglomerate headquartered at EEC Tower, Sheraton Heliopolis, Cairo. Founded in 1977 as a construction company, it expanded into steel structure manufacturing in 1983 and became a telecom infrastructure turnkey contractor from 1996 onwards",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Coralina",
+        "discovered": "2026-04-24 00:01:42.696415",
+        "description": "coralina.gov.co zoominfo.com/c/coralina/425697881 CORALINA (Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés, Providencia y Santa Catalina) is the official Colombian government environmental authority responsible for managing and protecting the natural resources of the San Andrés, Providencia, and Santa Catalina archipelago in the Caribbean. It was created under Article 37 of Law 99 of December 22, 1993 and operates as a public entity with administrative and financial autonomy, its own assets, and legal status",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Lawson Software",
+        "discovered": "2026-04-24 00:01:41.771602",
+        "description": "lawson.co.th zoominfo.com/c/lawson-software-co-ltd/454540883 Lawson Software (Thailand) Co., Ltd. is a Bangkok-based IT consulting firm specializing in ERP (Enterprise Resource Planning) implementation and business software solutions, founded in 1999. The company is headquartered at Gypsum Metropolitan Tower, Si Ayutthaya Road, Ratchathewi, Bangkok, and has a team of 11–50 employees",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Suzhou Yike Kejian",
+        "discovered": "2026-04-24 00:01:40.803182",
+        "description": "dnb.com/business-directory/company-profiles.suzhou_yike_kejian_architectural_design_research_institute_co_ltd_nanjing_bra_nch.12f22121a67d4f912a7d8a5b634d830a.html Suzhou Yike Kejian Architectural Design Research Institute Co., Ltd. (Nanjing Branch) is a Chinese architectural design and research firm operating in the Residential Building Construction sector, classified under the Construction of Buildings industry. The company is registered in Nanjing, Jiangsu Province, and operates as a branch of the parent entity headquartered in Suzhou, Jiangsu. It is a small regional design institute serving the competitive Yangtze River Delta construction market, with professionally certified engineers on staff",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Millennium packages",
+        "discovered": "2026-04-23 23:50:53.955873",
+        "description": "",
+        "link": "/company?dataBlobId=312c4039-9ffe-4791-b733-99cc9236d71c",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Mother's Market & Kitchen",
         "discovered": "2026-04-23 21:51:54.642366",
         "description": "",
@@ -188,85 +258,5 @@
         "screen": "screenshots/coinbase cartel/Integer Holdings.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Tractial",
-        "discovered": "2026-04-23 10:53:44.652112",
-        "description": "A small but substantial data breach at a fintech company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/y6Zs7Km0McU+AxV0h+9CJSYjm18Rg7tOuOs74gFBj9qQ7BAT+BnVtnbbpLifs2g8b5vcw2iQdi2tsGoBtlOdjBMZ3RhbFl5",
-        "magnet": null,
-        "screen": "screenshots/anubis/Tractial.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Marnell Financial Services",
-        "discovered": "2026-04-23 10:53:43.689684",
-        "description": "Data breach at financial company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/MfelqEowpPeYhRKpAZ0T+HbGEC+sBogiWTb1zNQBs6uG0gKRS9B5+IjKK3BAtYOvY0pyjmmWfrRJJZVrph2twXRjRzY2VFoy",
-        "magnet": null,
-        "screen": "screenshots/anubis/Marnell Financial Services.png",
-        "group_name": "anubis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "trugreen.com",
-        "discovered": "2026-04-23 01:53:28.818017",
-        "description": "",
-        "link": "/blog/disclosures/69e94bc78f1d14b743d7124a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/trugreencom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "teamster773.org",
-        "discovered": "2026-04-23 01:53:27.860398",
-        "description": "",
-        "link": "/blog/disclosures/69e94ecf8f1d14b743d762dd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/teamster773org.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "chipsoft.com",
-        "discovered": "2026-04-23 01:53:25.916162",
-        "description": "ChipSoft provides innovative software solutions for healthcare institutions, aimed at reducing administrative burdens and enhancing the quality of care. Their e...",
-        "link": "/#/post/d31e1e40-86b7-4da4-a1a5-1aeca05ff9cd",
-        "magnet": null,
-        "screen": "screenshots/embargo/chipsoftcom.png",
-        "group_name": "embargo",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "1st Solution CTC 🇩🇪",
-        "discovered": "2026-04-23 00:54:36.537222",
-        "description": "The company provides training and audits to improve quality and ensure compliance with standards.",
-        "link": "/blog/d05578b1-eec3-4c41-a1f0-82f657ecbacb",
-        "magnet": null,
-        "screen": "screenshots/bravox/1st Solution CTC 🇩🇪.png",
-        "group_name": "bravox",
-        "sector": "Education"
-    },
-    {
-        "post_title": "alexandergroup.com",
-        "discovered": "2026-04-22 23:52:56.096390",
-        "description": "The company is disregarding its customers' data. If a deal is not reached within 48 hours, the files will be made public.\n\nThe Alexander Group is a revenue growth and sales management consulting company. It is headquartered in Scottsdale, Arizona",
-        "link": "/mG15TzXqDB5f8SSwIoUcKiBFI3JqNMJe/alexandergroup-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/alexandergroupcom.png",
-        "group_name": "chaos",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Gregory Jewellers",
-        "discovered": "2026-04-22 22:26:28.880610",
-        "description": "Gregory Jewellers Pty Ltd is an Australian-owned, family-operated fine jewellery retailer with more than 45 years of heritage in craftsmanship and customer service. The company specializes in a diverse portfolio of fine jewellery, watches, and accessories, each piece crafted with meticulous attention to detail in state-of-the-art production facilities located in Sydney's CBD. Gregory Jewellers maintains rigorous quality standards through its proprietary five-point criteria process, known as The Gregory Standard, which ensures every piece bearing the Gregory maker's mark meets the finest degree of quality. The company's commitment to excellence extends to its diamond selection, with all diamonds sourced and hand-selected to exceed industry standards.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Government"
     }
 ]
