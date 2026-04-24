@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "METO Systems",
+        "discovered": "2026-04-24 16:56:34.334236",
+        "description": "METO Systems designs and manufactures stainless-steel industrial material‑handling equipment for regulated industries. Products include lifts, blenders, transporters, and docking systems, they offer installation, training, customization, and support.",
+        "link": "/Company/METOSystems/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/METO Systems.png",
+        "group_name": "insomnia",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "tlctrialteam.com",
+        "discovered": "2026-04-24 16:56:33.245602",
+        "description": "",
+        "link": "/blog/disclosures/69eb79598f1d14b74309bec2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tlctrialteamcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dorotea Sweden",
+        "discovered": "2026-04-24 14:55:31.837533",
+        "description": "",
+        "link": "/blog/disclosures/69ea299e8f1d14b743ebd6f1",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Dorotea Sweden.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Star Energy Geothermal Salak",
+        "discovered": "2026-04-24 12:55:55.257598",
+        "description": "",
+        "link": "/r/ef71172568660c2e1e7b32b31443d090310d0667",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Star Energy Geothermal Salak.png",
+        "group_name": "ransomhouse",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Flynn Group",
+        "discovered": "2026-04-24 12:55:53.539366",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lessard Dental",
+        "discovered": "2026-04-24 11:55:13.121305",
+        "description": "Lessard Dental is a family dental practice located in West Edmonton, offering a wide range of services including cosmetic dentistry, dental implants, orthodontics, and emergency care. The clinic is dedicated to providing personalized care tailored to the unique needs of each patient, ensuring a comfortable experience for individuals of all ages. With a team of experienced dentists, they focus on promoting long-term oral health and beautiful smiles. Lessard Dental welcomes new patients and is committed to making dental visits a positive experience.",
+        "link": "/card/lessard_dental",
+        "magnet": null,
+        "screen": "screenshots/beast/Lessard Dental.png",
+        "group_name": "beast",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Udemy, Inc. (udemy.com)",
         "discovered": "2026-04-24 03:53:46.011940",
         "description": "Over 1.4M records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 27 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -178,85 +238,5 @@
         "screen": "screenshots/qilin/Clearview Intelligence.png",
         "group_name": "qilin",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Virginia Health Services",
-        "discovered": "2026-04-23 12:53:49.638239",
-        "description": "",
-        "link": "/companies/2481593133",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Virginia Health Services.png",
-        "group_name": "worldleaks",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Sanna Web",
-        "discovered": "2026-04-23 12:53:29.685896",
-        "description": "",
-        "link": "/companies/sanna",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Sanna Web.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Peru LNG  (Hunt LNG Operating Company)",
-        "discovered": "2026-04-23 12:53:28.637516",
-        "description": "",
-        "link": "/companies/peru",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Peru LNG  (Hunt LNG Operating Company).png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aptim",
-        "discovered": "2026-04-23 12:53:27.617544",
-        "description": "",
-        "link": "/companies/aptim",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Aptim.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kementerian Pertanian",
-        "discovered": "2026-04-23 11:53:11.197136",
-        "description": "",
-        "link": "/companies/kementerian",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Kementerian Pertanian.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sea Telecom Br",
-        "discovered": "2026-04-23 11:53:10.207059",
-        "description": "",
-        "link": "/companies/sea",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Sea Telecom Br.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Precision Coating",
-        "discovered": "2026-04-23 11:53:09.238605",
-        "description": "",
-        "link": "/companies/coating",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Precision Coating.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Integer Holdings",
-        "discovered": "2026-04-23 11:53:08.243299",
-        "description": "",
-        "link": "/companies/integer",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Integer Holdings.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
     }
 ]
