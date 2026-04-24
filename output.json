@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Point Four EPoS Solutions",
+        "discovered": "2026-04-24 19:56:41.355108",
+        "description": "Finance",
+        "link": "/site/blog?uuid=9afb16b5-9a36-4d76-8b9c-3fcf0299a1ac",
+        "magnet": null,
+        "screen": "screenshots/qilin/Point Four EPoS Solutions.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Denso",
+        "discovered": "2026-04-24 19:56:40.410142",
+        "description": "Automotive Parts",
+        "link": "/site/blog?uuid=5cbe8c15-ab75-4cd4-b593-f8e4b70cbcb4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Denso.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Marc Cain",
+        "discovered": "2026-04-24 19:56:39.484753",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/blog?uuid=14354888-e288-4bfa-98c1-9a0a1827a06a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Marc Cain.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Progressive Propane",
+        "discovered": "2026-04-24 19:56:38.472043",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/blog?uuid=e689111a-4ad5-4608-ba4a-0d05ffb5662f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Progressive Propane.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Priests for Life",
+        "discovered": "2026-04-24 18:56:21.078506",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/blog?uuid=95a2e088-2df7-4459-9bf4-9c1635272582",
+        "magnet": null,
+        "screen": "screenshots/qilin/Priests for Life.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Flipo Group",
+        "discovered": "2026-04-24 18:56:20.134008",
+        "description": "Retail · Pennsylvania",
+        "link": "/site/blog?uuid=f2bad09d-2561-442f-816b-877765ab4c36",
+        "magnet": null,
+        "screen": "screenshots/qilin/Flipo Group.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Grupo ABC",
+        "discovered": "2026-04-24 18:56:19.178490",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=93473400-5af5-4290-881c-7ea5603994b1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo ABC.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "METO Systems",
         "discovered": "2026-04-24 16:56:34.334236",
         "description": "METO Systems designs and manufactures stainless-steel industrial material‑handling equipment for regulated industries. Products include lifts, blenders, transporters, and docking systems, they offer installation, training, customization, and support.",
@@ -138,105 +208,5 @@
         "screen": null,
         "group_name": "ailock",
         "sector": "Retail"
-    },
-    {
-        "post_title": "rotak.it",
-        "discovered": "2026-04-23 20:52:54.353186",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "City of Napoleon, Ohio",
-        "discovered": "2026-04-23 20:51:12.284574",
-        "description": "Government",
-        "link": "/site/blog?uuid=60cf33bb-d84a-4ebb-91fa-91199cd5df61",
-        "magnet": null,
-        "screen": "screenshots/qilin/City of Napoleon, Ohio.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Peroni Sosa Tellechea Burt & Narvaja",
-        "discovered": "2026-04-23 20:51:10.970856",
-        "description": "PSTBN Peroni Sosa Tellechea Burt & Narvaja is one of the largest and most prestigious law firms in Paraguay, founded in 1968. The firm is committed to meeting the diverse legal needs of its clients across various practice areas, including corporate law, tax law, agribusiness, and regulatory compliance.",
-        "link": "/posts/291a9c54-96c1-49ab-bec6-c956261c75dd",
-        "magnet": null,
-        "screen": "screenshots/payload/Peroni Sosa Tellechea Burt & Narvaja.png",
-        "group_name": "payload",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "meditron.com.ve",
-        "discovered": "2026-04-23 20:51:09.983675",
-        "description": "Meditron C.A. is a Venezuelan company founded in 1972, specializing in the marketing and after-sales service of medical equipment. They also design, construct, and equip healthcare infrastructures, providing comprehensive solutions in the health sector. Their offerings include a wide range of medical devices and technical support services, catering to various healthcare needs. Meditron represents globally recognized brands and is committed to supporting medical innovation and excellence in Venezuela.",
-        "link": "/posts/b3bc9c9e-ed72-44f0-a1a3-51b5cf745265",
-        "magnet": null,
-        "screen": "screenshots/payload/meditroncomve.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "b3-bruck.at",
-        "discovered": "2026-04-23 20:51:08.934640",
-        "description": "B3-Bruck is an Austrian company specializing in IT services and network solutions. They provide hosting, virtual servers, and colocation, along with network management and security services. The company also offers IT consulting and infrastructure support for corporate clients.",
-        "link": "/posts/76002630-ccd8-413c-b402-661e2d82889b",
-        "magnet": null,
-        "screen": "screenshots/payload/b3-bruckat.png",
-        "group_name": "payload",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "caravaningcity.com",
-        "discovered": "2026-04-23 20:51:07.808358",
-        "description": "Caravaning City is a travel and lifestyle platform focused on caravanning and RV adventures. They provide information, products, and services for camping enthusiasts, including motorhomes, caravans, and camping accessories. The site also offers trip planning resources and guides for exploring caravan-friendly destinations.",
-        "link": "/posts/1334ba3c-66a6-4bf4-b71d-4bc5fd06afc2",
-        "magnet": null,
-        "screen": "screenshots/payload/caravaningcitycom.png",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "B to B Visions",
-        "discovered": "2026-04-23 19:51:06.431554",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=e3e8d690-d3b9-4c56-b4b4-b1a3a8ad5848",
-        "magnet": null,
-        "screen": "screenshots/qilin/B to B Visions.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Manulife Wealth",
-        "discovered": "2026-04-23 19:51:05.426326",
-        "description": "Finance",
-        "link": "/site/blog?uuid=b99a070a-d480-477d-a489-b1aefd911408",
-        "magnet": null,
-        "screen": "screenshots/qilin/Manulife Wealth.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "The FAFS",
-        "discovered": "2026-04-23 19:51:04.476630",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=bad35319-6d38-4e59-958f-8cc3c6546df3",
-        "magnet": null,
-        "screen": "screenshots/qilin/The FAFS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Clearview Intelligence",
-        "discovered": "2026-04-23 19:51:02.298958",
-        "description": "Software",
-        "link": "/site/blog?uuid=481fc9be-20ad-4103-b6a2-0723980721ca",
-        "magnet": null,
-        "screen": "screenshots/qilin/Clearview Intelligence.png",
-        "group_name": "qilin",
-        "sector": "Technology"
     }
 ]
