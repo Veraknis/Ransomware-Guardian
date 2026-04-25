@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "bridgeway-consulting.co.uk",
+        "discovered": "2026-04-25 18:56:51.740002",
+        "description": "We have 500GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/bridgeway",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/bridgeway-consultingcouk.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Disk Precision Group",
+        "discovered": "2026-04-25 17:55:42.782912",
+        "description": "",
+        "link": "/company?dataBlobId=64c4cd67-29dd-43d0-a4d7-e4ce2f7e3799",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Apple Film Group",
+        "discovered": "2026-04-25 17:55:41.772928",
+        "description": "applefilm-group.com - Apple Film Co., Ltd. is a leading manufacturer of high-quality plastic bags and films, specializing in Polyethylene (PE) products like HDPE, LDPE, and LLDPE.",
+        "link": "/post/b3152369a7c964b51e0175534d38cc41",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Apple Film Group.png",
+        "group_name": "lamashtu",
+        "sector": "Media"
+    },
+    {
         "post_title": "Chase Cooper Limited (RiskLogix Solutions)",
         "discovered": "2026-04-25 16:56:18.280048",
         "description": "Software",
@@ -178,75 +208,5 @@
         "screen": "screenshots/inc ransom/krauseundco.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Point Four EPoS Solutions",
-        "discovered": "2026-04-24 19:56:41.355108",
-        "description": "Finance",
-        "link": "/site/blog?uuid=9afb16b5-9a36-4d76-8b9c-3fcf0299a1ac",
-        "magnet": null,
-        "screen": "screenshots/qilin/Point Four EPoS Solutions.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Denso",
-        "discovered": "2026-04-24 19:56:40.410142",
-        "description": "Automotive Parts",
-        "link": "/site/blog?uuid=5cbe8c15-ab75-4cd4-b593-f8e4b70cbcb4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Denso.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Marc Cain",
-        "discovered": "2026-04-24 19:56:39.484753",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=14354888-e288-4bfa-98c1-9a0a1827a06a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Marc Cain.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Progressive Propane",
-        "discovered": "2026-04-24 19:56:38.472043",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/blog?uuid=e689111a-4ad5-4608-ba4a-0d05ffb5662f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Progressive Propane.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Priests for Life",
-        "discovered": "2026-04-24 18:56:21.078506",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/blog?uuid=95a2e088-2df7-4459-9bf4-9c1635272582",
-        "magnet": null,
-        "screen": "screenshots/qilin/Priests for Life.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Flipo Group",
-        "discovered": "2026-04-24 18:56:20.134008",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=f2bad09d-2561-442f-816b-877765ab4c36",
-        "magnet": null,
-        "screen": "screenshots/qilin/Flipo Group.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Grupo ABC",
-        "discovered": "2026-04-24 18:56:19.178490",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=93473400-5af5-4290-881c-7ea5603994b1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo ABC.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
