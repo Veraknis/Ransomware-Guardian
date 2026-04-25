@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "Chase Cooper Limited (RiskLogix Solutions)",
+        "discovered": "2026-04-25 16:56:18.280048",
+        "description": "Software",
+        "link": "/site/blog?uuid=9653e175-0e80-495b-91f8-78eb6e684399",
+        "magnet": null,
+        "screen": "screenshots/qilin/Chase Cooper Limited (RiskLogix Solutions).png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "KEMBA Indianapolis Credit Union",
+        "discovered": "2026-04-25 16:56:17.302366",
+        "description": "Banking",
+        "link": "/site/blog?uuid=8d287b77-f2b9-421a-813c-2e1852cc59dc",
+        "magnet": null,
+        "screen": "screenshots/qilin/KEMBA Indianapolis Credit Union.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "SanCor",
+        "discovered": "2026-04-25 16:56:16.337070",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=120bce78-580e-4d21-a9b8-b47d01cb5937",
+        "magnet": null,
+        "screen": "screenshots/qilin/SanCor.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "First County FCU",
+        "discovered": "2026-04-25 16:56:15.400872",
+        "description": "Banking",
+        "link": "/site/blog?uuid=9a968fc5-8b3e-4349-b24b-6fcbe8e3e54c",
+        "magnet": null,
+        "screen": "screenshots/qilin/First County FCU.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Chelten House",
+        "discovered": "2026-04-25 16:56:14.449989",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=de546057-5c08-43e4-a246-36f85ee6b309",
+        "magnet": null,
+        "screen": "screenshots/qilin/Chelten House.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Woodfields Consultants",
+        "discovered": "2026-04-25 16:56:13.492932",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=faa9bf92-cf2f-4da4-8661-c48357ae4b39",
+        "magnet": null,
+        "screen": "screenshots/qilin/Woodfields Consultants.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Travel Expert",
+        "discovered": "2026-04-25 16:56:12.532391",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=5d747964-e5ef-4f68-9abf-fc338106d0bb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Travel Expert.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Mid Florida Dermatology & Plastic Surgery",
+        "discovered": "2026-04-25 16:56:11.543626",
+        "description": "0",
+        "link": "/site/blog?uuid=a1361397-7377-41c6-a91c-0144f3c9374e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mid Florida Dermatology & Plastic Surgery.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Omax Autos",
+        "discovered": "2026-04-25 16:55:57.212971",
+        "description": "",
+        "link": "/company?dataBlobId=b4e457b5-f52e-4d0e-b806-0ccc984b227c",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Malaysian NPK Fertilizer Sdn. Bhd",
+        "discovered": "2026-04-25 16:55:55.926558",
+        "description": "mnfsb.com.my - Malaysian NPK established in 2001 in Kedah, is a leading producer of high-quality NPK compound fertilizers. The company is a joint venture between NAFAS and Petronas Chemicals",
+        "link": "/post/c3fa318d5729400079ca178fae6196bc",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Malaysian NPK Fertilizer Sdn Bhd.png",
+        "group_name": "lamashtu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LA Woodworks",
+        "discovered": "2026-04-25 15:56:16.451360",
+        "description": "Furniture",
+        "link": "/site/blog?uuid=96e2f88b-cd48-4cb7-b6a3-1457ab554fb9",
+        "magnet": null,
+        "screen": "screenshots/qilin/LA Woodworks.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Buckley Powder",
+        "discovered": "2026-04-25 15:56:15.384750",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=ad6e7758-9aed-447e-84c4-3f6a8e3e0b6e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Buckley Powder.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cahbo Produkter",
+        "discovered": "2026-04-25 15:56:14.449161",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=234117e4-a04b-481d-94d4-a22c68d1c635",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cahbo Produkter.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Leistritz Turbine Technology",
+        "discovered": "2026-04-25 15:56:13.522660",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=de499d1b-c806-4643-befa-6780cfcb1244",
+        "magnet": null,
+        "screen": "screenshots/qilin/Leistritz Turbine Technology.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Swansea Ambulance Corps",
+        "discovered": "2026-04-25 15:56:11.828413",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The **u***y C*** o* **r**n",
+        "discovered": "2026-04-25 15:56:10.834310",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dillon Family Medicine",
+        "discovered": "2026-04-25 14:57:17.386762",
+        "description": "0",
+        "link": "/site/blog?uuid=23559922-26fd-496f-94cf-6261dc9d58e6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dillon Family Medicine.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "krauseundco",
         "discovered": "2026-04-25 02:56:31.013699",
         "description": "",
@@ -78,65 +248,5 @@
         "screen": "screenshots/qilin/Grupo ABC.png",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "METO Systems",
-        "discovered": "2026-04-24 16:56:34.334236",
-        "description": "METO Systems designs and manufactures stainless-steel industrial material‑handling equipment for regulated industries. Products include lifts, blenders, transporters, and docking systems, they offer installation, training, customization, and support.",
-        "link": "/Company/METOSystems/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/METO Systems.png",
-        "group_name": "insomnia",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "tlctrialteam.com",
-        "discovered": "2026-04-24 16:56:33.245602",
-        "description": "",
-        "link": "/blog/disclosures/69eb79598f1d14b74309bec2",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/tlctrialteamcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dorotea Sweden",
-        "discovered": "2026-04-24 14:55:31.837533",
-        "description": "",
-        "link": "/blog/disclosures/69ea299e8f1d14b743ebd6f1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Dorotea Sweden.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Star Energy Geothermal Salak",
-        "discovered": "2026-04-24 12:55:55.257598",
-        "description": "",
-        "link": "/r/ef71172568660c2e1e7b32b31443d090310d0667",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Star Energy Geothermal Salak.png",
-        "group_name": "ransomhouse",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Flynn Group",
-        "discovered": "2026-04-24 12:55:53.539366",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lessard Dental",
-        "discovered": "2026-04-24 11:55:13.121305",
-        "description": "Lessard Dental is a family dental practice located in West Edmonton, offering a wide range of services including cosmetic dentistry, dental implants, orthodontics, and emergency care. The clinic is dedicated to providing personalized care tailored to the unique needs of each patient, ensuring a comfortable experience for individuals of all ages. With a team of experienced dentists, they focus on promoting long-term oral health and beautiful smiles. Lessard Dental welcomes new patients and is committed to making dental visits a positive experience.",
-        "link": "/card/lessard_dental",
-        "magnet": null,
-        "screen": "screenshots/beast/Lessard Dental.png",
-        "group_name": "beast",
-        "sector": "Healthcare"
     }
 ]
