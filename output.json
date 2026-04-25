@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "krauseundco",
+        "discovered": "2026-04-25 02:56:31.013699",
+        "description": "",
+        "link": "/blog/disclosures/69ea22bb8f1d14b743eb4941",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/krauseundco.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Point Four EPoS Solutions",
         "discovered": "2026-04-24 19:56:41.355108",
         "description": "Finance",
@@ -128,85 +138,5 @@
         "screen": "screenshots/beast/Lessard Dental.png",
         "group_name": "beast",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Udemy, Inc. (udemy.com)",
-        "discovered": "2026-04-24 03:53:46.011940",
-        "description": "Over 1.4M records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 27 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ADT, Inc. (adt.com)",
-        "discovered": "2026-04-24 03:53:45.042207",
-        "description": "Over 10M records containing PII and other internal corporate data have been compromised. Pay or Leak.   This is a final warning to reach out by 27 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "EEC Group",
-        "discovered": "2026-04-24 00:01:43.757081",
-        "description": "eecegypt.com zoominfo.com/c/eec-group/372746808 EEC Group (Engineering Enterprises for Civil & Steel Constructions S.A.E.) is an Egyptian engineering and construction conglomerate headquartered at EEC Tower, Sheraton Heliopolis, Cairo. Founded in 1977 as a construction company, it expanded into steel structure manufacturing in 1983 and became a telecom infrastructure turnkey contractor from 1996 onwards",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Coralina",
-        "discovered": "2026-04-24 00:01:42.696415",
-        "description": "coralina.gov.co zoominfo.com/c/coralina/425697881 CORALINA (Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés, Providencia y Santa Catalina) is the official Colombian government environmental authority responsible for managing and protecting the natural resources of the San Andrés, Providencia, and Santa Catalina archipelago in the Caribbean. It was created under Article 37 of Law 99 of December 22, 1993 and operates as a public entity with administrative and financial autonomy, its own assets, and legal status",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Lawson Software",
-        "discovered": "2026-04-24 00:01:41.771602",
-        "description": "lawson.co.th zoominfo.com/c/lawson-software-co-ltd/454540883 Lawson Software (Thailand) Co., Ltd. is a Bangkok-based IT consulting firm specializing in ERP (Enterprise Resource Planning) implementation and business software solutions, founded in 1999. The company is headquartered at Gypsum Metropolitan Tower, Si Ayutthaya Road, Ratchathewi, Bangkok, and has a team of 11–50 employees",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Suzhou Yike Kejian",
-        "discovered": "2026-04-24 00:01:40.803182",
-        "description": "dnb.com/business-directory/company-profiles.suzhou_yike_kejian_architectural_design_research_institute_co_ltd_nanjing_bra_nch.12f22121a67d4f912a7d8a5b634d830a.html Suzhou Yike Kejian Architectural Design Research Institute Co., Ltd. (Nanjing Branch) is a Chinese architectural design and research firm operating in the Residential Building Construction sector, classified under the Construction of Buildings industry. The company is registered in Nanjing, Jiangsu Province, and operates as a branch of the parent entity headquartered in Suzhou, Jiangsu. It is a small regional design institute serving the competitive Yangtze River Delta construction market, with professionally certified engineers on staff",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Millennium packages",
-        "discovered": "2026-04-23 23:50:53.955873",
-        "description": "",
-        "link": "/company?dataBlobId=312c4039-9ffe-4791-b733-99cc9236d71c",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mother's Market & Kitchen",
-        "discovered": "2026-04-23 21:51:54.642366",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Retail"
     }
 ]
