@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Walman Optical",
+        "discovered": "2026-04-26 16:15:23.266865",
+        "description": "Walman Optical who is owned by well-known Company EssilorLuxottica is a U.S.-based optical company founded in 1915 and headquartered in Minneapolis, Minnesota. It is a leading manufacturer and distributor of ophthalmic products, including prescription lenses, frames, and optical equipment. The company primarily serves eye care professionals such as optometrists and ophthalmologists by providing advanced lens technologies, coatings, and laboratory services. With multiple locations and production facilities across the United States, Walman Optical has built a strong reputation in the vision care industry. As part of EssilorLuxottica, the company benefits from global resources, innovation, and an expanded market presence. \nThe company headquarters is located in 801 12th Avenue North, Minneapolis, Minnesota 55411, United States with 1K - 5K Employees.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/medusa/Walman Optical.png",
+        "group_name": "medusa",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "bladex.com",
+        "discovered": "2026-04-26 12:48:06.193238",
+        "description": "Bladex, a multinational bank originally established by the central banks of Latin-American and Carib...",
+        "link": "/post/3afc24512af0e66dcc0e4ca36ddfb290",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/bladexcom.png",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "heinrichs-logistic.de",
+        "discovered": "2026-04-26 12:48:04.917532",
+        "description": "D. Heinrichs Logistic GmbH is a leading logistics service provider based in Bremerhaven, specializin...",
+        "link": "/post/5a1998fd944e3b312b5feadb0425f846",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/heinrichs-logisticde.png",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "merlo.de",
+        "discovered": "2026-04-26 12:48:03.980353",
+        "description": "Merlo Teleskoplader: von Profis für Profis\nTeleskoplader für jeden Einsatz – plus Dienstleistung! M...",
+        "link": "/post/4b7edcbde0f820b818d0f6731345ef62",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/merlode.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dmschweiz.ch",
+        "discovered": "2026-04-26 12:44:10.231043",
+        "description": "Sie haben im Katalog unsere Angebote von installierten und betriebsbereiten Gerten. Die Installationen können nach Ihren Wünschen angepasst werden. DM Standard-Installation ist optimiert und ohne Herstellerwerbung. Stolen: 120gb 100k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "anvilarts.org.uk",
+        "discovered": "2026-04-26 12:44:09.281334",
+        "description": "Anvil Arts is the largest performing arts organization in Hampshire, operating as an independent charitable trust. It manages three venues in Basingstoke, including The Anvil and The Haymarket, providing a diverse range of performances and cultural events. Stolen: 480gb 299k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "primeproperties.com.au",
+        "discovered": "2026-04-26 12:44:08.060770",
+        "description": "Prime Properties (NSW) P/L is a privately owned company based in Sydney, Australia, established in 1982, specializing in property investment, building management, and management consultancy services Stolen: 100gb 81k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "airdriephysio.com",
+        "discovered": "2026-04-26 12:44:07.020746",
+        "description": "Airdrie Physiotherapy & Massage is a multi-disciplinary clinic located in Airdrie, Alberta, offering a range of services including physiotherapy, massage therapy, acupuncture, and laser therapy Stolen: 54gb 116k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "rainforestclean.com",
+        "discovered": "2026-04-26 12:44:06.040866",
+        "description": "Rainforest Carwash and Oil Change, along with it’s owner, enjoys giving back to our local community. Hopefully you are inspired to help after seeing the ways in which we try to help others. Stolen: 259gb 77k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Energy"
+    },
+    {
         "post_title": "bridgeway-consulting.co.uk",
         "discovered": "2026-04-25 18:56:51.740002",
         "description": "We have 500GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
@@ -28,175 +118,5 @@
         "screen": "screenshots/lamashtu/Apple Film Group.png",
         "group_name": "lamashtu",
         "sector": "Media"
-    },
-    {
-        "post_title": "Chase Cooper Limited (RiskLogix Solutions)",
-        "discovered": "2026-04-25 16:56:18.280048",
-        "description": "Software",
-        "link": "/site/blog?uuid=9653e175-0e80-495b-91f8-78eb6e684399",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chase Cooper Limited (RiskLogix Solutions).png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "KEMBA Indianapolis Credit Union",
-        "discovered": "2026-04-25 16:56:17.302366",
-        "description": "Banking",
-        "link": "/site/blog?uuid=8d287b77-f2b9-421a-813c-2e1852cc59dc",
-        "magnet": null,
-        "screen": "screenshots/qilin/KEMBA Indianapolis Credit Union.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "SanCor",
-        "discovered": "2026-04-25 16:56:16.337070",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=120bce78-580e-4d21-a9b8-b47d01cb5937",
-        "magnet": null,
-        "screen": "screenshots/qilin/SanCor.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "First County FCU",
-        "discovered": "2026-04-25 16:56:15.400872",
-        "description": "Banking",
-        "link": "/site/blog?uuid=9a968fc5-8b3e-4349-b24b-6fcbe8e3e54c",
-        "magnet": null,
-        "screen": "screenshots/qilin/First County FCU.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Chelten House",
-        "discovered": "2026-04-25 16:56:14.449989",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=de546057-5c08-43e4-a246-36f85ee6b309",
-        "magnet": null,
-        "screen": "screenshots/qilin/Chelten House.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Woodfields Consultants",
-        "discovered": "2026-04-25 16:56:13.492932",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=faa9bf92-cf2f-4da4-8661-c48357ae4b39",
-        "magnet": null,
-        "screen": "screenshots/qilin/Woodfields Consultants.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Travel Expert",
-        "discovered": "2026-04-25 16:56:12.532391",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=5d747964-e5ef-4f68-9abf-fc338106d0bb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Travel Expert.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Mid Florida Dermatology & Plastic Surgery",
-        "discovered": "2026-04-25 16:56:11.543626",
-        "description": "0",
-        "link": "/site/blog?uuid=a1361397-7377-41c6-a91c-0144f3c9374e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mid Florida Dermatology & Plastic Surgery.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Omax Autos",
-        "discovered": "2026-04-25 16:55:57.212971",
-        "description": "",
-        "link": "/company?dataBlobId=b4e457b5-f52e-4d0e-b806-0ccc984b227c",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Malaysian NPK Fertilizer Sdn. Bhd",
-        "discovered": "2026-04-25 16:55:55.926558",
-        "description": "mnfsb.com.my - Malaysian NPK established in 2001 in Kedah, is a leading producer of high-quality NPK compound fertilizers. The company is a joint venture between NAFAS and Petronas Chemicals",
-        "link": "/post/c3fa318d5729400079ca178fae6196bc",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Malaysian NPK Fertilizer Sdn Bhd.png",
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LA Woodworks",
-        "discovered": "2026-04-25 15:56:16.451360",
-        "description": "Furniture",
-        "link": "/site/blog?uuid=96e2f88b-cd48-4cb7-b6a3-1457ab554fb9",
-        "magnet": null,
-        "screen": "screenshots/qilin/LA Woodworks.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Buckley Powder",
-        "discovered": "2026-04-25 15:56:15.384750",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=ad6e7758-9aed-447e-84c4-3f6a8e3e0b6e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Buckley Powder.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cahbo Produkter",
-        "discovered": "2026-04-25 15:56:14.449161",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=234117e4-a04b-481d-94d4-a22c68d1c635",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cahbo Produkter.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Leistritz Turbine Technology",
-        "discovered": "2026-04-25 15:56:13.522660",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=de499d1b-c806-4643-befa-6780cfcb1244",
-        "magnet": null,
-        "screen": "screenshots/qilin/Leistritz Turbine Technology.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Swansea Ambulance Corps",
-        "discovered": "2026-04-25 15:56:11.828413",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The **u***y C*** o* **r**n",
-        "discovered": "2026-04-25 15:56:10.834310",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Dillon Family Medicine",
-        "discovered": "2026-04-25 14:57:17.386762",
-        "description": "0",
-        "link": "/site/blog?uuid=23559922-26fd-496f-94cf-6261dc9d58e6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dillon Family Medicine.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
