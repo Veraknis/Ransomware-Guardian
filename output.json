@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Synmosa Biopharma",
+        "discovered": "2026-04-26 20:57:48.533567",
+        "description": "Synmosa is a specialty pharmaceutical corporation that engages in diversified development that includes acting as an agent, manufacturing, OEM, and R&D. Adhered...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Longwood Engineering Company",
+        "discovered": "2026-04-26 19:56:06.114480",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=de45ff0e-e9b3-4b0f-b711-664acc7bb31f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Longwood Engineering Company.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "A & A Building Material",
+        "discovered": "2026-04-26 19:56:05.173447",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=f7ab3d0b-a7d0-4b8c-8f6b-2a040359565f",
+        "magnet": null,
+        "screen": "screenshots/qilin/A & A Building Material.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "﻿﻿Muller Technology",
+        "discovered": "2026-04-26 19:56:04.175211",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=f92a2b79-707b-42e4-9335-cfa02313d037",
+        "magnet": null,
+        "screen": "screenshots/qilin/﻿﻿Muller Technology.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Exclusive Networks",
+        "discovered": "2026-04-26 18:57:07.997193",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=00bee91c-d577-4927-8a0f-b8a6ea4b6d37",
+        "magnet": null,
+        "screen": "screenshots/qilin/Exclusive Networks.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Istarpal",
+        "discovered": "2026-04-26 18:57:07.031848",
+        "description": "Education",
+        "link": "/site/blog?uuid=53b52d91-047d-4b1d-9561-d2c44f340510",
+        "magnet": null,
+        "screen": "screenshots/qilin/Istarpal.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Mesquite Plumbing Inc.",
+        "discovered": "2026-04-26 18:57:05.781138",
+        "description": "Plumbing Experts",
+        "link": "Companies/mesquiteplumbing",
+        "magnet": null,
+        "screen": "screenshots/pear/Mesquite Plumbing Inc.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Narteks Tekstil A.S",
+        "discovered": "2026-04-26 18:56:51.296270",
+        "description": "Narteks Tekstil Sanayi ve Ticaret A.Ş., one of the well-known Turkish companies in the cotton yarn and textile industry...",
+        "link": "/blog/a65686b4c9633f5c3ca17d911a8f81ad659d2d40515f108eb4fe626ad6e9a147/",
+        "magnet": null,
+        "screen": "screenshots/krybit/Narteks Tekstil AS.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Walman Optical",
         "discovered": "2026-04-26 16:15:23.266865",
         "description": "Walman Optical who is owned by well-known Company EssilorLuxottica is a U.S.-based optical company founded in 1915 and headquartered in Minneapolis, Minnesota. It is a leading manufacturer and distributor of ophthalmic products, including prescription lenses, frames, and optical equipment. The company primarily serves eye care professionals such as optometrists and ophthalmologists by providing advanced lens technologies, coatings, and laboratory services. With multiple locations and production facilities across the United States, Walman Optical has built a strong reputation in the vision care industry. As part of EssilorLuxottica, the company benefits from global resources, innovation, and an expanded market presence. \nThe company headquarters is located in 801 12th Avenue North, Minneapolis, Minnesota 55411, United States with 1K - 5K Employees.",
@@ -88,35 +168,5 @@
         "screen": null,
         "group_name": "m3rx",
         "sector": "Energy"
-    },
-    {
-        "post_title": "bridgeway-consulting.co.uk",
-        "discovered": "2026-04-25 18:56:51.740002",
-        "description": "We have 500GB of data. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/bridgeway",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/bridgeway-consultingcouk.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Disk Precision Group",
-        "discovered": "2026-04-25 17:55:42.782912",
-        "description": "",
-        "link": "/company?dataBlobId=64c4cd67-29dd-43d0-a4d7-e4ce2f7e3799",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Apple Film Group",
-        "discovered": "2026-04-25 17:55:41.772928",
-        "description": "applefilm-group.com - Apple Film Co., Ltd. is a leading manufacturer of high-quality plastic bags and films, specializing in Polyethylene (PE) products like HDPE, LDPE, and LLDPE.",
-        "link": "/post/b3152369a7c964b51e0175534d38cc41",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Apple Film Group.png",
-        "group_name": "lamashtu",
-        "sector": "Media"
     }
 ]
