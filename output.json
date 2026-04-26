@@ -198,15 +198,5 @@
         "screen": "screenshots/qilin/Dillon Family Medicine.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "krauseundco",
-        "discovered": "2026-04-25 02:56:31.013699",
-        "description": "",
-        "link": "/blog/disclosures/69ea22bb8f1d14b743eb4941",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/krauseundco.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
