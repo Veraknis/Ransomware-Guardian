@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Birtcher Anderson & Davis",
+        "discovered": "2026-04-27 21:52:42.733812",
+        "description": "",
+        "link": "/companies/6850558890",
+        "magnet": null,
+        "screen": null,
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Leone Film Group SpA",
+        "discovered": "2026-04-27 21:52:39.260605",
+        "description": "Broadcasting",
+        "link": "/site/blog?uuid=3b718f63-7722-4cb9-a8d1-bb32347609c8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Leone Film Group SpA.png",
+        "group_name": "qilin",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Stelia North America",
+        "discovered": "2026-04-27 19:51:54.822771",
+        "description": "Stelia North America\nSTELIA North America is an aerospace and defence company specializing in the design, development, and manufacturing of composites.10 TB of confidential data!Data from major partner companies, such as: Lockheed Martin, Northrop Grumman, Sikorsky, Leonardo, L3Harris, Airbus Atlantic, Boeing, Bombardier, De Havilland, ARDE, MDA.\n\n\n\nMore",
+        "link": "archive.php?company=253",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Stelia North America.png",
+        "group_name": "rhysida",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "providentgh.com",
+        "discovered": "2026-04-27 18:52:59.690523",
+        "description": "Provident Insurance Limited Company is an insurance company in Ghana that provides insurance (aut...",
+        "link": "/page_company.php?id=161",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/providentghcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Promotion AB",
+        "discovered": "2026-04-27 18:52:58.365746",
+        "description": "Etablerad redan 1979 och genom en merger med Eclipse Display 2020 kör vi nu full gas framåt på vår resa att bli nordens bästa partner när det gäller att förenkl...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Selex - Gruppo Commerciale",
         "discovered": "2026-04-27 16:51:20.229964",
         "description": "",
@@ -377,106 +427,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/MTCI.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RT Software",
-        "discovered": "2026-04-26 21:59:16.316689",
-        "description": "",
-        "link": "/article/2aa40bd7-8408-431d-859f-529cc367e255",
-        "magnet": null,
-        "screen": "screenshots/tridentlocker/RT Software.png",
-        "group_name": "tridentlocker",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Rural Municipality of Gimli",
-        "discovered": "2026-04-26 21:59:12.696655",
-        "description": "The Rural Municipality of Gimli is a local government district in the province of Manitoba, Canada. Situated on the western shore of Lake Winnipeg, it administers a region known for its Icelandic heritage, recreational tourism, and lakefront economy. Gimli serves as both a residential community and a cultural hub for the Interlake area.",
-        "link": "/posts/c685f94c-b3c8-46fc-8ec7-338315c51fa6",
-        "magnet": null,
-        "screen": "screenshots/payload/Rural Municipality of Gimli.png",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Synmosa Biopharma",
-        "discovered": "2026-04-26 20:57:48.533567",
-        "description": "Synmosa is a specialty pharmaceutical corporation that engages in diversified development that includes acting as an agent, manufacturing, OEM, and R&D. Adhered...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Longwood Engineering Company",
-        "discovered": "2026-04-26 19:56:06.114480",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=de45ff0e-e9b3-4b0f-b711-664acc7bb31f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Longwood Engineering Company.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "A & A Building Material",
-        "discovered": "2026-04-26 19:56:05.173447",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/blog?uuid=f7ab3d0b-a7d0-4b8c-8f6b-2a040359565f",
-        "magnet": null,
-        "screen": "screenshots/qilin/A & A Building Material.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "﻿﻿Muller Technology",
-        "discovered": "2026-04-26 19:56:04.175211",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=f92a2b79-707b-42e4-9335-cfa02313d037",
-        "magnet": null,
-        "screen": "screenshots/qilin/﻿﻿Muller Technology.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Exclusive Networks",
-        "discovered": "2026-04-26 18:57:07.997193",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=00bee91c-d577-4927-8a0f-b8a6ea4b6d37",
-        "magnet": null,
-        "screen": "screenshots/qilin/Exclusive Networks.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Istarpal",
-        "discovered": "2026-04-26 18:57:07.031848",
-        "description": "Education",
-        "link": "/site/blog?uuid=53b52d91-047d-4b1d-9561-d2c44f340510",
-        "magnet": null,
-        "screen": "screenshots/qilin/Istarpal.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Mesquite Plumbing Inc.",
-        "discovered": "2026-04-26 18:57:05.781138",
-        "description": "Plumbing Experts",
-        "link": "Companies/mesquiteplumbing",
-        "magnet": null,
-        "screen": "screenshots/pear/Mesquite Plumbing Inc.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Narteks Tekstil A.S",
-        "discovered": "2026-04-26 18:56:51.296270",
-        "description": "Narteks Tekstil Sanayi ve Ticaret A.Ş., one of the well-known Turkish companies in the cotton yarn and textile industry...",
-        "link": "/blog/a65686b4c9633f5c3ca17d911a8f81ad659d2d40515f108eb4fe626ad6e9a147/",
-        "magnet": null,
-        "screen": "screenshots/krybit/Narteks Tekstil AS.png",
-        "group_name": "krybit",
         "sector": "Unknown"
     }
 ]
