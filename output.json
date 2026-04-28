@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Nephrology Associates",
+        "discovered": "2026-04-28 21:59:21.001513",
+        "description": "Nephrology Associates, PA is a leading central Arkansas nephrology practice with seven highly trained physicians across seven locations. They provide compassionate kidney care, accept all insurances, and aim to create a welcoming environment for patients.",
+        "link": "/Company/ARNAPA/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Nephrology Associates.png",
+        "group_name": "insomnia",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Basch & Keegan",
+        "discovered": "2026-04-28 19:54:45.801017",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=c8d76f2c-335e-4ab9-b429-c513fcb3f525",
+        "magnet": null,
+        "screen": "screenshots/qilin/Basch & Keegan.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Silicon Alley",
+        "discovered": "2026-04-28 19:54:44.792309",
+        "description": "Office Products Retail & Distribution",
+        "link": "/site/blog?uuid=0837af6f-0654-4775-8159-d1d3711d9e0a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Silicon Alley.png",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "KarmaData",
+        "discovered": "2026-04-28 19:54:43.605340",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=d6e2206d-c66b-4016-b695-2be7270a61eb",
+        "magnet": null,
+        "screen": "screenshots/qilin/KarmaData.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TYLin International Group - Taiwan Branch",
+        "discovered": "2026-04-28 18:55:24.311091",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=7de26cd2-3b5d-4db6-b404-280c10ae993d",
+        "magnet": null,
+        "screen": "screenshots/qilin/TYLin International Group - Taiwan Branch.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Construction Sciences",
+        "discovered": "2026-04-28 18:55:23.327890",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=369a1f91-b7bb-4c43-9760-ce8e73a49d91",
+        "magnet": null,
+        "screen": "screenshots/qilin/Construction Sciences.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "McKay",
         "discovered": "2026-04-28 16:55:35.801938",
         "description": "McKay is a leading international engineering firm that delivers strategically vital projects across national defense, high-tech shipbuilding, and global energy sectors. The company serves as a key technological partner to the state, implementing innovative automation systems and 'green' solutions for critical infrastructure.",
@@ -45,7 +105,7 @@
         "description": "",
         "link": "/companies/5088632061",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/DIME Distribuidora.png",
         "group_name": "worldleaks",
         "sector": "Unknown"
     },
@@ -55,7 +115,7 @@
         "description": "",
         "link": "/companies/4366674138",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/Carma Packaging.png",
         "group_name": "worldleaks",
         "sector": "Unknown"
     },
@@ -138,55 +198,5 @@
         "screen": "screenshots/qilin/Lifeline PCS.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Birtcher Anderson & Davis",
-        "discovered": "2026-04-27 21:52:42.733812",
-        "description": "",
-        "link": "/companies/6850558890",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Birtcher Anderson & Davis.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Leone Film Group SpA",
-        "discovered": "2026-04-27 21:52:39.260605",
-        "description": "Broadcasting",
-        "link": "/site/blog?uuid=3b718f63-7722-4cb9-a8d1-bb32347609c8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Leone Film Group SpA.png",
-        "group_name": "qilin",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Stelia North America",
-        "discovered": "2026-04-27 19:51:54.822771",
-        "description": "Stelia North America\nSTELIA North America is an aerospace and defence company specializing in the design, development, and manufacturing of composites.10 TB of confidential data!Data from major partner companies, such as: Lockheed Martin, Northrop Grumman, Sikorsky, Leonardo, L3Harris, Airbus Atlantic, Boeing, Bombardier, De Havilland, ARDE, MDA.\n\n\n\nMore",
-        "link": "archive.php?company=253",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Stelia North America.png",
-        "group_name": "rhysida",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "providentgh.com",
-        "discovered": "2026-04-27 18:52:59.690523",
-        "description": "Provident Insurance Limited Company is an insurance company in Ghana that provides insurance (aut...",
-        "link": "/page_company.php?id=161",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/providentghcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Promotion AB",
-        "discovered": "2026-04-27 18:52:58.365746",
-        "description": "Etablerad redan 1979 och genom en merger med Eclipse Display 2020 kör vi nu full gas framåt på vår resa att bli nordens bästa partner när det gäller att förenkl...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Energy"
     }
 ]
