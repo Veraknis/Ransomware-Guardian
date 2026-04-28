@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "McKay",
+        "discovered": "2026-04-28 16:55:35.801938",
+        "description": "McKay is a leading international engineering firm that delivers strategically vital projects across national defense, high-tech shipbuilding, and global energy sectors. The company serves as a key technological partner to the state, implementing innovative automation systems and 'green' solutions for critical infrastructure.",
+        "link": "/post/6/",
+        "magnet": null,
+        "screen": "screenshots/mnt6/McKay.png",
+        "group_name": "mnt6",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Silfab Solar",
+        "discovered": "2026-04-28 16:55:34.792409",
+        "description": "Silfab Solar is a leading North American manufacturer of high-efficiency, premium-quality solar panels for residential, commercial, and utility projects. With over 40 years of industry experience, the company operates advanced manufacturing facilities in Canada and the United States, focusing on producing durable, reliable solar modules.",
+        "link": "/post/7/",
+        "magnet": null,
+        "screen": "screenshots/mnt6/Silfab Solar.png",
+        "group_name": "mnt6",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "moser-spiel.at",
+        "discovered": "2026-04-28 14:55:25.318009",
+        "description": "moser-spiel.at is an Austrian company specializing in the design and manufacture of outdoor play equipment and sports pa...",
+        "link": "/blog/de7b25ab27fc05f8e8be44d180aa665c5ef62874c891c8e98da16dba2f35a560/",
+        "magnet": null,
+        "screen": "screenshots/krybit/moser-spielat.png",
+        "group_name": "krybit",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "INJURYLAWYERS.COM",
+        "discovered": "2026-04-28 14:39:28.192739",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "clop",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DIME Distribuidora",
+        "discovered": "2026-04-28 13:55:49.365347",
+        "description": "",
+        "link": "/companies/5088632061",
+        "magnet": null,
+        "screen": null,
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Carma Packaging",
+        "discovered": "2026-04-28 13:55:48.369174",
+        "description": "",
+        "link": "/companies/4366674138",
+        "magnet": null,
+        "screen": null,
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Intikom",
+        "discovered": "2026-04-28 13:55:47.382181",
+        "description": "",
+        "link": "/companies/3639146907",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Intikom.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "www.durable-tech.com",
+        "discovered": "2026-04-28 12:52:49.919917",
+        "description": "",
+        "link": "/blog/disclosures/69f07fd58f1d14b7438902a4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwdurable-techcom.png",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Super AI",
         "discovered": "2026-04-28 06:51:39.191396",
         "description": "",
@@ -108,355 +188,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Selex - Gruppo Commerciale",
-        "discovered": "2026-04-27 16:51:20.229964",
-        "description": "",
-        "link": "/blog/disclosures/69ef627c8f1d14b74368332f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Selex - Gruppo Commerciale.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "medikaplaza.com",
-        "discovered": "2026-04-27 16:51:18.545824",
-        "description": "Medika Plaza is a healthcare company in Indonesia that provides medical services, corporate medic...",
-        "link": "/page_company.php?id=160",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/medikaplazacom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "jgpetrucci.com",
-        "discovered": "2026-04-27 16:51:16.455588",
-        "description": "J.G. Petrucci Company, Inc. is a real estate development and construction company in the United S...",
-        "link": "/page_company.php?id=159",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/jgpetruccicom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Raich Sp. z o.o.",
-        "discovered": "2026-04-27 16:51:11.900371",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Heinrich Kopp",
-        "discovered": "2026-04-27 16:38:24.527628",
-        "description": "kopp.eu https://www.zoominfo.com/c/heinrich-kopp-gmbh/372789517 Heinrich Kopp GmbH, headquartered in Kahl am Main, Germany, has been developing and manufacturing electrical installation products \"Made in Germany\" since 1927. The company offers a catalog of over 7,000 products — from simple plugs and switches to Smart Home and wireless radio systems. Kopp is one of the leading electrical installation brands in German-speaking countries, serving both professional electricians and DIY customers. In 2020, the company launched a new \"Energy & Home Automation\" division, expanding into the smart home market",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Nostrum",
-        "discovered": "2026-04-27 16:38:23.568667",
-        "description": "nostrum.co.jp Nostrum Corporation, based in Japan, was founded in 1991 and specializes in smartphone app development, web system development, and website construction. The company is represented by Ryoichi Jono and is registered on the J-GoodTech platform as a verified Japanese technology business. One of their flagship self-developed products is a job aptitude test preparation tool — a simulation platform replicating real SPI, TG-WEB, and similar employment exam interfaces used by major Japanese companies",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "MIMS",
-        "discovered": "2026-04-27 16:38:22.560264",
-        "description": "mims.com zoominfo.com/c/mims-pte-ltd/354424916 MIMS is a pharmaceutical prescribing reference guide first published in the United Kingdom in 1959 by Haymarket Media Group. The platform provides comprehensive drug information — including dosages, interactions, clinical guidelines, and prescribing data — for healthcare professionals across the globe. MIMS operates internationally across Asia, Australia, and beyond, with dedicated editions for countries including Malaysia, India, Indonesia, Japan, Singapore, and many others. Its mobile app and online database are used daily by doctors and pharmacists for drug lookups, medical news, and CME articles",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "IT Management",
-        "discovered": "2026-04-27 16:38:21.593355",
-        "description": "itmanagement.co.th zoominfo.com/c/it-management-co-ltd/446178193 IT Management Co., Ltd. is a small local IT company based in Bangkok, Thailand, located at 562 Dindaeng Road, Din Daeng district. The company specializes in network intelligence and IT infrastructure solutions, assembling teams capable of handling a full range of networking functions. It appears to be a boutique-sized local business with a modest online presence",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Colegio Notre Dame Campinas",
-        "discovered": "2026-04-27 16:38:20.641687",
-        "description": "notredamecampinas.com.br zoominfo.com/c/colégio-notre-dame-campinas/460150468 Colégio Notre Dame is a private Catholic school founded in 1961 in Campinas, São Paulo, Brazil, by the Congregation of Holy Cross. The school offers education from kindergarten through secondary school (Ensino Infantil to Ensino Médio), as well as international curriculum programs. With over 12,000 Instagram followers and 51–200 employees, it is one of the most recognized private schools in the Campinas region. Its motto — \"educating minds and hearts\" — reflects its mission to combine academic excellence with Catholic values",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Beaconhouse School System",
-        "discovered": "2026-04-27 16:38:19.725233",
-        "description": "beaconhouse.net zoominfo.com/c/beaconhouse-school-system/351460008 Beaconhouse was founded in November 1975 in Lahore, Pakistan, as the modest Les Anges Montessori Academy with just 19 toddlers. Today it has grown into a global network with over 380,000 students across 8 countries, including Pakistan, the UK, Malaysia, the Philippines, UAE, Oman, Belgium, and Thailand. The group employs more than 18,000 staff from around the world and encompasses everything from early childhood education to university-level institutions such as Beaconhouse National University and Concordia Colleges. In 1996, it became the first private school network in the world to receive financing from the World Bank's International Finance Corporation",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "ACFA Regionale de Calgary",
-        "discovered": "2026-04-27 16:38:18.745849",
-        "description": "acfa.ab.ca zoominfo.com/c/acfa-régionale-de-calgary/354494275 The ACFA (French Canadian Association of Alberta) was founded in 1926 and serves as the official political spokesperson for all French-speaking people in Alberta. Its core mission is to protect francophone linguistic rights, advance French-language education, and strengthen the cultural vitality of Alberta's Francophone communities across 13+ regional branches. The non-profit is headquartered in Edmonton and employs between 11–50 people. It is currently approaching its 100th anniversary, with the board actively planning centennial celebrations",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "TokyoHosoKogyo Corporation",
-        "discovered": "2026-04-27 15:52:23.855433",
-        "description": "Construction",
-        "link": "/site/blog?uuid=acc6269f-fc30-4779-bc02-c61a3fdd539f",
-        "magnet": null,
-        "screen": "screenshots/qilin/TokyoHosoKogyo Corporation.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "N****a",
-        "discovered": "2026-04-27 15:52:22.625418",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "P**g**s***e O*al S**g**y & I**la**ol**y",
-        "discovered": "2026-04-27 15:52:21.155385",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "J**es **l*o",
-        "discovered": "2026-04-27 15:52:19.684799",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ldisolutions.com",
-        "discovered": "2026-04-27 15:52:04.286161",
-        "description": "",
-        "link": "/blog/disclosures/69ef4e668f1d14b743662bdf",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/ldisolutionscom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BELFOR",
-        "discovered": "2026-04-27 15:52:01.241074",
-        "description": "",
-        "link": "/blog/disclosures/69ef61a08f1d14b743681c09",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/BELFOR.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ibswebsite.com",
-        "discovered": "2026-04-27 15:51:59.132963",
-        "description": "The company helps commercial organizations invest in technology solutions for their businesses by offering technology consulting,\nas well as the design and inte...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "delonhampton.com",
-        "discovered": "2026-04-27 15:51:58.097351",
-        "description": "An engineering and consulting firm specializing in civil and structural engineering, program management, and construction, delivering complex infrastructure pro...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "aotco.com",
-        "discovered": "2026-04-27 15:51:57.134391",
-        "description": "AOTCO specializes in metal finishing solutions, offering a wide range of services, including electroplating, anodizing, and passivation,\nand has over 45 years o...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "wmsopko.com",
-        "discovered": "2026-04-27 15:51:56.231075",
-        "description": "Wm. Sopko & Sons Co. supplies and distributes the full line of Dumore automatic self-feeding drilling and threading equipment",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "andrewtjohnson.com",
-        "discovered": "2026-04-27 15:51:55.310496",
-        "description": "The company is a leading provider of printing and reprographic services, offering image processing, printing, graphic design for exhibitions, copying, offset pr...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "fatbrands.com",
-        "discovered": "2026-04-27 15:51:53.992323",
-        "description": "FAT Brands is a leading global franchising company that strategically acquires, promotes, and develops quick-service, fast-casual, \nand casual dining concepts a...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mopec.com",
-        "discovered": "2026-04-27 15:51:53.062211",
-        "description": "Mopec supplies American-made medical equipment and laboratory products for pathological, histological, autopsy, and morgue services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "avalonflooring.com",
-        "discovered": "2026-04-27 15:51:52.158094",
-        "description": "Avalon Flooring, founded in 1958 and located in Cherry Hill, New Jersey,\nspecializes in installing flooring in both residential and commercial spaces.\nIn additi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "gelatissimo.com.au",
-        "discovered": "2026-04-27 15:51:51.216479",
-        "description": "A global brand seeking major investors with experience in retail and franchising to expand its artisanal ice cream chain through a master franchise program",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "rosehillgardens.com",
-        "discovered": "2026-04-27 15:51:50.257932",
-        "description": "Rosehill Gardens is a professional landscaping company based in Kansas City, employing over 150 specialists in landscape design, maintenance, irrigation, lighti...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "massdevelopment.com",
-        "discovered": "2026-04-27 15:51:49.273827",
-        "description": "MassDevelopment, a state agency for finance and development, partners with businesses, \nnonprofit organizations, financial institutions, and local communities t...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "grupo-principal.com",
-        "discovered": "2026-04-27 14:54:45.428483",
-        "description": "Grupo Principal is a distribution company in Mexico that supplies and sells consumer goods (FMCG)...",
-        "link": "/page_company.php?id=158",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/grupo-principalcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cofaco.com",
-        "discovered": "2026-04-27 14:54:44.270495",
-        "description": "Cofaco Industries S.A.C. is a textile company in Peru, which produces fabrics and tailoring (a fu...",
-        "link": "/page_company.php?id=156",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/cofacocom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dunav.com",
-        "discovered": "2026-04-27 14:54:43.186279",
-        "description": "Dunav Insurance Company is an insurance company in Serbia that provides insurance for life, prope...",
-        "link": "/page_company.php?id=157",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/dunavcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "algosaibi-gtb.com",
-        "discovered": "2026-04-27 12:54:29.057363",
-        "description": "Abdulaziz & Saad Almoosaibi & GBT (Al‑Gosaibi GTB) is an industrial company in Saudi Arabia tha...",
-        "link": "/page_company.php?id=153",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/algosaibi-gtbcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "alx-pc.com",
-        "discovered": "2026-04-27 12:54:28.099476",
-        "description": "Alexandria Petroleum Company (APC) is a state—owned oil refining company in Egypt that processe...",
-        "link": "/page_company.php?id=154",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/alx-pccom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Government"
-    },
-    {
-        "post_title": "arrawdah.org.sa",
-        "discovered": "2026-04-27 12:54:27.165217",
-        "description": "Al Rawdah Cooperative Society is a cooperative organization in Saudi Arabia that provides social ...",
-        "link": "/page_company.php?id=155",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/arrawdahorgsa.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Bela - Pharm",
-        "discovered": "2026-04-27 12:54:25.867433",
-        "description": "bela-pharm GmbH specializes in the production of veterinary pharmaceuticals aimed at enhancing animal health. Their product range includes solutions for various...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
     }
 ]
