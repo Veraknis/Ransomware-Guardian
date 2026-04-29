@@ -1,5 +1,175 @@
 [
     {
+        "post_title": "Avnet",
+        "discovered": "2026-04-29 11:42:27.103133",
+        "description": "",
+        "link": "/avnet-leaks/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Avnet.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Raptor Supplies",
+        "discovered": "2026-04-29 11:42:26.135391",
+        "description": "",
+        "link": "/raptor/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Raptor Supplies.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lena Health",
+        "discovered": "2026-04-29 11:42:25.163004",
+        "description": "",
+        "link": "/lenahealth/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Lena Health.png",
+        "group_name": "fulcrumsec",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Woundtech",
+        "discovered": "2026-04-29 11:42:24.189205",
+        "description": "",
+        "link": "/woundtech/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Woundtech.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "youX / Drive IQ",
+        "discovered": "2026-04-29 11:42:23.237371",
+        "description": "",
+        "link": "/youx/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/youX  Drive IQ.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LexisNexis",
+        "discovered": "2026-04-29 11:42:22.300853",
+        "description": "",
+        "link": "/lexisnexis/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/LexisNexis.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "MCO",
+        "discovered": "2026-04-29 11:42:21.336185",
+        "description": "",
+        "link": "/mco/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/MCO.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ReFocus AI",
+        "discovered": "2026-04-29 11:42:20.428734",
+        "description": "",
+        "link": "/refocus_unique/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/ReFocus AI.png",
+        "group_name": "fulcrumsec",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hatica",
+        "discovered": "2026-04-29 11:42:19.473656",
+        "description": "",
+        "link": "/hatica/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Hatica.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Analog Gold / Prospector",
+        "discovered": "2026-04-29 11:42:18.496552",
+        "description": "",
+        "link": "/analog-prospector/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Analog Gold  Prospector.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.fulcrumre.com/",
+        "discovered": "2026-04-29 04:55:16.519050",
+        "description": "",
+        "link": "/blog/disclosures/69f0d6b38f1d14b74390f7b1",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwfulcrumrecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mediaworks Kft",
+        "discovered": "2026-04-29 03:56:18.464262",
+        "description": "",
+        "link": "/companies/4804786538",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Mediaworks Kft.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "nbd3pl.com",
+        "discovered": "2026-04-29 02:56:28.805040",
+        "description": "",
+        "link": "/blog/disclosures/69ea301d8f1d14b743ec6c2b",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/nbd3plcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "boxtopia.co.uk",
+        "discovered": "2026-04-29 01:56:45.755157",
+        "description": "+44 1476576090 . Boxtopia is the UK's leading supplier of custom cardboard boxes and printed boxes, specializing in short runs for small businesses with no minimum order. Stolen: 166gb 280k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Indonesia's Customs Analytics Platform",
+        "discovered": "2026-04-29 01:56:30.334513",
+        "description": "",
+        "link": "/news/Indonesia_s_Customs_Analytics_Platform/",
+        "magnet": null,
+        "screen": "screenshots/everest/Indonesia's Customs Analytics Platform.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "osoftec.com",
+        "discovered": "2026-04-28 23:57:08.655516",
+        "description": "+91 9717385459 . Optimization Software Technologies, LLP. is an advanced technology solutions development company that focuses on improving operational efficiency and profitability for its clients Stolen: 222gb 113k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "cadencepetroleum.com",
+        "discovered": "2026-04-28 23:56:50.593916",
+        "description": "Company management has 48 hours to reach an agreement with us. If no agreement is reached, the files—totaling 400 GB—will be published.\n\nOur objective is to provide our customers with the best products and services. Cadence Petroleum and our suppliers stand behind the products we offer. Regardle…",
+        "link": "/pNJ6KGNjdQJ5VtN6ZZaRfDNEVd2XMjSN/cadencepetroleum-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/cadencepetroleumcom.png",
+        "group_name": "chaos",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Nephrology Associates",
         "discovered": "2026-04-28 21:59:21.001513",
         "description": "Nephrology Associates, PA is a leading central Arkansas nephrology practice with seven highly trained physicians across seven locations. They provide compassionate kidney care, accept all insurances, and aim to create a welcoming environment for patients.",
@@ -138,65 +308,5 @@
         "screen": "screenshots/inc ransom/wwwdurable-techcom.png",
         "group_name": "inc ransom",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Super AI",
-        "discovered": "2026-04-28 06:51:39.191396",
-        "description": "",
-        "link": "/news/Super_AI/",
-        "magnet": null,
-        "screen": "screenshots/everest/Super AI.png",
-        "group_name": "everest",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "sumacinc.com",
-        "discovered": "2026-04-28 04:51:23.753241",
-        "description": "",
-        "link": "/blog/disclosures/69f012738f1d14b7437c5997",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/sumacinccom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vimeo, Inc.",
-        "discovered": "2026-04-28 02:52:34.549453",
-        "description": "Your Snowflake and Bigquery instances data was compromised thanks to Anodot.com. Pay or Leak.   This is a final warning to reach out by 30 Apr 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Cybersecurity Vendor",
-        "discovered": "2026-04-28 02:52:32.216166",
-        "description": "",
-        "link": "/r/50b3bccffd4b72a9fab998701e2059d4d6b09a8f",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Cybersecurity Vendor.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The City That Leaked Itself: Greenfield City",
-        "discovered": "2026-04-27 23:53:42.336814",
-        "description": "#Leaknet #Greenfield #InfoExposure #CyberIncident",
-        "link": "view_article.php?article=qNncBfYEXtSy3pd5NEhg1CY05g5EBfZlzyzyFfMlAccAMKqD8xxwZs6SR9rnHv4g",
-        "magnet": null,
-        "screen": "screenshots/leaknet/The City That Leaked Itself: Greenfield City.png",
-        "group_name": "leaknet",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Lifeline PCS",
-        "discovered": "2026-04-27 22:53:20.745419",
-        "description": "0",
-        "link": "/site/blog?uuid=9e2a4ac9-7864-4fdb-b2e8-649d1eecc9d0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lifeline PCS.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
