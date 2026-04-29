@@ -1,5 +1,235 @@
 [
     {
+        "post_title": "Color Communications LLC",
+        "discovered": "2026-04-29 18:10:17.280096",
+        "description": "The exposed dataset includes over 200,000 unique files containing sensitive information on more than 4,500 individuals and over 5,500 organizations... Open post",
+        "link": "/post/94f588080358146b/index.html",
+        "magnet": null,
+        "screen": "screenshots/secp0/Color Communications LLC.png",
+        "group_name": "secp0",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Advanta Genetics LLC",
+        "discovered": "2026-04-29 18:09:54.959058",
+        "description": "Advanta Genetics LLC — a respected CLIA/CAP-accredited clinical toxicology and molecular diagnostics laborator. The exposed material includes: Tens of thousands of real patient lives — including highly sensitive chronic opioid therapy charts flagged by the Texas Medical Board and elderly Medicare audit records. Provider identities and prescribing power — SSNs, DEA numbers, and state licenses from 20+ states that can be turned into black-market \"script pads\". Gold-standard identity theft kits — W-2s, I-9s with passport scans, and full employee packages for 50+ staff. 102 complete QuickBooks company files exposing every vendor, payroll run, bank link, and financial secret across the Advanta/RedLeaf/OSPRI empire. High-value trade secrets — OSPRI Biopath investment decks, valuation models, FDA pre-submission packets, and the proprietary \"The Brain\" AI diagnostic architecture. Explosive privileged attorney-client memos on active regulatory battles (Texas Medical Board Remedial Plan #19-153 and a federal NORA subpoena). Active Directory domain controller data (NTDS.dit and SAM hives).",
+        "link": "/blog/rvl-bb52e3c8",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Baresque Group",
+        "discovered": "2026-04-29 18:09:54.047828",
+        "description": "Baresque Group — a respected commercial-interiors company headquartered in Perth, Australia, with offices in Dallas, Chicago, and Brussels.\n\nThe exposed material includes:\n\n100+ passport scans, 35 birth certificates, 60+ driver's licences, 50+ TFN declarations — the complete identity-theft toolkit for the entire workforce, spanning Australia, the US, and Europe.\nPlaintext credentials for every critical system — Microsoft 365, HR platform (Elmo Talent), remote-access gateway (LogMeIn), phone system (3CX), ERP (Jim2) — all in browser-export CSVs and an enterprise-wide Password_Listing.xls that had been sitting on a shared drive since at least 2017.\n4 TLS private keys for customer-facing domains — enabling impersonation of the company's websites.\n343 GB of product R&D — SolidWorks CAD files, manufacturing specifications, and product blueprints for Zintra acoustic panels, FUNC furniture, botton+gardiner wallcoverings, and Scribblr surfaces. The complete design library.\nTwo years of board packs, financial reports, and cash-flow models — the company's entire strategic and financial position laid bare.\nPrivileged legal documents — active subpoena files, sworn affidavit exhibits, Fair Work Australia tribunal filings, and settlement agreements with confidentiality clauses.\nWorkers compensation medical records naming specific employees with diagnoses, treatment plans, and claim amounts.",
+        "link": "/blog/baresque-group-0a8f469f",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Cheval Blanc Randheli",
+        "discovered": "2026-04-29 18:09:53.129971",
+        "description": "Guest Passport Scans — 75,855 Files, 10 Years\nThe single largest data category: 75,855 passport scan images spanning January 2015 through October 2024, organised in daily folders within monthly and yearly directories. These represent an estimated 20,000–30,000 unique guests. Each scan contains the full passport bio page: photo, full name, date of birth, nationality, passport number, machine-readable zone (MRZ), and signature.\n\nAmong the exposed passports:\n\nQatar Royal Family members — 9 passport scans including Muhammad Mesned S M Al-Misned, Abdulla, Khalifa, Lolwa, Nasser, Alanoud, Bessy, and Mesned\nUAE VIP and government officials — including H.E. Ahmed Saif Ali Aldhabea Aldarmaki, H.E. Matar Suhail Ali Alyabhouni Aldhaheri, and members of an April 2024 private buyout group who arrived on private jets (tail numbers A6AUH, A6DAH)\nLVMH head-office executives — 7 passport/profile photos including named senior staff from Paris\nGuest PMS Data — 30,000–50,000 Profiles\nOpera PMS exports containing full names, home addresses (street-level), nationalities, VIP classification levels (A/B/C/G), partial credit card data (last-4 digits + expiry + card type), deposit amounts, booking confirmation numbers, stay histories, travel agent details, flight numbers, and guest preferences.\n\nEmployee Records — 1,000–2,000 Individuals\nTen years of salary records (2017–2026), medical insurance claims organised by department, ~200 ECARD ID photos, vacation/leave records, Key Management Personnel (KMP) compensation details, and biometric enrollment data from the Gladis facility-access system.\n\nCredentials and Infrastructure\nBitLocker recovery key — full disk-encryption key for the Windows server volume\nPasswords.docx — plaintext system password store covering revenue, PMS, and operational systems\nExtranet passwords — booking-portal and vendor credentials\n3CX VoIP backup — SIP credentials, extension configurations, call routing rules\nBiometric templates (Gladis enrollment) — non-rotateable fingerprint/facial data\nCorporate-Sensitive Documents\nManagement Contract of Cheval Blanc Randheli — the LVMH–property owner agreement containing fee structures, performance benchmarks, and brand license terms\nBoard investment recommendation for Velidhoo — a potential new property with capital allocation and return projections\n10 years of budgets and revenue forecasts\nAudited subsidiary financial statements (I&T / Sitax entities)\nWhite Book — the property's operational standards manual (proprietary LVMH brand IP)\nBuilding Management System data — HVAC, power, desalination, and lighting control files for island infrastructure",
+        "link": "/blog/cheval-blanc-randheli-5506a6ac",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Law Offices of Michael A. Freedman, P.A. (maflaw.com)",
+        "discovered": "2026-04-29 18:09:52.207134",
+        "description": "Law Offices of Michael A. Freedman, P.A. (maflaw.com). The exfiltrated corpus is 579 GB used / 143 GB at root level / 196,701 files / 19,231 directories, dated as recently as a year-2026-in-progress client matter.\n\nWhat this means for a plaintiffs' PI firm of ~25 staff:\n\n656 client-matter folders organised across eight yearly parents from June 2019 through 2026-in-progress. Per-client medical records, HIPAA authorisations, police reports, settlement releases, IOLTA distribution sheets, retainer agreements, and treating-provider correspondence.\nTwo staff Outlook archives at 2.1 GB each, plus a 505 MB Outlook backup, plus 27 enumerated .pst files — years of attorney–client privileged correspondence, settlement strategy, opposing-counsel comms.\nThe complete Sage ACT. Pro v18 contact universe — the live database plus eight historical ZIP backups going back to 2013 plus a 9.3 MB plaintext export (ACT!-Contacts.txt) that any text editor can open. Estimated 5,000–12,000 contacts.\nThe firm's master credential vault in a Word document called Woodywoody78!.docx (the filename is itself the vault password). Plaintext credentials for M&T Bank multi-identity business + commercial accounts (with electronic-payment-approval authority), Bank of America, Paychex, QuickBooks, and the firm's federal EIN. Plus the senior partner's phone-unlock PIN.\nA staff browser-exported password CSV (32 plaintext credentials) including the M365 tenant, the Slack tenant, hospital portals (MedStar, GBMC, Allstate secure mail), MoveDocs, ChartRequest, MSHC Legal portal — plus residual credentials from prior employers SLF Law and Bailey Law, creating cross-firm contamination liability.\nThe Universal Licensing / Freedman Consulting invention-promotion operation — a second line of business under the same EIN, with hundreds of inventor folders. Per-inventor unpublished invention disclosures, “Internet Presentation of Invention” decks, NDAs, Exclusive Patent License Agreement drafts, patent-art renderings, and per-managed-mailbox client-company passwords. \nA criminal-defense sub-practice (“SLF criminal” out of Janice's working folder) with retainer agreements and per-client court documents, carrying 6th-Amendment-attorney–client uplift on the privileged-track scoring.\nAn Axon evidence.com MPIA-released body-worn-camera package (449 MB total; a 448 MB clip from the 2020-12-20 Park Baltimore incident).",
+        "link": "/blog/maflaw-8a603f4b",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Atlas Metal Industries Inc",
+        "discovered": "2026-04-29 18:09:51.220746",
+        "description": "Atlas Metal Industries Inc. — a privately held commercial-foodservice-equipment manufacturer headquartered in Miami, Florida.\n\nThe dataset is a complete Microsoft Dynamics GP environment: production databases, payroll records, system credentials, Autodesk Vault product-design backups, CNC fabrication programs, and all supporting infrastructure configuration. The exfiltration occurred on or about April 8, 2026; the attack was identified April 22, 2026.\n\nThe exposed material includes:\n\n    15.8 GB of payroll-records database (PYREC) — full Employee Master with SSNs, DOBs, addresses, direct-deposit bank routing numbers, salary, W-4 tax data, garnishments, and check history dating to at least 2018.\n    30+ SQL Server login accounts with password hashes in a sp_help_revlogin dump — named employees, system admins (DYNSA, sa), service accounts, and Active Directory domain accounts.\n    74 GB of Autodesk Vault Professional backup — complete product-design history from 2019 through 2026, covering every product line Atlas Metal manufactures.\n    Hundreds of CNC fabrication programs — laser-cutter and Amada punch-press G-code for the full catalogue of sheet-metal components.\n    A base64-encoded SQL credential for the TimeClock Plus timekeeping system, stored in plaintext XML.\n    8 SQL Server databases with full backup chains — ATLAS (primary), PYREC (payroll), DYNAMICS (system), TEST (18 GB dev clone), TWO, AMIT, plus system databases (master, msdb, DynamicsGPSecurity).",
+        "link": "/blog/atlas-metal-industries-inc-f3dae3da",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Winona County",
+        "discovered": "2026-04-29 16:57:19.403507",
+        "description": "https://www.winonacounty.gov/\n\t\t\t\t\t\t\t\t\tWinona County is located in the Mississippi River blufflands of southeastern Minnesota. They have been negligent regarding security and the data they store, which has resulted in a breach and the public disclosure of all the confidential data they held. As a result, we are now able to offer you a large database containing resident records, tax and budget documents, police records, and data from other institutions.",
+        "link": "http://3cpc3v57l7rstjtaelxgnlrzsolz7pd6ltsygjo2tjuonxteyaba2pid.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Winona County.png",
+        "group_name": "interlock",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Shenzhen Gongjin Electronics",
+        "discovered": "2026-04-29 14:55:59.282601",
+        "description": "Shenzhen Gongjin Electronics, founded in 1998 and also known as T&W, is a telecommunications manufacturing company specializing in broadband communication technology.",
+        "link": "/blog?uuid=b822ef9f-7d60-358d-814f-b6e21815bf05",
+        "magnet": null,
+        "screen": "screenshots/blackwater/Shenzhen Gongjin Electronics.png",
+        "group_name": "blackwater",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Nordstern Technologies",
+        "discovered": "2026-04-29 12:57:27.715331",
+        "description": "",
+        "link": "nordstern/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Nordstern Technologies.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ParkEngage",
+        "discovered": "2026-04-29 12:57:26.251119",
+        "description": "",
+        "link": "parkengage/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/ParkEngage.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Saleskido",
+        "discovered": "2026-04-29 12:57:25.149878",
+        "description": "",
+        "link": "saleskido/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Saleskido.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Interzero",
+        "discovered": "2026-04-29 12:57:24.168161",
+        "description": "",
+        "link": "interzero/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Interzero.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IMEVI",
+        "discovered": "2026-04-29 12:57:23.212453",
+        "description": "",
+        "link": "imevi/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/IMEVI.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Rotary Club",
+        "discovered": "2026-04-29 12:57:22.273235",
+        "description": "",
+        "link": "rotary/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Rotary Club.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JOT",
+        "discovered": "2026-04-29 12:57:21.277756",
+        "description": "",
+        "link": "jot/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/JOT.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BookBlock",
+        "discovered": "2026-04-29 12:57:20.160299",
+        "description": "",
+        "link": "bookblock/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/BookBlock.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Crank Communications",
+        "discovered": "2026-04-29 12:57:19.173369",
+        "description": "",
+        "link": "crank-communications/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Crank Communications.png",
+        "group_name": "fulcrumsec",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "CrediElite",
+        "discovered": "2026-04-29 12:57:17.854340",
+        "description": "",
+        "link": "credielite/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/CrediElite.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fashinza",
+        "discovered": "2026-04-29 12:57:16.684769",
+        "description": "",
+        "link": "fashinza/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Fashinza.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "planetsport.ma",
+        "discovered": "2026-04-29 12:38:44.821390",
+        "description": "Planet Sport is your go-to online store for sports gear in Morocco. They help athletes and fitness f...",
+        "link": "/post/4be3cc319db17c09a7678bd0241de067",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/planetsportma.png",
+        "group_name": "lockbit5",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "pricon.com.ph",
+        "discovered": "2026-04-29 12:38:43.841410",
+        "description": "Pricon Microelectronics, Inc. (PMI) is an Original Equipment Manufacturer (OEM) and a subsidiary of...",
+        "link": "/post/e54341eae2294d6a24b51347e60a2d9d",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/priconcomph.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "instapack.es",
+        "discovered": "2026-04-29 12:38:42.888844",
+        "description": "Instapack is a professional courier service with over 30 years of experience, offering immediate del...",
+        "link": "/post/be3b1568cc4e8a7b5cac1bde1f013d95",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/instapackes.png",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "stllc.org",
+        "discovered": "2026-04-29 12:38:41.866794",
+        "description": "Welcome to St. Luke Lutheran Community\nSt. Luke Lutheran Community is a not-for-profit, continuing...",
+        "link": "/post/6de4e7feefc9e0638b0ae938afc6c437",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/stllcorg.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Avnet",
         "discovered": "2026-04-29 11:42:27.103133",
         "description": "",
@@ -228,85 +458,5 @@
         "screen": "screenshots/qilin/Construction Sciences.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "McKay",
-        "discovered": "2026-04-28 16:55:35.801938",
-        "description": "McKay is a leading international engineering firm that delivers strategically vital projects across national defense, high-tech shipbuilding, and global energy sectors. The company serves as a key technological partner to the state, implementing innovative automation systems and 'green' solutions for critical infrastructure.",
-        "link": "/post/6/",
-        "magnet": null,
-        "screen": "screenshots/mnt6/McKay.png",
-        "group_name": "mnt6",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Silfab Solar",
-        "discovered": "2026-04-28 16:55:34.792409",
-        "description": "Silfab Solar is a leading North American manufacturer of high-efficiency, premium-quality solar panels for residential, commercial, and utility projects. With over 40 years of industry experience, the company operates advanced manufacturing facilities in Canada and the United States, focusing on producing durable, reliable solar modules.",
-        "link": "/post/7/",
-        "magnet": null,
-        "screen": "screenshots/mnt6/Silfab Solar.png",
-        "group_name": "mnt6",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "moser-spiel.at",
-        "discovered": "2026-04-28 14:55:25.318009",
-        "description": "moser-spiel.at is an Austrian company specializing in the design and manufacture of outdoor play equipment and sports pa...",
-        "link": "/blog/de7b25ab27fc05f8e8be44d180aa665c5ef62874c891c8e98da16dba2f35a560/",
-        "magnet": null,
-        "screen": "screenshots/krybit/moser-spielat.png",
-        "group_name": "krybit",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "INJURYLAWYERS.COM",
-        "discovered": "2026-04-28 14:39:28.192739",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DIME Distribuidora",
-        "discovered": "2026-04-28 13:55:49.365347",
-        "description": "",
-        "link": "/companies/5088632061",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/DIME Distribuidora.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Carma Packaging",
-        "discovered": "2026-04-28 13:55:48.369174",
-        "description": "",
-        "link": "/companies/4366674138",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Carma Packaging.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Intikom",
-        "discovered": "2026-04-28 13:55:47.382181",
-        "description": "",
-        "link": "/companies/3639146907",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Intikom.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.durable-tech.com",
-        "discovered": "2026-04-28 12:52:49.919917",
-        "description": "",
-        "link": "/blog/disclosures/69f07fd58f1d14b7438902a4",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwdurable-techcom.png",
-        "group_name": "inc ransom",
-        "sector": "Technology"
     }
 ]
