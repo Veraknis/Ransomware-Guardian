@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Zinkan & Barker Development",
+        "discovered": "2026-04-30 19:55:40.135559",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=aa3c8f2e-6d5b-477f-b636-f9440c94ab04",
+        "magnet": null,
+        "screen": "screenshots/qilin/Zinkan & Barker Development.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Apothebeauty",
+        "discovered": "2026-04-30 19:55:39.097575",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=450557de-97f1-4ac0-833b-27b067a85e31",
+        "magnet": null,
+        "screen": "screenshots/qilin/Apothebeauty.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Liberty Mutual Insurance",
+        "discovered": "2026-04-30 19:55:22.604853",
+        "description": "",
+        "link": "/news/Liberty_Mutual_Insurance/",
+        "magnet": null,
+        "screen": "screenshots/everest/Liberty Mutual Insurance.png",
+        "group_name": "everest",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "MES Hybrid Document Systems",
+        "discovered": "2026-04-30 18:55:44.480202",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=696a7d3d-5cdc-45fa-8047-567d26ca5c30",
+        "magnet": null,
+        "screen": "screenshots/qilin/MES Hybrid Document Systems.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Switch Enterprises",
+        "discovered": "2026-04-30 18:55:43.521381",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=140cf77d-30dd-42bd-b6b5-341e2e6f37a9",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Switch Enterprises.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "See's Candies",
+        "discovered": "2026-04-30 18:55:42.544707",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=c328ef12-08a6-4fb3-bf54-e441d87d1ced",
+        "magnet": null,
+        "screen": "screenshots/qilin/See's Candies.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Jayeff Construction",
+        "discovered": "2026-04-30 18:55:41.596135",
+        "description": "Construction",
+        "link": "/site/blog?uuid=70cc7835-9389-4749-9fc3-e9c3d76fc876",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jayeff Construction.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Ktunaxa Nation Council: A Government Agency’s Guide to Doing the Opposite",
+        "discovered": "2026-04-30 18:55:27.241421",
+        "description": "#Leaknet #OnlineSafety #SecurityAlert  #CyberAwareness #DigitalRisk #Ktunaxa  #KtunaxaNation",
+        "link": "view_article.php?article=IRFhej8u34rR46WAs25V1hpMW6f2b1g1bXi3HDtYFyLC0LvaD29SCspr1GY5KKL6",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Ktunaxa Nation Council: A Government Agency’s Guide to Doing the Opposite.png",
+        "group_name": "leaknet",
+        "sector": "Government"
+    },
+    {
         "post_title": "Progressive Oral Surgery & Implantology",
         "discovered": "2026-04-30 17:55:58.726981",
         "description": "",
@@ -168,225 +248,5 @@
         "screen": "screenshots/inc ransom/Iowa Spring Manufacturing & Sales.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "zsiclife.co.zm",
-        "discovered": "2026-04-29 21:56:57.146046",
-        "description": "ZSIC Life Plc is a leading assurance, savings, and wealth management company in Zambia, offering a diverse range of life...",
-        "link": "/blog/ca76b730ebd2625d2995db0a10387ea1ded24418988f0a3cedb666681478251c/",
-        "magnet": null,
-        "screen": "screenshots/krybit/zsiclifecozm.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bentley Capital Ventures ",
-        "discovered": "2026-04-29 20:56:29.830149",
-        "description": "https://www.linkedin.com/company/bentley-capital-ventures\nWe started  Bentley Capital Ventures in 2012 to facilitate small business owners across the country in the process of obtaining capital.  We know a simple trip to the local bank doesnt always provide the results many are looking for and as business owners ourselves we know how challenging it can be to obtain capital when you dont fit within the guidelines of the traditional banking world.\n\nAt Bentley Capital we use the relationships we have built over the last 25 years in both the consumer and commercial banking markets to provide our clients with the very best options available for their specific situation.\n\nWhether you have perfect or less than perfect credit our goal will always be to provide you with options that promote growth and properity for your business.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "radar",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "PROM (Peakside Ros Outlet Management)",
-        "discovered": "2026-04-29 20:56:28.311235",
-        "description": "PROM (Peakside Ros Outlet Management) is a joint venture established by the investment firm Peakside Capital and the operator Ros Retail to manage outlet centers across Europe. The organization specializes in the strategic development of retail real estate, handling the full lifecycle from brand acquisition to operational marketing. Its primary objective is to maximize asset value and performance by implementing international management standards within the outlet sector.",
-        "link": "/posts/edd39726-8e4e-4d34-9feb-78eddf6d61c9",
-        "magnet": null,
-        "screen": "screenshots/payload/PROM (Peakside Ros Outlet Management).png",
-        "group_name": "payload",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Karl Chevrolet",
-        "discovered": "2026-04-29 19:55:51.381334",
-        "description": "",
-        "link": "/r/287e84fa26b49049669491761f4a8be89427eadd",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Karl Chevrolet.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eduporium",
-        "discovered": "2026-04-29 19:55:49.968198",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=8f6b7088-4865-4606-b73d-1a61073fa27a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Eduporium.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Probity Contracting Group",
-        "discovered": "2026-04-29 19:55:48.999740",
-        "description": "Construction",
-        "link": "/site/blog?uuid=17cf907b-ac86-4e2e-8f80-2ae0e811e189",
-        "magnet": null,
-        "screen": "screenshots/qilin/Probity Contracting Group.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Metro-ILA Funds",
-        "discovered": "2026-04-29 19:55:48.085420",
-        "description": "Insurance",
-        "link": "/site/blog?uuid=8cc405f0-3ea9-42fd-91b5-9b0e59950247",
-        "magnet": null,
-        "screen": "screenshots/qilin/Metro-ILA Funds.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Edenshaw Developments",
-        "discovered": "2026-04-29 19:55:47.141373",
-        "description": "Construction",
-        "link": "/site/blog?uuid=38a72d76-5268-4218-b793-3bf789b73004",
-        "magnet": null,
-        "screen": "screenshots/qilin/Edenshaw Developments.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Antica Sartoria",
-        "discovered": "2026-04-29 19:55:46.185018",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=d5990837-79cf-41ae-a871-0e1d83ba068f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Antica Sartoria.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Fabritius",
-        "discovered": "2026-04-29 19:16:26.959306",
-        "description": "fabritius.be ETS Fabritius SPRL is a Belgian family-owned company founded in 1976, with roots going back to 1945. For over 50 years, it has manufactured and sold temperature measurement equipment — including thermocouples, resistance thermometers, converters, regulators, and connectors. The business has been passed down through three generations of the Fabritius family, combining deep product expertise with a commitment to quality and flexible customer service",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Forsheda Stlverktyg",
-        "discovered": "2026-04-29 19:16:26.034668",
-        "description": "stalverktyg.com zoominfo.com/c/forsheda-stlverktyg-ab/345814836 Forsheda Stalverktyg AB is a Swedish industrial company founded in 1961 by Sigfrid Johansson, based in Forsheda, Sweden. For over 60 years, it has developed, manufactured, and serviced high-quality injection molding tools for the plastics, rubber, and metal industries. The company manages the full tool lifecycle — from product idea and manufacturing to repair and modification — and is certified to ISO 9001:2015 and ISO 14001:2015. It employs 11–50 people and collaborates with international suppliers in Asia",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Magisterial Service",
-        "discovered": "2026-04-29 19:16:25.105499",
-        "description": "magisterialservices.gov.pg The Magisterial Service of Papua New Guinea (MS) is the administrative arm of the country's District Court system, established in 1975 under Section 173(1) of the PNG Constitution. It oversees the effective and efficient administration of 63 District Court establishments and over 400 gazetted court-holding locations across the country. Headquartered in Port Moresby, the service is led by the Chief Magistrate and operates under the Ministry of Justice and Attorney General. Its budget for 2025 was projected at K109 million, reflecting the government's commitment to improving access to justice nationwide",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Diviso Grupo Financiero",
-        "discovered": "2026-04-29 19:16:24.171601",
-        "description": "diviso.pe zoominfo.com/c/diviso-grupo-financiero-sa/372139811 Diviso Grupo Financiero S.A. is a Lima-based financial holding company founded in 2003 (formerly NCF Inversiones SA, rebranded in November 2013). With around 1,000–5,000 employees and led by CEO José Romero Tapia, it offers a comprehensive portfolio of capital market services through its two main subsidiaries — DIVISO Fondos (mutual and investment funds) and DIVISO Bolsa (stock brokerage). The group holds strategic stakes in major regional exchanges, including the Lima Stock Exchange (BVL), CAVALI, and the Chilean Products Exchange. It is publicly traded on the Lima Stock Exchange under ticker DIVIC1 with a market cap of ~313 million PEN",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Kınık Gross",
-        "discovered": "2026-04-29 19:16:23.157135",
-        "description": "kinikgross.com Kınık Gross Toptan Market is the first and only local wholesale market in the Thrace (Trakya) region of Turkey, located in Çorlu. It offers a wide range of products including fresh produce, meat, deli, legumes, cleaning supplies, and personal care items — all at competitive wholesale prices",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Costa Solutions, LLC",
-        "discovered": "2026-04-29 18:16:08.662850",
-        "description": "Costa Solutions, LLC — a privately held managed-labor and warehousing company headquartered in San Antonio, Texas, with ~$140M annual revenue and 200–1,000 employees.\n\nThe file server contained the complete operational, financial, legal, and human resources infrastructure of the company:\n\n3,000–8,000+ individuals' personal data — current employees, former employees (12 years of records), independent contractors, employee dependents, and job applicants. SSNs on W-2s, W-4s, 1099s, I-9s, background checks. Bank account and routing numbers on 200+ direct deposit forms.\nMedical and injury records — 150+ employee injury/medical files from 2013–2026, FMLA medical certifications, drug test results (random, reasonable suspicion, post-incident, promotional), and workers' compensation claims for 23+ named individuals.\nCEO's entire file system — Josh Wean's Documents folder (5.3 GB) including P&L statements, a 17-subfolder \"Confidential\" directory, legal correspondence, strategic plans, a C-12 peer advisory group archive, and a $RECYCLE.BIN with 60+ deleted items.\nClient contracts and competitive intelligence — pricing, SLAs, and contract terms for HEB, CVS, Sysco, Amazon, McLane, Labatt, Valvoline. Competitor pricing intelligence. RFP bid documents with cost models.\nActive legal case files — litigation records (2021–2022), HR internal investigation notes (2018–2021), arbitration files, active investigations marked \"DO NOT DELETE\" — all subject to attorney-client privilege.\nInfrastructure secrets — an HEB production server TLS certificate, a Cisco AnyConnect VPN installer, and the CEO's Remote Desktop connection file.\nCorporate financials — multi-year budgets, valuation & sale documents (indicating possible M&A activity), PPP loan forgiveness records, Form 5500 ERISA filings, and annual reporting.",
-        "link": "/blog/costa-solutions-llc-a59652d6",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Bayou Title, Inc.",
-        "discovered": "2026-04-29 18:16:05.890229",
-        "description": "Bayou Title, Inc. — the largest title insurance agent and closing/settlement services provider in Louisiana, with 19 full-service locations statewide.\n\nThe exfiltrated data spans 20+ years of operations (2004–2026) and includes:\n\n70,000–100,000+ Social Security numbers paired with names, addresses, and sale proceeds from 1099-S real-estate closing worksheets covering all 19 offices across three tax years (2018–2020), plus W-2 and 1099-MISC filings.\nComplete employee payroll databases — 10+ instances of Sage 50 EMPLOYEE.DAT files containing SSNs, bank account numbers, routing numbers, pay rates, tax withholding, and direct deposit details for current and former employees.\n103 GB of title abstracts — ~34,000+ PDFs documenting ownership chains, liens, and mortgages for properties across Louisiana.\n44 GB of GreenFolders DMS transaction packages (2012, 2013, 2019) — complete closing file archives containing HUD-1 settlement statements, identity verification documents, SSN cards, and tax records. Filenames contain encoded tags (ssn, hud, soc, tax).\nPlaintext credentials for government portals — a file literally named Lafayette Assessors lcmenard Password4321.url, plus a PDF containing Orleans Parish system login credentials.\nAttorney-client privileged documents — wills, attorney engagement letters, and legal opinions prepared by licensed Louisiana attorneys.",
-        "link": "/blog/bayou-title-inc-2d5014bd",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Color Communications LLC",
-        "discovered": "2026-04-29 18:10:17.280096",
-        "description": "The exposed dataset includes over 200,000 unique files containing sensitive information on more than 4,500 individuals and over 5,500 organizations... Open post",
-        "link": "/post/94f588080358146b/index.html",
-        "magnet": null,
-        "screen": "screenshots/secp0/Color Communications LLC.png",
-        "group_name": "secp0",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Advanta Genetics LLC",
-        "discovered": "2026-04-29 18:09:54.959058",
-        "description": "Advanta Genetics LLC — a respected CLIA/CAP-accredited clinical toxicology and molecular diagnostics laborator. The exposed material includes: Tens of thousands of real patient lives — including highly sensitive chronic opioid therapy charts flagged by the Texas Medical Board and elderly Medicare audit records. Provider identities and prescribing power — SSNs, DEA numbers, and state licenses from 20+ states that can be turned into black-market \"script pads\". Gold-standard identity theft kits — W-2s, I-9s with passport scans, and full employee packages for 50+ staff. 102 complete QuickBooks company files exposing every vendor, payroll run, bank link, and financial secret across the Advanta/RedLeaf/OSPRI empire. High-value trade secrets — OSPRI Biopath investment decks, valuation models, FDA pre-submission packets, and the proprietary \"The Brain\" AI diagnostic architecture. Explosive privileged attorney-client memos on active regulatory battles (Texas Medical Board Remedial Plan #19-153 and a federal NORA subpoena). Active Directory domain controller data (NTDS.dit and SAM hives).",
-        "link": "/blog/rvl-bb52e3c8",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Baresque Group",
-        "discovered": "2026-04-29 18:09:54.047828",
-        "description": "Baresque Group — a respected commercial-interiors company headquartered in Perth, Australia, with offices in Dallas, Chicago, and Brussels.\n\nThe exposed material includes:\n\n100+ passport scans, 35 birth certificates, 60+ driver's licences, 50+ TFN declarations — the complete identity-theft toolkit for the entire workforce, spanning Australia, the US, and Europe.\nPlaintext credentials for every critical system — Microsoft 365, HR platform (Elmo Talent), remote-access gateway (LogMeIn), phone system (3CX), ERP (Jim2) — all in browser-export CSVs and an enterprise-wide Password_Listing.xls that had been sitting on a shared drive since at least 2017.\n4 TLS private keys for customer-facing domains — enabling impersonation of the company's websites.\n343 GB of product R&D — SolidWorks CAD files, manufacturing specifications, and product blueprints for Zintra acoustic panels, FUNC furniture, botton+gardiner wallcoverings, and Scribblr surfaces. The complete design library.\nTwo years of board packs, financial reports, and cash-flow models — the company's entire strategic and financial position laid bare.\nPrivileged legal documents — active subpoena files, sworn affidavit exhibits, Fair Work Australia tribunal filings, and settlement agreements with confidentiality clauses.\nWorkers compensation medical records naming specific employees with diagnoses, treatment plans, and claim amounts.",
-        "link": "/blog/baresque-group-0a8f469f",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Cheval Blanc Randheli",
-        "discovered": "2026-04-29 18:09:53.129971",
-        "description": "Guest Passport Scans — 75,855 Files, 10 Years\nThe single largest data category: 75,855 passport scan images spanning January 2015 through October 2024, organised in daily folders within monthly and yearly directories. These represent an estimated 20,000–30,000 unique guests. Each scan contains the full passport bio page: photo, full name, date of birth, nationality, passport number, machine-readable zone (MRZ), and signature.\n\nAmong the exposed passports:\n\nQatar Royal Family members — 9 passport scans including Muhammad Mesned S M Al-Misned, Abdulla, Khalifa, Lolwa, Nasser, Alanoud, Bessy, and Mesned\nUAE VIP and government officials — including H.E. Ahmed Saif Ali Aldhabea Aldarmaki, H.E. Matar Suhail Ali Alyabhouni Aldhaheri, and members of an April 2024 private buyout group who arrived on private jets (tail numbers A6AUH, A6DAH)\nLVMH head-office executives — 7 passport/profile photos including named senior staff from Paris\nGuest PMS Data — 30,000–50,000 Profiles\nOpera PMS exports containing full names, home addresses (street-level), nationalities, VIP classification levels (A/B/C/G), partial credit card data (last-4 digits + expiry + card type), deposit amounts, booking confirmation numbers, stay histories, travel agent details, flight numbers, and guest preferences.\n\nEmployee Records — 1,000–2,000 Individuals\nTen years of salary records (2017–2026), medical insurance claims organised by department, ~200 ECARD ID photos, vacation/leave records, Key Management Personnel (KMP) compensation details, and biometric enrollment data from the Gladis facility-access system.\n\nCredentials and Infrastructure\nBitLocker recovery key — full disk-encryption key for the Windows server volume\nPasswords.docx — plaintext system password store covering revenue, PMS, and operational systems\nExtranet passwords — booking-portal and vendor credentials\n3CX VoIP backup — SIP credentials, extension configurations, call routing rules\nBiometric templates (Gladis enrollment) — non-rotateable fingerprint/facial data\nCorporate-Sensitive Documents\nManagement Contract of Cheval Blanc Randheli — the LVMH–property owner agreement containing fee structures, performance benchmarks, and brand license terms\nBoard investment recommendation for Velidhoo — a potential new property with capital allocation and return projections\n10 years of budgets and revenue forecasts\nAudited subsidiary financial statements (I&T / Sitax entities)\nWhite Book — the property's operational standards manual (proprietary LVMH brand IP)\nBuilding Management System data — HVAC, power, desalination, and lighting control files for island infrastructure",
-        "link": "/blog/cheval-blanc-randheli-5506a6ac",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Law Offices of Michael A. Freedman, P.A. (maflaw.com)",
-        "discovered": "2026-04-29 18:09:52.207134",
-        "description": "Law Offices of Michael A. Freedman, P.A. (maflaw.com). The exfiltrated corpus is 579 GB used / 143 GB at root level / 196,701 files / 19,231 directories, dated as recently as a year-2026-in-progress client matter.\n\nWhat this means for a plaintiffs' PI firm of ~25 staff:\n\n656 client-matter folders organised across eight yearly parents from June 2019 through 2026-in-progress. Per-client medical records, HIPAA authorisations, police reports, settlement releases, IOLTA distribution sheets, retainer agreements, and treating-provider correspondence.\nTwo staff Outlook archives at 2.1 GB each, plus a 505 MB Outlook backup, plus 27 enumerated .pst files — years of attorney–client privileged correspondence, settlement strategy, opposing-counsel comms.\nThe complete Sage ACT. Pro v18 contact universe — the live database plus eight historical ZIP backups going back to 2013 plus a 9.3 MB plaintext export (ACT!-Contacts.txt) that any text editor can open. Estimated 5,000–12,000 contacts.\nThe firm's master credential vault in a Word document called Woodywoody78!.docx (the filename is itself the vault password). Plaintext credentials for M&T Bank multi-identity business + commercial accounts (with electronic-payment-approval authority), Bank of America, Paychex, QuickBooks, and the firm's federal EIN. Plus the senior partner's phone-unlock PIN.\nA staff browser-exported password CSV (32 plaintext credentials) including the M365 tenant, the Slack tenant, hospital portals (MedStar, GBMC, Allstate secure mail), MoveDocs, ChartRequest, MSHC Legal portal — plus residual credentials from prior employers SLF Law and Bailey Law, creating cross-firm contamination liability.\nThe Universal Licensing / Freedman Consulting invention-promotion operation — a second line of business under the same EIN, with hundreds of inventor folders. Per-inventor unpublished invention disclosures, “Internet Presentation of Invention” decks, NDAs, Exclusive Patent License Agreement drafts, patent-art renderings, and per-managed-mailbox client-company passwords. \nA criminal-defense sub-practice (“SLF criminal” out of Janice's working folder) with retainer agreements and per-client court documents, carrying 6th-Amendment-attorney–client uplift on the privileged-track scoring.\nAn Axon evidence.com MPIA-released body-worn-camera package (449 MB total; a 448 MB clip from the 2020-12-20 Park Baltimore incident).",
-        "link": "/blog/maflaw-8a603f4b",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Atlas Metal Industries Inc",
-        "discovered": "2026-04-29 18:09:51.220746",
-        "description": "Atlas Metal Industries Inc. — a privately held commercial-foodservice-equipment manufacturer headquartered in Miami, Florida.\n\nThe dataset is a complete Microsoft Dynamics GP environment: production databases, payroll records, system credentials, Autodesk Vault product-design backups, CNC fabrication programs, and all supporting infrastructure configuration. The exfiltration occurred on or about April 8, 2026; the attack was identified April 22, 2026.\n\nThe exposed material includes:\n\n    15.8 GB of payroll-records database (PYREC) — full Employee Master with SSNs, DOBs, addresses, direct-deposit bank routing numbers, salary, W-4 tax data, garnishments, and check history dating to at least 2018.\n    30+ SQL Server login accounts with password hashes in a sp_help_revlogin dump — named employees, system admins (DYNSA, sa), service accounts, and Active Directory domain accounts.\n    74 GB of Autodesk Vault Professional backup — complete product-design history from 2019 through 2026, covering every product line Atlas Metal manufactures.\n    Hundreds of CNC fabrication programs — laser-cutter and Amada punch-press G-code for the full catalogue of sheet-metal components.\n    A base64-encoded SQL credential for the TimeClock Plus timekeeping system, stored in plaintext XML.\n    8 SQL Server databases with full backup chains — ATLAS (primary), PYREC (payroll), DYNAMICS (system), TEST (18 GB dev clone), TWO, AMIT, plus system databases (master, msdb, DynamicsGPSecurity).",
-        "link": "/blog/atlas-metal-industries-inc-f3dae3da",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Manufacturing"
     }
 ]
