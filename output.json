@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Progressive Oral Surgery & Implantology",
+        "discovered": "2026-04-30 17:55:58.726981",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bohmler Einrichtungshaus GmbH",
+        "discovered": "2026-04-30 17:55:39.927685",
+        "description": "",
+        "link": "/27dfe632-063e-4dbc-8f22-da0f23aebf19",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Bohmler Einrichtungshaus GmbH.png",
+        "group_name": "black nevas",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Abazia SpA",
+        "discovered": "2026-04-30 16:48:59.561341",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=b2aee6c8-1fce-497b-953f-d84e078c5195",
+        "magnet": null,
+        "screen": "screenshots/qilin/Abazia SpA.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "weiss-pm.de",
+        "discovered": "2026-04-30 16:48:43.869242",
+        "description": "WEISS PM: The ideal company for tailored recruitment solutions. For nearly 40 years, WEISS PM has been a trusted partner...",
+        "link": "/blog/03846dfed1568e3767426c8e5cb2f03aeec066974b724c94f403cdf0d3ddceb9/",
+        "magnet": null,
+        "screen": "screenshots/krybit/weiss-pmde.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Fox Broermann Pediatric Dentistry of Tulsa",
+        "discovered": "2026-04-30 13:55:41.459985",
+        "description": "Pediatric dentistry of Tulsa",
+        "link": "Companies/foxbroermann",
+        "magnet": null,
+        "screen": "screenshots/pear/Fox Broermann Pediatric Dentistry of Tulsa.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Philex Mining",
+        "discovered": "2026-04-30 12:56:15.168230",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=51dc3041-8999-40a5-8651-789673f3481e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Philex Mining.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Compass Housing Alliance",
+        "discovered": "2026-04-30 12:55:54.248994",
+        "description": "Compass Housing Alliance is dedicated to developing and providing essential services, shelter, and affordable housing to ensure that everyone in the community has a safe place to call home.",
+        "link": "/blog?uuid=71a8d24a-628d-3c02-a41b-79a873227cee",
+        "magnet": null,
+        "screen": "screenshots/blackwater/Compass Housing Alliance.png",
+        "group_name": "blackwater",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Leak: Color Communications LLC",
         "discovered": "2026-04-30 10:55:38.679328",
         "description": "The exposed dataset includes over 200,000 unique files containing sensitive information on more than 4,500 individuals and over 5,500 organizations... Open post",
@@ -318,175 +388,5 @@
         "screen": null,
         "group_name": "aurora",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Winona County",
-        "discovered": "2026-04-29 16:57:19.403507",
-        "description": "https://www.winonacounty.gov/\n\t\t\t\t\t\t\t\t\tWinona County is located in the Mississippi River blufflands of southeastern Minnesota. They have been negligent regarding security and the data they store, which has resulted in a breach and the public disclosure of all the confidential data they held. As a result, we are now able to offer you a large database containing resident records, tax and budget documents, police records, and data from other institutions.",
-        "link": "http://3cpc3v57l7rstjtaelxgnlrzsolz7pd6ltsygjo2tjuonxteyaba2pid.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Winona County.png",
-        "group_name": "interlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Shenzhen Gongjin Electronics",
-        "discovered": "2026-04-29 14:55:59.282601",
-        "description": "Shenzhen Gongjin Electronics, founded in 1998 and also known as T&W, is a telecommunications manufacturing company specializing in broadband communication technology.",
-        "link": "/blog?uuid=b822ef9f-7d60-358d-814f-b6e21815bf05",
-        "magnet": null,
-        "screen": "screenshots/blackwater/Shenzhen Gongjin Electronics.png",
-        "group_name": "blackwater",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Nordstern Technologies",
-        "discovered": "2026-04-29 12:57:27.715331",
-        "description": "",
-        "link": "nordstern/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Nordstern Technologies.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ParkEngage",
-        "discovered": "2026-04-29 12:57:26.251119",
-        "description": "",
-        "link": "parkengage/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/ParkEngage.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Saleskido",
-        "discovered": "2026-04-29 12:57:25.149878",
-        "description": "",
-        "link": "saleskido/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Saleskido.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Interzero",
-        "discovered": "2026-04-29 12:57:24.168161",
-        "description": "",
-        "link": "interzero/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Interzero.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IMEVI",
-        "discovered": "2026-04-29 12:57:23.212453",
-        "description": "",
-        "link": "imevi/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/IMEVI.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rotary Club",
-        "discovered": "2026-04-29 12:57:22.273235",
-        "description": "",
-        "link": "rotary/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Rotary Club.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JOT",
-        "discovered": "2026-04-29 12:57:21.277756",
-        "description": "",
-        "link": "jot/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/JOT.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BookBlock",
-        "discovered": "2026-04-29 12:57:20.160299",
-        "description": "",
-        "link": "bookblock/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/BookBlock.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Crank Communications",
-        "discovered": "2026-04-29 12:57:19.173369",
-        "description": "",
-        "link": "crank-communications/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Crank Communications.png",
-        "group_name": "fulcrumsec",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "CrediElite",
-        "discovered": "2026-04-29 12:57:17.854340",
-        "description": "",
-        "link": "credielite/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/CrediElite.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fashinza",
-        "discovered": "2026-04-29 12:57:16.684769",
-        "description": "",
-        "link": "fashinza/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Fashinza.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "planetsport.ma",
-        "discovered": "2026-04-29 12:38:44.821390",
-        "description": "Planet Sport is your go-to online store for sports gear in Morocco. They help athletes and fitness f...",
-        "link": "/post/4be3cc319db17c09a7678bd0241de067",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/planetsportma.png",
-        "group_name": "lockbit5",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "pricon.com.ph",
-        "discovered": "2026-04-29 12:38:43.841410",
-        "description": "Pricon Microelectronics, Inc. (PMI) is an Original Equipment Manufacturer (OEM) and a subsidiary of...",
-        "link": "/post/e54341eae2294d6a24b51347e60a2d9d",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/priconcomph.png",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "instapack.es",
-        "discovered": "2026-04-29 12:38:42.888844",
-        "description": "Instapack is a professional courier service with over 30 years of experience, offering immediate del...",
-        "link": "/post/be3b1568cc4e8a7b5cac1bde1f013d95",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/instapackes.png",
-        "group_name": "lockbit5",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "stllc.org",
-        "discovered": "2026-04-29 12:38:41.866794",
-        "description": "Welcome to St. Luke Lutheran Community\nSt. Luke Lutheran Community is a not-for-profit, continuing...",
-        "link": "/post/6de4e7feefc9e0638b0ae938afc6c437",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/stllcorg.png",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
     }
 ]
