@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Leak: Color Communications LLC",
+        "discovered": "2026-04-30 10:55:38.679328",
+        "description": "The exposed dataset includes over 200,000 unique files containing sensitive information on more than 4,500 individuals and over 5,500 organizations... Open post",
+        "link": "/post/94f588080358146b/index.html",
+        "magnet": null,
+        "screen": "screenshots/secp0/ Color Communications LLC.png",
+        "group_name": "secp0",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Jgb",
+        "discovered": "2026-04-30 07:55:46.265019",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=7a7eff3e-4452-42e4-a651-c390bce9e89f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jgb.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arban & Carosi",
+        "discovered": "2026-04-30 03:56:01.094631",
+        "description": "",
+        "link": "/blog/disclosures/69ddba468f1d14b743d54bff",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Arban & Carosi.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Umiles Group - Database Leaked",
+        "discovered": "2026-04-30 02:57:31.822021",
+        "description": "",
+        "link": "/news/Umiles_Group/",
+        "magnet": null,
+        "screen": "screenshots/everest/Umiles Group - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Morae",
+        "discovered": "2026-04-30 02:57:30.516467",
+        "description": "",
+        "link": "/news/Morae/",
+        "magnet": null,
+        "screen": "screenshots/everest/Morae.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SCS Engineers",
+        "discovered": "2026-04-30 01:57:40.948735",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Epcon Communities",
+        "discovered": "2026-04-30 01:57:40.008031",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Data Exchange Corporation",
+        "discovered": "2026-04-30 01:57:38.958847",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SunSource",
+        "discovered": "2026-04-30 01:57:37.944693",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Iowa Spring Manufacturing & Sales",
+        "discovered": "2026-04-30 01:57:22.651549",
+        "description": "",
+        "link": "/blog/disclosures/69f2821e8f1d14b743bc4e9a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Iowa Spring Manufacturing & Sales.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "zsiclife.co.zm",
         "discovered": "2026-04-29 21:56:57.146046",
         "description": "ZSIC Life Plc is a leading assurance, savings, and wealth management company in Zambia, offering a diverse range of life...",
@@ -387,176 +487,6 @@
         "magnet": null,
         "screen": "screenshots/lockbit5/stllcorg.png",
         "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Avnet",
-        "discovered": "2026-04-29 11:42:27.103133",
-        "description": "",
-        "link": "/avnet-leaks/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Avnet.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Raptor Supplies",
-        "discovered": "2026-04-29 11:42:26.135391",
-        "description": "",
-        "link": "/raptor/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Raptor Supplies.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lena Health",
-        "discovered": "2026-04-29 11:42:25.163004",
-        "description": "",
-        "link": "/lenahealth/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Lena Health.png",
-        "group_name": "fulcrumsec",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Woundtech",
-        "discovered": "2026-04-29 11:42:24.189205",
-        "description": "",
-        "link": "/woundtech/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Woundtech.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "youX / Drive IQ",
-        "discovered": "2026-04-29 11:42:23.237371",
-        "description": "",
-        "link": "/youx/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/youX  Drive IQ.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LexisNexis",
-        "discovered": "2026-04-29 11:42:22.300853",
-        "description": "",
-        "link": "/lexisnexis/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/LexisNexis.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "MCO",
-        "discovered": "2026-04-29 11:42:21.336185",
-        "description": "",
-        "link": "/mco/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/MCO.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ReFocus AI",
-        "discovered": "2026-04-29 11:42:20.428734",
-        "description": "",
-        "link": "/refocus_unique/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/ReFocus AI.png",
-        "group_name": "fulcrumsec",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Hatica",
-        "discovered": "2026-04-29 11:42:19.473656",
-        "description": "",
-        "link": "/hatica/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Hatica.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Analog Gold / Prospector",
-        "discovered": "2026-04-29 11:42:18.496552",
-        "description": "",
-        "link": "/analog-prospector/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Analog Gold  Prospector.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://www.fulcrumre.com/",
-        "discovered": "2026-04-29 04:55:16.519050",
-        "description": "",
-        "link": "/blog/disclosures/69f0d6b38f1d14b74390f7b1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwfulcrumrecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mediaworks Kft",
-        "discovered": "2026-04-29 03:56:18.464262",
-        "description": "",
-        "link": "/companies/4804786538",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Mediaworks Kft.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "nbd3pl.com",
-        "discovered": "2026-04-29 02:56:28.805040",
-        "description": "",
-        "link": "/blog/disclosures/69ea301d8f1d14b743ec6c2b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/nbd3plcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "boxtopia.co.uk",
-        "discovered": "2026-04-29 01:56:45.755157",
-        "description": "+44 1476576090 . Boxtopia is the UK's leading supplier of custom cardboard boxes and printed boxes, specializing in short runs for small businesses with no minimum order. Stolen: 166gb 280k files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Indonesia's Customs Analytics Platform",
-        "discovered": "2026-04-29 01:56:30.334513",
-        "description": "",
-        "link": "/news/Indonesia_s_Customs_Analytics_Platform/",
-        "magnet": null,
-        "screen": "screenshots/everest/Indonesia's Customs Analytics Platform.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "osoftec.com",
-        "discovered": "2026-04-28 23:57:08.655516",
-        "description": "+91 9717385459 . Optimization Software Technologies, LLP. is an advanced technology solutions development company that focuses on improving operational efficiency and profitability for its clients Stolen: 222gb 113k files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "cadencepetroleum.com",
-        "discovered": "2026-04-28 23:56:50.593916",
-        "description": "Company management has 48 hours to reach an agreement with us. If no agreement is reached, the files—totaling 400 GB—will be published.\n\nOur objective is to provide our customers with the best products and services. Cadence Petroleum and our suppliers stand behind the products we offer. Regardle…",
-        "link": "/pNJ6KGNjdQJ5VtN6ZZaRfDNEVd2XMjSN/cadencepetroleum-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/cadencepetroleumcom.png",
-        "group_name": "chaos",
         "sector": "Unknown"
     }
 ]
