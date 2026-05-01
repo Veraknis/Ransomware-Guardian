@@ -1,11 +1,21 @@
 [
     {
+        "post_title": "bomuhospital.org",
+        "discovered": "2026-05-01 18:54:44.684888",
+        "description": "Bomu Hospital is a social enterprise dedicated to providing access to quality healthcare for all individuals, regardless...",
+        "link": "/blog/00b2166002a46d2c1f0677b1e0da903b062734a5166c18de1d2d4e01ad295e23/",
+        "magnet": null,
+        "screen": "screenshots/krybit/bomuhospitalorg.png",
+        "group_name": "krybit",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "SMTA Sherwood Mutual Telephone Association",
         "discovered": "2026-05-01 16:56:40.777484",
         "description": "",
         "link": "/companies/5058243108",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/SMTA Sherwood Mutual Telephone Association.png",
         "group_name": "worldleaks",
         "sector": "Nonprofit"
     },
@@ -15,7 +25,7 @@
         "description": "",
         "link": "/companies/8077134684",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/worldleaks/Ceywater Consultants.png",
         "group_name": "worldleaks",
         "sector": "Unknown"
     },
@@ -88,105 +98,5 @@
         "screen": null,
         "group_name": "shinyhunters",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Zinkan & Barker Development",
-        "discovered": "2026-04-30 19:55:40.135559",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=aa3c8f2e-6d5b-477f-b636-f9440c94ab04",
-        "magnet": null,
-        "screen": "screenshots/qilin/Zinkan & Barker Development.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Apothebeauty",
-        "discovered": "2026-04-30 19:55:39.097575",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=450557de-97f1-4ac0-833b-27b067a85e31",
-        "magnet": null,
-        "screen": "screenshots/qilin/Apothebeauty.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Liberty Mutual Insurance",
-        "discovered": "2026-04-30 19:55:22.604853",
-        "description": "",
-        "link": "/news/Liberty_Mutual_Insurance/",
-        "magnet": null,
-        "screen": "screenshots/everest/Liberty Mutual Insurance.png",
-        "group_name": "everest",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "MES Hybrid Document Systems",
-        "discovered": "2026-04-30 18:55:44.480202",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=696a7d3d-5cdc-45fa-8047-567d26ca5c30",
-        "magnet": null,
-        "screen": "screenshots/qilin/MES Hybrid Document Systems.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Switch Enterprises",
-        "discovered": "2026-04-30 18:55:43.521381",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=140cf77d-30dd-42bd-b6b5-341e2e6f37a9",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Switch Enterprises.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "See's Candies",
-        "discovered": "2026-04-30 18:55:42.544707",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=c328ef12-08a6-4fb3-bf54-e441d87d1ced",
-        "magnet": null,
-        "screen": "screenshots/qilin/See's Candies.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Jayeff Construction",
-        "discovered": "2026-04-30 18:55:41.596135",
-        "description": "Construction",
-        "link": "/site/blog?uuid=70cc7835-9389-4749-9fc3-e9c3d76fc876",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jayeff Construction.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Ktunaxa Nation Council: A Government Agency’s Guide to Doing the Opposite",
-        "discovered": "2026-04-30 18:55:27.241421",
-        "description": "#Leaknet #OnlineSafety #SecurityAlert  #CyberAwareness #DigitalRisk #Ktunaxa  #KtunaxaNation",
-        "link": "view_article.php?article=IRFhej8u34rR46WAs25V1hpMW6f2b1g1bXi3HDtYFyLC0LvaD29SCspr1GY5KKL6",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Ktunaxa Nation Council: A Government Agency’s Guide to Doing the Opposite.png",
-        "group_name": "leaknet",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Progressive Oral Surgery & Implantology",
-        "discovered": "2026-04-30 17:55:58.726981",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bohmler Einrichtungshaus GmbH",
-        "discovered": "2026-04-30 17:55:39.927685",
-        "description": "",
-        "link": "/27dfe632-063e-4dbc-8f22-da0f23aebf19",
-        "magnet": null,
-        "screen": "screenshots/black nevas/Bohmler Einrichtungshaus GmbH.png",
-        "group_name": "black nevas",
-        "sector": "Unknown"
     }
 ]
