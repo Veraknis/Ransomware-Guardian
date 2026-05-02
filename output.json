@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Standard-Examiner",
+        "discovered": "2026-05-02 19:54:06.741519",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=84aa5fb5-439f-4ce4-ad19-6673e9719fb9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Standard-Examiner.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "North Star Signs",
+        "discovered": "2026-05-02 19:54:05.494546",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=647579d2-391a-4782-b29c-eef23aaa4bd4",
+        "magnet": null,
+        "screen": "screenshots/qilin/North Star Signs.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Armstrong George Cohen Will Ophthalmology",
+        "discovered": "2026-05-02 19:54:04.502149",
+        "description": "0",
+        "link": "/site/blog?uuid=0b3c5281-0f68-4d9d-96f5-662c65a426e1",
+        "magnet": null,
+        "screen": "screenshots/qilin/Armstrong George Cohen Will Ophthalmology.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LSM Lee",
+        "discovered": "2026-05-02 19:54:01.337806",
+        "description": "Construction",
+        "link": "/site/blog?uuid=62458c96-cdac-46c7-9315-b3cbdfd5818f",
+        "magnet": null,
+        "screen": "screenshots/qilin/LSM Lee.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Star Precision",
+        "discovered": "2026-05-02 19:54:00.394695",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=d6d16cfb-6624-4a94-9acd-e910225b6564",
+        "magnet": null,
+        "screen": "screenshots/qilin/Star Precision.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ADMINS",
+        "discovered": "2026-05-02 19:53:59.423365",
+        "description": "Software",
+        "link": "/site/blog?uuid=31e6241d-c12c-47f0-8014-441eb0f6ea34",
+        "magnet": null,
+        "screen": "screenshots/qilin/ADMINS.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Beyond Measure & Associates, Inc.",
         "discovered": "2026-05-02 12:56:01.166861",
         "description": "Church Design, Engineering, Financial & Construction Services",
@@ -98,15 +158,5 @@
         "screen": "screenshots/safepay/hpkhamburg.png",
         "group_name": "safepay",
         "sector": "Agriculture"
-    },
-    {
-        "post_title": "bomuhospital.org",
-        "discovered": "2026-05-01 18:54:44.684888",
-        "description": "Bomu Hospital is a social enterprise dedicated to providing access to quality healthcare for all individuals, regardless...",
-        "link": "/blog/00b2166002a46d2c1f0677b1e0da903b062734a5166c18de1d2d4e01ad295e23/",
-        "magnet": null,
-        "screen": "screenshots/krybit/bomuhospitalorg.png",
-        "group_name": "krybit",
-        "sector": "Healthcare"
     }
 ]
