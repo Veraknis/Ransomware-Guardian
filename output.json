@@ -128,15 +128,5 @@
         "screen": "screenshots/qilin/ADMINS.png",
         "group_name": "qilin",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Beyond Measure & Associates, Inc.",
-        "discovered": "2026-05-02 12:56:01.166861",
-        "description": "Church Design, Engineering, Financial & Construction Services",
-        "link": "Companies/churchdesign",
-        "magnet": null,
-        "screen": "screenshots/pear/Beyond Measure & Associates, Inc.png",
-        "group_name": "pear",
-        "sector": "Finance"
     }
 ]
