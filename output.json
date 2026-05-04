@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Cushman & Wakefield",
+        "discovered": "2026-05-04 20:55:18.516345",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=52b8fa05-6098-4d82-b0ad-8d8e7ec551bf",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cushman & Wakefield.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Seagate Capital Construction",
+        "discovered": "2026-05-04 20:55:17.505387",
+        "description": "Construction",
+        "link": "/site/blog?uuid=fad3eb9c-b440-44c4-a87a-cb6a6376843b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Seagate Capital Construction.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Morning Star Tours",
+        "discovered": "2026-05-04 20:55:16.303435",
+        "description": "Journeys that can change lives",
+        "link": "Companies/morningstartours",
+        "magnet": null,
+        "screen": "screenshots/pear/Morning Star Tours.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vacaero.com",
+        "discovered": "2026-05-04 20:54:41.501577",
+        "description": "If the company's management does not reach an agreement with us within 4 days, we will publish 250 GB of the company's internal data.\n\nFounded in 1959, VAC AERO provides vacuum heat treating and thermal & paint coating services as well as vacuum furnace systems and controls to aerospace and high-tec…",
+        "link": "/h9lRRpRP4HlHCJHCTlsoNji9O37ffzuA/vacaero-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/vacaerocom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.cswindustrials.com",
+        "discovered": "2026-05-04 20:54:26.697228",
+        "description": "If the company's management does not contact us within 24 hours, we will publish 540 GB of the company's internal files. \n\nCSW Industrials, Inc. is a diversified industrial growth company that operates across contractor solutions, specialized reliability solutions, and engineered building solutions.…",
+        "link": "/l5Jje5j4PWevb1s9me0uaClwKujjwrFl/www-cswindustrials-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/wwwcswindustrialscom.png",
+        "group_name": "chaos",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Law Office of Steven R Smith",
+        "discovered": "2026-05-04 19:54:45.022152",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=690c7b94-e270-4f21-accc-ac0d00412b45",
+        "magnet": null,
+        "screen": "screenshots/qilin/Law Office of Steven R Smith.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Foxstone Financial",
+        "discovered": "2026-05-04 19:54:43.961739",
+        "description": "Finance",
+        "link": "/site/blog?uuid=24ddf74b-8961-4893-9626-a23625f970f4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Foxstone Financial.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Lexus",
+        "discovered": "2026-05-04 19:54:42.952737",
+        "description": "Automotive Parts",
+        "link": "/site/blog?uuid=cd437699-bc88-4ee5-b912-ccf5cd27dd96",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lexus.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Rizzuto Law Firm",
+        "discovered": "2026-05-04 19:54:35.651617",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=0eb30cc3-4ee4-4539-b451-cd8cfbc18eae",
+        "magnet": null,
+        "screen": "screenshots/qilin/Rizzuto Law Firm.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "General Hardware",
+        "discovered": "2026-05-04 19:54:20.265169",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=11f5cbf9-adbd-44bd-a28f-9fe40104edd4",
+        "magnet": null,
+        "screen": "screenshots/qilin/General Hardware.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Lonestar Truck Group & Tag Truck Center",
+        "discovered": "2026-05-04 18:54:27.480299",
+        "description": "https://www.tntxtruck.com\n\t\t\t\t\t\t\t\t\tLonestar Truck Group consists of multiple dealerships that sell new and used trucks and trailers, as well as providing service and parts. They work with a vast number of customers and businesses, yet they have failed to prioritize security. As a result, personal data of employees, contact information for the companies they work with, and a significant number of customer records have been leaked online. We are also presenting their confidential and financial documents for your review.",
+        "link": "http://ex55if4jgsdyi6do4gtyzpishq2tvwatjrhoclqcihxcsipam3uxrryd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Lonestar Truck Group & Tag Truck Center.png",
+        "group_name": "interlock",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Johnson & Johnson Innovative Medicine",
         "discovered": "2026-05-04 15:54:35.772830",
         "description": "Johnson & Johnson Innovative Medicine (formerly known as Janssen Pharmaceuticals) is the pharmaceutical division of the American corporation Johnson & Johnson, specializing in the development and production of revolutionary medicines. The company focuses on creating treatments for the most complex diseases, transforming the future of healthcare.-CAR-T Research\nhttps://www.jnj.com/innovativemedicine/",
