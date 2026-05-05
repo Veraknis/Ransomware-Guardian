@@ -1,5 +1,195 @@
 [
     {
+        "post_title": "Positiwise Infotech Pvt",
+        "discovered": "2026-05-05 21:56:11.868309",
+        "description": "Positiwise Software Pvt Ltd is a software development company based in India and...",
+        "link": "/leaks/69fa443b8280ceeb9ae16569",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Positiwise Infotech Pvt.png",
+        "group_name": "sinobi",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Celeris Networks",
+        "discovered": "2026-05-05 21:56:10.871407",
+        "description": "Celeris Networks is a business IT support provider based in Knoxville, specializ...",
+        "link": "/leaks/69fa46088280ceeb9ae17815",
+        "magnet": null,
+        "screen": "screenshots/sinobi/Celeris Networks.png",
+        "group_name": "sinobi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ovextech.com",
+        "discovered": "2026-05-05 21:55:46.835686",
+        "description": "Ovex Tech specializes in providing comprehensive BPO services and call center solutions, including inbound and outbound ...",
+        "link": "/blog/c4d13fb89574bba9e6b64412d1b369a26faecb336fc4710ba43d994468c915ef/",
+        "magnet": null,
+        "screen": "screenshots/krybit/ovextechcom.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Elken Sdn Bhd",
+        "discovered": "2026-05-05 18:44:43.734882",
+        "description": "MLM / health & beauty products company. ~16k emails extracted.",
+        "link": "/company/elken/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Elken Sdn Bhd.png",
+        "group_name": "bavacai",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Bandeirante Supermercados",
+        "discovered": "2026-05-05 18:44:42.729320",
+        "description": "Brazilian supermarket chain.",
+        "link": "/company/bandeirante-supermercados/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Bandeirante Supermercados.png",
+        "group_name": "bavacai",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Strategic Imports",
+        "discovered": "2026-05-05 18:44:41.791933",
+        "description": "Australian auto parts/batteries importer. Brands: Strategic Imports, Auto Parts Now, Discount Batteries Now. User: bstuart (Brad Stuart). QNAP NAS (CACHEDEV1_DATA).",
+        "link": "/company/strategic-imports/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Strategic Imports.png",
+        "group_name": "bavacai",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Magnolia (Israel)",
+        "discovered": "2026-05-05 18:44:40.831236",
+        "description": "Israeli jewelry company. Silver & accessories, participates in Vicenza jewelry fair (2025/2026). Sells via buyme.co.il gift cards. ~38k files, invoices in Hebrew (SI/IN/OV prefix).",
+        "link": "/company/magnolia-israel/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Magnolia (Israel).png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Trimble Inc / Gerrard Inc",
+        "discovered": "2026-05-05 18:44:39.895798",
+        "description": "Technology company Trimble (trimble.com) and Gerrard Inc (gerrardinc.com). ~18 Trimble email addresses.",
+        "link": "/company/trimble-gerrard/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Trimble Inc  Gerrard Inc.png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Atencio Engineering",
+        "discovered": "2026-05-05 18:44:38.911860",
+        "description": "Civil engineering & land surveying firm. Services: site plans, boundary surveys, OWTS (septic) design, fire line design, elevation certificates, flood plain analysis. Clients in Las Animas County, Pueblo County, Florence CO area.",
+        "link": "/company/atencio-engineering/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Atencio Engineering.png",
+        "group_name": "bavacai",
+        "sector": "Government"
+    },
+    {
+        "post_title": "SIT Group / Robusta",
+        "discovered": "2026-05-05 18:44:37.948488",
+        "description": "Italian company SIT Group (sitgroup.it) and Bulgarian Robusta (robusta.bg). Also abv.bg emails.",
+        "link": "/company/sitgroup-robusta/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/SIT Group  Robusta.png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Desert Christian Schools (DCS)",
+        "discovered": "2026-05-05 18:44:36.999334",
+        "description": "K-12 Christian school affiliated with First Baptist Church of Lancaster, CA. ADP payroll, DCFS childcare program, City of Lancaster Water Safety program. Financial docs: P&L, Balance Sheet, Trial Balance, 1099s. School Board minutes 2025.",
+        "link": "/company/dcs-lancaster/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Desert Christian Schools (DCS).png",
+        "group_name": "bavacai",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "CourtSmart",
+        "discovered": "2026-05-05 18:44:36.044240",
+        "description": "Court technology company. Domain courtsmart.com / COURTSMART2. Dev server: dev-rich20.courtsmart.com. Connections to JIS.org, nashville.org.",
+        "link": "/company/basahai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/CourtSmart.png",
+        "group_name": "bavacai",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Hathcock (Personal)",
+        "discovered": "2026-05-05 18:44:34.771582",
+        "description": "Personal comprehensive reports. Individuals: Noel Ray Hathcock, Trinity John Hathcock.",
+        "link": "/company/hathcock/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Hathcock (Personal).png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ActionAid / TACOSA",
+        "discovered": "2026-05-05 18:44:33.824565",
+        "description": "NGO sector. Domains: actionaid.org, tacosa.org.za, immigration.go.tz.",
+        "link": "/company/actionaid-tacosa/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/ActionAid  TACOSA.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Palmers Relocations",
+        "discovered": "2026-05-05 18:44:32.896880",
+        "description": "Australian international removals & relocation company. FIDI accredited, ISO 9001:2015 certified. Services: household moves, storage, customs, immigration (IMMI/VEVO). Operates Melbourne area (Pascoe Vale, Dandenong, Caulfield).",
+        "link": "/company/palmers-relocations/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Palmers Relocations.png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Académie de Montpellier / CSJM",
+        "discovered": "2026-05-05 18:44:31.948173",
+        "description": "French public school network. Domain CSJM.BEZIERS, part of Académie de Montpellier (ac-montpellier.fr). Occitanie region (laregion.fr). Teacher and admin staff credentials.",
+        "link": "/company/baiapai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Académie de Montpellier  CSJM.png",
+        "group_name": "bavacai",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Colegio María Inmaculada (CMI)",
+        "discovered": "2026-05-05 18:44:30.826321",
+        "description": "Catholic school in Moravia, Costa Rica. Domain cmi.local / mariainmaculada.ed.cr. Servers: CMI-DC01, CMI-APP, CMI-HTTP2, main-server1/2.",
+        "link": "/company/baratai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Colegio María Inmaculada (CMI).png",
+        "group_name": "bavacai",
+        "sector": "Education"
+    },
+    {
+        "post_title": "CEAGESP / Netfeirasp",
+        "discovered": "2026-05-05 18:44:29.907029",
+        "description": "Brazilian produce wholesale market network. Domain netfeirasp.ceagesp (CEAGESP). Also demarchibrasil.com.br accounts.",
+        "link": "/company/bajarai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/CEAGESP  Netfeirasp.png",
+        "group_name": "bavacai",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Raycolighting",
+        "discovered": "2026-05-05 18:44:27.407148",
+        "description": "Organization with 2 emails extracted. Domain: raycolighting.com",
+        "link": "/company/raycolighting/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Raycolighting.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "Arcelik",
         "discovered": "2026-05-05 16:13:10.713196",
         "description": "https://www.zoominfo.com/c/arelik-global/462472631 Stock Symbol\nARCLK Revenue $11.8 Billion Arcelik Global is a Turkish multinational household appliances manufacturer headquartered in Istanbul, Turkey. Founded in 1955 as a subsidiary of Koc Holding, the company has grown into a worldwide producer and marketer of consumer durables and consumer electronics. The company operates 46 production facilities across 14 countries. With approximately 55,000 employees globally, Arcelik maintains subsidiaries in 58 countries and provides goods and services in over 145 countries. 22 brands including Arcelik, Beko, Grundig, Blomberg, Arctic, Defy, Dawlance, Hotpoint, Indesit, Leisure, Singer, Voltas Beko, and ElektraBregenz.Confluence: 7,736 spaces, 16,371+ pages, 10,313+ attachments, with full technical documentation, internal rules, marketing, engineering specs, R&D results, quality manuals, and project docs across business units. Jira: 10,419 projects - ETC. Access broker - ADAPTAVIST LTD. Thanks",
@@ -338,115 +528,5 @@
         "screen": "screenshots/safepay/fital-treppenliftede.png",
         "group_name": "safepay",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Cushman & Wakefield",
-        "discovered": "2026-05-04 20:55:18.516345",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=52b8fa05-6098-4d82-b0ad-8d8e7ec551bf",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cushman & Wakefield.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Seagate Capital Construction",
-        "discovered": "2026-05-04 20:55:17.505387",
-        "description": "Construction",
-        "link": "/site/blog?uuid=fad3eb9c-b440-44c4-a87a-cb6a6376843b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Seagate Capital Construction.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Morning Star Tours",
-        "discovered": "2026-05-04 20:55:16.303435",
-        "description": "Journeys that can change lives",
-        "link": "Companies/morningstartours",
-        "magnet": null,
-        "screen": "screenshots/pear/Morning Star Tours.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "vacaero.com",
-        "discovered": "2026-05-04 20:54:41.501577",
-        "description": "If the company's management does not reach an agreement with us within 4 days, we will publish 250 GB of the company's internal data.\n\nFounded in 1959, VAC AERO provides vacuum heat treating and thermal & paint coating services as well as vacuum furnace systems and controls to aerospace and high-tec…",
-        "link": "/h9lRRpRP4HlHCJHCTlsoNji9O37ffzuA/vacaero-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/vacaerocom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.cswindustrials.com",
-        "discovered": "2026-05-04 20:54:26.697228",
-        "description": "If the company's management does not contact us within 24 hours, we will publish 540 GB of the company's internal files. \n\nCSW Industrials, Inc. is a diversified industrial growth company that operates across contractor solutions, specialized reliability solutions, and engineered building solutions.…",
-        "link": "/l5Jje5j4PWevb1s9me0uaClwKujjwrFl/www-cswindustrials-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/wwwcswindustrialscom.png",
-        "group_name": "chaos",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Law Office of Steven R Smith",
-        "discovered": "2026-05-04 19:54:45.022152",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=690c7b94-e270-4f21-accc-ac0d00412b45",
-        "magnet": null,
-        "screen": "screenshots/qilin/Law Office of Steven R Smith.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Foxstone Financial",
-        "discovered": "2026-05-04 19:54:43.961739",
-        "description": "Finance",
-        "link": "/site/blog?uuid=24ddf74b-8961-4893-9626-a23625f970f4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Foxstone Financial.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Lexus",
-        "discovered": "2026-05-04 19:54:42.952737",
-        "description": "Automotive Parts",
-        "link": "/site/blog?uuid=cd437699-bc88-4ee5-b912-ccf5cd27dd96",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lexus.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Rizzuto Law Firm",
-        "discovered": "2026-05-04 19:54:35.651617",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=0eb30cc3-4ee4-4539-b451-cd8cfbc18eae",
-        "magnet": null,
-        "screen": "screenshots/qilin/Rizzuto Law Firm.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "General Hardware",
-        "discovered": "2026-05-04 19:54:20.265169",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/blog?uuid=11f5cbf9-adbd-44bd-a28f-9fe40104edd4",
-        "magnet": null,
-        "screen": "screenshots/qilin/General Hardware.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Lonestar Truck Group & Tag Truck Center",
-        "discovered": "2026-05-04 18:54:27.480299",
-        "description": "https://www.tntxtruck.com\n\t\t\t\t\t\t\t\t\tLonestar Truck Group consists of multiple dealerships that sell new and used trucks and trailers, as well as providing service and parts. They work with a vast number of customers and businesses, yet they have failed to prioritize security. As a result, personal data of employees, contact information for the companies they work with, and a significant number of customer records have been leaked online. We are also presenting their confidential and financial documents for your review.",
-        "link": "http://ex55if4jgsdyi6do4gtyzpishq2tvwatjrhoclqcihxcsipam3uxrryd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Lonestar Truck Group & Tag Truck Center.png",
-        "group_name": "interlock",
-        "sector": "Technology"
     }
 ]
