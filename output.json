@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Panal Seguros S.A.",
+        "discovered": "2026-05-06 21:01:20.189361",
+        "description": "Insurance",
+        "link": "/site/blog?uuid=9c1ac04f-65e0-47bc-a78a-4f55e1340dc3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Panal Seguros SA.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Time-Cap Labs",
+        "discovered": "2026-05-06 21:01:20.176036",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=ae7d25a0-f7c7-4501-9333-106187fd4c6e",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Inox Market Service SpA",
+        "discovered": "2026-05-06 21:01:19.662407",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=ca1519cf-6ad1-4cc0-9adc-b9b5215a3cb2",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "BMTP",
+        "discovered": "2026-05-06 21:01:19.232704",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=d4384fb9-f35a-4aff-87a8-97cff99398f7",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Laclinic-Montreux",
+        "discovered": "2026-05-06 21:01:18.222306",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=5ba5dfba-f0d7-41d1-827a-b721740424f2",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Complastex.com",
+        "discovered": "2026-05-06 21:01:16.027116",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=46be7b3a-f1cd-41e6-9192-d061d7dce8ea",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Asphalt Specialists",
         "discovered": "2026-05-06 15:55:46.066769",
         "description": "Civil Engineering Construction",
@@ -208,195 +268,5 @@
         "screen": "screenshots/sinobi/Unre3d.png",
         "group_name": "sinobi",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Positiwise Infotech Pvt",
-        "discovered": "2026-05-05 21:56:11.868309",
-        "description": "Positiwise Software Pvt Ltd is a software development company based in India and...",
-        "link": "/leaks/69fa443b8280ceeb9ae16569",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Positiwise Infotech Pvt.png",
-        "group_name": "sinobi",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Celeris Networks",
-        "discovered": "2026-05-05 21:56:10.871407",
-        "description": "Celeris Networks is a business IT support provider based in Knoxville, specializ...",
-        "link": "/leaks/69fa46088280ceeb9ae17815",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Celeris Networks.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ovextech.com",
-        "discovered": "2026-05-05 21:55:46.835686",
-        "description": "Ovex Tech specializes in providing comprehensive BPO services and call center solutions, including inbound and outbound ...",
-        "link": "/blog/c4d13fb89574bba9e6b64412d1b369a26faecb336fc4710ba43d994468c915ef/",
-        "magnet": null,
-        "screen": "screenshots/krybit/ovextechcom.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Elken Sdn Bhd",
-        "discovered": "2026-05-05 18:44:43.734882",
-        "description": "MLM / health & beauty products company. ~16k emails extracted.",
-        "link": "/company/elken/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Elken Sdn Bhd.png",
-        "group_name": "bavacai",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Bandeirante Supermercados",
-        "discovered": "2026-05-05 18:44:42.729320",
-        "description": "Brazilian supermarket chain.",
-        "link": "/company/bandeirante-supermercados/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Bandeirante Supermercados.png",
-        "group_name": "bavacai",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Strategic Imports",
-        "discovered": "2026-05-05 18:44:41.791933",
-        "description": "Australian auto parts/batteries importer. Brands: Strategic Imports, Auto Parts Now, Discount Batteries Now. User: bstuart (Brad Stuart). QNAP NAS (CACHEDEV1_DATA).",
-        "link": "/company/strategic-imports/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Strategic Imports.png",
-        "group_name": "bavacai",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Magnolia (Israel)",
-        "discovered": "2026-05-05 18:44:40.831236",
-        "description": "Israeli jewelry company. Silver & accessories, participates in Vicenza jewelry fair (2025/2026). Sells via buyme.co.il gift cards. ~38k files, invoices in Hebrew (SI/IN/OV prefix).",
-        "link": "/company/magnolia-israel/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Magnolia (Israel).png",
-        "group_name": "bavacai",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Trimble Inc / Gerrard Inc",
-        "discovered": "2026-05-05 18:44:39.895798",
-        "description": "Technology company Trimble (trimble.com) and Gerrard Inc (gerrardinc.com). ~18 Trimble email addresses.",
-        "link": "/company/trimble-gerrard/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Trimble Inc  Gerrard Inc.png",
-        "group_name": "bavacai",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Atencio Engineering",
-        "discovered": "2026-05-05 18:44:38.911860",
-        "description": "Civil engineering & land surveying firm. Services: site plans, boundary surveys, OWTS (septic) design, fire line design, elevation certificates, flood plain analysis. Clients in Las Animas County, Pueblo County, Florence CO area.",
-        "link": "/company/atencio-engineering/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Atencio Engineering.png",
-        "group_name": "bavacai",
-        "sector": "Government"
-    },
-    {
-        "post_title": "SIT Group / Robusta",
-        "discovered": "2026-05-05 18:44:37.948488",
-        "description": "Italian company SIT Group (sitgroup.it) and Bulgarian Robusta (robusta.bg). Also abv.bg emails.",
-        "link": "/company/sitgroup-robusta/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/SIT Group  Robusta.png",
-        "group_name": "bavacai",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Desert Christian Schools (DCS)",
-        "discovered": "2026-05-05 18:44:36.999334",
-        "description": "K-12 Christian school affiliated with First Baptist Church of Lancaster, CA. ADP payroll, DCFS childcare program, City of Lancaster Water Safety program. Financial docs: P&L, Balance Sheet, Trial Balance, 1099s. School Board minutes 2025.",
-        "link": "/company/dcs-lancaster/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Desert Christian Schools (DCS).png",
-        "group_name": "bavacai",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CourtSmart",
-        "discovered": "2026-05-05 18:44:36.044240",
-        "description": "Court technology company. Domain courtsmart.com / COURTSMART2. Dev server: dev-rich20.courtsmart.com. Connections to JIS.org, nashville.org.",
-        "link": "/company/basahai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/CourtSmart.png",
-        "group_name": "bavacai",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Hathcock (Personal)",
-        "discovered": "2026-05-05 18:44:34.771582",
-        "description": "Personal comprehensive reports. Individuals: Noel Ray Hathcock, Trinity John Hathcock.",
-        "link": "/company/hathcock/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Hathcock (Personal).png",
-        "group_name": "bavacai",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ActionAid / TACOSA",
-        "discovered": "2026-05-05 18:44:33.824565",
-        "description": "NGO sector. Domains: actionaid.org, tacosa.org.za, immigration.go.tz.",
-        "link": "/company/actionaid-tacosa/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/ActionAid  TACOSA.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Palmers Relocations",
-        "discovered": "2026-05-05 18:44:32.896880",
-        "description": "Australian international removals & relocation company. FIDI accredited, ISO 9001:2015 certified. Services: household moves, storage, customs, immigration (IMMI/VEVO). Operates Melbourne area (Pascoe Vale, Dandenong, Caulfield).",
-        "link": "/company/palmers-relocations/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Palmers Relocations.png",
-        "group_name": "bavacai",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Académie de Montpellier / CSJM",
-        "discovered": "2026-05-05 18:44:31.948173",
-        "description": "French public school network. Domain CSJM.BEZIERS, part of Académie de Montpellier (ac-montpellier.fr). Occitanie region (laregion.fr). Teacher and admin staff credentials.",
-        "link": "/company/baiapai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Académie de Montpellier  CSJM.png",
-        "group_name": "bavacai",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Colegio María Inmaculada (CMI)",
-        "discovered": "2026-05-05 18:44:30.826321",
-        "description": "Catholic school in Moravia, Costa Rica. Domain cmi.local / mariainmaculada.ed.cr. Servers: CMI-DC01, CMI-APP, CMI-HTTP2, main-server1/2.",
-        "link": "/company/baratai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Colegio María Inmaculada (CMI).png",
-        "group_name": "bavacai",
-        "sector": "Education"
-    },
-    {
-        "post_title": "CEAGESP / Netfeirasp",
-        "discovered": "2026-05-05 18:44:29.907029",
-        "description": "Brazilian produce wholesale market network. Domain netfeirasp.ceagesp (CEAGESP). Also demarchibrasil.com.br accounts.",
-        "link": "/company/bajarai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/CEAGESP  Netfeirasp.png",
-        "group_name": "bavacai",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Raycolighting",
-        "discovered": "2026-05-05 18:44:27.407148",
-        "description": "Organization with 2 emails extracted. Domain: raycolighting.com",
-        "link": "/company/raycolighting/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Raycolighting.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
     }
 ]
