@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "Asphalt Specialists",
+        "discovered": "2026-05-06 15:55:46.066769",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=27c7dd70-6534-4e2c-b794-168ccf525eb7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Asphalt Specialists.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Le Maire de QUIBERON",
+        "discovered": "2026-05-06 15:55:44.536312",
+        "description": "Government",
+        "link": "/site/blog?uuid=0b78e764-e42c-4f41-aec4-09706a41af09",
+        "magnet": null,
+        "screen": "screenshots/qilin/Le Maire de QUIBERON.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Mundo Amtae",
+        "discovered": "2026-05-06 15:13:58.797509",
+        "description": "mundoamtae.com zoominfo.com/c/mundo-amtae/372405633 Mundo AMTAE (Asociacion Mutual de Trabajadores Estatales) is one of Argentina's top 5 mutual aid organizations, founded in 1987 and headquartered at Lavalle 3155, Buenos Aires. With over 30 years of experience and 100,000 members spread across 20 branches nationwide, the organization provides a broad range of social, health, and financial services to state workers, retirees, and the general public. Its core offerings include medical consultations across all specialties, dental care, clinical analysis, physiotherapy, home medical visits, 24/7 ambulance service, and optical coverage. AMTAE also offers loan programs and financial assistance, with tiered membership plans (Plata, Dorado, Platino) covering varying levels of healthcare and personal accident protection",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Nrt India",
+        "discovered": "2026-05-06 15:01:06.986200",
+        "description": "nrtindia.com zoominfo.com/c/nrt-india/372321597 NRT India is a premier IIT-JEE and NEET coaching institute headquartered in Lucknow, Uttar Pradesh, India. It was originally founded in 1997 by Shree Indu Shekhar Shukla under the name \"NRT,\" and re-established on August 30–31, 2010 by Sir A.N. Pandey, who previously served as Head of Department of Physics at the same institute. The institute now operates study centers in Lucknow, Barabanki, Dehradun, and Pratapgarh",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Da Guan Technology",
+        "discovered": "2026-05-06 15:01:06.003371",
+        "description": "daguan-tech.com.tw Da Guan Technology serves as the official distributor of two major brands: Mitsubishi Electric (Japan) and Lifegear (Taiwan) — offering a full range of products including heat recovery ventilators (HRV), bathroom warm-air dryers, ultra-quiet exhaust fans, circulation fans, and fresh-air systems. Their primary sales channels include construction companies, interior designers, plumbing distributors, and premium bathroom retailers",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Riggotts",
+        "discovered": "2026-05-06 15:01:05.053956",
+        "description": "riggott.co.uk zoominfo.com/c/riggotts--co-ltd/345701355 Riggotts (Riggott and Company Limited) is one of the UK's leading line marking and surface coating contractors, founded on 2 November 1994 by brothers Nick and Darren Riggott. Headquartered in Tuxford, Newark, Nottinghamshire, the company has grown to operate more than 50 specialist teams working 24/7 across the entire United Kingdom. Estimated annual turnover stands at approximately 8 million",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "IPE",
+        "discovered": "2026-05-06 15:01:04.094228",
+        "description": "ipesrl.com zoominfo.com/c/ipe-srl/372826031 IPE Technologies S.r.l. is an Italian company and the flagship entity of the IPE Group, specializing in the distribution of sealed lead-acid batteries, battery chargers, shielded cables, and Panasonic electronic components across Italy. Active in the sector since 1986, the company distributes premium brands such as Yuasa and Panasonic, alongside its own proprietary brands Remco and RemcoX. Its client base includes alarm system installers, UPS maintenance companies, specialized retailers, and industrial automation and telecommunications firms",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Gator Cases",
+        "discovered": "2026-05-06 15:01:00.669454",
+        "description": "gatorcases.com zoominfo.com/c/gator-cases/20824928 Gator Cases is a leading American manufacturer of protective cases, bags, stands, and accessories for musicians and audio/visual professionals, founded in 2000 by father-daughter team Jerry Freed and Crystal Morris in Tampa, Florida. Starting with a small lineup of molded plastic guitar cases at the Summer NAMM show, the company has grown to offer over 1,000 product solutions across categories including pro audio, IT, DJ, percussion, band instruments, and AV equipment. With an annual revenue of approximately 27 million and ~96 employees, Gator operates a major 180,000 sq. ft. manufacturing and distribution facility in Columbia City, Indiana, and backs all products with a Limited Lifetime Warranty",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "DATAMATIC",
+        "discovered": "2026-05-06 15:00:59.647734",
+        "description": "datamatic.it rocketreach.co/datamatic-spa-profile_b54e4ebcf94229d2 Datamatic S.p.A. is an Italian company headquartered in Milan, operating in the consumer electronics sector with an estimated revenue of $50–100 million and a workforce of 251–500 employees. The company functions as a major distributor and sales organization, supported by over 200 staff dedicated to sales, logistics, and partner support for its network of distributors. Its published company profile positions it as a reliable and dynamic organization focused on delivering strong commercial and operational support to trade partners across Italy and beyond",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "C2O Architects",
+        "discovered": "2026-05-06 15:00:58.719827",
+        "description": "c2o-architects.be zoominfo.com/c/c2o-architects/451291685 C2O Architects (C2O-Architects bv) is a Belgian architectural and urban planning firm founded on June 29, 2000, headquartered at Nieuwstraat 26, Asse, Flemish Brabant, Belgium. The studio is led by Marnik Dehaen, who also serves as Chairman of the Flemish Council of the Order of Architects, and co-owned by Erna Polspoel. The firm works across a wide range — from small private renovations and residential expansions to large-scale public projects — with a multidisciplinary team that adds value through expertise in architecture, urban design, and spatial planning. A notable project includes the award-winning Asse Landform complex (2014), a regional fire station and youth center designed in collaboration with ORG Permanent Modernity",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "FMS",
+        "discovered": "2026-05-06 15:00:57.566420",
+        "description": "fmsinc.com zoominfo.com/c/fms-inc/14729979 FMS, Inc. is a privately held American software company founded in 1986 by Luke Chung (Harvard graduate), headquartered in Vienna, Virginia, near Washington DC. The company is the world's leading developer of tools for Microsoft Access, and a top vendor for SQL Server, Visual Studio .NET, and Visual Basic communities, with tens of thousands of customers across 100+ countries, including 90 of the Fortune 100 and every US federal government department. FMS is a Microsoft Gold Certified Partner, has won over 40 industry awards, and is recognized as one of the SD Times Top 100 most innovative software firms. It also offers custom software development consulting and its own Sentinel Visualizer link analysis product, used by intelligence and law enforcement agencies",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Clark Fixture Technologies",
+        "discovered": "2026-05-06 15:00:55.562473",
+        "description": "clarkfixtures.com zoominfo.com/c/clark-fixture-technologies-inc/31954083 Clark Fixture Technologies, Inc. is a privately held American manufacturer founded in 1978, headquartered at Bowling Green, Ohio, with an estimated annual revenue of $42.9 million and a staff of 51–200 employees. The company designs, manufactures, and inspects quality check fixtures and gages for bent tube, hose, wire, and weld products, serving industries including automotive, aerospace, space, medical, and agriculture. Clark Fixtures operates globally with facilities in the US, Mexico (Saltillo), and India (Bangalore), servicing clients across 11 countries, including a prestigious roster of aerospace and space clients who rely on its orbital weld tooling for propulsion and life support assemblies. It also offers CMM inspection services and advanced automated robotic cell fixture solutio",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Manhattan Fire Safety Corp",
+        "discovered": "2026-05-06 15:00:48.026780",
+        "description": "mfsnyc.com rocketreach.co/mfs-nyc-profile_b4779b17fc5cb39e Manhattan Fire & Security (MFS) is a licensed fire alarm and security services firm based in New York City, with over 15 years of experience serving commercial and industrial clients across NYC and surrounding areas. The company employs NICET-certified engineers and licensed fire alarm contractors who design, install, inspect, and maintain fire alarm and ARC (Auxiliary Radio Coverage) systems fully in compliance with FDNY requirements. Beyond fire safety, MFS also provides IT communication systems, structured cabling, and security solutions, offering 24/7 monitoring and maintenance to eliminate downtime and ensure continuous operational safety for businesse",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Worralls",
+        "discovered": "2026-05-06 15:00:47.003992",
+        "description": "worrall.co.nz W.H. Worrall & Co. Limited (Worralls) is New Zealand's leading distributor of world-class cycling and sporting brands, with roots going back to the early 1900s when it was founded by W.H. Worrall in Auckland. Today, the company is headquartered at 12 Hugo Johnston Drive, Penrose, Auckland, and remains a family-linked business formally registered since May 27, 1988. Worralls distributes an impressive portfolio of premium brands including Bell Helmets, Campagnolo, SRAM, Continental, Rock Shox, Cane Creek, Blackburn, San Marco, and Tacx, catering to both professional cyclists and recreational riders. The company has historically been a pioneer in the NZ cycling market — it was among the first to have Japanese manufacturers produce bicycles to English specifications",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Aerodiagnostics",
+        "discovered": "2026-05-06 14:55:15.530919",
+        "description": "",
+        "link": "/blog/disclosures/69f845818f1d14b743454e7c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Aerodiagnostics.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "WOHA",
         "discovered": "2026-05-06 10:54:27.876226",
         "description": "woha.net - WOHA is a renowned Singapore-based architectural practice founded in 1994 by Wong Mun Summ and Richard Hassell. The firm is globally recognized for its integration of environmental and social principles into high-density urban settings.",
@@ -248,205 +398,5 @@
         "screen": "screenshots/bavacai/Raycolighting.png",
         "group_name": "bavacai",
         "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Arcelik",
-        "discovered": "2026-05-05 16:13:10.713196",
-        "description": "https://www.zoominfo.com/c/arelik-global/462472631 Stock Symbol\nARCLK Revenue $11.8 Billion Arcelik Global is a Turkish multinational household appliances manufacturer headquartered in Istanbul, Turkey. Founded in 1955 as a subsidiary of Koc Holding, the company has grown into a worldwide producer and marketer of consumer durables and consumer electronics. The company operates 46 production facilities across 14 countries. With approximately 55,000 employees globally, Arcelik maintains subsidiaries in 58 countries and provides goods and services in over 145 countries. 22 brands including Arcelik, Beko, Grundig, Blomberg, Arctic, Defy, Dawlance, Hotpoint, Indesit, Leisure, Singer, Voltas Beko, and ElektraBregenz.Confluence: 7,736 spaces, 16,371+ pages, 10,313+ attachments, with full technical documentation, internal rules, marketing, engineering specs, R&D results, quality manuals, and project docs across business units. Jira: 10,419 projects - ETC. Access broker - ADAPTAVIST LTD. Thanks",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Media Consulting",
-        "discovered": "2026-05-05 16:13:09.701761",
-        "description": "mconweb.it zoominfo.com/c/media-consulting-srl/372633129 Media Consulting is an Italian web agency based in Cesena that designs and develops custom responsive websites. They offer a full range of digital services including Social Media Marketing, Web Marketing (Google Ads, Email Marketing, Analytics), and graphic design. The agency also provides web marketing training for teams and assists businesses in accessing public funding grants",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Keretapi Tanah",
-        "discovered": "2026-05-05 16:13:08.692355",
-        "description": "ktmb.com.my zoominfo.com/c/keretapi-tanah-melayu-berhad/21365008 KTMB (Keretapi Tanah Melayu Berhad) is Malaysia's largest and oldest railway company, with a rail network spanning 1,699 km across Peninsular Malaysia, extending into Singapore and Thailand. It operates multiple services including KTM Komuter (urban commuter trains since 1995), ETS electric intercity trains, and diesel-powered KTM Intercity trains. The company was privatized in 1992 and today offers online ticketing via its website and mobile app, with a QR-code boarding system",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Triquim",
-        "discovered": "2026-05-05 16:13:07.710235",
-        "description": "triquim.com.ar zoominfo.com/c/triquim-sa/430429498 TRIQUIM S.A. is an Argentine pharmaceutical manufacturer founded in 1980 and headquartered in Tortuguitas, Buenos Aires, that has dedicated over 40 years to the synthesis and supply of Active Pharmaceutical Ingredients (APIs) for human and veterinary use. The company operates as a CMO/CDMO partner, offering custom API development, contract manufacturing, regulatory services, containment, and analytical services to pharma clients worldwide. TRIQUIM holds certifications from Brazil's ANVISA and Mexico's COFEPRIS, and supplies clients across North America, Europe, and emerging markets with a portfolio of 16 pharmaceutical products including Benfotiamine, Bosentan, and Clonixinal",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Engineered Advantage",
-        "discovered": "2026-05-05 16:13:06.700318",
-        "description": "eapsc.net zoominfo.com/c/engineered-advantage/1292942990 Engineered Advantage, PSC (EA) is a multidisciplinary architecture and engineering (A/E) firm founded in 2011 and headquartered in San Juan, Puerto Rico, serving both public and private sector clients. The company's expertise spans architecture, civil and structural engineering, forensic engineering, water resources, field inspections, damage assessments, and construction management. EA operates across Puerto Rico, Florida, and the U.S. Virgin Islands, and notably provided post-hurricane recovery engineering services following Hurricanes Irma and Maria in St. Thomas, St. Croix, and St. Maarten",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "The Modern Flour Mill",
-        "discovered": "2026-05-05 16:13:05.695676",
-        "description": "modernflourmills.com zoominfo.com/c/the-modern-flour-mills-and-macaroni-factories-co/425333381 Modern Flour Mills & Macaroni Factories Co. (MFM) is a diversified cereal processor founded in 1949 and headquartered in Amman, Jordan, with a workforce of 201–500 employees. The company operates four main production plants — wheat flour milling, pasta, snack foods, and bakery ingredients — and notably opened the first pasta factory in the entire Middle East in 1967. Its products are sold under well-known regional brands: Al-Ghazal (flour & pasta), Suprema/Barakeh (pasta), MFM (specialty flour & baking mixes), and Samar (snacks), with co-packing and private labeling available for export markets",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "East",
-        "discovered": "2026-05-05 16:13:04.693671",
-        "description": "east-inc.jp zoominfo.com/c/east/5000054099 East Inc. is a Japanese company headquartered in Tokyo that provides comprehensive outsourcing services for commercial facilities — shopping malls, outlet parks, and office complexes — covering everything from day-to-day operations to system development, website management, and information services. The company has an impressive track record of over 800 commercial facilities nationwide across Japan, with clients including Roppongi Hills, Nihonbashi Takashimaya S.C., Mitsui Outlet Parks, and Ebisu Garden Place. Since 2007, East Inc. has also been supporting Japanese companies expanding into China, offering systems and operational know-how for overseas operations",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Millennium Partners",
-        "discovered": "2026-05-05 16:13:01.741007",
-        "description": "millenniumptrs.com zoominfo.com/c/millennium-partners-inc/483051874 Millennium Partners is a premier luxury real estate developer founded in 1991 and headquartered in New York City, with over three decades of transforming urban neighborhoods through landmark mixed-use developments in gateway cities such as New York, Boston, San Francisco, and Washington D.C.. The company has pioneered the luxury branded residential experience by forging first-of-their-kind partnerships with Ritz-Carlton and Four Seasons, and today owns a portfolio worth over $5 billion encompassing 3,200+ condominiums, 10 hotels, 2 million sq ft of office space, and 1 million sq ft of retail. In 2023, Millennium Partners opened Winthrop Center in Boston — the world's largest Passive House office building — setting a new global benchmark for sustainability and human-centered design",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Ontario Physiotherapy Association",
-        "discovered": "2026-05-05 16:13:00.789089",
-        "description": "opa.on.ca zoominfo.com/c/ontario-physiotherapy-association/130548231 The Ontario Physiotherapy Association (OPA) is a non-profit, physiotherapist-led professional association representing over 5,500 physiotherapists, physiotherapist assistants (PTAs), and students across Ontario, Canada. Its core mission is to provide leadership, advocacy, professional development, and career support to ensure accessible, high-quality physiotherapy services throughout the province. Founded over 60 years ago, OPA has a well-documented history of advocacy wins — from expanding PT scopes of practice to supporting virtual care access and removing referral requirements from physicians",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Levante Living",
-        "discovered": "2026-05-05 16:12:59.824899",
-        "description": "levanteliving.com zoominfo.com/c/levante-living-lp/388951109 Levante Living is a Canadian-owned senior living enterprise founded in 2016 by Michael Petersen and Jim MacDonald, and headquartered in Toronto, Ontario, focused on acquiring, managing, and redeveloping senior housing across North America. The company currently operates 24 retirement residences across Ontario, employs over 600 team members, and manages approximately 1,600 investors with over $175 million in senior living assets. Its service offerings span the full care spectrum — independent living, assisted living, memory care, respite care, and long-term care — guided by the values of dignity, compassion, integrity, and excellence",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Kasapreko",
-        "discovered": "2026-05-05 16:12:58.855035",
-        "description": "kasapreko.com zoominfo.com/c/kasapreko-company-ltd/113558803 Kasapreko PLC is Ghana's leading herbal beverage manufacturer, founded in 1989 by Dr. Kwabena Adjei in a garage in Nungua, Accra, and today grown into a multinational company with over 500 employees, 100+ product SKUs, and exports to 16 countries worldwide. The company pioneered the first scientifically formulated herbal-based alcoholic beverage in Ghana — Alomo Bitters — which became its flagship product and was named by CNN Money as one of the top 5 emerging brands in the world in 2013. ISO 22000:2005 certified and a member of the prestigious Ghana Club 100, Kasapreko produces bitters, whisky, gin, liqueur, brandy, wine, soft drinks, and water, with active expansion into East Africa including Kenya",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Marutake",
-        "discovered": "2026-05-05 16:12:57.852830",
-        "description": "kk-marutake.co.jp zoominfo.com/c/marutake/561552308 Marutake Co., Ltd. is a comprehensive pharmaceutical and medical wholesale company founded on June 15, 1925, and headquartered in Niigata City, Japan, with a 100-year history of connecting manufacturers to healthcare providers across the region. The company distributes prescription pharmaceuticals, medical devices, clinical diagnostic reagents, hygiene materials, nursing care products, and healthcare IT systems to hospitals, clinics, and pharmacies, primarily across Niigata, Yamagata, Miyagi, Akita, Tokyo, and Gunma prefectures. With a workforce of 477 employees and capital of ¥100 million, Marutake positions itself as a \"supporter of the medical frontline,\" ensuring stable supply of essential medical commodities to local communities",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Mediaplex",
-        "discovered": "2026-05-05 16:12:56.890331",
-        "description": "mediaplexcnc.com zoominfo.com/c/mediaplex-inc/465166226 Mediaplex sas is a young, dynamic Italian manufacturing company based in Casoria (Naples, Italy), specializing in CNC machining, cutting, and fabrication of plexiglass and plastic materials in general. The company serves clients needing precision plastic components, decorative elements, displays, and custom-made plastic parts produced via CNC routing, laser cutting, and thermoforming. Rated 4.5/5 by customers, Mediaplex is regarded as a reliable plastic fabrication partner in the Campania region of Italy",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "La Kaffa International",
-        "discovered": "2026-05-05 16:12:55.893751",
-        "description": "lakaffagroup.com zoominfo.com/c/la-kaffa-international-co-ltd/426003975 La Kaffa International is a publicly listed Taiwanese multinational food and beverage group (Taiwan Stock Exchange, code: 2732), founded in 2004 and headquartered in Zhubei City, Hsinchu County, Taiwan, with over 663 employees and annual revenues around $46 million. The company is best known as the parent brand of Chatime — the world-famous bubble tea chain expanded to 50+ countries across 6 continents, making it the top takeout tea brand in Australia, Southeast Asia, and beyond. Beyond Chatime, La Kaffa manages a multi-brand portfolio of 9+ F&B concepts including ZenQ Dessert, Bake Code Bakery, ChunSun Cake, La Kaffa Cafe, Wagokoro Tonkatsu, and Osaka Ohsho Taiwan, with over 1,100 outlets in China alone",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Farmers Association of Iceland",
-        "discovered": "2026-05-05 16:12:54.899441",
-        "description": "bondi.is Farmers Association of Iceland, is Iceland's primary agricultural interest organization representing approximately 3,000 people employed in farming and agriculture-related jobs across the country. The association acts as the official advocate for Icelandic farmers in public forums, protecting their interests in matters of policy, economics, and sustainability, while also developing climate action roadmaps for sustainable farm management. Headquartered in Borgartún 25 in Reykjavík, BÍ publishes agricultural statistics, supports farm productivity improvement, and bridges the gap between society and food producers",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "GRANDHOME",
-        "discovered": "2026-05-05 15:55:46.466741",
-        "description": "grandhomemart.com - GRANDHOME is a leading Thai retailer specializing in construction materials, home decor, and furnishing products. Established in 1973, it has grown into a major hub for high-quality tiles, sanitary ware, and kitchen innovations",
-        "link": "/post/43f2c014903ba92e7447d507f040296f",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/GRANDHOME.png",
-        "group_name": "lamashtu",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Cazh.id",
-        "discovered": "2026-05-05 15:20:08.909589",
-        "description": "- User DB: 300,000 Users (Email, Hash, Phone, Address, DOB) ...",
-        "link": "#Cazh.id",
-        "magnet": null,
-        "screen": "screenshots/icarus/Cazhid.png",
-        "group_name": "icarus",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "EXPEDITOR",
-        "discovered": "2026-05-05 14:56:25.771267",
-        "description": "",
-        "link": "/blog/disclosures/69f424de8f1d14b743e44b1e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/EXPEDITOR.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ahorramas",
-        "discovered": "2026-05-05 13:57:04.967836",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=d9c05d3b-e059-44fd-b5ff-e542020cd69b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ahorramas.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "brittanyresidential.com (USA, Ohio)",
-        "discovered": "2026-05-05 13:57:01.803362",
-        "description": "At Brittany Residential, Inc., we believe in creating a world where individuals with developmental disabilities are supported, valued, and empowered to live fulfilling lives. Our dedicated team provides compassionate, person-centered care that...",
-        "link": "/BRI/index.html",
-        "magnet": null,
-        "screen": "screenshots/ms13-089/brittanyresidentialcom (USA, Ohio).png",
-        "group_name": "ms13-089",
-        "sector": "Unknown"
     }
 ]
