@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "Exco Technologies",
+        "discovered": "2026-05-08 17:54:08.827586",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=12342335-f1a3-4d9c-9fc1-5737b77cd64d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Exco Technologies.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Imex International",
+        "discovered": "2026-05-08 17:54:07.845503",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=8b23f095-b6b6-4ab4-9be8-07fa4cc59125",
+        "magnet": null,
+        "screen": "screenshots/qilin/Imex International.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Greenwoods Dental Centre",
+        "discovered": "2026-05-08 17:53:47.702152",
+        "description": "Greenwoods Dental & Surgical Centre has been a cornerstone of dental care in Winnipeg.We will upload 90gb of corporate data soon. Detailed employee personal information (passport, DLs and other personal information), financials, patient information, payment details, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Réseau Radiologique Romand",
+        "discovered": "2026-05-08 17:53:46.720442",
+        "description": "3R - R©seau Radiologique Romand is a Swiss medical imaging network that helps patients get clear, comfortable medical scans. They work with local hospitals and medical groups, using advancedtechnology to quickly share detailed images with doctors.We will upload 48gb of corporate data soon. Detailed employee personal information (passport, DLs, IDs and other personal information), patient information (phone, addresses, medical info and so on), payment details, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Zojirushi",
+        "discovered": "2026-05-08 16:55:48.790083",
+        "description": "Zojirushi specializes in high-quality home appliances, offering a range of products including rice cookers, water boilers and warmers, breadmakers, coffee makers, and various vacuum insulated containers.We will upload 38gb of corporate data soon. Employee personal information (passport and other docs scans), detailed financials, projects, contracts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "McCarthy",
+        "discovered": "2026-05-08 16:16:09.539113",
+        "description": "mccarthyinc.com McCarthy, Inc., founded in 1955 and based in Savannah, Georgia, specializes in supplying metal doors and frames, wood doors, builder's hardware, toilet partitions, signage, louvers, and specialty accessories. The company serves diverse industries including healthcare, education, commercial, government, manufacturing, and hospitality sectors across the region. McCarthy provides comprehensive products and services from project inception through completion, focusing on building lasting relationships with project teams to ensure utmost client satisfaction.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Education"
+    },
+    {
+        "post_title": "VeriCon",
+        "discovered": "2026-05-08 16:16:08.310973",
+        "description": "vericon.nl VeriCon is an independent structural engineering consultancy firm based in Veldhoven, Netherlands, founded over 20 years ago by Jos Hoonhout. The company specializes in designing, calculating, and drawing constructions for civil and utility construction projects. VeriCon is active in BIM and industrial building, with particular expertise in prefabricated concrete and steel constructions. The firm distinguishes itself by integrating innovative solutions into structural designs and providing clients with additional information about constructive elements and building materials beyond standard deliverables.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "KUPER",
+        "discovered": "2026-05-08 16:16:07.222088",
+        "description": "kuper.de Heinrich KUPER GmbH is an internationally active medium-sized company headquartered in Rietberg, Germany, with approximately 120–190 employees. The company specializes in developing and manufacturing machines and systems for veneer processing, solid wood working, automated packaging technology, and special-purpose woodworking equipment. As a quality leader in veneer and wood processing technology, KUPER serves customers worldwide with individualized solutions and comprehensive service support.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "TDS",
+        "discovered": "2026-05-08 16:16:06.069845",
+        "description": "tdstelecom.com TDS Telecommunications LLC, founded in 1969 and headquartered in Madison, Wisconsin, is a leading U.S. telecommunications provider serving residential and business customers across urban, suburban, and rural communities. The company delivers high-speed fiber-optic internet (up to 8 Gigabit), IP-based TV entertainment, and traditional phone services, alongside business solutions like VoIP, dedicated internet, and data networking. With over 1.1 million connections, TDS is a wholly owned subsidiary of Telephone and Data Systems, Inc. (NYSE: TDS), committed to enhancing communities through reliable, innovative communications technology.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Misr Chemical Industries",
+        "discovered": "2026-05-08 16:16:04.598154",
+        "description": "mci.com.eg Misr Chemical Industries Co. (MCI), founded in 1959 and headquartered in Alexandria, Egypt, is a publicly listed chemical manufacturer on the Egyptian Exchange (EGX). As the oldest Egyptian producer of liquid caustic soda, chlorine gas, and derivatives, the company specializes in manufacturing chemicals including hydrochloric acid, sodium hydroxide solutions, and compressed hydrogen for domestic and regional markets. MCI serves industrial clients across Egypt and the Middle East, focusing on meeting local demand while exporting surplus production to support regional chemical supply chains.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "DermaPharm",
+        "discovered": "2026-05-08 15:41:45.081655",
+        "description": "dermapharm.dk DermaPharm A/S is a 100% Danish-owned skincare company founded in 1980, specializing in mild, eco-certified, and allergy-friendly personal care products. Headquartered in Fårup, Denmark, they operate a 10,000 m production facility and serve as both a brand owner (Derma) and a full-service private label manufacturer for third parties The company is a market leader in Nordic suncare and a trusted partner of the Danish Cancer Society",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Hillside Lumber",
+        "discovered": "2026-05-08 15:41:44.146980",
+        "description": "hillsidelumber.com Hillside Lumber is a family-owned full-service building materials supplier established in 1979, based in Westbrook, Maine. The company serves builders, contractors, and DIY enthusiasts throughout Southern Maine with high-quality lumber, saw mill products, kitchen design, and building supplies. With 38 employees, they provide professional service to both construction professionals and homeowners.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "DEVCO",
+        "discovered": "2026-05-08 15:41:43.116825",
+        "description": "devco.pl DEVCO Sp. z o.o. is a Polish real estate company established in 1997, headquartered in Wroclaw at ul. Strzegomska 46-56. The company specializes in renting office and warehouse spaces, notably operating the Wroclawski Park Biznesu (Wroclaw Business Park). Their mission is to create comfortable, inspiring, and business-friendly work environments for tenants.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "CHX Express",
+        "discovered": "2026-05-08 15:41:42.207082",
+        "description": "chxpress.com.ve C.H. Express C.A. is a Venezuelan transportation and logistics company with over 20 years of experience, headquartered in San Diego, Carabobo. The company specializes in national cargo transportation, package delivery services, and light cargo consolidation, covering the entire Venezuelan territory. With a strategic location, modern fleet, and large warehouse facilities, they ensure fast, reliable deliveries and efficient logistics solutions for various industries across the country.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Arizona Professional Painting",
+        "discovered": "2026-05-08 15:41:41.244555",
+        "description": "azpropaint.com Arizona Professional Painting is a family-owned and operated commercial and industrial painting contractor established in 1994, based in Phoenix, Arizona. The company specializes in diverse sectors including data centers, healthcare facilities, sports facilities, industrial projects, and tenant improvements across the state. With SBE, WBE, MBE, and DBE certifications, they maintain an exceptional safety record with a .66 EMR rating and zero recordable on-the-job incidents. Their experienced team provides comprehensive interior and exterior painting, industrial coatings, floor coatings, and ongoing facility maintenance services.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
         "post_title": "Stuf Storage",
         "discovered": "2026-05-08 06:53:27.549990",
         "description": "",
@@ -138,675 +288,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Legal"
-    },
-    {
-        "post_title": "Jacobs Doland Beer",
-        "discovered": "2026-05-07 16:55:04.440635",
-        "description": "Jacobs Doland Beer (JDB) is a specialized foodservice design firm based in New York City, focusing on foodservice consulting for various projects across the country. The firm has worked on notable projects such as Eleven Madison Park, Mutual of America, and several food halls in New York City.We will upload 170gb of corporate data soon. Employee personal information, client documents (DOB, name, address and so on), financials, credit card statements, contracts and agreements, NDAs, internal confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Grau GmbH",
-        "discovered": "2026-05-07 16:55:02.788755",
-        "description": "Grau GmbH is a Retail, and Furniture and Home Furnishings Manufacturing company located in Hamburg.We will upload 19gb of corporate data soon. Employee personal information (German passports andother information), projects, financials, client data and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Rehab Clinics Group Ltd",
-        "discovered": "2026-05-07 15:54:32.684604",
-        "description": "",
-        "link": "/news/Rehab_Clinics_Group_Ltd/",
-        "magnet": null,
-        "screen": "screenshots/everest/Rehab Clinics Group Ltd.png",
-        "group_name": "everest",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "PennEastern Architects",
-        "discovered": "2026-05-07 15:54:30.156322",
-        "description": "The principals of PennEastern Engineers, LLC are Paul Pasonick, Andrew Pasonick, Michael Amato and Daryl Pawlush. All principals have extensive experience in commercial and residential land developments, municipal projects, sanitary sewer projects, storm water projects, pavement projects, flood control projects and soil erosion and sedimentation control plans. In addition, each has assisted in design, specification writing, cost estimating, project bidding and bid review, construction observation and project management of the various projects. The Principals of PennEastern Architects, LLC are Andrew Pasonick, Emil Jarolen and Norman Manovsky. Design Principal Emil Jarolen has been practicing Architecture since 1974 and has been a Registered Architect in the State of Pennsylvania since 1978. In addition, Mr. Jarolen is Registered as an Architect in the States of Maryland, New York, New Jersey and the District of Columbia.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "lafj.org",
-        "discovered": "2026-05-07 14:26:54.576708",
-        "description": "",
-        "link": "/blog/disclosures/69fc2de88f1d14b743a60ffa",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/lafjorg.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "School Health",
-        "discovered": "2026-05-07 12:28:40.669628",
-        "description": "School Health was founded in 1957. This company provides the retailing of health and wellness supplies to K-12 schools. Their headquarters are located in rolling Meadows, Illinois.We will upload 15gb of corporate data soon. Financials, a bit of HR files, drawings, projects, customer info, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Adrian Jules",
-        "discovered": "2026-05-07 12:28:39.743186",
-        "description": "Adrian Jules Ltd. specializes in the design, manufacturing, and wholesaling of custom clothing made in America, focusing on bespoke garments crafted by hand. The company offers a range of men's clothing styles and provides a private label service for those looking to create their own luxury clothing brand.We will upload 15gb of corporate data soon. HR files (employee emails, phones and so on), financials (personal financial statements, payment details, credit cards and so on), drawings, projects, detailed customer info (addresses, contacts, even height, weight and so on), NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Accent Dental Center",
-        "discovered": "2026-05-07 12:28:38.675651",
-        "description": "Accent Dental Center On Forum is a general dentistry practice located in Columbia, MO, dedicated to providing high-quality and affordable dental care. The center offers a range of services including exams, cleanings, cosmetic dentistry, dental implants, and treatments for TMJ and oralfacial pain.We will upload corporate data soon. Detailed patients (name, DOB, passport numbers, medical information, addresses and so on (more than 1000 ppl)), employee personal documents, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "CMD Outsourcing Solutions",
-        "discovered": "2026-05-07 12:28:37.719208",
-        "description": "CMD Outsourcing Solutions specializes in multi-channel customer service solutions tailored for higher education institutions, extending support to departments such as Financial Aid, Admissions, Bursar, Registrar, and Housing.We will upload corporate data soon. Scanned employee documents (passports, DLs, SSNs, medical files and so on), financial files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Research & Planning Consultants",
-        "discovered": "2026-05-07 12:28:36.800626",
-        "description": "Research & Planning Consultants, L.P. specializes in providing expert analysis and consulting services in personal injury and commercial litigation.We will upload 33gb of corporate data soon. Projects, financials, client and employee information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mabetex Group",
-        "discovered": "2026-05-07 12:28:35.850895",
-        "description": "Mabetex Group has established itself as a leader in design, construction and project engineering of administrative and governmental buildings as well as buildings in the health, sport and tourism sector, like hospitals, stadiums, hotels.We will upload 42gb of corporate data soon. Employee files (passports and other docs), lots of documents about international projects, detailed financials, client information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Shingle & Gibb Automation",
-        "discovered": "2026-05-07 12:28:34.786359",
-        "description": "Shingle & Gibb Automation follows a time-honored commitment of providing the finest Industrial Automation & Networking, Motion Control, Machine Safety and Power Transmission products from world leading manufacturers, including Siemens, Banner Engineering, Turck and Rittal.We will upload 25gb of corporate data soon. Employee files (passports, DLs and other files), HRfiles, detailed financials, client information, NDAs, internal confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Sehlmann Fensterbau",
-        "discovered": "2026-05-07 12:28:32.815672",
-        "description": "Sehlmann Fensterbau GmbH specializes in wooden and wood-metal windows in the Hamburg metropolitan area. They offer optimal window solutions for innovative new constructions and stylish renovations, providing services from consultation and planning to production and installation.We will upload 44gb of corporate data soon. Employee personal files (passports, DLs, EU IDs andother files), financials, lots of project files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Newman & Marquez",
-        "discovered": "2026-05-07 12:28:31.539222",
-        "description": "Newman & Marquez, P.A. is a law firm specializing in creditors' rights and debt collection, operating throughout Florida. They provide services for the collection of delinquent loans, creditcard debts, and commercial accounts, with a focus on medical and dental accounts. We will upload 95gb of corporate data soon. Employee personal files, large amount of client personal files (passports, DLs, death certs, visas, credit cards and other files), financials, court files, police reports, hearings, lawsuits and other files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "ImageMaster",
-        "discovered": "2026-05-07 12:28:29.903641",
-        "description": "ImageMaster, LLC is a leading provider of official statement documents and roadshow services tailored for the municipal bond market. They utilize advanced technology and a unique quality assurance process to ensure accurate and secure document preparation and distribution.We will upload 49gb of corporate data soon. Employee personal files, clients information, projects, financials, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MN Health Insurance Network",
-        "discovered": "2026-05-07 12:28:28.886739",
-        "description": "Minnesota Health Insurance Network specializes in providing a wide range of health insurance products, including individual and family plans, group and small business plans, Medicare plans, dental and vision insurance, and short-term health insurance.We will upload 23gb of corporate data soon. Client and employee personal information (passports, addresses, phones, emails and so on), projects, financials, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Netgain Networks",
-        "discovered": "2026-05-07 12:28:27.810365",
-        "description": "Netgain Networks, Inc. is an information technology service company that focuses on computing, networking, and application needs of small/midsize businesses and branch offices of large corporations in Southern California.We will upload corporate data soon. Employee personal documents (passports and other HR files),client health information, financials, a lot of project information, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Turbo International",
-        "discovered": "2026-05-07 12:28:26.872150",
-        "description": "Turbo International was founded in 1989 as one of the first manufacturers of turbocharger component parts in North America. Originally focused on producing compressor wheels and balancing services for local rebuilders, the company quickly expanded its product line to include all majorturbocharger components and service kits.We will upload 48gb of corporate data soon. Employee personal documents (passports, DLs, 29 forms, addresses, phones, emails and other information), client information, financials, contractsand agreements, corporate confidential documents, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DeMera DeMera Cameron",
-        "discovered": "2026-05-07 12:28:25.939677",
-        "description": "DDC CPA is a trusted CPA firm based in Fresno, specializing in corporate tax services and auditadvisory for businesses across various industries. With over 80 years of experience, they provide a comprehensive range of accounting services including bookkeeping, tax planning, and financial forecasting.We will upload 260gb of corporate data soon. A bit of personal data, financials, client financials (international ones), contracts and agreements, corporate confidential documents, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "R L Larson Excavating",
-        "discovered": "2026-05-07 12:28:24.943635",
-        "description": "R. L. Larson Excavating Inc., is an excavating contractor based in St. Cloud, MN. We will upload 30gb of corporate data soon. Personal data of employees (DLs, w9 forms and others), financials, drawings and specifications, contracts and agreements, projects, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ServiceMaster Clean services",
-        "discovered": "2026-05-07 12:28:23.929499",
-        "description": "ServiceMaster Services, Inc. is a privately owned and operated commercial contract cleaning company. Founded in 1974, ServiceMaster specializes on servicing office buildings and other large facilities. It is headquartered in Memphis, Tennessee.We will upload corporate data soon. Personal data of employees (passports, 20  DLs, SSNs and others), financials, contracts and agreements, client files, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "CSA SpA",
-        "discovered": "2026-05-07 12:28:22.940760",
-        "description": "CSA S.p.A. is a company that provides a broad range of quality products and services tailored to the shipping industry, emphasizing safety and customer satisfaction. Their offerings include ship services, liner agency, and logistics, all designed to meet the highest international standards.We will upload 10gb of corporate data soon. Personal data of employees, financials, contracts and agreements, client files, and a lot of other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Government"
-    },
-    {
-        "post_title": "La Tuilerie",
-        "discovered": "2026-05-07 12:28:22.027956",
-        "description": "La Tuilerie is your local home renovation shop that helps homeowners and contractors find the perfect ceramic tiles, mosaics, and flooring. They focus on giving customers high-quality materials with great personal service.We will upload 11gb of corporate data soon. Personal data of employees, financials, contracts and agreements, lots of client files, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "INDESMALLA",
-        "discovered": "2026-05-07 12:28:21.035844",
-        "description": "Indesmalla is a family business with two production plants, one with raschel machines and the other with Ketten machines. It produces knitted weft (circular) fabric and knitted and finished weft fabrics in different weights, draws and elasticity.We will upload corporate data soon. Personal data of employees, financials, contracts and agreements, lots of client files, projects, NDA, internal confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Fletcher Chrysler Products",
-        "discovered": "2026-05-07 12:28:20.057327",
-        "description": "Fletcher Chrysler Dodge Jeep Ram is a dealership located in Franklin, IN, offering a wide selection of new and used Chrysler, Dodge, Jeep, and Ram vehicles. They serve clients in Franklin, Indianapolis, Shelbyville, and surrounding areas, providing assistance in vehicle purchasing, financing options, and automotive services.We will upload 28gb of corporate data soon. Personal data of employees (passports, DLs, SSNs and others), financials, contracts and agreements, client files, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "CIR Realty",
-        "discovered": "2026-05-07 12:28:19.075917",
-        "description": "Established in 1983, CIR Realty is a real estate brokerage in Canada, serving the Central and Southern Alberta markets. They are headquartered in Calgary, Alberta.We will upload 25gb of corporate data soon. Detailed personal data of employees (names, emails,addresses, phones, photos, personal documents) and clients (names, emails, addresses, driver licenses, phones, payment detailed, account details and so on), detailed financials, contracts and agreements, lots of client files, projects, NDA, internal confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Truckload Carriers Association",
-        "discovered": "2026-05-07 12:28:18.044248",
-        "description": "Truckload Carriers Association is a national trade association focused on the truckload segmentof the motor carrier industry.We will upload 21gb of corporate data soon. Personal data of employees, detailed financials, contracts and agreements, customer and partner files, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Law Offices of James C Shields",
-        "discovered": "2026-05-07 12:28:17.070818",
-        "description": "The Law Offices of James C. Shields specializes in bankruptcy, estate planning, and probate services, providing tailored legal solutions to clients in Southern California. With over 15 yearsof experience, the firm has assisted thousands in navigating financial difficulties and planning for the future.We will upload corporate data soon. Personal data of clients (passports, DLs, SSNs, death/birthcertificates, financials and other docs), detailed financials, court files, investigations, police reports, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Pharmathek",
-        "discovered": "2026-05-07 12:28:16.044269",
-        "description": "Pharmathek specializes in the development, production, and installation of automated warehousesand robots specifically designed for pharmacies. The company offers innovative technologies, including the third-generation SINTESI robot, which enhances performance and user experience with customizable interfaces and smartphone connectivity.We will upload corporate data soon. Personal data of clients and employees (passports, contactsand so on), financials, client data, projects, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "R Roese Contracting",
-        "discovered": "2026-05-07 12:28:15.089490",
-        "description": "R. Roese Contracting Company Inc. is a leading provider of underground and aerial construction services, specializing in telecommunications, water and sewer, electric, and gas transmission and distribution.We will upload 61gb of corporate data soon. Personal data of employees (passports, phones, emails and so on), financials, client data, lots of project files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Integra Architecture",
-        "discovered": "2026-05-07 12:28:14.049896",
-        "description": "Integra Architecture Inc. is an award-winning architecture firm based in downtown Vancouver, specializing in innovative design solutions. The firm focuses on a variety of projects, includingmixed-use developments and affordable housing initiatives.We will upload over 180gb of corporate data soon. Employee information, client data, lots of project files, drawings and specifications, client data, contracts and agreements, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Arctic Home Living",
-        "discovered": "2026-05-07 12:28:13.033423",
-        "description": "Arctic Home is Alaska's locally owned hot tub dealer with over 25 years of experience, specializing in premium hot tubs, spas, saunas, and cold plunges designed for the unique Alaskan environment.We will upload corporate data soon. Employee information (scanned passports, DLs, I9s, SSNs, credit cards information and so on), customer data, agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MAC Construction & Excavating",
-        "discovered": "2026-05-07 12:28:12.011629",
-        "description": "MAC is a diversified construction company with integrated divisions working closely together toprovide a wide variety of quality construction and excavation services, quality workmanship - produced by quality people. We will upload 30gb of corporate data soon. DB data (Salary / Income 2490386 rows, Physical Address 223606 rows,Online Account 123070 rows, Phone / Fax 111784 rows, Bank / Financial 73100 rows, IP / Device 5923 rows, Password / Secret 1783 rows, Tax ID 1686 rows, Name (Person) 1074 rows, Email 967 rows, Photo / Biometric 137 rows, FR - Contact 100 rows, Property 28 rows, Employment 18 rows, SSN / National ID 8 rows) and a lot of other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Salimetrics",
-        "discovered": "2026-05-07 12:28:11.032548",
-        "description": "Salimetrics specializes in salivary bioscience, offering industry-standard saliva collection methods, salivary assay kits, and testing services for reliable results. Their products cater to researchers and clinicians involved in biobehavioral research and diagnostics, providing tools for sample collection and analysis. We will upload corporate data soon. Employee information, patients information (blood tests andother health information), financials, internal confidential files and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Alva Manufacturing",
-        "discovered": "2026-05-07 12:28:10.097838",
-        "description": "Alva Manufacturing specializes in CNC precision machining, focusing on milling and multi-axis turning for high-tech industries such as defense and space. They utilize state-of-the-art automated machining centers and advanced measuring technology, including Hexagon CMM and Keyence systems.We will upload corporate data soon. Employee information (passports, SSNs, addresses, phones, photos and so on), projects (BOEING and Lockheed Martin files and so on), financials, lots of NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "S4K Entertainment",
-        "discovered": "2026-05-07 12:28:09.094206",
-        "description": "S4K Entertainment is producing a series of Shakespeare 4 Kidz movies for theatrical release.We will upload 28gb of corporate data soon. Employee information (passports, DLs and so on), contracts and agreements, projects, financials, NDAs, partners and client data and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Kubiak Melton & Associates",
-        "discovered": "2026-05-07 12:28:06.090489",
-        "description": "Kubiak & Melton, LLC provides audit, tax and bookkeeping services. We prepare monthly financialstatements, governmental compliance forms, payroll, and tax returns.We will upload 12gb of corporate data soon. Client personal information (passports, DLs, birth and death certs, SSNs, addresses, phones, CC statements and much more), client financial information, financials, NDAs, numerous internal confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Excel Healthcare Receivable Management & Consulting",
-        "discovered": "2026-05-07 12:27:59.802277",
-        "description": "Excel Healthcare is a specialized firm focusing on revenue cycle management and consulting services for healthcare professionals, including hospitals and medical practices of all sizes. Theyoffer comprehensive services such as accounts receivable management, insurance follow-up, denial auditing, and consulting on workflow optimization to enhance cash flow and operational efficiency.We will upload 54gb of corporate data soon. Employee and customer personal information, projectinformation, lots of contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Alkegen",
-        "discovered": "2026-05-07 12:13:26.300038",
-        "description": "Alkegen creates high performance specialty materials used in advanced applications including electric vehicles, energy storage, filtration, fire protection and high-temperature insulation, among many others.We will upload 57gb of corporate data soon. Employee personal documents (passports, DLs, contacts, addresses, medical information and so on), client personal information, lots of confidential files, projects, contracts and agreements, detailed financials, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Gumpp Kunststoffe",
-        "discovered": "2026-05-07 12:13:25.287728",
-        "description": "KKG Gumpp is a wholesale company based in Königsbrunn, Bavaria, specializing in technical textiles and fabrics for various applications.We will upload corporate data soon. Employee personal documents (passports, DLs), client information, projects, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Rockville Fuel & Feed",
-        "discovered": "2026-05-07 12:13:24.009007",
-        "description": "Rockville Fuel & Feed Co., Inc. is a premier supplier of ready mix concrete serving the Maryland suburbs of Washington DC. With multiple plants across five major counties and a fleet of over65 trucks, the company caters to construction projects of all sizes, ensuring timely and reliable delivery.We will upload corporate data soon. Employee personal documents (passports, DLs (over 100), medical and financial information), client information, contracts and agreements, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ATF Aerospace",
-        "discovered": "2026-05-07 12:13:23.062828",
-        "description": "ATF Aerospace specializes in aerospace manufacturing and distribution, offering high-quality mechanical and electrical components sourced from leading manufacturers. Their manufacturing capabilities focus on CNC milling and lathe operations, emphasizing short runs and quick turnaroundprojects.We will upload 45gb of corporate data soon. Detailed employee personal documents (passports, SSNs, DLs and so on), client information (BOEING files again and other confidential projects and specification), contracts and agreements, insurance files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Pipestone",
-        "discovered": "2026-05-07 12:13:22.122708",
-        "description": "ATF Aerospace specializes in aerospace manufacturing and distribution, offering high-quality mechanical and electrical components sourced from leading manufacturers. Their manufacturing capabilities focus on CNC milling and lathe operations, emphasizing short runs and quick turnaroundprojects.We will upload 137gb of corporate data soon. Detailed client and employee personal documents (passports, SSNs, DLs, financial and medical information), DBs with personal info, litigation docs, contracts and agreements, insurance files, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Punch & Associates Investment Management",
-        "discovered": "2026-05-07 12:13:21.183179",
-        "description": "Punch & Associates is a boutique investment advisory firm based in Edina, MN. They offer specialized investment advisory services tailored for private clients and institutions. The firm focuses on providing personalized financial strategies to meet the unique needs of their clients. With a commitment to excellence, Punch & Associates aims to help clients achieve their financialgoals.We will upload 10gb of corporate data soon. Detailed client personal information (passports, SSNs, DLs and so on for almost 80 ppl), employee personal files, lots of confidential files (financials and personal docs), contracts and agreements, projects, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "ABI and Ideal Tape",
-        "discovered": "2026-05-07 12:13:20.256887",
-        "description": "From the creation of our very first line of friction tapes in 1908, we have stuck to our beliefin developing quality products, holding ourselves to the highest standards. ABI Tapes productsare primarily sold through a worldwide network of select industry-focused distributors and converters. ABI and Ideal Tape are subsidiaries of American Biltrite Inc.We will upload 11gb of corporate data soon. Employee personal information, customer files, projects, contracts, internal confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Moorman Harting",
-        "discovered": "2026-05-07 12:13:19.325505",
-        "description": "Moorman, Harting & Company is a comprehensive wealthcare firm that provides a variety of solutions for tax, accounting, and financial needs. Their services include accounting, payroll, tax preparation, retirement planning, and personalized financial coaching.We will upload 21gb of corporate data soon. Employee personal information (passport numbers, Dls, SSNs and other sensitive information), client files, financials, contracts and agreements, internal confidential files, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SDK Environmental",
-        "discovered": "2026-05-07 12:13:18.358528",
-        "description": "SDK Environmental is a long-established UK company specializing in environmental services, primarily catering to local authorities, housing associations, and corporate clients. Their offerings include corporate pest control, business-to-business pest control, direct pest control, animal warden services, and dog collection services.We will upload 10gb of corporate data soon. Employee personal information, client financials and other documents, contracts and agreements, projects, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Clinical Registry Solutions",
-        "discovered": "2026-05-07 12:13:17.312477",
-        "description": "Clinical Registry Solutions (CRS) is a healthcare data management company based in New York, United States, formerly operating as Cardiac Registry Support. The company specializes in clinical data abstraction, medical record abstraction, and registry support services for hospitals, health systems, contract research organizations, and clinical staffing firms across the United States and Canada.We will upload 41gb of corporate data soon. Detailed employee personal information (passports, DLs, SSNs, health information, and other docs), client documents and personal information, financials, payment details, contracts and agreements, NDAs, and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "K Subsea Group - Database Leaked",
-        "discovered": "2026-05-07 11:19:06.822670",
-        "description": "",
-        "link": "/news/K_Subsea_Group/",
-        "magnet": null,
-        "screen": "screenshots/everest/K Subsea Group - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tokoparts - Database Leaked",
-        "discovered": "2026-05-07 11:19:05.529078",
-        "description": "",
-        "link": "/news/Tokoparts/",
-        "magnet": null,
-        "screen": "screenshots/everest/Tokoparts - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Super AI - Database Leaked",
-        "discovered": "2026-05-07 11:19:04.556567",
-        "description": "",
-        "link": "/news/Super_AI/",
-        "magnet": null,
-        "screen": "screenshots/everest/Super AI - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "id-s.de",
-        "discovered": "2026-05-07 11:15:28.696467",
-        "description": "Is a German company operating in the field of digital technologies and IT-related services. Although detailed public information is limited, …",
-        "link": "/blog/post/id-sde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/id-sde.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "mbk-gmbh.de",
-        "discovered": "2026-05-07 11:15:28.560668",
-        "description": "Is a German industrial company specializing in metal processing and surface finishing technologies. The company provides services such as galvanizing, …",
-        "link": "/blog/post/mbk-gmbhde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mbk-gmbhde.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ettp.be",
-        "discovered": "2026-05-07 11:15:28.501662",
-        "description": "Appears to be a Belgian-based entity likely involved in professional training, technology consulting, or industrial services. While detailed public data …",
-        "link": "/blog/post/ettpbe/",
-        "magnet": null,
-        "screen": "screenshots/safepay/ettpbe.png",
-        "group_name": "safepay",
-        "sector": "Education"
-    },
-    {
-        "post_title": "studioubertazzi.it",
-        "discovered": "2026-05-07 11:15:27.789348",
-        "description": "Is an Italian firm that likely operates in the field of professional services such as architecture, design, or engineering consulting. …",
-        "link": "/blog/post/studioubertazziit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/studioubertazziit.png",
-        "group_name": "safepay",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "globalmerchservices.com",
-        "discovered": "2026-05-07 11:15:27.730248",
-        "description": "Global Merchandising Services (GMS) is an international entertainment merchandising company founded in 2008. It specializes in developing and managing merchandise …",
-        "link": "/blog/post/globalmerchservicescom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/globalmerchservicescom.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "soavegel.it",
-        "discovered": "2026-05-07 11:15:27.687730",
-        "description": "Is an Italian food manufacturing company specializing in frozen gastronomic products. Founded in 1935 in Francavilla Fontana, the company has …",
-        "link": "/blog/post/soavegelit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/soavegelit.png",
-        "group_name": "safepay",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "smp.cat",
-        "discovered": "2026-05-07 11:15:27.645876",
-        "description": "Is a private healthcare organization based in Catalonia, Spain, operating in the Hospitals & Physicians Clinics sector. Founded in 1993 …",
-        "link": "/blog/post/smpcat/",
-        "magnet": null,
-        "screen": "screenshots/safepay/smpcat.png",
-        "group_name": "safepay",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "gingerichtrucking.com",
-        "discovered": "2026-05-07 11:15:27.446935",
-        "description": "Is a U.S.-based freight transportation company operating primarily in interstate logistics. The company specializes in hauling general freight, agricultural products …",
-        "link": "/blog/post/gingerichtruckingcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/gingerichtruckingcom.png",
-        "group_name": "safepay",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "jmige.com",
-        "discovered": "2026-05-07 11:15:27.221659",
-        "description": "JMIGE appears to be a company with limited publicly available information, making precise classification difficult. Based on naming conventions and …",
-        "link": "/blog/post/jmigecom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/jmigecom.png",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "alge-stop.dk",
-        "discovered": "2026-05-07 11:15:19.175925",
-        "description": "+45 22100211 . Alge-Stop helps homeowners and businesses keep their outdoor surfaces clean and protected. They remove algae and moss from roofs, walls, tiles, and paving stones, making surfaces look fresh and new. With their special treatment and cleaning process, Alge-Stop offers up to 20 years of protection, helping customers maintain the beauty and integrity of their property Stolen: 73gb 7100 files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "pvdd.ca",
-        "discovered": "2026-05-07 11:15:19.090785",
-        "description": "+1 (604) 894-6632. Pemberton Valley Dyking District is an autonomous local government body dedicated to maintaining, adapting, and upgrading flood protection systems for the Pemberton Valley community. The organization provides essential services aimed at safeguarding residents from flood risks. It operates through a Board of Trustees and engages with the public during monthly meetings. The district also offers resources and real-time information during high water events to ensure community safety. Stolen: 148gb 50080 files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Government"
-    },
-    {
-        "post_title": "datasavior.com",
-        "discovered": "2026-05-07 11:15:18.620796",
-        "description": "+1 (512) 707-0026. Datasavior is a full-service systems integration company based in Austin, Texas, specializing in IT support and fiber cable installations. They offer comprehensive solutions for medical and dental office IT, including practice management, data backup services, and advanced antivirus software. Their target clients include businesses in need of reliable technology solutions and support, particularly in the healthcare sector. With a team of skilled technicians, Datasavior aims to help clients optimize their technology for current and future needs. Stolen: 540mb 1,410 Files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "kbtoys.com.au",
-        "discovered": "2026-05-07 11:15:18.146264",
-        "description": "+61 295250878. We offer a wide selection of toys and giftware that would be suitable for birthdays, Christmas and celebrations of all sorts. We also accommodate shopping tours by appointment. If you're looking for toys for a social club or special function, please feel encouraged to give us a call or use the contact form on the right. Come in and visit our factory outlet located at: Unit 4, 60 Box Rd, Taren Point NSW Stolen: 140gb 36840 files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Houk Air Conditioning",
-        "discovered": "2026-05-07 11:14:43.284880",
-        "description": "Houk AC is a leading HVAC repair and installation service based in Texas, operating in areas such as DFW, Austin, Houston, and San Antonio since 1962. The company offers a variety of services including air conditioning and heating repairs, installations, maintenance, and commercial HVAC solutions. Known for their commitment to customer satisfaction, Houk AC provides special financing options, discounts, and a comprehensive maintenance program to meet the needs of both residential and commercial clients. With a family-owned approach, their dedicated technicians are focused on delivering reliable and energy-efficient solutions to ensure optimal comfort for Texans.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Nutrabio - Database Leaked",
-        "discovered": "2026-05-07 11:14:40.082710",
-        "description": "",
-        "link": "/news/Nutrabio/",
-        "magnet": null,
-        "screen": "screenshots/everest/Nutrabio - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Complete Aircraft Group - Database Leaked",
-        "discovered": "2026-05-07 11:14:39.973476",
-        "description": "",
-        "link": "/news/Complete_Aircraft_Group/",
-        "magnet": null,
-        "screen": "screenshots/everest/Complete Aircraft Group - Database Leaked.png",
-        "group_name": "everest",
-        "sector": "Unknown"
     }
 ]
