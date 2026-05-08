@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "Office Furniture Group",
+        "discovered": "2026-05-08 21:55:39.107161",
+        "description": "Interior workplace solutions provider",
+        "link": "Companies/ofginc",
+        "magnet": null,
+        "screen": "screenshots/pear/Office Furniture Group.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DL Cohen Construction",
+        "discovered": "2026-05-08 20:55:43.293998",
+        "description": "Construction",
+        "link": "/site/blog?uuid=fd5e8d73-fed1-464b-9a32-81b81a9c7714",
+        "magnet": null,
+        "screen": "screenshots/qilin/DL Cohen Construction.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Ruiz Barbarin Arquitectos Slp",
+        "discovered": "2026-05-08 20:55:42.327001",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=245dd05a-adf9-4539-bb16-886b791a22aa",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ruiz Barbarin Arquitectos Slp.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Fogel Capital Management",
+        "discovered": "2026-05-08 20:55:40.329906",
+        "description": "Finance",
+        "link": "/site/blog?uuid=6db36e34-c571-410d-9ea0-0bd7e70a5319",
+        "magnet": null,
+        "screen": "screenshots/qilin/Fogel Capital Management.png",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Calidra",
+        "discovered": "2026-05-08 20:55:38.140043",
+        "description": "Chemicals & Related Products",
+        "link": "/site/blog?uuid=66cd7add-9f80-4dd2-9778-194af025442c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Calidra.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CMC Expertise Comptable",
+        "discovered": "2026-05-08 20:55:20.486991",
+        "description": "CMC Expertise Comptable is a certified accounting firm located in Martinique, dedicated to providing comprehensive support in accounting, social, legal, and fis...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "CAD-IT UK",
+        "discovered": "2026-05-08 19:57:30.850438",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=fab01a41-40d9-489b-84a2-55469fdc2ae7",
+        "magnet": null,
+        "screen": "screenshots/qilin/CAD-IT UK.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Advanced Laundry Systems",
+        "discovered": "2026-05-08 19:57:29.778739",
+        "description": "Consumer Services",
+        "link": "/site/blog?uuid=6fff068e-bd7f-4d90-81db-0cc149e1e76e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Advanced Laundry Systems.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "CCD Interiors",
+        "discovered": "2026-05-08 19:57:28.796603",
+        "description": "Construction",
+        "link": "/site/blog?uuid=692ae3d2-be89-4a84-a9c1-896993d49182",
+        "magnet": null,
+        "screen": "screenshots/qilin/CCD Interiors.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Acros Sport GmbH",
+        "discovered": "2026-05-08 19:57:14.468911",
+        "description": "acros-components.com - Acros Sport GmbH is a high-end German bicycle component manufacturer based in Renningen, near Stuttgart. Founded in 1999, the company is a specialist in precision bearing technology for cycling",
+        "link": "/post/06c81a25e0ea35fe55853582ddab86e3",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Acros Sport GmbH.png",
+        "group_name": "lamashtu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ashtech Infotech",
+        "discovered": "2026-05-08 19:57:13.219871",
+        "description": "ashinfo.com - Ashtech Infotech (India) Pvt. Ltd. is a leading System Integrator and IT service provider based in Mumbai, India. Established in 1986, the company specializes in delivering end-to-end technology solutions to enterprises.",
+        "link": "/post/75662fbf3cec830a266b944485445eb6",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Ashtech Infotech.png",
+        "group_name": "lamashtu",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PRESS STATEMENT",
+        "discovered": "2026-05-08 18:56:10.406597",
+        "description": "Due to the significant amount of press inquries we are receiving every hour from all around the world, we are making a public statement.   We are not commenting and have no further comment to make regarding this global incident.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Shipping Services",
+        "discovered": "2026-05-08 18:56:03.762839",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=5e73092f-63f0-4de6-8e0d-e4685d4ba88c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Shipping Services.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Exco Technologies",
         "discovered": "2026-05-08 17:54:08.827586",
         "description": "Industrial Machinery & Equipment",
@@ -248,45 +378,5 @@
         "screen": "screenshots/inc ransom/cmswpccom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Trellix (McAfee & FireEye)",
-        "discovered": "2026-05-07 21:51:58.465520",
-        "description": "",
-        "link": "/r/336b257f582b17573c97578efd4b22762bf77344",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Trellix (McAfee & FireEye).png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sylvania",
-        "discovered": "2026-05-07 17:59:19.306568",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=672e3681-95e8-4226-81da-dfb1e87de913",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sylvania.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Norcal Training Center",
-        "discovered": "2026-05-07 17:59:18.383983",
-        "description": "Education",
-        "link": "/site/blog?uuid=21bf918d-c3b3-484e-a5e7-471c2e0c549d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Norcal Training Center.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Elia Law Firm",
-        "discovered": "2026-05-07 17:58:58.013350",
-        "description": "Elia Law Firm APC is a top San Diego law firm specializing in personal injury, civil litigation, and business law. They are dedicated to fighting for their clients' rights and maximizing recovery for physical, mental, and financial losses.We will upload 100gb of corporate data soon. Detailed employee personal information (passport, DLs, SSN, death and birth certificates, financial information, payment details and so on), lotsof legal files (court hearings, police reports and so on), financials, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
     }
 ]
