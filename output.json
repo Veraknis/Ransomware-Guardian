@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Stuf Storage",
+        "discovered": "2026-05-08 06:53:27.549990",
+        "description": "",
+        "link": "/stuf/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Stuf Storage.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Marlborough Partners",
+        "discovered": "2026-05-08 04:53:44.893399",
+        "description": "",
+        "link": "/company?dataBlobId=48ef817a-f233-47cc-9874-fc68f68d1530",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "K & E Distributing",
+        "discovered": "2026-05-08 00:56:51.083170",
+        "description": "",
+        "link": "topic.php?id=B22Eg0ShUrqi9h",
+        "magnet": null,
+        "screen": "screenshots/play/K & E Distributing.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Accessoires Outillage Ltee",
+        "discovered": "2026-05-08 00:56:50.116694",
+        "description": "",
+        "link": "topic.php?id=tiJwhx4xlWJAiK",
+        "magnet": null,
+        "screen": "screenshots/play/Accessoires Outillage Ltee.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "earthsystems.com.au earthsystemseurope.com",
+        "discovered": "2026-05-08 00:56:34.053907",
+        "description": "",
+        "link": "/blog/disclosures/69fd03998f1d14b743bbf310",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/earthsystemscomau earthsystemseuropecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "egnyte.com",
+        "discovered": "2026-05-08 00:56:32.732380",
+        "description": "",
+        "link": "/blog/disclosures/69fd06c68f1d14b743bc5851",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/egnytecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "EMA Engineering & Consulting",
+        "discovered": "2026-05-07 23:55:40.823301",
+        "description": "",
+        "link": "topic.php?id=1yuhgKRJcJbGL",
+        "magnet": null,
+        "screen": "screenshots/play/EMA Engineering & Consulting.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "autorisk.org",
+        "discovered": "2026-05-07 23:55:25.200735",
+        "description": "",
+        "link": "/blog/disclosures/69fcfec88f1d14b743bb4c38",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/autoriskorg.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Soprolux 🇫🇷",
+        "discovered": "2026-05-07 23:55:20.800132",
+        "description": "The company provides high-quality gourmet and specialty products.",
+        "link": "/blog/f694a27d-555d-44dd-ba93-78109a141cf5",
+        "magnet": null,
+        "screen": "screenshots/bravox/Soprolux 🇫🇷.png",
+        "group_name": "bravox",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cmswpc.com",
+        "discovered": "2026-05-07 22:54:24.545991",
+        "description": "",
+        "link": "/blog/disclosures/69fcf1d98f1d14b743b95793",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cmswpccom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Trellix (McAfee & FireEye)",
         "discovered": "2026-05-07 21:51:58.465520",
         "description": "",
