@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "CarePoint Health",
+        "discovered": "2026-05-09 15:50:29.953032",
+        "description": "CarePoint Health will provide all patients of the company's affiliated physicians who would benefit from team based care.",
+        "link": "/9a21fa8a5e90492f7d7f/",
+        "magnet": null,
+        "screen": "screenshots/genesis/CarePoint Health.png",
+        "group_name": "genesis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "The American Board of Preventive Medicine",
+        "discovered": "2026-05-09 15:50:25.249885",
+        "description": "A healthcare certification organization.",
+        "link": "/5fbef11c89ddb34c6e90/",
+        "magnet": null,
+        "screen": "screenshots/genesis/The American Board of Preventive Medicine.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Prescott & Holden",
+        "discovered": "2026-05-09 15:50:20.402859",
+        "description": "A legal firm dedicated to safeguard the rights of its clients",
+        "link": "/57e0056d90ab194a77e7/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Prescott & Holden.png",
+        "group_name": "genesis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Van Atta Engineering",
+        "discovered": "2026-05-09 15:50:14.306433",
+        "description": "A civil engineering and surveying firm located at 570 Congress Park Dr, Dayton, Ohio.",
+        "link": "/1735d195ab2ec136fe65/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Van Atta Engineering.png",
+        "group_name": "genesis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Rain Makers Solutions",
+        "discovered": "2026-05-09 15:50:03.466219",
+        "description": "Conducting training sessions, engaging with stakeholders, and organizing meetings and events.",
+        "link": "/09bb33fed59ed1cbea29/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Rain Makers Solutions.png",
+        "group_name": "genesis",
+        "sector": "Education"
+    },
+    {
         "post_title": "e-jones associates LCC",
         "discovered": "2026-05-09 05:55:05.324906",
         "description": "",
@@ -248,115 +298,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Zojirushi",
-        "discovered": "2026-05-08 16:55:48.790083",
-        "description": "Zojirushi specializes in high-quality home appliances, offering a range of products including rice cookers, water boilers and warmers, breadmakers, coffee makers, and various vacuum insulated containers.We will upload 38gb of corporate data soon. Employee personal information (passport and other docs scans), detailed financials, projects, contracts and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "McCarthy",
-        "discovered": "2026-05-08 16:16:09.539113",
-        "description": "mccarthyinc.com McCarthy, Inc., founded in 1955 and based in Savannah, Georgia, specializes in supplying metal doors and frames, wood doors, builder's hardware, toilet partitions, signage, louvers, and specialty accessories. The company serves diverse industries including healthcare, education, commercial, government, manufacturing, and hospitality sectors across the region. McCarthy provides comprehensive products and services from project inception through completion, focusing on building lasting relationships with project teams to ensure utmost client satisfaction.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "VeriCon",
-        "discovered": "2026-05-08 16:16:08.310973",
-        "description": "vericon.nl VeriCon is an independent structural engineering consultancy firm based in Veldhoven, Netherlands, founded over 20 years ago by Jos Hoonhout. The company specializes in designing, calculating, and drawing constructions for civil and utility construction projects. VeriCon is active in BIM and industrial building, with particular expertise in prefabricated concrete and steel constructions. The firm distinguishes itself by integrating innovative solutions into structural designs and providing clients with additional information about constructive elements and building materials beyond standard deliverables.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "KUPER",
-        "discovered": "2026-05-08 16:16:07.222088",
-        "description": "kuper.de Heinrich KUPER GmbH is an internationally active medium-sized company headquartered in Rietberg, Germany, with approximately 120–190 employees. The company specializes in developing and manufacturing machines and systems for veneer processing, solid wood working, automated packaging technology, and special-purpose woodworking equipment. As a quality leader in veneer and wood processing technology, KUPER serves customers worldwide with individualized solutions and comprehensive service support.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TDS",
-        "discovered": "2026-05-08 16:16:06.069845",
-        "description": "tdstelecom.com TDS Telecommunications LLC, founded in 1969 and headquartered in Madison, Wisconsin, is a leading U.S. telecommunications provider serving residential and business customers across urban, suburban, and rural communities. The company delivers high-speed fiber-optic internet (up to 8 Gigabit), IP-based TV entertainment, and traditional phone services, alongside business solutions like VoIP, dedicated internet, and data networking. With over 1.1 million connections, TDS is a wholly owned subsidiary of Telephone and Data Systems, Inc. (NYSE: TDS), committed to enhancing communities through reliable, innovative communications technology.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Misr Chemical Industries",
-        "discovered": "2026-05-08 16:16:04.598154",
-        "description": "mci.com.eg Misr Chemical Industries Co. (MCI), founded in 1959 and headquartered in Alexandria, Egypt, is a publicly listed chemical manufacturer on the Egyptian Exchange (EGX). As the oldest Egyptian producer of liquid caustic soda, chlorine gas, and derivatives, the company specializes in manufacturing chemicals including hydrochloric acid, sodium hydroxide solutions, and compressed hydrogen for domestic and regional markets. MCI serves industrial clients across Egypt and the Middle East, focusing on meeting local demand while exporting surplus production to support regional chemical supply chains.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "DermaPharm",
-        "discovered": "2026-05-08 15:41:45.081655",
-        "description": "dermapharm.dk DermaPharm A/S is a 100% Danish-owned skincare company founded in 1980, specializing in mild, eco-certified, and allergy-friendly personal care products. Headquartered in Fårup, Denmark, they operate a 10,000 m production facility and serve as both a brand owner (Derma) and a full-service private label manufacturer for third parties The company is a market leader in Nordic suncare and a trusted partner of the Danish Cancer Society",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Hillside Lumber",
-        "discovered": "2026-05-08 15:41:44.146980",
-        "description": "hillsidelumber.com Hillside Lumber is a family-owned full-service building materials supplier established in 1979, based in Westbrook, Maine. The company serves builders, contractors, and DIY enthusiasts throughout Southern Maine with high-quality lumber, saw mill products, kitchen design, and building supplies. With 38 employees, they provide professional service to both construction professionals and homeowners.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "DEVCO",
-        "discovered": "2026-05-08 15:41:43.116825",
-        "description": "devco.pl DEVCO Sp. z o.o. is a Polish real estate company established in 1997, headquartered in Wroclaw at ul. Strzegomska 46-56. The company specializes in renting office and warehouse spaces, notably operating the Wroclawski Park Biznesu (Wroclaw Business Park). Their mission is to create comfortable, inspiring, and business-friendly work environments for tenants.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "CHX Express",
-        "discovered": "2026-05-08 15:41:42.207082",
-        "description": "chxpress.com.ve C.H. Express C.A. is a Venezuelan transportation and logistics company with over 20 years of experience, headquartered in San Diego, Carabobo. The company specializes in national cargo transportation, package delivery services, and light cargo consolidation, covering the entire Venezuelan territory. With a strategic location, modern fleet, and large warehouse facilities, they ensure fast, reliable deliveries and efficient logistics solutions for various industries across the country.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Arizona Professional Painting",
-        "discovered": "2026-05-08 15:41:41.244555",
-        "description": "azpropaint.com Arizona Professional Painting is a family-owned and operated commercial and industrial painting contractor established in 1994, based in Phoenix, Arizona. The company specializes in diverse sectors including data centers, healthcare facilities, sports facilities, industrial projects, and tenant improvements across the state. With SBE, WBE, MBE, and DBE certifications, they maintain an exceptional safety record with a .66 EMR rating and zero recordable on-the-job incidents. Their experienced team provides comprehensive interior and exterior painting, industrial coatings, floor coatings, and ongoing facility maintenance services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
     }
 ]
