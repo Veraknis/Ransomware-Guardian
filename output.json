@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "www.kurita.eu",
+        "discovered": "2026-05-10 10:49:27.044239",
+        "description": "Kurita Europe specializes in advanced water treatment technologies and sustainab...",
+        "link": "/leaks/6a00387c2b391873c7dd2f4a",
+        "magnet": null,
+        "screen": "screenshots/lynx/wwwkuritaeu.png",
+        "group_name": "lynx",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "ossistemes.com",
+        "discovered": "2026-05-10 10:49:26.066467",
+        "description": "OS Sistemes is a tech company that helps businesses bring their digital projects...",
+        "link": "/leaks/6a003ae62b391873c7dd53f8",
+        "magnet": null,
+        "screen": "screenshots/lynx/ossistemescom.png",
+        "group_name": "lynx",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "csb-battery.com",
+        "discovered": "2026-05-10 10:49:25.109378",
+        "description": "CSB Energy Technology Co., Ltd. is a leading global manufacturer of Valve-Regula...",
+        "link": "/leaks/6a003c252b391873c7dd6d3e",
+        "magnet": null,
+        "screen": "screenshots/lynx/csb-batterycom.png",
+        "group_name": "lynx",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "funkychunky.com",
+        "discovered": "2026-05-10 10:49:23.845550",
+        "description": "Funky Chunky offers gourmet caramel corn and popcorn snacks, providing unique gi...",
+        "link": "/leaks/6a003d7e2b391873c7dd8310",
+        "magnet": null,
+        "screen": "screenshots/lynx/funkychunkycom.png",
+        "group_name": "lynx",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Langenberg, Strubberg, Arand & King, LLC",
+        "discovered": "2026-05-10 09:50:34.377557",
+        "description": "Firm that specializes in providing accounting, tax, and advisory services",
+        "link": "Companies/lsakcpa",
+        "magnet": null,
+        "screen": "screenshots/pear/Langenberg, Strubberg, Arand & King, LLC.png",
+        "group_name": "pear",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "lopezlawfl.com",
+        "discovered": "2026-05-10 06:48:04.416141",
+        "description": "",
+        "link": "/blog/disclosures/69fff6d3d152110a6ab0bb0a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/lopezlawflcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://sibillacapital.com/",
+        "discovered": "2026-05-10 06:47:57.616531",
+        "description": "",
+        "link": "/blog/disclosures/69fffa6bd152110a6ab10d5a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/sibillacapitalcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wayne Brothers",
+        "discovered": "2026-05-10 02:50:50.421706",
+        "description": "",
+        "link": "/company?dataBlobId=0ed3756f-4eb6-439d-942b-639d35696ac5",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leak bazaar",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Arup Group",
+        "discovered": "2026-05-10 02:50:09.250527",
+        "description": "",
+        "link": "/arup/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Arup Group.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "eclagestio360.com",
+        "discovered": "2026-05-09 23:48:14.559158",
+        "description": "ECLAGESTIÓ\nA Spanish company specializing in comprehensive management for businesses and individuals, operating in the...",
+        "link": "/blog/b97904dfa9f56c1edd2c4bc06a22786ff9ec1bb76c4e5717796b18ca076bbbb5/",
+        "magnet": null,
+        "screen": "screenshots/krybit/eclagestio360com.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "CarePoint Health",
         "discovered": "2026-05-09 15:50:29.953032",
         "description": "CarePoint Health will provide all patients of the company's affiliated physicians who would benefit from team based care.",
@@ -48,95 +148,5 @@
         "screen": "screenshots/genesis/Rain Makers Solutions.png",
         "group_name": "genesis",
         "sector": "Education"
-    },
-    {
-        "post_title": "e-jones associates LCC",
-        "discovered": "2026-05-09 05:55:05.324906",
-        "description": "",
-        "link": "/company?dataBlobId=502e4378-c718-425d-8905-98d7bacf178a",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "mrs holdings",
-        "discovered": "2026-05-09 05:54:56.026259",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Houghton Mifflin Harcourt Company",
-        "discovered": "2026-05-09 02:55:58.216422",
-        "description": "Your data was compromised in several of our campaigns throughout the past few months. We urge you to engage with us, it is in your best interests.   This is a final warning to reach out by 12 May 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Katahdin Technology",
-        "discovered": "2026-05-09 02:55:40.144021",
-        "description": "",
-        "link": "/company?dataBlobId=64663dd4-075d-46d3-a058-aaf077ad36a6",
-        "magnet": null,
-        "screen": null,
-        "group_name": "leak bazaar",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Calsoft Inc",
-        "discovered": "2026-05-09 01:56:01.822370",
-        "description": "",
-        "link": "/blog/disclosures/69fe673ad152110a6a8abbbd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Calsoft Inc.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CF Evans Construction",
-        "discovered": "2026-05-08 23:55:05.609823",
-        "description": "A recognized leader in the multi-family housing construction industry, CF Evans Construction provides a product for developers. The company has thrived amid six...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Neurotrials Research Inc",
-        "discovered": "2026-05-08 22:56:45.933867",
-        "description": "Founded in 1997, NeuroTrials Research is an outpatient and inpatient research fa...",
-        "link": "/leaks/69fa4cb08280ceeb9ae1ae05",
-        "magnet": null,
-        "screen": "screenshots/sinobi/Neurotrials Research Inc.png",
-        "group_name": "sinobi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lindabury",
-        "discovered": "2026-05-08 22:56:39.856910",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=a3a02ff4-6ea5-4ca2-b31f-bac4da2a40b0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lindabury.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Office Furniture Group",
-        "discovered": "2026-05-08 21:55:39.107161",
-        "description": "Interior workplace solutions provider",
-        "link": "Companies/ofginc",
-        "magnet": null,
-        "screen": "screenshots/pear/Office Furniture Group.png",
-        "group_name": "pear",
-        "sector": "Unknown"
     }
 ]
