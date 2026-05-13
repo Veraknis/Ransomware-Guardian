@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Citizens Bank - Database Leaked",
+        "discovered": "2026-05-13 17:52:13.748268",
+        "description": "",
+        "link": "/news/Citizens_Bank/",
+        "magnet": null,
+        "screen": "screenshots/everest/Citizens Bank - Database Leaked.png",
+        "group_name": "everest",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Buenos Aires Software",
+        "discovered": "2026-05-13 16:54:34.095439",
+        "description": "",
+        "link": "/companies/bas",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Buenos Aires Software.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gorey Community School",
+        "discovered": "2026-05-13 15:51:43.302524",
+        "description": "Gorey Community School is a co-educational, multi-denominational institution located in Gorey, Co. Wexford, under the joint patronage of the Loreto Sisters and Waterford and Wexford ETB",
+        "link": "/posts/c9049f7c-de08-4099-a2f7-d8ae8e421682",
+        "magnet": null,
+        "screen": "screenshots/payload/Gorey Community School.png",
+        "group_name": "payload",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Inteceng.com.my (+ Tsksynergy.com.my + Amemanufacturing.com.my + Woodnova.com.my)",
+        "discovered": "2026-05-13 15:51:42.373641",
+        "description": "These websites represent a synergistic group of Malaysian companies, such as AME Elite and TSK Synergy, specializing in integrated industrial construction and engineering solutions. They provide end-to-end services, including the design and fabrication of steel structures, mechanical engineering, and the development of large-scale industrial parks. Together, they leverage their combined expertise to deliver \"turnkey\" manufacturing facilities and infrastructure projects across the region.",
+        "link": "/posts/61827d93-eb95-42af-b264-9b84aeecefb7",
+        "magnet": null,
+        "screen": "screenshots/payload/Intecengcommy (+ Tsksynergycommy + Amemanufacturingcommy + Woodnovacommy).png",
+        "group_name": "payload",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Institute of Private Enterprise Development",
+        "discovered": "2026-05-13 15:51:22.573205",
+        "description": "The Institute of Private Enterprise Development focuses on improving the livelihoods of micro and small entrepreneurs by offering loans ranging from $40,000 to $7,500,000 GYD. Their servicesare designed to support individuals looking to start or grow their businesses, with a significant emphasis on female and youth entrepreneurs, as well as those in rural areas.We will upload 55gb of corporate data soon. Detailed clients and employee personal information (passports, DLs, SSNs, ID cards, financial information, credit card details and so on), NDAs , etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Allele Diagnostics",
+        "discovered": "2026-05-13 15:51:21.610998",
+        "description": "Allele Diagnostics specializes in providing exceptional microarray and cytogenetic testing services, including neonatal, pediatric, and prenatal testing. The company is dedicated to delivering accurate, fast, and reliable results, leveraging the extensive experience of its laboratory staff to optimize testing performance.We will upload corporate data soon. Detailed employee personal information (passports, DLs, SSNs, I9 forms, credit card details and so on), patients information (personal docs and medical information), contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "NTN Bearing Corporation of America",
         "discovered": "2026-05-13 02:53:04.651707",
         "description": "",
@@ -257,106 +317,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Taylor Clay Products",
-        "discovered": "2026-05-12 16:51:37.059955",
-        "description": "Taylor Clay Products specializes in premium architectural brick, thin brick, and custom masonrysolutions, catering to architects and builders for over 75 years. The company offers a wide selection of colors, textures, and finishes, including custom blends tailored to specific projects.We will upload 72gb of corporate data soon. Employee personal information (DL and other personal docs), contracts, client information, drawings and specifications.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Kaplan Companies",
-        "discovered": "2026-05-12 16:51:24.782572",
-        "description": "Kaplan Companies specializes in providing rental and commercial properties, focusing on new homes and maintenance services for current residents. The company aims to cater to individuals andfamilies seeking quality housing solutions.We will upload 45gb of corporate data soon. Employee and owners personal information (passports, DLs, SSNs, and other personal docs), contracts and agreements, client information, financials, payment details, projects files, drawings and specifications and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mediapost Spain",
-        "discovered": "2026-05-12 15:52:38.702043",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=c4b65820-1312-4205-a363-068fba9d5828",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mediapost Spain.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Manhattan Broadcasting",
-        "discovered": "2026-05-12 15:52:18.237679",
-        "description": "Manhattan Broadcasting Company is a leading source of local and regional news, sports, weather,and entertainment in Northeast Kansas, engaging over 100,000 listeners weekly.We will upload of corporate data soon. Employee personal informatics, contracts, lots of pictures and other files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Vision 3 Architects",
-        "discovered": "2026-05-12 14:53:27.733733",
-        "description": "Vision 3 Architects is a collaborative and responsive design studio specializing in architecture and interior design projects. They focus on crafting spaces that reflect each client's visionand values, ensuring a design environment that fosters creativity and collaboration.We will upload 31gb of corporate data soon. Detailed employee personal information (passports, DLs, SSNs and so on), contracts and agreements, client information, projects, NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Avanti Windows & Doors",
-        "discovered": "2026-05-12 13:55:56.584724",
-        "description": "Avanti Windows & Doors — a vinyl window manufacturer headquartered in El Mirage, Arizona, with regional offices across Nevada, Texas, California, and Florida.\n\nThe exposed material includes:\n\nPlaintext SQL Server SA (system administrator) credentials — the master key to the FeneVision ERP database containing every customer order, every price, every financial record the company has ever processed.\nEmployee SSNs, W-4s, I-9s, and E-Verify data — the complete identity package for the entire workforce, from new-hire packets through payroll records spanning 2014–2016+.\n1099-MISC/INT forms — SSNs/EINs and payment amounts for 50–200+ contractors and vendors across two tax years.\nDirect deposit authorizations — bank account and routing numbers for employees who enrolled in ACH payroll.\n24+ months of Chase bank statements and 28 months of AMEX corporate card statements — full account numbers, transaction details, and spending patterns.\nThe complete proprietary pricing algorithm — source code for the FastAPI backend that determines window pricing for every builder contract, plus 41+ builder Master Service Agreements with exact pricing terms.\nCPA-reviewed financial statements, partnership returns, K-1s, and budget forecasts — the company’s full financial anatomy, from cost structure to profit allocation.\nOSHA 300 logs, workers’ compensation audit files, and UHC health insurance invoices — employee medical and injury data, names of injured workers, treatment details.\nAttorney-client privileged ADOSH settlement correspondence — OSHA settlement negotiations between outside counsel and the CEO.\n~80 Windows roaming profiles — employee desktops, documents, AppData, Outlook .ost/.pst files, browser caches, and cached credentials.",
-        "link": "/blog/avanti-windows-doors-25cc6dc6",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "NaRaYa",
-        "discovered": "2026-05-12 12:53:53.367643",
-        "description": "naraya.com - NaRaYa is a famous Thai brand recognized worldwide for its distinctive fabric bags and accessories. Founded in 1989, it has grown into one of Asia's most influential brands, specializing in high-quality, handcrafted products that showcase Thai crafts",
-        "link": "/post/2301c6ea6be4ed2c5ec6323c57144baa",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/NaRaYa.png",
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Saharuang",
-        "discovered": "2026-05-12 12:53:51.732270",
-        "description": "saharuang.com - Company operates a large-scale sugar mill and refinery in the Saraburi province, producing various types of sugar for both domestic and export markets.",
-        "link": "/post/9fe8a5f79de3b6af33d37e214b8199e3",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Saharuang.png",
-        "group_name": "lamashtu",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Startec Group of Companies",
-        "discovered": "2026-05-12 12:53:44.984118",
-        "description": "Startec Group of Companies, a privately held Calgary-based industrial OEM founded in 1976 by Joe Cawthorn. Startec designs, fabricates, installs, and services compression, process, and refrigeration systems for oil-and-gas operators and the energy-transition sector (RNG, hydrogen, CO&sub2; sequestration, flare-gas capture). The company employs ~270 people and exports ~80% of its cleantech output to US customers including Pembina, ARC Resources, SemCAMS, Cenovus, and Shell. The exposed material spans the entire corporate knowledge base: 25 years of payroll (2001–2026) including a master SIN VERIFICATION.xlsx register, ADP exports, T4/ROE/T2200 forms, banking/EFT direct-deposit data for ~600+ current and former employees 18+ named passport scans plus a Pakistan resume-and-passport applicant pool (~20+) Wildcard TLS private keys for *.startec.ca (2022–2027 series) and the suspected Active-Directory-integrated internal CA private key The cyber-insurance policy (BZA2151) and the Nov 2025 Statement of Values & Business-Interruption submission to Zurich ~25+ named customer engineering libraries (Pembina, ARC, SemCAMS, Cenovus, Shell Scotford) with process specs, as-built drawings, and sizing calculations Shell Caroline + Shell Saturn dispute-counsel files (~665 MB of privileged litigation material) 12 fiscal years of board packs including “in camera” sessions, the 2020 Valuation Report, family-trust T3 returns, and succession-planning documents Cawthorn family QuickBooks files (live .QBW — full chart of accounts, general ledger, every transaction) 11 Outlook PST mailboxes (several multi-GB — named ex-employees' complete email history) Physical-security access codes (CCTV passwords, Telsco alarm chart, all-doors key record)",
-        "link": "/blog/startec-814f7846",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "NorthWest Handling Systems",
-        "discovered": "2026-05-12 12:53:43.955612",
-        "description": "NorthWest Handling Systems — a 55-year-old forklift and warehouse equipment company headquartered in Renton, Washington, with branches across WA, OR, and AK. The dump is the entire corporate file share going back to 1988. 337,000+ files spanning every branch, every department, every era of the company. It includes: Plaintext credit card numbers in an Excel spreadsheet literally titled “C.O.D. info (CREDIT CARD INFO).xlsx” — stored at the root of the file server, unencrypted, for years. Social Security numbers and Taxpayer IDs on W-9 forms and certified payroll documents for government-contract work (USPS, Oregon DHS, public schools). 3+ years of plaintext passwords for Target Corporation’s vendor portal (TARS), stored in Word documents titled “TARGET PASSWORD & SECURITY QUESTIONS.” Each password rotation was saved as a new file. Home Depot Maximo DC billing credentials — plaintext, in a Word document, enabling fraudulent invoicing against a Fortune 50 company. Albertsons/Safeway Corrigo facility-management portal credentials — again, plaintext in a .docx file. 33 GB of customer warehouse CAD files — facility layouts, equipment placement, security-zone dimensions, and fire-protection drawings for approximately 50–200 companies including Nike, Google, Costco, and Umpqua Bank. 24,669 rows of fixed-asset data in ExportFile.csv — the complete equipment inventory, revealing the company’s financial structure, depreciation schedules, and capital-investment history. Corporate bank routing and account numbers (ACH authorization forms), employee direct-deposit details, time cards, disciplinary records, accident reports, and decades of invoices.",
-        "link": "/blog/worf-626327a9",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
         "sector": "Finance"
     }
 ]
