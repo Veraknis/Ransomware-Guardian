@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Schulte-Lindhorst GmbH & Co.",
+        "discovered": "2026-05-14 18:54:03.521043",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=fc4e2698-9dcc-4f1f-bc54-cd2ecacf3f68",
+        "magnet": null,
+        "screen": "screenshots/qilin/Schulte-Lindhorst GmbH & Co.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Fab-Masters",
         "discovered": "2026-05-14 14:53:01.602946",
         "description": "Industrial Machinery & Equipment",
@@ -58,135 +68,5 @@
         "screen": null,
         "group_name": "killsec3",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Silergy Corp",
-        "discovered": "2026-05-13 21:52:17.153455",
-        "description": "",
-        "link": "/blog/disclosures/6a04ccd8d152110a6a2a03ef",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Silergy Corp.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Domaine Des Tournels",
-        "discovered": "2026-05-13 20:53:27.273854",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=be7f5030-e850-4c5f-b6a9-0b7efaae79d8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Domaine Des Tournels.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Spirit Medical Transport",
-        "discovered": "2026-05-13 20:53:26.311803",
-        "description": "Ambulance Services",
-        "link": "/site/blog?uuid=e9162b12-dc76-4af4-80c2-5a326a93f222",
-        "magnet": null,
-        "screen": "screenshots/qilin/Spirit Medical Transport.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Mayer",
-        "discovered": "2026-05-13 20:53:25.306384",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=e7ace560-3c35-42bc-8f25-fef774a53860",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mayer.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Bluize",
-        "discovered": "2026-05-13 20:53:21.703766",
-        "description": "Software",
-        "link": "/site/blog?uuid=8289980d-3796-40b2-b594-9f76da9e6380",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bluize.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MicroMarketing",
-        "discovered": "2026-05-13 20:53:04.846153",
-        "description": "MicroMarketing specializes in expert title selections for books, audio CDs, and DVDs, catering primarily to librarians and libraries. The company is known for i...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Pamil Modulsystem",
-        "discovered": "2026-05-13 20:53:01.616215",
-        "description": "Pamil Modulsystem specializes in renting flexible modular buildings tailored for various needs, including offices and schools. Established in 1963, the company ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tricon Infotech",
-        "discovered": "2026-05-13 20:53:00.468960",
-        "description": "Tricon Infotech delivers efficient, automated solutions and full digital transformations through custom products and enterprise implementations. The company's w...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "John G Yphantides A Professional Law",
-        "discovered": "2026-05-13 19:52:26.269963",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=1e464ce5-6e74-4e62-be0b-eac503e43af8",
-        "magnet": null,
-        "screen": "screenshots/qilin/John G Yphantides A Professional Law.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Brand X Hydrovac Services",
-        "discovered": "2026-05-13 19:52:25.301471",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=a83a3f44-9be2-4638-965c-20ad316b6086",
-        "magnet": null,
-        "screen": "screenshots/qilin/Brand X Hydrovac Services.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "LTJ Industrial Services",
-        "discovered": "2026-05-13 19:52:24.242028",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=1be4449c-28aa-4481-830f-c397293bf7c7",
-        "magnet": null,
-        "screen": "screenshots/qilin/LTJ Industrial Services.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Johnson Carter Architects",
-        "discovered": "2026-05-13 19:52:23.258711",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=8a4ab418-20fb-4fe0-ae62-c8ba58b9a745",
-        "magnet": null,
-        "screen": "screenshots/qilin/Johnson Carter Architects.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "One Legal",
-        "discovered": "2026-05-13 19:52:20.411156",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=83976a9a-edcc-4c6d-9c7e-6bee69187a6c",
-        "magnet": null,
-        "screen": "screenshots/qilin/One Legal.png",
-        "group_name": "qilin",
-        "sector": "Legal"
     }
 ]
