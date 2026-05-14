@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "BAYTECH A/S",
+        "discovered": "2026-05-14 11:54:46.374006",
+        "description": "Website: baytech.dk\nRevenue: $5 Million\nBaytech A/S is a Danish industrial engineering company that provides crane systems, material handling equipment, and logistics solutions for industrial clients. It combines engineering, installation, and service, delivering both standard and custom-built systems. The company also works with automation technologies, including mobile robots and warehouse solutions.\nThe volume of retrieved data is 110 GB",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Ira & Larry Goldberg Coins & Collectibles",
+        "discovered": "2026-05-14 11:54:29.962999",
+        "description": "Goldberg Coins & Collectibles Inc. is a family-owned business specializing in numismatic auctions and collectibles, with a legacy dating back to 1930. The company offers expert auction services, personal consultations, and has a strong reputation for achieving record-breaking prices for consignors. Their intended clients include coin collectors and investors looking to sell or acquire high-quality numismatic items. With over 80 years of combined experience, Ira and Larry Goldberg provide a professional and personalized service, ensuring client satisfaction and exceptional results.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dsdlawfirm.com",
+        "discovered": "2026-05-14 04:52:28.627244",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Silergy Corp",
         "discovered": "2026-05-13 21:52:17.153455",
         "description": "",
@@ -188,85 +218,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "NTN Bearing Corporation of America",
-        "discovered": "2026-05-13 02:53:04.651707",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PRESS STATEMENT 13/05/2026",
-        "discovered": "2026-05-13 00:53:37.312203",
-        "description": "Due to the public looking for confirmation from us regarding the recent resolution: We have nothing to add on or comment regarding the recent situation at the LMS company. If you are an impacted institution, we are not seeking your money. Please halt all attempts to reach out to us, the matter has been resolved. The Company and it's customers will not further be targeted or contacted for payment. The data is nonexistent.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Notification",
-        "discovered": "2026-05-13 00:53:30.010873",
-        "description": "The domain shinyhunte.rs was suspended, it is not operated and owned by us anymore. DISCLAIMER: It may be reclaimed by unknown persons in the future for malicious use. We do not control shinyhunte.rs anymore, it has been suspended by the registry.  Update, May 12, 13:00 p.m. ET: We will operate at this onion domain only moving forward. Anyone claiming to be us anywhere is impersonating. Our new PGP key is listed in the « Contact us! » button",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SHERIFF",
-        "discovered": "2026-05-13 00:53:14.671344",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=ce2b2565-40a3-44c9-8197-26e7524a309e",
-        "magnet": null,
-        "screen": "screenshots/qilin/SHERIFF.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Gravity Group",
-        "discovered": "2026-05-13 00:52:57.864724",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=7ac13b85-34b7-4efd-85a6-8cff0a497062",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Gravity Group.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Infoworld Membership Systems",
-        "discovered": "2026-05-12 22:54:25.915144",
-        "description": "",
-        "link": "topic.php?id=3mXXKlsEeP9iHV",
-        "magnet": null,
-        "screen": "screenshots/play/Infoworld Membership Systems.png",
-        "group_name": "play",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Town Car International",
-        "discovered": "2026-05-12 22:54:24.982847",
-        "description": "",
-        "link": "topic.php?id=PSNBHW6XRmsOp",
-        "magnet": null,
-        "screen": "screenshots/play/Town Car International.png",
-        "group_name": "play",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Northern Mechanical Contractors",
-        "discovered": "2026-05-12 22:54:24.004346",
-        "description": "",
-        "link": "topic.php?id=rHr0BK7KvvfJe",
-        "magnet": null,
-        "screen": "screenshots/play/Northern Mechanical Contractors.png",
-        "group_name": "play",
-        "sector": "Unknown"
     }
 ]
