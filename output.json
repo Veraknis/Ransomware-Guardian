@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "United Quality Cooperative / www.uqcoop.com",
+        "discovered": "2026-05-15 03:53:00.352094",
+        "description": "",
+        "link": "/blog/disclosures/69eeb5488f1d14b74359d4c5",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/United Quality Cooperative  wwwuqcoopcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ponisch Abogados",
+        "discovered": "2026-05-15 00:36:43.710587",
+        "description": "poenisch.com.mx zoominfo.com/c/ponisch-abogados/557504173 German-Mexican business collaboration, specializing in professional services that may span legal advisory, consulting, or industrial solutions. Though public details are intentionally discreet, the company appears to value precision, cross-cultural expertise, and long-term partnerships. The website is currently under maintenance, reflecting a commitment to quality and continuous improvement. For the most accurate information, reaching out through professional channels once the site is live is recommended.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Digiprint",
+        "discovered": "2026-05-15 00:36:42.681846",
+        "description": "digiprint.pl zoominfo.com/c/digiprint/372856266 leading Polish company established in 2000 that delivers innovative solutions for the printing industry. They specialize in digital and flexographic printing technologies, wide-format production, and packaging design, partnering with global brands like HP Indigo and Esko. Beyond equipment sales, Digiprint provides expert installation, training, and after-sales support to help print businesses thrive in a digital era",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Instituut voor de Nederlandse",
+        "discovered": "2026-05-15 00:15:34.875320",
+        "description": "ivdnt.org rocketreach.co/instituut-voor-de-nederlandse-taal-profile_b45f686efc6979e6 is the official portal of the Instituut voor de Nederlandse Taal (Dutch Language Institute), a prestigious binational research center supported by the Netherlands and Flanders. It advances the study and preservation of Dutch through cutting-edge research, digital tools, and open-access resources covering vocabulary, grammar, dialects, and terminology. The institute curates authoritative references like the Algemene Nederlandse Spraakkunst for scholars, educators, and language enthusiasts worldwid",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grupo Alvorada",
+        "discovered": "2026-05-15 00:15:33.934164",
+        "description": "galvorada.com zoominfo.com/c/grupo-alvorada/536571880 a prestigious Brazilian family-owned agribusiness founded in the 1970s and based in São Paulo. The company specializes in the production and export of high-quality fertile eggs and day-old chicks, serving both domestic and international markets with a strong focus on biosecurity and antibiotic-free practices. With over 50 years of heritage, Grupo Alvorada combines tradition, innovation, and sustainability to deliver excellence in poultry genetics and animal nutrition",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Houston Eye Associates",
+        "discovered": "2026-05-14 22:54:07.896292",
+        "description": "Houston Eye Associates is a team of board-certified ophthalmologists and board-licensed optometrists with advanced fellowship and specialty training in the fields of ophthalmology and optometry. With 20 locations across Greater Houston, there is a location near you.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Education"
+    },
+    {
         "post_title": "Schulte-Lindhorst GmbH & Co.",
         "discovered": "2026-05-14 18:54:03.521043",
         "description": "Business Services",
@@ -37,36 +97,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "abyss-data",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BAYTECH A/S",
-        "discovered": "2026-05-14 11:54:46.374006",
-        "description": "Website: baytech.dk\nRevenue: $5 Million\nBaytech A/S is a Danish industrial engineering company that provides crane systems, material handling equipment, and logistics solutions for industrial clients. It combines engineering, installation, and service, delivering both standard and custom-built systems. The company also works with automation technologies, including mobile robots and warehouse solutions.\nThe volume of retrieved data is 110 GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ira & Larry Goldberg Coins & Collectibles",
-        "discovered": "2026-05-14 11:54:29.962999",
-        "description": "Goldberg Coins & Collectibles Inc. is a family-owned business specializing in numismatic auctions and collectibles, with a legacy dating back to 1930. The company offers expert auction services, personal consultations, and has a strong reputation for achieving record-breaking prices for consignors. Their intended clients include coin collectors and investors looking to sell or acquire high-quality numismatic items. With over 80 years of combined experience, Ira and Larry Goldberg provide a professional and personalized service, ensuring client satisfaction and exceptional results.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dsdlawfirm.com",
-        "discovered": "2026-05-14 04:52:28.627244",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "killsec3",
         "sector": "Unknown"
     }
 ]
