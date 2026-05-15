@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "McCarthy Inc",
+        "discovered": "2026-05-15 17:56:43.839336",
+        "description": "McCarthy, Inc., based in Savannah, Georgia, has been providing quality doors, frames, hardware, and related products since 1955. The company specializes in metal and wood doors, including architectural-grade flush doors and custom stile and rail units, along with a variety of specialty items. McCarthy, Inc. offers comprehensive services from project inception to completion, aiming to build lasting relationships with clients across various industries such as healthcare, education, and hospitality. Their commitment to customer satisfaction is reflected in their extensive product offerings and dedicated service.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "kairos",
+        "sector": "Education"
+    },
+    {
+        "post_title": "wwag.org",
+        "discovered": "2026-05-15 16:57:23.921994",
+        "description": "An organization known as Wa Wai Assembly of God Church, an entity located in Hong Kong 🇭🇰 and operating under a na...",
+        "link": "/blog/9194b5bee0d8552e9421cd7003d82a7861469b78856b501259d0c881519df3cf/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwagorg.png",
+        "group_name": "krybit",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "defenseisready.com",
+        "discovered": "2026-05-15 16:57:21.412799",
+        "description": "",
+        "link": "/blog/disclosures/6a072947d152110a6a706176",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/defenseisreadycom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AUDIT ENTITY: Mo***et",
+        "discovered": "2026-05-15 15:55:26.381839",
+        "description": "AUDIT ID: CC92E841B75A3DF6 / DISCOVERY DATE: 2026-05-15",
+        "link": "/entity/974E9F6C44C975EA",
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: Mo***et.png",
+        "group_name": "audit team",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WholeHealth Chicago",
+        "discovered": "2026-05-15 13:54:05.611815",
+        "description": "WholeHealth Chicago is a leading healthcare practice specializing in integrative, functional, and alternative medicine. They offer a wide range of services including internal medicine, chiropractic care, nutritional counseling, and various therapies aimed at promoting overall health and well-being. Their intended clients include individuals seeking personalized and holistic approaches to health, particularly those interested in combining conventional and alternative treatments. The practice is known for its patient-centered care, where providers work collaboratively with patients to develop tailored treatment plans.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "United Quality Cooperative / www.uqcoop.com",
         "discovered": "2026-05-15 03:53:00.352094",
         "description": "",
@@ -67,36 +117,6 @@
         "magnet": null,
         "screen": "screenshots/qilin/Schulte-Lindhorst GmbH & Co.png",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Fab-Masters",
-        "discovered": "2026-05-14 14:53:01.602946",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=04e96a4b-31cf-4ec4-bcc9-4316c3fb3383",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fab-Masters.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Goodstone Group",
-        "discovered": "2026-05-14 13:55:26.271358",
-        "description": "Goldberg Coins & Collectibles Inc. is a family-owned business specializing in numismatic auctions and collectibles, with a legacy dating back to 1930. The company offers expert auction services, personal consultations, and has a strong reputation for achieving record-breaking prices for consignors. Their intended clients include coin collectors and investors looking to sell or acquire high-quality numismatic items. With over 80 years of combined experience, Ira and Larry Goldberg provide a professional and personalized service, ensuring client satisfaction and exceptional results.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "technic.com",
-        "discovered": "2026-05-14 13:55:21.760664",
-        "description": "technic.com",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "abyss-data",
         "sector": "Unknown"
     }
 ]
