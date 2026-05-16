@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "https://www.ramarfoods.com/",
+        "discovered": "2026-05-16 21:53:13.498879",
+        "description": "RAMAR FOODS INTERNATIONAL",
+        "link": "/post/6a024844786a0e50d7a6c969",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwramarfoodscom.png",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CLINICA AVELLANEDA MEDICAL CENTER",
+        "discovered": "2026-05-16 20:54:08.258448",
+        "description": "0",
+        "link": "/site/blog?uuid=f5dd1c52-cb51-4535-a8ee-bfd7ed801e49",
+        "magnet": null,
+        "screen": "screenshots/qilin/CLINICA AVELLANEDA MEDICAL CENTER.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "AdvancedHEALTH.",
+        "discovered": "2026-05-16 18:52:42.236756",
+        "description": "We will Leak random amount of patient data everyday, until we've been paid or the timer hits 0. Check this description for Fresh leaks everyday.\nNEW RULE, WE DO...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gastroenterology & Hepatology of CNY[FULL_LEAK]",
+        "discovered": "2026-05-16 17:52:59.185596",
+        "description": "We decided to leak all patient records.\nEnjoy)",
+        "link": "#Gastroenterology%20%26%20Hepatology%20of%20CNY%5BFULL_LEAK%5D",
+        "magnet": null,
+        "screen": "screenshots/exitium/Gastroenterology & Hepatology of CNY[FULL_LEAK].png",
+        "group_name": "exitium",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Estrela Industrial",
         "discovered": "2026-05-16 12:52:55.821626",
         "description": "Organization with 1201 emails extracted. Domain: estrela.ind.br",
@@ -48,145 +88,5 @@
         "screen": "screenshots/coinbase cartel/Grafana.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "NR Engineering Co., Ltd.",
-        "discovered": "2026-05-15 20:52:58.773404",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/blog?uuid=dd9f7812-b3c4-44da-8c1a-f8c5951cf8a8",
-        "magnet": null,
-        "screen": "screenshots/qilin/NR Engineering Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Australian College of Business Intelligence",
-        "discovered": "2026-05-15 20:52:57.780823",
-        "description": "Education",
-        "link": "/site/blog?uuid=5ecb65aa-3960-4b61-ab37-802b4eb3d3d5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Australian College of Business Intelligence.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Generation Life",
-        "discovered": "2026-05-15 20:52:56.832738",
-        "description": "Insurance",
-        "link": "/site/blog?uuid=f6653556-4d32-4049-8cc2-5837071db834",
-        "magnet": null,
-        "screen": "screenshots/qilin/Generation Life.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Menzies Group",
-        "discovered": "2026-05-15 20:52:55.872132",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=c2b792bf-4fce-4c81-beeb-d21b9ecc3fcf",
-        "magnet": null,
-        "screen": "screenshots/qilin/Menzies Group.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "LeRoy Surveyors & Engineers",
-        "discovered": "2026-05-15 20:52:35.339345",
-        "description": "LeRoy Surveyors & Engineers, INC. specializes in property boundary surveying, topographic surveys, and subdivision surveys, primarily serving clients in the Puy...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Tower View Primary School",
-        "discovered": "2026-05-15 19:54:34.208667",
-        "description": "Tower View Primary School\nTower View Primary School is an educational institution that serves approximately 380 pupils across 14 classes.\n\n\n\nMore",
-        "link": "archive.php?company=254",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Tower View Primary School.png",
-        "group_name": "rhysida",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Common Part Groupings",
-        "discovered": "2026-05-15 19:54:31.854683",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=eb5cd301-fa84-4a24-a61c-291a46e95307",
-        "magnet": null,
-        "screen": "screenshots/qilin/Common Part Groupings.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Foot Solutions",
-        "discovered": "2026-05-15 19:54:30.434230",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=e9f74cf9-f2ec-4dfe-882d-6139896b242c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Foot Solutions.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "B.Care Medical Center",
-        "discovered": "2026-05-15 19:54:29.135328",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=68ee2d01-ba19-44ff-96dc-eb7d73248476",
-        "magnet": null,
-        "screen": "screenshots/qilin/BCare Medical Center.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Ross Yerger Insurance",
-        "discovered": "2026-05-15 18:54:46.680323",
-        "description": "rossandyerger.com zoominfo.com/c/ross--yerger-insurance-inc/101253758 Ross & Yerger is an employee-owned independent insurance agency founded in 1860, specializing in personalized risk management and insurance solutions for businesses and individuals. Their \"Lighthouse\" approach offers holistic protection beyond traditional policies, prioritizing client needs over shareholders. With a culture centered on relationships, community, and expertise in sectors like oil & gas and construction, they help clients protect what matters most",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Advanced Medical Consultants",
-        "discovered": "2026-05-15 18:54:45.663134",
-        "description": "The leak contains 2,300,000 Lines of FULL patient data, partner agreements, management, payroll and HR files.\nScreenshot attached :)\n\nWe Will Leak 1,000 Lines o...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Raise the Bottom",
-        "discovered": "2026-05-15 18:54:43.820189",
-        "description": "Raise The Bottom is an opioid treatment center in Idaho, offering outpatient medication-assisted treatment (MAT) programs and therapy. The center provides services including Suboxone, Methadone, and Vivitrol, with locations in Boise, Nampa, and Pocatello. Their mission is to support Idaho residents in reclaiming their lives from opioid addiction through comprehensive care that involves family and community. With a focus on personalized treatment and a whole-person approach, Raise The Bottom aims to foster lasting recovery and stability for individuals and their families.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Fox Valley Tax Solutions",
-        "discovered": "2026-05-15 18:54:40.132159",
-        "description": "Fox Valley Tax Solutions is a full-service tax firm located in Saint Charles, Illinois, specializing in personalized tax preparation and strategic planning services. They cater to individuals, businesses, trusts, and estates, offering a range of services including tax consultation, IRS issue resolution, and notary services.We will upload 95gb of corporate data soon. Detailed client personal information (passports, DLs, SSNs, financial information), contracts and agreements, NDAs and other confidential docs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "McCarthy Inc",
-        "discovered": "2026-05-15 17:56:43.839336",
-        "description": "McCarthy, Inc., based in Savannah, Georgia, has been providing quality doors, frames, hardware, and related products since 1955. The company specializes in metal and wood doors, including architectural-grade flush doors and custom stile and rail units, along with a variety of specialty items. McCarthy, Inc. offers comprehensive services from project inception to completion, aiming to build lasting relationships with clients across various industries such as healthcare, education, and hospitality. Their commitment to customer satisfaction is reflected in their extensive product offerings and dedicated service.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "kairos",
-        "sector": "Education"
     }
 ]
