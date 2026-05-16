@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Turner Supply",
+        "discovered": "2026-05-15 22:52:55.241724",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=972c49f2-7f24-4159-94e4-321e455afe85",
+        "magnet": null,
+        "screen": "screenshots/qilin/Turner Supply.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Zywave",
+        "discovered": "2026-05-15 22:52:37.656296",
+        "description": "",
+        "link": "/companies/zywave",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Zywave.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grafana",
+        "discovered": "2026-05-15 22:52:36.561813",
+        "description": "",
+        "link": "/companies/graf",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Grafana.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "NR Engineering Co., Ltd.",
         "discovered": "2026-05-15 20:52:58.773404",
         "description": "Electricity, Oil & Gas",
@@ -178,65 +208,5 @@
         "screen": null,
         "group_name": "cmd organization",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "United Quality Cooperative / www.uqcoop.com",
-        "discovered": "2026-05-15 03:53:00.352094",
-        "description": "",
-        "link": "/blog/disclosures/69eeb5488f1d14b74359d4c5",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/United Quality Cooperative  wwwuqcoopcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ponisch Abogados",
-        "discovered": "2026-05-15 00:36:43.710587",
-        "description": "poenisch.com.mx zoominfo.com/c/ponisch-abogados/557504173 German-Mexican business collaboration, specializing in professional services that may span legal advisory, consulting, or industrial solutions. Though public details are intentionally discreet, the company appears to value precision, cross-cultural expertise, and long-term partnerships. The website is currently under maintenance, reflecting a commitment to quality and continuous improvement. For the most accurate information, reaching out through professional channels once the site is live is recommended.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Digiprint",
-        "discovered": "2026-05-15 00:36:42.681846",
-        "description": "digiprint.pl zoominfo.com/c/digiprint/372856266 leading Polish company established in 2000 that delivers innovative solutions for the printing industry. They specialize in digital and flexographic printing technologies, wide-format production, and packaging design, partnering with global brands like HP Indigo and Esko. Beyond equipment sales, Digiprint provides expert installation, training, and after-sales support to help print businesses thrive in a digital era",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Instituut voor de Nederlandse",
-        "discovered": "2026-05-15 00:15:34.875320",
-        "description": "ivdnt.org rocketreach.co/instituut-voor-de-nederlandse-taal-profile_b45f686efc6979e6 is the official portal of the Instituut voor de Nederlandse Taal (Dutch Language Institute), a prestigious binational research center supported by the Netherlands and Flanders. It advances the study and preservation of Dutch through cutting-edge research, digital tools, and open-access resources covering vocabulary, grammar, dialects, and terminology. The institute curates authoritative references like the Algemene Nederlandse Spraakkunst for scholars, educators, and language enthusiasts worldwid",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Alvorada",
-        "discovered": "2026-05-15 00:15:33.934164",
-        "description": "galvorada.com zoominfo.com/c/grupo-alvorada/536571880 a prestigious Brazilian family-owned agribusiness founded in the 1970s and based in São Paulo. The company specializes in the production and export of high-quality fertile eggs and day-old chicks, serving both domestic and international markets with a strong focus on biosecurity and antibiotic-free practices. With over 50 years of heritage, Grupo Alvorada combines tradition, innovation, and sustainability to deliver excellence in poultry genetics and animal nutrition",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Houston Eye Associates",
-        "discovered": "2026-05-14 22:54:07.896292",
-        "description": "Houston Eye Associates is a team of board-certified ophthalmologists and board-licensed optometrists with advanced fellowship and specialty training in the fields of ophthalmology and optometry. With 20 locations across Greater Houston, there is a location near you.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Education"
     }
 ]
