@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Estrela Industrial",
+        "discovered": "2026-05-16 12:52:55.821626",
+        "description": "Organization with 1201 emails extracted. Domain: estrela.ind.br",
+        "link": "/company/baralai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Estrela Industrial.png",
+        "group_name": "bavacai",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "AdvancedHEALTH",
+        "discovered": "2026-05-16 11:52:53.678832",
+        "description": "The leak contains 2,300,000 Lines of FULL patient data, partner agreements, management, payroll and HR files.\nScreenshot attached :)\n\nWe Will Leak 1,000 Lines o...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Turner Supply",
         "discovered": "2026-05-15 22:52:55.241724",
         "description": "Home Improvement & Hardware Retail",
@@ -168,45 +188,5 @@
         "screen": null,
         "group_name": "kairos",
         "sector": "Education"
-    },
-    {
-        "post_title": "wwag.org",
-        "discovered": "2026-05-15 16:57:23.921994",
-        "description": "An organization known as Wa Wai Assembly of God Church, an entity located in Hong Kong 🇭🇰 and operating under a na...",
-        "link": "/blog/9194b5bee0d8552e9421cd7003d82a7861469b78856b501259d0c881519df3cf/",
-        "magnet": null,
-        "screen": "screenshots/krybit/wwagorg.png",
-        "group_name": "krybit",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "defenseisready.com",
-        "discovered": "2026-05-15 16:57:21.412799",
-        "description": "",
-        "link": "/blog/disclosures/6a072947d152110a6a706176",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/defenseisreadycom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: Mo***et",
-        "discovered": "2026-05-15 15:55:26.381839",
-        "description": "AUDIT ID: CC92E841B75A3DF6 / DISCOVERY DATE: 2026-05-15",
-        "link": "/entity/974E9F6C44C975EA",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: Mo***et.png",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "WholeHealth Chicago",
-        "discovered": "2026-05-15 13:54:05.611815",
-        "description": "WholeHealth Chicago is a leading healthcare practice specializing in integrative, functional, and alternative medicine. They offer a wide range of services including internal medicine, chiropractic care, nutritional counseling, and various therapies aimed at promoting overall health and well-being. Their intended clients include individuals seeking personalized and holistic approaches to health, particularly those interested in combining conventional and alternative treatments. The practice is known for its patient-centered care, where providers work collaboratively with patients to develop tailored treatment plans.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Healthcare"
     }
 ]
