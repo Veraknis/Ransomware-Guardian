@@ -1,5 +1,195 @@
 [
     {
+        "post_title": "berlinmobil.de",
+        "discovered": "2026-05-18 21:56:36.165465",
+        "description": "Is a German transportation company headquartered in Berlin, specializing in bus charter services, passenger transportation, school transport, and mobility solutions …",
+        "link": "/blog/post/berlinmobilde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/berlinmobilde.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "adlan.com",
+        "discovered": "2026-05-18 21:56:35.068198",
+        "description": "Founded in 1995, the company specializes in IT infrastructure, network design, cybersecurity, disaster recovery, and managed technology services for small …",
+        "link": "/blog/post/adlancom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/adlancom.png",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "printroom.co.uk",
+        "discovered": "2026-05-18 21:56:34.020923",
+        "description": "Founded in 1977, the company has evolved from a small blueprint-printing business into a large multi-service print agency serving corporate, …",
+        "link": "/blog/post/printroomcouk/",
+        "magnet": null,
+        "screen": "screenshots/safepay/printroomcouk.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "hautarzt-budihardja.de",
+        "discovered": "2026-05-18 21:56:32.519396",
+        "description": "The clinic is led by Dr. med. Debby Budihardja, a board-certified dermatologist and allergologist with extensive clinical experience gained at …",
+        "link": "/blog/post/hautarzt-budihardjade/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hautarzt-budihardjade.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Huse Incorporated",
+        "discovered": "2026-05-18 20:54:30.927561",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TAKOSAN OTOMOBIL",
+        "discovered": "2026-05-18 20:54:29.925371",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vantage Energy LLC",
+        "discovered": "2026-05-18 20:54:28.879549",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "C***r*o T**uc**n*",
+        "discovered": "2026-05-18 20:54:27.807048",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "m***o*ul",
+        "discovered": "2026-05-18 20:54:26.750257",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gartengestaltung Muller eU",
+        "discovered": "2026-05-18 19:54:30.150333",
+        "description": "Construction",
+        "link": "/site/blog?uuid=9d5df2f0-9bba-4f6e-8f56-333b5ae062c8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gartengestaltung Muller eU.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "RCR Industrial Flooring",
+        "discovered": "2026-05-18 19:54:29.174946",
+        "description": "Construction",
+        "link": "/site/blog?uuid=a536837c-3ebd-46d6-bdc4-a3685fe8d6df",
+        "magnet": null,
+        "screen": "screenshots/qilin/RCR Industrial Flooring.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "DEVO-Tech",
+        "discovered": "2026-05-18 19:41:06.033661",
+        "description": "devo-tech.ch zoominfo.com/c/devo-tech-ag/430812943 DEVO-Tech AG is a Swiss family-owned engineering company from Ziefen, specializing in custom mechanical solutions for apparatus engineering, vacuum lifting technology, and tunnel construction since 1997. With 25+ years of expertise and a team of 30+ professionals, they deliver high-precision, flexible manufacturing and full-cycle project support — from planning to production. Their innovations serve clients in 45+ countries, combining Swiss quality, sustainability, and reliable partnership for complex industrial challenges",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Modern Display",
+        "discovered": "2026-05-18 19:41:05.077974",
+        "description": "moderndisplay.com zoominfo.com/c/modern-display/25347032 odern Display is a beloved family-owned retail destination in Salt Lake City, Utah, founded in 1946 and specializing in seasonal décor, holiday treasures, and home accents. With 150+ team members and a 300,000 sq. ft. facility, they offer everything from Christmas trees and patriotic flags to floral arrangements and parade float supplies. Beyond retail, they power expo services, wholesale floral, and graphic design—helping customers celebrate life's special moments with beauty and joy for nearly 80 years",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "University of Finance and Administration",
+        "discovered": "2026-05-18 19:41:04.091707",
+        "description": "vsfs.cz rocketreach.co/university-of-finance-and-administration-prague-profile_b5c5d93ff42e0e40 University of Finance and Administration is a prestigious private university in Prague, founded in 1999 and recognized as one of the Czech Republic's first private business schools. With campuses in Prague, Karlovy Vary, and Most, it offers modern bachelor's, master's, and doctoral programs in economics, finance, law, marketing, and IT — taught in Czech, English, and Russian. Combining academic excellence with practical focus, VŠFS empowers over 5,000 students through flexible study formats, international partnerships, and strong industry connections",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "aaa",
+        "discovered": "2026-05-18 19:24:47.502244",
+        "description": "a",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Internal Medicine",
+        "discovered": "2026-05-18 19:24:46.550025",
+        "description": "internalmedicineofswf.com zoominfo.com/c/internal-medicine-of-southwest-florida/559515842 a private, physician-owned primary care practice founded in 1998 and located in Fort Myers, FL . The site provides patient resources, contact information, office hours, and details about their proactive, preventative healthcare services. They focus on quality, patient-centric care for both wellness visits and urgent medical needs",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Polyrack",
+        "discovered": "2026-05-18 19:24:45.619773",
+        "description": "polyrack.com zoominfo.com/c/polyrack-ag/30835122 POLYRACK tech-group is a German family-owned engineering company founded in 1979, specializing in high-quality electronic packaging solutions and customized mechanical systems. They design and manufacture subracks, aluminum housings, backplanes, and ruggedized components for demanding industries like aerospace, medical technology, telecommunications, and transportation. With over 45 years of expertise and 500+ employees worldwide, POLYRACK delivers innovative, future-oriented solutions that combine precision engineering with reliable series production",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Internet Technologies Designs",
+        "discovered": "2026-05-18 19:24:43.666771",
+        "description": "itd-system.com zoominfo.com/c/internet-technologies-designs/529178114 ITD System is a French IT solutions integrator founded in 1994, specializing in adaptable digital tools for business productivity. They deliver customized software, VoIP telephony, CRM integration, and secure infrastructure services tailored to SMEs. With offices in Mâcon, Moulins, and Paray-le-Monial, the company combines local proximity with technical expertise to support digital transformation",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "E-Control Systems",
+        "discovered": "2026-05-18 19:24:41.865527",
+        "description": "econtrolsystems.com zoominfo.com/c/e-control-systems-inc/34461104 E-Control Systems is a California-based technology leader founded in 1998, specializing in IoT-powered wireless temperature monitoring solutions for critical environments. Their turnkey FusionLive™ platform delivers real-time alerts, cloud-based dashboards, and regulatory compliance tools for food service, healthcare, life sciences, and retail industries. With 5,000+ installations nationwide, ECS combines custom-engineered hardware and intuitive software to safeguard products, ensure safety standards, and streamline operations 24/7",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Berlinmobil.de",
         "discovered": "2026-05-18 17:55:04.441915",
         "description": "Is a German transportation company headquartered in Berlin, specializing in bus charter services, passenger transportation, school transport, and mobility solutions …",
@@ -128,85 +318,5 @@
         "screen": "screenshots/chaos/fallprotectcom.png",
         "group_name": "chaos",
         "sector": "Technology"
-    },
-    {
-        "post_title": "challenge-mfg.com",
-        "discovered": "2026-05-17 21:50:58.750241",
-        "description": "Company management has exactly 72 hours to contact us. Otherwise, the organization’s data—which contains confidential information—will be published on our public platform, and the possibility of further negotiations will be ruled out.\n\nChallenge Manufacturing is a leading Tier 1 automotive sup…",
-        "link": "/SP6HPs3K609iS8rmatQO9PbvAA3Ky4fT/challenge-mfg-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/challenge-mfgcom.png",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Taylor Provisions",
-        "discovered": "2026-05-17 20:49:54.650036",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=753fc2a7-1e1a-48ba-aac9-3c5261b3b689",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Taylor Provisions.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Buckeye Paper",
-        "discovered": "2026-05-17 20:49:47.993015",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=e45891dd-da7a-4758-9a50-b5047292584c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Buckeye Paper.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Musée du Bas-Saint-Laurent",
-        "discovered": "2026-05-17 20:49:40.434140",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=7d9b817e-24da-4d8f-a7e2-0b573e3403d4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Musée du Bas-Saint-Laurent.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Fruits Queralt",
-        "discovered": "2026-05-17 20:49:29.406341",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=257e8724-d4b4-4e1b-bf7a-b2a3e18bdce1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Fruits Queralt.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Salter HealthCare",
-        "discovered": "2026-05-17 19:50:05.344826",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=477541e5-8b6d-41cd-b380-6748a6130908",
-        "magnet": null,
-        "screen": "screenshots/qilin/Salter HealthCare.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Majlis Perbandaran Alor Gajah",
-        "discovered": "2026-05-17 19:50:04.262447",
-        "description": "Government",
-        "link": "/site/blog?uuid=435b7497-4fe5-45cc-b2e7-8cfbac49994e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Majlis Perbandaran Alor Gajah.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Monir Precision Monitoring",
-        "discovered": "2026-05-17 19:50:02.744767",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=78024241-f710-4bcf-a057-b7cb803243c1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Monir Precision Monitoring.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
