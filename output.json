@@ -1,5 +1,435 @@
 [
     {
+        "post_title": "Acton Electrical",
+        "discovered": "2026-05-19 17:57:47.265527",
+        "description": "Acton Electrical Pty Ltd specializes in the design, construction, supply, and installation of electrical services for industrial and commercial applications. Established in 1989, the companyhas built a strong reputation in the building industry, offering services such as fire detection systems, telecommunications, and project management.We will upload 73gb of corporate data soon. Employee personal information (passports DLs and soon), contracts and agreements, detailed financials, lots of project files, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "gursoygrup.com.tr",
+        "discovered": "2026-05-19 17:13:07.932498",
+        "description": "Gürsoy Grup is a leading company in Turkey with over 30 years of experience, operating in seven sect...",
+        "link": "/post/1fe1499d9f2bccc88b7b865edf87ec51",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/gursoygrupcomtr.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "irestal.com",
+        "discovered": "2026-05-19 17:13:06.991450",
+        "description": "Irestal Group has over 80 years of experience providing stainless steel solutions, with a service ce...",
+        "link": "/post/3bd782e86233af39b5d5f29df6f196e8",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/irestalcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ritta.co.th",
+        "discovered": "2026-05-19 17:13:06.052734",
+        "description": "RITTA is a leading design and construction service provider in Thailand, specializing in a wide rang...",
+        "link": "/post/3aade86bda787805044e87403ff2eebb",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/rittacoth.png",
+        "group_name": "lockbit5",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "orekait.com",
+        "discovered": "2026-05-19 17:13:04.947395",
+        "description": "Oreka IT is a technology services company that works closely with Euskal Trenbide Sarea (Basque Rail...",
+        "link": "/post/17884c34801d49754fdbaa828dff40b5",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/orekaitcom.png",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "de.yangming.com",
+        "discovered": "2026-05-19 17:13:03.831680",
+        "description": "Yang Ming Marine Transport Corporation is a major Taiwanese shipping line whose German division man...",
+        "link": "/post/3c25660594bf7b465b2faf955d4dcd54",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/deyangmingcom.png",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "anser-coding.com",
+        "discovered": "2026-05-19 17:13:00.462210",
+        "description": "FOUNDED IN 1986\nANSER is one of the world leading solution provider of product coding & marking equ...",
+        "link": "/post/4eee4fd14ca89be01260b5705ce3627c",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/anser-codingcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rhactushotel.com",
+        "discovered": "2026-05-19 17:12:59.504769",
+        "description": "Rhactus Hotel is a premier accommodation provider located in El-Alamein, Egypt, offering a variety o...",
+        "link": "/post/d31502c73b53b08c83038991b9ed763b",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/rhactushotelcom.png",
+        "group_name": "lockbit5",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "vp-brands.com",
+        "discovered": "2026-05-19 17:12:58.551361",
+        "description": "We produce quality spirits, evolve brands and push boundaries.\nAs far as it takes.",
+        "link": "/post/68fbef4827ab8de327f2455229e94953",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/vp-brandscom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dentoncalvary.org",
+        "discovered": "2026-05-19 17:12:57.574161",
+        "description": "Denton Calvary Academy is a K-12 University-Model school that focuses on fostering a love of learnin...",
+        "link": "/post/c42e50a0d82f1a8740dc6343b8cc10de",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/dentoncalvaryorg.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "jec.co.id",
+        "discovered": "2026-05-19 17:12:56.592646",
+        "description": "JEC Eye Hospitals and Clinics is a trusted eye hospital in Indonesia, offering advanced services in...",
+        "link": "/post/536bb0019c2d9a86c06a95db550a232d",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/jeccoid.png",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "santoinacio-rio.com.br",
+        "discovered": "2026-05-19 17:12:55.640480",
+        "description": "Colégio Santo Inácio, part of the Jesuit Education Network, has been providing quality education sin...",
+        "link": "/post/1eb9565e742bf657f69d8130574d9706",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/santoinacio-riocombr.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "lbreng.com.br",
+        "discovered": "2026-05-19 17:12:54.662399",
+        "description": "LBR Engenharia is a consulting and engineering company specializing in innovative solutions for qual...",
+        "link": "/post/1dc62194374e728a2eec9b7dbd4e7719",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/lbrengcombr.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "stahlwille.nl",
+        "discovered": "2026-05-19 17:12:53.756912",
+        "description": "Stahlwille BV is a company that operates in the Investment Banking industry. It employs 100to249 peo...",
+        "link": "/post/fdeba567b58be79ffaf03e44ac626587",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/stahlwillenl.png",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "shougang.com.pe",
+        "discovered": "2026-05-19 17:12:52.833338",
+        "description": "SHOUGANG HIERRO PERU S.A.A. is a civil association focused on iron production. The company is involv...",
+        "link": "/post/ff9476f3d1c44d05f0e12f0818c970cd",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/shougangcompe.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "centralromana.com.do",
+        "discovered": "2026-05-19 17:12:51.873755",
+        "description": "Established in 1912, Central Romana Corporation is the leading agro-industrial and tourism company i...",
+        "link": "/post/ae4b58d9d3620769eceb76cb2fb85d06",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/centralromanacomdo.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Colorado Dental Wellness Center",
+        "discovered": "2026-05-19 17:00:04.297659",
+        "description": "Clients’ medical data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/gZGDkk6Zx8s8JxjAWQV1QgHpfbA3eQbyiWobUEwODwbU6GveFY+Iqy2ZMPbggLttuH3GLXQ9bXSnn8nlCfXNlbjhab2RT",
+        "magnet": null,
+        "screen": "screenshots/anubis/Colorado Dental Wellness Center.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "A.R.Ge.Co",
+        "discovered": "2026-05-19 17:00:01.369281",
+        "description": "Accounting firm data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/z38pgAfmNL92BXbX7tc3ZV6mW2ewomwgHeo31fl1sV+x9eqqgqQauFPBe8rzwVPvL6akXlx1nwP5OprSKlLKnpHTFNCeDE4",
+        "magnet": null,
+        "screen": "screenshots/anubis/ARGeCo.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Zuther Hautmann",
+        "discovered": "2026-05-19 16:58:33.055710",
+        "description": "",
+        "link": "topic.php?id=Xs2yUnKYW9lmuQ",
+        "magnet": null,
+        "screen": "screenshots/play/Zuther Hautmann.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "VX Case",
+        "discovered": "2026-05-19 16:58:31.771581",
+        "description": "vxcase.com.br is the website of a Brazilian e-commerce store that primarily sells accessories for cell phones and electronics, such as cases, screen protectors, and related products. The site is operated by a company called VX Case, which works in the smartphone and device accessories market.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Wolf Technology Group",
+        "discovered": "2026-05-19 16:58:30.808045",
+        "description": "Wolf Technology Group specializes in providing cost-effective IT solutions and services for small businesses, helping them manage their technology needs without the expense of in-house support. Their offerings include Broadband, Infrastructure, VoIP, and managed IT services tailored to individual client requirements. The company focuses on enhancing business performance through improved IT systems and ensuring business continuity with expert support. With a team of certified IT professionals, they provide personalized strategies to optimize technology infrastructure while saving time and money.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "EMCO Electric International",
+        "discovered": "2026-05-19 16:58:29.795385",
+        "description": "Electrical Resource International specializes in manufacturing a wide range of electrical installation products, including conduit, fittings, and accessories. With over 40 years of experience, they cater to various industries such as food and beverage, pharmaceuticals, and water treatment. Their product offerings include stainless steel fittings, liquid-tight connectors, and metal framing channels, designed to meet strict sanitary and corrosive requirements. The company aims to serve clients in residential, commercial, and industrial sectors, providing reliable solutions for electrical system needs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "M&K Foam Koło",
+        "discovered": "2026-05-19 16:58:28.832808",
+        "description": "mkfoam.pl is the official website of M&K Foam Koło, a Polish manufacturer that specializes in sleep products like mattresses and beds.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pemerintah Kabupaten Bojonegoro",
+        "discovered": "2026-05-19 16:58:27.633342",
+        "description": "Pemkab Bojonegoro is the official government portal of Bojonegoro Regency in East Java, Indonesia, providing various public services and information. The portal features services such as Smart City initiatives, public transparency, and online government services aimed at enhancing community engagement. It serves a diverse clientele, including local residents, businesses, and tourists seeking information about the region governance and attractions. Additionally, the portal promotes local tourism and cultural heritage through various educational and recreational activities.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "International Business Solution de México",
+        "discovered": "2026-05-19 16:58:26.701852",
+        "description": "Company refused to deal after they request us to unlist their company from BLOG, Data Leaked.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "CHARLES CONSEIL COORDINATION (3CCC)",
+        "discovered": "2026-05-19 16:58:25.712805",
+        "description": "CHARLES CONSEIL COORDINATION (3CCC) is a French project management and construction economics company, specializing in project coordination and oversight.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Reschio",
+        "discovered": "2026-05-19 16:58:24.768598",
+        "description": "Since the company didn't reach us, Data has been Leaked.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Bimtrazer",
+        "discovered": "2026-05-19 16:58:23.766921",
+        "description": "Since the company didn't reach us, Data has been Leaked.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "URG OEM",
+        "discovered": "2026-05-19 16:58:22.748593",
+        "description": "urg.co.kr - URG was founded with a sincere desire to provide solutions for customers facing skin concerns.\n\nStarting in 1990 with the launch of Shangpree Spa, the company not only delivered high-quality products to customers but also set a new standard for luxury service in the skincare industry—establishing itself as a leading premium spa brand.\n\nBuilding on over 30 years of tradition and expertise, URG has since launched a variety of skincare brands, gaining recognition both domestically and internationally - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Don Bosco Technical Institute of Makati",
+        "discovered": "2026-05-19 16:58:21.783127",
+        "description": "Don Bosco Technical Institute of Makati is dedicated to providing quality education and holistic formation for students from elementary to senior high school, as well as technical vocational education. The institution aims to develop competent, service-oriented individuals who embody the values of the Salesian educational system. It primarily serves underprivileged youth, equipping them with the necessary skills and competencies for better employment opportunities. The school emphasizes a curriculum that integrates academic excellence with spiritual and moral development - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Education"
+    },
+    {
+        "post_title": "BAUM Games",
+        "discovered": "2026-05-19 16:58:20.805303",
+        "description": "1993 este anul fondării companiei noastre, povestea Baum debutând cu intenția de a produce aparate multigame slot-machines sub un concept original. Totul a pornit ca o afacere de familie, dezvoltându-se treptat, pe baza succesului avut de fiecare dintre versiunile de multigame create și impuse pe piața românească de profil - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Asian Lite International",
+        "discovered": "2026-05-19 16:58:19.802976",
+        "description": "Asian News from UK is a leading newspaper focused on politics, business, and economy, providing comprehensive news coverage across various regions including UK, Asia, and the USA. The publication offers a range of content including lifestyle, entertainment, and sports while also featuring international news. It aims to cater to the interests of the South Asian diaspora, expatriates, and a global audience interested in Asian affairs. Alongside digital editions, the company also provides PR services and media packs for potential collaborations - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Nordfjord Hotell",
+        "discovered": "2026-05-19 16:58:18.817112",
+        "description": "Nordfjord Hotell is a hotel located in the town of Nordfjordeid, which is the administrative centre of the Stad Municipality in the Nordfjord region of Norway. It is a popular choice for both business and leisure travellers. The hotel offers a range of modern amenities, including a full-service spa, an indoor pool, and conference facilities - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Veda Consulting Company",
+        "discovered": "2026-05-19 16:58:17.678036",
+        "description": "veda.cc is the website for Veda Consulting Company, a specialized consultancy firm that helps nonprofit organizations implement and get the most out of their CRM (Customer Relationship Management) systems - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "RADWAG",
+        "discovered": "2026-05-19 16:58:16.675442",
+        "description": "The website RADWAG.com is the home of RADWAG, a Polish manufacturer widely recognized as a global leader in the production of electronic weighing equipment, including balances, scales, and specialized measuring instruments - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "TSG Enterprises",
+        "discovered": "2026-05-19 16:57:56.407945",
+        "description": "TSG Enterprises, LLC empowers entrepreneurs and businesses through expert consultations, strategic guidance, and customized solutions. Their mission is to provide the knowledge, resources, and innovation essential for thriving in today's market. The company focuses on building strong partnerships that drive growth and support long-term success, enabling clients to achieve theirgoals with clarity and confidence.We will upload 18gb of corporate data soon. Detailed employee and clients personal information (name, addresses, SSN numbers, DLs and passport scans), contracts and agreements, detailed financials, NDAs and other confidential docs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ROTH‑TECHNIK AUSTRIA",
+        "discovered": "2026-05-19 15:54:39.942549",
+        "description": "rothtechnik.eu - RTA GmbH manufacturer and distributor of metal pipe fittings, connectors, and forged components; operates in the pipeline fittings sector and provides related services, including import/export across Western Europe.",
+        "link": "/post/0522f9eaa57f29972a81829a210bd9fe",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/ROTH‑TECHNIK AUSTRIA.png",
+        "group_name": "lamashtu",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SARL CANIS EVENTS SÉCURITÉ PRIVÉE",
+        "discovered": "2026-05-19 14:55:10.914152",
+        "description": "SARL CANIS EVENTS SÉCURITÉ PRIVÉE is a company operating in the private security and guarding sector, with a focus on...",
+        "link": "/blog/b15894372ddbb2ea10962a5ec4eaab9594a0406f9ce1d66c7db3c9e23ef52003/",
+        "magnet": null,
+        "screen": "screenshots/krybit/SARL CANIS EVENTS SÉCURITÉ PRIVÉE.png",
+        "group_name": "krybit",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "nacs.com.hk",
+        "discovered": "2026-05-19 14:55:09.900435",
+        "description": "nacs.com.hk is a Hong Kong-based corporate and administrative services company, specializing in company formation and ma...",
+        "link": "/blog/9ed049f13a6c03647605778e699066649aea5265c7351bff6fd5e509a294ba2e/",
+        "magnet": null,
+        "screen": "screenshots/krybit/nacscomhk.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "mindmastersg.com",
+        "discovered": "2026-05-19 14:55:08.950465",
+        "description": "Mind Master offers an AI-native enterprise operations platform designed to govern execution and decision-making processe...",
+        "link": "/blog/c85187d385f46c389ffedc6352916a38aa071e0f3d745b6928b803a6acd70627/",
+        "magnet": null,
+        "screen": "screenshots/krybit/mindmastersgcom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Apex Maritime Co., Inc.",
+        "discovered": "2026-05-19 13:53:32.959767",
+        "description": "",
+        "link": "/post/apex-maritime-co-inc-9qyivv46pa",
+        "magnet": null,
+        "screen": "screenshots/titan/Apex Maritime Co, Inc.png",
+        "group_name": "titan",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "SIRILAK SEAFOOD (PW) LTD.",
+        "discovered": "2026-05-19 13:53:31.887987",
+        "description": "",
+        "link": "/post/sirilak-seafood-pw-ltd-9qmib6gdus",
+        "magnet": null,
+        "screen": "screenshots/titan/SIRILAK SEAFOOD (PW) LTD.png",
+        "group_name": "titan",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Landeshauptstadt Stuttgart",
+        "discovered": "2026-05-19 13:53:28.845174",
+        "description": "Landeshauptstadt Stuttgart\nStuttgart is the capital city of Baden-Wurttemberg in southwestern Germany.\n\n\n\nMore",
+        "link": "archive.php?company=255",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Landeshauptstadt Stuttgart.png",
+        "group_name": "rhysida",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Mezta Corporativo, S.A. de C.V.",
         "discovered": "2026-05-19 12:12:39.777897",
         "description": "",
@@ -278,105 +708,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Finance"
-    },
-    {
-        "post_title": "aaa",
-        "discovered": "2026-05-18 19:24:47.502244",
-        "description": "a",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Internal Medicine",
-        "discovered": "2026-05-18 19:24:46.550025",
-        "description": "internalmedicineofswf.com zoominfo.com/c/internal-medicine-of-southwest-florida/559515842 a private, physician-owned primary care practice founded in 1998 and located in Fort Myers, FL . The site provides patient resources, contact information, office hours, and details about their proactive, preventative healthcare services. They focus on quality, patient-centric care for both wellness visits and urgent medical needs",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Polyrack",
-        "discovered": "2026-05-18 19:24:45.619773",
-        "description": "polyrack.com zoominfo.com/c/polyrack-ag/30835122 POLYRACK tech-group is a German family-owned engineering company founded in 1979, specializing in high-quality electronic packaging solutions and customized mechanical systems. They design and manufacture subracks, aluminum housings, backplanes, and ruggedized components for demanding industries like aerospace, medical technology, telecommunications, and transportation. With over 45 years of expertise and 500+ employees worldwide, POLYRACK delivers innovative, future-oriented solutions that combine precision engineering with reliable series production",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Internet Technologies Designs",
-        "discovered": "2026-05-18 19:24:43.666771",
-        "description": "itd-system.com zoominfo.com/c/internet-technologies-designs/529178114 ITD System is a French IT solutions integrator founded in 1994, specializing in adaptable digital tools for business productivity. They deliver customized software, VoIP telephony, CRM integration, and secure infrastructure services tailored to SMEs. With offices in Mâcon, Moulins, and Paray-le-Monial, the company combines local proximity with technical expertise to support digital transformation",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "E-Control Systems",
-        "discovered": "2026-05-18 19:24:41.865527",
-        "description": "econtrolsystems.com zoominfo.com/c/e-control-systems-inc/34461104 E-Control Systems is a California-based technology leader founded in 1998, specializing in IoT-powered wireless temperature monitoring solutions for critical environments. Their turnkey FusionLive™ platform delivers real-time alerts, cloud-based dashboards, and regulatory compliance tools for food service, healthcare, life sciences, and retail industries. With 5,000+ installations nationwide, ECS combines custom-engineered hardware and intuitive software to safeguard products, ensure safety standards, and streamline operations 24/7",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Berlinmobil.de",
-        "discovered": "2026-05-18 17:55:04.441915",
-        "description": "Is a German transportation company headquartered in Berlin, specializing in bus charter services, passenger transportation, school transport, and mobility solutions …",
-        "link": "/blog/post/berlinmobilde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/Berlinmobilde.png",
-        "group_name": "safepay",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Healthtrax Fitness & Wellness",
-        "discovered": "2026-05-18 16:54:05.446561",
-        "description": "Healthtrax, founded in 1979 and headquartered Glastonbury, CT, offers facilities and programs that integrate fitness, wellness education, traditional medical services and rehabilitation. Healthtrax forms partnerships with leading health care systems to create a welcoming, centralized place for members of the community to achieve their personal fitness and health goals.We will upload 10gb of corporate data soon. Employee and clients personal information (name, Dland passport numbers, SSNs), contracts and agreements, personal records, financials, NDA and other confidential docs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Estrela",
-        "discovered": "2026-05-18 15:53:39.944525",
-        "description": "Organization with 11 emails extracted. Domain: estrela.ind",
-        "link": "/company/barafai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Estrela.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Vacu - Lug",
-        "discovered": "2026-05-18 15:53:38.621943",
-        "description": "Founded in 1950, Vaculug is a long-established commercial tyre retreading specialist based in Grantham. Vacu-Lug distributes Westlake light truck tyres, including the WTX1 trailer axle tyre for Max Load application, the WSR 1 steer axle tyre and the WDR 1 drive axle tyre to suit rims of 17.5\" and 19.5\". In addition to supplying a range of Westlake light commercial vehicle tyres, Vacu-Lug's has its own light truck tyre range. We will upload 40gb of corporate data soon. Employee personal information (financial and other docs), contracts and agreements, financials, NDA and other confidential docs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Design Engineering & Consulting",
-        "discovered": "2026-05-18 13:54:43.156905",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Professional Services"
     }
 ]
