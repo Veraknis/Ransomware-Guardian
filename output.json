@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Porter W Yett",
+        "discovered": "2026-05-20 22:53:56.874897",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=347b2dc8-7f13-4389-bc11-9c9f80a2721d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Porter W Yett.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Vial Agro",
         "discovered": "2026-05-20 17:53:33.925088",
         "description": "Civil Engineering Construction",
@@ -128,35 +138,5 @@
         "screen": "screenshots/inc ransom/Nothing.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Wysza Szkoa Biznesu National Louis University",
-        "discovered": "2026-05-19 20:57:21.767432",
-        "description": "Wyższa Szkoła Biznesu (WSB-NLU) in Nowy Sącz offers a variety of educational programs including bachelor's, engineering, and master's degrees, as well as postgraduate studies available in RealTime Online format. The institution emphasizes practical education through methods such as workshops and case studies, catering to students from diverse backgrounds. With over 34 years of experience, WSB-NLU is recognized as one of the top private universities in Poland, attracting students interested in management, law, psychology, and computer science. The university also provides online courses and a supportive learning environment through its CloudA system - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Education"
-    },
-    {
-        "post_title": "ZFG ALTHERM Engineering",
-        "discovered": "2026-05-19 19:57:04.627453",
-        "description": "ZFG ALTHERM Engineering GmbH specializes in engineering services for technical building equipment. The company focuses on providing high-quality planning and co...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TAURUS INVESTMENT HOLDINGS",
-        "discovered": "2026-05-19 19:57:01.914431",
-        "description": "Established in 1976, Taurus is a global real estate private equity firm with over 40 years of experience as a general partner, investor, and operator. Currently...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
     }
 ]
