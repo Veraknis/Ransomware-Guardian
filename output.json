@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "olipes.com",
+        "discovered": "2026-05-19 23:57:25.242093",
+        "description": "Founded in 1993 and headquartered in Campo Real, Madrid, the company has become an important independent manufacturer in the European …",
+        "link": "/blog/post/olipescom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/olipescom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nothing",
+        "discovered": "2026-05-19 23:57:07.679303",
+        "description": "",
+        "link": "/blog/disclosures/6a0cac1fd152110a6a17ee94",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Nothing.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Wysza Szkoa Biznesu National Louis University",
         "discovered": "2026-05-19 20:57:21.767432",
         "description": "Wyższa Szkoła Biznesu (WSB-NLU) in Nowy Sącz offers a variety of educational programs including bachelor's, engineering, and master's degrees, as well as postgraduate studies available in RealTime Online format. The institution emphasizes practical education through methods such as workshops and case studies, catering to students from diverse backgrounds. With over 34 years of experience, WSB-NLU is recognized as one of the top private universities in Poland, attracting students interested in management, law, psychology, and computer science. The university also provides online courses and a supportive learning environment through its CloudA system - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -458,145 +478,5 @@
         "screen": "screenshots/rhysida/Landeshauptstadt Stuttgart.png",
         "group_name": "rhysida",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Mezta Corporativo, S.A. de C.V.",
-        "discovered": "2026-05-19 12:12:39.777897",
-        "description": "",
-        "link": "/post/https-www-dunsguide-com-es-company-fa5e54643c8b63d0736-b0xcjppra2",
-        "magnet": null,
-        "screen": "screenshots/titan/Mezta Corporativo, SA de CV.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Abp Autoricambi Srl",
-        "discovered": "2026-05-19 12:12:38.856450",
-        "description": "",
-        "link": "/post/file-riservati-trapelati-e-pronti-per-il-download-hkdvdl1vpp",
-        "magnet": null,
-        "screen": "screenshots/titan/Abp Autoricambi Srl.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DFI AMERICA, LLC",
-        "discovered": "2026-05-19 12:12:37.868740",
-        "description": "",
-        "link": "/post/the-files-were-downloaded-analyzed-using-titan-ai-k74fhhn0o4",
-        "magnet": null,
-        "screen": "screenshots/titan/DFI AMERICA, LLC.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CRIT Tunisie",
-        "discovered": "2026-05-19 12:12:36.930758",
-        "description": "",
-        "link": "/post/all-files-encrypted-critical-data-downloaded-analyzed-k7l2v0ck48",
-        "magnet": null,
-        "screen": "screenshots/titan/CRIT Tunisie.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Groupe CRIT SA",
-        "discovered": "2026-05-19 12:12:35.821103",
-        "description": "",
-        "link": "/post/all-files-encrypted-critical-data-downloaded-analyzed-k71x92z9uc",
-        "magnet": null,
-        "screen": "screenshots/titan/Groupe CRIT SA.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ETM-ELECTROMATIC, INC.",
-        "discovered": "2026-05-19 12:12:34.252490",
-        "description": "",
-        "link": "/post/the-files-were-downloaded-analyzed-using-titan-ai-k7kbu7rvn4",
-        "magnet": null,
-        "screen": "screenshots/titan/ETM-ELECTROMATIC, INC.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quahe Woo & Palmer LLC",
-        "discovered": "2026-05-19 12:12:32.794508",
-        "description": "",
-        "link": "/post/quahe-woo-palmer-llc-rtosr5edr7",
-        "magnet": null,
-        "screen": "screenshots/titan/Quahe Woo & Palmer LLC.png",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kabushiki Gaisha Hodozuka Setsubi",
-        "discovered": "2026-05-19 10:52:26.561176",
-        "description": "hs1992.jp is the official website of Kabushiki Gaisha Hodozuka Setsubi, a Japanese company specializing in the design, installation, and maintenance of building utility systems. The enterprise operates in the field of construction and engineering, focusing on water supply, drainage, air conditioning, and heating systems.",
-        "link": "/posts/fd10449c-7db5-41f0-8648-5c2b76887f25",
-        "magnet": null,
-        "screen": "screenshots/payload/Kabushiki Gaisha Hodozuka Setsubi.png",
-        "group_name": "payload",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Tang Seng Nitrogen & Pump Systems Pte. Ltd.",
-        "discovered": "2026-05-19 10:52:25.621068",
-        "description": "Tang Seng Nitrogen & Pump Systems Pte. Ltd. is a Singapore-based engineering and manufacturing company established in 1990. It specializes in designing, fabricating, and servicing equipment for the marine, oil and gas, and offshore industries. Their product portfolio includes nitrogen pumping units, industrial pumps, fire-fighting systems, and oil spill response equipment.",
-        "link": "/posts/acf6bc9f-c454-47cd-9ffd-36fbf55b0dc3",
-        "magnet": null,
-        "screen": "screenshots/payload/Tang Seng Nitrogen & Pump Systems Pte Ltd.png",
-        "group_name": "payload",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Elohim Law Corporation",
-        "discovered": "2026-05-19 10:52:24.602770",
-        "description": "Elohim Law Corporation is a full-service law firm based in Singapore, operating since 2014.\n\nThe firm provides a comprehensive range of legal services, including corporate and commercial law, intellectual property protection, and civil or criminal litigation. They focus on delivering practical, customized solutions for individuals, startups, small and medium enterprises (SMEs), and international corporations alike.",
-        "link": "/posts/10ce6aac-4a2d-4f5e-880c-943d762afcc7",
-        "magnet": null,
-        "screen": "screenshots/payload/Elohim Law Corporation.png",
-        "group_name": "payload",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Karneslegal",
-        "discovered": "2026-05-19 06:50:55.053521",
-        "description": "Organization with 23 emails extracted. Domain: karneslegal.com",
-        "link": "/company/bavaqai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Karneslegal.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "mediafrance.de",
-        "discovered": "2026-05-18 22:55:08.409427",
-        "description": "The company operates primarily in France while maintaining media-related partnerships and activities across European markets, including Germany. Its business model …",
-        "link": "/blog/post/mediafrancede/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mediafrancede.png",
-        "group_name": "safepay",
-        "sector": "Media"
-    },
-    {
-        "post_title": "ashleytimber.co.uk",
-        "discovered": "2026-05-18 22:55:07.411804",
-        "description": "Founded in 1988, the company operates as a family-run SME and has developed a strong regional presence in the North …",
-        "link": "/blog/post/ashleytimbercouk/",
-        "magnet": null,
-        "screen": "screenshots/safepay/ashleytimbercouk.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "harrisoncountywv.com",
-        "discovered": "2026-05-18 22:55:06.123266",
-        "description": "The Commission functions as the executive administrative body for the county and is responsible for overseeing public infrastructure, fiscal management, …",
-        "link": "/blog/post/harrisoncountywvcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/harrisoncountywvcom.png",
-        "group_name": "safepay",
-        "sector": "Government"
     }
 ]
