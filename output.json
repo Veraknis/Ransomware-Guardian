@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Snyder Packaging",
+        "discovered": "2026-05-21 20:49:54.524523",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=b473a74f-5a6a-404b-956c-aac8458821ca",
+        "magnet": null,
+        "screen": "screenshots/qilin/Snyder Packaging.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vernon & Ginsburg",
+        "discovered": "2026-05-21 20:49:53.554628",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=b5d7cd8d-5f29-4f49-b180-326eee4e6ddc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Vernon & Ginsburg.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
         "post_title": "grupopetersen.com.ar",
         "discovered": "2026-05-21 18:49:41.795073",
         "description": "Grupo Petersen is a multidisciplinary financial and industrial group from Argentina, operating in...",
