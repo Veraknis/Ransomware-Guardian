@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Internal Medicine and Pediatrics of Cullman",
+        "discovered": "2026-05-21 12:51:17.056995",
+        "description": "Internal Medicine and Pediatrics of Cullman provides comprehensive healthcare services for families, focusing on both internal medicine and pediatrics. The practice is staffed by board-certified physicians dedicated to delivering high-quality care using modern medical equipment. They offer a range of services including preventative medicine, in-house lab and radiology, and same-day appointments.",
+        "link": "/posts/2b8ea072-6d08-4063-a1b1-fd3d0e0296e6",
+        "magnet": null,
+        "screen": "screenshots/payload/Internal Medicine and Pediatrics of Cullman.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Robinsons",
+        "discovered": "2026-05-21 12:51:16.122260",
+        "description": "Founded in 1858, Robinsons established itself to become a household name in Singapore, and as a mecca for elevated shopper experiences with their extraordinary product and service innovations. The first flagship - Robinsons The Heeren - opened in November 1858, redefined a new standard for retail experiences in Singapore.",
+        "link": "/posts/a2c7fa7b-5ee7-488b-a289-aa198eea5bee",
+        "magnet": null,
+        "screen": "screenshots/payload/Robinsons.png",
+        "group_name": "payload",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Openmind networks",
+        "discovered": "2026-05-21 12:50:58.603772",
+        "description": "Software - $20.1 Million",
+        "link": "/companies/openmind",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Openmind networks.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pragmatic Solutions",
+        "discovered": "2026-05-21 12:50:57.588371",
+        "description": "Casino Erp - Undisclosed",
+        "link": "/companies/pragmatic",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Pragmatic Solutions.png",
+        "group_name": "coinbase cartel",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Panasonic Aero",
+        "discovered": "2026-05-21 12:50:56.611528",
+        "description": "Aero - $2.7 Billion",
+        "link": "/companies/panasonioc",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Panasonic Aero.png",
+        "group_name": "coinbase cartel",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "ungererandcompany.com",
+        "discovered": "2026-05-21 11:51:30.540338",
+        "description": "Ungerer & The Company is an American company founded in 1893 that develops and manufactures flavo...",
+        "link": "/page_company.php?id=162",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/ungererandcompanycom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Grupo Pasquel",
+        "discovered": "2026-05-21 09:25:50.331269",
+        "description": "grupopasquel.com zoominfo.com/c/grupo-pasquel/430007218 Grupo Pasquel is a well-established Ecuadorian enterprise from Quito, with over three decades of excellence in construction and hardware retail. Through its Mi Ferre brand, it delivers quality products and integrated solutions, empowering builders and DIY enthusiasts nationwide with trusted service and logistics",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "MBM Corp",
+        "discovered": "2026-05-21 09:25:49.422165",
+        "description": "mbmcorp.com rocketreach.co/mbm-corp-profile_b5efe288f42e7251 MBM Corporation, founded in 1936 and headquartered in Charleston, South Carolina, is a trusted leader in professional print finishing and document security solutions. Renowned for Destroyit® shredders, Triumph™ cutters, and AeroCut® digital finishing systems, MBM empowers print shops and businesses with precision-engineered equipment backed by expert support and industry-leading warranties",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "YMCA of Columbia",
+        "discovered": "2026-05-21 09:25:48.176253",
+        "description": "columbiaymca.org zoominfo.com/c/ymca-of-columbia/8912958 Founded in 1854, the YMCA of Columbia is a cornerstone charitable organization dedicated to building healthy spirit, mind, and body for all across South Carolina's Midlands. Through five community branches, they deliver impactful youth development, wellness programs, and social responsibility initiatives rooted in Christian values of caring, respect, and inclusion. Every day, the Y empowers neighbors of all ages and backgrounds to learn, grow, and thrive together",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Hamer Childs",
+        "discovered": "2026-05-20 23:53:22.483296",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=c5d607cc-33aa-4006-a808-599dc0997a32",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hamer Childs.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
         "post_title": "Porter W Yett",
         "discovered": "2026-05-20 22:53:56.874897",
         "description": "Civil Engineering Construction",
@@ -118,25 +218,5 @@
         "screen": null,
         "group_name": "dragonforce",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "olipes.com",
-        "discovered": "2026-05-19 23:57:25.242093",
-        "description": "Founded in 1993 and headquartered in Campo Real, Madrid, the company has become an important independent manufacturer in the European …",
-        "link": "/blog/post/olipescom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/olipescom.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Nothing",
-        "discovered": "2026-05-19 23:57:07.679303",
-        "description": "",
-        "link": "/blog/disclosures/6a0cac1fd152110a6a17ee94",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Nothing.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
