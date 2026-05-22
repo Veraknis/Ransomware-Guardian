@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Semgrep",
+        "discovered": "2026-05-22 17:51:31.313500",
+        "description": "Software",
+        "link": "/site/blog?uuid=67045d50-5347-4ae2-a610-38593d71994d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Semgrep.png",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "tkgm.gov.tr",
+        "discovered": "2026-05-22 16:50:31.260785",
+        "description": "TKGM (Tapu ve Kadastro Genel Müdürlüğü) is a government agency from Turkey, the General Dire...",
+        "link": "/page_company.php?id=168",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/tkgmgovtr.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Government"
+    },
+    {
+        "post_title": "minsa.com.mx",
+        "discovered": "2026-05-22 16:50:30.199615",
+        "description": "Minsa is a company from Mexico, one of the largest producers of nixtamalizada (masa harina) corn ...",
+        "link": "/page_company.php?id=167",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/minsacommx.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Openmind networks NEW",
+        "discovered": "2026-05-22 15:49:38.330827",
+        "description": "Software - $20.1 Million",
+        "link": "/companies/openmind",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Openmind networks NEW.png",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pragmatic Solutions NEW",
+        "discovered": "2026-05-22 15:49:37.403326",
+        "description": "Casino Erp - Undisclosed",
+        "link": "/companies/pragmatic",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Pragmatic Solutions NEW.png",
+        "group_name": "coinbase cartel",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Function Enterprises",
+        "discovered": "2026-05-22 15:49:21.639815",
+        "description": "Function Enterprises, Inc. is a trusted roofing company based in Springfield, VA, offering a range of services including roofing construction, commercial roofing, infrared inspection, and dumpster rentals. They prioritize client trust and satisfaction, providing a free one-hour consultation for new clients.We will upload corporate data soon. Employee personal information (passports, DLs), contracts and agreements, clients info, financials, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Buffalo Niagara Convention Center",
+        "discovered": "2026-05-22 15:49:19.738080",
+        "description": "The Buffalo Convention Center is a premier meetings and convention space located in downtown Buffalo, NY, easily accessible from major interstate highways. It caters to event planners, exhibitors, and attendees, offering a beautiful venue surrounded by vibrant city life, including restaurants, shopping, and entertainment.We will upload 46gb of corporate data soon. You are going to get precious data. You will find employee personal information (passports, DLs), client and partners information (personal data of 180,000 people), contracts and agreements, financials, projects, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "threadinnovations",
+        "discovered": "2026-05-22 14:49:55.191630",
+        "description": "",
+        "link": "/blog/disclosures/6a0f559dd152110a6a4f6395",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/threadinnovations.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Le Pain Quotidien US",
+        "discovered": "2026-05-22 14:49:52.864491",
+        "description": "Established in 1990 and headquartered in New York, New York, Le Pain Quotidien US is a chain of bakery restaurants specializing in baked goods, bread, salads, s...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
         "post_title": "tvnmedia.com",
         "discovered": "2026-05-22 11:51:25.048012",
         "description": "TVN Media is a multimedia company from Panama, engaged in broadcasting, radio, digital media and ...",
@@ -68,135 +158,5 @@
         "screen": "screenshots/brain cipher/sheppadvisercomau.png",
         "group_name": "brain cipher",
         "sector": "Technology"
-    },
-    {
-        "post_title": "alkaloid.com.mk",
-        "discovered": "2026-05-21 17:49:07.492580",
-        "description": "Alkaloid is a pharmaceutical company from Northern Macedonia, founded in Skopje in 1936, producin...",
-        "link": "/page_company.php?id=163",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/alkaloidcommk.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "narit.or.th",
-        "discovered": "2026-05-21 17:49:06.488077",
-        "description": "The National Astronomical Research Institute of Thailand (Thailand's National Astronomical Resear...",
-        "link": "/page_company.php?id=164",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/naritorth.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Softseba",
-        "discovered": "2026-05-21 16:50:25.418673",
-        "description": "a leading software provider with 5 years of experience in developing and delivering high-quality software solutions to businesses of all sizes. We have a team of experienced and skilled software developers who are passionate about creating 1 innovative and user-friendly software products. Our expertise lies in a wide range of technologies, including web development, mobile app development, cloud computing, and artificial intelligence. We have a proven track record of delivering successful software projects on time and within budget. Our commitment to customer satisfaction and our ability to provide tailored solutions have earned us a reputation as a trusted and reliable software provider. Whether you are a startup or an established enterprise, we can help you leverage the power of software to achieve your business goals.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Neubox",
-        "discovered": "2026-05-21 15:49:39.787078",
-        "description": "the following websites is down, their data will be leaked, source codes, docs, databases, phpmyadmin and more\n511producciones.com     acerosbeta.com     advancedaestheticcare.com     advancedfootcarergv.com     advancedwoundcarergv.com     dreduardoalvarez.com     echoview.com.mx     ellugarcitogastronomico.com     empresadelimpiezaencdmx.com     empresadelimpiezaenguadalajara.com     inventario.ellugarcitogastronomico.com     korticalx.com     laamatistaeventos.com     lascruceseventos.com     lumabusiness.com     persapartesmetalicas.com     pos.ellugarcitogastronomico.com     prestaeventos.com.mx     puertasparavivienda.com     rensomexico.com arkinmexico.com.mx                    empresadelimpiezaenleon.com         misiondefundadores.com                  riggingmexico.com\ncacexconsultores.com.mx               empresadelimpiezaenmerida.com       mynewschoolmexico.com.mx                samtrabusiness.com\ncasasyterrenosirem.com                empresadelimpiezaenmexico.com       opiniones.dreduardoalvarez.com          sheigarcia.com\ncincoonce.com.mx                      empresadelimpiezaenpuebla.com       perforacionesloga.com                   sistema.vattacademy.com\ncondesareal.com                       empresadelimpiezaentijuana.com      persacontainersdallas.com               sistem.mynewschoolmexico.com.mx\nconexionesymanguerasmonterrey.com     empresasloga.com                    persacontainershouston.com              survey.ellugarcitogastronomico.com\ncovasal.com.mx                        endoscopios.com.mx                  persacontenedoresjuarez.com             tacoselcoreano.com\ndelivery.ellugarcitogastronomico.com  eni360.com.mx                       persacontenedoresqueretaro.com          taqueriafundadores.com\ndemmiasocialvenue.com                 footandanklespecialistrgv.com       persacontenedoresramosarizpe.com        vattacademy.com\ndestapededrenajeflag.com              grupoperforacioneshd.com            persacontenedoressanluispotosi.com\ndicsamonterrey.net                    igidiamonds.mx                      persacontenedoressilao.com\n\nWe ask kind from company to contact for negotiations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bni.co.id bank of indonesia free data.",
-        "discovered": "2026-05-21 14:48:54.362751",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "triple x",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Hahn Loeser",
-        "discovered": "2026-05-21 14:46:41.927071",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "spy corporate",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "G Theodor Freese",
-        "discovered": "2026-05-21 13:52:04.535082",
-        "description": "GTF Freese is a family-owned company with over 110 years of experience, specializing in ship deck coverings, flooring technology, building protection, and coating systems. The company prides itself on its motto 'We make floors good,' ensuring high-quality products like TEFROTEX and TEFROKA are manufactured under strict quality control according to DIN ISO 9001 standards.",
-        "link": "/posts/d2d3491f-ae6b-4d20-b97d-87914a821488",
-        "magnet": null,
-        "screen": "screenshots/payload/G Theodor Freese.png",
-        "group_name": "payload",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "A-Sonic Logistic Solutions",
-        "discovered": "2026-05-21 13:52:02.323456",
-        "description": "Founded in 1993, A-Sonic Logistic Solutions is a supply chain management service provider that specializes in international and domestic multimodal transportation and warehousing, airside logistics services, air cargo general sales and marketing for international airlines, and more. The company is headquartered in Singapore.",
-        "link": "/posts/8c920770-c009-405a-9404-bb857715e3eb",
-        "magnet": null,
-        "screen": "screenshots/payload/A-Sonic Logistic Solutions.png",
-        "group_name": "payload",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Internal Medicine and Pediatrics of Cullman",
-        "discovered": "2026-05-21 12:51:17.056995",
-        "description": "Internal Medicine and Pediatrics of Cullman provides comprehensive healthcare services for families, focusing on both internal medicine and pediatrics. The practice is staffed by board-certified physicians dedicated to delivering high-quality care using modern medical equipment. They offer a range of services including preventative medicine, in-house lab and radiology, and same-day appointments.",
-        "link": "/posts/2b8ea072-6d08-4063-a1b1-fd3d0e0296e6",
-        "magnet": null,
-        "screen": "screenshots/payload/Internal Medicine and Pediatrics of Cullman.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Robinsons",
-        "discovered": "2026-05-21 12:51:16.122260",
-        "description": "Founded in 1858, Robinsons established itself to become a household name in Singapore, and as a mecca for elevated shopper experiences with their extraordinary product and service innovations. The first flagship - Robinsons The Heeren - opened in November 1858, redefined a new standard for retail experiences in Singapore.",
-        "link": "/posts/a2c7fa7b-5ee7-488b-a289-aa198eea5bee",
-        "magnet": null,
-        "screen": "screenshots/payload/Robinsons.png",
-        "group_name": "payload",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Openmind networks",
-        "discovered": "2026-05-21 12:50:58.603772",
-        "description": "Software - $20.1 Million",
-        "link": "/companies/openmind",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Openmind networks.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Pragmatic Solutions",
-        "discovered": "2026-05-21 12:50:57.588371",
-        "description": "Casino Erp - Undisclosed",
-        "link": "/companies/pragmatic",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Pragmatic Solutions.png",
-        "group_name": "coinbase cartel",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Panasonic Aero",
-        "discovered": "2026-05-21 12:50:56.611528",
-        "description": "Aero - $2.7 Billion",
-        "link": "/companies/panasonioc",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Panasonic Aero.png",
-        "group_name": "coinbase cartel",
-        "sector": "Transportation"
     }
 ]
