@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "tvnmedia.com",
+        "discovered": "2026-05-22 11:51:25.048012",
+        "description": "TVN Media is a multimedia company from Panama, engaged in broadcasting, radio, digital media and ...",
+        "link": "/page_company.php?id=166",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/tvnmediacom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Sgs Gmbh",
+        "discovered": "2026-05-22 11:51:20.361651",
+        "description": "Organization with 933 emails extracted. Domain: sgs-gmbh.com",
+        "link": "/company/bavacai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Sgs Gmbh.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "ROTO Immobilien",
+        "discovered": "2026-05-21 22:53:29.678515",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=723469f2-6713-46a5-a07c-99f446fd6148",
+        "magnet": null,
+        "screen": "screenshots/qilin/ROTO Immobilien.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Snyder Packaging",
         "discovered": "2026-05-21 20:49:54.524523",
         "description": "Manufacturing",
@@ -168,65 +198,5 @@
         "screen": "screenshots/coinbase cartel/Panasonic Aero.png",
         "group_name": "coinbase cartel",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "ungererandcompany.com",
-        "discovered": "2026-05-21 11:51:30.540338",
-        "description": "Ungerer & The Company is an American company founded in 1893 that develops and manufactures flavo...",
-        "link": "/page_company.php?id=162",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/ungererandcompanycom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Pasquel",
-        "discovered": "2026-05-21 09:25:50.331269",
-        "description": "grupopasquel.com zoominfo.com/c/grupo-pasquel/430007218 Grupo Pasquel is a well-established Ecuadorian enterprise from Quito, with over three decades of excellence in construction and hardware retail. Through its Mi Ferre brand, it delivers quality products and integrated solutions, empowering builders and DIY enthusiasts nationwide with trusted service and logistics",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "MBM Corp",
-        "discovered": "2026-05-21 09:25:49.422165",
-        "description": "mbmcorp.com rocketreach.co/mbm-corp-profile_b5efe288f42e7251 MBM Corporation, founded in 1936 and headquartered in Charleston, South Carolina, is a trusted leader in professional print finishing and document security solutions. Renowned for Destroyit® shredders, Triumph™ cutters, and AeroCut® digital finishing systems, MBM empowers print shops and businesses with precision-engineered equipment backed by expert support and industry-leading warranties",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "YMCA of Columbia",
-        "discovered": "2026-05-21 09:25:48.176253",
-        "description": "columbiaymca.org zoominfo.com/c/ymca-of-columbia/8912958 Founded in 1854, the YMCA of Columbia is a cornerstone charitable organization dedicated to building healthy spirit, mind, and body for all across South Carolina's Midlands. Through five community branches, they deliver impactful youth development, wellness programs, and social responsibility initiatives rooted in Christian values of caring, respect, and inclusion. Every day, the Y empowers neighbors of all ages and backgrounds to learn, grow, and thrive together",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Hamer Childs",
-        "discovered": "2026-05-20 23:53:22.483296",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=c5d607cc-33aa-4006-a808-599dc0997a32",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hamer Childs.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Porter W Yett",
-        "discovered": "2026-05-20 22:53:56.874897",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=347b2dc8-7f13-4389-bc11-9c9f80a2721d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Porter W Yett.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
     }
 ]
