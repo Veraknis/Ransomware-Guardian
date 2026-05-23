@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Baker Distributing Company",
+        "discovered": "2026-05-23 01:50:37.206867",
+        "description": "Over 260k Salesforce records containing PII and other internal corporate data have been compromised.   This is a final warning to reach out by 27 May 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. Pay or Leak.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Charter Communications, Inc.",
+        "discovered": "2026-05-23 01:50:36.255732",
+        "description": "Over 42M records containing PII have been compromised.   This is a final warning to reach out by 27 May 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. Pay or Leak.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "DentaQuest.com",
+        "discovered": "2026-05-23 01:50:35.265026",
+        "description": "You wouldn't want us to describe what data and how much data was compromised. It is in your best interests to reply to us or we are leaking it all by the deadline.  This is a final warning to reach out by 27 May 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. Pay or Leak.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "**** & ********",
+        "discovered": "2026-05-23 01:50:17.584298",
+        "description": "A legal firm dedicated to safeguard the rights of its clients",
+        "link": "/069e114bcc3edd29df4c/",
+        "magnet": null,
+        "screen": "screenshots/genesis/**** & ********.png",
+        "group_name": "genesis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "lasevillanita.com",
+        "discovered": "2026-05-23 00:51:21.061931",
+        "description": "Transportes La Sevillanita Srl is a company that operates in the Freight & Logistics Services industry. It employs 10to1...",
+        "link": "/blog/56d5ba2b78a185c8232a69cf3e5be18f67f5ee8704a61dd0556b672b5a92e83c/",
+        "magnet": null,
+        "screen": "screenshots/krybit/lasevillanitacom.png",
+        "group_name": "krybit",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "AMACCAO",
         "discovered": "2026-05-22 21:51:10.685853",
         "description": "AMACCAO Group is a reputable and strong multi-industry corporation in Vietnam with 30 years of experience. The company is a pioneer in various fields including energy and environmental investment, real estate investment, industrial production, consumer goods manufacturing, and education and training. AMACCAO aims to serve a diverse clientele through its commitment to sustainable development and innovative solutions. The group also engages in construction and installation services, contributing to the infrastructure and economic growth of the region - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -178,15 +228,5 @@
         "screen": "screenshots/bavacai/Sgs Gmbh.png",
         "group_name": "bavacai",
         "sector": "Nonprofit"
-    },
-    {
-        "post_title": "ROTO Immobilien",
-        "discovered": "2026-05-21 22:53:29.678515",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=723469f2-6713-46a5-a07c-99f446fd6148",
-        "magnet": null,
-        "screen": "screenshots/qilin/ROTO Immobilien.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
