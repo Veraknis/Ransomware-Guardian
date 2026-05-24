@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Heartland Growers",
+        "discovered": "2026-05-24 12:50:00.651870",
+        "description": "Heartland Growers is a full-service wholesale greenhouse located in Westfield, Indiana, owned and operated by the Gapinski Family since 1984. The company suppli...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "HELIX INTERNATIONAL",
+        "discovered": "2026-05-24 12:49:59.075589",
+        "description": "Helix International is a software platform and managed services provider specializing in enterprise content management and data migration. They cater to medium,...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Prologic Construction",
+        "discovered": "2026-05-24 12:49:57.832717",
+        "description": "Prologic Construction is a trusted general contractor based in Alberta, specializing in high-quality construction solutions for both public and private sectors ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Artso International, Inc.",
+        "discovered": "2026-05-24 11:50:02.817030",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Koa Glass",
         "discovered": "2026-05-24 06:25:35.611812",
         "description": "koaglass.co.jp zoominfo.com/c/koa-glass-co-ltd/347978270 prestigious Japanese glass packaging manufacturer established in 1943 and headquartered in Tokyo. Specializes in high-end glass containers for cosmetics, fragrance, and pharmaceuticals, delivering end-to-end solutions: design, production, decoration, and innovative antibacterial \"Million Guard\" technology. With 500+ employees and facilities across Japan and China, Koa Glass serves global luxury brands including Chanel, Shiseido, L'Oreal, and Estee Lauder",
@@ -128,25 +168,5 @@
         "screen": "screenshots/krybit/bangkokgoth.png",
         "group_name": "krybit",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Mecanizados y Montajes Aeronáuticos (mymgroup.es)",
-        "discovered": "2026-05-23 16:52:39.797528",
-        "description": "",
-        "link": "/blog/disclosures/6a0f5600d152110a6a4f6aa3",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Mecanizados y Montajes Aeronáuticos (mymgroupes).png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "University of Valencia",
-        "discovered": "2026-05-23 14:49:40.386239",
-        "description": "University of Valencia is a university located in the Spanish city of Valencia. It is one of the oldest surviving universities in Spain, and the oldest in the Valencian Community, and is regarded as one of Spain's leading academic institutions. The University was founded in 1499, and currently has around 55,000 students. Most of the courses are given through the medium of Spanish, but the university has promised to increase the amount of courses available in Valencian. Moreover, in some degrees part of the teaching is in English - we don't know why you save personal kids photos and students on the server, the data is very sensitive and Embarrassing for the students and the staffs and kids, we will discuss the status with our Management Team about the kids photos, Contact us for deal - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
     }
 ]
