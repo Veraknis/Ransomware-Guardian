@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Dadolighting",
+        "discovered": "2026-05-25 10:53:16.396760",
+        "description": "Organization with 17 emails extracted. Domain: dadolighting.com",
+        "link": "/company/bavadai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Dadolighting.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "T Online",
+        "discovered": "2026-05-25 10:53:15.399178",
+        "description": "Organization with 823 emails extracted. Domain: t-online.de",
+        "link": "/company/bauarai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/T Online.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "FunkeScheid",
+        "discovered": "2026-05-25 10:53:14.361007",
+        "description": "Notarkanzlei FunkeScheid, Kanzlei im Ostend, Frankfurt. 9755 emails. AD: Kanzlei.FunkeScheid.com",
+        "link": "/company/bapamai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/FunkeScheid.png",
+        "group_name": "bavacai",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Meirc training and consulting",
+        "discovered": "2026-05-25 05:47:57.509977",
+        "description": "",
+        "link": "/blog/disclosures/6a0a55f6d152110a6acc24fa",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Meirc training and consulting.png",
+        "group_name": "inc ransom",
+        "sector": "Education"
+    },
+    {
+        "post_title": "vspsolutions.com.au FULL DATA DUMP",
+        "discovered": "2026-05-24 22:50:01.890519",
+        "description": "+40G Full Financial Backups (Quickbooks & Reckon)-Email Archives & Staff Personal Folders-Customer/Client Databases (Installers & Integrators nationwide)-Shipment & Order Tracking for major brands like Hikvision & Axis.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Adensa Teknoloji",
+        "discovered": "2026-05-24 22:49:58.293118",
+        "description": "http://adensa.tech/ is the website for Adensa Teknoloji, a Turkish software company that offers custom software development and digital solutions. The site is very minimal and provides only a basic introduction to the company's services - sites effected adensa.tech, bringstdu.de, simkaelektronik.ch, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
         "post_title": "SECONT Secretaria de Controle e Transparência",
         "discovered": "2026-05-24 21:50:24.246349",
         "description": "SECONT is much more than just a website; it is the central body of the Internal Control System for the entire State Executive Branch. Its primary mission is to ensure that state resources are used in compliance with the law and efficiently - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -168,155 +228,5 @@
         "screen": null,
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Heartland Growers",
-        "discovered": "2026-05-24 12:50:00.651870",
-        "description": "Heartland Growers is a full-service wholesale greenhouse located in Westfield, Indiana, owned and operated by the Gapinski Family since 1984. The company suppli...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "HELIX INTERNATIONAL",
-        "discovered": "2026-05-24 12:49:59.075589",
-        "description": "Helix International is a software platform and managed services provider specializing in enterprise content management and data migration. They cater to medium,...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Prologic Construction",
-        "discovered": "2026-05-24 12:49:57.832717",
-        "description": "Prologic Construction is a trusted general contractor based in Alberta, specializing in high-quality construction solutions for both public and private sectors ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Artso International, Inc.",
-        "discovered": "2026-05-24 11:50:02.817030",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Koa Glass",
-        "discovered": "2026-05-24 06:25:35.611812",
-        "description": "koaglass.co.jp zoominfo.com/c/koa-glass-co-ltd/347978270 prestigious Japanese glass packaging manufacturer established in 1943 and headquartered in Tokyo. Specializes in high-end glass containers for cosmetics, fragrance, and pharmaceuticals, delivering end-to-end solutions: design, production, decoration, and innovative antibacterial \"Million Guard\" technology. With 500+ employees and facilities across Japan and China, Koa Glass serves global luxury brands including Chanel, Shiseido, L'Oreal, and Estee Lauder",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Openmind Networks",
-        "discovered": "2026-05-24 06:25:34.574944",
-        "description": "openmindnetworks.com zoominfo.com/c/openmind-networks-ltd/351059313 Dublin-based independent technology firm with 20+ years of expertise in mobile messaging infrastructure. Delivers advanced software solutions for telecom operators: intelligent message routing, AI-powered fraud prevention, and RCS business messaging platforms for the 5G era. Processes over 1.5 billion messages daily for a global clientele of leading mobile carriers and wholesale aggregators, with annual revenue of approximately $20.1 million",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Caka Grup Lojistik",
-        "discovered": "2026-05-24 06:01:55.579415",
-        "description": "cakagrup.com Turkish logistics provider delivering end-to-end solutions for domestic and international freight operations. Core services include warehousing, customs clearance, import-export facilitation, plus specialized trade in glass mosaic and packaging materials. Built on principles of speed, quality, and cost-efficiency, the company advances as a sector pioneer through expert teamwork and unwavering commitment to customer satisfaction.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "TRANSSYSTEM Group",
-        "discovered": "2026-05-24 06:01:54.484438",
-        "description": "transsystem.pl Polish engineering powerhouse with 30+ years of expertise in designing and manufacturing advanced technological transport systems and steel structures. Delivers turnkey intralogistics solutions for automotive, tire, and industrial sectors, with 200+ successful projects across 30+ countries worldwide. Trusted by global leaders including Tesla, Goodyear, Michelin, Continental, and KUKA for innovation, precision, and operational excellence",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ACAM Systemautomation",
-        "discovered": "2026-05-24 06:01:53.180838",
-        "description": "acam.at zoominfo.com/c/acam-systemautomation-gmbh/431028608 Austrian engineering firm with 30+ years of expertise, headquartered in Leoben. Delivers integrated solutions for product development and manufacturing, featuring Siemens Digital Industries Software (PLM), simulation tools, and manufacturing management systems. Serves SMEs to multinational corporations with comprehensive training and support, driving operational efficiency and transparency across the entire product lifecycle",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Seeley Office Systems",
-        "discovered": "2026-05-24 05:51:59.167459",
-        "description": "seeleyoffice.com zoominfo.com/c/seeley-office-systems-inc/347773140 family-owned business since 1981, based in Glens Falls, New York. They deliver comprehensive office solutions: from printers and MFPs to managed print services and supply procurement. Focused on boosting business productivity through personalized service and competitive pricing across the Capital and Adirondack regions",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Le Perreux sur Marne",
-        "discovered": "2026-05-24 05:51:58.168096",
-        "description": "leperreux94.fr official municipal portal of this Parisian suburb, offering residents access to e-services: ID appointment booking, local event calendars, transport schedules, and social programs. The site serves as a central hub for citizen engagement with local government and real-time community updates",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Sanatorio Delta",
-        "discovered": "2026-05-24 05:51:56.948658",
-        "description": "sanatoriodelta.com zoominfo.com/c/sanatorio-delta/533085034 private healthcare institution in Rosario, Argentina, with over 40 years of medical excellence and patient-centered care. Delivers comprehensive services across 50+ specialties through 10 modern facilities, including cardiology, trauma care, and advanced diagnostics. A dedicated team of 250+ professionals, seamless online scheduling, and 24/7 emergency support ensure exceptional health outcomes for every patient",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Hussey Seatway",
-        "discovered": "2026-05-24 05:51:55.869421",
-        "description": "husseyseatway.com zoominfo.com/c/hussey-seatway-ltd/137888631 UK-based specialist founded in 2002, expert in designing, manufacturing, and installing retractable, fixed, and portable seating systems for global venues. Serving education, sports, and performing arts sectors with 50+ installations yearly, including prestigious projects like the Royal Opera House and Alexandra Palace. End-to-end support covers consultancy, bespoke engineering, professional installation, and lifetime after-sales care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Emek Elektrik 🇹🇷",
-        "discovered": "2026-05-24 01:50:11.638010",
-        "description": "Emek Elektrik specializes in manufacturing high-performance electrical equipment, including current transformers, voltage transformers, and disconnectors, designed for high efficiency and durability in challenging environments",
-        "link": "/blog/24328349-e719-41c3-a3d1-ab6a862000da",
-        "magnet": null,
-        "screen": "screenshots/bravox/Emek Elektrik 🇹🇷.png",
-        "group_name": "bravox",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Salvation Army 🇨🇦",
-        "discovered": "2026-05-23 23:48:57.084535",
-        "description": "Provides social services, emergency aid, rehabilitation, and community support.",
-        "link": "/blog/520a842c-55d4-4b04-9978-8400b720aaaf",
-        "magnet": null,
-        "screen": "screenshots/bravox/Salvation Army 🇨🇦.png",
-        "group_name": "bravox",
-        "sector": "Defense"
     }
 ]
