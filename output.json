@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "eitecpro.co.jp",
+        "discovered": "2026-05-25 21:50:47.155853",
+        "description": "Founded in 1988 and headquartered in Osaka, the company operates multiple regional offices across Japan, including Tokyo, Yokohama, Nagoya, Sendai, …",
+        "link": "/blog/post/eitecprocojp/",
+        "magnet": null,
+        "screen": "screenshots/safepay/eitecprocojp.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "tme-rusta.de",
+        "discovered": "2026-05-25 21:50:46.197178",
+        "description": "The company was originally founded in Munich in 1966 as an artistic metalworking workshop and later expanded into woodworking, plastics …",
+        "link": "/blog/post/tme-rustade/",
+        "magnet": null,
+        "screen": "screenshots/safepay/tme-rustade.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "cyuou.com",
+        "discovered": "2026-05-25 21:50:45.053573",
+        "description": "Founded in 2000, the company specializes in website development, digital advertising, graphic design, Wi-Fi infrastructure projects, and online business support …",
+        "link": "/blog/post/cyuoucom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/cyuoucom.png",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "vdmtrucking.com",
+        "discovered": "2026-05-25 21:50:43.936681",
+        "description": "Headquartered in Edmonton, Alberta, the company has operated for more than 40 years and has developed into a significant regional …",
+        "link": "/blog/post/vdmtruckingcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/vdmtruckingcom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "GW Mechanical",
+        "discovered": "2026-05-25 21:50:41.302741",
+        "description": "",
+        "link": "topic.php?id=yNgIuLDqSOrXnm",
+        "magnet": null,
+        "screen": "screenshots/play/GW Mechanical.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "NL Fisher",
+        "discovered": "2026-05-25 21:50:40.311527",
+        "description": "",
+        "link": "topic.php?id=djf1JVEPzgEe5",
+        "magnet": null,
+        "screen": "screenshots/play/NL Fisher.png",
+        "group_name": "play",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Round Hill Country Club",
+        "discovered": "2026-05-25 21:50:39.363591",
+        "description": "",
+        "link": "topic.php?id=yhqqaQnNja8YwZ",
+        "magnet": null,
+        "screen": "screenshots/play/Round Hill Country Club.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Legend Networking & Telecom",
+        "discovered": "2026-05-25 21:50:38.111258",
+        "description": "",
+        "link": "topic.php?id=b318mVzt5Q4riT",
+        "magnet": null,
+        "screen": "screenshots/play/Legend Networking & Telecom.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "MyPillow",
+        "discovered": "2026-05-25 21:50:37.086180",
+        "description": "",
+        "link": "topic.php?id=tnR6TSNg1G4dAY",
+        "magnet": null,
+        "screen": "screenshots/play/MyPillow.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "De Waard Transport",
+        "discovered": "2026-05-25 21:50:35.186682",
+        "description": "",
+        "link": "topic.php?id=SlydLkwk8U37RL",
+        "magnet": null,
+        "screen": "screenshots/play/De Waard Transport.png",
+        "group_name": "play",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "IDS Group",
+        "discovered": "2026-05-25 20:49:27.247874",
+        "description": "IDS Group\nIDS Group is an award-winning multi-discipline design, engineering, and management consulting firm based in Southern California.\n\n\n\nMore",
+        "link": "archive.php?company=256",
+        "magnet": null,
+        "screen": "screenshots/rhysida/IDS Group.png",
+        "group_name": "rhysida",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "North Dallas Shared Ministries",
+        "discovered": "2026-05-25 20:49:08.096759",
+        "description": "Now-Forward is a non-profit organization based in Dallas that provides a range of essential services such as financial aid, medical and dental care, food, clothing, and ESL classes to low-income families. Established to effectively serve the urgent needs of the community, they have been a trusted resource for over 40 years, assisting residents facing unexpected life challenges. The organization supports their mission through donations, volunteer work, and partnerships with local entities, ensuring that 96% of their funds are directed toward client services. Their extensive offerings also include tax preparation and school supply assistance, enabling families to achieve greater stability and self-sufficiency.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "allianceadjustment.com",
         "discovered": "2026-05-25 14:48:58.743230",
         "description": "Alliance Adjustment Group is a leading independent insurance claims adjuster serving Pennsylvania and New Jersey, specializing in handling a variety of insuranc...",
@@ -178,175 +298,5 @@
         "screen": null,
         "group_name": "nova",
         "sector": "Technology"
-    },
-    {
-        "post_title": "SECONT Secretaria de Controle e Transparência",
-        "discovered": "2026-05-24 21:50:24.246349",
-        "description": "SECONT is much more than just a website; it is the central body of the Internal Control System for the entire State Executive Branch. Its primary mission is to ensure that state resources are used in compliance with the law and efficiently - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "ExpoCredit",
-        "discovered": "2026-05-24 20:51:54.601712",
-        "description": "Finance",
-        "link": "/site/blog?uuid=aeca2b02-d09c-4e56-b06c-8f0b6c06f6c4",
-        "magnet": null,
-        "screen": "screenshots/qilin/ExpoCredit.png",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Global Retool Group",
-        "discovered": "2026-05-24 20:51:53.427367",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=a681edf5-23f0-4775-a1d5-6e3337d3542c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Global Retool Group.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Sponseller Group",
-        "discovered": "2026-05-24 20:51:51.959908",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=6b72489c-ce4c-47c6-a7dd-174e050d9f6e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sponseller Group.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Branded Products",
-        "discovered": "2026-05-24 20:51:50.652956",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=3ef128e0-b18d-46df-88c1-ff2a51ff206f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Branded Products.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Alpha Group Holdings",
-        "discovered": "2026-05-24 19:50:44.352771",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=889c57b9-2ede-4826-8277-53e2acc44bb6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alpha Group Holdings.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Alpert Slobin & Rubenstein",
-        "discovered": "2026-05-24 19:50:42.930456",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=81ae1ad0-8735-4f3a-b3a0-6e8ad72994f1",
-        "magnet": null,
-        "screen": "screenshots/qilin/Alpert Slobin & Rubenstein.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "P & G Trading",
-        "discovered": "2026-05-24 19:50:41.167910",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=c796bb04-e35a-429e-aef0-16f8f3d58ed1",
-        "magnet": null,
-        "screen": "screenshots/qilin/P & G Trading.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Bresme Madrid S.L.",
-        "discovered": "2026-05-24 19:50:39.301999",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Papa John's Egypt",
-        "discovered": "2026-05-24 19:50:38.328436",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Red-Line",
-        "discovered": "2026-05-24 19:50:36.887510",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Qua****Pro",
-        "discovered": "2026-05-24 19:50:35.370922",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "la familia adualt day center",
-        "discovered": "2026-05-24 19:50:34.420544",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pat**** S.r.l",
-        "discovered": "2026-05-24 19:50:33.463241",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Si**** West J*******",
-        "discovered": "2026-05-24 19:50:32.469981",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Rawaj Consumer Finance",
-        "discovered": "2026-05-24 18:50:45.903971",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Ueno Fine Chemicals Industry",
-        "discovered": "2026-05-24 18:50:44.919361",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
     }
 ]
