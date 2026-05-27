@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Greenway Technologies",
+        "discovered": "2026-05-27 10:49:52.520746",
+        "description": "Greenway Technologies is a leading fire protection company based in Phoenix, AZ, specializing in a comprehensive range of services including fire suppression sy...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Delbrook Capital Advisors",
+        "discovered": "2026-05-27 10:49:51.570175",
+        "description": "Delbrook Capital Advisors is an alternative investment manager that specializes in the global materials sector. The company focuses on providing investment solu...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "WG Neukölln",
+        "discovered": "2026-05-27 10:49:50.387496",
+        "description": "WG Neukölln eG is a cooperative based in Berlin that offers various housing options and services, including apartments and residential projects. The organizatio...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Ridge Law Firm",
+        "discovered": "2026-05-27 04:48:49.191576",
+        "description": "Ridge Law Firm (ridgelawfirm.com) is a personal injury law firm based in the Bronx, New York. Led by attorney Michael T. Ridge, the firm has been serving injured clients in the Bronx for over 20–30 years. They operate under the memorable brand 1-800-THE-BRONX and focus heavily on accident victims. The firm offers no fee unless they win (contingency basis), free consultations, and even free Uber rides for in-person meetings. They emphasize aggressive representation and have recovered millions of dollars for clients in compensation for medical bills, lost wages, pain and suffering, etc.- Client medical records- Financial records- Expert witness reports- Etc More than 1.6 TB of data\nhttps://ridgelawfirm.com",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/44/ridge-law-firm",
+        "magnet": null,
+        "screen": "screenshots/space bears/Ridge Law Firm.png",
+        "group_name": "space bears",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Gestordes",
+        "discovered": "2026-05-27 03:47:40.695990",
+        "description": "At Gestordes Administrative Management, we understand that both your business and your personal affairs are of great importance. That's why we are proud to offer top-quality administrative services in Ordes, A Coruña. Our commitment is to provide you with an exceptional experience in all aspects of labor, tax, and accounting management.-Personal information  (clients passport, id, etc.)\n-Financial\ndocuments\n-Other files (200 000+  files)\nhttps://www.gestordes.es/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/43/gestordes",
+        "magnet": null,
+        "screen": "screenshots/space bears/Gestordes.png",
+        "group_name": "space bears",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Textile Testing Services of America",
         "discovered": "2026-05-26 21:48:51.796185",
         "description": "Textile Testing Services of America is a company that operates in the Training industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in Mexico City, Mexico City, Mexico - Correction, After First post about sandox.info was posted by affiliate, after he provide us the Full informations, our Team made the OSINT, and discover that the domain sandox.info was initial access (IP 64.76.20.226), the Full Data is related to ttsamexico.com, Confirmed by Nova OSINT team, published the IP will not effect on company because its already public by ping administracion.ttsamexico.com - Nova Provide tree and samples from stolen data to the company when its get in touch with support department, Nova will oversee the target verification processes for accurate Posts deployment.",
@@ -58,85 +108,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "sandox info",
-        "discovered": "2026-05-26 12:49:36.763638",
-        "description": "since the site down after the attack, we didn't get much OSINT about it, sandox.info, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Eriell",
-        "discovered": "2026-05-26 12:49:18.536651",
-        "description": "ERIELL Group RU specializes in providing oil and gas engineering services. The company focuses on advanced drilling solutions and offers a range of services tailored to the energy sector. Its clients include various oil and gas companies seeking innovative drilling technologies and operational enhancements. Established in 2014, ERIELL Group has expanded its workforce and capabilities to serve clients effectively - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "H-W-G & Acros Sport",
-        "discovered": "2026-05-26 11:49:08.043471",
-        "description": "h-w-g.com - HWG (h-w-g.com): German manufacturer of bearings and mechanical components for industrial machinery and automation.\r\nAcros Components (acros-components.com): Distributor and supplier of electronic components and related logistics/technical support.",
-        "link": "/post/43f1975a183ce59f91589cd160602c8f",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/H-W-G & Acros Sport.png",
-        "group_name": "lamashtu",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "BASE SPA",
-        "discovered": "2026-05-26 08:48:40.165371",
-        "description": "BASE\nS.p.A. is a company internationally operating in the\nfield of goods inspection, in the management\nof commodities loading/unloading and logistic services, in\nthe pertinent certifications and customs\nbrokerage, generally offers full assistance in the\ninternational trading being present in about 35 countries\nworldwide.\nBASE\nS.p.A. is established in 1983 as International Freight Forwarder,\nCustom House Broker and Inspection Company and achieved important\ngoals, becoming one of the more affirmed and known operator of the\nfield of the port services. The Company got an immediate commercial\nsuccess, all now is in continuous growth, increasing her own business\nvolume day by day, developing in the years an international top\nquality network. The Company specialized itself in containers\nand project cargo handling, waste recycling promotion, bulk dry &\nliquid cargo traffic, control and survey.\nThe\noperative administrative centre is placed in Livorno, from where\nlocal staff, Italian branches, and company’s world partners are\nmonitored and followed up.\nThe\nconstant growth of business volume has allowed to saving and the\nprivate financing her own business by continuous investments in the\nstaff’s know-how, supporting the staff by training finalized to\nprofessional grew, in innovation and expansion of the national and\ninternational structures, making certain the best\nsolution to traders to any tied up problem related to\nthe commodities manipulation, allowing them to bringing trade in\nabsolute serenity and safely. In fact our efficacy\nconsists of ensuring an individual solution to each client,\nsorting out for their demands.\n-Confidential information-Personal information of employees and clients-Financial documents-Other files\nhttps://www.basespa.com/en/the-company/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/41/base-spa",
-        "magnet": null,
-        "screen": "screenshots/space bears/BASE SPA.png",
-        "group_name": "space bears",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Filabé",
-        "discovered": "2026-05-26 08:48:39.222042",
-        "description": "Filabé\nof Switzerland is a skincare company that uses a unique,\nadditive-free technology to treat skin problems. Developed alongside\ndermatologists and pharmacists in Switzerland, the brand focuses on a\nscience-based approach to skincare. In 2025, they won a PETA Award\nfor \"Best Vegan Innovation\" due to their animal-friendly\ncosmetic concepts\n-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\n\n\nhttps://www.filabe.ch/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/42/filabe",
-        "magnet": null,
-        "screen": "screenshots/space bears/Filabé.png",
-        "group_name": "space bears",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Hunter",
-        "discovered": "2026-05-26 07:47:27.600856",
-        "description": "Hunter was created by Antoine Finkelstein and François Grante in\n2015. Freshly graduated, they saw the untapped potential of cold\nemails and wanted to address the challenges of prospecting and\nfinding contact information. To achieve great success rate while\ncomplying with privacy regulations, they decided to use emails found\non the public web. Email Hunter was born.\nSoon rebranded as Hunter, the tool\nquickly became a game-changer in business intelligence. Within weeks,\nit attracted thousands of users thanks to its user-friendly\ninterface, handy browser extension, affordable pricing, and data\naccuracy. Unlike its peers, Hunter aimed not at large enterprises but\nat making cold emailing accessible to all.\nOver time, Hunter grew into a\ncomprehensive email outreach platform, offering everything from\nfinding contact information to sending cold emails. Antoine and\nFrançois, with a focused team, continued to empower professionals\nwith simple, powerful tools.-Personal information of employees and clients-Databse-Financial documents-Other files\n\nhttps://hunter.io/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/40/hunter",
-        "magnet": null,
-        "screen": "screenshots/space bears/Hunter.png",
-        "group_name": "space bears",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "basatamfi",
-        "discovered": "2026-05-26 03:49:20.358104",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PILLER AIMMCO",
-        "discovered": "2026-05-26 01:49:12.565768",
-        "description": "",
-        "link": "/blog/disclosures/6a14d339d152110a6addfb1e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/PILLER AIMMCO.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
