@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Restorative Therapies, Inc.",
+        "discovered": "2026-05-29 11:48:34.131969",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BCD Travel",
+        "discovered": "2026-05-29 10:49:29.069948",
+        "description": "Over 700k Salesforce records and various Sharepoint sites corporate data has been compromised.   This is a final warning to reach out by 1 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. Pay or Leak.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ЕРМ",
+        "discovered": "2026-05-29 04:49:07.604376",
+        "description": "",
+        "link": "/news/erm/",
+        "magnet": null,
+        "screen": "screenshots/everest/ЕРМ.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Asopagos S.A.",
+        "discovered": "2026-05-29 04:48:52.325213",
+        "description": "",
+        "link": "/news/Asopagos_S.A._/",
+        "magnet": null,
+        "screen": "screenshots/everest/Asopagos SA.png",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.uei.edu/",
+        "discovered": "2026-05-29 03:49:17.259789",
+        "description": "UEI College",
+        "link": "/post/6a14cce8c684b738d5259940",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwueiedu.png",
+        "group_name": "termite",
+        "sector": "Education"
+    },
+    {
+        "post_title": "belimed.com",
+        "discovered": "2026-05-29 03:48:59.110066",
+        "description": "",
+        "link": "/blog/disclosures/6a18dda1d152110a6a470e18",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/belimedcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "entransinternational.com",
+        "discovered": "2026-05-28 23:48:51.030985",
+        "description": "STATUS: PENDING PUBLICATION | TIME REMAINING: 72 HOURS\nENTITY: Entrans International (entransinternational.com)\nTHE REALITY OF ENTRANS INTERNATIONAL\n\nWe have been in possession of your internal data for some time. Throughout this period, we have attempted to engage with your management, but their si…",
+        "link": "/BjU9tRUwQcqpBEnhp1jtQKObLxLbhW8m/entransinternational-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/entransinternationalcom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "powerhousenow.com",
+        "discovered": "2026-05-28 23:48:48.549886",
+        "description": "STATUS: PENDING PUBLICATION | TIME REMAINING: 72 HOURS\nENTITY: Powerhouse (powerhousenow.com)\nTHE REALITY OF POWERHOUSE\n\nWe have been in possession of your internal data for some time. We have attempted to engage with your management to resolve this incident professionally, but their silence speaks…",
+        "link": "/MLBMZM6WZBtKLnTqzF6hdr58qnApbHdv/powerhousenow-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/powerhousenowcom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Peña & Bromberg",
         "discovered": "2026-05-28 22:48:41.322197",
         "description": "A legal firm dedicated to safeguard the rights of its clients",
@@ -198,55 +278,5 @@
         "screen": null,
         "group_name": "payoutsking",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "DentaQuest, LLC",
-        "discovered": "2026-05-28 12:51:17.150184",
-        "description": "You wouldn't want us to describe what data and how much data was compromised. It is in your best interests to reply to us or we are leaking it all by the deadline.    This is a final warning to reach out by 29 May 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. Pay or Leak.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mairie Thiverval Grignon",
-        "discovered": "2026-05-28 12:50:51.781484",
-        "description": "Organization with 162 emails extracted. Domain: mairie-thiverval-grignon.fr",
-        "link": "/company/baraaai/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Mairie Thiverval Grignon.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "AUDIT ENTITY: On***de",
-        "discovered": "2026-05-28 03:48:02.171863",
-        "description": "AUDIT ID: DF2287D8C495C426 / DISCOVERY DATE: 2026-05-28",
-        "link": "/entity/B35411691DDC2265",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: On***de.png",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Otthon Centrum",
-        "discovered": "2026-05-28 00:50:37.383242",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=f9273b15-aa73-467c-9abd-a2fc87d51f05",
-        "magnet": null,
-        "screen": "screenshots/qilin/Otthon Centrum.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "casasafer",
-        "discovered": "2026-05-28 00:50:35.302585",
-        "description": "CasaSafer.it is the official website for a vacation rental property in the heart of Florence, Italy, offering four independent apartments for short- and long-term stays. - Nova provide free 2 files decryption as proof, reach support department for full Decryptor program, after 10 days no decrypt available if you didn't reach us, site down at this time.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
     }
 ]
