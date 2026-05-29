@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "AcademyHealth 🇺🇸",
+        "discovered": "2026-05-29 22:47:27.425586",
+        "description": "They research and promote policy and innovations in healthcare.",
+        "link": "/blog/9397cf6a-4d40-4041-b614-0a34bfb14c10",
+        "magnet": null,
+        "screen": "screenshots/bravox/AcademyHealth 🇺🇸.png",
+        "group_name": "bravox",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "- Cognizant",
         "discovered": "2026-05-29 18:48:12.823048",
         "description": "Tech - $21.1 Billion",
@@ -138,15 +148,5 @@
         "screen": "screenshots/chaos/powerhousenowcom.png",
         "group_name": "chaos",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Peña & Bromberg",
-        "discovered": "2026-05-28 22:48:41.322197",
-        "description": "A legal firm dedicated to safeguard the rights of its clients",
-        "link": "/069e114bcc3edd29df4c/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Peña & Bromberg.png",
-        "group_name": "genesis",
-        "sector": "Legal"
     }
 ]
