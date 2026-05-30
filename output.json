@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Cavalier Flooring Systems Inc.",
+        "discovered": "2026-05-30 21:46:06.136282",
+        "description": "A flooring and tile contractor",
+        "link": "/f10ce733580c413f2c3a/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Cavalier Flooring Systems Inc.png",
+        "group_name": "genesis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Wentworth",
+        "discovered": "2026-05-30 21:46:05.117967",
+        "description": "the DC Metro area's premier design-build firm",
+        "link": "/e21f3327f23dba31d2a6/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Wentworth.png",
+        "group_name": "genesis",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Green Resource",
+        "discovered": "2026-05-30 21:46:04.107774",
+        "description": "A leading distributor of professional fertilizers, chemicals, and seeds for local and lawn grasses",
+        "link": "/dbc7eb0c136da6d5eff7/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Green Resource.png",
+        "group_name": "genesis",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Cedar Street Capital (A part of a Cynvestors Limited Partnership)",
+        "discovered": "2026-05-30 21:46:01.035767",
+        "description": "A private investment entity associated with Cynthia Stiehl",
+        "link": "/bfa3535e1d92ebc2c573/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Cedar Street Capital (A part of a Cynvestors Limited Partnership).png",
+        "group_name": "genesis",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "A Roettgers",
+        "discovered": "2026-05-30 21:45:59.907939",
+        "description": "Fuel distributor and gas station operator",
+        "link": "/992090c36f83be4fcd52/",
+        "magnet": null,
+        "screen": "screenshots/genesis/A Roettgers.png",
+        "group_name": "genesis",
+        "sector": "Energy"
+    },
+    {
         "post_title": "LTI Services and Larick Towing",
         "discovered": "2026-05-30 15:47:15.166675",
         "description": "ltiservices.com - laricktowing.com - LTI Services is a leading customization and accessory shop specializing in customizations, repairs, and aftermarket parts for the heavy-duty trucking industry. They work with major truck brands such as Peterbilt, Kenworth, Volvo, International, Freightliner, and Western Star, offering a wide range of services including collision repair, custom fabrication, and electrical repairs. The company prides itself on providing quality parts and accessories while collaborating closely with customers to bring their design visions to life. With a focus on transparency and comprehensive service, LTI Services ensures that clients are informed and confident throughout the project process - \nLarick Towing Inc. is a family-owned and operated business that has been providing vehicle transportation services since 1978. They offer nationwide vehicle transportation, including pick-up and delivery services for transporters, as well as transport to all ship ports and terminals. Their services cater to both individual clients and auto dealers, facilitating vehicle transport to and from auctions and dealer swaps. The company is known for its customer-focused approach and commitment to quality service - Nova provide free decrypt 2 files as proof, we will leak only DBs, not source code because company may recover from leak) 11 days available to reach us or no recover possible, both sites seized.",
@@ -138,35 +188,5 @@
         "screen": "screenshots/bravox/AcademyHealth 🇺🇸.png",
         "group_name": "bravox",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "- Cognizant",
-        "discovered": "2026-05-29 18:48:12.823048",
-        "description": "Tech - $21.1 Billion",
-        "link": "/companies/cogniz",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/- Cognizant.png",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Capital Family Physicians",
-        "discovered": "2026-05-29 17:50:26.645114",
-        "description": "Capital Family Physicians provides quality healthcare services for families, focusing on comprehensive care for all ages. They offer same-day appointments and a patient portal for convenient access to medical records and billing. The practice emphasizes pediatric services, ensuring that children's health is prioritized. With over 15 years of experience, they are dedicated to supporting patients through every stage of life.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Schacht Law Office",
-        "discovered": "2026-05-29 17:50:10.912972",
-        "description": "Schacht Law Office specializes in intellectual property legal services, focusing on the protection of patents, trademarks, copyrights, and trade secrets. They assist clients in defining and safeguarding their ideas to ensure the prosperity of their intellectual property and brand.We will upload 20gb of corporate data soon. Lots of clients data (credit cards, name, addresses, phones and so on), contracts and agreements, NDAs, projects, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
     }
 ]
