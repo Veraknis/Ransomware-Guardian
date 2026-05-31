@@ -28,55 +28,5 @@
         "screen": "screenshots/krybit/tulipmediworldcom.png",
         "group_name": "krybit",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Cavalier Flooring Systems Inc.",
-        "discovered": "2026-05-30 21:46:06.136282",
-        "description": "A flooring and tile contractor",
-        "link": "/f10ce733580c413f2c3a/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Cavalier Flooring Systems Inc.png",
-        "group_name": "genesis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Wentworth",
-        "discovered": "2026-05-30 21:46:05.117967",
-        "description": "the DC Metro area's premier design-build firm",
-        "link": "/e21f3327f23dba31d2a6/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Wentworth.png",
-        "group_name": "genesis",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Green Resource",
-        "discovered": "2026-05-30 21:46:04.107774",
-        "description": "A leading distributor of professional fertilizers, chemicals, and seeds for local and lawn grasses",
-        "link": "/dbc7eb0c136da6d5eff7/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Green Resource.png",
-        "group_name": "genesis",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Cedar Street Capital (A part of a Cynvestors Limited Partnership)",
-        "discovered": "2026-05-30 21:46:01.035767",
-        "description": "A private investment entity associated with Cynthia Stiehl",
-        "link": "/bfa3535e1d92ebc2c573/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Cedar Street Capital (A part of a Cynvestors Limited Partnership).png",
-        "group_name": "genesis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "A Roettgers",
-        "discovered": "2026-05-30 21:45:59.907939",
-        "description": "Fuel distributor and gas station operator",
-        "link": "/992090c36f83be4fcd52/",
-        "magnet": null,
-        "screen": "screenshots/genesis/A Roettgers.png",
-        "group_name": "genesis",
-        "sector": "Energy"
     }
 ]
