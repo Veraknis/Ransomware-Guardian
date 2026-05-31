@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "STAREMPIRE",
+        "discovered": "2026-05-31 16:47:25.441295",
+        "description": "",
+        "link": "/company/AtwTMxOKhz-j2jQ1mxz34",
+        "magnet": null,
+        "screen": "screenshots/gunra/STAREMPIRE.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lake Washington School District",
+        "discovered": "2026-05-31 13:47:49.966731",
+        "description": "Founded in 1914, Lake Washington School District is the administrative body responsible for planning and managing public education for 33 elementary, 14 middle, and 9 high schools. It serves communities of Kirkland, Redmond and about half of Sammamish. The company is headquartered in Redmond, Washington.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Education"
+    },
+    {
         "post_title": "tulipmediworld.com",
         "discovered": "2026-05-31 00:48:20.495153",
         "description": "A complete data breach has occurred at Tulip Mediworld Hospital, a multi-specialty hospital located on GS Road, Rukmini ...",
@@ -58,35 +78,5 @@
         "screen": "screenshots/genesis/A Roettgers.png",
         "group_name": "genesis",
         "sector": "Energy"
-    },
-    {
-        "post_title": "LTI Services and Larick Towing",
-        "discovered": "2026-05-30 15:47:15.166675",
-        "description": "ltiservices.com - laricktowing.com - LTI Services is a leading customization and accessory shop specializing in customizations, repairs, and aftermarket parts for the heavy-duty trucking industry. They work with major truck brands such as Peterbilt, Kenworth, Volvo, International, Freightliner, and Western Star, offering a wide range of services including collision repair, custom fabrication, and electrical repairs. The company prides itself on providing quality parts and accessories while collaborating closely with customers to bring their design visions to life. With a focus on transparency and comprehensive service, LTI Services ensures that clients are informed and confident throughout the project process - \nLarick Towing Inc. is a family-owned and operated business that has been providing vehicle transportation services since 1978. They offer nationwide vehicle transportation, including pick-up and delivery services for transporters, as well as transport to all ship ports and terminals. Their services cater to both individual clients and auto dealers, facilitating vehicle transport to and from auctions and dealer swaps. The company is known for its customer-focused approach and commitment to quality service - Nova provide free decrypt 2 files as proof, we will leak only DBs, not source code because company may recover from leak) 11 days available to reach us or no recover possible, both sites seized.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Lee Law Offices",
-        "discovered": "2026-05-30 15:46:57.837878",
-        "description": "Lee Law Offices is a well-established law firm serving clients in North and South Carolina for over 30 years, specializing in personal injury, workers compensation, and social security disability cases. The firm is dedicated to advocating for individuals affected by auto accidents, workplace injuries, and other forms of negligence, ensuring that clients receive the compensation they deserve. With a no-fee guarantee, they focus on representing the best interests of their clients rather than insurance companies or corporations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "BC3 Tecnologia",
-        "discovered": "2026-05-30 14:47:47.016962",
-        "description": "BC3.com.br is the website for BC3 Tecnologia, a Brazilian company that develops and sells ERP (Enterprise Resource Planning) software specifically for the corrugated packaging and cartonage industry. Their flagship product is the ERP KRP- Nova Provide tree and samples from stolen data, free 2 files decrypt to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
     }
 ]
