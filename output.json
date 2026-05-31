@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "tulipmediworld.com",
+        "discovered": "2026-05-31 00:48:20.495153",
+        "description": "A complete data breach has occurred at Tulip Mediworld Hospital, a multi-specialty hospital located on GS Road, Rukmini ...",
+        "link": "/blog/c0b63c60d94025eff1accba59f0f42fd8a932576faf925c2cd5044201bd98676/",
+        "magnet": null,
+        "screen": "screenshots/krybit/tulipmediworldcom.png",
+        "group_name": "krybit",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Cavalier Flooring Systems Inc.",
         "discovered": "2026-05-30 21:46:06.136282",
         "description": "A flooring and tile contractor",
@@ -78,115 +88,5 @@
         "screen": null,
         "group_name": "nova",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Plexsupply Inc",
-        "discovered": "2026-05-30 09:48:37.020025",
-        "description": "A private wholesale and distribution company offering the highest-quality brand-name products",
-        "link": "Companies/plexsupply",
-        "magnet": null,
-        "screen": "screenshots/pear/Plexsupply Inc.png",
-        "group_name": "pear",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "DentaQuest, LLC.",
-        "discovered": "2026-05-30 04:46:32.844174",
-        "description": "The company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ecci-srl.com",
-        "discovered": "2026-05-30 03:46:55.480651",
-        "description": "Empresa dedicada al rubro de construcción de proyectos inmobiliarios, particularmente la Ciudad Nueva Santa Cruz. El á...",
-        "link": "/blog/75281516cd4c46e365bbfe44fc8f307d545b8f6b5afd2f6512b7c45a5c1cab7f/",
-        "magnet": null,
-        "screen": "screenshots/krybit/ecci-srlcom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://www.imminet.com/",
-        "discovered": "2026-05-30 02:47:08.240421",
-        "description": "Indiana Mills and Manufacturing",
-        "link": "/post/6a0c91a1d09f340c1e9e383d",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwimminetcom.png",
-        "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "www.labexpress.com",
-        "discovered": "2026-05-30 02:46:50.258738",
-        "description": "",
-        "link": "/blog/disclosures/6a0fdc7bd152110a6a5e7814",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwlabexpresscom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Daegu University AI Department",
-        "discovered": "2026-05-30 01:46:48.070506",
-        "description": "Daegu University offers a range of educational services including online employment solutions, academic information systems, and various courses for students and faculty. The university focuses on providing resources for job preparation, including strategies for public and private sector employment, as well as civil service exam preparation. It aims to support students, prospective students, and faculty members in their academic and professional development. The institution is committed to fostering a collaborative and innovative learning environment - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Shoreline Sightseeing",
-        "discovered": "2026-05-30 00:47:27.416146",
-        "description": "Shoreline Sightseeing offers guided boat tours and water taxi services in Chicago, focusing on architecture and skyline views. Their popular tours include the A...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "Henry Molded Products Likely to Engage tag.",
-        "discovered": "2026-05-30 00:47:26.180337",
-        "description": "Henry Molded Products specializes in the manufacturing of custom molded pulp fiber products and packaging solutions. The company is recognized for its eco-frien...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "******** & Co",
-        "discovered": "2026-05-29 23:46:43.203118",
-        "description": "A provider of financial services",
-        "link": "/940ee385cc48cd398032/",
-        "magnet": null,
-        "screen": "screenshots/genesis/******** & Co.png",
-        "group_name": "genesis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "*M**",
-        "discovered": "2026-05-29 23:46:34.396540",
-        "description": "A healthcare organization",
-        "link": "/56a7b33d42a266827a91/",
-        "magnet": null,
-        "screen": "screenshots/genesis/*M**.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "AcademyHealth 🇺🇸",
-        "discovered": "2026-05-29 22:47:27.425586",
-        "description": "They research and promote policy and innovations in healthcare.",
-        "link": "/blog/9397cf6a-4d40-4041-b614-0a34bfb14c10",
-        "magnet": null,
-        "screen": "screenshots/bravox/AcademyHealth 🇺🇸.png",
-        "group_name": "bravox",
-        "sector": "Unknown"
     }
 ]
