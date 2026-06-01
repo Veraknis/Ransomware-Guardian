@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "SOMAFIX",
+        "discovered": "2026-06-01 15:24:39.893802",
+        "description": "",
+        "link": "/company/6hfYmI7CZzmHZhcBzwuEg",
+        "magnet": null,
+        "screen": "screenshots/gunra/SOMAFIX.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Champaign-Urbana Public Health District",
+        "discovered": "2026-06-01 13:50:05.079840",
+        "description": "",
+        "link": "/blog/disclosures/6a1d6c87d152110a6ac6d153",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Champaign-Urbana Public Health District.png",
+        "group_name": "inc ransom",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Digitall Graphics",
+        "discovered": "2026-06-01 12:29:20.021654",
+        "description": "",
+        "link": "topic.php?id=N9nxqXKEF9Bka",
+        "magnet": null,
+        "screen": "screenshots/play/Digitall Graphics.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hightower Communications",
+        "discovered": "2026-06-01 12:29:19.065990",
+        "description": "",
+        "link": "topic.php?id=1EVaqVWGRN5cAC",
+        "magnet": null,
+        "screen": "screenshots/play/Hightower Communications.png",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "landkreis-limburg-weilburg.de",
+        "discovered": "2026-06-01 10:50:12.205315",
+        "description": "landkreis-limburg-weilburg.de 132Gb uncompressed data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "abyss-data",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Grupo LTZ",
+        "discovered": "2026-06-01 10:25:03.988939",
+        "description": "grupoltz.com Grupo LTZ is a dynamic Brazilian e-commerce enterprise specializing in the online retail of diverse consumer products, ranging from books to everyday merchandise. Operating with a strong focus on digital convenience, the company leverages modern platforms to deliver a seamless and reliable shopping experience for its customers. Driven by a commitment to accessible retail, Grupo LTZ continues to expand its digital footprint while adapting to the evolving demands of the modern market",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Suburban Water",
+        "discovered": "2026-06-01 10:25:01.258779",
+        "description": "suburbanwaterinc.com zoominfo.com/c/suburban-water-inc/350908787 Suburban Water, Inc. is a dedicated public water utility based in Basehor, Kansas, committed to delivering safe and reliable drinking water to local residential and commercial communities. Operating as a vital part of the regional infrastructure, the company prioritizes strict water quality standards, sustainable resource management, and exceptional customer service. Through continuous system maintenance and proactive operations, they ensure the long-term health, safety, and well-being of the neighborhoods they proudly serve",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Soniva Dental",
+        "discovered": "2026-06-01 10:14:46.279035",
+        "description": "sonivadental.com rocketreach.co/soniva-dental-care-profile_b73bd863c7ef0f15 Soniva Dental is a premier Texas-based dental clinic recognized for setting a benchmark in excellence and comprehensive oral healthcare. With over 15 years of trusted experience, the practice integrates 13 branches of dentistry under one roof, supported by state-of-the-art equipment and a world-class CAD-CAM dental laboratory. From routine check-ups to advanced dental implants, their dedicated team is committed to delivering high-quality, patient-focused care that creates healthier, beautiful smiles",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Brian Jessel BMW",
+        "discovered": "2026-06-01 10:01:30.844158",
+        "description": "brianjesselbmw.com zoominfo.com/c/brian-jessel-bmw/347467232 Established in 1986, Brian Jessel BMW is one of Canada's premier luxury automotive dealerships, proudly located in Vancouver, British Columbia. Recognized as a top-tier retailer for both new and pre-owned vehicles, the company offers an extensive selection of BMW models alongside expert financing and comprehensive service solutions. With a dedicated team of over 200 professionals, they have built a decades-long legacy of delivering exceptional customer experiences and automotive excellence",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Harrell Martin Peace",
+        "discovered": "2026-06-01 10:01:29.860111",
+        "description": "harrellmartinpeace.com zoominfo.com/c/harrell-martin--peace-pa/347464411 Established in 1995, Harrell, Martin & Peace, P.A. is a highly regarded full-service law firm based in Chapin, South Carolina, celebrated for its community-focused approach and deep client relationships. The firm delivers comprehensive legal expertise across diverse practice areas, including real estate, corporate law, estate planning, and family law. Backed by a dedicated team of experienced attorneys, they are committed to providing personalized, strategic, and exceptional legal representation to both individuals and businesses",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Computime Group",
+        "discovered": "2026-06-01 10:01:28.876993",
+        "description": "computime.com zoominfo.com/c/computime-group-ltd/9208093 Computime is a global electronics engineering and manufacturing partner that has been pioneering intelligent control solutions since 1974. Delivering end-to-end services from initial concept to final delivery, the company specializes in designing advanced electronic controls for the appliance, HVAC, smart home, and medical industries. With a strong commitment to innovation, Computime empowers brands worldwide with cutting-edge technology that enables smarter and more sustainable living",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Bouri Group",
+        "discovered": "2026-06-01 10:01:27.874001",
+        "description": "bouri.net zoominfo.com/c/bouri-group/356964813 Established in 1976, Bouri Group is a prominent Egyptian enterprise specializing in the manufacturing, importing, and retail distribution of premium home essentials and electrical appliances. As a leading provider of energy-efficient household solutions, the company offers an extensive portfolio of trusted international brands across kitchenware, houseware, and personal care. Through its comprehensive retail network and modern digital platforms, Bouri consistently delivers high-quality, durable products designed to equip and enhance everyday living",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "National Industries",
+        "discovered": "2026-06-01 10:01:26.503042",
+        "description": "nationalindustries.in zoominfo.com/c/national-industries/453107978 Established in 1976 in Ludhiana, National Industries is a premier automotive manufacturing enterprise and a core part of the esteemed Metalman Group. Specializing in precision-engineered components, the company supplies high-quality parts to top-tier two-wheeler brands, combining decades of expertise with modern manufacturing excellence. With a strong foundation in engineering innovation and award-winning workplace practices, National Industries continues to drive reliability and technological advancement in the automotive sector",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Arabian Procession Holding",
+        "discovered": "2026-06-01 09:49:05.276009",
+        "description": "aph.com.sa zoominfo.com/c/arabian-procession-holding/483326397 Established in 1989, Arabian Procession Holding (APH) is a prominent family-owned investment firm based in Riyadh, Saudi Arabia, managing a diversified portfolio across the aviation, real estate, contracting, and retail sectors. Over the past three decades, the company has expanded its strategic footprint, notably operating duty-free shops in Saudi international airports through high-profile joint ventures. Driven by a commitment to sustainable growth, APH continues to develop local and global brands, delivering exceptional value to businesses and consumers alike",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Smile Siam Printing Service",
+        "discovered": "2026-06-01 09:49:04.333251",
+        "description": "smile-siam.com zoominfo.com/c/smile-siam-printing-service-co-ltd/355813513 Smile Siam Printing Service is a distinguished Bangkok-based printing house founded in 1995, offering comprehensive one-stop solutions in offset, digital, inkjet, and silk screen printing for local and international clients. With ISO-certified production facilities and a dedicated team, they ensure exceptional quality, competitive pricing, and seamless project management from design to delivery. Their integrated logistics and business services further streamline operations, making them a trusted partner for premium printed materials and corporate solutions",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Fibrenoire",
+        "discovered": "2026-06-01 09:49:02.662164",
+        "description": "fibrenoire.ca zoominfo.com/c/fibrenoire-inc/347982087 Fibrenoire is a premier Canadian telecommunications provider specializing exclusively in high-speed, fiber-optic connectivity solutions tailored for business environments. Operating primarily across Quebec and Ontario as part of Videotron Business, they deliver mission-critical services including dedicated internet, private networks, VoIP, and cloud infrastructure. With an avant-garde approach, the company focuses on building robust, scalable, and secure networks that empower enterprises to thrive in a demanding digital landscape",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Schneebeli",
+        "discovered": "2026-06-01 09:48:36.785046",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Weckworth Manufacturing",
+        "discovered": "2026-06-01 09:39:31.683301",
+        "description": "weckworth.com zoominfo.com/c/weckworth-manufacturing-inc/122961945 Weckworth Manufacturing is a premier, ISO-certified industrial textile company based in Kansas, specializing in custom contract sewing for military and commercial clients. Utilizing advanced technologies like AutoCAD, they excel in custom design, engineering, and high-quality manufacturing of durable goods. With a strong commitment to precision, they serve as a reliable partner for complex textile solutions tailored to rigorous industry standards",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "M Rocha J Serra Lda",
+        "discovered": "2026-06-01 09:39:30.642503",
+        "description": "mrjs.pt zoominfo.com/c/m-rocha--j-serra-lda/541302825 M. Rocha & J. Serra (MRJS) is a distinguished Portuguese metalworking enterprise specializing in high-quality fabricated metal products and specialized components for electrical distribution networks. With a strong commitment to production flexibility and consistent quality, they utilize advanced equipment to meet the rigorous demands of the energy and industrial sectors",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Anandji Haridas",
+        "discovered": "2026-06-01 09:39:28.786532",
+        "description": "ahcpl.com zoominfo.com/c/anandji-haridas--co-ltd/354316069 Anandji Haridas & Co. (AHCPL) is a pioneering Indian manufacturer with over seven decades of expertise in cold forming, tool design, and advanced sheet metal fabrication.As a fully certified OEM supplier, they specialize in producing high-precision, cost-effective critical automotive components and spun pulleys through integrated in-house engineering.With a steadfast commitment to world-class quality, AHCPL remains a trusted partner for innovative and reliable sheet metal forming solutions",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Grupo Mauá 🇧🇷",
+        "discovered": "2026-06-01 00:49:37.931771",
+        "description": "Operates in the construction, real estate, energy, and infrastructure sectors.",
+        "link": "/blog/2979a59a-c02f-4a3b-804f-2b1d8cabefd8",
+        "magnet": null,
+        "screen": "screenshots/bravox/Grupo Mauá 🇧🇷.png",
+        "group_name": "bravox",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "STAREMPIRE",
         "discovered": "2026-05-31 16:47:25.441295",
         "description": "",
@@ -8,25 +218,5 @@
         "screen": "screenshots/gunra/STAREMPIRE.png",
         "group_name": "gunra",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Lake Washington School District",
-        "discovered": "2026-05-31 13:47:49.966731",
-        "description": "Founded in 1914, Lake Washington School District is the administrative body responsible for planning and managing public education for 33 elementary, 14 middle, and 9 high schools. It serves communities of Kirkland, Redmond and about half of Sammamish. The company is headquartered in Redmond, Washington.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Education"
-    },
-    {
-        "post_title": "tulipmediworld.com",
-        "discovered": "2026-05-31 00:48:20.495153",
-        "description": "A complete data breach has occurred at Tulip Mediworld Hospital, a multi-specialty hospital located on GS Road, Rukmini ...",
-        "link": "/blog/c0b63c60d94025eff1accba59f0f42fd8a932576faf925c2cd5044201bd98676/",
-        "magnet": null,
-        "screen": "screenshots/krybit/tulipmediworldcom.png",
-        "group_name": "krybit",
-        "sector": "Healthcare"
     }
 ]
