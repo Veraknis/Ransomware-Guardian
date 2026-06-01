@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "soraris.it",
+        "discovered": "2026-06-01 21:25:48.831183",
+        "description": "Founded in 1983, the company specializes in the collection, transportation, treatment, and management of municipal solid waste and recyclable materials. …",
+        "link": "/blog/post/sorarisit/",
+        "magnet": null,
+        "screen": "screenshots/safepay/sorarisit.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "lcnet.eu",
+        "discovered": "2026-06-01 21:25:47.875138",
+        "description": "The network was established to provide integrated cross-border transport solutions, allowing member companies to coordinate freight movements efficiently throughout Europe. …",
+        "link": "/blog/post/lcneteu/",
+        "magnet": null,
+        "screen": "screenshots/safepay/lcneteu.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Cablematic Dos Mil SLU",
+        "discovered": "2026-06-01 17:49:45.042372",
+        "description": "",
+        "link": "/company/2fGQGyM4z4SEmS_Zbbo7S",
+        "magnet": null,
+        "screen": "screenshots/gunra/Cablematic Dos Mil SLU.png",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "squamish.net",
+        "discovered": "2026-06-01 17:49:40.336679",
+        "description": "We have a lot of confidential documents. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/squamish",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/squamishnet.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "School Facility Consultants",
+        "discovered": "2026-06-01 17:49:38.186262",
+        "description": "s-f-c.org 1.3Tb uncompressed data",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "abyss-data",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Bradley law firm",
+        "discovered": "2026-06-01 16:48:48.910285",
+        "description": "",
+        "link": "/blog/disclosures/6a1d7512d152110a6ac7b3d5",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Bradley law firm.png",
+        "group_name": "inc ransom",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Taos Mountain Casino",
+        "discovered": "2026-06-01 16:48:46.780131",
+        "description": "Taos Mountain Casino is a Native American gaming casino located in Taos, New Mexico. It is owned and operated by the Taos Pueblo, a federally recognized tribe k...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Panorama BPO",
+        "discovered": "2026-06-01 16:48:45.406062",
+        "description": "Panorama BPO is a large international company specializing in business process outsourcing (BPO) and providing comprehensive operational services for businesses...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Synex International Pvt Ltd",
+        "discovered": "2026-06-01 16:48:44.277339",
+        "description": "Mechanical, Electrical, and Plumbing (MEP) systems, Extra Low Voltage (ELV) solutions, and Solar energy.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
         "post_title": "SOMAFIX",
         "discovered": "2026-06-01 15:24:39.893802",
         "description": "",
@@ -208,15 +298,5 @@
         "screen": "screenshots/bravox/Grupo Mauá 🇧🇷.png",
         "group_name": "bravox",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "STAREMPIRE",
-        "discovered": "2026-05-31 16:47:25.441295",
-        "description": "",
-        "link": "/company/AtwTMxOKhz-j2jQ1mxz34",
-        "magnet": null,
-        "screen": "screenshots/gunra/STAREMPIRE.png",
-        "group_name": "gunra",
-        "sector": "Unknown"
     }
 ]
