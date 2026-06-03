@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "smarty.arpinet.am",
+        "discovered": "2026-06-03 13:48:13.968572",
+        "description": "arpinet.am - it is an online platform for managing real estate data in the Armenian market, provi...",
+        "link": "/page_company.php?id=170",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/smartyarpinetam.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "MEISA - Sines",
+        "discovered": "2026-06-03 10:47:30.060791",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=90c319ad-cdab-4d2c-8a5e-e84e0d8242d0",
+        "magnet": null,
+        "screen": "screenshots/qilin/MEISA - Sines.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JNP ENG",
+        "discovered": "2026-06-03 10:47:29.136529",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=aee7cde8-9c42-42ee-b869-d48cd1a6f7bb",
+        "magnet": null,
+        "screen": "screenshots/qilin/JNP ENG.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "MarketJoy",
+        "discovered": "2026-06-03 10:47:28.213286",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=a8f53c6e-52a8-4a96-a634-2ead5addcca4",
+        "magnet": null,
+        "screen": "screenshots/qilin/MarketJoy.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Eat Salad",
+        "discovered": "2026-06-03 10:47:27.213698",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=9477bb5a-f81e-49b2-8db0-d7b8c1013df5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Eat Salad.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Dolrad",
+        "discovered": "2026-06-03 07:47:44.364537",
+        "description": "Organization with 69 emails extracted. Domain: dolrad.ae",
+        "link": "/company/batazai/",
+        "magnet": null,
+        "screen": "screenshots/bavacai/Dolrad.png",
+        "group_name": "bavacai",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "csinsurance.mx",
+        "discovered": "2026-06-03 02:49:45.725070",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "acehospital.in",
+        "discovered": "2026-06-03 02:49:39.277821",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "killsec3",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "katholiekamersfoort.nl",
+        "discovered": "2026-06-02 23:52:29.982298",
+        "description": "The church website",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "elektroverband-bayern",
         "discovered": "2026-06-02 22:41:59.890829",
         "description": "<p style=\"margin-left:0px;\">&nbsp;</p><p style=\"margin-left:0px;\">The State Guild Association for the Bavarian Electrical Trades is the umbrella organization of 25 Bavarian electrical guilds. It represents the interests of approximately 3,000 craft businesses from the following electrical trades:</p><ul style=\"margin-left:25px;\"><li style=\"margin-left:0px;\" data-list-item-id=\"e4b705e5bfe28a9ce51c254808448327b\">Electrical engineering trade</li><li style=\"margin-left:0px;\" data-list-item-id=\"e93bc127d778ce6fb5fd8cdaf8c3828a7\">Information technology trade</li><li style=\"margin-left:0px;\" data-list-item-id=\"ec320c07bb4787843e448d91cc9da7169\">Electrical machine manufacturing trade<br>&nbsp;</li></ul><p style=\"margin-left:0px;\">The State Guild Association offers its members comprehensive information services in the fields of business administration, technology, law, and management. It focuses on initial and continuing training, promotes the exchange of experience through regular specialist conferences and workshops as well as participation in trade fairs, conducts consistent public relations work, is responsible for negotiating collective bargaining agreements, and supports its member companies in implementing family-friendly personnel policies. Furthermore, the State Guild Association advocates for the interests of its members at the state and federal levels in a variety of ways and develops concepts for joint market activities together with industry, wholesalers, and electricity suppliers.<br><br><strong>The guiding principles of the Bavarian State Guild Association</strong></p><p style=\"margin-left:0px;\">The member companies of the Bavarian State Guild Association for the Electrical Trades have adopted the following mission statement. The mission statement of the Bavarian electrical trades serves as</p><ul style=\"margin-left:25px;\"><li style=\"margin-left:0px;\" data-list-item-id=\"eda9be7b4dab1ebfd473604655ecd8804\">Guidance and decision-making support for each individual member company</li><li style=\"margin-left:0px;\" data-list-item-id=\"e0efda5ca8f5e70df0c0aba7ee0174121\">Guidelines for the guilds and the state guild association in representing the interests of member companies</li><li style=\"margin-left:0px;\" data-list-item-id=\"e6cb62fc42f02d775925ca06d33095b3f\">Policy paper for the dissemination of information to the public<br>&nbsp;</li></ul><p style=\"margin-left:0px;\">The Bavarian electrical trade, with approximately 3,000 companies, around 87,300 employees, and roughly €15 billion in revenue, provides comprehensive information, planning, manufacturing, sales, installation, and maintenance of electrotechnical and electronic devices, systems, and equipment throughout the region. The three electrical trades (electrical engineer, information technology specialist, and electrical machine builder) are practiced extensively and complementarily. They are organized into electrical guilds.</p>",
@@ -138,45 +228,5 @@
         "screen": "screenshots/eraleign (apt73)/electionsmiagovam from WOLVES OF TURAN.png",
         "group_name": "eraleign (apt73)",
         "sector": "Government"
-    },
-    {
-        "post_title": "Everlite concept",
-        "discovered": "2026-06-02 12:23:23.485395",
-        "description": "Everlite Concept is a French company that specializes in polycarbonate solutions for building envelopes. It is known for its innovative, high-performance systems used in walls, roofing, and façades for buildings like sports complexes and museums - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "IBENA Textilwerke",
-        "discovered": "2026-06-02 12:23:22.539382",
-        "description": "IBENA HEIMTEX is a family-owned textile manufacturer based in Bocholt, Germany, established in 1826. The company specializes in high-quality home textiles, including cuddly blankets, bed linen, and technical textiles for various industries. Their products cater to both consumers and businesses, with offerings such as fireproof fabrics, digital printing textiles, and car interior fabrics for renowned automotive brands. IBENA is committed to sustainability and quality, ensuring their textiles meet numerous quality standards - Nova Provide tree and samples from stolen data, free 2 files decrypt to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "AUDIT ENTITY: ca***lm",
-        "discovered": "2026-06-02 11:50:16.748858",
-        "description": "AUDIT ID: 168B1F8DD83F7DD9 / DISCOVERY DATE: 2026-06-02",
-        "link": "/entity/111CEAA5AD9DA2F1",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: ca***lm.png",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Clinica Maitenes",
-        "discovered": "2026-06-02 10:49:47.751767",
-        "description": "0",
-        "link": "/site/blog?uuid=d3ce86e4-82ae-4556-804a-a3da7631e290",
-        "magnet": null,
-        "screen": "screenshots/qilin/Clinica Maitenes.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
