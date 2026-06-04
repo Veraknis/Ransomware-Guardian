@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Groupe Sécurité CLB",
+        "discovered": "2026-06-04 22:51:45.004683",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Stuga Machinery",
+        "discovered": "2026-06-04 20:49:53.624195",
+        "description": "",
+        "link": "/blog/disclosures/6a21bd57d152110a6a4b4f68",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Stuga Machinery.png",
+        "group_name": "inc ransom",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "National Standard Parts Associates",
         "discovered": "2026-06-04 16:49:14.327976",
         "description": "NSPA is an American manufacturer specializing in heat shrink terminals and connectors, as well as heat shrink tubing and installation tools. Their product offerings cater to industries requiring reliable sealed electrical systems.We will upload 53gb of corporate data soon. Employee personal docs (passports, DLs, SSNs and other information), contracts and agreements, a bit of client and partners information, lots of NDAs, detailed financials, confidential files, and so on.",
@@ -68,35 +88,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "SeeWriteHear",
-        "discovered": "2026-06-03 22:52:51.154776",
-        "description": "SeeWriteHear specializes in providing print and digital accessibility solutions, including Braille, large print, and web accessibility services. Their offerings cater to various industries such as education, government, and publishing, ensuring compliance with usability standards. The company focuses on innovative technology to enhance accessibility for individuals with disabilities. With a commitment to information equality, SeeWriteHear serves clients by creating accessible content and providing consulting and training services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Education"
-    },
-    {
-        "post_title": "SETS Solutions",
-        "discovered": "2026-06-03 20:50:39.805174",
-        "description": "SETS Solutions is a prominent information technology company based in Lebanon, serving the Middle East since 1990. The company specializes in a diverse range of...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Copamex",
-        "discovered": "2026-06-03 19:49:41.578779",
-        "description": "Copamex, headquartered in Monterrey, Mexico, and established in 1928, is a paper manufacturing company offering writing and printing, special, corrugated, and k...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
     }
 ]
