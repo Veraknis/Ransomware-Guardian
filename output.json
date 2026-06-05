@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "CH Karnchang Public",
+        "discovered": "2026-06-05 11:46:14.075553",
+        "description": "",
+        "link": "/companies/5944500838",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/CH Karnchang Public.png",
+        "group_name": "worldleaks",
+        "sector": "Government"
+    },
+    {
+        "post_title": "United Auto Supply",
+        "discovered": "2026-06-05 11:46:12.817493",
+        "description": "",
+        "link": "/companies/5143963535",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/United Auto Supply.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Family Medical Associates of Raleigh",
+        "discovered": "2026-06-05 04:46:06.883919",
+        "description": "A healthcare organization",
+        "link": "/56a7b33d42a266827a91/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Family Medical Associates of Raleigh.png",
+        "group_name": "genesis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Trican",
+        "discovered": "2026-06-05 00:50:23.288675",
+        "description": "Energy, Utilities & Waste",
+        "link": "/site/blog?uuid=db9b88e4-dbf1-48ff-99c8-06be32a96a0f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Trican.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "SKUPINA Don Don",
+        "discovered": "2026-06-05 00:50:22.146901",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=bdec98d1-f14b-4a59-a117-ec55dffb1efa",
+        "magnet": null,
+        "screen": "screenshots/qilin/SKUPINA Don Don.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Avcon Jet",
+        "discovered": "2026-06-05 00:50:21.177822",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=c03b40fa-ade3-4b09-b25a-2ab1c5db463f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Avcon Jet.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Urschel Laboratories",
+        "discovered": "2026-06-05 00:50:20.082695",
+        "description": "",
+        "link": "topic.php?id=2bzaKMUnM6atgz",
+        "magnet": null,
+        "screen": "screenshots/play/Urschel Laboratories.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Dallis Law Firm",
+        "discovered": "2026-06-05 00:50:17.504848",
+        "description": "",
+        "link": "topic.php?id=3vtw1NyTphurhL",
+        "magnet": null,
+        "screen": "screenshots/play/Dallis Law Firm.png",
+        "group_name": "play",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "The Chapel",
+        "discovered": "2026-06-05 00:50:16.582849",
+        "description": "",
+        "link": "topic.php?id=IDPKtSXEUdbGwL",
+        "magnet": null,
+        "screen": "screenshots/play/The Chapel.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Corley MFG",
+        "discovered": "2026-06-05 00:50:15.637351",
+        "description": "",
+        "link": "topic.php?id=AFCxD2HjYFRkvr",
+        "magnet": null,
+        "screen": "screenshots/play/Corley MFG.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Groupe Sécurité CLB",
         "discovered": "2026-06-04 22:51:45.004683",
         "description": "",
@@ -47,46 +147,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/pdcbodynits.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sicol",
-        "discovered": "2026-06-04 07:48:35.886773",
-        "description": "SICOL – JS Cobranças e Serviços is a Brazilian company specializing in debt collection, credit management, and sales services. They blend digital automation with humanized customer support to help businesses recover debts and optimize their sales workflows.-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://sicol.com.br/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/47/sicol",
-        "magnet": null,
-        "screen": "screenshots/space bears/Sicol.png",
-        "group_name": "space bears",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "SA2000.COM",
-        "discovered": "2026-06-04 04:48:04.264840",
-        "description": "150 GB of data has been extracted, including: COMPTABILITÉ - FACTURES ACHAT / FACTURES À PAYER / FACTURES MODIFIÉES - Banking Informations SA2000 - PAIEMENTS CLIENTS - CLIENTS / PO CLIENTS - FOURNISSEUR / TRANSPORTEURS - EMPLOYÉS / EMBAUCHE - ACTIONNAIRES - COURRIEL / DOCUMENTS COURRIELS.There is still an opportunity to communicate and resolve this situation. We are currently awaiting the company",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "CUSTOMSIGN",
-        "discovered": "2026-06-04 02:47:51.556617",
-        "description": "",
-        "link": "/blog/disclosures/6a1ede26d152110a6aefc2ad",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/CUSTOMSIGN.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Michigan Surgical Center",
-        "discovered": "2026-06-03 23:50:10.086747",
-        "description": "www.michigansurgicalcenter.com https://www.zoominfo.com/c/michigan-surgical-center-llc/90769926 Michigan Surgical Center is an outpatient surgical facility specializing in ophthalmic and plastic surgeries, with over 25 years of experience. The center is physician-owned and has received multiple awards for quality care, including recognition as one of America's Best Ambulatory Surgical Centers by Newsweek. Their mission focuses on providing high-quality, patient-centered care with an emphasis on value-based services. They aim to lead in outpatient surgical care through innovative methodologies and a commitment to integrity and respect. 2075 Coolidge Rd, East Lansing, Michigan",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
         "sector": "Unknown"
     }
 ]
