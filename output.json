@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Demand.io NEW",
+        "discovered": "2026-06-05 21:46:25.742233",
+        "description": "Advertising - $10.5",
+        "link": "/companies/demand",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Demandio NEW.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cambridge Mobile Telematic NEW",
+        "discovered": "2026-06-05 21:46:22.599426",
+        "description": "Telematics - $200 Million",
+        "link": "/companies/cmtele",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Cambridge Mobile Telematic NEW.png",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Kriete Truck Centers",
         "discovered": "2026-06-05 17:47:55.154111",
         "description": "If the company does not contact us before 12/06/2026, the files will be published.",
@@ -248,15 +268,5 @@
         "screen": null,
         "group_name": "ailock",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Stuga Machinery",
-        "discovered": "2026-06-04 20:49:53.624195",
-        "description": "",
-        "link": "/blog/disclosures/6a21bd57d152110a6a4b4f68",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Stuga Machinery.png",
-        "group_name": "inc ransom",
-        "sector": "Manufacturing"
     }
 ]
