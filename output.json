@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "www.utourworld.com",
+        "discovered": "2026-06-06 20:48:15.507253",
+        "description": "Confidential data will be published soon",
+        "link": "/blog?uuid=908e35ca-0693-37f1-9b4d-05b2e59a59f1",
+        "magnet": null,
+        "screen": "screenshots/blackwater/wwwutourworldcom.png",
+        "group_name": "blackwater",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Pearson Ford",
         "discovered": "2026-06-06 15:51:26.631351",
         "description": "",
@@ -77,26 +87,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/obrienengcom.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Demand.io NEW",
-        "discovered": "2026-06-05 21:46:25.742233",
-        "description": "Advertising - $10.5",
-        "link": "/companies/demand",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Demandio NEW.png",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cambridge Mobile Telematic NEW",
-        "discovered": "2026-06-05 21:46:22.599426",
-        "description": "Telematics - $200 Million",
-        "link": "/companies/cmtele",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Cambridge Mobile Telematic NEW.png",
-        "group_name": "coinbase cartel",
         "sector": "Unknown"
     }
 ]
