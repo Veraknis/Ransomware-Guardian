@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Pearson Ford",
+        "discovered": "2026-06-06 15:51:26.631351",
+        "description": "",
+        "link": "topic.php?id=64thX5rrKSMtGp",
+        "magnet": null,
+        "screen": "screenshots/play/Pearson Ford.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "kelmreuter.com",
+        "discovered": "2026-06-06 14:49:20.544008",
+        "description": "",
+        "link": "/blog/disclosures/6a1ecd41d152110a6aed661c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/kelmreutercom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "*B*",
+        "discovered": "2026-06-06 12:48:41.356263",
+        "description": "A trade association",
+        "link": "/13a83c68b809e44e7791/",
+        "magnet": null,
+        "screen": "screenshots/genesis/*B*.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "Universitas Nasional",
         "discovered": "2026-06-06 11:48:46.798561",
         "description": "Universitas Nasional (UNAS) is an educational institution that offers a wide range of academic programs, including undergraduate and postgraduate degrees across various faculties such as Social Sciences, Law, Economics, and Health Sciences. The university aims to provide quality education and has implemented a robust internal quality assurance system. UNAS serves students from diverse backgrounds, including those pursuing regular and recognition of prior learning (RPL) pathways. Additionally, the university engages in research, community service, and hosts international conferences to enhance academic collaboration - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -68,145 +98,5 @@
         "screen": "screenshots/coinbase cartel/Cambridge Mobile Telematic NEW.png",
         "group_name": "coinbase cartel",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Kriete Truck Centers",
-        "discovered": "2026-06-05 17:47:55.154111",
-        "description": "If the company does not contact us before 12/06/2026, the files will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "securotrop",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Access Dental",
-        "discovered": "2026-06-05 16:45:38.076639",
-        "description": "",
-        "link": "/companies/1179219653",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Access Dental.png",
-        "group_name": "worldleaks",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "First Mutual Holdings",
-        "discovered": "2026-06-05 16:45:31.258392",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kennon Worldwide",
-        "discovered": "2026-06-05 16:45:11.152927",
-        "description": "Kennon Worldwide offers a wide range of telecommunications services including PRI, VoIP, and integrated services, representing over 40 service providers to ensure the best pricing and solutions for clients.We will upload 30gb of corporate data soon. Contracts, client information, NDAs, and other internal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Oaks Park",
-        "discovered": "2026-06-05 16:45:09.701270",
-        "description": "Oaks Amusement Park, located in Portland, Oregon, has been a family-friendly entertainment destination since 1905, offering a variety of attractions including rides, a roller rink, and a mini golf course.We will upload 10gb of corporate data soon. Employee information, credit cards, payment details, lots of contracts and agreements, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Krum Public Library",
-        "discovered": "2026-06-05 15:45:48.516128",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Government"
-    },
-    {
-        "post_title": "T/CCI Manufacturing",
-        "discovered": "2026-06-05 15:45:28.659732",
-        "description": "T/CCI is a world leader in compressor technology including reciprocating, swash plate, wobble plate, variable compressor and air brake compressor designs. We are an Original Equipment Manufacturer for trucking, off-highway, agriculture/construction, specialty vehicle and transport refrigeration markets.We will upload 35gb of corporate data soon. Employee personal docs (passports, DLs, SSNs, payment details, credit cards and so on), contracts and agreements, client and partners information,NDAs, financials, lots of confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Central Florida Cosmetic & Family Dentistry",
-        "discovered": "2026-06-05 14:48:12.937106",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=3e8ebaa2-d244-410b-947a-c04aeded27f9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Central Florida Cosmetic & Family Dentistry.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "REHA-ACTIV",
-        "discovered": "2026-06-05 14:47:55.462253",
-        "description": "REHA-ACTIV is a medical supply company that has been supporting individuals with health limitations for over 30 years.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Pro-MEC Engineering Services",
-        "discovered": "2026-06-05 13:48:04.977131",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=65539539-1cc5-4859-8765-720d2be899e2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pro-MEC Engineering Services.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Jay's Catering",
-        "discovered": "2026-06-05 13:48:04.071567",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=3b1d5a52-c0e5-4b60-8a62-914ac986e3db",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jay's Catering.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Ontario Home Builders' Association",
-        "discovered": "2026-06-05 13:48:00.490718",
-        "description": "Membership Organizations",
-        "link": "/site/blog?uuid=889c0174-5e2d-4529-b3d8-573c3e53bc5a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ontario Home Builders' Association.png",
-        "group_name": "qilin",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Swim-Mor Pools",
-        "discovered": "2026-06-05 13:47:59.441892",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=33ba9ef2-4761-4501-a216-a4bca21f4382",
-        "magnet": null,
-        "screen": "screenshots/qilin/Swim-Mor Pools.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "INTERSPA Betriebsverwaltungsgesellschaft",
-        "discovered": "2026-06-05 13:47:57.814076",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=4c2c08a7-f2e1-4160-9735-6cca9b6bf7ff",
-        "magnet": null,
-        "screen": "screenshots/qilin/INTERSPA Betriebsverwaltungsgesellschaft.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
     }
 ]
