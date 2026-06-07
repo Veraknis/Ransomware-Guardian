@@ -1,12 +1,22 @@
 [
     {
-        "post_title": "www.utourworld.com",
-        "discovered": "2026-06-06 20:48:15.507253",
-        "description": "Confidential data will be published soon",
-        "link": "/blog?uuid=908e35ca-0693-37f1-9b4d-05b2e59a59f1",
+        "post_title": "Test",
+        "discovered": "2026-06-07 21:50:08.360020",
+        "description": "Описание",
+        "link": null,
         "magnet": null,
-        "screen": "screenshots/blackwater/wwwutourworldcom.png",
-        "group_name": "blackwater",
-        "sector": "Technology"
+        "screen": null,
+        "group_name": "blackbyte-crux",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quanticate",
+        "discovered": "2026-06-07 19:47:44.398325",
+        "description": "QUANTICATE LIMITED is located in HITCHIN, United Kingdom and is part of the Other Professional, Scientific, and Technical Services Industry. QUANTICATE LIMITED has 220 employees at this location and generates $20.44 million in sales (USD). (Employees figure is estimated). There are 7 companies in the QUANTICATE LIMITED corporate family.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "blackbyte-crux",
+        "sector": "Unknown"
     }
 ]
