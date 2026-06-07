@@ -8,35 +8,5 @@
         "screen": "screenshots/blackwater/wwwutourworldcom.png",
         "group_name": "blackwater",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Pearson Ford",
-        "discovered": "2026-06-06 15:51:26.631351",
-        "description": "",
-        "link": "topic.php?id=64thX5rrKSMtGp",
-        "magnet": null,
-        "screen": "screenshots/play/Pearson Ford.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "kelmreuter.com",
-        "discovered": "2026-06-06 14:49:20.544008",
-        "description": "",
-        "link": "/blog/disclosures/6a1ecd41d152110a6aed661c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/kelmreutercom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "*B*",
-        "discovered": "2026-06-06 12:48:41.356263",
-        "description": "A trade association",
-        "link": "/13a83c68b809e44e7791/",
-        "magnet": null,
-        "screen": "screenshots/genesis/*B*.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
     }
 ]
