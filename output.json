@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Aegle Aviation",
+        "discovered": "2026-06-08 22:49:38.045352",
+        "description": "",
+        "link": "/r/5d7d8a5a8918d5bf59df160162142a7e96b42cc2",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Aegle Aviation.png",
+        "group_name": "ransomhouse",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Kinetic Education",
+        "discovered": "2026-06-08 21:51:30.226979",
+        "description": "Education",
+        "link": "/site/blog?uuid=048ffcd7-1174-4fb2-986b-fefa9ed83935",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kinetic Education.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Ma Pak Leung Company Limited",
+        "discovered": "2026-06-08 20:48:06.568061",
+        "description": "",
+        "link": "/r/08394e9fad8016695748ec838b6874bc2d0a8824",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Ma Pak Leung Company Limited.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Opera Comique",
+        "discovered": "2026-06-08 19:46:22.482062",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=3dd2edca-3ce3-4245-97d4-79dd78b7347b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Opera Comique.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "SatCom CX",
+        "discovered": "2026-06-08 19:46:21.368281",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=3028fcdd-559c-483a-a7e6-3a34914e7096",
+        "magnet": null,
+        "screen": "screenshots/qilin/SatCom CX.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Isuzu Motors",
         "discovered": "2026-06-08 18:48:49.413355",
         "description": "Manufacturing",
@@ -268,25 +318,5 @@
         "screen": "screenshots/payload/Villea Hotels in AttanaHotels.png",
         "group_name": "payload",
         "sector": "Hospitality"
-    },
-    {
-        "post_title": "Test",
-        "discovered": "2026-06-07 21:50:08.360020",
-        "description": "Описание",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "blackbyte-crux",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quanticate",
-        "discovered": "2026-06-07 19:47:44.398325",
-        "description": "QUANTICATE LIMITED is located in HITCHIN, United Kingdom and is part of the Other Professional, Scientific, and Technical Services Industry. QUANTICATE LIMITED has 220 employees at this location and generates $20.44 million in sales (USD). (Employees figure is estimated). There are 7 companies in the QUANTICATE LIMITED corporate family.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "blackbyte-crux",
-        "sector": "Unknown"
     }
 ]
