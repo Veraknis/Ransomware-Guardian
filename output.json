@@ -1,5 +1,85 @@
 [
     {
+        "post_title": "Isuzu Motors",
+        "discovered": "2026-06-08 18:48:49.413355",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=d8f1fcdc-8f3f-4a6c-b81c-429c0fca2757",
+        "magnet": null,
+        "screen": "screenshots/qilin/Isuzu Motors.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Shipping Association of NY and NJ",
+        "discovered": "2026-06-08 16:49:59.004834",
+        "description": "Government",
+        "link": "/site/blog?uuid=761a1079-02a3-4b6b-928d-d3358b93ad94",
+        "magnet": null,
+        "screen": "screenshots/qilin/Shipping Association of NY and NJ.png",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "HRC Sicherheitsdienste",
+        "discovered": "2026-06-08 16:49:34.736959",
+        "description": "HRC Sicherheitsdienste is a family-owned security service provider with over 45 years of experience, offering a wide range of security solutions including object protection, construction site monitoring, reception services, and event security. They cater to various clients such as hospitals, supermarkets, and museums, ensuring tailored security packages to meet specific needs.We will upload 24gb of corporate data soon. Employee information (German passports, IDs and so on), credit cards, payment details, financials, lots of agreements and contracts, confidential agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "GRIP Outreach For Youth",
+        "discovered": "2026-06-08 14:49:30.392801",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Unique Litho, Inc",
+        "discovered": "2026-06-08 14:49:29.490977",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "A*** G*** A*S*",
+        "discovered": "2026-06-08 14:49:28.575055",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ASIA STRATEGIC",
+        "discovered": "2026-06-08 14:49:27.540724",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "3I INFOTECH",
+        "discovered": "2026-06-08 14:49:26.151162",
+        "description": "Website: 3i-infotech.com\nRevenue: $96.8 Million\n3i Infotech, incorporated in 1993 as 'ICICI Investors Services Limited' and initially an ICICI subsidiary until 2002, is an Indian public global information technology company headquartered in Navi Mumbai. It provides IT services and software solutions, including digital transformation, cloud computing, and cybersecurity, utilizing technologies like AI and blockchain. The company serves over 1,200 customers in more than 50 countries from 24 offices across 12 nations.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Technology"
+    },
+    {
         "post_title": "WCM Remedium",
         "discovered": "2026-06-08 11:16:47.120110",
         "description": "wcm-remedium.pl WCM Remedium (Wielkopolskie Centra Medyczne Remedium) is a private healthcare provider based in Poznań and Śrem, Poland, offering comprehensive medical services to both public insurance (NFZ) and private patients.",
