@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "nottingham.ac.uk",
+        "discovered": "2026-06-09 21:46:23.374344",
+        "description": "Over 40 GB of billing and payment records, credit card and payment details, student finance data, and campus portal exports from the University of Nottingham and its Malaysia and China campuses was compromised, including payer contact information, transaction amounts, IP addresses, full names, home addresses, postcodes, email addresses, phone numbers, dates of birth, and other internal campus data.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Education"
+    },
+    {
+        "post_title": "GDL Transport",
+        "discovered": "2026-06-09 20:47:26.761899",
+        "description": "",
+        "link": "/companies/5240490207",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/GDL Transport.png",
+        "group_name": "worldleaks",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Apollo Pipes",
+        "discovered": "2026-06-09 20:47:24.659607",
+        "description": "",
+        "link": "/companies/0396596962",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Apollo Pipes.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "M1xchange",
+        "discovered": "2026-06-09 20:47:22.661825",
+        "description": "",
+        "link": "/companies/6435609060",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/M1xchange.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Auburn Electrical Construction Company",
+        "discovered": "2026-06-09 20:47:00.594397",
+        "description": "Auburn Electrical Construction Company, Inc. is an innovative contracting firm that profitably provides electrical-related services to our customers. Our goal i...",
+        "link": "/#/post/171f9184-aa30-48cb-bae9-ef48ca89cec5",
+        "magnet": null,
+        "screen": "screenshots/embargo/Auburn Electrical Construction Company.png",
+        "group_name": "embargo",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "airespring.com",
         "discovered": "2026-06-09 18:47:08.103192",
         "description": "Founded in 2001, AireSpring is a Managed Services Provider specializing in Unified Communications, Managed Network, and IT Services, serving thousands of businesses nationwide. AireSpring provides fully managed and connected end-to-end, next-generation solutions for multi-location enterprise custome…",
@@ -278,55 +328,5 @@
         "screen": "screenshots/qilin/The Banyans Health and Wellness.png",
         "group_name": "qilin",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Aegle Aviation",
-        "discovered": "2026-06-08 22:49:38.045352",
-        "description": "",
-        "link": "/r/5d7d8a5a8918d5bf59df160162142a7e96b42cc2",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Aegle Aviation.png",
-        "group_name": "ransomhouse",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Kinetic Education",
-        "discovered": "2026-06-08 21:51:30.226979",
-        "description": "Education",
-        "link": "/site/blog?uuid=048ffcd7-1174-4fb2-986b-fefa9ed83935",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kinetic Education.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Ma Pak Leung Company Limited",
-        "discovered": "2026-06-08 20:48:06.568061",
-        "description": "",
-        "link": "/r/08394e9fad8016695748ec838b6874bc2d0a8824",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Ma Pak Leung Company Limited.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Opera Comique",
-        "discovered": "2026-06-08 19:46:22.482062",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=3dd2edca-3ce3-4245-97d4-79dd78b7347b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Opera Comique.png",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "SatCom CX",
-        "discovered": "2026-06-08 19:46:21.368281",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=3028fcdd-559c-483a-a7e6-3a34914e7096",
-        "magnet": null,
-        "screen": "screenshots/qilin/SatCom CX.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
