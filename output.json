@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "https://www.wieseusa.com/",
+        "discovered": "2026-06-09 01:48:17.432657",
+        "description": "Wiese USA",
+        "link": "/post/6a20afa8c684b738d525af92",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwwieseusacom.png",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://www.rolandmachinery.com/",
+        "discovered": "2026-06-09 01:48:16.561733",
+        "description": "Roland Machinery",
+        "link": "/post/6a20b001c684b738d525b058",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwrolandmachinerycom.png",
+        "group_name": "termite",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "The Banyans Health and Wellness",
+        "discovered": "2026-06-09 01:48:12.604728",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=ef60ef22-903f-4645-95eb-68ec523e25c9",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Banyans Health and Wellness.png",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Aegle Aviation",
         "discovered": "2026-06-08 22:49:38.045352",
         "description": "",
@@ -128,195 +158,5 @@
         "screen": null,
         "group_name": "morpheus",
         "sector": "Technology"
-    },
-    {
-        "post_title": "WCM Remedium",
-        "discovered": "2026-06-08 11:16:47.120110",
-        "description": "wcm-remedium.pl WCM Remedium (Wielkopolskie Centra Medyczne Remedium) is a private healthcare provider based in Poznań and Śrem, Poland, offering comprehensive medical services to both public insurance (NFZ) and private patients.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Yao Yuan Technology",
-        "discovered": "2026-06-08 11:02:44.655380",
-        "description": "ssat168.com.tw Yao Yuan Technology Co., Ltd. is a Taiwanese enterprise specializing in computer peripheral products, electronic components, and raw materials for the plastics and rubber industries. The company focuses on providing specialized plastic parts coating and comprehensive material solutions to support diverse manufacturing and technology sectors. Operating as a dedicated B2B supplier, they deliver reliable sourcing and distribution services tailored to the precise needs of industrial and electronic production",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Goldlion",
-        "discovered": "2026-06-08 11:02:43.774729",
-        "description": "goldlion.com zoominfo.com/c/goldlion-holdings/43517873 Goldlion is a prominent Hong Kong-based investment holding company listed on the HKEX, primarily engaged in the design, manufacturing, and distribution of premium men's apparel and accessories. Operating under the renowned Goldlion brand, the company specializes in high-quality business formalwear, including ties, shirts, and leather goods, across mainland China, Hong Kong, and Singapore. With decades of industry presence, it remains a preferred choice for contemporary men's fashion and professional lifestyle products",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Danzo Group",
-        "discovered": "2026-06-08 11:02:42.895844",
-        "description": "danzogroup.com zoominfo.com/c/danzo-group-inc/437505508 Danzo Group is a premier commercial and residential contracting company based in the Los Angeles area, specializing in custom cabinetry and high-end woodworking solutions. Founded in 2005 and operating from a 7,000-square-foot facility in Pomona, California, the company delivers bespoke millwork, custom furniture, and interior storage systems. With a strong focus on fine craftsmanship, they serve diverse clients by providing comprehensive general contracting and tailored design services",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Trigon America",
-        "discovered": "2026-06-08 10:49:45.914566",
-        "description": "trigonamerica.com zoominfo.com/c/trigon-america/560898982 Trigon America is a premier contract manufacturer based in Aurora, Illinois, specializing in precision-machined complex components and assemblies. Founded in 2000, the company serves the highly regulated Medical Device and Aerospace industries, holding both ISO 13485 and AS9100 certifications. With decades of expertise, they focus on delivering world-class manufacturing solutions for intricate instrumentation and critical medical equipment",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "FESCO Adecco",
-        "discovered": "2026-06-08 10:49:44.943176",
-        "description": "fescoadecco.com zoominfo.com/c/fesco-adecco/345603628 FESCO Adecco is a leading human resources provider in China, established as a strategic joint venture between Beijing FESCO and the global Adecco Group. The company delivers comprehensive HR solutions, including talent acquisition, staffing, payroll outsourcing, and business process outsourcing for multinational and domestic enterprises. Backed by a vast nationwide network, it helps organizations navigate the complex Chinese labor market and optimize their workforce strategies",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The Clinic",
-        "discovered": "2026-06-08 10:49:44.052860",
-        "description": "wfsportscare.com zoominfo.com/c/the-clinic/537916104 The Clinic: Family and Sports Chiropractic is a specialized healthcare facility located in West Fargo, North Dakota, dedicated to providing patient-focused chiropractic care",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Integrated Distribution",
-        "discovered": "2026-06-08 10:49:43.145554",
-        "description": "int-dist.com zoominfo.com/c/integrated-distribution-inc/348479499 ntegrated Distribution Inc. is a prominent industrial distributor based in Comstock Park, Michigan, serving local manufacturers since 1998. The company specializes in fast-response sourcing, technical support, and the supply of critical components such as bearings, belts, motors, and power transmission parts. With a strong focus on minimizing equipment downtime, IDI provides tailored industrial solutions for diverse sectors, including automotive, food processing, and packaging",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Private",
-        "discovered": "2026-06-08 10:49:22.989593",
-        "description": "",
-        "link": "/target/6a26751d36fc64f0876f3ac3",
-        "magnet": null,
-        "screen": "screenshots/black x/Private.png",
-        "group_name": "black x",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Central Arkansas Pediatrics",
-        "discovered": "2026-06-08 10:37:54.889344",
-        "description": "central-pediatrics.edan.io zoominfo.com/c/central-arkansas-pediatrics/1340337263 Central Arkansas Pediatrics is a specialized healthcare provider based in Conway, Arkansas, dedicated to pediatric special needs care. The clinic offers comprehensive services, including developmental preschool programs and therapy support for children across the state. Their digital presence is hosted on edan.io, a streamlined platform used by medical practices to provide accessible online resources for patients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Metroply",
-        "discovered": "2026-06-08 10:37:53.941230",
-        "description": "metroply.com zoominfo.com/c/metroply/353622883 Metroply is one of the largest wood-based panel manufacturers in Thailand and Southeast Asia, boasting over 70 years of industry experience. The company specializes in producing a comprehensive range of engineered wood products, including particle board, MDF, plywood, hardboard, and doors. Utilizing reliable automated technology, Metroply is recognized as a regional leader in delivering world-class quality wood substitutes and building materials",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Tress",
-        "discovered": "2026-06-08 10:37:52.995250",
-        "description": "tress.com zoominfo.com/c/tress-as/430422624 Tress is a leading Scandinavian supplier of sports, play, and leisure equipment, headquartered in Denmark and operating across the Nordic countries. The company specializes in providing high-quality gear and playground solutions for schools, kindergartens, and sports clubs. With decades of industry experience, Tress focuses on creating active and inclusive environments for children and athletes through its comprehensive product range",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Institucion Cervantes",
-        "discovered": "2026-06-08 10:37:52.010578",
-        "description": "cervantes.edu.ar zoominfo.com/c/institución-cervantes/372383480 nstitucion Cervantes is a private higher education institution based in Córdoba, Argentina, with over 60 years of history and more than 3,000 students. The school specializes in short-term, future-oriented careers ranging from one to three years, focusing on practical fields like Business Administration, Data Science, IT, and Law. It is highly recognized in the region for its strong commitment to student development and rapid professional integration into the job market",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Empty",
-        "discovered": "2026-06-08 10:37:50.658514",
-        "description": "empty.es zoominfo.com/c/empty/439336503 Empty is a prominent Spanish construction and architecture firm headquartered in Madrid, specializing in the execution of complex architectural, museum, and exhibition projects. With a team of over 50 professionals and offices in Madrid, Barcelona, and Paris, the company excels in mobilizing technical resources to deliver high-profile builds, such as the Spanish Pavilion at Expo Dubai 2020 and BBVA’s \"La Vela\" headquarters. Founded with the vision of redefining the construction industry, Empty acts as a comprehensive partner for drafting and executing large-scale, sophisticated structures",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Jyharn Electronic",
-        "discovered": "2026-06-08 10:37:48.531541",
-        "description": "jyharn.com zoominfo.com/c/jyharn-electronic-tech-co-ltd/370944477 Jyharn Electronic Tech. Co., Ltd. is a professional electronic components distributor founded in 1992, headquartered in Taiwan with branch operations in Shenzhen. The company specializes in supplying a wide range of semiconductor and optoelectronic parts, representing major industry brands such as LITEON, FITIPOWER, UTC, and Lattice. With decades of experience, Jyharn delivers comprehensive component solutions, including power management ICs, LEDs, and diodes, to support global manufacturing and technology clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "IP Rings",
-        "discovered": "2026-06-08 10:25:13.686284",
-        "description": "iprings.com zoominfo.com/c/ip-rings-ltd/62719470 IP Rings Ltd is an India-based automotive component manufacturer and a member of the Amalgamations Group, founded in 1991. The company specializes in producing piston rings, high-precision forgings, and crank pins using advanced orbital cold forming technology. It is a publicly traded corporation with over 500 employees, serving global clients with cutting-edge surface treatments and high-quality parts",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Plaza Lama",
-        "discovered": "2026-06-08 03:46:33.375837",
-        "description": "Plaza Lama is a retail company based in the Dominican Republic that offers a wide range of products including electronics, home goods, clothing, and groceries. The company aims to provide quality products at competitive prices to meet the needs of its diverse clientele. Plaza Lama serves both individual consumers and businesses, making it a go-to destination for shopping in the region. With multiple locations, it strives to enhance the shopping experience through excellent customer service and a variety of offerings",
-        "link": "/posts/ae4b423a-d339-450c-b3fe-dbfd6d46c601",
-        "magnet": null,
-        "screen": "screenshots/payload/Plaza Lama.png",
-        "group_name": "payload",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Hansoll Textile in Vietnam",
-        "discovered": "2026-06-08 03:46:32.249800",
-        "description": "Hansoll Textile, established in 1992, is a global textile manufacturer specializing in knit apparel production and export. The company serves markets in the United States, Europe, and Japan with operations across Asia and Central America. As a B2B enterprise, Hansoll Textile maintains manufacturing facilities and warehouses to support its international textile business. The company focuses on business integrity as a core value while maintaining a presence in both Asian and North American markets",
-        "link": "/posts/8103c710-bffc-458d-9b3a-9cb2fe9d8817",
-        "magnet": null,
-        "screen": "screenshots/payload/Hansoll Textile in Vietnam.png",
-        "group_name": "payload",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Villea Hotels in AttanaHotels",
-        "discovered": "2026-06-08 03:46:23.661232",
-        "description": "Attana Hotels & Resorts is a premier Malaysian hospitality group that offers uniquely local experiences designed to make travelers feel at home. With a portfolio that includes various hotels and resorts, they focus on providing crafted experiences complemented by attentive service. Their target clients are guests seeking distinctive and memorable stays, enhanced by local culture and hospitality. Attana is committed to continuously evolving their offerings to inspire and energize their guests.",
-        "link": "/posts/4b9503f3-44bc-4c7a-bfac-68ca31acaa75",
-        "magnet": null,
-        "screen": "screenshots/payload/Villea Hotels in AttanaHotels.png",
-        "group_name": "payload",
-        "sector": "Hospitality"
     }
 ]
