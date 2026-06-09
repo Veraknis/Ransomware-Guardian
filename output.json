@@ -1,5 +1,255 @@
 [
     {
+        "post_title": "airespring.com",
+        "discovered": "2026-06-09 18:47:08.103192",
+        "description": "Founded in 2001, AireSpring is a Managed Services Provider specializing in Unified Communications, Managed Network, and IT Services, serving thousands of businesses nationwide. AireSpring provides fully managed and connected end-to-end, next-generation solutions for multi-location enterprise custome…",
+        "link": "/oMJZD5nwXI71QbElAkvd2L28Fb4xbKRk/airespring-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/airespringcom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Rockaway River Country Club",
+        "discovered": "2026-06-09 17:46:30.123827",
+        "description": "Rockaway River Country Club is a premier country club located in Denville, NJ, offering a rangeof amenities including golf, dining, and facilities for racquets and aquatics. The club has a rich history of excellence, celebrating 100 years of service to its members.We will upload 25gb of corporate data soon. Employee personal information (DLs and other docs, contracts with personal information), financials, contracts and agreements, projects info, drawings, clients and partners information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Spray Equipment & Service Center",
+        "discovered": "2026-06-09 17:46:20.865288",
+        "description": "Spray Equipment & Service Center is a leading provider of consultation, turnkey industrial finishing equipment, and training services for coating applications. They cater to clients seeking efficient and high-performance coating solutions, enhancing product quality and streamlining production processes.We will upload 26gb of corporate data soon. Employee personal information (DLs, w-9 forms and so on), financials, contracts, projects info, drawings, partners information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SMPC Architects",
+        "discovered": "2026-06-09 16:47:08.089875",
+        "description": "SMPC Architects is an architecture firm based in Albuquerque, New Mexico, specializing in creating innovative and sustainable spaces. The firm focuses on community-oriented projects and collaborates closely with clients to meet their needs.We will upload 163gb of corporate data soon. Employee personal information (passports, DLs, SSNcards and so on), financials, lots of contracts and confidential settlements, NDAs, clients and partners information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "shottermill-jun.surrey.sch.uk",
+        "discovered": "2026-06-09 14:50:25.755843",
+        "description": "Shottermill Junior School\nShottermill Junior School is a primary educational institution located in...",
+        "link": "/post/7c1c445817ea168bb62443e7998c6a63",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/shottermill-junsurreyschuk.png",
+        "group_name": "lockbit5",
+        "sector": "Education"
+    },
+    {
+        "post_title": "columbiaorthogroup.com",
+        "discovered": "2026-06-09 14:50:24.785307",
+        "description": "Columbia Orthopaedic Group is a healthcare provider located in mid-Missouri that specializes in the...",
+        "link": "/post/ebf1dce4e59f50b8f4ce76fc89f6c5be",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/columbiaorthogroupcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vth.nl",
+        "discovered": "2026-06-09 14:50:23.646510",
+        "description": "Van Tuijl\nSupport your growth\nVan Tuijl is a family business that has been supplying agricultural...",
+        "link": "/post/c06b94a7e74a285f80854e528b5e9bdc",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/vthnl.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "implosa.com",
+        "discovered": "2026-06-09 14:50:22.735085",
+        "description": "A Panamanian company engaged in the wholesale and retail trade of construction supplies, plumbing fi...",
+        "link": "/post/e7bea25bb7d9ada1aa74a2cc65f479a9",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/implosacom.png",
+        "group_name": "lockbit5",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "groupe-mbm.com",
+        "discovered": "2026-06-09 14:50:21.794577",
+        "description": "Groupe MBM is a French group of companies specializing in carpentry, interior finishing, and interio...",
+        "link": "/post/36ed21499df74af2695389b5c2f3c053",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/groupe-mbmcom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "scbgroup.com.sg",
+        "discovered": "2026-06-09 14:50:20.885787",
+        "description": "SCB Group (formerly Jian Huang Group) is a Singapore-based construction company founded in 1996. It...",
+        "link": "/post/6d670c0fff88ca0a53bc6bcad6d146bd",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/scbgroupcomsg.png",
+        "group_name": "lockbit5",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "sumerfaktoring.com",
+        "discovered": "2026-06-09 14:50:19.895401",
+        "description": "A Turkish financial company that provides factoring services (financing and management of accounts r...",
+        "link": "/post/c1db428086ed429c863a8bc8e85331fb",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/sumerfaktoringcom.png",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "hollandbulbfarms.com",
+        "discovered": "2026-06-09 14:50:18.925148",
+        "description": "Holland Bulb Farms is an online store specializing in bulbs, rhizomes, and seedlings\nThe downloaded...",
+        "link": "/post/98972a04c767fe9b7560ef4046d6d8ce",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/hollandbulbfarmscom.png",
+        "group_name": "lockbit5",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "hgs-wt.at",
+        "discovered": "2026-06-09 14:50:18.023141",
+        "description": "An Austrian company based in Wels that provides audit, tax, and business consulting services to corp...",
+        "link": "/post/38deb808dc6b87b3e82f84fedd0e61ab",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/hgs-wtat.png",
+        "group_name": "lockbit5",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "grupodetoni.com.br",
+        "discovered": "2026-06-09 14:50:17.135308",
+        "description": "grupodetoni.com.br\nBrazilian agribusiness group engaged in sugarcane cultivation and the production...",
+        "link": "/post/c264c6db1092d3c9ae6f61751bac6df6",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/grupodetonicombr.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "dobarro.com.uy",
+        "discovered": "2026-06-09 14:50:16.227682",
+        "description": "DOBARRO & PICHEL is a Uruguayan company specializing in the sale and maintenance of heating, air con...",
+        "link": "/post/eac517f88f45cb49805b6c0cce7ade2a",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/dobarrocomuy.png",
+        "group_name": "lockbit5",
+        "sector": "Services"
+    },
+    {
+        "post_title": "helios.com.bo",
+        "discovered": "2026-06-09 14:50:15.321924",
+        "description": "Helios is a Bolivian company that provides measurement and metrology solutions, including the sale o...",
+        "link": "/post/0f35a15d8ac3deaa9018d725ed1e4e10",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/helioscombo.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "wessels.group",
+        "discovered": "2026-06-09 14:50:14.431969",
+        "description": "Mission & Vision\nThe focus of Wessels Logistics is on 24-hour transport in the Benelux and Germany,...",
+        "link": "/post/1863c2d62cdb4188998ec4c2d08d87b8",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/wesselsgroup.png",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "sierravistahospital.com",
+        "discovered": "2026-06-09 14:50:13.535469",
+        "description": "Sierra Vista Hospital is a private behavioral health facility located in Sacramento, California, off...",
+        "link": "/post/afa8b3eab9c0ed2e88d2dc664d759f5e",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/sierravistahospitalcom.png",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "uni-china.com",
+        "discovered": "2026-06-09 14:50:12.369828",
+        "description": "Uni-China Group is a Hong Kong-based conglomerate with a history spanning more than 25 years. It spe...",
+        "link": "/post/f1bf84b998adcd22f9268718a09d9e88",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/uni-chinacom.png",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "patta.com",
+        "discovered": "2026-06-09 14:50:10.565482",
+        "description": "PATTA is a brand-focused manufacturer, distributor, and exporter providing a total-solution concept...",
+        "link": "/post/de406c02a7d03bd41cefc09e637fdaa7",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/pattacom.png",
+        "group_name": "lockbit5",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "elumax.com",
+        "discovered": "2026-06-09 14:50:08.491797",
+        "description": "Lumax International Corp. is a Taiwanese supplier of industrial solutions and equipment, founded in...",
+        "link": "/post/8343d4d131e6f888806c7133f7720a41",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/elumaxcom.png",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "katholiekamersfoort.nl UPDATE-FOR SALE",
+        "discovered": "2026-06-09 14:47:19.768966",
+        "description": "The church website",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "sa2000.com UPDATE-FULL DATA DUMP",
+        "discovered": "2026-06-09 14:47:18.526301",
+        "description": "150 GB of data has been extracted, including: COMPTABILITÉ - FACTURES ACHAT / FACTURES À PAYER / FACTURES MODIFIÉES - Banking Informations SA2000 - PAIEMENTS CLIENTS - CLIENTS / PO CLIENTS - FOURNISSEUR / TRANSPORTEURS - EMPLOYÉS / EMBAUCHE - ACTIONNAIRES - COURRIEL / DOCUMENTS COURRIELS.There is still an opportunity to communicate and resolve this situation. We are currently awaiting the company",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Centre Ellipse",
+        "discovered": "2026-06-09 14:46:55.806465",
+        "description": "Centre Ellipse Strasbourg is an ambulatory medical facility that offers personalized care pathways to improve the health of patients with chronic diseases or syndromes. The center features amultidisciplinary team that provides both physical and psychological support, focusing on cardiac rehabilitation and mental health services.We will upload 142gb of corporate data soon. Health information for at least 500 patients, employees personal information, financials, lots of contracts, confidential agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Trevi",
+        "discovered": "2026-06-09 13:45:21.258416",
+        "description": "The trevi.it website is the official brand portal for the Italian consumer electronics company Trevi S.p.A., which is owned by Trevidea srl - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
         "post_title": "https://www.wieseusa.com/",
         "discovered": "2026-06-09 01:48:17.432657",
         "description": "Wiese USA",
@@ -78,85 +328,5 @@
         "screen": "screenshots/qilin/SatCom CX.png",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Isuzu Motors",
-        "discovered": "2026-06-08 18:48:49.413355",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=d8f1fcdc-8f3f-4a6c-b81c-429c0fca2757",
-        "magnet": null,
-        "screen": "screenshots/qilin/Isuzu Motors.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Shipping Association of NY and NJ",
-        "discovered": "2026-06-08 16:49:59.004834",
-        "description": "Government",
-        "link": "/site/blog?uuid=761a1079-02a3-4b6b-928d-d3358b93ad94",
-        "magnet": null,
-        "screen": "screenshots/qilin/Shipping Association of NY and NJ.png",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "HRC Sicherheitsdienste",
-        "discovered": "2026-06-08 16:49:34.736959",
-        "description": "HRC Sicherheitsdienste is a family-owned security service provider with over 45 years of experience, offering a wide range of security solutions including object protection, construction site monitoring, reception services, and event security. They cater to various clients such as hospitals, supermarkets, and museums, ensuring tailored security packages to meet specific needs.We will upload 24gb of corporate data soon. Employee information (German passports, IDs and so on), credit cards, payment details, financials, lots of agreements and contracts, confidential agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "GRIP Outreach For Youth",
-        "discovered": "2026-06-08 14:49:30.392801",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Unique Litho, Inc",
-        "discovered": "2026-06-08 14:49:29.490977",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A*** G*** A*S*",
-        "discovered": "2026-06-08 14:49:28.575055",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ASIA STRATEGIC",
-        "discovered": "2026-06-08 14:49:27.540724",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "3I INFOTECH",
-        "discovered": "2026-06-08 14:49:26.151162",
-        "description": "Website: 3i-infotech.com\nRevenue: $96.8 Million\n3i Infotech, incorporated in 1993 as 'ICICI Investors Services Limited' and initially an ICICI subsidiary until 2002, is an Indian public global information technology company headquartered in Navi Mumbai. It provides IT services and software solutions, including digital transformation, cloud computing, and cybersecurity, utilizing technologies like AI and blockchain. The company serves over 1,200 customers in more than 50 countries from 24 offices across 12 nations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Technology"
     }
 ]
