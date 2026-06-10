@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "First Federal Savings & Loan",
+        "discovered": "2026-06-10 11:45:39.261070",
+        "description": "",
+        "link": "/companies/2508947949",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/First Federal Savings & Loan.png",
+        "group_name": "worldleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tata Electronics",
+        "discovered": "2026-06-10 11:45:35.334043",
+        "description": "",
+        "link": "/companies/8541753929",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Tata Electronics.png",
+        "group_name": "worldleaks",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Centra Sota Cooperative",
+        "discovered": "2026-06-10 10:46:00.207601",
+        "description": "",
+        "link": "/companies/0489368312",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Centra Sota Cooperative.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "HDFC FUND",
+        "discovered": "2026-06-10 10:45:55.566252",
+        "description": "Website: hdfcfund.com\nRevenue: $427.8 Million\nHDFC Asset Management Company Limited (HDFC AMC) is a leading publicly traded investment manager in India, operating as the asset management arm of HDFC Bank Limited. Founded in 1999 and headquartered in Mumbai, the firm serves as the investment manager for HDFC Mutual Fund, which ranks among the largest mutual fund houses in the country.\nData:\n\nPortfolio & Trading Documentation\nInvestor & Distributor Data\nRegulatory, Compliance & Audit Files\nStrategic & Commercial Documentation\nFinancial, Accounting & Tax Records\nGovernance, HR Data & Internal Controls\nCompany Portfolio & Holdings\nCorporate Research & Public Data\nTop management’s personal records and documents\nSQL Databases, HDFCAMC applications source code\n\nThe sale of the data is currently in progress, along with access to the corporate network.\nThe volume of retrieved data is 680 GB",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "K & E Distributing",
+        "discovered": "2026-06-10 09:44:44.251468",
+        "description": "",
+        "link": "Companies/kedistributing",
+        "magnet": null,
+        "screen": "screenshots/pear/K & E Distributing.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bayou Electrical Services",
+        "discovered": "2026-06-10 09:44:43.250213",
+        "description": "",
+        "link": "Companies/bayouelectrical",
+        "magnet": null,
+        "screen": "screenshots/pear/Bayou Electrical Services.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "National Health Fund",
+        "discovered": "2026-06-10 09:44:42.298617",
+        "description": "",
+        "link": "Companies/nhf",
+        "magnet": null,
+        "screen": "screenshots/pear/National Health Fund.png",
+        "group_name": "pear",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Alpha IT",
+        "discovered": "2026-06-10 09:44:41.406767",
+        "description": "",
+        "link": "Companies/alphait",
+        "magnet": null,
+        "screen": "screenshots/pear/Alpha IT.png",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Sayre Associates",
+        "discovered": "2026-06-10 09:44:24.525199",
+        "description": "(Including clients, projects, emails and financial documents) Sayre Associates, Inc. is a civil engineering and land surveying firm based in Sioux Falls, South ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Global Schools Foundation",
+        "discovered": "2026-06-10 06:43:40.041006",
+        "description": "",
+        "link": "/gsg/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Global Schools Foundation.png",
+        "group_name": "fulcrumsec",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Lösing Filtertechnik",
+        "discovered": "2026-06-10 03:44:08.711240",
+        "description": "Lösing Filtertechnik (Willibrord Lösing Filtertechnik e.K.) is a leading German specialist in filtration technology with more than 70 years of experience since its founding in 1955.The company offers a wide range of high-quality filters, including oil, air, fuel, hydraulic, and water filtration solutions, along with custom-tailored products for various industries such as automotive, commercial vehicles, construction machinery, rail transport, and more.Known for its expertise with brands like SEPAR and a strong focus on innovation, Lösing develops individual solutions precisely matched to customer requirements while maintaining top quality and reliable service.Headquartered in Hattingen, Germany, the company serves both B2B clients and private customers through its online shop, emphasizing perfect filtration for every challenge.\nhttps://loesing-filter.de/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/48/losing-filtertechnik",
+        "magnet": null,
+        "screen": "screenshots/space bears/Lösing Filtertechnik.png",
+        "group_name": "space bears",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "https://calfresh.ca.gov/",
+        "discovered": "2026-06-10 00:45:01.739865",
+        "description": "Cal Fresh",
+        "link": "/post/6a27543ec684b738d525bc1d",
+        "magnet": null,
+        "screen": "screenshots/termite/calfreshcagov.png",
+        "group_name": "termite",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Mid-Cumberland Human Resource Agency",
+        "discovered": "2026-06-09 23:46:21.560816",
+        "description": "MCHRA is a nonprofit promoting self-sufficiency via Meals-on-Wheels, public transit, in-home services, and community corrections. It serves adults needing care, transit users, and long-term care residents, emphasizing inclusivity and translation services.",
+        "link": "/Company/MCHRA/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Mid-Cumberland Human Resource Agency.png",
+        "group_name": "insomnia",
+        "sector": "Government"
+    },
+    {
         "post_title": "nottingham.ac.uk",
         "discovered": "2026-06-09 21:46:23.374344",
         "description": "Over 40 GB of billing and payment records, credit card and payment details, student finance data, and campus portal exports from the University of Nottingham and its Malaysia and China campuses was compromised, including payer contact information, transaction amounts, IP addresses, full names, home addresses, postcodes, email addresses, phone numbers, dates of birth, and other internal campus data.",
@@ -298,35 +428,5 @@
         "screen": null,
         "group_name": "nova",
         "sector": "Technology"
-    },
-    {
-        "post_title": "https://www.wieseusa.com/",
-        "discovered": "2026-06-09 01:48:17.432657",
-        "description": "Wiese USA",
-        "link": "/post/6a20afa8c684b738d525af92",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwwieseusacom.png",
-        "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://www.rolandmachinery.com/",
-        "discovered": "2026-06-09 01:48:16.561733",
-        "description": "Roland Machinery",
-        "link": "/post/6a20b001c684b738d525b058",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwrolandmachinerycom.png",
-        "group_name": "termite",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "The Banyans Health and Wellness",
-        "discovered": "2026-06-09 01:48:12.604728",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=ef60ef22-903f-4645-95eb-68ec523e25c9",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Banyans Health and Wellness.png",
-        "group_name": "qilin",
-        "sector": "Healthcare"
     }
 ]
