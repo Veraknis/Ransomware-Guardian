@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "TagleRock Technologies",
+        "discovered": "2026-06-10 22:46:30.281624",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=b0c8ebe3-5483-46aa-ad11-ef414e710de8",
+        "magnet": null,
+        "screen": "screenshots/qilin/TagleRock Technologies.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Metro Electric",
+        "discovered": "2026-06-10 22:44:26.232075",
+        "description": "Construction",
+        "link": "/site/blog?uuid=b9f4a980-ccf8-4631-9104-c1300d3d427b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Metro Electric.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "PROBE, S.A. DE C.V",
+        "discovered": "2026-06-10 19:47:39.790459",
+        "description": "PROBE, S.A. DE C.V. is a Salvadoran family-owned company founded in 1978, headquartered in San Salvador, El Salvador. It...",
+        "link": "/blog/99b5f21e6809fa3b3992cf6ba1ef0b3cd8850ff3910cbdd76f9dd2ecd5e68dc9/",
+        "magnet": null,
+        "screen": "screenshots/krybit/PROBE, SA DE CV.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "libertyinsurance.com.ph",
+        "discovered": "2026-06-10 19:46:24.557396",
+        "description": "Liberty Insurance Corporation is a Philippine non-life insurance company established in 1953, headquartered in Makati Ci...",
+        "link": "/blog/720acf2ad8b733584750bc37aad17dfbd6accf6634e9ac4ca5348ae0e55f986c/",
+        "magnet": null,
+        "screen": "screenshots/krybit/libertyinsurancecomph.png",
+        "group_name": "krybit",
+        "sector": "Finance"
+    },
+    {
         "post_title": "UiTM Holdings",
         "discovered": "2026-06-10 19:14:57.445694",
         "description": "uitmholdings.com zoominfo.com/c/ui-holdings-sdn-bhd/390203835 UiTM Holdings is the investment holding arm of Universiti Teknologi MARA (UiTM), Malaysia’s largest university. It commercialises the university’s assets and expertise across property, healthcare, education, and technology. Its primary mission is to generate sustainable revenue to support UiTM’s academic and research programmes",
@@ -248,55 +288,5 @@
         "screen": "screenshots/insomnia/Mid-Cumberland Human Resource Agency.png",
         "group_name": "insomnia",
         "sector": "Government"
-    },
-    {
-        "post_title": "nottingham.ac.uk",
-        "discovered": "2026-06-09 21:46:23.374344",
-        "description": "Over 40 GB of billing and payment records, credit card and payment details, student finance data, and campus portal exports from the University of Nottingham and its Malaysia and China campuses was compromised, including payer contact information, transaction amounts, IP addresses, full names, home addresses, postcodes, email addresses, phone numbers, dates of birth, and other internal campus data.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Education"
-    },
-    {
-        "post_title": "GDL Transport",
-        "discovered": "2026-06-09 20:47:26.761899",
-        "description": "",
-        "link": "/companies/5240490207",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/GDL Transport.png",
-        "group_name": "worldleaks",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Apollo Pipes",
-        "discovered": "2026-06-09 20:47:24.659607",
-        "description": "",
-        "link": "/companies/0396596962",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Apollo Pipes.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "M1xchange",
-        "discovered": "2026-06-09 20:47:22.661825",
-        "description": "",
-        "link": "/companies/6435609060",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/M1xchange.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Auburn Electrical Construction Company",
-        "discovered": "2026-06-09 20:47:00.594397",
-        "description": "Auburn Electrical Construction Company, Inc. is an innovative contracting firm that profitably provides electrical-related services to our customers. Our goal i...",
-        "link": "/#/post/171f9184-aa30-48cb-bae9-ef48ca89cec5",
-        "magnet": null,
-        "screen": "screenshots/embargo/Auburn Electrical Construction Company.png",
-        "group_name": "embargo",
-        "sector": "Real Estate"
     }
 ]
