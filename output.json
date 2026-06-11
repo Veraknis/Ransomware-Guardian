@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "Reliance Group",
+        "discovered": "2026-06-11 10:45:06.541476",
+        "description": "",
+        "link": "/companies/0696449153",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Reliance Group.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bitek System",
+        "discovered": "2026-06-11 08:44:41.462637",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=1bf9d880-109f-4804-a623-d7164ff437f8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bitek System.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Notice",
+        "discovered": "2026-06-11 03:44:18.851151",
+        "description": "Due to the significant influx of activity going on, we are kindly advising everyone who is being contacted by us to start responding or the inevitable will happen after the deadline. We are not bluffing. Thank you.    Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Miller & Zois",
+        "discovered": "2026-06-11 00:51:21.889809",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=9b85113f-0369-48fb-b01b-6354f3940b89",
+        "magnet": null,
+        "screen": "screenshots/qilin/Miller & Zois.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Iliff",
+        "discovered": "2026-06-11 00:50:56.345158",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=806380d5-78f0-439d-ab13-02b17a0608b2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Iliff.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Efficient Home",
+        "discovered": "2026-06-11 00:50:40.931350",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=47d81bc0-e720-4062-9a2e-9eb0af9b3ae3",
+        "magnet": null,
+        "screen": "screenshots/qilin/Efficient Home.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bekman Marder Hopper Malarkey & Perlin",
+        "discovered": "2026-06-11 00:50:17.640457",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=d766fdd6-3d5a-499b-8c80-ced92964f142",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bekman Marder Hopper Malarkey & Perlin.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Dulany Leahy Curtis & Brophy",
+        "discovered": "2026-06-11 00:49:16.118393",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=f5510c0e-918b-42ad-b48e-31e102d8659f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dulany Leahy Curtis & Brophy.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "AltaVista Strategic Partners",
+        "discovered": "2026-06-11 00:47:33.231434",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=d5982988-74d9-44ba-9efb-5dd13361ea10",
+        "magnet": null,
+        "screen": "screenshots/qilin/AltaVista Strategic Partners.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Plaxen & Adler",
+        "discovered": "2026-06-11 00:45:52.488924",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=ebd099f9-e001-4d35-9dd1-748609454217",
+        "magnet": null,
+        "screen": "screenshots/qilin/Plaxen & Adler.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "PatayaFood",
+        "discovered": "2026-06-11 00:45:20.624164",
+        "description": "patayafood.com - PatayaFood is a Thai food manufacturer and supplier producing ingredients, frozen foods, and ready-to-eat products for retail and restaurant customers. They provide quality control and export certifications, plus packaging and logistics services.",
+        "link": "/post/5be90be12d871d5b27cc0ac200fa2df2",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/PatayaFood.png",
+        "group_name": "lamashtu",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "JV Equipment",
+        "discovered": "2026-06-10 23:54:50.069878",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=015ae224-29dd-4ec6-a013-4def278281be",
+        "magnet": null,
+        "screen": "screenshots/qilin/JV Equipment.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SAMES",
+        "discovered": "2026-06-10 23:53:57.267792",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=92392bee-2ff3-4254-b679-08288920abc5",
+        "magnet": null,
+        "screen": "screenshots/qilin/SAMES.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "C.C. Creations",
+        "discovered": "2026-06-10 23:53:40.161638",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=6471e3bc-fcbb-4fc9-ba47-f23aa94e071d",
+        "magnet": null,
+        "screen": "screenshots/qilin/CC Creations.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dbHMS",
+        "discovered": "2026-06-10 23:51:46.498083",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=6f7dbe22-f16a-4ce4-8084-ed27cbf068e4",
+        "magnet": null,
+        "screen": "screenshots/qilin/dbHMS.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Teserra Outdoors",
+        "discovered": "2026-06-10 23:51:24.316409",
+        "description": "Construction",
+        "link": "/site/blog?uuid=d5c12bf5-1429-44eb-a535-d5cb0f9ccf8b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Teserra Outdoors.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Wright Constable & Skeen",
+        "discovered": "2026-06-10 23:49:41.739666",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=87496ad5-3fa6-435b-8ab2-6a412010225d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Wright Constable & Skeen.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Milstein Siegel",
+        "discovered": "2026-06-10 23:48:26.785735",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=b939b9fa-7603-4bef-86c3-fc1009fbcab4",
+        "magnet": null,
+        "screen": "screenshots/qilin/Milstein Siegel.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
         "post_title": "TagleRock Technologies",
         "discovered": "2026-06-10 22:46:30.281624",
         "description": "Business Services",
@@ -158,135 +338,5 @@
         "screen": null,
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "First Federal Savings & Loan",
-        "discovered": "2026-06-10 11:45:39.261070",
-        "description": "",
-        "link": "/companies/2508947949",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/First Federal Savings & Loan.png",
-        "group_name": "worldleaks",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Tata Electronics",
-        "discovered": "2026-06-10 11:45:35.334043",
-        "description": "",
-        "link": "/companies/8541753929",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Tata Electronics.png",
-        "group_name": "worldleaks",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Centra Sota Cooperative",
-        "discovered": "2026-06-10 10:46:00.207601",
-        "description": "",
-        "link": "/companies/0489368312",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Centra Sota Cooperative.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HDFC FUND",
-        "discovered": "2026-06-10 10:45:55.566252",
-        "description": "Website: hdfcfund.com\nRevenue: $427.8 Million\nHDFC Asset Management Company Limited (HDFC AMC) is a leading publicly traded investment manager in India, operating as the asset management arm of HDFC Bank Limited. Founded in 1999 and headquartered in Mumbai, the firm serves as the investment manager for HDFC Mutual Fund, which ranks among the largest mutual fund houses in the country.\nData:\n\nPortfolio & Trading Documentation\nInvestor & Distributor Data\nRegulatory, Compliance & Audit Files\nStrategic & Commercial Documentation\nFinancial, Accounting & Tax Records\nGovernance, HR Data & Internal Controls\nCompany Portfolio & Holdings\nCorporate Research & Public Data\nTop management’s personal records and documents\nSQL Databases, HDFCAMC applications source code\n\nThe sale of the data is currently in progress, along with access to the corporate network.\nThe volume of retrieved data is 680 GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "morpheus",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "K & E Distributing",
-        "discovered": "2026-06-10 09:44:44.251468",
-        "description": "",
-        "link": "Companies/kedistributing",
-        "magnet": null,
-        "screen": "screenshots/pear/K & E Distributing.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bayou Electrical Services",
-        "discovered": "2026-06-10 09:44:43.250213",
-        "description": "",
-        "link": "Companies/bayouelectrical",
-        "magnet": null,
-        "screen": "screenshots/pear/Bayou Electrical Services.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "National Health Fund",
-        "discovered": "2026-06-10 09:44:42.298617",
-        "description": "",
-        "link": "Companies/nhf",
-        "magnet": null,
-        "screen": "screenshots/pear/National Health Fund.png",
-        "group_name": "pear",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Alpha IT",
-        "discovered": "2026-06-10 09:44:41.406767",
-        "description": "",
-        "link": "Companies/alphait",
-        "magnet": null,
-        "screen": "screenshots/pear/Alpha IT.png",
-        "group_name": "pear",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Sayre Associates",
-        "discovered": "2026-06-10 09:44:24.525199",
-        "description": "(Including clients, projects, emails and financial documents) Sayre Associates, Inc. is a civil engineering and land surveying firm based in Sioux Falls, South ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Global Schools Foundation",
-        "discovered": "2026-06-10 06:43:40.041006",
-        "description": "",
-        "link": "/gsg/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Global Schools Foundation.png",
-        "group_name": "fulcrumsec",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Lösing Filtertechnik",
-        "discovered": "2026-06-10 03:44:08.711240",
-        "description": "Lösing Filtertechnik (Willibrord Lösing Filtertechnik e.K.) is a leading German specialist in filtration technology with more than 70 years of experience since its founding in 1955.The company offers a wide range of high-quality filters, including oil, air, fuel, hydraulic, and water filtration solutions, along with custom-tailored products for various industries such as automotive, commercial vehicles, construction machinery, rail transport, and more.Known for its expertise with brands like SEPAR and a strong focus on innovation, Lösing develops individual solutions precisely matched to customer requirements while maintaining top quality and reliable service.Headquartered in Hattingen, Germany, the company serves both B2B clients and private customers through its online shop, emphasizing perfect filtration for every challenge.\nhttps://loesing-filter.de/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/48/losing-filtertechnik",
-        "magnet": null,
-        "screen": "screenshots/space bears/Lösing Filtertechnik.png",
-        "group_name": "space bears",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "https://calfresh.ca.gov/",
-        "discovered": "2026-06-10 00:45:01.739865",
-        "description": "Cal Fresh",
-        "link": "/post/6a27543ec684b738d525bc1d",
-        "magnet": null,
-        "screen": "screenshots/termite/calfreshcagov.png",
-        "group_name": "termite",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Mid-Cumberland Human Resource Agency",
-        "discovered": "2026-06-09 23:46:21.560816",
-        "description": "MCHRA is a nonprofit promoting self-sufficiency via Meals-on-Wheels, public transit, in-home services, and community corrections. It serves adults needing care, transit users, and long-term care residents, emphasizing inclusivity and translation services.",
-        "link": "/Company/MCHRA/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Mid-Cumberland Human Resource Agency.png",
-        "group_name": "insomnia",
-        "sector": "Government"
     }
 ]
