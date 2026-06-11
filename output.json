@@ -1,5 +1,95 @@
 [
     {
+        "post_title": "Signazon_USA",
+        "discovered": "2026-06-11 21:43:39.395981",
+        "description": "",
+        "link": "/blog/disclosures/6a2afb385ae71db30c29d014",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Signazon_USA.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kewaunee Scientific",
+        "discovered": "2026-06-11 21:43:16.854639",
+        "description": "",
+        "link": "/blog/disclosures/6a2b072c5ae71db30c2b2723",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Kewaunee Scientific.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hbexperts-conseils.ca",
+        "discovered": "2026-06-11 21:01:50.377989",
+        "description": "+1 (514) 882-6463. HB Consultants is a consulting firm with over 45 years of experience specializing in Building Science. They offer services in roof consulting, pavement consulting, and building envelope consulting. Their dedicated team ensures clients receive the best and most accurate consulting services. The company caters to a diverse range of clients in the construction and building maintenance sectors Stolen: 105gb 68k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "werkstoff-service.de",
+        "discovered": "2026-06-11 21:00:45.535656",
+        "description": "+49 2013168440. W.S. Werkstoff Service GmbH specializes in material engineering, offering a range of services including material testing, damage analysis, and professional training in material technology. Their expert team, consisting of chemists, physicists, and engineers, provides accredited inspection services and consulting for various industries, particularly in the railway sector. The company is located in Essen, Germany, and serves clients globally with a focus on high-quality standards and innovative solutions. They also offer certified retraining and qualification programs in material testing and non-destructive testing Stolen: 1.82 TB. 1,719,610 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Education"
+    },
+    {
+        "post_title": "fasadeconsult.no",
+        "discovered": "2026-06-11 20:59:39.873604",
+        "description": "+47 32270200. fasadeConsult Aluminium as specializes in the production and installation of high-quality aluminum and glass products, including doors, windows, facades, and glass roofs. They offer fire-resistant, bullet-resistant, and burglary-resistant solutions, as well as solar solutions for facades and roofs. With over 45 years of industry experience, they provide services that ensure safety and quality for their clients. Their intended clients include those seeking durable and secure architectural solutions. Stolen: 84gb 390k files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ktwhs.com",
+        "discovered": "2026-06-11 20:56:31.003774",
+        "description": "+1 (514) 333-5402. KT Group is a leader in Quebec's transport industry, providing live information linked from all rail and port terminals since the 1960s. They offer comprehensive services including local and national container distribution, secure storage, and sufferance warehousing. Utilizing advanced technology, they provide instant updates on cargo status and delivery proof, ensuring a seamless experience for their clients. Their commitment to best-in-class service makes them a reliable choice for businesses looking to ship, store, and transport cargo efficiently. Stolen: --",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "maringoodman.com",
+        "discovered": "2026-06-11 20:55:28.910160",
+        "description": "+1 9144127301 Fredric Goodman , +1 9144127331 Mr. Richard Marin. Marin/Goodman LLP is a full-service litigation firm based in New York, providing sophisticated and practical legal services to businesses and high net worth individuals. With over 17 years of experience, the firm specializes in various practice areas including business law, entertainment, technology, and personal injury. They offer creative legal and business advice, manage national risks, and serve as concierge counsel to their clients. The firm prides itself on its responsiveness and dedication to achieving client goals while maintaining long-term relationships with leading corporations. Stolen: 2.33 TB 1,612,094 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "suppcenter.global / suppcentersa.com",
+        "discovered": "2026-06-11 20:50:23.475729",
+        "description": "+506 40003397. SuppCenter Global Services officially positions itself as one of the leading Xcitium solution partners and providers in the Latin America region. Xcitium is the new name of COMODO’s enterprise business. Their key cybersecurity specialization is based on a threat prevention architecture that uses Xcitium Zero Trust and ZeroDwell technologies. Official partnership: SuppCenter Global acts as a managed security service provider, or MSSP. They implement, configure, and support Xcitium/Comodo security solutions for large businesses, retail companies, and the public sector. Stolen: --",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "m3rx",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Areco",
+        "discovered": "2026-06-11 20:45:55.894451",
+        "description": "Areco Steel is the parent company of the privately-owned Areco Group, which includes five divisions: Areco Metals, Areco Profiles, Areco Direct, and Areco Prope...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "www.commonwealth-partners.com",
         "discovered": "2026-06-11 18:46:47.587445",
         "description": "CommonWealth Partners Properties specializes in a range of real estate services ...",
@@ -288,25 +378,5 @@
         "screen": "screenshots/qilin/Milstein Siegel.png",
         "group_name": "qilin",
         "sector": "Legal"
-    },
-    {
-        "post_title": "TagleRock Technologies",
-        "discovered": "2026-06-10 22:46:30.281624",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=b0c8ebe3-5483-46aa-ad11-ef414e710de8",
-        "magnet": null,
-        "screen": "screenshots/qilin/TagleRock Technologies.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Metro Electric",
-        "discovered": "2026-06-10 22:44:26.232075",
-        "description": "Construction",
-        "link": "/site/blog?uuid=b9f4a980-ccf8-4631-9104-c1300d3d427b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Metro Electric.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
