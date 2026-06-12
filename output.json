@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "mlit.com.my",
+        "discovered": "2026-06-12 22:46:27.587412",
+        "description": "We have successfully breached the internal servers and network infrastructure of MLIT, gaining full unauthorized access to their active Microsoft Dynamics Management Reporter environment and local storage volumes.The compromised data includes highly sensitive internal operations and financial records. Among the leaked files are complete individual Campaign Profit and Loss (PnL) statements, detailed revenue sheets, clawbacks, and general ledger accounts for several linked entities, including Salesworks Pte Ltd Taiwan Branch and Shaves2u HK Limited. Additionally, we have extracted complete directory trees and file structures from the internal network shares and remote desktop sessions, revealing thousands of corporate folders such as JAG Group, SWGP Excel Import, and various financial databases.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "jetmachprod.com",
+        "discovered": "2026-06-12 21:46:21.970299",
+        "description": "Jet Machined Products specializes in high-performance milled and turned components for the aerospace, instrumentation, robotics, and other specialized industries. With decades of experience, they focus on precision manufacturing to meet exacting t",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "jastrebarsko.hr",
+        "discovered": "2026-06-12 21:46:20.967921",
+        "description": "Town of Jastrebarsko, a historic city in Central Croatia located between Zagreb and Karlovac.",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Government"
+    },
+    {
+        "post_title": "palmero.com",
+        "discovered": "2026-06-12 21:46:20.020538",
+        "description": "Palmero is a company dedicated to the manufacturing and marketing of capital goods, providing comprehensive solutions across various segments including energy, oil and gas, mining, agriculture, and construction. With 75 years of presence in Argent",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "insamani.com.ar",
+        "discovered": "2026-06-12 21:46:18.955618",
+        "description": "INSA INDELMA S.A. is a leading agro-industrial company in Argentina specializing in peanut production, exporting 80% of its output to over 30 countries worldwide. The company emphasizes quality through a comprehensive traceability system that ensu",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "bsynchro.com",
+        "discovered": "2026-06-12 21:46:17.985223",
+        "description": "BSynchro Holding is an insurtech software provider that specializes in innovative insurance solutions tailored for insurance companies, brokers, and reinsurance brokers. Their product offerings include advanced tools such as CORA for product confi",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "molinoscabodi.com.ar",
+        "discovered": "2026-06-12 21:46:17.049047",
+        "description": "Molinos Cabodi Hnos. S.A. has been providing high-quality flour products since 1853, including various types of flour such as Harina 000, Harina 000 Pan de Miga, and semolina. The company serves clients across the MERCOSUR region, offering persona",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ws.com.br",
+        "discovered": "2026-06-12 21:46:16.068235",
+        "description": "WS Group Brasil is a Brazilian operations and business services provider engaged in logistics, technical support, contract administration, and labor-intensive service delivery. The company serves a mix of government, institutional, and commercial",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Government"
+    },
+    {
+        "post_title": "consultic.be",
+        "discovered": "2026-06-12 21:46:15.138720",
+        "description": "ConsulTIC specializes in IT solutions, offering services such as application hosting, virtualization, telecommuting support, and security solutions. Their target clients include businesses seeking reliable, high-performance, and secure IT services",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "amc.org.au",
+        "discovered": "2026-06-12 21:46:14.228107",
+        "description": "The Australian Medical Council (AMC) is an independent national standards body responsible for the accreditation and assessment of medical education and training in Australia and New Zealand. Its primary purpose is to ensure that the standards of",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Education"
+    },
+    {
+        "post_title": "agroexportavocados.com",
+        "discovered": "2026-06-12 21:46:13.218744",
+        "description": "Agro Industrial Exportadora SA de CV (AGRIEXP) is a Mexican holding company which is engaged in the food processing sector. Through its subsidiaries, the Company purchases, processes and sells fruit and vegetables.",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "hoplongtech.com",
+        "discovered": "2026-06-12 21:46:12.311854",
+        "description": "Công ty Cổ phần Công Nghệ Hợp Long is a leading distributor of automation equipment and industrial robotics solutions in Vietnam, representing brands such as Schneider Electric, Siemens, Omron, Veichi, NiSTRO, Leipole, and Universal Robots. They o",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "mgrlaw.com",
+        "discovered": "2026-06-12 21:46:11.352096",
+        "description": "Mogren, Glessner & Ahrens Law Firm is a full-service law firm located in King County, specializing in family law, divorce, probate, wills, criminal defense, personal injury, and adoption. Established in 1942, the firm is dedicated to providing com",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "group_name": "3am",
+        "sector": "Government"
+    },
+    {
         "post_title": "Daechang Solution",
         "discovered": "2026-06-12 16:43:36.879843",
         "description": "<p>We possess all the core technical data of Daechang Solution.<br>(Technical Research Institute, Valve Team, Cryogenic Team, Innovation Team, Sales Team, Finance Team, Materials Team, Quality Team, General Affairs Team, Production Team)</p><p>we will sell it to only one.</p>",
@@ -268,95 +398,5 @@
         "screen": null,
         "group_name": "shinyhunters",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Signazon_USA",
-        "discovered": "2026-06-11 21:43:39.395981",
-        "description": "",
-        "link": "/blog/disclosures/6a2afb385ae71db30c29d014",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Signazon_USA.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kewaunee Scientific",
-        "discovered": "2026-06-11 21:43:16.854639",
-        "description": "",
-        "link": "/blog/disclosures/6a2b072c5ae71db30c2b2723",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kewaunee Scientific.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hbexperts-conseils.ca",
-        "discovered": "2026-06-11 21:01:50.377989",
-        "description": "+1 (514) 882-6463. HB Consultants is a consulting firm with over 45 years of experience specializing in Building Science. They offer services in roof consulting, pavement consulting, and building envelope consulting. Their dedicated team ensures clients receive the best and most accurate consulting services. The company caters to a diverse range of clients in the construction and building maintenance sectors Stolen: 105gb 68k files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "werkstoff-service.de",
-        "discovered": "2026-06-11 21:00:45.535656",
-        "description": "+49 2013168440. W.S. Werkstoff Service GmbH specializes in material engineering, offering a range of services including material testing, damage analysis, and professional training in material technology. Their expert team, consisting of chemists, physicists, and engineers, provides accredited inspection services and consulting for various industries, particularly in the railway sector. The company is located in Essen, Germany, and serves clients globally with a focus on high-quality standards and innovative solutions. They also offer certified retraining and qualification programs in material testing and non-destructive testing Stolen: 1.82 TB. 1,719,610 Files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Education"
-    },
-    {
-        "post_title": "fasadeconsult.no",
-        "discovered": "2026-06-11 20:59:39.873604",
-        "description": "+47 32270200. fasadeConsult Aluminium as specializes in the production and installation of high-quality aluminum and glass products, including doors, windows, facades, and glass roofs. They offer fire-resistant, bullet-resistant, and burglary-resistant solutions, as well as solar solutions for facades and roofs. With over 45 years of industry experience, they provide services that ensure safety and quality for their clients. Their intended clients include those seeking durable and secure architectural solutions. Stolen: 84gb 390k files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ktwhs.com",
-        "discovered": "2026-06-11 20:56:31.003774",
-        "description": "+1 (514) 333-5402. KT Group is a leader in Quebec's transport industry, providing live information linked from all rail and port terminals since the 1960s. They offer comprehensive services including local and national container distribution, secure storage, and sufferance warehousing. Utilizing advanced technology, they provide instant updates on cargo status and delivery proof, ensuring a seamless experience for their clients. Their commitment to best-in-class service makes them a reliable choice for businesses looking to ship, store, and transport cargo efficiently. Stolen: --",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "maringoodman.com",
-        "discovered": "2026-06-11 20:55:28.910160",
-        "description": "+1 9144127301 Fredric Goodman , +1 9144127331 Mr. Richard Marin. Marin/Goodman LLP is a full-service litigation firm based in New York, providing sophisticated and practical legal services to businesses and high net worth individuals. With over 17 years of experience, the firm specializes in various practice areas including business law, entertainment, technology, and personal injury. They offer creative legal and business advice, manage national risks, and serve as concierge counsel to their clients. The firm prides itself on its responsiveness and dedication to achieving client goals while maintaining long-term relationships with leading corporations. Stolen: 2.33 TB 1,612,094 Files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "suppcenter.global / suppcentersa.com",
-        "discovered": "2026-06-11 20:50:23.475729",
-        "description": "+506 40003397. SuppCenter Global Services officially positions itself as one of the leading Xcitium solution partners and providers in the Latin America region. Xcitium is the new name of COMODO’s enterprise business. Their key cybersecurity specialization is based on a threat prevention architecture that uses Xcitium Zero Trust and ZeroDwell technologies. Official partnership: SuppCenter Global acts as a managed security service provider, or MSSP. They implement, configure, and support Xcitium/Comodo security solutions for large businesses, retail companies, and the public sector. Stolen: --",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "m3rx",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Areco",
-        "discovered": "2026-06-11 20:45:55.894451",
-        "description": "Areco Steel is the parent company of the privately-owned Areco Group, which includes five divisions: Areco Metals, Areco Profiles, Areco Direct, and Areco Prope...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Unknown"
     }
 ]
