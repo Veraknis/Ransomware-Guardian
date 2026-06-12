@@ -1,5 +1,165 @@
 [
     {
+        "post_title": "aisem.gob.bo",
+        "discovered": "2026-06-12 09:44:09.403816",
+        "description": "AISEM (Agencia de Infraestructura en Salud y Equipamiento Médico) is a Bolivian government agency responsible for the d...",
+        "link": "/blog/c67e84903e2846c4ee156159fe8d168786be2d7d2c0c624739aaa9ded8bba542/",
+        "magnet": null,
+        "screen": "screenshots/krybit/aisemgobbo.png",
+        "group_name": "krybit",
+        "sector": "Government"
+    },
+    {
+        "post_title": "www.progress-security.com",
+        "discovered": "2026-06-12 09:44:07.970240",
+        "description": "Progress Security Systems is a leading UAE-based provider of enterprise-grade security solutions, headquartered in Abu D...",
+        "link": "/blog/0631acce32e1e6aea1cf162256c9e33ac91992606e9e2551053f25837fea805c/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwwprogress-securitycom.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Madison Square Garden Sports Corp.",
+        "discovered": "2026-06-12 08:44:53.937158",
+        "description": "Over 26 million records containing customer PII and other internal corporate data was compromised.   This is a final warning to reach out by 15 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "JCPenney & several other subsdiaries under Catalyst Brands & Authentic Brands Group",
+        "discovered": "2026-06-12 08:44:52.965875",
+        "description": "Hundreds of thousands of records containing PII (SSN, DOB, etc.), W-2 tax records, pay data, physical scans of government identity documents, drive licenses, and a lot more was compromised.  This is a final warning to reach out by 15 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Government"
+    },
+    {
+        "post_title": "American Tower Corporation",
+        "discovered": "2026-06-12 08:44:52.053787",
+        "description": "Over 5.2 million records consiting of a significant amount of customer and landowner PII, other records tied to other companies such as T-Mobile, Verizon, and the US DHS, several tower asset records containing GPS data and plaintext physical access/gate codes for cell tower compunds across the United States, thousands of internal corporate data, and a lot more were compromised.   We urge you to reach out.   This is a final warning to reach out by 15 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Zayo.com & Allstream.com",
+        "discovered": "2026-06-12 08:44:51.118380",
+        "description": "You wouldn't want us to describe what data was taken from you publicly here. A fair assessment of this breach in terms of criticality is a 9/10. We urge you to reach out. Read our emails. Failure to do so will result in the full publication and we very much intend to carry that out if you do not engage with us.   This is a final warning to reach out by 16 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Vant Group",
+        "discovered": "2026-06-12 07:42:26.217714",
+        "description": "The Vant Group, founded in 1999, is an M&A advisory firm serving businesses up to $250M in revenue. It provides valuations, sell/buy-side advisory, and employee/partner buyouts, leveraging experienced professionals. Clients are mainly entrepreneurs and owners.",
+        "link": "/Company/TVG/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/The Vant Group.png",
+        "group_name": "insomnia",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "CCS GLOBAL TECH 🇺🇸",
+        "discovered": "2026-06-12 05:42:28.638323",
+        "description": "They provide digital and cloud solutions for business processes.",
+        "link": "/blog/57e87409-0a66-4489-9554-4f84195ca31c",
+        "magnet": null,
+        "screen": "screenshots/bravox/CCS GLOBAL TECH 🇺🇸.png",
+        "group_name": "bravox",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pattono S.r.l",
+        "discovered": "2026-06-12 04:42:44.767886",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sierra West Jewelers",
+        "discovered": "2026-06-12 04:42:39.682783",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jewelex",
+        "discovered": "2026-06-12 03:42:07.103817",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Clínica Vida",
+        "discovered": "2026-06-12 03:42:06.174778",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Did Asia",
+        "discovered": "2026-06-12 03:42:05.187297",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nueva Pescanova Group",
+        "discovered": "2026-06-12 03:42:02.728318",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Nexstar.tv",
+        "discovered": "2026-06-12 00:44:18.286902",
+        "description": "Over 1 million Salesforce records and other internal corporate data containing PII was compromised.   This is a final warning to reach out by 14 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Ralph Lauren Corporation",
+        "discovered": "2026-06-12 00:44:17.339971",
+        "description": "Over 220GB of data containing customer PII, purchase/trasnaction info, future unreleased releases from 2027 and onward, and more was compromised.   This is a final warning to reach out by 14 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Signazon_USA",
         "discovered": "2026-06-11 21:43:39.395981",
         "description": "",
@@ -198,185 +358,5 @@
         "screen": "screenshots/inc ransom/fineconsulting.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Reliance Group",
-        "discovered": "2026-06-11 10:45:06.541476",
-        "description": "",
-        "link": "/companies/0696449153",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Reliance Group.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bitek System",
-        "discovered": "2026-06-11 08:44:41.462637",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=1bf9d880-109f-4804-a623-d7164ff437f8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bitek System.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Notice",
-        "discovered": "2026-06-11 03:44:18.851151",
-        "description": "Due to the significant influx of activity going on, we are kindly advising everyone who is being contacted by us to start responding or the inevitable will happen after the deadline. We are not bluffing. Thank you.    Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Miller & Zois",
-        "discovered": "2026-06-11 00:51:21.889809",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=9b85113f-0369-48fb-b01b-6354f3940b89",
-        "magnet": null,
-        "screen": "screenshots/qilin/Miller & Zois.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Iliff",
-        "discovered": "2026-06-11 00:50:56.345158",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=806380d5-78f0-439d-ab13-02b17a0608b2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Iliff.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Efficient Home",
-        "discovered": "2026-06-11 00:50:40.931350",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=47d81bc0-e720-4062-9a2e-9eb0af9b3ae3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Efficient Home.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bekman Marder Hopper Malarkey & Perlin",
-        "discovered": "2026-06-11 00:50:17.640457",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=d766fdd6-3d5a-499b-8c80-ced92964f142",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bekman Marder Hopper Malarkey & Perlin.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Dulany Leahy Curtis & Brophy",
-        "discovered": "2026-06-11 00:49:16.118393",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=f5510c0e-918b-42ad-b48e-31e102d8659f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dulany Leahy Curtis & Brophy.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "AltaVista Strategic Partners",
-        "discovered": "2026-06-11 00:47:33.231434",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=d5982988-74d9-44ba-9efb-5dd13361ea10",
-        "magnet": null,
-        "screen": "screenshots/qilin/AltaVista Strategic Partners.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Plaxen & Adler",
-        "discovered": "2026-06-11 00:45:52.488924",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=ebd099f9-e001-4d35-9dd1-748609454217",
-        "magnet": null,
-        "screen": "screenshots/qilin/Plaxen & Adler.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "PatayaFood",
-        "discovered": "2026-06-11 00:45:20.624164",
-        "description": "patayafood.com - PatayaFood is a Thai food manufacturer and supplier producing ingredients, frozen foods, and ready-to-eat products for retail and restaurant customers. They provide quality control and export certifications, plus packaging and logistics services.",
-        "link": "/post/5be90be12d871d5b27cc0ac200fa2df2",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/PatayaFood.png",
-        "group_name": "lamashtu",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "JV Equipment",
-        "discovered": "2026-06-10 23:54:50.069878",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=015ae224-29dd-4ec6-a013-4def278281be",
-        "magnet": null,
-        "screen": "screenshots/qilin/JV Equipment.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "SAMES",
-        "discovered": "2026-06-10 23:53:57.267792",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=92392bee-2ff3-4254-b679-08288920abc5",
-        "magnet": null,
-        "screen": "screenshots/qilin/SAMES.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "C.C. Creations",
-        "discovered": "2026-06-10 23:53:40.161638",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=6471e3bc-fcbb-4fc9-ba47-f23aa94e071d",
-        "magnet": null,
-        "screen": "screenshots/qilin/CC Creations.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dbHMS",
-        "discovered": "2026-06-10 23:51:46.498083",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=6f7dbe22-f16a-4ce4-8084-ed27cbf068e4",
-        "magnet": null,
-        "screen": "screenshots/qilin/dbHMS.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Teserra Outdoors",
-        "discovered": "2026-06-10 23:51:24.316409",
-        "description": "Construction",
-        "link": "/site/blog?uuid=d5c12bf5-1429-44eb-a535-d5cb0f9ccf8b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Teserra Outdoors.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Wright Constable & Skeen",
-        "discovered": "2026-06-10 23:49:41.739666",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=87496ad5-3fa6-435b-8ab2-6a412010225d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Wright Constable & Skeen.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Milstein Siegel",
-        "discovered": "2026-06-10 23:48:26.785735",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=b939b9fa-7603-4bef-86c3-fc1009fbcab4",
-        "magnet": null,
-        "screen": "screenshots/qilin/Milstein Siegel.png",
-        "group_name": "qilin",
-        "sector": "Legal"
     }
 ]
