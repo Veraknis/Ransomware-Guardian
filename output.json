@@ -1,5 +1,135 @@
 [
     {
+        "post_title": "3",
+        "discovered": "2026-06-15 22:49:32.264209",
+        "description": "",
+        "link": "/blog/disclosures/6a3058735ae71db30c1c87a3",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/3.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "****** Agency",
+        "discovered": "2026-06-15 22:17:10.580412",
+        "description": "c*********y.com  ***** Agency is a family-owned independent insurance firm founded in Utah in 1969, dedicated to comprehensive risk management.They specialize in tailored commercial coverage and employee benefits for complex industries like manufacturing and transportation.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "hughstirling.co.uk",
+        "discovered": "2026-06-15 21:49:21.503394",
+        "description": "Headquartered in Goslar, Lower Saxony, the firm has been operating since 1975 and has expanded its presence through additional offices …",
+        "link": "/blog/post/hughstirlingcouk/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hughstirlingcouk.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "tokyocivil.co.jp",
+        "discovered": "2026-06-15 21:49:20.562434",
+        "description": "Established in 2020, the company specializes in public infrastructure and civil engineering projects, serving primarily the Tokyo metropolitan area and …",
+        "link": "/blog/post/tokyocivilcojp/",
+        "magnet": null,
+        "screen": "screenshots/safepay/tokyocivilcojp.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "kawaius.com",
+        "discovered": "2026-06-15 21:49:19.630056",
+        "description": "Founded in Japan in 1927 by Koichi Kawai, the company has established a reputation for combining traditional Japanese craftsmanship with …",
+        "link": "/blog/post/kawaiuscom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/kawaiuscom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "musenet.co.jp",
+        "discovered": "2026-06-15 21:49:18.678341",
+        "description": "Founded in the twentieth century, the company serves as an intermediary between publishers and music retailers throughout Japan. Its online …",
+        "link": "/blog/post/musenetcojp/",
+        "magnet": null,
+        "screen": "screenshots/safepay/musenetcojp.png",
+        "group_name": "safepay",
+        "sector": "Media"
+    },
+    {
+        "post_title": "bautz-maschinenbau.de",
+        "discovered": "2026-06-15 21:49:17.746151",
+        "description": "Founded in 1960 by Alfred Bautz, the family-owned enterprise has developed over three generations into a specialized supplier of precision …",
+        "link": "/blog/post/bautz-maschinenbaude/",
+        "magnet": null,
+        "screen": "screenshots/safepay/bautz-maschinenbaude.png",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "aquaclean.com",
+        "discovered": "2026-06-15 21:49:16.802094",
+        "description": "The company operates as part of Interfabrics S.L. and has more than 50 years of experience in the textile industry. …",
+        "link": "/blog/post/aquacleancom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/aquacleancom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hoodriversheriff.com",
+        "discovered": "2026-06-15 21:49:15.851884",
+        "description": "Headquartered in Hood River, the organization provides a broad range of services, including patrol operations, criminal investigations, emergency communications, search …",
+        "link": "/blog/post/hoodriversheriffcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hoodriversheriffcom.png",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "B****S I******t***l",
+        "discovered": "2026-06-15 21:49:12.494834",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Sheraton Miramar Resort El Gouna",
+        "discovered": "2026-06-15 21:49:11.390934",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "G**** R****l*e",
+        "discovered": "2026-06-15 21:49:10.413949",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CUI Agency",
+        "discovered": "2026-06-15 21:12:51.608508",
+        "description": "cuiagency.com zoominfo.com/c/cui-agency/397459082 CUI Agency is a family-owned independent insurance firm founded in Utah in 1969, dedicated to comprehensive risk management.They specialize in tailored commercial coverage and employee benefits for complex industries like manufacturing and transportation.Driven by a client-first philosophy, the agency focuses on building long-term partnerships to ensure the financial stability of their client",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
         "post_title": "anglomoil.com",
         "discovered": "2026-06-15 20:46:42.777928",
         "description": "We have more than 100 thousand documents from Anglomoil, Avantage Global and Avantage Marine Group, whose director is Victor Prasad. If you think you are here by mistake, please co...",
@@ -1147,16 +1277,6 @@
         "magnet": null,
         "screen": "screenshots/audit team/AUDIT ENTITY: I-***YS.png",
         "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "frey.com",
-        "discovered": "2026-06-14 22:53:38.360031",
-        "description": "FREY (Frey Brothers, Inc.) is an American eco-friendly laundry care products company founded in 2017 by brothers Erin an...",
-        "link": "/blog/bea2786db52dfebfa78db93284fb6ce438ffccbf69d182abed0147505046c5bf/",
-        "magnet": null,
-        "screen": "screenshots/krybit/freycom.png",
-        "group_name": "krybit",
         "sector": "Unknown"
     }
 ]
