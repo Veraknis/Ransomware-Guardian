@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "jasperplastics.info",
+        "discovered": "2026-06-16 19:48:04.755584",
+        "description": "",
+        "link": "/blog/disclosures/6a317d755ae71db30c5cc0e2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/jasperplasticsinfo.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ralph Lauren",
+        "discovered": "2026-06-16 17:48:08.034769",
+        "description": "Over 220GB of data containing customer PII, purchase/trasnaction info, future unreleased releases from 2027 and onward, and more was compromised. The Company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "framesiprofessional.com",
+        "discovered": "2026-06-16 17:47:39.359261",
+        "description": "",
+        "link": "/blog/disclosures/6a31672f5ae71db30c5a0b52",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/framesiprofessionalcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TINYpulse NINTENDO BREACH (nintendo.com)",
+        "discovered": "2026-06-16 16:48:05.996122",
+        "description": "This will be quick. You don't even want to read the private messages as some will be embarrasing. Some people are confused but this breach doesn't affect you unless if you use tinypulse and work for nintendo. There will be more victims coming soon. If you get a email by us. by us we mean are only email on are leak site, then respond or it will get leaked. We will send file trees for confirmation to prove we actually breached your company. It's pretty funny how companies are defending themselves and when the truth comes out now they want to stay quiet. We have no further questions to answer. This is a warning to all companies if you get breached by us, It's best to contact us especially if we show you the file size. This was true negligence and now you will likely face a massive lawsuit, have fun tinypulse and told you this would be quick.\nuncompressed file size: (856MB)\ncompressed size: (6.89MB)\nThe included data includes:\n- full name, first name, last name, email (the w9 is only one and multiple invoices)\n- Private Employee Chats: Direct internal messages and conversations between workers.\n-\nMar 10, 2025 Sure, it's Knowledge Team—we've needed more content creators for years, but it seems all we can ever get approved are more associates, often temporarily. This helps some, and I know there are vague rumors that maybe we will be able to swap our associates over to NOA employees in the future, but that's not what we need—we need more writers so that we can distribute the primary work among more people.\noverworking chat: Sep 22, 2025 How happy are you at work? 3 I'm generally extremely content, but the overwhelming number of overlapping high-priority projects and a constant stream of meetings, has left me with little to no available occupancy. This has made it tough to manage everything effectively and still make time for innovation.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shadowbyt3$",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Novo Nordisk",
+        "discovered": "2026-06-16 15:46:05.368780",
+        "description": "",
+        "link": "/novo/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Novo Nordisk.png",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tecfi SpA",
+        "discovered": "2026-06-16 15:46:01.900500",
+        "description": "Tecfi is a company specialising in the design, production and sale of fastening systems. Going into more detail, three production lines can be highlighted. ▪ Pl...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Allan Brothers Fruit",
+        "discovered": "2026-06-16 15:45:57.684146",
+        "description": "Allan Brothers, Inc. — a third-generation, family-owned tree-fruit operation headquartered in Naches, Washington. Allan Brothers packs and ships apples and cherries from a 300,000 sq ft cold-storage facility, employing roughly 45 full-time staff and up to 2,000 seasonal workers during peak harvest.\n\nEight server volumes:\n\n14,228 employee records from ADP Workforce Now — names, dates of birth, phone numbers, gender, employment history, photos — covering every person who has ever worked at Allan Brothers, including seasonal cherry pickers, H-2A visa workers, and office staff.\nW-2 tax filings with full Social Security Numbers for employees across eight legal entities (ALLAN, ABMEXICO, ABSAGE, ABSAGEMOOR, ABVINEYARD, ABAG, ABSHELTON, ABFROST).\nDirect deposit forms with bank routing numbers and account numbers for named individuals — the raw ingredients for ACH fraud.\nH-2A visa worker tracking spreadsheets listing which workers have or are missing Social Security Numbers, plus I-9 employment eligibility audits — exposing immigration status for the most vulnerable members of the workforce.\nA complete Oracle RMAN database backup of the Famous Software production system — the company's grower settlement, customer pricing, and lot-tracking engine.\n1.3 GB of employee badge photos — facial images linked to names and employee IDs for hundreds of workers.\nCOBOL-era accounting databases spanning 8 legal entities — GL, AP, AR, payroll, and W-2 filing data going back years.\nOSHA incident logs naming workers who sustained injuries, with injury descriptions and treatment details.",
+        "link": "/blog/allan-brothers-fruit-a383ba98",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Diamond Truck Centres",
+        "discovered": "2026-06-16 15:45:55.358384",
+        "description": "Diamond Truck Centres — Western Canada's largest International Trucks dealership group (9 dealer + 13 sub-dealer locations, ~$63M revenue, 250 employees).\n\nThe dataset spans 17 years of unbroken operational history (2009–2026) and represents the full shared-drive contents of the entire company: HR, payroll, accounting, military contracts, and individual employee profiles.\n\nThe exposed material includes:\n\n53 customer Pre-Authorized Debit (PAD) forms — full bank account numbers, transit numbers, institution numbers, and authorized signatures for commercial customers including the City of Saskatoon.\n17 years of employee payroll data — wages, SINs (implied), pension contributions, benefits, termination calculations for every employee since 2009.\nBiometric data — ADP fingerprint timeclock enrollment records for all locations.\nImmigration documents for 6+ foreign workers — LMIA applications, offers of employment, provincial nominee support docs.\nSystem credentials in plaintext — ADP timeclock passwords, manager training logins, safe combination.\nMilitary contract documentation — Diamond's Controlled Goods Security Plan (ITAR/CGP), MSVS delivery matrices, military vehicle VINs, CFB Edmonton and RCMP vehicle program data.\n289 GB of daily bank deposit scans (2017–2026) — customer cheque images with names, amounts, and account details.\nA complete Outlook PST archive (166 MB) — years of internal email likely containing credentials and customer data.",
+        "link": "/blog/diamond-truck-centres-98cd07d1",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Sumitomo Electric Bordnetze",
+        "discovered": "2026-06-16 15:45:52.297692",
+        "description": "Sumitomo Electric Bordnetze SE (SEBN) — a Wolfsburg-headquartered subsidiary of Sumitomo Electric Industries (TSE:5802, ~$31B group revenue), employing approximately 40,000 people across 14 countries. Exfiltrated 1.1 terabytes of data from five manufacturing sites.\n\nSEBN Moldova (103 GB) — HR, payroll, personal tax records, competition-council litigation files, home directories\nSEBN Ukraine (115 GB) — HR/salary, Audi B9 project data, process documentation, including displaced-worker records for Ukrainian IDPs\nSEBN Tunisia — Fejja (191 GB + 493 GB shared) — passport copies, email archives (671 MB PST), quality/FMEA data, finance\nSEBN Slovakia (268 GB) — the crown jewel: Citibank corporate banking infrastructure including the TESTKEY authentication system, IBAN registries, daily bank statements, SAP salary-payment files, and years of department email archives\nThe dataset contains 173,000 Excel files, 149,000 PDFs, 2,500 CAD engineering drawings, 2,500 Outlook messages, 1,500 FMEA/PPAP quality files, and 9 Outlook PST archives.",
+        "link": "/blog/sumitomo-electric-bordnetze-1b202d14",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Insite Architects",
+        "discovered": "2026-06-16 15:45:49.784582",
+        "description": "InSite Architects was founded in 2002 as a firm dedicated to the design and planning for seniorand affordable housing. It is our belief that every project is as individual as the client, program, and site.We will upload 65gb of corporate data soon. Employee personal information (passports, SSNs, DLsand other personal docs), credit cards information, projects, clients and partners info, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Golfview Developmental Center",
+        "discovered": "2026-06-16 14:48:24.488623",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/blog?uuid=082cc0ec-36b4-46e9-aaf5-d97d8707252d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Golfview Developmental Center.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Sunass",
         "discovered": "2026-06-16 13:46:43.558501",
         "description": "SUNASS is a public regulatory body established by Law Decree No. 25965, with legal personality and administrative, functional, technical, economic, and financial autonomy. The organization focuses on regulating and overseeing water supply and sanitation services in Peru. Its intended clients include service providers in rural areas and small cities, as well as the general public seeking information and assistance regarding water and sanitation services. SUNASS also engages in educational programs and campaigns to promote water conservation and proper sanitation practices - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -318,885 +428,5 @@
         "screen": "screenshots/brain cipher/alu-rexcom.png",
         "group_name": "brain cipher",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Grupo Indi",
-        "discovered": "2026-06-15 19:51:14.448272",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=bc056cc8-657b-4671-8239-82ed5d55952e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grupo Indi.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Can Healthcare Group",
-        "discovered": "2026-06-15 19:51:13.549903",
-        "description": "0",
-        "link": "/site/blog?uuid=943cd6e8-cb55-4fc7-924e-4e9653fd438e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Can Healthcare Group.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cng Ty Cp T Vn Xd Tng Hp",
-        "discovered": "2026-06-15 19:51:10.537949",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=58e310a4-96df-4b40-8f68-c672d84340d8",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cng Ty Cp T Vn Xd Tng Hp.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "MAVA Healthcare",
-        "discovered": "2026-06-15 19:51:08.794565",
-        "description": "0",
-        "link": "/site/blog?uuid=8b3c2a08-c4bd-4e1c-9540-43255f5f76a7",
-        "magnet": null,
-        "screen": "screenshots/qilin/MAVA Healthcare.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "KoMiCo",
-        "discovered": "2026-06-15 19:21:46.278067",
-        "description": "Inside the internal data of a publicly traded company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/F3TB5nyWk7efxUlZ6toKtFCKcPvgXLUwyph+uvlzaWUPwLGxJxReO73XPbuPl5Y27QJHUzDNSYzUN49O3slD0NuYTI5WXBm",
-        "magnet": null,
-        "screen": "screenshots/anubis/KoMiCo.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "W****e",
-        "discovered": "2026-06-15 18:46:26.121592",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Zhangjiagang Fortune Chemical Co. Ltd. Singapore",
-        "discovered": "2026-06-15 18:40:37.466071",
-        "description": "Zhangjiagang Fortune Chemical Co., Ltd. is a Chinese manufacturer established in 2013 that specializes in phosphorus esters, flame retardants, and functional fine chemicals. The company operates globally with over 25,000 tons of annual output and maintains full REACH compliance for international exports.\r\n\r\nhttps://www.fortune-chemical.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Zhangjiagang Fortune Chemical Co Ltd Singapore.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Summa4",
-        "discovered": "2026-06-15 18:40:06.394727",
-        "description": "SUMMA 4 Asesores Legales y Tributarios is a Madrid-based firm specializing in legal and tax advisory for businesses and high-net-worth individuals. Established in 2008, the firm provides tailored strategies in tax, commercial, and labor law, with a particular focus on family businesses and family offices.\r\n\r\nhttps://summa4.es/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Summa4.png",
-        "group_name": "deadlock",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Hornavan Hotell",
-        "discovered": "2026-06-15 18:39:46.874927",
-        "description": "Hornavan Hotell is an independent 3-star property in Arjeplog, Swedish Lapland\r\n\r\nhttps://www.hornavanhotell.se/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Hornavan Hotell.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "TeleFinity",
-        "discovered": "2026-06-15 18:39:24.515793",
-        "description": "TeleFinity is a global provider of computer telephony integration (CTI) and unified contact center software, offering solutions like LogFinity call recording, WebRTC-SIP gateways, and omnichannel contact center platforms. Founded in 2005, the company delivers enterprise-grade,, AI-driven, and CRM-integrated communication products with on-premises or cloud deployment options.\r\n\r\nhttps://tele-finity.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/TeleFinity.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "donjon",
-        "discovered": "2026-06-15 18:38:52.062887",
-        "description": "Donjon Pte Ltd a trusted provider of mechanical and electrical (M&E) engineering services based in Singapore. Established in 2003, the company is a registered contractor with the Building and Construction Authority (BCA). They cater to commercial, industrial, and residential sectors.\r\n\r\nhttps://donjon.com.sg/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/donjon.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "CH Paper",
-        "discovered": "2026-06-15 18:38:30.774289",
-        "description": "Cheng Heng Paper Products Co (Pte) Ltd is a prominent regional manufacturer supplying corrugated cardboard boxes and custom packaging solutions. The company, with operations across Malaysia, Indonesia, and China, offers certified, durable products for logistics, e-commerce, and commercial retail.\r\n\r\nhttps://www.chenghengpaper.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/CH Paper.png",
-        "group_name": "deadlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Nobani Co",
-        "discovered": "2026-06-15 18:38:12.403215",
-        "description": "Nobani & Co a professional financial services firm established in 1994. The company is headquartered in Amman, Jordan, and functions as an independent member of the ⁠Praxity international alliance of accounting and advisory firms.\r\n\r\nhttps://nobani.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Nobani Co.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Fidelity Pension Managers",
-        "discovered": "2026-06-15 18:37:52.806923",
-        "description": "Fidelity Pension Managers Limited regulated by PenCom in Nigeria, is a licensed Pension Fund Administrator (PFA) established in 2004 to manage retirement savings accounts (RSA). The company offers investment portfolio management and digital services, including the iPension portal and FidApp Plus, to facilitate RSA contributions.\r\n\r\nhttps://www.fidelitypensionmanagers.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Fidelity Pension Managers.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CAD93",
-        "discovered": "2026-06-15 18:37:34.121338",
-        "description": "C.A.D. 93 S.r.l. is a Prato-based firm of authorized customs brokers specializing in international trade, compliance, and import/export documentation. The agency provides comprehensive consulting services from its headquarters in Italy.\r\n\r\nhttp://www.cad93.it/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/CAD93.png",
-        "group_name": "deadlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "SECiL",
-        "discovered": "2026-06-15 18:37:12.233210",
-        "description": "Seçil Kauçuk is a Turkish manufacturer, founded in 1983, specializing in rubber gaskets, sealing profiles, and industrial molded parts for sectors including construction, automotive, and infrastructure. Operating from a 70,000-square-meter facility in Tarsus, the company exports to over 50 countries and maintains an official R&D center for product testing.\r\n\r\nhttps://www.seciltr.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/SECiL.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Direção Estacionamentos S.A.",
-        "discovered": "2026-06-15 18:36:42.381058",
-        "description": "Autopark Estacionamentos is one of the largest and most reputable parking management companies in Brazil.Founded in Curitiba, Paraná , the company has over 36 years of experience in the market.\r\n\r\nhttps://autopark.com.br/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Direção Estacionamentos SA.png",
-        "group_name": "deadlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "EDISA and INVERTIGE",
-        "discovered": "2026-06-15 18:35:51.076187",
-        "description": "Estudios de Investigación Servicio SL (also known commercially in some rankings as EDISA) is a Limited liability company of a patrimonial and real estate nature with headquarters in Valencia, Spain.Although its corporate name includes the words \"research studies\", its real corporate purpose and main activities are focused on asset management, investment in other companies and real estate development.\r\n\r\nINVERTIGE SL is a Spanish company headquartered in ValenciaThe company is registered for central management functions and consultancy , with a focus on the administration and governance of other companies, and has an annual turnover of around EUR 1.9 million.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/EDISA and INVERTIGE.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Breda Energia",
-        "discovered": "2026-06-15 18:35:32.497005",
-        "description": "Breda Energia S.p.A. is a global leader in the Oil & Gas industry, specializing in innovative products and services for onshore, offshore, and subsea applications. The company offers a wide range of solutions including wellheads, valves, high integrity pressure protection systems, and packaged systems, all designed with a focus on sustainability and cutting-edge technology. With over 60 years of experience, Breda Energia aims to be a partner to its clients, providing not just equipment but also qualified services to optimize performance and maintenance. Their commitment to quality is reflected in their adherence to various international standards and certifications.\r\n\r\nhttps://www.bredaenergia.it",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Breda Energia.png",
-        "group_name": "deadlock",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Muzeum Valassko",
-        "discovered": "2026-06-15 18:35:06.406992",
-        "description": "Muzeum regionu Valašsko (The Museum of the Wallachian Region) is a multi-site cultural institution in the Zlín Region of the Czech Republic.\r\n\r\nhttps://www.muzeumvalassko.cz/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Muzeum Valassko.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "bERS",
-        "discovered": "2026-06-15 18:34:38.364105",
-        "description": "Bers logistics has been providing logistics services and high quality 3pl outsourcing of integrated logistics services.\r\n\r\nhttps://bers.bg/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/bERS.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "NXIT and Franco Vago S.p.a. and Traconf Srl",
-        "discovered": "2026-06-15 18:33:11.673103",
-        "description": "The leaked files will be available for download on May 15, 2026.\r\n\r\nNippon Express Italia SpA (NXIT) is the Italian division of the global NX Group (formerly Nippon Express). It was established on January 1, 2020, following a major merger involving several high-profile Italian logistics companies, including Franco Vago and Traconf.\r\nRecorded a consolidated turnover of almost EUR 1 billion in 2022.\r\nCore Services:\r\nThe company specializes in integrated logistics and global freight forwarding, with a particularly strong reputation in the Fashion & Luxury sector.\r\n\r\nTraconf Srl a major Italian logistics firm specializing in fashion and luxury goods.\r\n\r\nPortuguese branch of Franco Vago, which, much like Traconf, is now a key part of the Nippon Express Italia SpA (NX Group) network.\r\n\r\nIn Portugal, the company operates as a specialized freight forwarder with a strong focus on the textile, footwear, and luxury sectors—leveraging the historical expertise of the Franco Vago brand.\r\n\r\nhttps://www.nipponexpressitalia.com/\r\nhttps://www.nuovatraconf.it/\r\nhttps://www.francovago-transitarios.pt/\r\n\r\n\r\nOver 220 gigabytes of sensitive internal data were stolen from this company",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/NXIT and Franco Vago Spa and Traconf Srl.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "AFWorkshop",
-        "discovered": "2026-06-15 18:32:47.160138",
-        "description": "AFW an international architectural and design firm based in Singapore.\r\n\r\nFormerly known as Andy Fisher Workshop, the firm has been operating since 2004. They are a multi-disciplinary practice that works on a variety of large-scale and boutique projects across Asia and beyond.\r\n\r\nhttps://www.afw.sg/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/AFWorkshop.png",
-        "group_name": "deadlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Finam Gabon",
-        "discovered": "2026-06-15 18:32:27.310243",
-        "description": "The leaked files will be available for download on May 15, 2026.\r\n\r\nFinam Gabon (Financière Africaine de Micro-projets) is a microfinance institution operating in Gabon since 2005, with over 150,000 clients. It provides a range of savings, loans and mobile banking services.\r\n\r\nhttps://finamgabon.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Finam Gabon.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "iASK",
-        "discovered": "2026-06-15 18:32:02.311524",
-        "description": "The Institute of Advanced Studies Kőszeg is a Hungarian research center focusing on interdisciplinary studies, regional transformation in Central/Southeastern Europe, and sustainability. It operates as a hub for research, hosting an annual International Summer University and maintaining specialized collections at the Festetics Palace.\r\n\r\nhttps://iask.hu/en/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/iASK.png",
-        "group_name": "deadlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Noega and Esnova",
-        "discovered": "2026-06-15 18:31:41.619242",
-        "description": "Esnova (Esnova Racks S.A.) is a leading Spanish manufacturer specializing in industrial shelving and warehouse storage systems. Based in Gijón, Asturias, the company designs, manufactures, and installs solutions for logistics and warehouse management across more than 35 countries.\r\n\r\nNoega Systems is a specialized industrial company that designs, manufactures, and installs metal racking and storage solutions. Founded in 2010 and headquartered in Gijón, Spain, the firm provides end-to-end intralogistics services, including technical inspections (ITE) and automated warehouse planning.\r\n\r\nhttps://esnova.com\r\nhttps://www.noegasystems.com/en\r\n\r\n\r\nOver 130 gigabytes of internal data",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Noega and Esnova.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "IFC Eur",
-        "discovered": "2026-06-15 18:31:14.884667",
-        "description": "IFC Europa is a Spanish-based distributor specializing in car audio, automotive lighting, and electronics.\r\n\r\nhttps://www.ifceuropa.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/IFC Eur.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TPToys",
-        "discovered": "2026-06-15 18:30:52.337867",
-        "description": "TP Toys is a UK-based company that has specialized in designing and manufacturing high-quality children’s outdoor play equipment for over 60 years\r\n\r\nhttps://www.tptoys.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/TPToys.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "EXPRESOKNA SP. Z O.O.",
-        "discovered": "2026-06-15 18:30:01.805609",
-        "description": "EXPRESOKNA SP. Z O.O. a Polish manufacturer and distributor specializing in window and door systems. Based in Siemianowice Śląskie, the company is known for its exceptionally fast turnaround times for PVC and aluminum products.\r\n\r\nhttps://expresokna.pl/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/EXPRESOKNA SP Z OO.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bär Cargolift Polska Sp. z o.o.",
-        "discovered": "2026-06-15 18:29:39.066627",
-        "description": "Bär Cargolift specializing in the manufacturing of hydraulic tail lifts for vehicles, featuring products with capacities from 500 kg to 3,000 kg. The site offers an online WebShop for spare parts, technical support via Bär CargoCheck, and operator training, with a local headquarters in Gdańsk.\r\n\r\nhttps://www.barcargolift.pl/\r\nbaer-cargolift.pl",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Bär Cargolift Polska Sp z oo.png",
-        "group_name": "deadlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Grupolider | Grupo Actual",
-        "discovered": "2026-06-15 18:29:18.485144",
-        "description": "The leaked files will be available for download on May 10, 2026.\r\n\r\nGrupolider is a prominent Angolan conglomerate that has been operating in the national market since 1999. Headquartered in Catete, Luanda, the group initially started as a freight forwarding company and has since diversified into a wide range of sectors including agriculture, construction, and furniture.\r\n\r\nGrupo Actual is a human resources and recruitment agency in Portugal that provides temporary work solutions, permanent recruitment, and selection services.Following a rebranding in late 2025, the company formerly known as Leader now operates under the Actual brand.\r\n\r\nhttps://grupolider-ao.com/\r\nhttps://grupoactual.pt/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Grupolider | Grupo Actual.png",
-        "group_name": "deadlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Dyhrberg AG Switzerland",
-        "discovered": "2026-06-15 18:27:52.156646",
-        "description": "dyhrberg.ch",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Dyhrberg AG Switzerland.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SKK Networks Sp. z o.o. and UNICARD Systems Sp. z o. o. and SKK SA",
-        "discovered": "2026-06-15 18:27:31.834010",
-        "description": "SKK Networks is a specialized IT infrastructure provider based in Kraków, Poland, that designs, builds, and maintains professional LAN and WLAN networks. They focus on creating high-performance connectivity solutions for challenging environments like high-bay warehouses, cold storage facilities, and industrial plants.\r\n\r\nUnicard Systems is a Polish manufacturer and integrator of security and building automation systems with over 30 years of experience. Based in Kraków, the company specializes in designing and implementing proprietary hardware and software solutions for business and public infrastructure.\r\n\r\nSKK Labels, a prominent Polish label manufacturer and printing company based in Kraków. With over 30 years of experience, the company provides comprehensive product marking solutions across various industries, including pharmaceutical, automotive, and logistics.\r\n\r\nhttps://www.skk-networks.com\r\nhttps://unicard.pl/\r\nhttps://skk-labels.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/SKK Networks Sp z oo and UNICARD Systems Sp z o o and SKK SA.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "PB Sprinkler Engineering Sp. z o.o. and PLISZKA Fire Protection Engineering",
-        "discovered": "2026-06-15 18:26:19.485215",
-        "description": "PB Sprinkler Engineering (formerly Pliszka Sprinkler) provides comprehensive fire protection solutions, including technical design in 2D and 3D, and customized, certified systems. The company specializes in electronic detection and fixed gas extinguishing systems.\r\n\r\nPliszka is a Polish engineering firm based in Gdańsk with over 30 years of experience specializing in comprehensive active fire protection systems. The company provides design, installation, and maintenance services for automatic extinguishing, fire alarm, and smoke removal systems, along with 24/7 service.\r\n\r\nhttps://pliszka.pl/en/\r\nhttps://www.pb-se.pl/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/PB Sprinkler Engineering Sp z oo and PLISZKA Fire Protection Engineering.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "8.2 Group e.V.",
-        "discovered": "2026-06-15 18:25:59.422583",
-        "description": "8.2 Group an international network of over 40 independent engineering firms specializing in technical inspection, consulting, and engineering for renewable energy projects. Headquartered in Germany, the group provides services throughout the lifecycle of wind, solar, and battery storage projects worldwide.\r\n\r\nhttps://www.8p2.de/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/82 Group eV.png",
-        "group_name": "deadlock",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Integra and Operosa",
-        "discovered": "2026-06-15 18:25:37.864412",
-        "description": "The leaked files will be available for download on May 10, 2026.\r\n\r\nC.A.A. \"Giorgio Nicoli\" S.r.l.\r\n\r\nIntegra S.r.l\r\n\r\nL'Operosa S.p.A.\r\n\r\nhttps://www.caa.it/\r\nhttps://www.integraerp.it/\r\nhttps://www.operosa.it/\r\nhttps://www.integrasrl.eu/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Integra and Operosa.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JOSO",
-        "discovered": "2026-06-15 18:25:00.079750",
-        "description": "JOSO, a Norwegian industrial engineering and manufacturing company. Based in Lonevåg, Norway, the company specializes in producing high-quality mechanical components and hardware.\r\n\r\nhttps://joso.no/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/JOSO.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "GEOPARTNER Sp. z o.o. and GEOPARTNER GEOMATICS Sp. z o.o.",
-        "discovered": "2026-06-15 18:24:38.633090",
-        "description": "Geopartner Geomatics Sp. z o.o. is a Gdańsk-based engineering firm specializing in advanced surveying, mapping, and BIM services for the infrastructure sector. The company utilizes LiDAR scanners and drones to support road and rail projects, operating in the Polish and Swedish markets.\r\n\r\nGEOPARTNER Sp. z o.o. is a Polish engineering firm specializing in geophysical and geotechnical services, primarily focused on investigating ground conditions for energy, infrastructure, and mining projects.\r\n\r\nhttps://www.geopartner-geomatics.pl/\r\nhttps://geopartner.pl/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/GEOPARTNER Sp z oo and GEOPARTNER GEOMATICS Sp z oo.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "FIRESTA",
-        "discovered": "2026-06-15 18:24:17.865826",
-        "description": "Firesta-Fišer, a.s. is a Czech construction company based in Brno, established in 1990, specializing in transport infrastructure, including bridge, road, and railway construction. With over 600 employees, the company also operates in Slovakia, Poland, and Romania.\r\n\r\nhttps://www.firesta.cz/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/FIRESTA.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "UFL",
-        "discovered": "2026-06-15 18:23:56.481640",
-        "description": "United Finance Limited (UFL) is a 100% nationally owned financial institution based in Papua New Guinea. Registered in 2017 and fully established in April 2019, the company provides personal and commercial lending services designed to assist individuals and small businesses with quick access to capital.\r\n\r\nhttps://www.ufl.com.pg/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/UFL.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Picassent",
-        "discovered": "2026-06-15 18:23:23.851519",
-        "description": "Ayuntamiento de Picassent (Picassent City Council), a municipality located in the Horta Sud region of Valencia, Spain.\r\n\r\nhttps://www.picassent.es/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Picassent.png",
-        "group_name": "deadlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Starconn",
-        "discovered": "2026-06-15 18:22:33.787058",
-        "description": "Starconn (registered as Chief Land Electronic Co., Ltd.) is a top-five connector manufacturer based in Taiwan. Founded in 1978, the company specializes in high-precision connectors for telecommunications, data centers, and consumer electronics.\r\n\r\nCore Products & Services\r\nConnectors: They produce a wide range of connectors, including high-speed backplane (up to 25Gbps), FPC, and EDSFF E1.S connectors.\r\n\r\nTarget Markets: Their components are used in desktops, laptops, LCD panels, servers, storage, and networking equipment.\r\n\r\nManufacturing Capabilities: The company integrates plastic mold tooling, micro-injection molding, and automated assembly.\r\n\r\nTechnical Services: They offer R&D partnerships for custom system designs, utilizing CAE software for mechanical and signal integrity simulations.\r\n\r\nCompany Details\r\nHeadquarters: Wugu District, New Taipei City, Taiwan.\r\n\r\nPresence: They have significant operations and certifications (ISO 9001, IATF 16949) in both Taipei and Kunshan, China.\r\n\r\nIntellectual Property: As of 2022, they held over 500 patents.\r\n\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Starconn.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "EFCA",
-        "discovered": "2026-06-15 18:22:06.049097",
-        "description": "EFCA a specialized accounting firm based in Paris, France.\r\n\r\nCore Expertise\r\nWith over 30 years of experience, the firm specializes in real estate accounting and property management. Key services and areas of focus include:\r\n\r\nProperty Management Support: Expertise in managing accounts for property administrators and real estate agencies.\r\n\r\nTrustee & Agent Accounting: Mastery of \"comptabilité mandants\" (client/trustee accounting) and navigating relationships with guarantee funds.\r\n\r\nTax & Advisory: Handling complex tax and accounting issues specific to the real estate market.\r\n\r\nhttps://www.efca-europe.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/EFCA.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AKSV",
-        "discovered": "2026-06-15 18:21:42.530777",
-        "description": "AK Service & Vedligehold is a Hillerød-based contractor providing construction, maintenance, and energy solutions across Zealand, Denmark. The company specializes in electrical work, heat pumps, charging stations, carpentry, and masonry services.\r\n\r\nhttps://aksv.dk/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/AKSV.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Bridgeport S.p.A.",
-        "discovered": "2026-06-15 18:19:39.268873",
-        "description": "Bridgeport a leading Italian manufacturing company specializing in the production of valves for air, gas, and fluids.\r\n\r\nhttps://www.bridgeport.it/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Bridgeport SpA.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "SH Hoteles (Spain)",
-        "discovered": "2026-06-15 18:18:42.551316",
-        "description": "This chain operates various urban and beach properties primarily in the Valencia and Alicante regions.\r\n\r\nKey Properties:\r\nSH Valencia Palace: A 5-star hotel located near the city center of Valencia.\r\nSH Villa Gadea: A luxury resort in Altea known for its extensive Thalasso-Spa facilities.\r\nSH Inglés: A boutique hotel situated in a renovated 18th-century palace in Valencia's historical center.\r\nOther locations: Includes properties in Jávea, Denia, and Gandía",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/SH Hoteles (Spain).png",
-        "group_name": "deadlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Bombas Ideal",
-        "discovered": "2026-06-15 18:17:57.850590",
-        "description": "Bombas Ideal is a Spanish manufacturer established in 1902 specializing in water pumps and pressure systems for agricultural, industrial, and fire protection applications. Based in Valencia, the company offers a range of vertical, submerged, and solar pumping solutions with international operations.\r\n\r\nhttps://www.bombasideal.com",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Bombas Ideal.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ring Textile Production RTP SRL",
-        "discovered": "2026-06-15 18:17:31.270485",
-        "description": "rtpbz.ro is the official domain for Ring Textile Production RTP SRL, a Romanian textile manufacturing company based in Buzău.\r\n\r\nIndustry: Manufacture of outerwear and tricot clothing, specializing in women's nightwear, underwear, and cotton/linen apparel.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Ring Textile Production RTP SRL.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ADM Value Barcelona",
-        "discovered": "2026-06-15 18:16:20.076129",
-        "description": "ADM Value is a leading international company specializing in outsourced customer relationship management (CRM) and Business Process Outsourcing (BPO)\r\n\r\nhttps://admvalue.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/ADM Value Barcelona.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Consulting Valladolid",
-        "discovered": "2026-06-15 18:15:51.602675",
-        "description": "Consulting Valladolid S.A. is a professional firm with over 40 years of experience providing comprehensive legal, tax, labor, and accounting services in Valladolid, Spain. The firm utilizes advanced technology to deliver tailored advisory solutions for both companies and individuals\r\n\r\nhttps://consultingvalladolid.es/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Consulting Valladolid.png",
-        "group_name": "deadlock",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "ONE Contact",
-        "discovered": "2026-06-15 18:15:24.146173",
-        "description": "ONE Contact is a Swedish-managed contact center located in Barcelona, Spain, offering customer service, telemarketing, and retention strategies targeted at the Scandinavian market. Services include 1st/2nd line support and digital customer service solutions, with a physical office located on Calle Padilla in Barcelona.\r\n\r\nhttps://onecontact.se/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/ONE Contact.png",
-        "group_name": "deadlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Elmoris",
-        "discovered": "2026-06-15 18:14:59.006762",
-        "description": "Founded in 1996 in Vilnius, Lithuania, UAB Elmoris is a major manufacturer specializing in light metal packaging and \"twist-off\" lug caps for the food industry. The company is noted for producing PVC-free, environmentally friendly caps and providing metal printing services, holding AEO certification for international trade.\r\n\r\nhttps://www.elmoris.lt/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Elmoris.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Gerusia S.L.",
-        "discovered": "2026-06-15 18:14:30.671035",
-        "description": "Gerusia S.L., a Spanish service company headquartered in Oviedo, Asturias. Founded in 1995 and managed by women, the company provides a wide range of cleaning, auxiliary, and social-sanitary services for both public and private sectors throughout the Asturias region.\r\n\r\nhttps://gerusia.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Gerusia SL.png",
-        "group_name": "deadlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Maxplast AND Senoco",
-        "discovered": "2026-06-15 18:09:50.297407",
-        "description": "Senoco Tekstil Sanayi ve Ticaret A.Ş., a Turkish company specializing in the production of nonwoven fabrics.\r\n\r\nhttps://senoco.com.tr/\r\n\r\n\r\nMaxplast is a Turkish manufacturing company based in Gaziantep that specializes in plastic packaging and houseware solutions. Founded in 2016, the company produces a wide range of PET and PE containers for various industries, including food, cosmetics, agriculture, and chemistry.\r\n\r\nhttps://www.maxplast.com.tr/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Maxplast AND Senoco.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Grupo Mercurio",
-        "discovered": "2026-06-15 18:09:19.911741",
-        "description": "Grupo Mercurio is a leading Mexican business conglomerate primarily recognized for its dominance in the bicycle and sports industry. Based in San Luis Potosí, the group operates one of the largest bicycle manufacturing plants in Mexico.\r\n\r\nhttps://www.grupomercurio.mx/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Grupo Mercurio.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Zaffrani Srl",
-        "discovered": "2026-06-15 18:08:54.086352",
-        "description": "Zaffrani Srl, an Italian manufacturer specializing in advanced agricultural machinery. Founded in 1959, the company is headquartered in the Marche region of Italy and has become a global leader in crop harvesting and drying technology.\r\n\r\nhttps://www.zaffrani.it/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Zaffrani Srl.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Eko-Flor Plus d.o.o.",
-        "discovered": "2026-06-15 18:08:24.712581",
-        "description": "Eko-Flor Plus d.o.o. is the largest private waste management company in Croatia. Headquartered in Oroslavje, the company specializes in collecting, sorting, and processing municipal and non-hazardous waste.\r\n\r\nhttps://eko-flor.hr/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Eko-Flor Plus doo.png",
-        "group_name": "deadlock",
-        "sector": "Utilities"
-    },
-    {
-        "post_title": "VBW Makelaars and Taxateurs",
-        "discovered": "2026-06-15 18:08:02.837089",
-        "description": "VBW Makelaars & Taxateurs specializes in real estate and property valuations in the Netherlands. Real estate agency and certified appraisers\r\n\r\nhttps://www.vbw.nl/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/VBW Makelaars and Taxateurs.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Industrie Tecnologiche it",
-        "discovered": "2026-06-15 18:07:36.660873",
-        "description": "Industrie Tecnologiche is a software development center for the food industry.\r\n\r\nhttps://www.industrietecnologiche.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Industrie Tecnologiche it.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "LIVISTO",
-        "discovered": "2026-06-15 18:06:25.598577",
-        "description": "LIVISTO is an international pharmaceutical company with extensive experience in the veterinary market.\r\n\r\nhttps://www.livisto.pl/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/LIVISTO.png",
-        "group_name": "deadlock",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Anidaport - Investimentos Imobiliários Lda., Lisbon, Portugal",
-        "discovered": "2026-06-15 18:06:05.001152",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Anidaport - Investimentos Imobiliários Lda, Lisbon, Portugal.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Optimal Care SA",
-        "discovered": "2026-06-15 18:05:39.992307",
-        "description": "Optimal Care Sociedad Anonima manufactures cleaning applications. The Company offers wet wipes for personal care, baby wipes, make-up remover, multipurpose wipes, and cleaning applications. Optimal Care serves customers in Spain.\r\n\r\nhttps://www.optimalcaresa.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Optimal Care SA.png",
-        "group_name": "deadlock",
-        "sector": "Services"
-    },
-    {
-        "post_title": "BARCELONA URBAN PROPERTY CHAMBER",
-        "discovered": "2026-06-15 18:05:13.118132",
-        "description": "https://cpubcn.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/BARCELONA URBAN PROPERTY CHAMBER.png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Židlochovice city",
-        "discovered": "2026-06-15 18:04:42.964150",
-        "description": "Internal city administration documents have been leaked. Personal data from the database will be sold on darknet forums. Mayor 'Jan Vitula' claims the attack was prevented and no data was stolen. An investigation has been launched with the police, and countermeasures are being taken. =) xD\r\n\r\n\r\nhttps://www.zidlochovice.cz/\r\n\r\n\r\nIn press:\r\n\r\nhttps://www.denik.cz/regiony/zidlochovice-hackeri-kyberneticky-utok-vykupne-data-software-ransomware-kldr.html\r\n\r\nhttps://www.irozhlas.cz/zpravy-domov/poslete-bitcoiny-nebo-vas-nepustime-k-datum-urad-v-zidlochovicich-zjistuje-skody_2603172012_bva\r\n\r\nhttps://www.zidlochovice.cz/cs/aktuality/dulezite-upozorneni-mimoradne-uzavreni-meu.html\r\n\r\nOver 150 gigabytes of internal data",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Židlochovice city.png",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Werken Química Brasil S.A.",
-        "discovered": "2026-06-15 18:04:13.447723",
-        "description": "Werken Química Brasil S.A. is a company specializing in the development and supply of chemical products, headquartered in Indaial, Santa Catarina. It operates primarily within the textile industry, offering solutions for pretreatment, dyeing, printing, yarn lubrication, and effluent treatment, with a focus on functional technologies.\r\n\r\nhttps://www.werken.com.br/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Werken Química Brasil SA.png",
-        "group_name": "deadlock",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "3Gi Solutions, is an IT Services Provider located in Montreal, Quebec.",
-        "discovered": "2026-06-15 18:03:49.363446",
-        "description": "https://www.3gisolutions.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/3Gi Solutions, is an IT Services Provider located in Montreal, Quebec.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Güven Mühendislik Makina",
-        "discovered": "2026-06-15 18:02:38.202650",
-        "description": "https://gmm.com.tr/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Güven Mühendislik Makina.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Abhay Prabhavana",
-        "discovered": "2026-06-15 18:01:40.565008",
-        "description": "https://abhayprabhavana.org/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Abhay Prabhavana.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quetzal Química",
-        "discovered": "2026-06-15 18:01:17.833885",
-        "description": "https://quetzalquimica.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Quetzal Química.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CIATI",
-        "discovered": "2026-06-15 18:00:54.992744",
-        "description": "CIATI is a technology center dedicated to providing analytical services, technical assistance, and research and development for the food, geochemistry, and environmental industries.\r\n\r\nhttps://ciati.com.ar",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/CIATI.png",
-        "group_name": "deadlock",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "ACU - The Automobile Club of Uruguay",
-        "discovered": "2026-06-15 18:00:24.190650",
-        "description": "https://acu.com.uy",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/ACU - The Automobile Club of Uruguay.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DOCTUS USA Inc",
-        "discovered": "2026-06-15 17:59:47.267860",
-        "description": "Doctus offers top-tier medical records services in the USA, specializing in the management and organization of medical documentation.\r\n\r\nhttps://www.doctususa.com",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/DOCTUS USA Inc.png",
-        "group_name": "deadlock",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "WH Müller",
-        "discovered": "2026-06-15 17:59:06.896775",
-        "description": "WH Müller is a family business in the field of electrical engineering and IT technology.\r\n\r\nhttps://www.whm.de/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/WH Müller.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Grupo Vanguardia",
-        "discovered": "2026-06-15 17:58:27.310184",
-        "description": "Grupo Vanguardia is an automotive group\r\n\r\nhttps://www.grupovanguardia.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Grupo Vanguardia.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "WiBeats S.r.l. ",
-        "discovered": "2026-06-15 17:58:05.235251",
-        "description": "WIBEATS is one among the last few independent Italian Asset Management and Loans Service group, specialised performing and non performing real estate.\r\n\r\nhttps://www.wibeats.it/\r\n\r\n\r\nOver 150 gigabytes of internal email datastore were stolen from this company. more than 50 GB of internal sensitive data containing contracts and official papers containing construction and renewal permits",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/WiBeats Srl .png",
-        "group_name": "deadlock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Schlenker and Cantwell, P.A.",
-        "discovered": "2026-06-15 17:57:35.869238",
-        "description": "Schlenker & Cantwell, P.A. is a certified public accounting firm based in the USA, offering services such as tax preparation and planning, auditing and assurance, bookkeeping, payroll, financial reporting, consulting, and estate-trust management.\r\n\r\nhttps://cpasch.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Schlenker and Cantwell, PA.png",
-        "group_name": "deadlock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "LA SEVILLANITA SRL",
-        "discovered": "2026-06-15 17:57:03.572679",
-        "description": "LA SEVILLANITA is the leading transport company in Argentina.\r\n\r\nhttps://www.lasevillanita-online.com/",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/LA SEVILLANITA SRL.png",
-        "group_name": "deadlock",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "The Morton Grove Park District",
-        "discovered": "2026-06-15 17:55:57.653992",
-        "description": "The Morton Grove Park District (MGPD) is a separate municipal agency established in 1951, governed by five elected commissioners and subject to Illinois state laws.\r\n\r\nhttps://mortongroveparks.com/\r\n\r\n\r\nTheir motto is:\r\nEveryone who lives in, works in, or visits Morton Grove has constitutional rights, no matter their citizenship or immigration status. The Village is committed to making sure every person feels safe, supported, and respected.\r\n\r\nMore than 50 GB of data containing personal and sensitive information belonging to both internal employees and the organization's clients and suppliers.\r\nDocuments on financial plans and internal policies are protected by a non-disclosure policy. (Including racist and sexist insights)\r\nWe invite all journalists, lawyers, and law enforcement agencies to review this information.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/The Morton Grove Park District.png",
-        "group_name": "deadlock",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Weinberg ''93 Építő Kft.",
-        "discovered": "2026-06-15 17:55:22.920918",
-        "description": "Weinberg ''93 Építő Kft., a prominent Hungarian construction and steel fabrication company.\r\n\r\nTax number 11069430205\r\nRegistration number 05 09 002902\r\nFull name Weinberg ''93 Építő Kft.\r\nhttps://weinberg.hu/\r\n\r\n\r\nOverview:\r\nFounded in 1993 and headquartered in Sбrospatak, it is a 100% privately owned Hungarian company.\r\n\r\nCore Services:\r\nThe firm specializes in general contracting and the manufacture of complex steel structures.\r\n\r\nMajor Projects:\r\nThey have handled significant industrial developments, including:\r\n- Volvo Trucks Hungary: Completed a 5,500 mІ advanced truck center in Ecser.\r\n- Continental Automotive: Construction of electronics manufacturing plants.\r\n- East Gate PRO Business Park: Developed BREEAM-certified sustainable warehouses.\r\n- Becton Dickinson: Expansion of a major syringe factory in Hungary.\r\n\r\nRecognitions:\r\nThe company has received numerous awards, such as the Lechner Цdцn Award (2024) and the Steel Structure Award (2022).\r\n\r\nOver 650 gigabytes of sensitive internal data were stolen from this company: all commercial information about contractors, information about specialized construction technologies and metal structure production, internal financial transactions, and operations demonstrating corruption in construction projects.\r\nWe invite all journalists, lawyers, and law enforcement agencies to review this information.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Weinberg ''93 Építő Kft.png",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Catcorp",
-        "discovered": "2026-06-15 17:52:21.747035",
-        "description": "Business direction:\r\nMew\r\nmew\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/deadlock/Catcorp.png",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ktunaxa Nation Council: Breach Highlights Growing Risks Facing Public Institutions",
-        "discovered": "2026-06-15 17:45:40.973480",
-        "description": "#Leaknet #BreachAlert #PrivateData #SystemCompromised #Ktunaxa #KtunaxaNation #InfoLeak #PrivacyRisk",
-        "link": "view_article.php?article=rB84IUqpjZIAf1s3c95pv5mCV0yBnIlmojPuwxnVBslD3Kovptk5x3nVBxtYG4IC",
-        "magnet": null,
-        "screen": "screenshots/leaknet/Ktunaxa Nation Council: Breach Highlights Growing Risks Facing Public Institutions.png",
-        "group_name": "leaknet",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Röben Tonbaustoffe GmbH",
-        "discovered": "2026-06-15 17:45:34.171427",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "hccs.edu",
-        "discovered": "2026-06-15 16:44:40.035932",
-        "description": "Hundreds of thousands of student records containing full name, home address, phone, email, date of birth, gender, ethnicity, enrollment status, GPA, major, and student ID across all campuses. Daily and full student roster exports library credentials, PINs, and @student[.hccs[.edu accounts. Over 12,000 financial aid and bursar reports including FAFSA/ISIR suspense data with names, birthdates, emails, phones, and home addresses. Class rosters with birthdates, grades, academic programs, and contact information for tens of thousands of enrolled students per term. Over 344,000 international student documents including SEVIS I-20 forms, visa applications, passports, bank statements, tax returns, immigration affidavits, and acceptance letters. Over 14,000 student immunization and vaccination records including meningitis compliance documentation. Over 15,000 additional health and immunization documents across report archives and A LOT more was compromised.  This is a final warning to reach out by 18 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "kodak.com",
-        "discovered": "2026-06-15 16:44:35.924776",
-        "description": "Over 2.2 million records containing customer PII and other internal corporate data was compromised.  This is a final warning to reach out by 18 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Deep Well Services",
-        "discovered": "2026-06-15 16:44:34.618064",
-        "description": "Over 7k records containing customer PII and other internal corporate data was compromised.  This is a final warning to reach out by 18 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Sysco Corporation",
-        "discovered": "2026-06-15 16:44:33.428831",
-        "description": "Over 61 million Salesforce records across several tables, some containing customer data/PII, employee data, and other internal corporate data was compromised.  This is a final warning to reach out by 18 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Bd",
-        "discovered": "2026-06-15 15:44:36.375854",
-        "description": "Organization with 772 emails extracted. Domain: bd.zh.ch",
-        "link": "/company/bakaxah/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Bd.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "NSW Government",
-        "discovered": "2026-06-15 14:50:36.702012",
-        "description": "NSW Government is the administrative government for the state of New South Wales, providing services including Education, Health and Planning and Environment. They are based in Sydney, Australia - we exf only sensitive data from network, contact us for deal, make sure that any leak can lead you to legal actions and trust lost, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Government"
     }
 ]
