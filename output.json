@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "seinordovest.it",
+        "discovered": "2026-06-17 22:50:59.991805",
+        "description": "Headquartered in the Piedmont region, the company operates as a public utility serving numerous municipalities in northwestern Italy. Its mission …",
+        "link": "/blog/post/seinordovestit/",
+        "magnet": null,
+        "screen": "screenshots/safepay/seinordovestit.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "harcourts.net",
+        "discovered": "2026-06-17 22:50:59.097609",
+        "description": "Founded in 1888 in Wellington, New Zealand, the company has grown from a local real estate agency into a global …",
+        "link": "/blog/post/harcourtsnet/",
+        "magnet": null,
+        "screen": "screenshots/safepay/harcourtsnet.png",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "zaunsysteme.de",
+        "discovered": "2026-06-17 22:50:57.957561",
+        "description": "Operating within Germany’s construction materials and perimeter security sector, the company provides a wide range of products, including double-wire mesh …",
+        "link": "/blog/post/zaunsystemede/",
+        "magnet": null,
+        "screen": "screenshots/safepay/zaunsystemede.png",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "brscappuccio.it",
+        "discovered": "2026-06-17 22:50:56.389377",
+        "description": "Headquartered in Casandrino, near Naples in the Campania region, the company specializes in the distribution and supply of medical devices, …",
+        "link": "/blog/post/brscappuccioit/",
+        "magnet": null,
+        "screen": "screenshots/safepay/brscappuccioit.png",
+        "group_name": "safepay",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "gut-heckenhof.de",
+        "discovered": "2026-06-17 22:50:53.931494",
+        "description": "Established in 1992, the company operates a four-star hotel and one of the largest golf facilities in the region. The …",
+        "link": "/blog/post/gut-heckenhofde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/gut-heckenhofde.png",
+        "group_name": "safepay",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Prince George County",
+        "discovered": "2026-06-17 20:46:57.588327",
+        "description": "",
+        "link": "/r/d9994b0916a4c00702b707a2de2a28cb6d8b7a12",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Prince George County.png",
+        "group_name": "ransomhouse",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Greg Crosslin",
+        "discovered": "2026-06-17 20:46:55.148410",
+        "description": "",
+        "link": "topic.php?id=qExwMmXjiR18a",
+        "magnet": null,
+        "screen": "screenshots/play/Greg Crosslin.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Integrated Technologies",
+        "discovered": "2026-06-17 20:46:52.950795",
+        "description": "",
+        "link": "topic.php?id=ebJzrPyFafAaz9",
+        "magnet": null,
+        "screen": "screenshots/play/Integrated Technologies.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "eurOptimum",
+        "discovered": "2026-06-17 20:46:50.253594",
+        "description": "",
+        "link": "topic.php?id=aMF8umq3LV9DKN",
+        "magnet": null,
+        "screen": "screenshots/play/eurOptimum.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Great Foods",
+        "discovered": "2026-06-17 20:46:33.873436",
+        "description": "greatfoods.com.eg - Great Foods  is a major Egyptian food manufacturing and distribution company. Established in 1972 and a proud member of the El Naggar Group, it employs over 3,700 people and exports over 150 products to more than 40 countries.",
+        "link": "/post/02f0cba918b14eb0c57eb3a48cadc1cf",
+        "magnet": null,
+        "screen": "screenshots/lamashtu/Great Foods.png",
+        "group_name": "lamashtu",
+        "sector": "Agriculture"
+    },
+    {
         "post_title": "Smith Filter",
         "discovered": "2026-06-17 15:47:37.163731",
         "description": "Smith Filter is a leading manufacturer of high-quality air and grease filters, established in 1939. They offer a wide range of products including permanent, disposable, and high-efficiency filters, catering to both OEM and custom orders.We will upload 10gb of corporate data soon. Employee personal information (passports, SSNs, DLsand other docs scans), credit cards information, projects info, clients information, NDAs, etc.",
@@ -78,25 +178,5 @@
         "screen": null,
         "group_name": "shinyhunters",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Promepla",
-        "discovered": "2026-06-16 20:48:02.395563",
-        "description": "",
-        "link": "/r/9bebea325544c424da8c50c4608fe50ec466fabf",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Promepla.png",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "jasperplastics.info",
-        "discovered": "2026-06-16 19:48:04.755584",
-        "description": "",
-        "link": "/blog/disclosures/6a317d755ae71db30c5cc0e2",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/jasperplasticsinfo.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
