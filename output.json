@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "Smith Filter",
+        "discovered": "2026-06-17 15:47:37.163731",
+        "description": "Smith Filter is a leading manufacturer of high-quality air and grease filters, established in 1939. They offer a wide range of products including permanent, disposable, and high-efficiency filters, catering to both OEM and custom orders.We will upload 10gb of corporate data soon. Employee personal information (passports, SSNs, DLsand other docs scans), credit cards information, projects info, clients information, NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Chebib Control",
         "discovered": "2026-06-17 13:45:37.334553",
         "description": "Chebib Control is a company specializing in the development of management systems and intelligent automation for the hospitality industry. For over 20 years, it has been helping optimize the operations of motels, hotels, and condominiums across the country.Serving over 1,000 active clients in over 500 municipalities in Brazil.Core product: Offers property management systems (PMS) and automation solutions that help automate daily operations, enhance security, and improve the guest experience.One of its key features is integration with IP cameras for photographic recording of vehicle entry and exit, which, according to customers, serves as an effective fraud prevention tool.- SQL database tables- Client data (names, booking dates, hotel names, email addresses, CPFs, phone numbers, and other metadata)\nhttps://chebib.com.br/",
@@ -87,106 +97,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/jasperplasticsinfo.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ralph Lauren",
-        "discovered": "2026-06-16 17:48:08.034769",
-        "description": "Over 220GB of data containing customer PII, purchase/trasnaction info, future unreleased releases from 2027 and onward, and more was compromised. The Company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "framesiprofessional.com",
-        "discovered": "2026-06-16 17:47:39.359261",
-        "description": "",
-        "link": "/blog/disclosures/6a31672f5ae71db30c5a0b52",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/framesiprofessionalcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TINYpulse NINTENDO BREACH (nintendo.com)",
-        "discovered": "2026-06-16 16:48:05.996122",
-        "description": "This will be quick. You don't even want to read the private messages as some will be embarrasing. Some people are confused but this breach doesn't affect you unless if you use tinypulse and work for nintendo. There will be more victims coming soon. If you get a email by us. by us we mean are only email on are leak site, then respond or it will get leaked. We will send file trees for confirmation to prove we actually breached your company. It's pretty funny how companies are defending themselves and when the truth comes out now they want to stay quiet. We have no further questions to answer. This is a warning to all companies if you get breached by us, It's best to contact us especially if we show you the file size. This was true negligence and now you will likely face a massive lawsuit, have fun tinypulse and told you this would be quick.\nuncompressed file size: (856MB)\ncompressed size: (6.89MB)\nThe included data includes:\n- full name, first name, last name, email (the w9 is only one and multiple invoices)\n- Private Employee Chats: Direct internal messages and conversations between workers.\n-\nMar 10, 2025 Sure, it's Knowledge Team—we've needed more content creators for years, but it seems all we can ever get approved are more associates, often temporarily. This helps some, and I know there are vague rumors that maybe we will be able to swap our associates over to NOA employees in the future, but that's not what we need—we need more writers so that we can distribute the primary work among more people.\noverworking chat: Sep 22, 2025 How happy are you at work? 3 I'm generally extremely content, but the overwhelming number of overlapping high-priority projects and a constant stream of meetings, has left me with little to no available occupancy. This has made it tough to manage everything effectively and still make time for innovation.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shadowbyt3$",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Novo Nordisk",
-        "discovered": "2026-06-16 15:46:05.368780",
-        "description": "",
-        "link": "/novo/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Novo Nordisk.png",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tecfi SpA",
-        "discovered": "2026-06-16 15:46:01.900500",
-        "description": "Tecfi is a company specialising in the design, production and sale of fastening systems. Going into more detail, three production lines can be highlighted. ▪ Pl...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Allan Brothers Fruit",
-        "discovered": "2026-06-16 15:45:57.684146",
-        "description": "Allan Brothers, Inc. — a third-generation, family-owned tree-fruit operation headquartered in Naches, Washington. Allan Brothers packs and ships apples and cherries from a 300,000 sq ft cold-storage facility, employing roughly 45 full-time staff and up to 2,000 seasonal workers during peak harvest.\n\nEight server volumes:\n\n14,228 employee records from ADP Workforce Now — names, dates of birth, phone numbers, gender, employment history, photos — covering every person who has ever worked at Allan Brothers, including seasonal cherry pickers, H-2A visa workers, and office staff.\nW-2 tax filings with full Social Security Numbers for employees across eight legal entities (ALLAN, ABMEXICO, ABSAGE, ABSAGEMOOR, ABVINEYARD, ABAG, ABSHELTON, ABFROST).\nDirect deposit forms with bank routing numbers and account numbers for named individuals — the raw ingredients for ACH fraud.\nH-2A visa worker tracking spreadsheets listing which workers have or are missing Social Security Numbers, plus I-9 employment eligibility audits — exposing immigration status for the most vulnerable members of the workforce.\nA complete Oracle RMAN database backup of the Famous Software production system — the company's grower settlement, customer pricing, and lot-tracking engine.\n1.3 GB of employee badge photos — facial images linked to names and employee IDs for hundreds of workers.\nCOBOL-era accounting databases spanning 8 legal entities — GL, AP, AR, payroll, and W-2 filing data going back years.\nOSHA incident logs naming workers who sustained injuries, with injury descriptions and treatment details.",
-        "link": "/blog/allan-brothers-fruit-a383ba98",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Diamond Truck Centres",
-        "discovered": "2026-06-16 15:45:55.358384",
-        "description": "Diamond Truck Centres — Western Canada's largest International Trucks dealership group (9 dealer + 13 sub-dealer locations, ~$63M revenue, 250 employees).\n\nThe dataset spans 17 years of unbroken operational history (2009–2026) and represents the full shared-drive contents of the entire company: HR, payroll, accounting, military contracts, and individual employee profiles.\n\nThe exposed material includes:\n\n53 customer Pre-Authorized Debit (PAD) forms — full bank account numbers, transit numbers, institution numbers, and authorized signatures for commercial customers including the City of Saskatoon.\n17 years of employee payroll data — wages, SINs (implied), pension contributions, benefits, termination calculations for every employee since 2009.\nBiometric data — ADP fingerprint timeclock enrollment records for all locations.\nImmigration documents for 6+ foreign workers — LMIA applications, offers of employment, provincial nominee support docs.\nSystem credentials in plaintext — ADP timeclock passwords, manager training logins, safe combination.\nMilitary contract documentation — Diamond's Controlled Goods Security Plan (ITAR/CGP), MSVS delivery matrices, military vehicle VINs, CFB Edmonton and RCMP vehicle program data.\n289 GB of daily bank deposit scans (2017–2026) — customer cheque images with names, amounts, and account details.\nA complete Outlook PST archive (166 MB) — years of internal email likely containing credentials and customer data.",
-        "link": "/blog/diamond-truck-centres-98cd07d1",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Sumitomo Electric Bordnetze",
-        "discovered": "2026-06-16 15:45:52.297692",
-        "description": "Sumitomo Electric Bordnetze SE (SEBN) — a Wolfsburg-headquartered subsidiary of Sumitomo Electric Industries (TSE:5802, ~$31B group revenue), employing approximately 40,000 people across 14 countries. Exfiltrated 1.1 terabytes of data from five manufacturing sites.\n\nSEBN Moldova (103 GB) — HR, payroll, personal tax records, competition-council litigation files, home directories\nSEBN Ukraine (115 GB) — HR/salary, Audi B9 project data, process documentation, including displaced-worker records for Ukrainian IDPs\nSEBN Tunisia — Fejja (191 GB + 493 GB shared) — passport copies, email archives (671 MB PST), quality/FMEA data, finance\nSEBN Slovakia (268 GB) — the crown jewel: Citibank corporate banking infrastructure including the TESTKEY authentication system, IBAN registries, daily bank statements, SAP salary-payment files, and years of department email archives\nThe dataset contains 173,000 Excel files, 149,000 PDFs, 2,500 CAD engineering drawings, 2,500 Outlook messages, 1,500 FMEA/PPAP quality files, and 9 Outlook PST archives.",
-        "link": "/blog/sumitomo-electric-bordnetze-1b202d14",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Insite Architects",
-        "discovered": "2026-06-16 15:45:49.784582",
-        "description": "InSite Architects was founded in 2002 as a firm dedicated to the design and planning for seniorand affordable housing. It is our belief that every project is as individual as the client, program, and site.We will upload 65gb of corporate data soon. Employee personal information (passports, SSNs, DLsand other personal docs), credit cards information, projects, clients and partners info, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Golfview Developmental Center",
-        "discovered": "2026-06-16 14:48:24.488623",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/blog?uuid=082cc0ec-36b4-46e9-aaf5-d97d8707252d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Golfview Developmental Center.png",
-        "group_name": "qilin",
         "sector": "Unknown"
     }
 ]
