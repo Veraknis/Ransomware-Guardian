@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "legendsmn(Blue Ox, Paul Bunyan, Lumberjack Electric)",
+        "discovered": "2026-06-18 22:48:38.951940",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "dean cosmetic dentistry",
+        "discovered": "2026-06-18 22:48:34.973365",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ra-vogeler.de",
+        "discovered": "2026-06-18 22:25:15.031071",
+        "description": "Country: germany | Size: 1.1TB | Private | Views: 1",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/cloak/ra-vogelerde.png",
+        "group_name": "cloak",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "THL PROJECT MANAGEMENT SDN. BHD.",
+        "discovered": "2026-06-18 20:50:42.943174",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=0f345694-fa46-46c5-a4be-a5a22d1a039e",
+        "magnet": null,
+        "screen": "screenshots/qilin/THL PROJECT MANAGEMENT SDN BHD.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ATCOM Outsourcing",
+        "discovered": "2026-06-18 19:45:37.012906",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=9675a9d6-195d-452e-8110-5952b5cdf7bb",
+        "magnet": null,
+        "screen": "screenshots/qilin/ATCOM Outsourcing.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Homes By J Anthony",
+        "discovered": "2026-06-18 19:45:34.712580",
+        "description": "Construction",
+        "link": "/site/blog?uuid=77f7cac4-5373-48fc-94f2-681e1b7f711d",
+        "magnet": null,
+        "screen": "screenshots/qilin/Homes By J Anthony.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Skupina Don Don - GRUPO BIMBO",
         "discovered": "2026-06-18 17:48:11.424136",
         "description": "Food & Beverage",
@@ -638,105 +698,5 @@
         "screen": "screenshots/inc ransom/neuwogesde.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "seinordovest.it",
-        "discovered": "2026-06-17 22:50:59.991805",
-        "description": "Headquartered in the Piedmont region, the company operates as a public utility serving numerous municipalities in northwestern Italy. Its mission …",
-        "link": "/blog/post/seinordovestit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/seinordovestit.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "harcourts.net",
-        "discovered": "2026-06-17 22:50:59.097609",
-        "description": "Founded in 1888 in Wellington, New Zealand, the company has grown from a local real estate agency into a global …",
-        "link": "/blog/post/harcourtsnet/",
-        "magnet": null,
-        "screen": "screenshots/safepay/harcourtsnet.png",
-        "group_name": "safepay",
-        "sector": "Government"
-    },
-    {
-        "post_title": "zaunsysteme.de",
-        "discovered": "2026-06-17 22:50:57.957561",
-        "description": "Operating within Germany’s construction materials and perimeter security sector, the company provides a wide range of products, including double-wire mesh …",
-        "link": "/blog/post/zaunsystemede/",
-        "magnet": null,
-        "screen": "screenshots/safepay/zaunsystemede.png",
-        "group_name": "safepay",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "brscappuccio.it",
-        "discovered": "2026-06-17 22:50:56.389377",
-        "description": "Headquartered in Casandrino, near Naples in the Campania region, the company specializes in the distribution and supply of medical devices, …",
-        "link": "/blog/post/brscappuccioit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/brscappuccioit.png",
-        "group_name": "safepay",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "gut-heckenhof.de",
-        "discovered": "2026-06-17 22:50:53.931494",
-        "description": "Established in 1992, the company operates a four-star hotel and one of the largest golf facilities in the region. The …",
-        "link": "/blog/post/gut-heckenhofde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/gut-heckenhofde.png",
-        "group_name": "safepay",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Prince George County",
-        "discovered": "2026-06-17 20:46:57.588327",
-        "description": "",
-        "link": "/r/d9994b0916a4c00702b707a2de2a28cb6d8b7a12",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/Prince George County.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Greg Crosslin",
-        "discovered": "2026-06-17 20:46:55.148410",
-        "description": "",
-        "link": "topic.php?id=qExwMmXjiR18a",
-        "magnet": null,
-        "screen": "screenshots/play/Greg Crosslin.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Integrated Technologies",
-        "discovered": "2026-06-17 20:46:52.950795",
-        "description": "",
-        "link": "topic.php?id=ebJzrPyFafAaz9",
-        "magnet": null,
-        "screen": "screenshots/play/Integrated Technologies.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "eurOptimum",
-        "discovered": "2026-06-17 20:46:50.253594",
-        "description": "",
-        "link": "topic.php?id=aMF8umq3LV9DKN",
-        "magnet": null,
-        "screen": "screenshots/play/eurOptimum.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Great Foods",
-        "discovered": "2026-06-17 20:46:33.873436",
-        "description": "greatfoods.com.eg - Great Foods  is a major Egyptian food manufacturing and distribution company. Established in 1972 and a proud member of the El Naggar Group, it employs over 3,700 people and exports over 150 products to more than 40 countries.",
-        "link": "/post/02f0cba918b14eb0c57eb3a48cadc1cf",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Great Foods.png",
-        "group_name": "lamashtu",
-        "sector": "Agriculture"
     }
 ]
