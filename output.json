@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Sparkle Pools",
+        "discovered": "2026-06-19 20:49:39.636635",
+        "description": "Construction",
+        "link": "/site/blog?uuid=839d3cab-8142-408b-b9ce-5e752577dc28",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sparkle Pools.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Athens Orthopedic Clinic",
+        "discovered": "2026-06-19 20:13:28.622639",
+        "description": "athensorthopedicclinic.com zoominfo.com/c/athens-orthopedic-clinic-greensboro/351501009 Athens Orthopedic Clinic, founded in 1966, is a leading specialized medical practice based in Athens, Georgia.The clinic provides specialized orthopedic care, including joint and spine treatments, imaging, and urgent care across multiple local facilities.It is widely recognized for its innovative solutions and patient-centered approach, actively serving the Northeast Georgia community",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "mlit.com.my UPDATE-FULL DATA DUMP 10GB",
+        "discovered": "2026-06-19 19:47:00.519847",
+        "description": "FULL DATA DUMP . The compromised data includes highly sensitive internal operations and financial records. Among the leaked files are complete individual Campaign Profit and Loss (PnL) statements, detailed revenue sheets, clawbacks, and general ledger accounts for several linked entities, including Salesworks Pte Ltd Taiwan Branch and Shaves2u HK Limited. Additionally, we have extracted complete directory trees and file structures from the internal network shares and remote desktop sessions, revealing thousands of corporate folders such as JAG Group, SWGP Excel Import, and various financial databases.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Roth Industries",
+        "discovered": "2026-06-19 19:46:57.713919",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=833d8f46-32fd-48f7-b374-33325bdd1015",
+        "magnet": null,
+        "screen": "screenshots/qilin/Roth Industries.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PJ Daly Contracting",
+        "discovered": "2026-06-19 19:46:55.644082",
+        "description": "Construction",
+        "link": "/site/blog?uuid=0d52d511-664c-4cfb-b224-14bb555b7b01",
+        "magnet": null,
+        "screen": "screenshots/qilin/PJ Daly Contracting.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Desert Micro",
         "discovered": "2026-06-19 16:48:09.473790",
         "description": "DesertMicro.net is a Software & Internet based company located in Jacksonville, Florida, United States with over 25 - 100 employees, data included large sums of costumers data who use the company software service, such curbside waste company invoices and Storage data, foothillsSanitation + GreenEnviromnetal + InlandService + QC + FusionSite companies the same, credit cards Details and payments billings Documents, databases backups and more - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -98,35 +148,5 @@
         "screen": "screenshots/cloak/ra-vogelerde.png",
         "group_name": "cloak",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "THL PROJECT MANAGEMENT SDN. BHD.",
-        "discovered": "2026-06-18 20:50:42.943174",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=0f345694-fa46-46c5-a4be-a5a22d1a039e",
-        "magnet": null,
-        "screen": "screenshots/qilin/THL PROJECT MANAGEMENT SDN BHD.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ATCOM Outsourcing",
-        "discovered": "2026-06-18 19:45:37.012906",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=9675a9d6-195d-452e-8110-5952b5cdf7bb",
-        "magnet": null,
-        "screen": "screenshots/qilin/ATCOM Outsourcing.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Homes By J Anthony",
-        "discovered": "2026-06-18 19:45:34.712580",
-        "description": "Construction",
-        "link": "/site/blog?uuid=77f7cac4-5373-48fc-94f2-681e1b7f711d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Homes By J Anthony.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
