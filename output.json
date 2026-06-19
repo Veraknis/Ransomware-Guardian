@@ -1,5 +1,45 @@
 [
     {
+        "post_title": "Desert Micro",
+        "discovered": "2026-06-19 16:48:09.473790",
+        "description": "DesertMicro.net is a Software & Internet based company located in Jacksonville, Florida, United States with over 25 - 100 employees, data included large sums of costumers data who use the company software service, such curbside waste company invoices and Storage data, foothillsSanitation + GreenEnviromnetal + InlandService + QC + FusionSite companies the same, credit cards Details and payments billings Documents, databases backups and more - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hagerman & Company",
+        "discovered": "2026-06-19 16:47:48.939239",
+        "description": "Hagerman & Company — a 40-year-old Autodesk Platinum Partner headquartered in Mt. Zion, Illinois, serving 250+ enterprise customers across manufacturing, energy, defense, healthcare, and education.\nThe exposed dataset includes:\n\nComplete proprietary source code for 15+ commercial products including the HNC Licensing System (License Generator, License Server, License Manager) — enabling unlimited piracy of all Hagerman products.\n8+ plaintext database credentials in .udl files, including an Oracle SYS (DBA superuser) account with password \"Hagerman@1!\" reused across multiple systems.\nEngineering vault databases for 14+ critical infrastructure entities — NYPA (7 power plants including Niagara Falls), Kinder Morgan (Elba Island LNG terminal), HydroOne (Ontario electricity), Phillips 66, Chevron, and 8+ petroleum refineries.\nDefense/government data — NASA IT Security Requirements, Lockheed Martin configurations, Boeing-SVS vault data, JPL configurations.\nAzure DevOps transaction logs (1.6 GB) containing complete source code version history and potentially CI/CD deployment secrets.\nThird-party database credentials for Michigan State University (3 databases), Cal State Long Beach, and Beth Israel Deaconess Medical Center infrastructure.",
+        "link": "/blog/hagerman-company-7662c20a",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Optimum First Mortgage",
+        "discovered": "2026-06-19 14:47:52.029466",
+        "description": "Providing fast and reliable mortgage solutions, including home purchases and refinancing options",
+        "link": "Companies/optimumfirst",
+        "magnet": null,
+        "screen": "screenshots/pear/Optimum First Mortgage.png",
+        "group_name": "pear",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "KTR Real Estate Advisors",
+        "discovered": "2026-06-19 14:22:52.501000",
+        "description": "Real estate client database exposed.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/nd1hBWHK0LprsOgO5GDfsjkV35y484BCsxBOTed9oQYoDUrOtHZb92lpaLNnX3xhUWL1o2ca27l5a5OJ9xWC09YZG5rV1c5",
+        "magnet": null,
+        "screen": "screenshots/anubis/KTR Real Estate Advisors.png",
+        "group_name": "anubis",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Klue.com",
         "discovered": "2026-06-19 12:45:53.272418",
         "description": "As you've probably already heard, Klue.com has been impacted...",
@@ -88,105 +128,5 @@
         "screen": "screenshots/qilin/Homes By J Anthony.png",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "Skupina Don Don - GRUPO BIMBO",
-        "discovered": "2026-06-18 17:48:11.424136",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=0e8fef36-3e08-4921-abbd-08a017cb7aca",
-        "magnet": null,
-        "screen": "screenshots/qilin/Skupina Don Don - GRUPO BIMBO.png",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Lawson Roofing",
-        "discovered": "2026-06-18 16:47:07.153647",
-        "description": "Lawson Roofing\nLawson Roofing is a fourth-generation company based in San Francisco, CA, specializing in high-quality roofing and waterproofing systems for both commercial and residential projects.\n\n\n\nMore",
-        "link": "archive.php?company=257",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Lawson Roofing.png",
-        "group_name": "rhysida",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Makel Companies Group",
-        "discovered": "2026-06-18 16:47:04.903561",
-        "description": "Electronics",
-        "link": "/site/blog?uuid=14ac9d80-81f2-4563-a59c-2d835c918589",
-        "magnet": null,
-        "screen": "screenshots/qilin/Makel Companies Group.png",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "B & B Trading",
-        "discovered": "2026-06-18 16:47:01.382689",
-        "description": "Largest independent food wholesale distributors in New England",
-        "link": "Companies/bandbtrading",
-        "magnet": null,
-        "screen": "screenshots/pear/B & B Trading.png",
-        "group_name": "pear",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Release Marine, Inc.",
-        "discovered": "2026-06-18 16:46:58.189963",
-        "description": "Handmade sport fishing equipment and yacht furnishings",
-        "link": "Companies/releasemarine",
-        "magnet": null,
-        "screen": "screenshots/pear/Release Marine, Inc.png",
-        "group_name": "pear",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Kirbor Homes",
-        "discovered": "2026-06-18 16:46:56.193556",
-        "description": "Kirbor Homes is a reputable home builder located in the Mid-Atlantic region",
-        "link": "Companies/kirbor",
-        "magnet": null,
-        "screen": "screenshots/pear/Kirbor Homes.png",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SELECT WINES 🇨🇦",
-        "discovered": "2026-06-18 16:46:32.615145",
-        "description": "The company is engaged in importing and distributing premium wines, supplying restaurants, hotels, and retail, and representing international wine brands in the Canadian market.",
-        "link": "/blog/5230c21b-fa35-4558-a36f-bfc4f2262d68",
-        "magnet": null,
-        "screen": "screenshots/bravox/SELECT WINES 🇨🇦.png",
-        "group_name": "bravox",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Berg Lilly",
-        "discovered": "2026-06-18 14:45:43.287900",
-        "description": "Berg Lilly PC is a trusted law firm based in Bozeman, Montana, with over 60 years of experienceproviding quality legal representation to both local and national clients. The firm specializes in various areas of law, including business entity law, civil litigation, commercial transactions, construction law, employment law, estate planning, personal injury, and real estate law.We will upload 50gb of corporate data soon. Clients personal information (passports, SSNs, DLs,addresses, phones, confidential files, medical information, financials and so on), court hearings, police reports and other legal documents.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Apptricity",
-        "discovered": "2026-06-18 14:45:39.511260",
-        "description": "Apptricity Corporation is a global enterprise software provider for Supply Chain and Spend Management. Apptricity differs from other manufacturers by offering platform-agnostic, secure solutions that optimize inventory, asset and expense tracking processes while still being easily integrated with existing systems.We will upload 12gb of corporate data soon. Employee personal docs  (passports, SSNs, DLs, w9s,and other personal information), lots of projects, source codes, NDAs, client and partner files, agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "hiidden",
-        "discovered": "2026-06-18 14:39:52.443438",
-        "description": "hiddenn",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
     }
 ]
