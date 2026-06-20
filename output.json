@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Newspaper Media Group",
+        "discovered": "2026-06-20 21:46:18.118047",
+        "description": "",
+        "link": "/blog/disclosures/6a36e3205ae71db30cedda2d",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Newspaper Media Group.png",
+        "group_name": "inc ransom",
+        "sector": "Media"
+    },
+    {
+        "post_title": "DEADLINE MONDAY",
+        "discovered": "2026-06-20 19:46:42.866234",
+        "description": "All klue.com clients who have been contacted by us have till...",
+        "link": "#DEADLINE%20MONDAY",
+        "magnet": null,
+        "screen": "screenshots/icarus/DEADLINE MONDAY.png",
+        "group_name": "icarus",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Super Finishing",
         "discovered": "2026-06-20 17:48:31.043749",
         "description": "",
@@ -178,55 +198,5 @@
         "screen": "screenshots/krybit/coemicombr.png",
         "group_name": "krybit",
         "sector": "Government"
-    },
-    {
-        "post_title": "Sparkle Pools",
-        "discovered": "2026-06-19 20:49:39.636635",
-        "description": "Construction",
-        "link": "/site/blog?uuid=839d3cab-8142-408b-b9ce-5e752577dc28",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sparkle Pools.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Athens Orthopedic Clinic",
-        "discovered": "2026-06-19 20:13:28.622639",
-        "description": "athensorthopedicclinic.com zoominfo.com/c/athens-orthopedic-clinic-greensboro/351501009 Athens Orthopedic Clinic, founded in 1966, is a leading specialized medical practice based in Athens, Georgia.The clinic provides specialized orthopedic care, including joint and spine treatments, imaging, and urgent care across multiple local facilities.It is widely recognized for its innovative solutions and patient-centered approach, actively serving the Northeast Georgia community",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "mlit.com.my UPDATE-FULL DATA DUMP 10GB",
-        "discovered": "2026-06-19 19:47:00.519847",
-        "description": "FULL DATA DUMP . The compromised data includes highly sensitive internal operations and financial records. Among the leaked files are complete individual Campaign Profit and Loss (PnL) statements, detailed revenue sheets, clawbacks, and general ledger accounts for several linked entities, including Salesworks Pte Ltd Taiwan Branch and Shaves2u HK Limited. Additionally, we have extracted complete directory trees and file structures from the internal network shares and remote desktop sessions, revealing thousands of corporate folders such as JAG Group, SWGP Excel Import, and various financial databases.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Roth Industries",
-        "discovered": "2026-06-19 19:46:57.713919",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=833d8f46-32fd-48f7-b374-33325bdd1015",
-        "magnet": null,
-        "screen": "screenshots/qilin/Roth Industries.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PJ Daly Contracting",
-        "discovered": "2026-06-19 19:46:55.644082",
-        "description": "Construction",
-        "link": "/site/blog?uuid=0d52d511-664c-4cfb-b224-14bb555b7b01",
-        "magnet": null,
-        "screen": "screenshots/qilin/PJ Daly Contracting.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
