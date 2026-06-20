@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "Southern design RV",
+        "discovered": "2026-06-20 11:47:49.383258",
+        "description": "Southern Design RV is an award-winning caravan dealer located in Ballarat, specializing in both new and used Australian-made caravans. They offer a comprehensive range of services including caravan servicing, spare parts, insurance repairs, and upgrades, ensuring customers receive top-notch support. With a focus on quality and customer satisfaction, their expert team provides competitive finance options and industry-leading warranties. Their product lineup includes various caravan brands such as Design RV, Traveller, York, and Olympic, catering to diverse client needs for adventure and comfort on the road.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "themintgaming.com",
+        "discovered": "2026-06-19 23:49:28.767760",
+        "description": "Once the timer runs out, we will publish the latest Oasis 360 by Aristocrat database belonging to The Mint Gaming Hall, which contains the personal data of more than 250,000 player...",
+        "link": "/n/themintgaming",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/themintgamingcom.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "aasa.ae",
+        "discovered": "2026-06-19 22:52:06.233195",
+        "description": "AASA CP Holding Company (AASA Group) is a multinational business headquartered in Dubai, UAE, with a proud legacy of exc...",
+        "link": "/blog/6d0d46292c86da8821ce6d6287dc39926796ed0bbb804f4fa987cfaff80dcf1c/",
+        "magnet": null,
+        "screen": "screenshots/krybit/aasaae.png",
+        "group_name": "krybit",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "www.mupras.com",
+        "discovered": "2026-06-19 22:52:04.404497",
+        "description": "MUPRAS RAM (Mutuelle de Prévoyance et d'Actions Sociales de Royal Air Maroc) is a Moroccan mutual aid and social welfar...",
+        "link": "/blog/cc5adb91cc4cdf96bb0a1236b37f9a9fffc0dabee01e286e779e5de765c2f33a/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwwmuprascom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "coemi.com.br",
+        "discovered": "2026-06-19 22:51:55.859420",
+        "description": "Coemi Imóveis is a Brazilian real estate company with 41 years of tradition in Brasília, Distrito Federal, Brazil, fou...",
+        "link": "/blog/8b5ee3a5113c9b494db51ddb8c9b75acbcbcddf655f691ea72c8771f8cbadce6/",
+        "magnet": null,
+        "screen": "screenshots/krybit/coemicombr.png",
+        "group_name": "krybit",
+        "sector": "Government"
+    },
+    {
         "post_title": "Sparkle Pools",
         "discovered": "2026-06-19 20:49:39.636635",
         "description": "Construction",
@@ -97,56 +147,6 @@
         "magnet": null,
         "screen": "screenshots/icarus/Kluecom.png",
         "group_name": "icarus",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ALS Global",
-        "discovered": "2026-06-19 11:47:54.717224",
-        "description": "ALS Limited (ASX:ALQ) — a global testing, inspection, and certification company with AUD 3.19B revenue, 20,500+ employees, and operations in 65+ countries — identified unauthorised access to its IT systems.\n\n~400–500 employee home directories — personal documents, cached credentials, email settings, family photos, personal finance files for employees from Australia to Peru to Sweden to Romania.\nThe company's 1Password team vault emergency recovery kit — a single 45 KB PDF that enables total recovery of every shared credential in ALS's enterprise password vault.\n291 plaintext password files including administrator credentials, FTP passwords, portal passwords, and the document control system master password.\n1,018 passport and identity document scans — Swedish passports, Mexican passports, Australian passports — each one a 10-year identity-theft enabler.\n601 bank account detail files including IBAN, SWIFT routing codes, BSB numbers, and sort codes for employees across 15+ countries, plus Russian-language SWIFT salary payment files.\n1,986 salary, payroll, and compensation files — named individuals, exact amounts, pay scales, negotiation records across AU, US, EU, UK, CA, BR, SE, RO.\n453 medical, drug test, and workplace injury records — GDPR Art. 9 special category data.\n57 complete Outlook email archives (PST files) — years of correspondence, attachments, privileged communications.\n7,327 client laboratory results — mining assay data, certificates of analysis, and geochemistry results held under NDA.\n20 GB of proprietary analytical method development — ALS's core competitive IP: PFAS, dioxin, acrylamide, glyphosate LC-MS/GC-MS method packages representing years and millions of AUD in R&D. For a TIC company, analytical methods are the product.\n7.2 GB of Internal Research reports — 68+ formal research reports (IR153–IR287+) spanning 15 years, including IsaMill grinding R&D, GlyLeach joint-venture process IP (with mutual NDA), flotation, mineralogy, and QEMSCAN data.\nThe FY2025–2026 innovation roadmap — \"ALS Environmental Innovation — Priority projects for 2024-25\" (10 MB PPTX) and Nordic Innovation Business Plans revealing which methods ALS plans to develop and which markets it plans to enter.\n3.7 GB of Cryptosporidium water-testing methods (WA_Crypto) — UKAS-accredited, DWI-regulated detection methods where few UK labs hold accreditation.\nQuickBooks live bookkeeping, AR aging reports, and stock sale records — taken 12 days before FY26 results announcement.\n111 PKI certificates with private keys — corporate WiFi, TLS server certs, personal signing certificates.\nA compiled Chrome password extraction tool with source code — credential harvesting infrastructure resident on ALS systems.",
-        "link": "/blog/als-global-26ffdd79",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "icsecurity.com",
-        "discovered": "2026-06-19 02:46:31.301996",
-        "description": "Over 2.7 million records and other internal corporate data was compromised.   This is a final warning to reach out by 22 June 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "legendsmn(Blue Ox, Paul Bunyan, Lumberjack Electric)",
-        "discovered": "2026-06-18 22:48:38.951940",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "dean cosmetic dentistry",
-        "discovered": "2026-06-18 22:48:34.973365",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ra-vogeler.de",
-        "discovered": "2026-06-18 22:25:15.031071",
-        "description": "Country: germany | Size: 1.1TB | Private | Views: 1",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/cloak/ra-vogelerde.png",
-        "group_name": "cloak",
         "sector": "Unknown"
     }
 ]
