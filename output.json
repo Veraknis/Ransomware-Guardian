@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Taiwan Sintong Machinery Co., Ltd",
+        "discovered": "2026-06-21 20:45:55.196504",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=03a62b1c-1b16-41aa-8811-424340cc3b68",
+        "magnet": null,
+        "screen": "screenshots/qilin/Taiwan Sintong Machinery Co, Ltd.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Wall ISD",
+        "discovered": "2026-06-21 20:45:34.011953",
+        "description": "Wall ISD is an educational institution that serves students in the Wall, Texas area, providing a range of programs and activities for elementary, middle, and high school students. The district emphasizes inclusivity and equal access to education, ensuring that all students, regardless of their background, have the opportunity to participate in school activities. Wall ISD is committed to fostering a supportive learning environment and offers resources for both new and returning students. The intended clients are students and their families within the Wall community.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Sivatel Bangkok",
+        "discovered": "2026-06-21 19:45:29.890713",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=7c929c34-bd54-46a7-ae1a-8b195d3bf091",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sivatel Bangkok.png",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Belz Institutions",
+        "discovered": "2026-06-21 19:45:28.910678",
+        "description": "Education",
+        "link": "/site/blog?uuid=7dad382b-86a3-485d-8467-04ded073949e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Belz Institutions.png",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Tri-tec",
+        "discovered": "2026-06-21 19:45:27.975466",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=82904dd5-6ccd-4761-8ce6-0ced7832d2e9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tri-tec.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Florida Engineering Services",
+        "discovered": "2026-06-21 18:46:07.997708",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=2ec671d4-73db-487a-b84b-cdd8c34d9c61",
+        "magnet": null,
+        "screen": "screenshots/qilin/Florida Engineering Services.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "jktornel",
         "discovered": "2026-06-21 14:51:02.054401",
         "description": "",
@@ -38,25 +98,5 @@
         "screen": null,
         "group_name": "nova",
         "sector": "Government"
-    },
-    {
-        "post_title": "Newspaper Media Group",
-        "discovered": "2026-06-20 21:46:18.118047",
-        "description": "",
-        "link": "/blog/disclosures/6a36e3205ae71db30cedda2d",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Newspaper Media Group.png",
-        "group_name": "inc ransom",
-        "sector": "Media"
-    },
-    {
-        "post_title": "DEADLINE MONDAY",
-        "discovered": "2026-06-20 19:46:42.866234",
-        "description": "All klue.com clients who have been contacted by us have till...",
-        "link": "#DEADLINE%20MONDAY",
-        "magnet": null,
-        "screen": "screenshots/icarus/DEADLINE MONDAY.png",
-        "group_name": "icarus",
-        "sector": "Unknown"
     }
 ]
