@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "graymont.com",
+        "discovered": "2026-06-22 22:55:59.509247",
+        "description": "NOTICE: Graymont – Final Warning\n\nWe have successfully gained full access to the corporate infrastructure of Graymont. Our team currently holds a massive volume of highly sensitive data. The scope of our access covers the entire core of your operations, from executive financial strategy to individ…",
+        "link": "/EZcDDIMSEXtpnWM0AeLwoEfoorKZ9ZyM/graymont-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/graymontcom.png",
+        "group_name": "chaos",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "sterlinggloballtd.com",
+        "discovered": "2026-06-22 21:50:11.470385",
+        "description": "We have 100gb files and documents. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/sterlinggloballtd",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/sterlinggloballtdcom.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "eggetttax.ca",
+        "discovered": "2026-06-22 21:50:05.539103",
+        "description": "330,000 documents and files of this company, with a total size of over 250 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/eggetttax",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/eggetttaxca.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Ntd Apparel",
         "discovered": "2026-06-22 18:52:27.719849",
         "description": "NTD Apparel specializes in creating high-quality apparel that connects with pop culture, offering a range of licensed products and in-house labels. They provide comprehensive services including market analysis, price point management, and visual merchandising to retailers.We will upload 62gb of corporate data soon. Employee personal docs (passports, SSNs, DLs, medical information, phones, addresses and so on), projects, client information, confidential agreements and so on.",
@@ -218,25 +248,5 @@
         "screen": null,
         "group_name": "stormous",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Taiwan Sintong Machinery Co., Ltd",
-        "discovered": "2026-06-21 20:45:55.196504",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=03a62b1c-1b16-41aa-8811-424340cc3b68",
-        "magnet": null,
-        "screen": "screenshots/qilin/Taiwan Sintong Machinery Co, Ltd.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Wall ISD",
-        "discovered": "2026-06-21 20:45:34.011953",
-        "description": "Wall ISD is an educational institution that serves students in the Wall, Texas area, providing a range of programs and activities for elementary, middle, and high school students. The district emphasizes inclusivity and equal access to education, ensuring that all students, regardless of their background, have the opportunity to participate in school activities. Wall ISD is committed to fostering a supportive learning environment and offers resources for both new and returning students. The intended clients are students and their families within the Wall community.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Education"
     }
 ]
