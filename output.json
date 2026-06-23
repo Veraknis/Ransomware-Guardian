@@ -1,5 +1,155 @@
 [
     {
+        "post_title": "viennaairport.com",
+        "discovered": "2026-06-23 12:50:09.019172",
+        "description": "Vienna Airport (Flughafen Wien AG) is an Austrian company, the operator of Vienna International A...",
+        "link": "/page_company.php?id=171",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/viennaairportcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "FTL-Fast Transit Line",
+        "discovered": "2026-06-23 11:51:51.356503",
+        "description": "FTL International N.V. specializes in shipping, consolidation, forwarding, and groupage services, with a strong presence in major Northern European ports and an office in Colombo, Sri Lanka. With over 25 years of experience, they offer cost-effective port-to-port and door-to-door logistics solutions, including air freight and cargo insurance. Their services cater to a wide range of clients looking for reliable shipping options across the globe. FTL is committed to exceptional personalized attention and efficient shipment handling, embodying their motto 'Experience the Difference - Data included sales data, invoices and costumers full names and phones etc; Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Corporación Primax S.A.",
+        "discovered": "2026-06-23 09:48:08.391572",
+        "description": "Corporación Primax S.A. is Peru's largest fuel distribution company, operating 2,185+ stations across Peru, Ecuador, Colombia, and Uruguay with annualised revenue of approximately USD 3.4 billion (Peru alone).\n\nThe dataset spans every function of the business:\n\nComplete financial reporting — Monthly P&L, balance sheet, cash flow, and EBITDA through May 2025. GRIO (Grupo Romero Investment Office) management reporting packages. Budget 2025 vs. actuals.\nEmployee identity data for 15,000–60,000 individuals — DNI national ID numbers, bank accounts, salary amounts, pension fund details, scanned identity documents.\nLive system credentials — Plaintext SQL database passwords, banking SFTP credentials (Banco Bolivariano Ecuador), AD encryption master key, OSINERGMIN fuel-control system credentials.\nComplete OT network map — IP addresses and identifiers for 137 fuel stations on the internal 10.55.40.x network, plus JD Edwards ERP production servers.\n54 GB of POS transaction data — XML records of consumer fuel purchases across the entire station network.\nLegal and M&A documentation — Arbitration case files (PUCP/AMCHAM), UNO Corp acquisition materials (Dec 2025), bank covenant waivers.",
+        "link": "/blog/corporacin-primax-sa-9fd84393",
+        "magnet": null,
+        "screen": null,
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "randa.net",
+        "discovered": "2026-06-23 08:48:20.388945",
+        "description": "Randa Apparel & Accessories is a global powerhouse and one of the world's leading apparel and lifestyle accessories companies, headquartered in New York City at 417 Fifth Avenue, 11th Floor. Founded in 1910, with the founder's family having been in the neckwear business since that time and the curre…",
+        "link": "/z2GHGsNi1FlBYEXDYy5wwYjDlAkyGVUg/randa-net",
+        "magnet": null,
+        "screen": "screenshots/chaos/randanet.png",
+        "group_name": "chaos",
+        "sector": "Government"
+    },
+    {
+        "post_title": "belpointeasset.com \\ belpointe.com",
+        "discovered": "2026-06-23 01:49:39.481817",
+        "description": "",
+        "link": "/blog/disclosures/6a39bd685ae71db30c36b16f",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/belpointeassetcom \\ belpointecom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED]Karl Chevrolet",
+        "discovered": "2026-06-23 00:47:59.164594",
+        "description": "",
+        "link": "/r/ae4191e477bfc302dedc3ac7de2b0a195238abab",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]Karl Chevrolet.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ehg.bayern",
+        "discovered": "2026-06-22 23:52:15.513281",
+        "description": "Founded in 1991, the company has evolved from a regional waste management enterprise into a specialized provider of infrastructure operations, …",
+        "link": "/blog/post/ehgbayern/",
+        "magnet": null,
+        "screen": "screenshots/safepay/ehgbayern.png",
+        "group_name": "safepay",
+        "sector": "Utilities"
+    },
+    {
+        "post_title": "Schumacher Homes",
+        "discovered": "2026-06-22 23:52:11.986033",
+        "description": "Construction",
+        "link": "/site/blog?uuid=2f47ce8d-8f40-49d9-8e70-d7d4e7b877c8",
+        "magnet": null,
+        "screen": "screenshots/qilin/Schumacher Homes.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "******",
+        "discovered": "2026-06-22 23:52:10.709817",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Huntress",
+        "discovered": "2026-06-22 23:51:54.728616",
+        "description": "Salesforce data of Huntress.",
+        "link": "#Huntress",
+        "magnet": null,
+        "screen": "screenshots/icarus/Huntress.png",
+        "group_name": "icarus",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "HDS (Hdscorp)",
+        "discovered": "2026-06-22 23:51:53.809634",
+        "description": "Salesforce data for this corp.",
+        "link": "#HDS%20%28Hdscorp%29",
+        "magnet": null,
+        "screen": "screenshots/icarus/HDS (Hdscorp).png",
+        "group_name": "icarus",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Gms-net",
+        "discovered": "2026-06-22 23:51:52.890252",
+        "description": "Salesforce data for this corp.",
+        "link": "#Gms-net",
+        "magnet": null,
+        "screen": "screenshots/icarus/Gms-net.png",
+        "group_name": "icarus",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cqcrm",
+        "discovered": "2026-06-22 23:51:51.949884",
+        "description": "Salesforce data for Cqcrm",
+        "link": "#Cqcrm",
+        "magnet": null,
+        "screen": "screenshots/icarus/Cqcrm.png",
+        "group_name": "icarus",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cbassociations",
+        "discovered": "2026-06-22 23:51:50.935590",
+        "description": "Salesforce data for this corp.",
+        "link": "#Cbassociations",
+        "magnet": null,
+        "screen": "screenshots/icarus/Cbassociations.png",
+        "group_name": "icarus",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "EON Meditech Pvt",
+        "discovered": "2026-06-22 23:51:44.742782",
+        "description": "EON Meditech specializes in innovative medical technology solutions aimed at enhancing patient care and improving healthcare outcomes. Their product offerings include advanced medical devices and software solutions tailored for healthcare providers. The company primarily serves hospitals, clinics, and healthcare professionals looking for cutting-edge technology to streamline operations and enhance patient experiences. EON Meditech is committed to driving advancements in the medical field through research and development.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "graymont.com",
         "discovered": "2026-06-22 22:55:59.509247",
         "description": "NOTICE: Graymont – Final Warning\n\nWe have successfully gained full access to the corporate infrastructure of Graymont. Our team currently holds a massive volume of highly sensitive data. The scope of our access covers the entire core of your operations, from executive financial strategy to individ…",
@@ -188,65 +338,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Finance"
-    },
-    {
-        "post_title": "International Freight Services",
-        "discovered": "2026-06-22 12:49:05.921589",
-        "description": "ifs-sfo.com zoominfo.com/c/ifs-sfocom/348198952 IFS (International Freight Services, Inc.) is a logistics company headquartered at San Francisco International Airport (SFO). It provides international air and ocean freight forwarding, customs brokerage, warehousing, and end-to-end supply chain solutions. With decades of experience, IFS specializes in time-critical and high-touch cargo, serving industries from technology and life sciences to automotive and retail",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "NTP B.V. Civil Engineering Construction",
-        "discovered": "2026-06-22 12:49:04.872853",
-        "description": "NTP B.V. (trading as NTP Infra / NTP Groep) is a Dutch civil engineering contractor headquartered in Hattem, Gelderland. They build roads, lay cables, install sewers, and perform ground works across the Netherlands. With 150–200 employees, offices in Hattem, Enschede, and Zevenaar, and a 2024/2025 acquisition of Aannemingsbedrijf Dubbink B.V., they are a typical mid-market Dutch “aannemingsbedrijf” — government contracts, municipal works, private developments.\n\nTheir file server contained everything: 10+ years of operations, every employee's personal files, the complete HR/payroll system exports, every network device configuration, every project bid, and every financial record.",
-        "link": "/blog/ntp-bv-civil-engineering-construction-87342294",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Kochs GmbH",
-        "discovered": "2026-06-22 12:49:02.660390",
-        "description": "Kochs GmbH — a family-owned German manufacturer of windows, doors, and aluminium façade systems headquartered in Herzogenrath, Nordrhein-Westfalen, with ~240 employees across Germany, the Netherlands, and Hungary.\nThe exposed material includes:\n\n22 GB of payroll database backups (7 MSSQL .bak files, 2016–2023) — every employee's salary, bank IBAN, tax class, social insurance number, pension contributions, and wage garnishments.\n2.3 GB of DATEV payroll records (through May 2026) — individual named salary documents, garnishment data, company car records for all three entities.\n7 Active Directory passwords in plaintext batch scripts — including both Managing Directors, with one MD's credentials spanning three separate AD domains.\n28+ proprietary application source code repositories — WinPro ERP, Apertum CRM, MES integrations, production viewers, time-tracking, and rack-management systems. Each one hardcodes its database credentials.\nSSL/TLS private keys for kochs.de (2021–2026) — enabling domain impersonation and man-in-the-middle attacks.\n77 VPN pre-shared keys from the LANCOM gateway configuration — the complete remote-access roster since 2018.\nManaging Director's MRI and X-ray scans — brain and spine medical imaging, GDPR Art. 9 special category health data.\n16 named employee disciplinary records, 11 driver's license scans, attorney-client privileged litigation files from two active employment lawsuits.\nComplete financial records — 2024 annual accounts, P&L, balance sheets, SFirm banking database, Syska ProFI general ledger, cost accounting through December 2024.",
-        "link": "/blog/kochs-gmbh-5d95e438",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Keywest Projects",
-        "discovered": "2026-06-22 12:40:14.397140",
-        "description": "keywestprojects.ca zoominfo.com/c/keywest-projects-ltd/354074136 KeyWest Projects Ltd. is a Canadian EPCM (Engineering, Procurement, Construction Management) company headquartered in Calgary, Alberta. It specializes in full-cycle project delivery for the energy sector — including oil and gas facilities, pipelines, and industrial infrastructure — primarily across Western Canada. The firm is recognized for its integrated, client-driven approach that emphasizes safety, efficiency, and technical reliability on complex energy projects",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "NationsBuilders Insurance Services",
-        "discovered": "2026-06-22 11:48:48.801093",
-        "description": "NationsBuilders Insurance Services (NBIS) is the premier US underwriter of crane & rigging, concrete-pumping, heavy-haul, and residential-builder insurance — a specialty managing general underwriter founded in Atlanta in 2001, acquired by Align Financial / DUAL North America (Howden Group) in August 2021. 2,748,845 filetree entries across 24 shares (AIM, IMAGERIGHT, the claims and policy-admin stores, HR, finance, IT, and a decade of M&A diligence rooms).",
-        "link": "/blog/nationsbuilders-insurance-services-ce70e554",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "jaggroup.com UPDATE-FULL DATA DUMP",
-        "discovered": "2026-06-22 00:45:08.895131",
-        "description": "Full database containing corporate emails (⁠@jaggroup.com⁠), Active Directory domain logins, and clear plain-text passwords.Complete Microsoft Dynamics GP databases, software license keys, financial reports, and system configuration Multiple compressed archives (⁠zBackups.zip⁠, ⁠wetransfer⁠ packages), SQL server connection data, and ⁠IM.mdb⁠ database files.Internal project management sheets (⁠Jag Project.xlsx⁠), user listings, purchasing, and sales import logs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
     }
 ]
