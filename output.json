@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Lee International",
+        "discovered": "2026-06-23 22:53:17.819185",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=81f498aa-ec4a-446c-895b-68848e8f843a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lee International.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Coldstat Refrigeration",
+        "discovered": "2026-06-23 21:54:01.073785",
+        "description": "Coldstat Refrigeration offers a full range of industry-proven refrigeration services. From large restaurant chains to individual stores and cafes—Coldstat is ready to meet all your needs. The company’s qualified staff will help you determine the best solution based on your individual needs. Coldstat’s refrigeration services include: sales of commercial refrigeration equipment, installation, maintenance and repair, layout planning, custom system design, and removal of old equipment.\n\n\nTranslated with DeepL.com (free version)",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Services"
+    },
+    {
         "post_title": "cloudquantum",
         "discovered": "2026-06-23 17:49:59.150207",
         "description": "cloudquantum.co - software company that builds and delivers software solutions and products, such as an app for organizing activities and tools for automatically processing information from documents and media - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -248,35 +268,5 @@
         "screen": null,
         "group_name": "cmd organization",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "graymont.com",
-        "discovered": "2026-06-22 22:55:59.509247",
-        "description": "NOTICE: Graymont – Final Warning\n\nWe have successfully gained full access to the corporate infrastructure of Graymont. Our team currently holds a massive volume of highly sensitive data. The scope of our access covers the entire core of your operations, from executive financial strategy to individ…",
-        "link": "/EZcDDIMSEXtpnWM0AeLwoEfoorKZ9ZyM/graymont-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/graymontcom.png",
-        "group_name": "chaos",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "sterlinggloballtd.com",
-        "discovered": "2026-06-22 21:50:11.470385",
-        "description": "We have 100gb files and documents. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/sterlinggloballtd",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/sterlinggloballtdcom.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "eggetttax.ca",
-        "discovered": "2026-06-22 21:50:05.539103",
-        "description": "330,000 documents and files of this company, with a total size of over 250 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/eggetttax",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/eggetttaxca.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
     }
 ]
