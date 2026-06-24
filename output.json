@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "mlit.com.my UPDATE-FULL DATA DUMP NEW LINK 10GB",
+        "discovered": "2026-06-24 20:52:13.523866",
+        "description": "FULL DATA DUMP . The compromised data includes highly sensitive internal operations and financial records. Among the leaked files are complete individual Campaign Profit and Loss (PnL) statements, detailed revenue sheets, clawbacks, and general ledger accounts for several linked entities, including Salesworks Pte Ltd Taiwan Branch and Shaves2u HK Limited. Additionally, we have extracted complete directory trees and file structures from the internal network shares and remote desktop sessions, revealing thousands of corporate folders such as JAG Group, SWGP Excel Import, and various financial databases.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "jaggroup.com UPDATE-FULL DATA DUMP NEW LINK",
+        "discovered": "2026-06-24 20:52:11.348337",
+        "description": "Full database containing corporate emails (⁠@jaggroup.com⁠), Active Directory domain logins, and clear plain-text passwords.Complete Microsoft Dynamics GP databases, software license keys, financial reports, and system configuration Multiple compressed archives (⁠zBackups.zip⁠, ⁠wetransfer⁠ packages), SQL server connection data, and ⁠IM.mdb⁠ database files.Internal project management sheets (⁠Jag Project.xlsx⁠), user listings, purchasing, and sales import logs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "maglificioliliana.com",
+        "discovered": "2026-06-24 20:52:08.574463",
+        "description": "Over 400 GB of data has been accessed and exfiltrated. This includes product designs, historical fashion lines, and technical specifications for garments. Furthermore, we have obtained customer databases from various parts of the world, financial records, commercial contracts, employee data, personal files for all staff members within the network, daily operational documents, and more.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "lorenzoni-store.com",
+        "discovered": "2026-06-24 20:52:05.561174",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "montechiaro-store.com",
+        "discovered": "2026-06-24 20:52:01.508502",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "impulso-store.com",
+        "discovered": "2026-06-24 20:52:00.260444",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
         "post_title": "lpgroup",
         "discovered": "2026-06-24 17:54:26.463854",
         "description": "LP Group, founded in 2006, has already completed approximately 1 million square meters of projects in commercial, logistics, and service areas. Highly complex projects. Compromised data profile given in sample.",
@@ -228,15 +288,5 @@
         "screen": "screenshots/qilin/Lee International.png",
         "group_name": "qilin",
         "sector": "Legal"
-    },
-    {
-        "post_title": "Coldstat Refrigeration",
-        "discovered": "2026-06-23 21:54:01.073785",
-        "description": "Coldstat Refrigeration offers a full range of industry-proven refrigeration services. From large restaurant chains to individual stores and cafes—Coldstat is ready to meet all your needs. The company’s qualified staff will help you determine the best solution based on your individual needs. Coldstat’s refrigeration services include: sales of commercial refrigeration equipment, installation, maintenance and repair, layout planning, custom system design, and removal of old equipment.\n\n\nTranslated with DeepL.com (free version)",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Services"
     }
 ]
