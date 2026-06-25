@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "*************",
+        "discovered": "2026-06-25 17:49:33.353743",
+        "description": "Law firm provide legal services to individuals, businesses, and organizations. Their attorneys handle advice, court representation, contracts, and dispute resolution across areas like corporate, family, real estate, and estate law.",
+        "link": "/Company/Announce/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/*************.png",
+        "group_name": "insomnia",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Padget Technologies",
+        "discovered": "2026-06-25 15:48:47.544919",
+        "description": "Padget Technologies specializes in advanced robotics and automation solutions tailored for efficient and cost-effective production. Their services include designing and fabricating custom machinery, assembly systems, and pre-engineered robotic palletizing cells.We will upload corporate data soon. Employee personal docs (DLs, SSNs, w9s and other sensitive docs), payment details, lot of NDAs, projects, contracts and agreements, client information, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "JMS Southeast",
+        "discovered": "2026-06-25 15:48:46.593354",
+        "description": "JMS Southeast, Inc. specializes in high-quality temperature measurement and control products, including thermocouples, RTDs, thermowells, and transmitters, catering to various industries such as aerospace, pharmaceuticals, and oil and gas.We will upload 25gb of corporate data soon. Employee personal information (name, addresses and so on), payment details, NDAs, projects, contracts and agreements, agreements with government, customer information and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "sansilvestre.edu.pe",
+        "discovered": "2026-06-25 14:53:27.780586",
+        "description": "San Silvestre School (Asociación Civil) is one of Peru's most prestigious private all-girls British schools, founded in...",
+        "link": "/blog/69b67084deca6738eeee5ddfbfe8a86e93a924dfeacede1dbdc07c797530feb9/",
+        "magnet": null,
+        "screen": "screenshots/krybit/sansilvestreedupe.png",
+        "group_name": "krybit",
+        "sector": "Education"
+    },
+    {
+        "post_title": "naic.org",
+        "discovered": "2026-06-25 12:54:02.850214",
+        "description": "The previous statement was overstated due to an analytical error and an AI-generated misinterpretation of the underlying data. This is a more accurate analyses after human review: Over 3.1tbs of NAIC.org (105k files) was compromised across NAIC's INSData statutory filing platform and Vision credit rating feed server, including approximately 264k insurer regulatory filing PDFs spanning property/casualty, health, and life/A&H lines from 2017–2024; 2k bulk order and customer records with purchaser names, email addresses, and payment transaction identifiers; 45k licensed rating agency files from Moody's, Fitch, S&P, Kroll, DBRS, AM Best, Egan-Jones, and HR Ratings containing CUSIP and ISIN identifiers dating back to 2016; statutory annual and quarterly financial statements; HR Ratings master data; and NAIC's production AWS infrastructure configuration logs and workload automation platform, the latter containing SQL scripts and stored credentials for SERFF, OPTins, and UCAA production environments.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "shinyhunters",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Delegal Poindexter & Underkofler, P.A.",
         "discovered": "2026-06-25 10:51:51.806592",
         "description": "Website: protectingcareers.com\nRevenue: $5 Million\nDelegal Poindexter & Underkofler provides highly specialized legal services to employees with employment law concerns.They represent professionals, executives, and public employees in labor, employment law, and administrative issues.\nData:\n\nPlaintiff Information (containing personal identifiers, employment history, and contact details to establish the client)\nActive Case Files (encompassing pleadings, motions, and evidence for employment lawsuits like wrongful termination)\nConfidentially Marked Emails (consisting of privileged attorney-client communications and sensitive strategy protected from disclosure)\nand other Employee PC Data",
@@ -98,205 +148,5 @@
         "screen": null,
         "group_name": "stormous",
         "sector": "Technology"
-    },
-    {
-        "post_title": "lpgroup",
-        "discovered": "2026-06-24 17:54:26.463854",
-        "description": "LP Group, founded in 2006, has already completed approximately 1 million square meters of projects in commercial, logistics, and service areas. Highly complex projects. Compromised data profile given in sample.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "alejandria",
-        "discovered": "2026-06-24 17:54:25.232481",
-        "description": "Alexandria is a platform that facilitates the development and implementation of well-designed teleinformation systems from the point of view of Information Architecture, which arises from the fusion of knowledge of information sciences (library science, archival science, document management, information networks, etc.)",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "transvill",
-        "discovered": "2026-06-24 17:54:23.826124",
-        "description": "Transvill SRL offers national and international road transport and logistics services for cargo shipments. Data profile is provided.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "horizoneye.com",
-        "discovered": "2026-06-24 15:53:18.837286",
-        "description": "",
-        "link": "/blog/disclosures/6a3926cc5ae71db30c25aebd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/horizoneyecom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jit Ex",
-        "discovered": "2026-06-24 15:53:13.482558",
-        "description": "JIT-EX, LLC is a privately owned for-hire trucking fleet based in Memphis and Nashville, specializing in regional and local truckload services, dedicated fleets, and crossdock solutions. Thecompany offers a variety of services including transloading, dock services, and storage trailers, aiming to be a one-stop solution for transportation needs.We will upload 40gb of corporate data soon. Employee personal docs (passports, DL numbers of 317 persons, SSNs, w9s and so on), credit card details, payment details, lot of NDAs, projects, contracts and agreements, customer information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "transvill.com.pe",
-        "discovered": "2026-06-24 14:51:28.983452",
-        "description": "Transvill SRL offers national and international road transport and logistics services for cargo shipments. Data profile will provided soon",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Miami Machine",
-        "discovered": "2026-06-24 14:51:08.615423",
-        "description": "Miami Machine Inc. specializes in machining, fabrication, and engineering services tailored forthe paper, power, steel, and OEM markets. With over 50 years of experience and a manufacturingspace of 86,000 sq. ft, they provide high-quality, custom machinery and equipment solutions.We will upload corporate data soon. Employee personal docs (passports and other docs, photos), NDAs, projects, contracts and agreements, client information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Au Vieux Campeur",
-        "discovered": "2026-06-24 14:30:06.535985",
-        "description": "auvieuxcampeur.fr Au Vieux Campeur is a premier French retailer and the leading independent outdoor and sports equipment company in Europe.Founded in Paris in 1941, the brand has expanded from a single historic boutique in the Latin Quarter to nearly 50 stores across France and a robust e-commerce platform.They offer an extensive selection of over 1,500 premium brands, providing specialized clothing and gear for a wide variety of activities including mountaineering, diving, skiing, and trail running",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Cash Canada",
-        "discovered": "2026-06-24 13:51:30.507965",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=3d397a59-749d-4cc5-a06b-83c21549eae2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cash Canada.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "alejandria.biz",
-        "discovered": "2026-06-24 13:51:29.001966",
-        "description": "Alexandria is a platform that facilitates the development and implementation of well-designed teleinformation systems from the point of view of Information Architecture, which arises from the fusion of knowledge of information sciences (library science, archival science, document management, information networks, etc.)",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Plateau Excavation",
-        "discovered": "2026-06-24 13:48:42.717040",
-        "description": "plateauexcavation.com zoominfo.com/c/plateau-excavation-inc/1163238690 Plateau Excavation is a leading site infrastructure contractor based in Georgia, providing complete sitework solutions for large-scale development projects across the Southeast.With over four decades of experience, the company specializes in mission-critical markets such as data centers, advanced manufacturing, and e-commerce.As a strategic infrastructure partner with over 1,000 employees, they deliver the critical groundwork required for massive industrial and commercial developments",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Bell Hardware",
-        "discovered": "2026-06-24 13:48:41.724033",
-        "description": "bellhardware.com zoominfo.com/c/bell-hardware/353995383 Bell Hardware is a premier supplier of premium commercial doors, frames, and architectural hardware, operating out of seven locations across Oregon and Northern California.They act as a comprehensive one-stop shop for contractors, providing high-quality building products alongside expert on-site installation and modification services.Furthermore, the company partners with design and construction teams during the early planning stages to evaluate project elements and streamline the building process ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "CHIFENG GOLD SEPON",
-        "discovered": "2026-06-24 13:48:40.625830",
-        "description": "lxml.la zoominfo.com/c/lane-xang-minerals-ltd/1311794256 which operates the major Sepon open-pit and underground gold and copper mine in Savannakhet Province, Laos.As a significant regional employer, the company heavily invests in local workforce development, with 95% of its staff being Lao nationals \n",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Natren",
-        "discovered": "2026-06-24 13:48:39.631094",
-        "description": "natren.com zoominfo.com/c/natren-inc/26870087 Natren is a leading manufacturer of premium probiotic supplements with over 30 years of experience, dedicated to improving gut health and overall well-being.Based in California, the company offers a comprehensive range of natural, non-GMO formulas tailored for men, women, children, and even pets.They are highly regarded for their flagship \"Healthy Trinity\" 3-in-1 system and their strict cold-chain shipping process, which guarantees 100% potency through the expiration date",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Al Dhow Group",
-        "discovered": "2026-06-24 13:38:35.003983",
-        "description": "al-dhow.com zoominfo.com/c/al-dhow/345585723 Dhow International Holding is a diversified group of companies with a portfolio spanning high-growth and high-impact industries across the GCC region.Their extensive operations encompass a wide range of sectors, including engineering, architectural solutions, hospitality, food & beverage, logistics, healthcare, and venture capital. The group is committed to delivering integrated, end-to-end services while fostering long-term sustainable growth across all its businesses",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Beran Concrete",
-        "discovered": "2026-06-24 13:38:34.043975",
-        "description": "beranconcrete.com zoominfo.com/c/beran-concrete-inc/4424481 Beran Concrete is a premier concrete construction and ready-mix supplier serving commercial and residential projects across Wichita, Kansas, and the broader Midwest.Founded in 1980, the company is driven by a deep pride in quality workmanship and a proven ability to consistently meet strict client deadlines.To support its continued growth and better serve local communities, the business actively expands its regional footprint by integrating additional ready-mix plants",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "BDS CZ",
-        "discovered": "2026-06-24 13:38:33.111408",
-        "description": "bds.cz BDS CZ is a Prague-based real estate agency that offers comprehensive property services, including Airbnb management, interior renovations, and investment consulting.The company's name originates from the Vietnamese abbreviation for real estate, indicating its strong focus on serving the local Vietnamese community and investors.Operating from its headquarters in Prague's historic Old Town, the agency assists clients in maximizing their property value and managing real estate portfolios ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Stadttheater Giessen",
-        "discovered": "2026-06-24 13:38:32.206089",
-        "description": "stadttheater-giessen.de rocketreach.co/stadttheater-giessen-gmbh-profile_b40b4590ff936dde Stadttheater Gießen is a prominent multi-genre municipal theatre in Germany, renowned for its striking Art Nouveau (Jugendstil) building constructed in 1907. As the cultural heart of the Mittelhessen region, it offers a diverse repertoire encompassing opera, musicals, drama, and classical concerts. The theatre is celebrated for its high-quality productions, blending traditional classics with innovative contemporary works for audiences of all ages",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Gegenbauer Elektrotechnik",
-        "discovered": "2026-06-24 13:38:31.244965",
-        "description": "gegenbauer-it.at Gegenbauer Elektrotechnik & IT GmbH is a Vienna-based service provider specializing in comprehensive electrical engineering and IT solutions for businesses.Evolving from a sole proprietorship with over 30 years of experience, the company was officially established in 2015 to offer end-to-end planning and implementation.They focus on delivering customized technical infrastructures, professional support, and employee training to meet the diverse needs of their clients ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Meccanica Gn",
-        "discovered": "2026-06-24 13:28:28.650208",
-        "description": "meccanicagn.com zoominfo.com/c/meccanica-gn/368731563 Meccanica GN is an Italian precision manufacturing company based in Carpi, specializing in high-accuracy machining like milling, turning, and grinding.With over two decades of experience, they produce critical components for demanding sectors, including Formula 1 motorsport, aerospace, automotive, and biomedical.The company is recognized for its advanced technology, strict quality assurance, and commitment to maximum performance \n",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Defense"
     }
 ]
