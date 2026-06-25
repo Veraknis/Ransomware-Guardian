@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "politur.gob.do",
+        "discovered": "2026-06-25 22:50:33.224024",
+        "description": "POLITUR (Dirección Central de Policía de Turismo / Central Directorate of Tourism Police), now also known as CESTUR (C...",
+        "link": "/blog/d88d515b44dfd3f7981c18c8e141afa24f9a2f386fdaf5a037537972b13471fb/",
+        "magnet": null,
+        "screen": "screenshots/krybit/politurgobdo.png",
+        "group_name": "krybit",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Atlas Elektronik",
+        "discovered": "2026-06-25 22:42:22.875226",
+        "description": "https://www.zoominfo.com/c/atlas-elektronik-gmbh/22289599 https://www.zoominfo.com/c/atlas-north-america-llc/346681852 https://www.zoominfo.com/c/thyssenkrupp-marine-systems/559786010 www.atlas-elektronik.com na.atlas-elektronik.com https://www.tkmsgroup.com/atlas-elektronik/ ThyssenKrupp Marine Systems of Germany (often abbreviated TKMS) is a group and holding company of providers of naval vessels, surface ships and submarines. It was founded when large industrial conglomerate ThyssenKrupp acquired Howaldtswerke-Deutsche Werft on January 5, 2005 TKMS Group is a leading provider of integrated system solutions in maritime defense technologies, catering to the complex requirements of modern navies. The company specializes in surface vessels, submarines, and advan Atlas Elektronik, founded in 1902 and headquartered in Bremen, Germany, is a naval/marine electronics and systems business. It is involved in the development of integrated sonar systems for submarines and heavyweight torpedoes..",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Cyber Insurer Who Couldn't Cyber: MagMutual Leaves 7.3M Records Out to Dry",
+        "discovered": "2026-06-25 21:48:53.896751",
+        "description": "When the vault has no lock: A cyber insurance giant forgot to insure itself. 7,300,000 reasons to question your policy: Medical records, financial data, litigation file. HIPAA called. It's not happy: Millions of lines of patient data.",
+        "link": "view_article.php?article=TDBrdyOWwkYl3NwvHhweu1kQY54VhXu1mTweeAHx0B5VtSaPC5k2oNFYfKuPcUBg",
+        "magnet": null,
+        "screen": null,
+        "group_name": "leaknet",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Nachlass Nord",
+        "discovered": "2026-06-25 19:21:52.627147",
+        "description": "Inheritance lawyers expose IDs, estate records, and client data.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/LV3JnAvP7UF858HMgd4nhEO2w6rZhz9w5DmLG5ET97jvSkg6153agbooFxgyRTuRERaXSA7N2z750z7VTC9T0dTWW9rMDds",
+        "magnet": null,
+        "screen": "screenshots/anubis/Nachlass Nord.png",
+        "group_name": "anubis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Clearview Eye Centre",
+        "discovered": "2026-06-25 18:48:25.383663",
+        "description": "https://www.clearvieweyecentre.com\n\t\t\t\t\t\t\t\t\tClearview Eye Centre is a state-of-the-art ophthalmology clinic run by doctors Faisal Adatia and Ryan Yau in Calgary, Alberta. They disregard security regulations and medical confidentiality, show no respect for their clients' privacy, and make no attempt to protect the information stored in their databases. Their practices are extremely lax, resulting in client information including medical records, personal data, incident reports, and financial and tax information being exposed to you.",
+        "link": "http://xyaaupqnht5foymeilb67uv5ljjod5o3uyq62llldv4r4jiqxj2nhoqd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Clearview Eye Centre.png",
+        "group_name": "interlock",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "roofdepot.com",
+        "discovered": "2026-06-25 18:48:10.877447",
+        "description": "Founded in 1998 and headquartered in Alpharetta, GA, Roof Depot is a roofing manufacturer that specializes in roof installation, repairs & replacement",
+        "link": "/uLzP0TsDiuseR83BjARDFmCrKPkiFuuX/roofdepot-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/roofdepotcom.png",
+        "group_name": "chaos",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "*************",
         "discovered": "2026-06-25 17:49:33.353743",
         "description": "Law firm provide legal services to individuals, businesses, and organizations. Their attorneys handle advice, court representation, contracts, and dispute resolution across areas like corporate, family, real estate, and estate law.",
@@ -88,65 +148,5 @@
         "screen": "screenshots/anubis/Quest Health Solutions.png",
         "group_name": "anubis",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "mlit.com.my UPDATE-FULL DATA DUMP NEW LINK 10GB",
-        "discovered": "2026-06-24 20:52:13.523866",
-        "description": "FULL DATA DUMP . The compromised data includes highly sensitive internal operations and financial records. Among the leaked files are complete individual Campaign Profit and Loss (PnL) statements, detailed revenue sheets, clawbacks, and general ledger accounts for several linked entities, including Salesworks Pte Ltd Taiwan Branch and Shaves2u HK Limited. Additionally, we have extracted complete directory trees and file structures from the internal network shares and remote desktop sessions, revealing thousands of corporate folders such as JAG Group, SWGP Excel Import, and various financial databases.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "jaggroup.com UPDATE-FULL DATA DUMP NEW LINK",
-        "discovered": "2026-06-24 20:52:11.348337",
-        "description": "Full database containing corporate emails (⁠@jaggroup.com⁠), Active Directory domain logins, and clear plain-text passwords.Complete Microsoft Dynamics GP databases, software license keys, financial reports, and system configuration Multiple compressed archives (⁠zBackups.zip⁠, ⁠wetransfer⁠ packages), SQL server connection data, and ⁠IM.mdb⁠ database files.Internal project management sheets (⁠Jag Project.xlsx⁠), user listings, purchasing, and sales import logs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "maglificioliliana.com",
-        "discovered": "2026-06-24 20:52:08.574463",
-        "description": "Over 400 GB of data has been accessed and exfiltrated. This includes product designs, historical fashion lines, and technical specifications for garments. Furthermore, we have obtained customer databases from various parts of the world, financial records, commercial contracts, employee data, personal files for all staff members within the network, daily operational documents, and more.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "lorenzoni-store.com",
-        "discovered": "2026-06-24 20:52:05.561174",
-        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "montechiaro-store.com",
-        "discovered": "2026-06-24 20:52:01.508502",
-        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "impulso-store.com",
-        "discovered": "2026-06-24 20:52:00.260444",
-        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
     }
 ]
