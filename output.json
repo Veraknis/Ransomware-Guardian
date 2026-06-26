@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Benchmark Industrial Supply",
+        "discovered": "2026-06-26 16:59:22.503541",
+        "description": "",
+        "link": "topic.php?id=Nd1Heuh3EIumLi",
+        "magnet": null,
+        "screen": "screenshots/play/Benchmark Industrial Supply.png",
+        "group_name": "play",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Precise Forms",
+        "discovered": "2026-06-26 15:57:30.633603",
+        "description": "Precise Forms, Inc. specializes in manufacturing high-quality aluminum forms for concrete construction, offering a complete line of standard and decorative forms along with necessary accessories. Their products cater to a variety of applications including residential homes, commercialbuildings, and swimming pools, designed for rapid setting and stripping to meet the needs of competitive contractors.We will upload 10gb of corporate data soon. Employee personal information (DLs (at least 15 numbers), 75 SSNs, and other personal docs), NDAs, projects, contracts and agreements, customer information and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "NSW Rural Fire Service",
+        "discovered": "2026-06-26 13:58:39.427843",
+        "description": "Data Leaked, Updated from Nova Team by investigate Affiliate provided informations.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mosaic Partners",
+        "discovered": "2026-06-26 12:59:36.776547",
+        "description": "The Swiss company Mosaic Partners specializes in providing IT services, software development, and systems engineering. It creates tailored digital solutions and applications to optimize business processes, covering areas such as CRM, cloud computing, and process management (e.g., in winemaking). The company's products are adapted to individual client needs, ensuring easy integration, data security, and rapid customization to meet market demands.",
+        "link": "/posts/1dd5a657-4b5f-49f0-9e0b-26cde29148ca",
+        "magnet": null,
+        "screen": "screenshots/payload/Mosaic Partners.png",
+        "group_name": "payload",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Clínica La Sabana",
+        "discovered": "2026-06-26 12:59:30.694718",
+        "description": "Clínica La Sabana (clinicalasabana.com) is a medical institution located in Bogotá, Colombia, specializing in the provision of comprehensive healthcare services. The company offers outpatient care, specialist consultations, surgical procedures, and physical therapy. Its primary areas of expertise include orthopedics, traumatology, otolaryngology, and diagnostic radiology.",
+        "link": "/posts/988ba95d-5c4b-49d2-8a14-3f14d9e4b785",
+        "magnet": null,
+        "screen": "screenshots/payload/Clínica La Sabana.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Software Arge",
+        "discovered": "2026-06-26 12:59:25.400435",
+        "description": "Software Arge is a leading technology company established in 2016, specializing in data analytics, data integration, data management, and artificial intelligence solutions tailored for enterprises. They offer a range of products including Qlik Cloud Analytics, Qlik Sense, and various Talend solutions, aimed at enhancing data-driven decision-making for clients across sectors such as banking, finance, energy, and manufacturing.",
+        "link": "/posts/3a53575b-d253-4694-811a-81abfa9a48e5",
+        "magnet": null,
+        "screen": "screenshots/payload/Software Arge.png",
+        "group_name": "payload",
+        "sector": "Technology"
+    },
+    {
         "post_title": "ingerman.com",
         "discovered": "2026-06-26 11:57:47.711910",
         "description": "Ingerman is a developer, builder and manager of multifamily housing communities throughout the Mid-Atlantic region.",
@@ -55,7 +115,7 @@
         "description": "",
         "link": "/blog/disclosures/6a3db3e25ae71db30ca592ca",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/inc ransom/Life Bridges.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
     },
@@ -65,7 +125,7 @@
         "description": "",
         "link": "/blog/disclosures/6a3db5855ae71db30ca5c454",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/inc ransom/GSP Crop Science Pvt.png",
         "group_name": "inc ransom",
         "sector": "Agriculture"
     },
@@ -138,55 +198,5 @@
         "screen": "screenshots/chaos/roofdepotcom.png",
         "group_name": "chaos",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "*************",
-        "discovered": "2026-06-25 17:49:33.353743",
-        "description": "Law firm provide legal services to individuals, businesses, and organizations. Their attorneys handle advice, court representation, contracts, and dispute resolution across areas like corporate, family, real estate, and estate law.",
-        "link": "/Company/Announce/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/*************.png",
-        "group_name": "insomnia",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Padget Technologies",
-        "discovered": "2026-06-25 15:48:47.544919",
-        "description": "Padget Technologies specializes in advanced robotics and automation solutions tailored for efficient and cost-effective production. Their services include designing and fabricating custom machinery, assembly systems, and pre-engineered robotic palletizing cells.We will upload corporate data soon. Employee personal docs (DLs, SSNs, w9s and other sensitive docs), payment details, lot of NDAs, projects, contracts and agreements, client information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "JMS Southeast",
-        "discovered": "2026-06-25 15:48:46.593354",
-        "description": "JMS Southeast, Inc. specializes in high-quality temperature measurement and control products, including thermocouples, RTDs, thermowells, and transmitters, catering to various industries such as aerospace, pharmaceuticals, and oil and gas.We will upload 25gb of corporate data soon. Employee personal information (name, addresses and so on), payment details, NDAs, projects, contracts and agreements, agreements with government, customer information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "sansilvestre.edu.pe",
-        "discovered": "2026-06-25 14:53:27.780586",
-        "description": "San Silvestre School (Asociación Civil) is one of Peru's most prestigious private all-girls British schools, founded in...",
-        "link": "/blog/69b67084deca6738eeee5ddfbfe8a86e93a924dfeacede1dbdc07c797530feb9/",
-        "magnet": null,
-        "screen": "screenshots/krybit/sansilvestreedupe.png",
-        "group_name": "krybit",
-        "sector": "Education"
-    },
-    {
-        "post_title": "naic.org",
-        "discovered": "2026-06-25 12:54:02.850214",
-        "description": "The previous statement was overstated due to an analytical error and an AI-generated misinterpretation of the underlying data. This is a more accurate analyses after human review: Over 3.1tbs of NAIC.org (105k files) was compromised across NAIC's INSData statutory filing platform and Vision credit rating feed server, including approximately 264k insurer regulatory filing PDFs spanning property/casualty, health, and life/A&H lines from 2017–2024; 2k bulk order and customer records with purchaser names, email addresses, and payment transaction identifiers; 45k licensed rating agency files from Moody's, Fitch, S&P, Kroll, DBRS, AM Best, Egan-Jones, and HR Ratings containing CUSIP and ISIN identifiers dating back to 2016; statutory annual and quarterly financial statements; HR Ratings master data; and NAIC's production AWS infrastructure configuration logs and workload automation platform, the latter containing SQL scripts and stored credentials for SERFF, OPTins, and UCAA production environments.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Finance"
     }
 ]
