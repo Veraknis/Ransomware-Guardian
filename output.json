@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "acemacon.org",
+        "discovered": "2026-06-27 13:35:10.497356",
+        "description": "The Academy for Classical Education is dedicated to fostering knowledge and critical thinking skills in children, preparing them to be independent learners for life. It offers a comprehensive educational experience that includes fine arts, athleti | PUBLISHED 0% | Views: 10",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/acemaconorg.png",
+        "group_name": "3am",
+        "sector": "Education"
+    },
+    {
         "post_title": "Ayres Carr & Sullivan, P.C.",
         "discovered": "2026-06-27 11:25:09.304858",
         "description": "Ayres Carr & Sullivan, P.C. is a longstanding, general civil practice and trial law firm based in Indianapolis, Indiana. Tracing its roots back to 1914, the firm serves clients across the state with a focus on civil litigation, trial practice, and specialized matters including probate, bankruptcy, and corporation law. Primary Location: 251 E. Ohio St., Suite 500, Indianapolis, IN 46204 Primary Practice Areas: Civil Litigation, Trial Practice, Personal Injury, Corporation Law, Probate, and Bankruptcy Key Attorneys: William S. Ayres, John R. Carr III, and Bret Clement https://www.linkedin.com/company/ayres-carr-&-sullivan-pc",
@@ -168,65 +178,5 @@
         "screen": "screenshots/settra/canopybrandsus.png",
         "group_name": "settra",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Benchmark Industrial Supply",
-        "discovered": "2026-06-26 16:59:22.503541",
-        "description": "",
-        "link": "topic.php?id=Nd1Heuh3EIumLi",
-        "magnet": null,
-        "screen": "screenshots/play/Benchmark Industrial Supply.png",
-        "group_name": "play",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Precise Forms",
-        "discovered": "2026-06-26 15:57:30.633603",
-        "description": "Precise Forms, Inc. specializes in manufacturing high-quality aluminum forms for concrete construction, offering a complete line of standard and decorative forms along with necessary accessories. Their products cater to a variety of applications including residential homes, commercialbuildings, and swimming pools, designed for rapid setting and stripping to meet the needs of competitive contractors.We will upload 10gb of corporate data soon. Employee personal information (DLs (at least 15 numbers), 75 SSNs, and other personal docs), NDAs, projects, contracts and agreements, customer information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "NSW Rural Fire Service",
-        "discovered": "2026-06-26 13:58:39.427843",
-        "description": "Data Leaked, Updated from Nova Team by investigate Affiliate provided informations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mosaic Partners",
-        "discovered": "2026-06-26 12:59:36.776547",
-        "description": "The Swiss company Mosaic Partners specializes in providing IT services, software development, and systems engineering. It creates tailored digital solutions and applications to optimize business processes, covering areas such as CRM, cloud computing, and process management (e.g., in winemaking). The company's products are adapted to individual client needs, ensuring easy integration, data security, and rapid customization to meet market demands.",
-        "link": "/posts/1dd5a657-4b5f-49f0-9e0b-26cde29148ca",
-        "magnet": null,
-        "screen": "screenshots/payload/Mosaic Partners.png",
-        "group_name": "payload",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Clínica La Sabana",
-        "discovered": "2026-06-26 12:59:30.694718",
-        "description": "Clínica La Sabana (clinicalasabana.com) is a medical institution located in Bogotá, Colombia, specializing in the provision of comprehensive healthcare services. The company offers outpatient care, specialist consultations, surgical procedures, and physical therapy. Its primary areas of expertise include orthopedics, traumatology, otolaryngology, and diagnostic radiology.",
-        "link": "/posts/988ba95d-5c4b-49d2-8a14-3f14d9e4b785",
-        "magnet": null,
-        "screen": "screenshots/payload/Clínica La Sabana.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Software Arge",
-        "discovered": "2026-06-26 12:59:25.400435",
-        "description": "Software Arge is a leading technology company established in 2016, specializing in data analytics, data integration, data management, and artificial intelligence solutions tailored for enterprises. They offer a range of products including Qlik Cloud Analytics, Qlik Sense, and various Talend solutions, aimed at enhancing data-driven decision-making for clients across sectors such as banking, finance, energy, and manufacturing.",
-        "link": "/posts/3a53575b-d253-4694-811a-81abfa9a48e5",
-        "magnet": null,
-        "screen": "screenshots/payload/Software Arge.png",
-        "group_name": "payload",
-        "sector": "Technology"
     }
 ]
