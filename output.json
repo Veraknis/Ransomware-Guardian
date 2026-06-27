@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "hellmold-plank.de",
+        "discovered": "2026-06-27 20:59:34.067471",
+        "description": "Founded in 1904 by Heinrich Hellmold and Heinrich Plank, the company has evolved from a local cartage business into a …",
+        "link": "/blog/post/hellmold-plankde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hellmold-plankde.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "J&J Gaming",
+        "discovered": "2026-06-27 20:59:31.487472",
+        "description": "",
+        "link": "topic.php?id=4w1k2am8Ci4C3d",
+        "magnet": null,
+        "screen": "screenshots/play/J&J Gaming.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kuhnline",
+        "discovered": "2026-06-27 20:59:30.374936",
+        "description": "",
+        "link": "topic.php?id=PpzPwMHniRvNIx",
+        "magnet": null,
+        "screen": "screenshots/play/Kuhnline.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hologic",
+        "discovered": "2026-06-27 20:22:25.705634",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/redact/Hologic.png",
+        "group_name": "redact",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FCCI Insurance Group",
+        "discovered": "2026-06-27 20:20:53.146995",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/redact/FCCI Insurance Group.png",
+        "group_name": "redact",
+        "sector": "Finance"
+    },
+    {
         "post_title": "acemacon.org",
         "discovered": "2026-06-27 13:35:10.497356",
         "description": "The Academy for Classical Education is dedicated to fostering knowledge and critical thinking skills in children, preparing them to be independent learners for life. It offers a comprehensive educational experience that includes fine arts, athleti | PUBLISHED 0% | Views: 10",
@@ -38,145 +88,5 @@
         "screen": "screenshots/inc ransom/callhortoncom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Data Leak Update",
-        "discovered": "2026-06-26 21:53:11.762722",
-        "description": "** Do ML IT and vspsolutions.com.au think they are smarter than us? They are reporting the links where the data was uploaded, and they are being disabled. Therefore, and officially, we are preparing a private server on the Tor network to dump all the data of these companies and the data of others. Which will be available to everyone 24/7 along with a clear view of the extracted data, employees",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "johndufourlaw.com",
-        "discovered": "2026-06-26 21:52:51.543744",
-        "description": "",
-        "link": "/blog/disclosures/6a3ec89a5ae71db30cc28853",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/johndufourlawcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "theswansonlawgroup.com",
-        "discovered": "2026-06-26 21:52:45.639960",
-        "description": "",
-        "link": "/blog/disclosures/6a3ecaeb5ae71db30cc2d19e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/theswansonlawgroupcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "lifevantage.com",
-        "discovered": "2026-06-26 19:25:17.931338",
-        "description": "585 GIGABYTES — leaked data that was meant to stay hidden. A complete digital snapshot of a corporation that has quietly profited from the hopes of millions of people for decades.\r\n\r\nThousands of emails. Financial reports. Payroll records with Social Security numbers. Banking details. Manufacturing formulas with a full list of suppliers. Legal agreements. Internal correspondence with regulators. Receipts belonging to real people — with real addresses.\r\n\r\nAnd all of it is in our possession, not just in the vaults of LifeVantage Corporation.\r\n\r\nThis article contains only a portion of the data we have chosen to disclose. Everything else will be available for download and independent review after the full archive is released.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/lifevantagecom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "turbodata.com",
-        "discovered": "2026-06-26 19:24:25.277770",
-        "description": "A parking ticket is the most trivial document that can enter your life. A scrap of paper under the windshield wiper. Forty dollars. Most people pay and forget about it.\r\n\r\nBehind that scrap of paper stands a private company that knows more about you than your bank does. It knows your license plate number. It knows who the vehicle is registered to — it has a direct online interface to the DMV database and access to the national NLETS network, which returns vehicle owner records from all fifty states. It knows your home address. And if you didn't pay on time — it purchases your Social Security number from a third-party data broker so it can intercept your state income tax refund through the Franchise Tax Board. Or your lottery winnings. At the same time, your debt gets reported to a credit bureau, and your car gets flagged for a registration hold.\r\n\r\nThat company is Turbo Data Systems, Inc. Over more than forty years, it has become the invisible operator of the ticketing machine for more than 130 cities, police departments, universities, and hospitals across California. Through it flows the issuance of citations, the collection of payments, the placement of vehicles on registration holds, and the referral of debtors to the state tax authority, collection agencies, and credit bureaus. All of that work has accumulated in one digital archive: names, addresses, license plates, VINs, Social Security numbers of motorists, banking details for 130 municipal accounts, tax forms and medical records belonging to the company's own employees, and confidential pricing documents from competitors. We have over a quarter of a terabyte of data — more than 230 gigabytes.\r\n\r\nThis article contains only a portion of the data we have chosen to disclose. Everything else will be available to download and review independently once the full archive is released.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/turbodatacom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "qdi.com",
-        "discovered": "2026-06-26 19:23:14.064411",
-        "description": "Quality Dining, Inc. Accounting Archive — we have more than 1,000 versions of financial reports from 2021–2026; approximately 39,000 primary documents (payroll reports, ADP tax registers, bank instructions, supplier invoices); approximately 15,000 payroll documents; entire series of backup copies with metadata for each file — who created it, who last saved it, when.\r\n\r\nQuality Dining operates Burger King, Chili's, Slim Chickens, and Bravo restaurants from a single office: 4220 Edison Lakes Parkway, Suite 300, Mishawaka, Indiana 46545.\r\n\r\nIn this article, you will have access to only a portion of the data we have decided to disclose. Everything else you will be able to download and review independently after the full archive is published.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/qdicom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "dystar.com",
-        "discovered": "2026-06-26 19:22:13.512301",
-        "description": "1.3 terabytes of data — from a company that manufactures dyes for the global textile industry.\r\n\r\nInside: financial reports and AR registers. Budget letters with instructions for global controllers. Technical specifications for cloud systems. Employee lists with Microsoft 365 account identifiers. Banking details belonging to the company itself and its clients. Board of directors minutes. OSHA inspection records and complaints from neighboring residents. Lists of active litigation across six countries. Records of government subsidies.\r\n\r\nAll of it — internal documents belonging to DyStar, a global manufacturer of textile dyes headquartered in Singapore.\r\n\r\nThis article contains only a portion of the data we have chosen to disclose. Everything else will be available to download and review independently once the full archive is released.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/dystarcom.png",
-        "group_name": "settra",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "pchome.com.tw",
-        "discovered": "2026-06-26 19:18:59.954729",
-        "description": "A payment company sells trust, security, and reliability. Its internal files tell a different story.\r\nTHE ARCHIVE THAT WAS NEVER MEANT TO LEAVE\r\n\r\nInside the servers of PiPay International Information Corp. and International Link Co., Ltd., you will find: data on more than 3.5 million users, a police watchlist of more than 87,000 citizens, payroll records containing home addresses, production database schemas, and nine years of operational history — all sitting in a single archive.\r\n\r\nThis article covers only a portion of the data we have chosen to disclose. The complete archive will be available for download and independent review following full publication.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/pchomecomtw.png",
-        "group_name": "settra",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "va-glass.com",
-        "discovered": "2026-06-26 19:17:19.320981",
-        "description": "We have an archive of data from Virginia Glass & Mirror Holdings LLC — a group of companies manufacturing glass and mirrors in Virginia (USA), owned since December 2022 by private equity fund Gemini Investors.\r\n\r\nThe scale of the archive: 671,653 files totaling 443 gigabytes. Inside — emails, spreadsheets, contracts, receipts, medical records, regulatory reports, tax forms, photographs. The company's complete operational memory spanning more than a decade of operations.\r\n\r\nInside — full Social Security Numbers of rank-and-file workers, the full SSN of the company's CEO in an unencrypted bank form. The SSN and personal address of the chief controller and his wife — on a tax form embedded in the corporate archive. Employee bank account details — routing numbers, account numbers — from an ACH payroll file. A sales department employee's passport details with home address. Medical records from workplace injuries. Data on environmental violations. Lead emissions up 80% year-over-year. Illegal discharge — two photos in the archive with no captions.\r\n\r\nAnd on top of all this — documents about the transaction by which Gemini Investors acquired control of the company with 94.79% ownership for $5 million in investment.\r\n\r\nThis article presents only a portion of the data selected for publication. The full archive is planned for release for download and independent review at a later date.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/va-glasscom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "tmscentral.com",
-        "discovered": "2026-06-26 19:16:09.723181",
-        "description": "In the archive of Total Monitoring Services: dealer agreements; a subcontract that routes every dispute into mandatory arbitration; a confidentiality agreement concerning an investment in the company. HR investigations and disciplinary actions with employees' names, pay rates, and signatures. Invoices to a federal customer. A receipt bearing a customer's payment-card number. And, as a layer of its own, the owner's personal identity archive: passport, weapon permit, tax forms, bank statements, family members' Social Security documents.\r\n\r\nIn this article you will see only a portion of the documents we have chosen to disclose. The rest will be available for review after full publication.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/tmscentralcom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "doosan.com",
-        "discovered": "2026-06-26 19:15:13.126935",
-        "description": "Over 3.2 terabytes of data. A complete digital snapshot of a corporate group that has spent decades manufacturing equipment that workers trust with their lives on construction sites around the world.\r\n\r\nThousands of internal emails. Signed settlement agreements with suppliers covering every major defect. Financial statements from subsidiaries across eight countries. Payroll records. Bank account details in multiple currencies — and a full history of every time those details changed. Product line items under US export controls tied to chemical weapons non-proliferation. An internal support ticket asking: \"Are we even still supplying the safety latch for the quick-coupler?\"\r\n\r\nComplete engineering drawings and manufacturing tooling — hundreds of PDFs and original CAD files from which the product could be reproduced from scratch. Field modification and rework tools for known hydraulic defects — documented, signed, with tolerances measured in thousandths of an inch. Sixteen years of patent strategy: what the company patented, what it studied in competitors' work, which competitors it was preparing patent claims against — and a federal lawsuit filed against Bobcat itself. Personal data of US employees: Social Security numbers, payroll direct deposit bank accounts, medical records.\r\n\r\nThis article contains only a portion of the data we have chosen to disclose. Everything else will be available to download and review independently once the full archive is released.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/doosancom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "hmcfarms.com",
-        "discovered": "2026-06-26 19:14:30.556459",
-        "description": "Inside the THE HMC GROUP company archive: tax returns for twenty-five legal entities — including the Social Security Numbers of the holding's founders. Pay stubs for hundreds of employees, complete with home addresses and hourly rates. A full list of drivers with dates of birth and driver's license numbers. Corporate bank account details for Wells Fargo and Bank of America — readable directly from the MICR lines of scanned checks. Wage garnishment records for specific employees. Tax documents of a private family foundation. Financial reports of a captive insurance company.\r\n\r\nThis article presents only a portion of the data we have chosen to disclose. Everything else will be available for download and independent review after the full archive is published.\r\n",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/hmcfarmscom.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "conduril.pt",
-        "discovered": "2026-06-26 19:10:23.899561",
-        "description": "Conduril builds dams. Bridges. Ports. The kind of things that stand for decades.\r\n\r\nThe World Bank entrusts it with contracts. The European Investment Bank signs agreements. Every tender carries solemn commitments: protection of personal data, human rights, anti-corruption compliance, grievance mechanisms.\r\n\r\nAnd then its archive comes into our possession.\r\n\r\n174 gigabytes of the company's internal documents.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/condurilpt.png",
-        "group_name": "settra",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "canopybrands.us",
-        "discovered": "2026-06-26 19:09:05.688339",
-        "description": "A holding company that sells people safety at height failed to keep its own data safe up there.\r\n\r\nIn this article you will be able to review only a portion of the data we have chosen to disclose; everything else you will be able to download and examine for yourself once all the data has been published.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/settra/canopybrandsus.png",
-        "group_name": "settra",
-        "sector": "Finance"
     }
 ]
