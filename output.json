@@ -1,5 +1,15 @@
 [
     {
+        "post_title": "ford.mx",
+        "discovered": "2026-06-28 19:58:50.155031",
+        "description": "Ford Motor Company, S.A. de C.V. (Ford de Mexico) is the Mexican subsidiary of Ford Motor Company (USA), the first autom...",
+        "link": "/blog/43109641a8e48eacf077ae756b301acf81e33689c26a6170abf6e17983895bf4/",
+        "magnet": null,
+        "screen": "screenshots/krybit/fordmx.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Thyssenkrupp Marine Systems (TKMS) GmbH / Atlas Elektronik",
         "discovered": "2026-06-28 17:12:47.318036",
         "description": "https://www.zoominfo.com/c/atlas-elektronik-gmbh/22289599 https://www.zoominfo.com/c/atlas-north-america-llc/346681852 https://www.zoominfo.com/c/thyssenkrupp-marine-systems/559786010 www.atlas-elektronik.com na.atlas-elektronik.com https://www.tkmsgroup.com/atlas-elektronik/ ThyssenKrupp Marine Systems of Germany (often abbreviated TKMS) is a group and holding company of providers of naval vessels, surface ships and submarines. It was founded when large industrial conglomerate ThyssenKrupp acquired Howaldtswerke-Deutsche Werft on January 5, 2005 TKMS Group is a leading provider of integrated system solutions in maritime defense technologies, catering to the complex requirements of modern navies. The company specializes in surface vessels, submarines, and advan Atlas Elektronik, founded in 1902 and headquartered in Bremen, Germany, is a marine electronics and systems business. It is involved in the development of integrated sonar systems for submarines and heavyweight torpedoes. 1TB+",
@@ -18,55 +28,5 @@
         "screen": null,
         "group_name": "cmd organization",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "hellmold-plank.de",
-        "discovered": "2026-06-27 20:59:34.067471",
-        "description": "Founded in 1904 by Heinrich Hellmold and Heinrich Plank, the company has evolved from a local cartage business into a …",
-        "link": "/blog/post/hellmold-plankde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/hellmold-plankde.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "J&J Gaming",
-        "discovered": "2026-06-27 20:59:31.487472",
-        "description": "",
-        "link": "topic.php?id=4w1k2am8Ci4C3d",
-        "magnet": null,
-        "screen": "screenshots/play/J&J Gaming.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kuhnline",
-        "discovered": "2026-06-27 20:59:30.374936",
-        "description": "",
-        "link": "topic.php?id=PpzPwMHniRvNIx",
-        "magnet": null,
-        "screen": "screenshots/play/Kuhnline.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hologic",
-        "discovered": "2026-06-27 20:22:25.705634",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/redact/Hologic.png",
-        "group_name": "redact",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "FCCI Insurance Group",
-        "discovered": "2026-06-27 20:20:53.146995",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/redact/FCCI Insurance Group.png",
-        "group_name": "redact",
-        "sector": "Finance"
     }
 ]
