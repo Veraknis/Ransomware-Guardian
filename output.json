@@ -1,5 +1,185 @@
 [
     {
+        "post_title": "Musashino University",
+        "discovered": "2026-06-29 19:01:09.502181",
+        "description": "Education",
+        "link": "/site/blog?uuid=8eb0e50b-2e9b-4229-8d9b-8a2fa8262c00",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Lørenskog kommune",
+        "discovered": "2026-06-29 19:00:48.005404",
+        "description": "Lørenskog kommune offers a range of services including education, health care, social services, and community development. Their intended clients include residents seeking information on property tax, childcare, and various cultural and recreational activities. The municipality also engages with the public through political meetings and community involvement initiatives. Additionally, Lørenskog kommune celebrates local events and milestones, fostering a sense of community among its residents.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Bonacio",
+        "discovered": "2026-06-29 18:01:36.135308",
+        "description": "",
+        "link": "/r/31fc2210d41b29da8ec8edd12d19d0917e12792a",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Bonacio.png",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KALIACT ANCHETA et Associs",
+        "discovered": "2026-06-29 18:01:34.877371",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=ccddb420-de65-4577-8d05-f1c349e15103",
+        "magnet": null,
+        "screen": "screenshots/qilin/KALIACT ANCHETA et Associs.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Metal Sur Famin",
+        "discovered": "2026-06-29 18:01:32.724517",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=cac189ac-d526-4846-bb5b-30664bf942be",
+        "magnet": null,
+        "screen": "screenshots/qilin/Metal Sur Famin.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "guardianbarrierservices.com",
+        "discovered": "2026-06-29 16:35:19.231197",
+        "description": "Guardian Barrier Services provides a wide range of products and services for events, including crowd control barriers, cable ramps, truss structures, and temporary flooring. Their experienced team supports clients from the planning stage to the ex | PUBLISHED 0% | Views: 16",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/guardianbarrierservicescom.png",
+        "group_name": "3am",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ESMS Global Limited",
+        "discovered": "2026-06-29 16:21:36.817762",
+        "description": "Medical information services data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ynZnbvXp6sKYwH2KTKofzN0r0W1AeMz+spG3fF+XR3eVwETrgf1uXZg0sN1bCE1SfrCXN1zbeti325qJIY1+FzNPQVJXOXN1",
+        "magnet": null,
+        "screen": "screenshots/anubis/ESMS Global Limited.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Boston Orthotics & Prosthetics",
+        "discovered": "2026-06-29 16:21:35.273594",
+        "description": "Patient data breach at yet another negligent clinic.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/YkFrufzMlC5yyvaylrJzs4qn9C1Rvuwnb2V8i2CNYw0nIVChKkNpL4WjTrZ4JFZZSC1djRGtNJ4lhEjSFlDYWVMZU1v",
+        "magnet": null,
+        "screen": "screenshots/anubis/Boston Orthotics & Prosthetics.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Lam Soon",
+        "discovered": "2026-06-29 15:54:13.342481",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=b8094546-2286-4db0-aa25-4c12fc65e1be",
+        "magnet": null,
+        "screen": "screenshots/qilin/Lam Soon.png",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Bristol Place",
+        "discovered": "2026-06-29 15:54:12.460169",
+        "description": "0",
+        "link": "/site/blog?uuid=23638b37-efe6-4aac-9206-160607d09b29",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bristol Place.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Gsma",
+        "discovered": "2026-06-29 15:54:11.524404",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=04d80cd8-9c4d-472a-87b4-3c29c3d85bb5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Gsma.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "GDN AR(Dorinka)",
+        "discovered": "2026-06-29 15:53:55.210149",
+        "description": "",
+        "link": "/blog/disclosures/6a42457f5ae71db30c23ffa4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/GDN AR(Dorinka).png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "medipakpharma.com",
+        "discovered": "2026-06-29 15:53:52.994756",
+        "description": "The Pakistani pharmaceutical company Medipak Limited (medipakpharma.com) specializes in the manufacture of infusion solutions, medical devices, and pharmaceutic...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "hwaseng",
+        "discovered": "2026-06-29 15:53:52.008811",
+        "description": "A Taiwanese manufacturer with forty years of experience, specializing in the high-precision production of metal fasteners, precision-machined parts, and compone...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "agroprime",
+        "discovered": "2026-06-29 15:53:50.805523",
+        "description": "development of specialized software (SaaS) for automating agribusiness management and monitoring field personnel",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "stni.co.kr",
+        "discovered": "2026-06-29 15:53:48.760199",
+        "description": "Creating accurate virtual replicas involves production facilities, workshops, and equipment for modeling, testing, and optimizing technological processes.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "vipimaging",
+        "discovered": "2026-06-29 15:53:47.138187",
+        "description": "VIP Imaging is the largest mobile nuclear imaging company in Southern California, specializing in cardiac PET/CT and SPECT studies for cardiologists. The compan...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "METCO Services, Metco Southeast",
+        "discovered": "2026-06-29 15:53:44.838024",
+        "description": "Metco Services is a multi-disciplined consulting firm specializing in engineering services for the water and wastewater industry. They provide study, design, and construction engineering services to publicly owned water and wastewater collection and treatment systems. With over 100 years of combined industry experience, their team focuses on efficient system utilization to optimize value. Their clientele includes municipalities in Michigan, Ohio, Pennsylvania, and Florida.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "cmd organization",
+        "sector": "Professional Services"
+    },
+    {
         "post_title": "viennaairport.com (SOLD TO 3RD PARTY)",
         "discovered": "2026-06-29 11:59:45.999775",
         "description": "SOLD TO 3RD Party! No DATA AVALIABLE! Vienna Airport (Flughafen Wien AG) is an Austrian company, ...",
@@ -168,15 +348,5 @@
         "screen": "screenshots/krybit/fordmx.png",
         "group_name": "krybit",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Thyssenkrupp Marine Systems (TKMS) GmbH / Atlas Elektronik",
-        "discovered": "2026-06-28 17:12:47.318036",
-        "description": "https://www.zoominfo.com/c/atlas-elektronik-gmbh/22289599 https://www.zoominfo.com/c/atlas-north-america-llc/346681852 https://www.zoominfo.com/c/thyssenkrupp-marine-systems/559786010 www.atlas-elektronik.com na.atlas-elektronik.com https://www.tkmsgroup.com/atlas-elektronik/ ThyssenKrupp Marine Systems of Germany (often abbreviated TKMS) is a group and holding company of providers of naval vessels, surface ships and submarines. It was founded when large industrial conglomerate ThyssenKrupp acquired Howaldtswerke-Deutsche Werft on January 5, 2005 TKMS Group is a leading provider of integrated system solutions in maritime defense technologies, catering to the complex requirements of modern navies. The company specializes in surface vessels, submarines, and advan Atlas Elektronik, founded in 1902 and headquartered in Bremen, Germany, is a marine electronics and systems business. It is involved in the development of integrated sonar systems for submarines and heavyweight torpedoes. 1TB+",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
     }
 ]
