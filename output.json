@@ -1,11 +1,31 @@
 [
     {
+        "post_title": "Kunert Fashion",
+        "discovered": "2026-06-29 20:58:06.305234",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=4e1db28d-1fa6-4d7c-b4cf-4477b4db7a5e",
+        "magnet": null,
+        "screen": null,
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "C****h",
+        "discovered": "2026-06-29 20:58:04.991350",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Musashino University",
         "discovered": "2026-06-29 19:01:09.502181",
         "description": "Education",
         "link": "/site/blog?uuid=8eb0e50b-2e9b-4229-8d9b-8a2fa8262c00",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Musashino University.png",
         "group_name": "qilin",
         "sector": "Education"
     },
@@ -338,15 +358,5 @@
         "screen": "screenshots/qilin/Transcore.png",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ford.mx",
-        "discovered": "2026-06-28 19:58:50.155031",
-        "description": "Ford Motor Company, S.A. de C.V. (Ford de Mexico) is the Mexican subsidiary of Ford Motor Company (USA), the first autom...",
-        "link": "/blog/43109641a8e48eacf077ae756b301acf81e33689c26a6170abf6e17983895bf4/",
-        "magnet": null,
-        "screen": "screenshots/krybit/fordmx.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
     }
 ]
