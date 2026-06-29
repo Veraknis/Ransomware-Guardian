@@ -1,5 +1,165 @@
 [
     {
+        "post_title": "viennaairport.com (SOLD TO 3RD PARTY)",
+        "discovered": "2026-06-29 11:59:45.999775",
+        "description": "SOLD TO 3RD Party! No DATA AVALIABLE! Vienna Airport (Flughafen Wien AG) is an Austrian company, ...",
+        "link": "/page_company.php?id=171",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/viennaairportcom (SOLD TO 3RD PARTY).png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Axionlog",
+        "discovered": "2026-06-29 05:54:21.231642",
+        "description": "Freight & Logistics Services",
+        "link": "/site/blog?uuid=16f73732-0e0d-41b6-b200-3d61862e2d98",
+        "magnet": null,
+        "screen": "screenshots/qilin/Axionlog.png",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "NASCO",
+        "discovered": "2026-06-29 05:54:20.245847",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=39ffae26-2910-4b24-9926-9112f1be26b1",
+        "magnet": null,
+        "screen": "screenshots/qilin/NASCO.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Driving School Software",
+        "discovered": "2026-06-28 23:59:51.604821",
+        "description": "Hundreds of driving schools impacted.\n\n16 Million rows of SQL, 8000 FULL credit cards, and more.\n\nFull leak post + data available on the new PRINZ EUGEN site.\n\nprinzkpn6d3itrgcytmsmlcpt5mgwn3ihpck2hsed5cezlbtbi3wklid.onion",
+        "link": "/driving-school-software",
+        "magnet": null,
+        "screen": "screenshots/prinz eugen/Driving School Software.png",
+        "group_name": "prinz eugen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "maglificioliliana.com UPDATE-FULL DATA DUMP FREE PART1",
+        "discovered": "2026-06-28 23:02:27.568155",
+        "description": "Over +10GB GB of data has been accessed and exfiltrated. This includes product designs, historical fashion lines, and technical specifications for garments. Furthermore, we have obtained customer databases from various parts of the world, financial records, commercial contracts, employee data, personal files for all staff members within the network, daily operational documents, and more.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "lorenzoni-store.com UPDATE-FULL DATA DUMP FREE PART1",
+        "discovered": "2026-06-28 23:02:26.301898",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "montechiaro-store.com UPDATE-FULL DATA DUMP FREE PART1",
+        "discovered": "2026-06-28 23:02:24.676481",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "impulso-store.com UPDATE-FULL DATA DUMP FREE PART1",
+        "discovered": "2026-06-28 23:02:22.324571",
+        "description": "Complete data belonging to customers and buyers has been accessed, along with designs, orders, and other assets. This includes all domains associated with the parent company: maglificioliliana.com/",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "higuchi-inc.co.jp",
+        "discovered": "2026-06-28 23:02:21.070298",
+        "description": "(Dallas - HongKong - LosAngeles ) Comprehensive financial statements including Balance Sheets, Asset records, Liabilities, Capital, Accounts Receivable (A/R), and Accounts Payable (A/P) database backups from Sage 50 (formerly Peachtree Accounting software), indicated by the ⁠.ptb⁠ file extension Corporate data detailing domestic and international inventory tracking, trade checking, and business operations.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "HIGUCHI USA, INC",
+        "discovered": "2026-06-28 23:02:20.172068",
+        "description": "(Dallas - HongKong - LosAngeles ) Comprehensive financial statements including Balance Sheets, Asset records, Liabilities, Capital, Accounts Receivable (A/R), and Accounts Payable (A/P) database backups from Sage 50 (formerly Peachtree Accounting software), indicated by the ⁠.ptb⁠ file extension Corporate data detailing domestic and international inventory tracking, trade checking, and business operations.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "eogb.co.uk",
+        "discovered": "2026-06-28 23:02:16.100187",
+        "description": "Deep access to Microsoft Dynamics GP containing complete corporate accounting, invoices, vendor details, and commercial transactions.Access to internal legal documents, partnership agreements, and customer contracts (such as CBIF OSMO agreements).Exfiltration of operational spreadsheets, financial reports, and executive documents via corporate",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "eshacloudqa.com",
+        "discovered": "2026-06-28 23:02:09.682560",
+        "description": "We have breached ESHA Research / ESHA Cloud Services and compromised their core product development databases. The exfiltrated data includes highly confidential industry secrets and formulation data Complete intellectual property containing secret product designs, manufacturing blueprints, and recipes (⁠SupplementFormula⁠, ⁠PureFood⁠, ⁠FoodGroup⁠).Deep laboratory data, nutritional testing breakdowns, and allergen classification records (⁠SupplementIngredient⁠, ⁠Analysis⁠, ⁠AllergenGroup⁠, Sensitive registries containing client profiles, user metrics, and market consumer data (⁠Consumer⁠, ⁠Activity⁠).",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "monoprix.tn",
+        "discovered": "2026-06-28 23:02:05.480180",
+        "description": "Data description: Pending update",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Official Statement: Protecting palatineschool.org Infrastructure",
+        "discovered": "2026-06-28 23:02:02.620475",
+        "description": "During our routine network security audits, our team discovered critical structural vulnerabilities within Palatine School, which granted us full, unrestricted access to their central server (PALDC2020). We had the technical capacity to access every directory, including pupil databases (⁠ StudentData NHS NO ) ⁠, ⁠Pupil Admin - Users -FocusIT⁠) and staff records ⁠Personnel⁠.We want to announce that we have locked down this operation and decided to leak absolutely nothing.This is an institution dedicated to children and special needs education. Unlike corporate thieves or ruthless threat actors, we operate with a strict code of ethics: we do not target children, schools, or healthcare facilities.Instead of destroying them, we have chosen to act as an uninvited security audit. We are using our platform to publicly invite the administration of Palatine School to contact us privately. We will provide them with the full technical details of the critical vulnerabilities we discovered and guide them on how to patch their system for free, ensuring they are protected from other ruthless cyber criminals.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Education"
+    },
+    {
+        "post_title": "1-800-dentist",
+        "discovered": "2026-06-28 23:01:59.722091",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=764d68f8-7f13-45c1-99f9-c8d5ac187a12",
+        "magnet": null,
+        "screen": "screenshots/qilin/1-800-dentist.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Transcore",
+        "discovered": "2026-06-28 23:01:58.742815",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=7a16da08-fd95-4288-931c-49f334ca12ca",
+        "magnet": null,
+        "screen": "screenshots/qilin/Transcore.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "ford.mx",
         "discovered": "2026-06-28 19:58:50.155031",
         "description": "Ford Motor Company, S.A. de C.V. (Ford de Mexico) is the Mexican subsidiary of Ford Motor Company (USA), the first autom...",
@@ -18,15 +178,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Fidelity Security Group",
-        "discovered": "2026-06-28 12:52:21.161630",
-        "description": "Excellence in service delivery and implementation are fundamental to our impressive track record. By keeping abreast of the latest trends and technological developments globally, and continuously evolving and innovating, the Group remains a front-runner in the security solutions market. Through a bouquet of services and related products the Group can tailor make a solution for any requirement.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Transportation"
     }
 ]
