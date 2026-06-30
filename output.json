@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "Brooklyn Defender Services",
+        "discovered": "2026-06-30 19:58:08.223840",
+        "description": "A legal organization dedicated to safeguard the rights of its clients",
+        "link": "/dc06151338c54194081a/",
+        "magnet": null,
+        "screen": null,
+        "group_name": "genesis",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "paipharma.com",
+        "discovered": "2026-06-30 18:55:43.100246",
+        "description": "Large volume data breach. Total size 1,4 Terabytes. Coming soon.",
+        "link": "/n/paipharma",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/paipharmacom.png",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Pou Sheng International",
+        "discovered": "2026-06-30 18:36:59.079740",
+        "description": "pousheng.com zoominfo.com/c/pou-sheng-international/352458448 They serve as a key distributor and exclusive agent for major global sportswear brands like Nike, adidas, PUMA, and Under Armour. The company operates a comprehensive online and offline sales network across the country to provide a full sports and lifestyle experience.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
         "post_title": "MakoLab",
         "discovered": "2026-06-30 18:12:30.140307",
         "description": "makolab.com zoominfo.com/c/makolab-sa/31278202 MakoLab, a prominent Polish IT consulting and software development company acting as a digital project house.The firm specializes in digital transformation, artificial intelligence, custom software engineering, and human-centric design.They provide comprehensive business and technology consulting, product design, and global 24/7 operations support to enterprise clients worldwide \n",
@@ -298,45 +328,5 @@
         "screen": "screenshots/embargo/wwwmaytruckingcom.png",
         "group_name": "embargo",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "Kunert Fashion",
-        "discovered": "2026-06-29 20:58:06.305234",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=4e1db28d-1fa6-4d7c-b4cf-4477b4db7a5e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kunert Fashion.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "C****h",
-        "discovered": "2026-06-29 20:58:04.991350",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Musashino University",
-        "discovered": "2026-06-29 19:01:09.502181",
-        "description": "Education",
-        "link": "/site/blog?uuid=8eb0e50b-2e9b-4229-8d9b-8a2fa8262c00",
-        "magnet": null,
-        "screen": "screenshots/qilin/Musashino University.png",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Lørenskog kommune",
-        "discovered": "2026-06-29 19:00:48.005404",
-        "description": "Lørenskog kommune offers a range of services including education, health care, social services, and community development. Their intended clients include residents seeking information on property tax, childcare, and various cultural and recreational activities. The municipality also engages with the public through political meetings and community involvement initiatives. Additionally, Lørenskog kommune celebrates local events and milestones, fostering a sense of community among its residents.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Healthcare"
     }
 ]
