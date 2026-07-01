@@ -1,5 +1,215 @@
 [
     {
+        "post_title": "Starpool",
+        "discovered": "2026-07-01 18:01:29.400870",
+        "description": "",
+        "link": "/companies/2426345623",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Starpool.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "COMHAR",
+        "discovered": "2026-07-01 18:01:28.467674",
+        "description": "",
+        "link": "/companies/6659711612",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/COMHAR.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "digitaldynamics.com",
+        "discovered": "2026-07-01 18:01:05.825274",
+        "description": "Details later. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
+        "link": "/n/digitaldynamics",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/digitaldynamicscom.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "goldenstateortho.com",
+        "discovered": "2026-07-01 18:01:04.858374",
+        "description": "We have about 150k documents and files of this company, with a total size of more than 150 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.c...",
+        "link": "/n/goldenstateortho",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/goldenstateorthocom.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "printronix.com",
+        "discovered": "2026-07-01 18:01:03.301777",
+        "description": "We have about 110k documents and files of this company, with a total size of more than 100 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.c...",
+        "link": "/n/printronix",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/printronixcom.png",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "blaofood.com",
+        "discovered": "2026-07-01 15:58:29.426656",
+        "description": "B'Laofood Joint Stock Company (formerly B'Laofood Company Limited until March 25, 2026) is a Vietnamese leading manufact...",
+        "link": "/blog/299da2348c6c4fbf61255f0840df240808a4e97e8cb36cedd90fbec981d5f489/",
+        "magnet": null,
+        "screen": "screenshots/krybit/blaofoodcom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "jaws.com.tw",
+        "discovered": "2026-07-01 15:58:28.525820",
+        "description": "JAWS Co., Ltd. (兆旭公司) is a Taiwanese manufacturer of electronic connectors and cable assemblies, founded in May ...",
+        "link": "/blog/39313bc67cfc4e123e9e7a7cbaa11adc275a96ff72e3a951d4593db6d028fc86/",
+        "magnet": null,
+        "screen": "screenshots/krybit/jawscomtw.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gsp.es",
+        "discovered": "2026-07-01 15:58:27.598740",
+        "description": "Global Software Partner S.L. (GSP) is a Spanish IT consulting and software company with over 30 years of experience in e...",
+        "link": "/blog/dc7ee87eb6a2e25dcd3f3dfd202126715f6160d98647bff01de1092dd89f9e33/",
+        "magnet": null,
+        "screen": "screenshots/krybit/gspes.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.diss.com",
+        "discovered": "2026-07-01 15:58:26.747037",
+        "description": "DISS Analytics is the digital solutions and statistical reporting division of DISS Corporation (Digital Imaging & Soluti...",
+        "link": "/blog/cf390eb1150ad8606a7a4c25537768aca7933252ad7f5a622260f33373a92296/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwwdisscom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gitmea.com",
+        "discovered": "2026-07-01 15:58:25.847748",
+        "description": "German Imaging Technologies (GIT) Dubai LLC is a German-founded company established in 1999, headquartered in Dubai, UAE...",
+        "link": "/blog/e7151f9c62b2ce53aff4f3813c6899cd9d6173ed631b6874663fccaf47238744/",
+        "magnet": null,
+        "screen": "screenshots/krybit/gitmeacom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TRANSPORTES Y LOGISTICA BRAS, S.A",
+        "discovered": "2026-07-01 15:58:24.906919",
+        "description": "Transportes y Logistica Bras, S.A. is a Guatemalan company specializing in heavy land transport and logistics services, ...",
+        "link": "/blog/8f92608da7fd29f35c725ebb627629d15c396fb9290422986e2d941496577f3d/",
+        "magnet": null,
+        "screen": "screenshots/krybit/TRANSPORTES Y LOGISTICA BRAS, SA.png",
+        "group_name": "krybit",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "aai.com.tw",
+        "discovered": "2026-07-01 15:58:23.950272",
+        "description": "AeroVision Avionics, Inc. (AAI) (利翔航太電子股份有限公司) is a Taiwanese high-tech company incorporated in ...",
+        "link": "/blog/f5b11ea64f1e8b628a97590888ece33f4091ad247ab5faa56dc1deccd783a8d6/",
+        "magnet": null,
+        "screen": "screenshots/krybit/aaicomtw.png",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "www.northern-access.com",
+        "discovered": "2026-07-01 15:58:23.040384",
+        "description": "Northern Access Transportation, Inc. is a locally owned American company founded in Duluth, Minnesota, USA, dedicated to...",
+        "link": "/blog/db1d4fc953a82e4d71d85b512a220e1a6e0b9ea8f83657f59208c117dee77767/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwwnorthern-accesscom.png",
+        "group_name": "krybit",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "moscati.org",
+        "discovered": "2026-07-01 15:58:22.115123",
+        "description": "Hôpital Catholique Saint Joseph Moscati (moscati.org) is a Catholic hospital operating under the motto \"Foi et charité...",
+        "link": "/blog/6df39ec3db9d6372988978d4cd131725f19ddf50ead77550bfc58cdcd686f9ad/",
+        "magnet": null,
+        "screen": "screenshots/krybit/moscatiorg.png",
+        "group_name": "krybit",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Refinery Hotel",
+        "discovered": "2026-07-01 15:58:15.421270",
+        "description": "Refinery Hotel is a luxury hotel located near Bryant Park in New York City, offering a modern reinterpretation of a historic hat factory. The hotel features 197 stylish rooms with industrialaccents and modern amenities, alongside dining options such as the Parker & Quinn restaurant and the Refinery Rooftop bar.We will upload 15gb of corporate data soon. Employee personal information (passports, DLs, SSNs, w9 forms), guests information, financials, contracts and agreements, lots of NDAs, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Dennis Waters Rental Properties",
+        "discovered": "2026-07-01 14:59:25.334981",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=ba701696-1c93-417d-a1cb-c69e714cc3f2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dennis Waters Rental Properties.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mattatuck Industrial Scrap Metal",
+        "discovered": "2026-07-01 14:59:24.448195",
+        "description": "Energy, Utilities & Waste",
+        "link": "/site/blog?uuid=2f884907-4973-409e-92dd-5ef8c7f3431a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mattatuck Industrial Scrap Metal.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Laughlin Nunnally Hood & Crum",
+        "discovered": "2026-07-01 14:59:23.538061",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=2895dd71-2d77-4c70-badf-cd39e1ae9992",
+        "magnet": null,
+        "screen": "screenshots/qilin/Laughlin Nunnally Hood & Crum.png",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Rossum Integration",
+        "discovered": "2026-07-01 14:59:22.617204",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=65ee4abc-01d6-4292-baf0-283f00612efe",
+        "magnet": null,
+        "screen": "screenshots/qilin/Rossum Integration.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Dynamic Laser Solutions Ltd.",
+        "discovered": "2026-07-01 14:59:21.677254",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=34b7e3d1-82ce-4455-9944-ea6c2ede92fc",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dynamic Laser Solutions Ltd.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Dixie Beverage",
+        "discovered": "2026-07-01 14:59:20.718688",
+        "description": "Electricity, Oil & Gas",
+        "link": "/site/blog?uuid=a9bf0d58-3647-4639-9619-21dbf58dd83c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Dixie Beverage.png",
+        "group_name": "qilin",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Western Construction",
         "discovered": "2026-06-30 23:53:47.728678",
         "description": "",
@@ -67,266 +277,6 @@
         "magnet": null,
         "screen": "screenshots/brain cipher/paipharmacom.png",
         "group_name": "brain cipher",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Pou Sheng International",
-        "discovered": "2026-06-30 18:36:59.079740",
-        "description": "pousheng.com zoominfo.com/c/pou-sheng-international/352458448 They serve as a key distributor and exclusive agent for major global sportswear brands like Nike, adidas, PUMA, and Under Armour. The company operates a comprehensive online and offline sales network across the country to provide a full sports and lifestyle experience.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MakoLab",
-        "discovered": "2026-06-30 18:12:30.140307",
-        "description": "makolab.com zoominfo.com/c/makolab-sa/31278202 MakoLab, a prominent Polish IT consulting and software development company acting as a digital project house.The firm specializes in digital transformation, artificial intelligence, custom software engineering, and human-centric design.They provide comprehensive business and technology consulting, product design, and global 24/7 operations support to enterprise clients worldwide \n",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "EMAS Group",
-        "discovered": "2026-06-30 18:12:29.223170",
-        "description": "emas.cz zoominfo.com/c/janča--emas-group-sro/532190785 JANCA & EMAS group s.r.o., one of the largest wholesale distributors of electrical equipment and materials in the Czech Republic. The company supplies a comprehensive range of electrical components, including switches, sockets, and smart home automation systems, primarily serving professional electricians and businesses. They operate an extensive network of physical branches across the country and offer a dedicated mobile app for quick ordering and inventory management.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "The City of Boyne City",
-        "discovered": "2026-06-30 18:12:28.319734",
-        "description": "cityofboynecity.com zoominfo.com/c/the-city-of-boyne-city/368244116 City of Boyne City, a community located in Charlevoix County, Michigan. It serves as a central hub for residents, providing essential information on local government, city departments, utility services, and community events. The portal also highlights the city's parks, recreation programs, and local initiatives, reflecting its vibrant lakeside lifestyle on Lake Charlevoix",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Oron Law Firm",
-        "discovered": "2026-06-30 18:12:26.522813",
-        "description": "zoominfo.com/c/eilon-oron-attorneys/1341420873 Oron Law Firm, a legal practice specializing in traffic law, traffic accidents, and torts. Founded by Adv. Ilon Oron,The team provides comprehensive legal representation for licensing issues, accident claims, and traffic violations, offering 24/7 customer support to assist their clients.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Wacha Justen",
-        "discovered": "2026-06-30 18:12:25.378133",
-        "description": "nwohlaw.com zoominfo.com/c/wacha--justen-llc/357327144 Wacha & Justen, LLC, a dedicated law firm based in Napoleon, Ohio. The firm provides comprehensive legal services, including estate planning, personal injury, car accident claims, and general civil litigation. With a strong local presence, their experienced attorneys offer reliable representation to individuals and businesses throughout the region",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Melcor Developments Ltd",
-        "discovered": "2026-06-30 18:12:24.420923",
-        "description": "melcor.ca zoominfo.com/c/melcor-developments-ltd/65095259 Melcor Developments Ltd., a prominent Canadian real estate development and construction company founded in 1923 and headquartered in Edmonton, Alberta. The firm specializes in the full lifecycle of property development, creating residential communities, commercial spaces, and industrial parks across Western Canada. With nearly a century of experience, Melcor is recognized for building sustainable, high-quality neighborhoods and long-term investment properties",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "FAC Logistique",
-        "discovered": "2026-06-30 18:12:23.450867",
-        "description": "fac-logistique.com FAC Logistique, a French company founded in 1996 that specializes in the outsourcing of purchasing and logistics. Operating as a central purchasing office, the firm helps businesses optimize their supplier base, manage inventory, and significantly reduce operational costs. Headquartered in Grand-Couronne with additional agencies across France, the company leverages expert buyers to simplify supply chain processes and act as a dedicated \"center of savings\" for its clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Comp Trading Co",
-        "discovered": "2026-06-30 17:37:32.693984",
-        "description": "ctc.co.th Comp Trading Co., Ltd. (CTC), a premier Thai IT solutions and services provider founded in 1985 by former IBM engineers. The company specializes in enterprise IT infrastructure, data center solutions, cybersecurity, and comprehensive system maintenance. Today, CTC serves as a strategic technology partner for businesses, delivering disaster recovery, network support, and IT consulting services",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mondottica",
-        "discovered": "2026-06-30 17:37:31.791870",
-        "description": "mondottica.com zoominfo.com/c/mondottica-ltd/346397915 Mondottica, a leading global eyewear company specializing in the design, production, and worldwide distribution of premium sunglasses and optical frames. Headquartered in London, the firm is renowned for managing an extensive portfolio of prestigious international fashion and lifestyle brand licenses. They combine innovative design with high-quality craftsmanship to deliver luxury eyewear collections to global markets",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "OSP HOLDING FRANCE",
-        "discovered": "2026-06-30 17:37:30.916178",
-        "description": "ospholding.com pappers.fr/entreprise/osp-holding-france-838877108 838877108 OSP HOLDING (FRANCE) is an active French company founded in 2018 and managed by APInvest France, with a substantial share capital of over €14.4 million. It specializes in the design and assembly of industrial process control equipment, as well as the development and maintenance of software for parking management systems. The company employs between 50 and 99 people and is headquartered in Boulogne-Billancourt",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "NATURGHIACCIO",
-        "discovered": "2026-06-30 17:37:29.985949",
-        "description": "naturghiaccio.it dnb.com/business-directory/company-profiles.naturghiaccio_srl.eae47436d39ec78b7abc7007a3637507.html Naturghiaccio, an Italian company founded in 2013 that specializes in the production and distribution of high-quality, certified food-grade ice. Operating with a fully automated plant, they supply premium packaged ice to the Ho.Re.Ca. sector, supermarkets, and event organizers across Italy. The company is an official member of the European Packaged Ice Association (EPIA), ensuring strict quality and safety standards for their products",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Indra Group",
-        "discovered": "2026-06-30 17:03:22.549850",
-        "description": "indracompany.com zoominfo.com/c/indra-sistemas-sa/136495916 Indra, a leading Spanish multinational technology and consulting company. It specializes in innovative solutions for defense, aerospace, air traffic management, smart mobility, and digital transformation (via its Minsait brand). The company serves as a strategic technological partner for governments and major corporations worldwide, driving modernization and security across critical sectors",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Climax Technology",
-        "discovered": "2026-06-30 17:03:21.635954",
-        "description": "climax.com.tw zoominfo.com/c/climax-technology-co-ltd/440165694 Climax Technology Co., Ltd., a Taipei-based company founded in 1985 that specializes in smart security systems and telecare solutions. For over three decades, the firm has leveraged its telecommunications expertise to develop innovative hybrid security panels, emergency pendants, and long-term care alert technologies. Their comprehensive product line is designed to provide reliable safety, monitoring, and rapid emergency response for residential and healthcare environments globally",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Centre Ophtalmologique dErmont",
-        "discovered": "2026-06-30 17:03:20.463990",
-        "description": "ophtalmologie-ermont.com Centre Ophtalmologique d'Ermont, a specialized medical clinic in France dedicated to comprehensive eye care. The facility provides a full spectrum of ophthalmology services, including routine consultations, advanced diagnostics, and surgical treatments for various ocular conditions. The portal serves as a convenient hub where patients can access health information, manage their appointments, and connect with a team of expert specialists",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Immling",
-        "discovered": "2026-06-30 16:50:51.579477",
-        "description": "immling.de is the official website for the Immling Festival, a renowned classical music and opera event held annually at Gut Immling in Halfing, Germany. Running primarily from June to August since 1997, it features high-quality opera productions and symphony concerts in a picturesque setting. In 2026, the festival celebrates its 30th anniversary, remaining a major cultural highlight in the Chiemgau region",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "DHC Corporation",
-        "discovered": "2026-06-30 16:50:50.665133",
-        "description": "dhc.co.jp zoominfo.com/c/dhc-corp/372590440  DHC Corporation, a major Japanese health and beauty company renowned for its dietary supplements, skincare, and cosmetics. The brand is especially famous for its olive oil-based beauty products and high-quality, affordable nutritional supplements. The site serves as a primary hub for consumers to purchase their popular health, wellness, and beauty essentials",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Steegaa Interior",
-        "discovered": "2026-06-30 16:50:49.688922",
-        "description": "steegaa.com zoominfo.com/c/steegaa/408684474 Steegaa Interior, a Dutch company based in Helmond specializing in high-end custom interior design and construction.Established in 2000, the firm focuses on designing, manufacturing, and installing bespoke interiors for both private and commercial clients.They are highly regarded for their exceptional craftsmanship, attention to detail, and ability to deliver complete, turnkey interior solutions.Additionally, the company operates as a recognized training center, offering apprenticeships to foster the next generation of skilled interior builders",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "https://sza.it/",
-        "discovered": "2026-06-30 15:53:59.499521",
-        "description": "",
-        "link": "/blog/disclosures/6a43bac85ae71db30c4f3cb1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/szait.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Forces",
-        "discovered": "2026-06-30 15:53:54.479489",
-        "description": "Organization with 28 emails extracted. Domain: forces.gc.ca",
-        "link": "/company/banajah-bajapah/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Forces.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Spector and Lenz, PC",
-        "discovered": "2026-06-30 14:56:44.407150",
-        "description": "Firm provides legal representation to clients facing disability, injury, or serious illness",
-        "link": "Companies/spectorandlenz",
-        "magnet": null,
-        "screen": "screenshots/pear/Spector and Lenz, PC.png",
-        "group_name": "pear",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "ORA Group Information",
-        "discovered": "2026-06-30 14:56:43.409686",
-        "description": "Specializing in retail and the point-of-sale experience",
-        "link": "Companies/groupe-ora",
-        "magnet": null,
-        "screen": "screenshots/pear/ORA Group Information.png",
-        "group_name": "pear",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Sociedad Latina",
-        "discovered": "2026-06-30 14:56:41.044183",
-        "description": "Support in education, civic engagement, workforce development, and arts and culture, specifically tailored for multilingual learners",
-        "link": "Companies/sociedadlatina",
-        "magnet": null,
-        "screen": "screenshots/pear/Sociedad Latina.png",
-        "group_name": "pear",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Penticton and District Society for Community Living",
-        "discovered": "2026-06-30 14:56:17.503797",
-        "description": "Canadian charity providing disability-related services. CRA Registration: 119090686RR0001",
-        "link": "/company/pdscl/",
-        "magnet": null,
-        "screen": "screenshots/bavacai/Penticton and District Society for Community Living.png",
-        "group_name": "bavacai",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Advanced Business Systems",
-        "discovered": "2026-06-30 14:56:14.062107",
-        "description": "Advanced Business Systems, Inc. is a locally owned business serving the Quad Cities area, specializing in a wide range of office products and solutions including copiers, printers, IT services, phone systems, and furniture.We will upload 31gb of corporate data soon. Employee personal information (88 SSNs, passports and other docs), NDA, projects, contracts and agreements, customer information and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "About Todd Hamaker & Johnson",
-        "discovered": "2026-06-30 14:56:07.498996",
-        "description": "Todd, Hamaker & Johnson, LLP is a professional tax and accounting firm based in Lufkin, Texas, dedicated to providing personalized services to both individuals and businesses. The firm offers a comprehensive range of services including tax, accounting, audit, and financial guidance.We will upload 40gb of corporate data soon. Lots of client and employee personal information (passports, SSNs, DLs and other information), detailed financials, client financials and other confidential client docs, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
         "sector": "Technology"
     }
 ]
