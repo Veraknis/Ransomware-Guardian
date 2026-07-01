@@ -258,25 +258,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Brooklyn Defender Services",
-        "discovered": "2026-06-30 19:58:08.223840",
-        "description": "A legal organization dedicated to safeguard the rights of its clients",
-        "link": "/dc06151338c54194081a/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Brooklyn Defender Services.png",
-        "group_name": "genesis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "paipharma.com",
-        "discovered": "2026-06-30 18:55:43.100246",
-        "description": "Large volume data breach. Total size 1,4 Terabytes. Coming soon.",
-        "link": "/n/paipharma",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/paipharmacom.png",
-        "group_name": "brain cipher",
-        "sector": "Technology"
     }
 ]
