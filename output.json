@@ -1,5 +1,55 @@
 [
     {
+        "post_title": "holidaypalace.com",
+        "discovered": "2026-07-02 17:57:16.956839",
+        "description": "Holiday Palace Hotel in Spain. Guest information, internal documents, reports, photos, videos, an...",
+        "link": "/page_company.php?id=175",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/holidaypalacecom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ritavo.com",
+        "discovered": "2026-07-02 17:57:15.870073",
+        "description": "ritavo.com is the website of Rita Võ Group, a private multidisciplinary holding company from Vie...",
+        "link": "/page_company.php?id=174",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/ritavocom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Service IT",
+        "discovered": "2026-07-02 15:54:50.201309",
+        "description": "",
+        "link": "/companies/8620103939",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Service IT.png",
+        "group_name": "worldleaks",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Treet Group of Companies",
+        "discovered": "2026-07-02 15:54:49.246924",
+        "description": "",
+        "link": "/companies/0890882219",
+        "magnet": null,
+        "screen": "screenshots/worldleaks/Treet Group of Companies.png",
+        "group_name": "worldleaks",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Quest Healthcare Solutions",
+        "discovered": "2026-07-02 15:23:04.803741",
+        "description": "Employee data, internal files, and a few unexpected discoveries.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ZxMuptij8OrXtBb4TyaPrfDFsvfmfD4otvTwmnvCXIBU5W+YfSjke0DNnrdrCPDPvRWvmCkwFFbjgtFGU3mvjEl1dFI5V3NB",
+        "magnet": null,
+        "screen": "screenshots/anubis/Quest Healthcare Solutions.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Pennant Hills Golf Club",
         "discovered": "2026-07-02 12:00:33.355138",
         "description": "Advertising & Marketing",
@@ -118,215 +168,5 @@
         "screen": "screenshots/inc ransom/wwwroundshieldcom.png",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Starpool",
-        "discovered": "2026-07-01 18:01:29.400870",
-        "description": "",
-        "link": "/companies/2426345623",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Starpool.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "COMHAR",
-        "discovered": "2026-07-01 18:01:28.467674",
-        "description": "",
-        "link": "/companies/6659711612",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/COMHAR.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "digitaldynamics.com",
-        "discovered": "2026-07-01 18:01:05.825274",
-        "description": "Details later. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.com",
-        "link": "/n/digitaldynamics",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/digitaldynamicscom.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "goldenstateortho.com",
-        "discovered": "2026-07-01 18:01:04.858374",
-        "description": "We have about 150k documents and files of this company, with a total size of more than 150 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.c...",
-        "link": "/n/goldenstateortho",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/goldenstateorthocom.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "printronix.com",
-        "discovered": "2026-07-01 18:01:03.301777",
-        "description": "We have about 110k documents and files of this company, with a total size of more than 100 GB. If you think you are here by mistake, please contact us at brain.dataleak@cyberfear.c...",
-        "link": "/n/printronix",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/printronixcom.png",
-        "group_name": "brain cipher",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "blaofood.com",
-        "discovered": "2026-07-01 15:58:29.426656",
-        "description": "B'Laofood Joint Stock Company (formerly B'Laofood Company Limited until March 25, 2026) is a Vietnamese leading manufact...",
-        "link": "/blog/299da2348c6c4fbf61255f0840df240808a4e97e8cb36cedd90fbec981d5f489/",
-        "magnet": null,
-        "screen": "screenshots/krybit/blaofoodcom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "jaws.com.tw",
-        "discovered": "2026-07-01 15:58:28.525820",
-        "description": "JAWS Co., Ltd. (兆旭公司) is a Taiwanese manufacturer of electronic connectors and cable assemblies, founded in May ...",
-        "link": "/blog/39313bc67cfc4e123e9e7a7cbaa11adc275a96ff72e3a951d4593db6d028fc86/",
-        "magnet": null,
-        "screen": "screenshots/krybit/jawscomtw.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "gsp.es",
-        "discovered": "2026-07-01 15:58:27.598740",
-        "description": "Global Software Partner S.L. (GSP) is a Spanish IT consulting and software company with over 30 years of experience in e...",
-        "link": "/blog/dc7ee87eb6a2e25dcd3f3dfd202126715f6160d98647bff01de1092dd89f9e33/",
-        "magnet": null,
-        "screen": "screenshots/krybit/gspes.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.diss.com",
-        "discovered": "2026-07-01 15:58:26.747037",
-        "description": "DISS Analytics is the digital solutions and statistical reporting division of DISS Corporation (Digital Imaging & Soluti...",
-        "link": "/blog/cf390eb1150ad8606a7a4c25537768aca7933252ad7f5a622260f33373a92296/",
-        "magnet": null,
-        "screen": "screenshots/krybit/wwwdisscom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "gitmea.com",
-        "discovered": "2026-07-01 15:58:25.847748",
-        "description": "German Imaging Technologies (GIT) Dubai LLC is a German-founded company established in 1999, headquartered in Dubai, UAE...",
-        "link": "/blog/e7151f9c62b2ce53aff4f3813c6899cd9d6173ed631b6874663fccaf47238744/",
-        "magnet": null,
-        "screen": "screenshots/krybit/gitmeacom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TRANSPORTES Y LOGISTICA BRAS, S.A",
-        "discovered": "2026-07-01 15:58:24.906919",
-        "description": "Transportes y Logistica Bras, S.A. is a Guatemalan company specializing in heavy land transport and logistics services, ...",
-        "link": "/blog/8f92608da7fd29f35c725ebb627629d15c396fb9290422986e2d941496577f3d/",
-        "magnet": null,
-        "screen": "screenshots/krybit/TRANSPORTES Y LOGISTICA BRAS, SA.png",
-        "group_name": "krybit",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "aai.com.tw",
-        "discovered": "2026-07-01 15:58:23.950272",
-        "description": "AeroVision Avionics, Inc. (AAI) (利翔航太電子股份有限公司) is a Taiwanese high-tech company incorporated in ...",
-        "link": "/blog/f5b11ea64f1e8b628a97590888ece33f4091ad247ab5faa56dc1deccd783a8d6/",
-        "magnet": null,
-        "screen": "screenshots/krybit/aaicomtw.png",
-        "group_name": "krybit",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "www.northern-access.com",
-        "discovered": "2026-07-01 15:58:23.040384",
-        "description": "Northern Access Transportation, Inc. is a locally owned American company founded in Duluth, Minnesota, USA, dedicated to...",
-        "link": "/blog/db1d4fc953a82e4d71d85b512a220e1a6e0b9ea8f83657f59208c117dee77767/",
-        "magnet": null,
-        "screen": "screenshots/krybit/wwwnorthern-accesscom.png",
-        "group_name": "krybit",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "moscati.org",
-        "discovered": "2026-07-01 15:58:22.115123",
-        "description": "Hôpital Catholique Saint Joseph Moscati (moscati.org) is a Catholic hospital operating under the motto \"Foi et charité...",
-        "link": "/blog/6df39ec3db9d6372988978d4cd131725f19ddf50ead77550bfc58cdcd686f9ad/",
-        "magnet": null,
-        "screen": "screenshots/krybit/moscatiorg.png",
-        "group_name": "krybit",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Refinery Hotel",
-        "discovered": "2026-07-01 15:58:15.421270",
-        "description": "Refinery Hotel is a luxury hotel located near Bryant Park in New York City, offering a modern reinterpretation of a historic hat factory. The hotel features 197 stylish rooms with industrialaccents and modern amenities, alongside dining options such as the Parker & Quinn restaurant and the Refinery Rooftop bar.We will upload 15gb of corporate data soon. Employee personal information (passports, DLs, SSNs, w9 forms), guests information, financials, contracts and agreements, lots of NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Dennis Waters Rental Properties",
-        "discovered": "2026-07-01 14:59:25.334981",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=ba701696-1c93-417d-a1cb-c69e714cc3f2",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dennis Waters Rental Properties.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mattatuck Industrial Scrap Metal",
-        "discovered": "2026-07-01 14:59:24.448195",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/blog?uuid=2f884907-4973-409e-92dd-5ef8c7f3431a",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mattatuck Industrial Scrap Metal.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Laughlin Nunnally Hood & Crum",
-        "discovered": "2026-07-01 14:59:23.538061",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=2895dd71-2d77-4c70-badf-cd39e1ae9992",
-        "magnet": null,
-        "screen": "screenshots/qilin/Laughlin Nunnally Hood & Crum.png",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Rossum Integration",
-        "discovered": "2026-07-01 14:59:22.617204",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=65ee4abc-01d6-4292-baf0-283f00612efe",
-        "magnet": null,
-        "screen": "screenshots/qilin/Rossum Integration.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Dynamic Laser Solutions Ltd.",
-        "discovered": "2026-07-01 14:59:21.677254",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=34b7e3d1-82ce-4455-9944-ea6c2ede92fc",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dynamic Laser Solutions Ltd.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Dixie Beverage",
-        "discovered": "2026-07-01 14:59:20.718688",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/blog?uuid=a9bf0d58-3647-4639-9619-21dbf58dd83c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Dixie Beverage.png",
-        "group_name": "qilin",
-        "sector": "Energy"
     }
 ]
