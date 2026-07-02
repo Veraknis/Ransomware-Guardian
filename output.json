@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "Pennant Hills Golf Club",
+        "discovered": "2026-07-02 12:00:33.355138",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=58f96ce6-c718-4160-9b1e-9a4653f88936",
+        "magnet": null,
+        "screen": "screenshots/qilin/Pennant Hills Golf Club.png",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "X-Copper Professional",
+        "discovered": "2026-07-02 12:00:31.006567",
+        "description": "",
+        "link": "/news.php?id=1",
+        "magnet": null,
+        "screen": "screenshots/money message/X-Copper Professional.png",
+        "group_name": "money message",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Salters propane",
+        "discovered": "2026-07-02 09:57:17.219518",
+        "description": "Salter’s Propane is excited and proud to be joining the Salter’s Family of businesses with competitive pricing, excellent customer service, and 65 combined years of industry experience. We are ready and more than capable to service all of your propane needs.From residential to commercial and everything in between we are confident that your experience with us will be nothing short of spectacular.We have many options available to suit your needs including a variety of tank sizes, and we offer competitive lease or purchase options.-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://salterspropane.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/54/salters-propane",
+        "magnet": null,
+        "screen": "screenshots/space bears/Salters propane.png",
+        "group_name": "space bears",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Tofutown",
+        "discovered": "2026-07-02 09:57:13.810389",
+        "description": "TOFUTOWN is a traditional organic manufacturer specializing in plant-based foods, founded in 1981. The company offers a diverse range of products including vegan spreads, tofu, and seitan, all made from high-quality organic ingredients. With a commitment to sustainability and natural ingredients, TOFUTOWN caters to health-conscious consumers looking for convenient and delicious plant-based meal options.",
+        "link": "/posts/f2c0075f-ac9b-426d-bbfa-1959e1305d76",
+        "magnet": null,
+        "screen": "screenshots/payload/Tofutown.png",
+        "group_name": "payload",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Northeast Pediatrics & Adolescent Medicine",
+        "discovered": "2026-07-02 05:22:36.326648",
+        "description": "Data breach exposes employees and patients of a pediatric clinic.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/B0nIY7hm7oGVMGt4nThiJP6lUOZYZqUxryCZuOL8ruilfFsdT3CjmeEG+71I3+LCrskYlHzCsSTiSo1po4gEt2TExKVHRN",
+        "magnet": null,
+        "screen": "screenshots/anubis/Northeast Pediatrics & Adolescent Medicine.png",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Colorado Rehabilitation and Occupational Medicine",
+        "discovered": "2026-07-02 02:55:59.758182",
+        "description": "",
+        "link": "/blog/disclosures/6a45a1b85ae71db30c88ab68",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Colorado Rehabilitation and Occupational Medicine.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BN: higuchi-inc Report Error & Data Leak Warning⁠",
+        "discovered": "2026-07-02 00:54:15.102004",
+        "description": "www.higuchi-inc.co.jp/newsrelease/company/doc/unauthorized_access_incident.pdf // We have reviewed the report issued by HIGUCHI INC. To correct their mistake: the breach did not affect just one branch, but rather 3 different branches across various regions.Your data has not been leaked yet, as you are currently within an 8-day grace period. Before we publish any of your commercial or personal data, be aware that we possess 102 GB of Sage software backups, alongside numerous commercial documents.We await your reply to our messages. Follow the correct path to ensure nothing is leaked. We are waiting for you.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Notice",
+        "discovered": "2026-07-02 00:54:13.933790",
+        "description": "We will soon terminate our operations and services. All hosted data is scheduled for complete erasure within 60 days, before this blog goes offline permanently.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "stormous",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "awo-suedost.de",
+        "discovered": "2026-07-02 00:54:12.484856",
+        "description": "Established in 1994, it is one of the regional branches of the Arbeiterwohlfahrt (AWO), one of Germany's six largest independent …",
+        "link": "/blog/post/awo-suedostde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/awo-suedostde.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dia179.com",
+        "discovered": "2026-07-02 00:54:11.542037",
+        "description": "Founded in 2007, the firm specializes in industrial architecture, logistics facilities, research centers, production plants, and corporate office buildings. Unlike …",
+        "link": "/blog/post/dia179com/",
+        "magnet": null,
+        "screen": "screenshots/safepay/dia179com.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "eaglecrestlife.org",
+        "discovered": "2026-07-02 00:54:10.606963",
+        "description": "Operating under Bethany Lutheran Homes, Inc., the organization has served the region since 1946 and is recognized as the largest …",
+        "link": "/blog/post/eaglecrestlifeorg/",
+        "magnet": null,
+        "screen": "screenshots/safepay/eaglecrestlifeorg.png",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "https://www.roundshield.com/",
+        "discovered": "2026-07-02 00:53:52.572011",
+        "description": "",
+        "link": "/blog/disclosures/6a455c245ae71db30c80f236",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/wwwroundshieldcom.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Starpool",
         "discovered": "2026-07-01 18:01:29.400870",
         "description": "",
@@ -208,55 +328,5 @@
         "screen": "screenshots/qilin/Dixie Beverage.png",
         "group_name": "qilin",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Western Construction",
-        "discovered": "2026-06-30 23:53:47.728678",
-        "description": "",
-        "link": "topic.php?id=yXJej0EB4mGwto",
-        "magnet": null,
-        "screen": "screenshots/play/Western Construction.png",
-        "group_name": "play",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Welldyne",
-        "discovered": "2026-06-30 23:53:46.675146",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "universalplant.com",
-        "discovered": "2026-06-30 23:53:27.311197",
-        "description": "FINAL NOTICE: UNIVERSAL PLANT SERVICES (UPS)\n\nWe are in possession of 315 GB of your corporate, financial, and operational data. Our analysis confirms that this archive contains highly sensitive information, including:\n\n    Financial & Accounting: Full audits, tax filings (ADP), payroll, bank transa…",
-        "link": "/iA8ZqwqvbWAadhAdslngN5Kiazx2CWrf/universalplant-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/universalplantcom.png",
-        "group_name": "chaos",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Primed Halberstadt Medizintechnik",
-        "discovered": "2026-06-30 23:53:25.656332",
-        "description": "Primed Halberstadt Medizintechnik GmbH — a German manufacturer of medical devices founded in 1946 and now part of the PE-backed PP Medtech group (Wiesmann & Co. KG).\n\nThe exfiltration captured four entire server volumes:\n\nDaten (883 GB) — File server: 289 employee home directories (547 GB), Czech subsidiary data (66 GB), production processes (162 GB), machine configurations (81 GB)\nEE (807 GB) — Enterprise system: Apollo ERP, VBANK banking (8 accounts), complete database backup (100.6 GB, dated June 3), product images\nWINDVSW1 (344 GB) — Windows server: DATEV accounting (115+ data directories including LODAS payroll), bank transfers, DMS exports\ndmsscan (12 GB) — Scanned documents from 51+ employee DMS mailboxes\nA database backup (spiel.zip.001–010, 100.6 GB) was created on 2026-06-03",
-        "link": "/blog/primed-halberstadt-medizintechnik-b278bad0",
-        "magnet": null,
-        "screen": null,
-        "group_name": "aurora",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "SDEZ",
-        "discovered": "2026-06-30 23:49:39.084065",
-        "description": "sdez.fr SDEZ is a historic French family-owned company founded in 1816, specializing in the rental and maintenance of professional linen, workwear, and hygiene equipment.Operating a national network of industrial laundries across France and Belgium, it has become one of the leading textile service providers in the region.The company serves thousands of business clients and employs over 700 people to deliver comprehensive laundry and hygiene solution",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
     }
 ]
