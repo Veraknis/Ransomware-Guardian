@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "duflosa.com",
+        "discovered": "2026-07-03 11:57:54.197854",
+        "description": "DUFLO SAS (Duflo Servicios Integrales S.A.S.) is a Colombian company specializing in integrated facility management and ...",
+        "link": "/blog/fd765fef9902cef123bf95c1e2a5a98d9f043c02de3d477ef73afac9c1e1a84d/",
+        "magnet": null,
+        "screen": "screenshots/krybit/duflosacom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "majuhome.com.my",
+        "discovered": "2026-07-03 11:57:53.228388",
+        "description": "MAJUHOME Concept (Maju Home Furnishing Sdn. Bhd.) is a Malaysian leading one-stop mega furniture mall and lifestyle bran...",
+        "link": "/blog/cba113326007e55f5a42925d7f85f9edac137e1947522b425477006d0da47d78/",
+        "magnet": null,
+        "screen": "screenshots/krybit/majuhomecommy.png",
+        "group_name": "krybit",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "KOLORKIM KIMYA",
+        "discovered": "2026-07-03 10:57:44.533717",
+        "description": "LEAKED | 1GB | 1 files",
+        "link": "/victim/kolorkim-kimya",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/KOLORKIM KIMYA.png",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Mercedes-Benz Turk",
+        "discovered": "2026-07-03 10:57:43.579751",
+        "description": "LEAKED | 50GB | 1 files",
+        "link": "/victim/mercedes-benz-turk",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/Mercedes-Benz Turk.png",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Innovano",
+        "discovered": "2026-07-03 10:57:42.619385",
+        "description": "LEAKED | 1GB | 1 files",
+        "link": "/victim/innovano",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/Innovano.png",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Francisco Imóveis",
+        "discovered": "2026-07-03 10:57:41.636226",
+        "description": "LEAKED | 1 files",
+        "link": "/victim/francisco-imóveis",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/Francisco Imóveis.png",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Solventa & Riskmetrica | Calificadora de Riesgos",
+        "discovered": "2026-07-03 10:57:40.667150",
+        "description": "upcoming | 0 files",
+        "link": "/victim/solventa--riskmetrica--calificadora-de-riesgos",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/Solventa & Riskmetrica | Calificadora de Riesgos.png",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "oakparkmi.gov",
+        "discovered": "2026-07-03 03:49:13.852119",
+        "description": "",
+        "link": "/blog/disclosures/6a4704745ae71db30cb3362a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/oakparkmigov.png",
+        "group_name": "inc ransom",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Ferrum AG",
+        "discovered": "2026-07-03 01:23:03.268678",
+        "description": "Data breach at one of the largest family-owned manufacturing businesses in Switzerland.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/8MVbCGG1xTXXCrZgdByc2+uH18XQuzuiZVxUiEHdts9ZtUDTGSyY2xhM3Y48zpnft0RpZy6eE0+c1wfLLFyFBsdWZlbjZk",
+        "magnet": null,
+        "screen": "screenshots/anubis/Ferrum AG.png",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "[EVIDENCE]Prince George County",
+        "discovered": "2026-07-03 00:55:39.968193",
+        "description": "",
+        "link": "/r/f3b1f5959904ff55a7fd07fcd954e438a9c0b666",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[EVIDENCE]Prince George County.png",
+        "group_name": "ransomhouse",
+        "sector": "Government"
+    },
+    {
         "post_title": "Shamrock Holdings Inc.",
         "discovered": "2026-07-02 20:18:05.676217",
         "description": "https://en.wikipedia.org/wiki/Shamrock_Holdings https://www.zoominfo.com/c/shamrock-holdings-inc/102187761 https://www.zoominfo.com/c/shamrock-capital-advisors-llc/80380310 https://www.shamrock.com/ Shamrock Holdings, Inc. is an investment firm founded by Roy E. Disney in 1978, primarily serving the investment needs of the Disney Family. The company emphasizes integrity, responsibility, and transparency in its operations. In addition to its investment activities, Shamrock manages various real estate investment programs through a subsidiary. Its intended clients include members of the Roy E. Disney Family and other potential investors in real estate. Assets Under Management: The firm manages over $6.6B in assets across entertainment IP, media rights, and private equity . Included 2021-2026 Stanley Gold inbox(80778) and sent(21617)",
@@ -128,125 +228,5 @@
         "screen": "screenshots/anubis/Quest Healthcare Solutions.png",
         "group_name": "anubis",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Pennant Hills Golf Club",
-        "discovered": "2026-07-02 12:00:33.355138",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=58f96ce6-c718-4160-9b1e-9a4653f88936",
-        "magnet": null,
-        "screen": "screenshots/qilin/Pennant Hills Golf Club.png",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "X-Copper Professional",
-        "discovered": "2026-07-02 12:00:31.006567",
-        "description": "",
-        "link": "/news.php?id=1",
-        "magnet": null,
-        "screen": "screenshots/money message/X-Copper Professional.png",
-        "group_name": "money message",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Salters propane",
-        "discovered": "2026-07-02 09:57:17.219518",
-        "description": "Salter’s Propane is excited and proud to be joining the Salter’s Family of businesses with competitive pricing, excellent customer service, and 65 combined years of industry experience. We are ready and more than capable to service all of your propane needs.From residential to commercial and everything in between we are confident that your experience with us will be nothing short of spectacular.We have many options available to suit your needs including a variety of tank sizes, and we offer competitive lease or purchase options.-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://salterspropane.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/54/salters-propane",
-        "magnet": null,
-        "screen": "screenshots/space bears/Salters propane.png",
-        "group_name": "space bears",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Tofutown",
-        "discovered": "2026-07-02 09:57:13.810389",
-        "description": "TOFUTOWN is a traditional organic manufacturer specializing in plant-based foods, founded in 1981. The company offers a diverse range of products including vegan spreads, tofu, and seitan, all made from high-quality organic ingredients. With a commitment to sustainability and natural ingredients, TOFUTOWN caters to health-conscious consumers looking for convenient and delicious plant-based meal options.",
-        "link": "/posts/f2c0075f-ac9b-426d-bbfa-1959e1305d76",
-        "magnet": null,
-        "screen": "screenshots/payload/Tofutown.png",
-        "group_name": "payload",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Northeast Pediatrics & Adolescent Medicine",
-        "discovered": "2026-07-02 05:22:36.326648",
-        "description": "Data breach exposes employees and patients of a pediatric clinic.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/B0nIY7hm7oGVMGt4nThiJP6lUOZYZqUxryCZuOL8ruilfFsdT3CjmeEG+71I3+LCrskYlHzCsSTiSo1po4gEt2TExKVHRN",
-        "magnet": null,
-        "screen": "screenshots/anubis/Northeast Pediatrics & Adolescent Medicine.png",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Colorado Rehabilitation and Occupational Medicine",
-        "discovered": "2026-07-02 02:55:59.758182",
-        "description": "",
-        "link": "/blog/disclosures/6a45a1b85ae71db30c88ab68",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Colorado Rehabilitation and Occupational Medicine.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "BN: higuchi-inc Report Error & Data Leak Warning⁠",
-        "discovered": "2026-07-02 00:54:15.102004",
-        "description": "www.higuchi-inc.co.jp/newsrelease/company/doc/unauthorized_access_incident.pdf // We have reviewed the report issued by HIGUCHI INC. To correct their mistake: the breach did not affect just one branch, but rather 3 different branches across various regions.Your data has not been leaked yet, as you are currently within an 8-day grace period. Before we publish any of your commercial or personal data, be aware that we possess 102 GB of Sage software backups, alongside numerous commercial documents.We await your reply to our messages. Follow the correct path to ensure nothing is leaked. We are waiting for you.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Notice",
-        "discovered": "2026-07-02 00:54:13.933790",
-        "description": "We will soon terminate our operations and services. All hosted data is scheduled for complete erasure within 60 days, before this blog goes offline permanently.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "stormous",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "awo-suedost.de",
-        "discovered": "2026-07-02 00:54:12.484856",
-        "description": "Established in 1994, it is one of the regional branches of the Arbeiterwohlfahrt (AWO), one of Germany's six largest independent …",
-        "link": "/blog/post/awo-suedostde/",
-        "magnet": null,
-        "screen": "screenshots/safepay/awo-suedostde.png",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "dia179.com",
-        "discovered": "2026-07-02 00:54:11.542037",
-        "description": "Founded in 2007, the firm specializes in industrial architecture, logistics facilities, research centers, production plants, and corporate office buildings. Unlike …",
-        "link": "/blog/post/dia179com/",
-        "magnet": null,
-        "screen": "screenshots/safepay/dia179com.png",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "eaglecrestlife.org",
-        "discovered": "2026-07-02 00:54:10.606963",
-        "description": "Operating under Bethany Lutheran Homes, Inc., the organization has served the region since 1946 and is recognized as the largest …",
-        "link": "/blog/post/eaglecrestlifeorg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/eaglecrestlifeorg.png",
-        "group_name": "safepay",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "https://www.roundshield.com/",
-        "discovered": "2026-07-02 00:53:52.572011",
-        "description": "",
-        "link": "/blog/disclosures/6a455c245ae71db30c80f236",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/wwwroundshieldcom.png",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
