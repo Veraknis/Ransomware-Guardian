@@ -1,5 +1,35 @@
 [
     {
+        "post_title": "aydeniz.com",
+        "discovered": "2026-07-03 15:47:48.200552",
+        "description": "Aydeniz Group is a family-owned group of companies founded in 1975, operating in several key indu...",
+        "link": "/page_company.php?id=177",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/aydenizcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AC Beverage, Inc.",
+        "discovered": "2026-07-03 12:59:41.650377",
+        "description": "Provider in the draft beer service industry, specializing in the installation of high-quality systems and beer line",
+        "link": "Companies/acbeverage",
+        "magnet": null,
+        "screen": "screenshots/pear/AC Beverage, Inc.png",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "CNW Electronics Pte Ltd",
+        "discovered": "2026-07-03 12:59:40.699312",
+        "description": "Providing complete wire harness solutions, from design to manufacturing",
+        "link": "Companies/cnw",
+        "magnet": null,
+        "screen": "screenshots/pear/CNW Electronics Pte Ltd.png",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
         "post_title": "duflosa.com",
         "discovered": "2026-07-03 11:57:54.197854",
         "description": "DUFLO SAS (Duflo Servicios Integrales S.A.S.) is a Colombian company specializing in integrated facility management and ...",
@@ -178,55 +208,5 @@
         "screen": "screenshots/eraleign (apt73)/flaziocom.png",
         "group_name": "eraleign (apt73)",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "holidaypalace.com",
-        "discovered": "2026-07-02 17:57:16.956839",
-        "description": "Holiday Palace Hotel in Spain. Guest information, internal documents, reports, photos, videos, an...",
-        "link": "/page_company.php?id=175",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/holidaypalacecom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "ritavo.com",
-        "discovered": "2026-07-02 17:57:15.870073",
-        "description": "ritavo.com is the website of Rita Võ Group, a private multidisciplinary holding company from Vie...",
-        "link": "/page_company.php?id=174",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/ritavocom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Service IT",
-        "discovered": "2026-07-02 15:54:50.201309",
-        "description": "",
-        "link": "/companies/8620103939",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Service IT.png",
-        "group_name": "worldleaks",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Treet Group of Companies",
-        "discovered": "2026-07-02 15:54:49.246924",
-        "description": "",
-        "link": "/companies/0890882219",
-        "magnet": null,
-        "screen": "screenshots/worldleaks/Treet Group of Companies.png",
-        "group_name": "worldleaks",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quest Healthcare Solutions",
-        "discovered": "2026-07-02 15:23:04.803741",
-        "description": "Employee data, internal files, and a few unexpected discoveries.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ZxMuptij8OrXtBb4TyaPrfDFsvfmfD4otvTwmnvCXIBU5W+YfSjke0DNnrdrCPDPvRWvmCkwFFbjgtFGU3mvjEl1dFI5V3NB",
-        "magnet": null,
-        "screen": "screenshots/anubis/Quest Healthcare Solutions.png",
-        "group_name": "anubis",
-        "sector": "Technology"
     }
 ]
