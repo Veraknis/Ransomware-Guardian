@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Locati Architects",
+        "discovered": "2026-07-04 09:51:13.492501",
+        "description": "",
+        "link": "topic.php?id=8fJN1qE5MO0ev0",
+        "magnet": null,
+        "screen": "screenshots/play/Locati Architects.png",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Silvestri & Associates Insurance",
+        "discovered": "2026-07-04 09:51:12.524021",
+        "description": "",
+        "link": "topic.php?id=omRP0Z54cH0P8e",
+        "magnet": null,
+        "screen": "screenshots/play/Silvestri & Associates Insurance.png",
+        "group_name": "play",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Md Lewis",
         "discovered": "2026-07-03 20:54:14.963219",
         "description": "Accounting Services",
@@ -78,105 +98,5 @@
         "screen": "screenshots/pear/CNW Electronics Pte Ltd.png",
         "group_name": "pear",
         "sector": "Technology"
-    },
-    {
-        "post_title": "duflosa.com",
-        "discovered": "2026-07-03 11:57:54.197854",
-        "description": "DUFLO SAS (Duflo Servicios Integrales S.A.S.) is a Colombian company specializing in integrated facility management and ...",
-        "link": "/blog/fd765fef9902cef123bf95c1e2a5a98d9f043c02de3d477ef73afac9c1e1a84d/",
-        "magnet": null,
-        "screen": "screenshots/krybit/duflosacom.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "majuhome.com.my",
-        "discovered": "2026-07-03 11:57:53.228388",
-        "description": "MAJUHOME Concept (Maju Home Furnishing Sdn. Bhd.) is a Malaysian leading one-stop mega furniture mall and lifestyle bran...",
-        "link": "/blog/cba113326007e55f5a42925d7f85f9edac137e1947522b425477006d0da47d78/",
-        "magnet": null,
-        "screen": "screenshots/krybit/majuhomecommy.png",
-        "group_name": "krybit",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "KOLORKIM KIMYA",
-        "discovered": "2026-07-03 10:57:44.533717",
-        "description": "LEAKED | 1GB | 1 files",
-        "link": "/victim/kolorkim-kimya",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/KOLORKIM KIMYA.png",
-        "group_name": "doommageddon",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mercedes-Benz Turk",
-        "discovered": "2026-07-03 10:57:43.579751",
-        "description": "LEAKED | 50GB | 1 files",
-        "link": "/victim/mercedes-benz-turk",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/Mercedes-Benz Turk.png",
-        "group_name": "doommageddon",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Innovano",
-        "discovered": "2026-07-03 10:57:42.619385",
-        "description": "LEAKED | 1GB | 1 files",
-        "link": "/victim/innovano",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/Innovano.png",
-        "group_name": "doommageddon",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Francisco Imóveis",
-        "discovered": "2026-07-03 10:57:41.636226",
-        "description": "LEAKED | 1 files",
-        "link": "/victim/francisco-imóveis",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/Francisco Imóveis.png",
-        "group_name": "doommageddon",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Solventa & Riskmetrica | Calificadora de Riesgos",
-        "discovered": "2026-07-03 10:57:40.667150",
-        "description": "upcoming | 0 files",
-        "link": "/victim/solventa--riskmetrica--calificadora-de-riesgos",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/Solventa & Riskmetrica | Calificadora de Riesgos.png",
-        "group_name": "doommageddon",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "oakparkmi.gov",
-        "discovered": "2026-07-03 03:49:13.852119",
-        "description": "",
-        "link": "/blog/disclosures/6a4704745ae71db30cb3362a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/oakparkmigov.png",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Ferrum AG",
-        "discovered": "2026-07-03 01:23:03.268678",
-        "description": "Data breach at one of the largest family-owned manufacturing businesses in Switzerland.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/8MVbCGG1xTXXCrZgdByc2+uH18XQuzuiZVxUiEHdts9ZtUDTGSyY2xhM3Y48zpnft0RpZy6eE0+c1wfLLFyFBsdWZlbjZk",
-        "magnet": null,
-        "screen": "screenshots/anubis/Ferrum AG.png",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "[EVIDENCE]Prince George County",
-        "discovered": "2026-07-03 00:55:39.968193",
-        "description": "",
-        "link": "/r/f3b1f5959904ff55a7fd07fcd954e438a9c0b666",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[EVIDENCE]Prince George County.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
     }
 ]
