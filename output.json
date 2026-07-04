@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Eureka Construction INC",
+        "discovered": "2026-07-04 13:57:19.856152",
+        "description": "",
+        "link": "/post/eureka-construction-inc-6mdwho3d0m",
+        "magnet": null,
+        "screen": "screenshots/titan/Eureka Construction INC.png",
+        "group_name": "titan",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Medic Rescue",
+        "discovered": "2026-07-04 12:41:33.406416",
+        "description": "https://www.medicrescue.org/ https://www.zoominfo.com/c/medic-rescue/47367866 Medic Rescue Services has been providing trusted emergency medical services to Beaver County since 1978. They offer a range of services including on-site emergency care, non-emergency transports, stretcher van trips, and wheelchair van services, all available 24/7. Their dedicated team and extensive fleet ensure swift and effective responses to medical needs. Medic Rescue aims to prioritize health and safety while fostering community trust through their reliable service",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Locati Architects",
         "discovered": "2026-07-04 09:51:13.492501",
         "description": "",
@@ -68,35 +88,5 @@
         "screen": "screenshots/qilin/TQ Financial Services.png",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "aydeniz.com",
-        "discovered": "2026-07-03 15:47:48.200552",
-        "description": "Aydeniz Group is a family-owned group of companies founded in 1975, operating in several key indu...",
-        "link": "/page_company.php?id=177",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/aydenizcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AC Beverage, Inc.",
-        "discovered": "2026-07-03 12:59:41.650377",
-        "description": "Provider in the draft beer service industry, specializing in the installation of high-quality systems and beer line",
-        "link": "Companies/acbeverage",
-        "magnet": null,
-        "screen": "screenshots/pear/AC Beverage, Inc.png",
-        "group_name": "pear",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "CNW Electronics Pte Ltd",
-        "discovered": "2026-07-03 12:59:40.699312",
-        "description": "Providing complete wire harness solutions, from design to manufacturing",
-        "link": "Companies/cnw",
-        "magnet": null,
-        "screen": "screenshots/pear/CNW Electronics Pte Ltd.png",
-        "group_name": "pear",
-        "sector": "Technology"
     }
 ]
