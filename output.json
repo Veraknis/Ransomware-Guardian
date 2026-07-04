@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Asisken",
+        "discovered": "2026-07-04 21:59:13.731150",
+        "description": "Asisken (asisken.com) is a medical assistance/health insurance company offering prepaid medical coverage and member support services, with a hospital network in Ecuador (and Colombia).",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "wallstreet",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Edgewood Police Department",
+        "discovered": "2026-07-04 21:00:17.310813",
+        "description": "The Edgewood Police Department is part of the Pierce County Sheriff’s Department, providing public safety and law enforcement services for the city, including community-focused programs like its free Community Academy",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "wallstreet",
+        "sector": "Government"
+    },
+    {
         "post_title": "Eureka Construction INC",
         "discovered": "2026-07-04 13:57:19.856152",
         "description": "",
@@ -37,56 +57,6 @@
         "magnet": null,
         "screen": "screenshots/play/Silvestri & Associates Insurance.png",
         "group_name": "play",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Md Lewis",
-        "discovered": "2026-07-03 20:54:14.963219",
-        "description": "Accounting Services",
-        "link": "/site/blog?uuid=98be2e40-0a3b-45e1-b490-65624dbc6801",
-        "magnet": null,
-        "screen": "screenshots/qilin/Md Lewis.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Goodwill Manasota",
-        "discovered": "2026-07-03 20:54:12.817245",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=20de175e-9b1b-48a2-b953-827c18de8aef",
-        "magnet": null,
-        "screen": "screenshots/qilin/Goodwill Manasota.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sitmatic",
-        "discovered": "2026-07-03 20:54:11.839042",
-        "description": "Furniture",
-        "link": "/site/blog?uuid=59fa35e9-0cf8-4178-b372-617f08a8b622",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sitmatic.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sisint",
-        "discovered": "2026-07-03 20:54:10.929415",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=dc445be0-dece-4603-88e8-b7578daaabf5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sisint.png",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "TQ Financial Services",
-        "discovered": "2026-07-03 20:54:09.988018",
-        "description": "Accounting Services",
-        "link": "/site/blog?uuid=abf9c42a-1ce2-43e2-a6ae-ffe1f669d054",
-        "magnet": null,
-        "screen": "screenshots/qilin/TQ Financial Services.png",
-        "group_name": "qilin",
         "sector": "Finance"
     }
 ]
