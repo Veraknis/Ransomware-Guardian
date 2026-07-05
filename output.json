@@ -1,5 +1,105 @@
 [
     {
+        "post_title": "Vela Film S.r.l.",
+        "discovered": "2026-07-05 16:53:42.337494",
+        "description": "Vela Film S.r.l. is an Italian production company based in Rome, specializing in the cinema and television industry. The company is involved in creating and producing various media projects, including well-known Italian TV series like “La porta rossa” and “Volevo fare la rockstar”. It actively collaborates with local directors and regional film commissions to organize and execute shootings across Italy.",
+        "link": "/posts/ec5239b8-9e94-4334-909a-279435be4e21",
+        "magnet": null,
+        "screen": null,
+        "group_name": "payload",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Apex Agro, LLC",
+        "discovered": "2026-07-05 16:53:26.172874",
+        "description": "A Chemical Production Company",
+        "link": "/f03a75d4c88c0b18f790/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Apex Agro, LLC.png",
+        "group_name": "genesis",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Mirage Endoscopy Center",
+        "discovered": "2026-07-05 16:53:25.235625",
+        "description": "A healthcare organization",
+        "link": "/bb6e5af34c5f138531a5/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Mirage Endoscopy Center.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "Bri-Tech, Inc",
+        "discovered": "2026-07-05 16:53:24.309428",
+        "description": "A technology design and integration firm",
+        "link": "/a86082912f3313bf10bf/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Bri-Tech, Inc.png",
+        "group_name": "genesis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "SBI Software",
+        "discovered": "2026-07-05 16:53:23.366633",
+        "description": "An Enterprise Resource Planning Software Provider",
+        "link": "/9ab2fe6517ec136535d1/",
+        "magnet": null,
+        "screen": "screenshots/genesis/SBI Software.png",
+        "group_name": "genesis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "DICON",
+        "discovered": "2026-07-05 16:53:22.324881",
+        "description": "A general contracting construction firm",
+        "link": "/925eed8c13857e563198/",
+        "magnet": null,
+        "screen": "screenshots/genesis/DICON.png",
+        "group_name": "genesis",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Westgate",
+        "discovered": "2026-07-05 16:53:21.382553",
+        "description": "A construction management company",
+        "link": "/9044897212b7bf3322ac/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Westgate.png",
+        "group_name": "genesis",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Dunagan Associates",
+        "discovered": "2026-07-05 16:53:20.423606",
+        "description": "Provides services in residential real estate and insurance",
+        "link": "/71d3fc53ffdf5a7c6674/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Dunagan Associates.png",
+        "group_name": "genesis",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Synergy Interactive",
+        "discovered": "2026-07-05 16:53:19.508487",
+        "description": "A provider of staffing services",
+        "link": "/2fece95cf598c61bc7e0/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Synergy Interactive.png",
+        "group_name": "genesis",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "East Texas Family Medicine",
+        "discovered": "2026-07-05 16:53:18.582890",
+        "description": "A healthcare organization",
+        "link": "/2ab3c68d011400ca76f7/",
+        "magnet": null,
+        "screen": "screenshots/genesis/East Texas Family Medicine.png",
+        "group_name": "genesis",
+        "sector": "Nonprofit"
+    },
+    {
         "post_title": "Gold Standard Automotive",
         "discovered": "2026-07-05 00:59:13.816556",
         "description": "Gold Standard Automotive Network administers vehicle service contracts sold through dealerships, offering coverage for repairs after your factory warranty ends, with claim approvals handled through the company.",
@@ -38,25 +138,5 @@
         "screen": null,
         "group_name": "wallstreet",
         "sector": "Government"
-    },
-    {
-        "post_title": "Eureka Construction INC",
-        "discovered": "2026-07-04 13:57:19.856152",
-        "description": "",
-        "link": "/post/eureka-construction-inc-6mdwho3d0m",
-        "magnet": null,
-        "screen": "screenshots/titan/Eureka Construction INC.png",
-        "group_name": "titan",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Medic Rescue",
-        "discovered": "2026-07-04 12:41:33.406416",
-        "description": "https://www.medicrescue.org/ https://www.zoominfo.com/c/medic-rescue/47367866 Medic Rescue Services has been providing trusted emergency medical services to Beaver County since 1978. They offer a range of services including on-site emergency care, non-emergency transports, stretcher van trips, and wheelchair van services, all available 24/7. Their dedicated team and extensive fleet ensure swift and effective responses to medical needs. Medic Rescue aims to prioritize health and safety while fostering community trust through their reliable service",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
     }
 ]
