@@ -5,7 +5,7 @@
         "description": "Vela Film S.r.l. is an Italian production company based in Rome, specializing in the cinema and television industry. The company is involved in creating and producing various media projects, including well-known Italian TV series like “La porta rossa” and “Volevo fare la rockstar”. It actively collaborates with local directors and regional film commissions to organize and execute shootings across Italy.",
         "link": "/posts/ec5239b8-9e94-4334-909a-279435be4e21",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/payload/Vela Film Srl.png",
         "group_name": "payload",
         "sector": "Media"
     },
@@ -118,25 +118,5 @@
         "screen": null,
         "group_name": "wallstreet",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Asisken",
-        "discovered": "2026-07-04 21:59:13.731150",
-        "description": "Asisken (asisken.com) is a medical assistance/health insurance company offering prepaid medical coverage and member support services, with a hospital network in Ecuador (and Colombia).",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "wallstreet",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Edgewood Police Department",
-        "discovered": "2026-07-04 21:00:17.310813",
-        "description": "The Edgewood Police Department is part of the Pierce County Sheriff’s Department, providing public safety and law enforcement services for the city, including community-focused programs like its free Community Academy",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "wallstreet",
-        "sector": "Government"
     }
 ]
