@@ -1,5 +1,25 @@
 [
     {
+        "post_title": "Gold Standard Automotive",
+        "discovered": "2026-07-05 00:59:13.816556",
+        "description": "Gold Standard Automotive Network administers vehicle service contracts sold through dealerships, offering coverage for repairs after your factory warranty ends, with claim approvals handled through the company.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "wallstreet",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Baraga County Memorial Hospital",
+        "discovered": "2026-07-05 00:59:12.865182",
+        "description": "Baraga County Memorial Hospital is a critical access hospital serving Baraga County with emergency, surgery, imaging, rehab, and outpatient care.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "wallstreet",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Asisken",
         "discovered": "2026-07-04 21:59:13.731150",
         "description": "Asisken (asisken.com) is a medical assistance/health insurance company offering prepaid medical coverage and member support services, with a hospital network in Ecuador (and Colombia).",
@@ -38,25 +58,5 @@
         "screen": null,
         "group_name": "the gentlemen",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Locati Architects",
-        "discovered": "2026-07-04 09:51:13.492501",
-        "description": "",
-        "link": "topic.php?id=8fJN1qE5MO0ev0",
-        "magnet": null,
-        "screen": "screenshots/play/Locati Architects.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Silvestri & Associates Insurance",
-        "discovered": "2026-07-04 09:51:12.524021",
-        "description": "",
-        "link": "topic.php?id=omRP0Z54cH0P8e",
-        "magnet": null,
-        "screen": "screenshots/play/Silvestri & Associates Insurance.png",
-        "group_name": "play",
-        "sector": "Finance"
     }
 ]
