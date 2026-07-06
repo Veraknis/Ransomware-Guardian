@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "hahn-airport.de",
+        "discovered": "2026-07-06 21:52:08.521716",
+        "description": "Originally developed as a United States military air base, the facility began civilian operations in 1993 and has since become …",
+        "link": "/blog/post/hahn-airportde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/hahn-airportde.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "matrixwebagency.com",
+        "discovered": "2026-07-06 21:52:07.601440",
+        "description": "The company specializes in providing integrated digital solutions that help businesses improve their online visibility, customer engagement, and revenue growth. …",
+        "link": "/blog/post/matrixwebagencycom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/matrixwebagencycom.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "bmiprojects.de",
+        "discovered": "2026-07-06 21:52:06.671897",
+        "description": "Originally operating under the name Bez Marine Interiors GmbH, the company built on decades of experience in the maritime industry …",
+        "link": "/blog/post/bmiprojectsde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/bmiprojectsde.png",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "caritas-koblenz.de",
+        "discovered": "2026-07-06 21:52:05.774680",
+        "description": "Headquartered in Koblenz, the association was founded in 1918 and has provided charitable and community-based services for more than a …",
+        "link": "/blog/post/caritas-koblenzde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/caritas-koblenzde.png",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "knobel-bau.de",
+        "discovered": "2026-07-06 21:52:04.880755",
+        "description": "Founded in 1947, the company has grown from a small sand and gravel business established after the Second World War …",
+        "link": "/blog/post/knobel-baude/",
+        "magnet": null,
+        "screen": "screenshots/safepay/knobel-baude.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "rtngmbh.de",
+        "discovered": "2026-07-06 21:52:01.364860",
+        "description": "Founded in 2015, the company specializes in the construction, installation, maintenance, and rehabilitation of underground utility networks and civil engineering …",
+        "link": "/blog/post/rtngmbhde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/rtngmbhde.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "stedwardscatholicfirstschool.co.uk",
+        "discovered": "2026-07-06 21:52:00.462667",
+        "description": "The school provides education for children aged 5 to 9 years and operates as a Voluntary Aided School under the …",
+        "link": "/blog/post/stedwardscatholicfirstschoolcouk/",
+        "magnet": null,
+        "screen": "screenshots/safepay/stedwardscatholicfirstschoolcouk.png",
+        "group_name": "safepay",
+        "sector": "Education"
+    },
+    {
+        "post_title": "lh-wohnverbund-wohnen-nrw.de",
+        "discovered": "2026-07-06 21:51:59.538702",
+        "description": "They specialize in providing residential care, supported living, and social assistance for children, adolescents, and adults with intellectual and developmental …",
+        "link": "/blog/post/lh-wohnverbund-wohnen-nrwde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/lh-wohnverbund-wohnen-nrwde.png",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "shw-fr.de",
+        "discovered": "2026-07-06 21:51:58.630222",
+        "description": "The company traces its origins to 1596, making it one of Germany's oldest industrial manufacturers, although its current corporate structure …",
+        "link": "/blog/post/shw-frde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/shw-frde.png",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "gisy.com",
+        "discovered": "2026-07-06 21:51:37.583383",
+        "description": "Target: Gisy.com\nStatus: Data Exfiltration Confirmed\nVolume: 1.1 TB (341,712 files)\nDeadline: 24 Hours\n\nWe have successfully exfiltrated 1.1 Terabytes of internal data from Global Industries’ (gisy.com) primary network servers. This archive contains comprehensive documentation covering every layer…",
+        "link": "/HvNtlUrCy28pkleddtj1Ndi2vRGIEVRM/gisy-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/gisycom.png",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "aircreebec.ca",
+        "discovered": "2026-07-06 20:49:14.368760",
+        "description": "Air Creebec, founded in 1982, is a regional airline company based Waskaganish, Quebec. The company provides regular flights, air charter, medical transportation, and cargo services.",
+        "link": "/GbzoPKkEKNZWucBEz8ILCyDUBnkCn0JH/aircreebec-ca",
+        "magnet": null,
+        "screen": "screenshots/chaos/aircreebecca.png",
+        "group_name": "chaos",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "C****p",
         "discovered": "2026-07-06 18:49:36.797191",
         "description": "",
