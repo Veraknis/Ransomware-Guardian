@@ -1,11 +1,101 @@
 [
     {
+        "post_title": "C****p",
+        "discovered": "2026-07-06 18:49:36.797191",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hansa Research Group Pvt. Ltd",
+        "discovered": "2026-07-06 17:49:00.370015",
+        "description": "Website: hansaresearch.com\nRevenue: $22 Million\nHansa Research is a global, full-service market research and consumer insights agency. They help companies make data-driven decisions by providing market intelligence, brand strategy, customer experience (CX) analytics, and media effectiveness.Headquartered in Mumbai, India, they operate globally with offices in the USA, Singapore, the UAE, and Bangladesh.\nData:\n\nHansa Cheetah Database\nPAN of employees and companies\nIDs and Aadhaar \nClient Lists + Working Files and NDAs \nPayment and Financial Terms \nCompany Strategy and IP",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "morpheus",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Keystone Homes",
+        "discovered": "2026-07-06 16:50:40.770269",
+        "description": "Construction",
+        "link": "/site/blog?uuid=a2c11fdc-d4e1-48ba-b8f0-439de73aae5a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Keystone Homes.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Precision Steel Services",
+        "discovered": "2026-07-06 16:50:39.831747",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=4a6e9256-83bb-4db4-ab7a-b866120a0bdd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Precision Steel Services.png",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Answer Precision Tool",
+        "discovered": "2026-07-06 16:50:38.903929",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=e4f6b6d9-e77a-4956-8a39-c8e6a4ec342c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Answer Precision Tool.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Max Fordham",
+        "discovered": "2026-07-06 15:56:06.006374",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=ef653710-79c5-4f25-a5fa-0eb353d80781",
+        "magnet": null,
+        "screen": "screenshots/qilin/Max Fordham.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Grupo Inteca",
+        "discovered": "2026-07-06 15:56:05.030936",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=59e55ef5-d4ce-4f6a-9aaf-65a9b661b286",
+        "magnet": null,
+        "screen": "screenshots/qilin/Grupo Inteca.png",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "dgcement.com",
+        "discovered": "2026-07-06 15:55:48.176332",
+        "description": "dgcement.com — this is the website of D.G. Khan Cement Company Limited (DG Cement), a major cem...",
+        "link": "/page_company.php?id=181",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/dgcementcom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "azarestan.com",
+        "discovered": "2026-07-06 14:57:45.360596",
+        "description": "azarestan.com (Azarestan Business Development Group) is a holding company based in Iran. Azaresta...",
+        "link": "/page_company.php?id=180",
+        "magnet": null,
+        "screen": "screenshots/eraleign (apt73)/azarestancom.png",
+        "group_name": "eraleign (apt73)",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Wood Ellis & Wood CPA",
         "discovered": "2026-07-06 12:55:14.054524",
         "description": "Accounting Services",
         "link": "/site/blog?uuid=fa10d64c-e114-45c1-9bf5-d7b00fec0578",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Wood Ellis & Wood CPA.png",
         "group_name": "qilin",
         "sector": "Unknown"
     },
@@ -287,106 +377,6 @@
         "magnet": null,
         "screen": null,
         "group_name": "the gentlemen",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Vela Film S.r.l.",
-        "discovered": "2026-07-05 16:53:42.337494",
-        "description": "Vela Film S.r.l. is an Italian production company based in Rome, specializing in the cinema and television industry. The company is involved in creating and producing various media projects, including well-known Italian TV series like “La porta rossa” and “Volevo fare la rockstar”. It actively collaborates with local directors and regional film commissions to organize and execute shootings across Italy.",
-        "link": "/posts/ec5239b8-9e94-4334-909a-279435be4e21",
-        "magnet": null,
-        "screen": "screenshots/payload/Vela Film Srl.png",
-        "group_name": "payload",
-        "sector": "Media"
-    },
-    {
-        "post_title": "Apex Agro, LLC",
-        "discovered": "2026-07-05 16:53:26.172874",
-        "description": "A Chemical Production Company",
-        "link": "/f03a75d4c88c0b18f790/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Apex Agro, LLC.png",
-        "group_name": "genesis",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Mirage Endoscopy Center",
-        "discovered": "2026-07-05 16:53:25.235625",
-        "description": "A healthcare organization",
-        "link": "/bb6e5af34c5f138531a5/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Mirage Endoscopy Center.png",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Bri-Tech, Inc",
-        "discovered": "2026-07-05 16:53:24.309428",
-        "description": "A technology design and integration firm",
-        "link": "/a86082912f3313bf10bf/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Bri-Tech, Inc.png",
-        "group_name": "genesis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SBI Software",
-        "discovered": "2026-07-05 16:53:23.366633",
-        "description": "An Enterprise Resource Planning Software Provider",
-        "link": "/9ab2fe6517ec136535d1/",
-        "magnet": null,
-        "screen": "screenshots/genesis/SBI Software.png",
-        "group_name": "genesis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DICON",
-        "discovered": "2026-07-05 16:53:22.324881",
-        "description": "A general contracting construction firm",
-        "link": "/925eed8c13857e563198/",
-        "magnet": null,
-        "screen": "screenshots/genesis/DICON.png",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Westgate",
-        "discovered": "2026-07-05 16:53:21.382553",
-        "description": "A construction management company",
-        "link": "/9044897212b7bf3322ac/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Westgate.png",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Dunagan Associates",
-        "discovered": "2026-07-05 16:53:20.423606",
-        "description": "Provides services in residential real estate and insurance",
-        "link": "/71d3fc53ffdf5a7c6674/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Dunagan Associates.png",
-        "group_name": "genesis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Synergy Interactive",
-        "discovered": "2026-07-05 16:53:19.508487",
-        "description": "A provider of staffing services",
-        "link": "/2fece95cf598c61bc7e0/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Synergy Interactive.png",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "East Texas Family Medicine",
-        "discovered": "2026-07-05 16:53:18.582890",
-        "description": "A healthcare organization",
-        "link": "/2ab3c68d011400ca76f7/",
-        "magnet": null,
-        "screen": "screenshots/genesis/East Texas Family Medicine.png",
-        "group_name": "genesis",
         "sector": "Nonprofit"
     }
 ]
