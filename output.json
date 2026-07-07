@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Studio Sardano",
+        "discovered": "2026-07-07 11:52:37.544707",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "hive360.com",
+        "discovered": "2026-07-07 10:51:41.288113",
+        "description": "HIVE360 is a UK-based employment administration and employee benefits specialist. They help businesses streamline their payroll and HR operations while improvin...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "amplesurveyor.com",
+        "discovered": "2026-07-07 10:51:39.905115",
+        "description": "Ample Surveyor Services Limited is a professional property and construction consultancy firm based in Hong Kong.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Richmont Graduate University",
+        "discovered": "2026-07-07 10:51:35.749679",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "ailock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Fitcrunch",
+        "discovered": "2026-07-07 03:55:06.276524",
+        "description": "FITCRUNCH® makes getting protein more enjoyable than ever before. Satisfy your cravings with a variety of delicious chef-inspired products from co-founder and owner Robert Irvine.Find the perfect fit with our baked protein bars, wafer bars, protein powder, and more-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://fitcrunch.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/56/fitcrunch",
+        "magnet": null,
+        "screen": "screenshots/space bears/Fitcrunch.png",
+        "group_name": "space bears",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "tecnocurva.com.br",
+        "discovered": "2026-07-07 02:52:36.970277",
+        "description": "",
+        "link": "/blog/disclosures/6a468fe25ae71db30ca4f6ae",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/tecnocurvacombr.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "samberger24.de",
+        "discovered": "2026-07-07 02:52:35.827101",
+        "description": "",
+        "link": "/blog/disclosures/6a4706c25ae71db30cb381c1",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/samberger24de.png",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "hahn-airport.de",
         "discovered": "2026-07-06 21:52:08.521716",
         "description": "Originally developed as a United States military air base, the facility began civilian operations in 1993 and has since become …",
@@ -218,275 +288,5 @@
         "screen": "screenshots/eraleign (apt73)/vicentetrapanicom.png",
         "group_name": "eraleign (apt73)",
         "sector": "Finance"
-    },
-    {
-        "post_title": "[DISCLOSED]Prince George County",
-        "discovered": "2026-07-06 11:55:20.764476",
-        "description": "",
-        "link": "/r/4e5e0cb3bf3f1590ec38248ae72f724fbce1d63a",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]Prince George County.png",
-        "group_name": "ransomhouse",
-        "sector": "Government"
-    },
-    {
-        "post_title": "LabelDaddy",
-        "discovered": "2026-07-06 11:55:19.391870",
-        "description": "Retail · Pennsylvania",
-        "link": "/site/blog?uuid=785951dd-b910-470f-af4a-ef801d128713",
-        "magnet": null,
-        "screen": "screenshots/qilin/LabelDaddy.png",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "westernint.com",
-        "discovered": "2026-07-06 10:49:23.812928",
-        "description": "Western International Group is a large private conglomerate based in Dubai that operates in the r...",
-        "link": "/page_company.php?id=178",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/westernintcom.png",
-        "group_name": "eraleign (apt73)",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Blenheim",
-        "discovered": "2026-07-06 06:51:16.488466",
-        "description": "Blenheim is a UK-based luxury property company specializing in high-end residential real estate, architecture, bespoke home design, and property development. With more than 20 years of experience, the company provides an end-to-end service covering property sales, acquisitions, architectural design, construction, and interior design. Operating across Sheffield, Yorkshire, Derbyshire, and the Peak District, Blenheim focuses on creating and marketing distinctive luxury homes tailored to each client's vision. Its multidisciplinary team combines expertise in real estate, architecture, and construction to deliver premium property solutions.Sell over 500 GB of data:- CRM database- Financial records- Architectural drawings, CAD/BIM models, and planning documentation.- Complete buyer details, including the home layout. \nhttps://blenheim.co.uk",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/55/blenheim",
-        "magnet": null,
-        "screen": "screenshots/space bears/Blenheim.png",
-        "group_name": "space bears",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Fluke Corporation",
-        "discovered": "2026-07-06 06:51:14.434566",
-        "description": "Over 21 million Salesforce records containing some PII were compromised.  The Company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ingram Content Group, Inc.",
-        "discovered": "2026-07-06 06:51:13.467700",
-        "description": "The Company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "shinyhunters",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Royal Foods",
-        "discovered": "2026-07-06 03:52:13.816712",
-        "description": "royalfoods.com.au zoominfo.com/c/royal-foods/98011908 Royal Foods is a privately-owned Australian gourmet food company that supplies high-quality, innovative products to the food service sector and independent retailers.Headquartered in Brisbane and operating across multiple states, the company employs around 250 staff dedicated to supporting the local food industry.Furthermore, their specialized Food Solutions division focuses on helping commercial kitchens solve challenges related to profitability and operational efficiency",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Pro-Tech Technology",
-        "discovered": "2026-07-06 03:52:12.876522",
-        "description": "ptt-asia.com Pro-Tech Technology (Asia) Limited,leading IT solutions provider established in 2004 with offices in Hong Kong.Operating in the Information Technology & Services industry, the company focuses on delivering secure, effective, and cost-effective IT solutions and services to its clients .With a workforce of up to 200 employees, PTT strives to provide stable technological infrastructure and support across the Asian marke",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Technical Solutions Group",
-        "discovered": "2026-07-06 03:52:11.933139",
-        "description": "tsgpc.com zoominfo.com/c/medical-data-rx/346985484 Technical Solutions Group, LLC, an IT services company headquartered in Gladwin, Michigan, which also operates the specialized division Medical Data Rx.The organization provides comprehensive technology solutions, including networking, data backup, and hardware services, assisting both small businesses and medical professionals across the United States and Canada.As a diversified technology services provider, the company focuses on delivering reliable technical support and tailored IT management to its clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "East African Gasoil",
-        "discovered": "2026-07-06 03:48:07.928014",
-        "description": "",
-        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=572",
-        "magnet": null,
-        "screen": "screenshots/arcus media/East African Gasoil.png",
-        "group_name": "arcus media",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CSIR Structural Engineering Research Centre",
-        "discovered": "2026-07-06 03:39:44.577890",
-        "description": "serc.res.in zoominfo.com/c/csir-structural-engineering-research-centre/372543677 CSIR-Structural Engineering Research Centre (CSIR-SERC), a premier national laboratory established in 1965 and located in Chennai, India.Operating under the Council of Scientific and Industrial Research, the institute is dedicated to advanced research in structural engineering, materials science, and structural health monitoring.The center plays a crucial role in developing innovative construction technologies and providing specialized testing services to support India's infrastructure development",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Jump Solutions Inc",
-        "discovered": "2026-07-06 03:39:43.648385",
-        "description": "jumpsolutions.ph zoominfo.com/c/jump-solutions-inc/450178976 Filipino-owned IT solutions provider and system integrator based in Makati City, Metro Manila.The company specializes in delivering comprehensive, end-to-end IT solutions, including network infrastructure assessments, IT consultancy, and risk management.As a trusted technology partner, they focus on providing future-ready and secure technologies that empower businesses across various industries",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "MBT Energy",
-        "discovered": "2026-07-06 03:39:42.701671",
-        "description": "mbt-energy.com zoominfo.com/c/mibet-energy/357309481 Xiamen Mibet New Energy Co., Ltd., is a high-tech enterprise based in China that specializes in one-stop solar mounting solutions and PV racking systems.The company manufactures a comprehensive range of structures for ground, rooftop, floating, tracking, carport, and agricultural solar applications. Holding over 200 global patents and an annual production capacity of 20GW+, Mibet exports its internationally certified products to more than 100 countries worldwide",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Automovil Supply S.A",
-        "discovered": "2026-07-06 03:24:29.665353",
-        "description": "supply.com.py zoominfo.com/c/automóvil-supply/405948730 Automovil Supply S.A., accessible via supply.com.py, is a prominent Paraguayan chain of auto parts stores founded on August 10, 1955.With over 70 years of experience in the automotive industry, the company employs between 200 and 500 staff members and operates multiple retail branches across Paraguay.Known for its slogan \"Over 70 years moving the country,\" it serves as a major importer and distributor of motor vehicle parts in the region",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Excel Cell Electronic",
-        "discovered": "2026-07-06 03:24:28.710814",
-        "description": "ece.com.tw zoominfo.com/c/excel-cell-electronic-co-ltd/372144382 Excel Cell Electronic Co., Ltd. (ECE), founded in 1981 and headquartered in Taichung, Taiwan, is a prominent manufacturer of electronic components.The publicly traded company specializes in producing DIP switches, micro switches, relays, terminal blocks, connectors, and resettable fuses for global markets.ECE focuses heavily on product innovation and process integration to serve as a reliable strategic partner in the fast-paced electronics industry",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Mercado Libre",
-        "discovered": "2026-07-06 03:24:27.775315",
-        "description": "mercadolibre.com.ar zoominfo.com/c/mercadolibre-srl/425378760 Argentine platform of MercadoLibre, the undisputed leader in Latin American e-commerce and fintech, founded in 1999 by Marcos Galperin. It operates a massive online marketplace integrated with a powerful ecosystem of services, including Mercado Pago for digital payments and Mercado Envíos for logistics. As a cornerstone of Argentina's digital economy, it connects millions of buyers and sellers, driving both retail innovation and financial inclusion across the nation",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Ce Ratp Comite D entreprise Ratp",
-        "discovered": "2026-07-06 03:16:08.161694",
-        "description": "ceratp.fr zoominfo.com/c/ce-ratp-comité-dentreprise-ratp/1315531566 digital platform of the RATP Works Council, dedicated exclusively to employees of the Paris public transport operator and their beneficiaries.It provides comprehensive services for social and cultural activities, allowing members to book vacations, register for summer camps, and access exclusive leisure events.Based in Fontenay-sous-Bois, the platform serves as a central hub for managing employee benefits and corporate perks",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Keifert",
-        "discovered": "2026-07-06 03:16:07.229661",
-        "description": "keifert.de zoominfo.com/c/keifert-gmbh/429980133 Keifert GmbH master-certified building cleaning company based in Schallstadt, Germany, with over 35 years of industry experience.They offer a comprehensive range of professional services, including office, industrial, and specialized cleaning, as well as janitorial services across the Southern Baden region.As a quality-focused enterprise, the company is certified according to DIN EN ISO 9001 and 14001 standards, ensuring reliable and environmentally conscious solutions for their clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Kosmos",
-        "discovered": "2026-07-06 03:16:06.321795",
-        "description": "kosmos.de zoominfo.com/c/kosmos/470278755 Franckh-Kosmos Verlags-GmbH & Co. KG, a prominent media publishing house based in Stuttgart, Germany.Founded in 1822 by Johann Friedrich Franckh, the company is one of the leading publishers of guidebooks, children's books, board games, and educational experiment kits.It successfully combines long-standing tradition with modern trends to offer engaging products for children, families, and hobbyists",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Media"
-    },
-    {
-        "post_title": "EBNY Development",
-        "discovered": "2026-07-06 03:16:05.438975",
-        "description": "ebny.com.eg Founded in 2012, EBNY Development is a pioneering real estate company focused on redefining the property market in Egypt and beyond. They create innovative and functional projects that combine elegant designs with thoughtful planning to elevate daily living and lifestyles. Ultimately, the company is dedicated to delivering long-lasting value and building a brighter, sustainable future for its clients",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Tonnies Group",
-        "discovered": "2026-07-06 03:16:04.521822",
-        "description": "toennies.de zoominfo.com/c/tönnies-group/427095219 Founded in 1971 as a family-owned business, the Tönnies Group is a leading German meat processing company headquartered in Rheda-Wiedenbrück.As a major global player in the food industry, it specializes in the slaughtering, butchering, and processing of pork and beef, generating around 5 billion euros in annual turnover with over 8,000 employees.Notably, the holding company is rebranding to \"Premium Food Group\" starting in 2025 to emphasize its focus on sustainable food solutions",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Harsha Engineers",
-        "discovered": "2026-07-06 03:16:01.321131",
-        "description": "harshaengineers.com zoominfo.com/c/harsha-engineers-ltd/347133124 Founded in 1972 and headquartered in Ahmedabad, India, Harsha Engineers International Limited is a publicly listed precision engineering company with a workforce of thousands.The organization is recognized as India's largest manufacturer of precision bearing cages and a leading global player holding a significant market share in this sector.Operating TPM-certified production facilities, the company specializes in manufacturing high-precision stamped components that serve the global automotive and industrial markets ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Quanterm Logistics Sdn Bhd",
-        "discovered": "2026-07-06 03:02:06.136148",
-        "description": "quanterm.com zoominfo.com/c/quanterm-logistics-sdn-bhd/346750206 Quanterm Logistics, founded in 1992 and headquartered in Malaysia, is a leading freight forwarding and total logistics provider in the Asia Pacific region.Starting as an international LCL consolidator, the company has expanded to offer comprehensive supply chain solutions including warehousing, distribution, and fleet management.Today, the organization serves both domestic and international markets through a wide network of offices across Malaysia, Vietnam, Australia, and other countries",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Spedidam",
-        "discovered": "2026-07-06 03:02:05.180429",
-        "description": "spedidam.fr Spedidam, founded in 1959 by five musical performers, is a French collective management organization that protects performers' neighboring rights.The organization manages the collection and distribution of royalties for performing artists while supporting artistic and cultural initiatives.Based in Paris, it serves as one of France's key institutions for managing intellectual property rights in music and dance ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Arabia Falcon Insurance Company SAOG",
-        "discovered": "2026-07-06 03:02:01.166372",
-        "description": "afic.om zoominfo.com/c/arabia-falcon-insurance-company-saog/447137751 Arabia Falcon Insurance Company (AFIC), is a leading insurance provider in Oman formed by the historic merger of two successful local insurers.The company underwrites a comprehensive range of general, motor, medical, and life insurance products for individuals and businesses.Headquartered in Muscat, AFIC has firmly established itself as a trusted and prominent name in the Sultanate's insurance sector",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "LogiQuip",
-        "discovered": "2026-07-06 02:54:08.029316",
-        "description": "logiquip.com zoominfo.com/c/logiquip/146752157 LogiQuip, founded in 1992, is a specialized manufacturer providing inventory management and storage solutions exclusively for the healthcare industry.They design innovative systems, such as ParWire shelving, to solve complex supply chain and distribution issues in hospitals.Ultimately, their products help medical professionals save valuable time on inventory tasks so they can focus on patient care",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Virginia Historical Society",
-        "discovered": "2026-07-06 02:54:07.059029",
-        "description": "virginiahistory.org zoominfo.com/c/virginia-historical-society/184942664 is the digital platform for the Virginia Museum of History & Culture, owned and operated by the Virginia Historical Society, a private non-profit established in 1831.It is uniquely positioned as the only museum that presents all of Virginia's history under one roof, covering all centuries, regions, and topics.The organization connects people to America's past through its exhibitions, educational programs, and extensive research collections, inspiring future generations",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Nonprofit"
     }
 ]
