@@ -1,5 +1,75 @@
 [
     {
+        "post_title": "Creative Smiles Pediatric Dentistry",
+        "discovered": "2026-07-08 18:41:42.995101",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/Creative Smiles Pediatric Dentistry.png",
+        "group_name": "crpx0",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AMHWA Biopharm Co., Ltd.",
+        "discovered": "2026-07-08 18:41:19.415165",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/AMHWA Biopharm Co, Ltd.png",
+        "group_name": "crpx0",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SF Smile Doctor",
+        "discovered": "2026-07-08 18:40:47.666441",
+        "description": "SF Smile Doctor",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/SF Smile Doctor.png",
+        "group_name": "crpx0",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bishop Arts Dental PLLC",
+        "discovered": "2026-07-08 18:40:19.813370",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/Bishop Arts Dental PLLC.png",
+        "group_name": "crpx0",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Top Notch Dentistry of Dallas",
+        "discovered": "2026-07-08 18:39:46.012455",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/Top Notch Dentistry of Dallas.png",
+        "group_name": "crpx0",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Benjamin H. Wang DDS Inc.",
+        "discovered": "2026-07-08 18:39:03.026462",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/crpx0/Benjamin H Wang DDS Inc.png",
+        "group_name": "crpx0",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "tws-tac.net",
+        "discovered": "2026-07-08 18:35:15.694614",
+        "description": "While ownership has changed over the years, the company has remained locally owned for over 65 years and family-owned for almost 40 years. The company is proud of the company's history and look forward to the future as the company continue to serv | PUBLISHED 1% | Views: 39",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/tws-tacnet.png",
+        "group_name": "3am",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "S.J. Louis",
         "discovered": "2026-07-08 17:49:39.695382",
         "description": "Civil Engineering Construction",
@@ -147,66 +217,6 @@
         "magnet": null,
         "screen": "screenshots/inc ransom/Aesthetic Surgical Images.png",
         "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lechner Massivhaus GmbH",
-        "discovered": "2026-07-07 20:52:24.297925",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=baa73f69-c924-4036-8d91-9c3e3682228d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lechner Massivhaus GmbH.png",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "COP® Vertriebs-GmbH Zentrale",
-        "discovered": "2026-07-07 20:52:23.376866",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=5163330a-cd61-4240-adf9-a6e97f3f6313",
-        "magnet": null,
-        "screen": "screenshots/qilin/COP® Vertriebs-GmbH Zentrale.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Next Clinics",
-        "discovered": "2026-07-07 19:53:54.358468",
-        "description": "0",
-        "link": "/site/blog?uuid=6496d6c3-7afe-4b66-a9d3-b9a903624ce3",
-        "magnet": null,
-        "screen": "screenshots/qilin/Next Clinics.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Preneed Funeral Programs",
-        "discovered": "2026-07-07 19:53:53.340266",
-        "description": "",
-        "link": "topic.php?id=OwUv1dInsynYt",
-        "magnet": null,
-        "screen": "screenshots/play/Preneed Funeral Programs.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kevin Bao Lenguyen",
-        "discovered": "2026-07-07 19:53:52.425116",
-        "description": "",
-        "link": "topic.php?id=q3GdV7iWPAT0G",
-        "magnet": null,
-        "screen": "screenshots/play/Kevin Bao Lenguyen.png",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "United Infrastructure",
-        "discovered": "2026-07-07 19:53:51.442863",
-        "description": "",
-        "link": "topic.php?id=gqmm4Ud2E9faTr",
-        "magnet": null,
-        "screen": "screenshots/play/United Infrastructure.png",
-        "group_name": "play",
         "sector": "Unknown"
     }
 ]
