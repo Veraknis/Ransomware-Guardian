@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "S.J. Louis",
+        "discovered": "2026-07-08 17:49:39.695382",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=0894a7b6-f612-4096-bc99-8ecafeaa427e",
+        "magnet": null,
+        "screen": "screenshots/qilin/SJ Louis.png",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "shelby.com.mx",
+        "discovered": "2026-07-08 17:49:24.918400",
+        "description": "Shelby Manufacturing de México, S.A. de C.V. is a Mexican maquiladora company specializing in the manufacturing of sewi...",
+        "link": "/blog/0be5e3372189bc8227a64a038e9108059cf98bfe70a3374df244bb15e4c10ceb/",
+        "magnet": null,
+        "screen": "screenshots/krybit/shelbycommx.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "xuerong.com",
+        "discovered": "2026-07-08 16:51:36.260444",
+        "description": "Shanghai Xuerong Biotechnology Co., Ltd. (上海雪榕生物科技股份有限公司), formerly known as Shanghai Gaoron...",
+        "link": "/blog/cff99e0ccf21ac4aa31288af8d0cc04b21b86ff674e9742c30e81e6261b4e256/",
+        "magnet": null,
+        "screen": "screenshots/krybit/xuerongcom.png",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Wade's Dairy",
+        "discovered": "2026-07-08 15:54:01.727867",
+        "description": "A family-owned business for over a century, Wade's Dairy has been a staple in the Connecticut community.We will upload corporate data soon. Detailed employee personal information (name, DOB, SSN, DL,height, weight, race, sex, eyes and hair color, tattoo information, emails, phones and so on),projects files, financials, customers, contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "PCCC Realty LLC",
+        "discovered": "2026-07-08 14:56:59.092367",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tostrud & Temp, S.C.",
+        "discovered": "2026-07-08 12:55:47.652734",
+        "description": "Full service CPA firm serving La Crosse",
+        "link": "Companies/tntcpas",
+        "magnet": null,
+        "screen": "screenshots/pear/Tostrud & Temp, SC.png",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "corepharma.com",
         "discovered": "2026-07-08 10:53:47.824759",
         "description": "DATA EXPOSURE: CorePharma – Full GMP & Regulatory Compromise\n\nWe are officially announcing that our security team has successfully breached the internal network of CorePharma. We are currently in possession of a comprehensive archive of the company’s internal operations, including sensitive regu…",
@@ -148,105 +208,5 @@
         "screen": "screenshots/play/United Infrastructure.png",
         "group_name": "play",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "YMCA of Western North Carolina",
-        "discovered": "2026-07-07 17:51:54.179841",
-        "description": "https://www.ymcawnc.org/\n\t\t\t\t\t\t\t\t\tThe YMCA of Western North Carolina operates seven fitness centers, a summer camp, dozens of food trucks, youth sports programs, and many other initiatives. They are also the state's largest provider of licensed school-age childcare.\nHowever, they don't ensure security and aren't responsible for it, and you can gain access to confidential client information (complete sets of documents, even fingerprints), contracts, and incidents (of which they have many!), as well as to employee personal data and financial documents.",
-        "link": "http://3kiwpavmpi2eyc2d4cbggo6s4fnodqzlhxirudruptvjx32wlxxzn6ad.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/YMCA of Western North Carolina.png",
-        "group_name": "interlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "hiddeenn",
-        "discovered": "2026-07-07 17:24:53.046559",
-        "description": "hidddenn",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "seprec.gob.bo",
-        "discovered": "2026-07-07 16:52:24.925623",
-        "description": "SEPREC (Servicio Plurinacional de Registro de Comercio / Plurinational Commercial Registry Service) is a Bolivian decent...",
-        "link": "/blog/b97dd628d06368f22daf4bf21b671c46c8b37d5ebfedeac6fc68688b5e55e943/",
-        "magnet": null,
-        "screen": "screenshots/krybit/seprecgobbo.png",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Chisholm Persson & Ball",
-        "discovered": "2026-07-07 16:52:18.285455",
-        "description": "Chisholm, Persson & Ball, PC is a law firm located in Laconia, NH, specializing in various legal services including Estate Planning, Probate Administration, Family Law, Business Law, and Civil Litigation. The firm has been recognized for its excellence, winning multiple awards in the Lakes Region for Best Law Firm and other categories.We will upload 45gb of corporate data soon. Client and employee personal information (client passports, visas, DLs, SSNs and so on), confidential client docs, financial, contracts and agreements,  court files, police reports and other legal files.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "RISE Architecture",
-        "discovered": "2026-07-07 16:52:17.358050",
-        "description": "RISE Architecture is a full-service architectural firm based in New York and New Jersey that specializes in dynamic design solutions for complex real estate projects across residential, commercial, mixed-use, industrial, and institutional sectors.We will upload 57gb of corporate data soon. Employee personal information, a bit of client files, projects files, financials, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Accelirate",
-        "discovered": "2026-07-07 15:56:17.082662",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=8490a0ae-f21b-4277-ad81-80308770ada6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Accelirate.png",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mount Royal University",
-        "discovered": "2026-07-07 15:55:59.154851",
-        "description": "The university was established in 1910. Mount Royal University is a public university in Calgary, Canada. Its programs include bachelor of arts, bachelor of communication, bachelor of health & physical education, bachelor of interior design, bachelor of nursing, and bachelor of science.\n\nMore than 10TB of data!!!",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "cmd organization",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Excalibur Rentals",
-        "discovered": "2026-07-07 15:55:55.787845",
-        "description": "Excalibur Rentals is dedicated to providing reliable rental equipment services, ensuring that clients can complete their jobs safely, on time, and within budget. They offer a range of equipment including boom lifts, telehandlers, and light towers.We will upload 45gb of corporate data soon. Employee personal information (name, addresses, SSNs and so on), contracts and agreements, a bit of financials, customers info, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Edge Solutions | Stone Ridge Payments",
-        "discovered": "2026-07-07 14:54:02.475576",
-        "description": "Edge Solutions is dedicated to leveraging technology to create a better world. With a focus on integrity, they offer top-notch services to help clients achieve their business objectives. Their team is committed to future-proofing businesses through innovative solutions.We will upload 67gb of corporate data soon. Employee personal information (400  passports and DL scans, SSNs, w9 forms and so on), financials, contracts and agreements, confidential documents, lots of NDAs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "PB Fiduciaire SA 🇨🇭",
-        "discovered": "2026-07-07 12:52:39.543147",
-        "description": "Accounting, taxation, auditing, financial consulting for businesses.",
-        "link": "/blog/989cf27f-2503-4d87-8545-d6a0c5ad1a1c",
-        "magnet": null,
-        "screen": "screenshots/bravox/PB Fiduciaire SA 🇨🇭.png",
-        "group_name": "bravox",
-        "sector": "Finance"
     }
 ]
