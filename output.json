@@ -625,27 +625,5 @@
         "misp_uuid": "cd121db6-a749-52a1-8746-da58855bb022",
         "group_name": "nova",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Finance Yorkshire",
-        "discovered": "2026-07-09 21:55:59.428370",
-        "description": "Finance Yorkshire provides funding solutions for small and medium-sized enterprises (SMEs) located in or planning to relocate to Yorkshire. Their offerings include business loans ranging from £25,000 to £250,000, equity-linked investments, and seedcorn startup finance, with a focus on supporting growth and innovation. The organization aims to invest over £50 million in the region over the next five years, targeting businesses that seek to expand, create jobs, and enhance productivity. With a legacy of successful investments, Finance Yorkshire is dedicated to fostering the development of technology and knowledge-based companies.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e49e8223-6105-5ca2-8489-64be3160e039",
-        "group_name": "cmd organization",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Envision Unlimited",
-        "discovered": "2026-07-09 20:49:28.282495",
-        "description": "",
-        "link": "/news.php?id=1",
-        "magnet": null,
-        "screen": "screenshots/money message/Envision Unlimited.png",
-        "misp_uuid": "8b5b4605-1b9e-559e-9d8f-95b0505e0482",
-        "group_name": "money message",
-        "sector": "Unknown"
     }
 ]
