@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "eclective.ie",
+        "discovered": "2026-07-12 16:28:55.966203",
+        "description": "Ireland, 41a Pleasants Saint Kevins St, D08 KR99 ,Eclective is Ireland's largest hospitality group, renowned for creating dynamic and diverse hospitality and lifestyle brands. They offer a variety of venues suitable for different occasions, including intimate dining, social gatherings, and family-friendly environments. Their commitment to exceptional experiences highlights their understanding of what makes an outing enjoyable while fostering community connections. Eclective also provides tailored event spaces with modern amenities for corporate and private events. Stolen: 857 GB 1,683,762 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "20e83614-a336-5e78-a794-78b2429cddf0",
+        "group_name": "m3rx",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "foreconinc.com",
+        "discovered": "2026-07-12 16:28:55.006687",
+        "description": "+1 (716) 664-5602 , FORECON Inc. specializes in custom-crafted forest management, due diligence, appraisal, analytics, and rural brokerage services across New York, Pennsylvania, and West Virginia. Established in 1954, the company focuses on balancing the needs of people and the environment through sustainable forestry practices. Their services include technical, advisory, and valuation support for forestry projects, land management, and conservation solutions. Additionally, FORECON offers a HuntLease program that connects landowners with hunters to promote wildlife management and forest health. Stolen: 860 Gb 437,048 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "954b42c5-90e1-59ff-98ec-90d9d5027181",
+        "group_name": "m3rx",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "wrtworld.com",
+        "discovered": "2026-07-12 16:28:53.958647",
+        "description": "+1 (305) 884-3700 , WRT World Enterprises is a leading provider of purchasing and logistics services tailored for major retailers in Latin America. The company specializes in streamlining supply chain management through services such as shipping, storage, purchasing, and vendor management. With a focus on innovative solutions, WRT helps its clients remain competitive by offering order purchasing technology and comprehensive logistics services. Their extensive network and established relationships with suppliers enable them to negotiate favorable prices, ensuring their clients have access to the best products in the market. Stolen: 377 GB 267,891 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "36142c95-bba1-572f-a221-7afb2a4758d9",
+        "group_name": "m3rx",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Bosch",
+        "discovered": "2026-07-12 16:02:51.341746",
+        "description": "Again, thanks to database Synopsys provided us with\r\n\r\nAfter analyzing technical leaks by other groups and cross-referencing targets from TARGETLIST.txt\r\n\r\nA company access was found and in the archives, a $10,000 gem: Bosch CAN module implementation\r\n\r\nNow it is going for free for every engineer and car enthusiast, thanks to Synopsys providing us with neat roadmap to tech sector\r\n\r\nSorry, Bosch, you got third-partied! Call the Synopsys CEO and thank them for letting us all know where the valuable data is!",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/d1r/Bosch.png",
+        "misp_uuid": "ffc6367e-40be-5b4c-97b1-0c3d7dd7c4d7",
+        "group_name": "d1r",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ARM",
+        "discovered": "2026-07-12 16:02:08.123869",
+        "description": "Thanks to leaked database by Synopsys, a roadmap was provided\r\n\r\nMany other group leaks were cross-referenced and thoroughly analyzed\r\n\r\nOne of the leaked companies gave our team access to ARM center\r\n\r\nSeverely incapacitated by 2FA email/sms-code required by ARM on every step, we were still able to download an interesting tool: Athena Download Manager\r\n\r\nThat requires an SSL certificate of a company that owns ARM products, and downloading by means of Athena allows to bypass multiple 2FA checks that are required when downloading same files from www.arm.com\r\n\r\nThis is now free for download to any reverse engineer on Earth and beyond, thanks to Synopsys company data negligence:",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/d1r/ARM.png",
+        "misp_uuid": "ceccc5a8-4e1f-56e4-b586-8c9c4c305cd6",
+        "group_name": "d1r",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Synopsys",
+        "discovered": "2026-07-12 16:00:54.072484",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/d1r/Synopsys.png",
+        "misp_uuid": "54977159-57bf-5ea7-9bac-4a2ac1013716",
+        "group_name": "d1r",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Cooperate service CZ s.r.o.",
         "discovered": "2026-07-12 10:25:42.425715",
         "description": "",
@@ -53,38 +119,5 @@
         "misp_uuid": "21f2ea0d-2a7d-5619-9318-8522252e14bd",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "Access Equipment Hire",
-        "discovered": "2026-07-11 17:27:58.170462",
-        "description": "Access Group International is a leading privately owned provider of access, material handling, power generation, and construction equipment. The company is dedi...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "abb6b434-8eed-5121-bee4-044ccade9416",
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "The Schuett Companies",
-        "discovered": "2026-07-11 17:27:57.224716",
-        "description": "The Schuett Companies, Inc. is a family-owned business with over 50 years of experience specializing in affordable housing for seniors, individuals with disabil...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "4a070f7a-74f8-5f50-9d3b-555060874dfa",
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Golden Star Resources",
-        "discovered": "2026-07-11 12:16:32.559552",
-        "description": "Wassa is located in south-western Ghana. Golden Star commenced production from the surface operation at Wassa in 2005 and commercial production was achieved at Wassa Underground on January 1, 2017. In early 2018 Wassa transitioned into an underground-focused operation. Thanks to the scale of the historical open pit mining operation the processing plant has significant excess capacity and is currently only running at 70-80% (based on 2020 actuals) utilization. Development of the large inferred mineral resource which comprises the southern Extension zone, was the subject of a Preliminary Economic Assessment which was included in the March 2021 Technical Report. Given the scale of the resource at Wassa, the Company is exploring the potential to increase the mining rate in order to fill the mill.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "14dd592e-b817-574b-b59a-0f6d91fd5cb6",
-        "group_name": "cmd organization",
-        "sector": "Manufacturing"
     }
 ]
