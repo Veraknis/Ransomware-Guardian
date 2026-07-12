@@ -75,49 +75,5 @@
         "misp_uuid": "7d52d8ac-d464-50b5-b2d7-99dd685d1c1d",
         "group_name": "titan",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Century Equities",
-        "discovered": "2026-07-11 19:25:41.154747",
-        "description": "Finance",
-        "link": "/site/blog?uuid=b004c1c5-0926-4073-8d0d-11a7f9167b2d",
-        "magnet": null,
-        "screen": "screenshots/qilin/Century Equities.png",
-        "misp_uuid": "50d34634-805d-557d-af6f-ff61ec96da46",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Retelit SpA PIVA",
-        "discovered": "2026-07-11 19:25:40.233910",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=eb22c190-4265-4182-9698-7c5ca02d59b5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Retelit SpA PIVA.png",
-        "misp_uuid": "8e9959c8-78ae-5c70-8b24-a9bb47d91716",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Carolina Agri-Power",
-        "discovered": "2026-07-11 19:25:39.317822",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=1f779231-53ef-41fe-9d57-1e865d24c8b5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Carolina Agri-Power.png",
-        "misp_uuid": "5d3bb55d-224a-566a-9f93-3c1a941bf4a0",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Allied Plumbing & Heating",
-        "discovered": "2026-07-11 19:25:38.392659",
-        "description": "Construction",
-        "link": "/site/blog?uuid=7717ad8a-e1ca-42e3-be5b-cceb307536f9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Allied Plumbing & Heating.png",
-        "misp_uuid": "21f2ea0d-2a7d-5619-9318-8522252e14bd",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
