@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "URH Hoteliers",
+        "discovered": "2026-07-13 21:51:05.037358",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=184d06d6-c5b8-4ac9-82f0-b7febaf5eb0f",
+        "magnet": null,
+        "screen": "screenshots/qilin/URH Hoteliers.png",
+        "misp_uuid": "5d5e90f3-7db5-57dc-9cf0-9d9fbb529ed4",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Hillebrand Home Health",
+        "discovered": "2026-07-13 21:51:04.118742",
+        "description": "0",
+        "link": "/site/blog?uuid=8e67cc56-c717-453f-b94c-f1a6b99766a7",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hillebrand Home Health.png",
+        "misp_uuid": "fd86453b-b8f0-5db9-a6cd-6f9270d46695",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "TitanTV, Inc.",
+        "discovered": "2026-07-13 20:53:29.337852",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=bc461bc1-70b4-4976-b6e6-6c0c4bf8cc8e",
+        "magnet": null,
+        "screen": "screenshots/qilin/TitanTV, Inc.png",
+        "misp_uuid": "b00da965-f6fd-54ad-a7fa-114e7a6551e3",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "shuttlemeadowcc.com",
+        "discovered": "2026-07-13 19:56:21.186707",
+        "description": "Founded in 1917, the club is one of the oldest and most prestigious private golf clubs in New England. It …",
+        "link": "/blog/post/shuttlemeadowcccom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/shuttlemeadowcccom.png",
+        "misp_uuid": "e6774e29-ce2c-5fd5-99d1-9942e7e5dfa5",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Casta Diva Group",
+        "discovered": "2026-07-13 19:56:18.397273",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "df08b443-617d-5468-9ef2-23e31efe8f6c",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Northeast Rescue Systems",
+        "discovered": "2026-07-13 19:55:59.784791",
+        "description": "Northeast Rescue Systems is a dedicated provider of specialized rescue, safety, and protective equipment serving emergency services and industrial safety commun...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "abc88954-976b-5a95-b1de-a3d342296297",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Webosphere",
         "discovered": "2026-07-13 17:49:37.397027",
         "description": "",
