@@ -1,5 +1,137 @@
 [
     {
+        "post_title": "aphenapharma.com",
+        "discovered": "2026-07-14 17:52:56.397073",
+        "description": "Aphena Pharma Solutions\n\nWe have gained full access to your corporate infrastructure. During this operation, we stole 142 GB of your most critical corporate data.\n\nThe stolen data includes:\n\n    Financial statements: capital expenditures (CAPEX), fixed assets, accounts receivable and accounts payabl…",
+        "link": "/chSvrDZ6H4X7x4CIf4EweWaLEPLccdzH/aphenapharma-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/aphenapharmacom.png",
+        "misp_uuid": "faa019be-2819-5970-9d91-2ddc99f52f8b",
+        "group_name": "chaos",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Road Ahead Technologies Consultant",
+        "discovered": "2026-07-14 16:46:06.049334",
+        "description": "马路科技 specializes in advanced 3D scanning and measurement solutions, offering a range of products including GOM ATOS 3D scanners, industrial CT systems, and 3D p...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "fef96550-7a9a-575b-8134-58ee9cb5c05d",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Edison Global Networks Limited",
+        "discovered": "2026-07-14 16:46:05.129486",
+        "description": "Edison Global Networks Limited is a Hong Kong-based IT system integrator and managed service provider with regional offices in Shenzhen, Shanghai, and Beijing. ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5206b2e5-299c-5d09-9279-1af0dca8df83",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SITAV SpA",
+        "discovered": "2026-07-14 16:46:04.228104",
+        "description": "SITAV specializes in the construction, maintenance, revision, and restoration of trains and railway vehicles, ensuring maximum efficiency for high-speed trains,...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a7354e5e-95da-5f67-b408-e75b5001bf27",
+        "group_name": "dragonforce",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Graphic International Centre",
+        "discovered": "2026-07-14 16:46:01.305379",
+        "description": "Graphic International Centre LLC (GIC) has been providing top-tier printing solutions and office automation products in the UAE since 1982. The company speciali...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a80662ba-d27a-5c09-a6c3-650f9a191c40",
+        "group_name": "dragonforce",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "WBF Construction",
+        "discovered": "2026-07-14 16:45:56.753890",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "c4c0c221-14aa-5f5f-9cd3-cc63bcfe7ade",
+        "group_name": "ailock",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Intron Technology Holdings",
+        "discovered": "2026-07-14 15:00:33.839698",
+        "description": "Intron Technology Holdings Limited is a fast-growing automotive electronics solutions provider in China focuses on providing solutions targeting critical automo...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "03e87bfc-83e2-58ec-812d-1fdb276ecca5",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Atcom",
+        "discovered": "2026-07-14 15:00:32.913512",
+        "description": "ATCOM Technology Co., LTD. specializes in manufacturing VoIP products, including various types of IP phones and IP PBX systems. They offer a range of solutions ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "bb9d8ae8-fa0b-5d02-a86d-007553ba685b",
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Midal Cables",
+        "discovered": "2026-07-14 15:00:31.997636",
+        "description": "Founded in 1977, Midal Cables manufactures alluminum rods and wires, overhead line conductors, aluminum clad steel and extruded products. Midal Cables has offic...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "bcb4cf44-cecb-51bd-95a2-d1acbfb249ca",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Omax Autos",
+        "discovered": "2026-07-14 15:00:31.059711",
+        "description": "OMAX Autos Limited is a leading manufacturer of sheet metal components, specializing in the production of auto and non-auto components. The company serves vario...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5de43b93-984f-508e-a968-90b3f63cdabb",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Ifage",
+        "discovered": "2026-07-14 15:00:29.823233",
+        "description": "Ifage is a foundation based in Geneva dedicated to the continuous education and professional development of adults. It offers a wide range of courses in languag...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "17a274da-4f17-5512-b793-746b9c4b479c",
+        "group_name": "dragonforce",
+        "sector": "Education"
+    },
+    {
+        "post_title": "asimar.com",
+        "discovered": "2026-07-14 12:54:23.558163",
+        "description": "Asimar | Asian Marine Service PCL is a leading shipyard in Thailand with over 35 years of experience in the shipbuilding and repair industry. The company specia...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "786ced8f-484d-5541-a68a-4ae3a4015c04",
+        "group_name": "dragonforce",
+        "sector": "Services"
+    },
+    {
         "post_title": "Target Energy Solutions",
         "discovered": "2026-07-14 09:54:24.387078",
         "description": "TARGET is a rapidly growing digital oilfield services and solutions company, providing advanced web-based visualization, collaboration and workflow tools to the petrotechnical community. The MEERA platform and its associated products set a new benchmark for the industry, giving teams the ability to work effectively together using the same data sources, regardless of their device, location or domain.",
@@ -196,126 +328,5 @@
         "misp_uuid": "abc88954-976b-5a95-b1de-a3d342296297",
         "group_name": "dragonforce",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Webosphere",
-        "discovered": "2026-07-13 17:49:37.397027",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "19067da8-6d74-5bde-9678-cf0d428fad27",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Nicholson y Cano Abogados",
-        "discovered": "2026-07-13 17:49:19.228405",
-        "description": "Nicholson y Cano is a leading full-service law firm in Argentina, established in 1976, with a team of 29 partners and over 150 lawyers. The firm provides except...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "78f86cc9-ace0-58f2-80c5-212e6f1414c0",
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Turbosoft",
-        "discovered": "2026-07-13 16:53:27.789802",
-        "description": "We specialize in the design and construction of IT and management systems. With us, you manage your business efficiently. Whether for Payroll, Accounting, Human Resources, Finance or Health, many customers trust Turbosoft solutions in Cameroon.-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://turbosoft.cm/en/home/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/58/turbosoft",
-        "magnet": null,
-        "screen": "screenshots/space bears/Turbosoft.png",
-        "misp_uuid": "24221867-5944-516d-be9b-75f4135bbce5",
-        "group_name": "space bears",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Techpol-System",
-        "discovered": "2026-07-13 16:53:26.889783",
-        "description": "Techpol-System, based in Bieruń, Poland, is an engineering enterprise specializing in industrial power solutions, including traction battery maintenance, along with laser processing and steel structure fabrication. The company provides comprehensive, end-to-end services tailored to industrial clients through precision manufacturing and system integration.-Personal information of employees and clients\n-Financial\ndocuments\n-Other files\nhttps://techpolsystem.pl/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/59/techpol-system",
-        "magnet": null,
-        "screen": "screenshots/space bears/Techpol-System.png",
-        "misp_uuid": "cf2b6d78-5065-502d-8f0a-278d36bfeeba",
-        "group_name": "space bears",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Faro Products Inc.",
-        "discovered": "2026-07-13 16:53:23.661264",
-        "description": "Leading manufacturer in the promotional products and souvenir",
-        "link": "Companies/faroproducts",
-        "magnet": null,
-        "screen": "screenshots/pear/Faro Products Inc.png",
-        "misp_uuid": "91ef1970-3af7-5ef5-acd3-fdc0123aea0d",
-        "group_name": "pear",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "New Tiles S.L.",
-        "discovered": "2026-07-13 16:53:06.250918",
-        "description": "",
-        "link": "/company/7gwpWpxXyXBGdD0MGrUyR",
-        "magnet": null,
-        "screen": "screenshots/gunra/New Tiles SL.png",
-        "misp_uuid": "e05ccfc0-7e4e-516b-8f90-ead5edba2e08",
-        "group_name": "gunra",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "degeremcia.com",
-        "discovered": "2026-07-13 16:53:04.253450",
-        "description": "DEGEREMCIA is a food operator that is dedicated to the production, distribution and sale of prepared food. It operates mainly through its own chain of fast-food...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "86331e83-da3f-519e-b4fa-b45cb87ccd1a",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "www.twtci.com Trans World Trading",
-        "discovered": "2026-07-13 16:53:02.085025",
-        "description": "Trans World Trading Company, Inc. is a leading business conglomerate in the Philippines, recognized for its trust and reliability since 1946. The company specia...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "65989aac-94a5-5b39-9f69-65cdd50c46c8",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Transworld Signs",
-        "discovered": "2026-07-13 16:52:57.658089",
-        "description": "Transworld Signs produces and sources a complete range of promotional and POP graphics. The company offers digital and standard menu boards, large scale graphics and any other interior graphics or signage to support the company's customers' needs.We will upload 17gb of corporate data soon. Employee personal information (names, DOB and so on), projects files, financials, client internal information, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "9f4ba881-fc83-5510-b766-a7549953c2cd",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Ironmark",
-        "discovered": "2026-07-13 16:52:56.721536",
-        "description": "Founded and headquartered in Annapolis Junction, Maryland, Ironmark is a provider of marketing,creative, printing and communications services. They specialize in marketing strategy, creative & web development, digital marketing, printing services, and more.We will upload 190gb of corporate data soon. Employee personal information (passports, DLs and other personal information), projects information, detailed financials, client internal information, contracts and agreements, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e51eb5a7-6eae-5e8b-a210-c8a5ba519ed5",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "NAYAX | FINTECH BREACH",
-        "discovered": "2026-07-13 16:32:56.189954",
-        "description": "NAYAX is an Israeli fintech company that specializes in payment and financial solutions for the vending and unattended retail sector. Founded in 2005, NAYAX develops cashless payment technologies, mobile payment systems, and cloud-based management software for vending machines, laundry facilities, parking meters, and other unmanned retail environments. The company processes billions of transactions annually and operates globally, serving operators in North America, Europe, Asia, and beyond. NAYAX is known for enabling secure, convenient digital payment options in self-service locations. The company is publicly traded on both the Tel Aviv Stock Exchange (TASE) and the Nasdaq Stock Exchange (NASDAQ: NYAX), with a current market capitalization of $2.69 billion USD.\r\nWe have been inside their servers for almost an year",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/syndicate/NAYAX | FINTECH BREACH.png",
-        "misp_uuid": "58cbf28d-188f-565f-ba1b-0112be2b3b5b",
-        "group_name": "syndicate",
-        "sector": "Technology"
     }
 ]
