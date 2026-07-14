@@ -1,5 +1,126 @@
 [
     {
+        "post_title": "THL",
+        "discovered": "2026-07-14 21:54:01.859414",
+        "description": "Finance",
+        "link": "/site/blog?uuid=725b3a94-7ea7-46f1-bba6-64aebadbe876",
+        "magnet": null,
+        "screen": "screenshots/qilin/THL.png",
+        "misp_uuid": "539621d7-a645-5077-9877-2e0e976805e6",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Cedar Crest College",
+        "discovered": "2026-07-14 21:53:59.898431",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "31d39e7d-56df-5526-8baa-5ee6a91b7c07",
+        "group_name": "nightspire",
+        "sector": "Education"
+    },
+    {
+        "post_title": "VantagePoint Management & Autoclear",
+        "discovered": "2026-07-14 21:53:42.573445",
+        "description": "",
+        "link": "/blog/disclosures/6a56788b5ae71db30c45116e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/VantagePoint Management & Autoclear.png",
+        "misp_uuid": "504b776c-c99b-578a-b45a-fc70345ee2f8",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Golden Glasko & Associates",
+        "discovered": "2026-07-14 21:53:41.625522",
+        "description": "",
+        "link": "/blog/disclosures/6a5681a95ae71db30c45deb5",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Golden Glasko & Associates.png",
+        "misp_uuid": "d2381216-6388-585f-8c20-42c6b910e70e",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Perpustam",
+        "discovered": "2026-07-14 21:53:36.341059",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=734",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "306adedc-0660-572b-ba56-300adfe6e5c3",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "gemese.pt",
+        "discovered": "2026-07-14 21:53:34.773425",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=748",
+        "magnet": null,
+        "screen": "screenshots/arcus media/gemesept.png",
+        "misp_uuid": "c8171be3-4c43-59e9-bf2e-9b862488b7db",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Distribox",
+        "discovered": "2026-07-14 21:53:33.852572",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=745",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "14543f76-b73b-5a65-8e0a-7a529817d936",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Be Travel",
+        "discovered": "2026-07-14 21:53:32.601392",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=751",
+        "magnet": null,
+        "screen": "screenshots/arcus media/Be Travel.png",
+        "misp_uuid": "5cb5b9d3-2aa8-55f5-897d-2f46e388c45e",
+        "group_name": "arcus media",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "COREBI(NowVertical)",
+        "discovered": "2026-07-14 21:53:31.725502",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=741",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "f533de39-c229-597e-8566-d7866114dca8",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "I-FITNESS",
+        "discovered": "2026-07-14 21:53:30.793504",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=726",
+        "magnet": null,
+        "screen": "screenshots/arcus media/I-FITNESS.png",
+        "misp_uuid": "7c81350e-ca95-5169-858b-b1bc5c0f52a9",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "BRAC",
+        "discovered": "2026-07-14 19:14:33.203324",
+        "description": "brac.net zoominfo.com/c/brac-centre/8079683 is the largest non-governmental development organization in the world, founded in Bangladesh in 1972.Its mission is to empower communities facing poverty, illiteracy, disease, and social injustice.Today, it operates across multiple countries, reaching over 145 million people annually through programs in education, healthcare, livelihood, and human rights ",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a9e24757-94d0-5bfb-9729-7878fd4c89aa",
+        "group_name": "the gentlemen",
+        "sector": "Education"
+    },
+    {
         "post_title": "aphenapharma.com",
         "discovered": "2026-07-14 17:52:56.397073",
         "description": "Aphena Pharma Solutions\n\nWe have gained full access to your corporate infrastructure. During this operation, we stole 142 GB of your most critical corporate data.\n\nThe stolen data includes:\n\n    Financial statements: capital expenditures (CAPEX), fixed assets, accounts receivable and accounts payabl…",
@@ -262,71 +383,5 @@
         "misp_uuid": "bf2b611f-bf41-541c-8592-3944a39663d5",
         "group_name": "the gentlemen",
         "sector": "Technology"
-    },
-    {
-        "post_title": "URH Hoteliers",
-        "discovered": "2026-07-13 21:51:05.037358",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=184d06d6-c5b8-4ac9-82f0-b7febaf5eb0f",
-        "magnet": null,
-        "screen": "screenshots/qilin/URH Hoteliers.png",
-        "misp_uuid": "5d5e90f3-7db5-57dc-9cf0-9d9fbb529ed4",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Hillebrand Home Health",
-        "discovered": "2026-07-13 21:51:04.118742",
-        "description": "0",
-        "link": "/site/blog?uuid=8e67cc56-c717-453f-b94c-f1a6b99766a7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Hillebrand Home Health.png",
-        "misp_uuid": "fd86453b-b8f0-5db9-a6cd-6f9270d46695",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "TitanTV, Inc.",
-        "discovered": "2026-07-13 20:53:29.337852",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=bc461bc1-70b4-4976-b6e6-6c0c4bf8cc8e",
-        "magnet": null,
-        "screen": "screenshots/qilin/TitanTV, Inc.png",
-        "misp_uuid": "b00da965-f6fd-54ad-a7fa-114e7a6551e3",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "shuttlemeadowcc.com",
-        "discovered": "2026-07-13 19:56:21.186707",
-        "description": "Founded in 1917, the club is one of the oldest and most prestigious private golf clubs in New England. It …",
-        "link": "/blog/post/shuttlemeadowcccom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/shuttlemeadowcccom.png",
-        "misp_uuid": "e6774e29-ce2c-5fd5-99d1-9942e7e5dfa5",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Casta Diva Group",
-        "discovered": "2026-07-13 19:56:18.397273",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "df08b443-617d-5468-9ef2-23e31efe8f6c",
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Northeast Rescue Systems",
-        "discovered": "2026-07-13 19:55:59.784791",
-        "description": "Northeast Rescue Systems is a dedicated provider of specialized rescue, safety, and protective equipment serving emergency services and industrial safety commun...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "abc88954-976b-5a95-b1de-a3d342296297",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
     }
 ]
