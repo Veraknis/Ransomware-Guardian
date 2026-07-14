@@ -1,5 +1,137 @@
 [
     {
+        "post_title": "Target Energy Solutions",
+        "discovered": "2026-07-14 09:54:24.387078",
+        "description": "TARGET is a rapidly growing digital oilfield services and solutions company, providing advanced web-based visualization, collaboration and workflow tools to the petrotechnical community. The MEERA platform and its associated products set a new benchmark for the industry, giving teams the ability to work effectively together using the same data sources, regardless of their device, location or domain.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e63b1533-2231-5701-a1f3-a6c43e3e309b",
+        "group_name": "cmd organization",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Sedemi",
+        "discovered": "2026-07-14 05:54:44.203993",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=44c613b3-9f46-4e31-a76b-0af290178914",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sedemi.png",
+        "misp_uuid": "3803a5eb-e6ff-575a-91c1-2fb8177829e5",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "momenta.cn",
+        "discovered": "2026-07-14 02:54:00.500252",
+        "description": "Momenta is an AI and autonomous-driving company.\nAll source code, financial documents, configuration files, employee database, and more were stolen.\nServers and...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "80691a49-4337-5a0c-b878-9a8c15557acf",
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Cooperate consulting CZ s.r.o.",
+        "discovered": "2026-07-13 23:01:10.845592",
+        "description": "",
+        "link": "/post/cooperate-consulting-cz-s-r-o-ix05ayj8k5",
+        "magnet": null,
+        "screen": "screenshots/titan/Cooperate consulting CZ sro.png",
+        "misp_uuid": "80f61e51-3cca-5da8-8daf-cec962b2093c",
+        "group_name": "titan",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "DataOstrov s.r.o.",
+        "discovered": "2026-07-13 23:01:09.947761",
+        "description": "",
+        "link": "/post/dataostrov-s-r-o-ix0hs6pn4s",
+        "magnet": null,
+        "screen": "screenshots/titan/DataOstrov sro.png",
+        "misp_uuid": "27e592db-7af7-5ea7-a0b6-6c14ad39844f",
+        "group_name": "titan",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ozmit s.r.o.",
+        "discovered": "2026-07-13 23:01:09.010183",
+        "description": "",
+        "link": "/post/ozmit-s-r-o-ixx3ihniik",
+        "magnet": null,
+        "screen": "screenshots/titan/Ozmit sro.png",
+        "misp_uuid": "eb0de659-ae75-5830-80a7-d952452ca96c",
+        "group_name": "titan",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Busscar de Colombia",
+        "discovered": "2026-07-13 23:01:05.787997",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=739597b2-88ff-44af-aa22-97024c934e43",
+        "magnet": null,
+        "screen": "screenshots/qilin/Busscar de Colombia.png",
+        "misp_uuid": "5db2e80d-24d7-567c-b8a4-558d68dc3b03",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Counts & Dobyns",
+        "discovered": "2026-07-13 23:01:04.807680",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=b473596d-9864-4a3e-b518-848362cbcb4f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Counts & Dobyns.png",
+        "misp_uuid": "aac65c4d-6fea-5f82-8e73-9bb7c783468a",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Centro Científico e Cultural de Macau",
+        "discovered": "2026-07-13 23:01:00.524814",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=0ed24c43-1ad9-440f-acb4-4e2703aa4523",
+        "magnet": null,
+        "screen": "screenshots/qilin/Centro Científico e Cultural de Macau.png",
+        "misp_uuid": "020c7b19-fd89-5e0d-a3e2-e284a5c18719",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Jakub A.S.",
+        "discovered": "2026-07-13 23:00:59.598377",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=95e521da-d152-4254-b3a5-d5446ff557c0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jakub AS.png",
+        "misp_uuid": "a80a7214-48f6-5b6d-9856-2af780142d67",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cemoi",
+        "discovered": "2026-07-13 23:00:58.676555",
+        "description": "Food & Beverage",
+        "link": "/site/blog?uuid=e8b95ada-bcb2-4c2b-b537-2f74f12972bd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Cemoi.png",
+        "misp_uuid": "3cc65d41-330c-506c-a0d6-10513b1d9478",
+        "group_name": "qilin",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Tangram Interiors",
+        "discovered": "2026-07-13 22:47:53.567714",
+        "description": "www.tangraminteriors.com Revenue $245.1 Million Founded in 1963, At Tangram Interiors, we've spent decades transforming spaces to inspire and empower. As industry leaders, our reputation stands on top-notch craftsmanship and innovative design. Tangram Interiors is a prominent commercial interior solutions provider and Steelcase dealer, specializing in integrated workspaces, including furniture, technology, and design. Serving Southern California, the Central Valley, and Texas, the firm offers comprehensive services ranging from space planning to custom, bespoke furniture solutions. Client pesonal data included. 400+gb",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "bf2b611f-bf41-541c-8592-3944a39663d5",
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
         "post_title": "URH Hoteliers",
         "discovered": "2026-07-13 21:51:05.037358",
         "description": "Hospitality",
@@ -185,82 +317,5 @@
         "misp_uuid": "58cbf28d-188f-565f-ba1b-0112be2b3b5b",
         "group_name": "syndicate",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Boston Orthotics, Inc.",
-        "discovered": "2026-07-13 11:23:12.439007",
-        "description": "Patient data breach at yet another negligent clinic.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/YkFrufzMlC5yyvaylrJzs4qn9C1Rvuwnb2V8i2CNYw0nIVChKkNpL4WjTrZ4JFZZSC1djRGtNJ4lhEjSFlDYWVMZU1v",
-        "magnet": null,
-        "screen": "screenshots/anubis/Boston Orthotics, Inc.png",
-        "misp_uuid": "c9a085f4-b58d-5e26-ae98-91fca506c0ee",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Al - Saidi Factory",
-        "discovered": "2026-07-13 07:20:35.822183",
-        "description": "Al Saidi Al Saidi Trading and Industry is a prominent group of companies providing tailored chemical and logistics solutions primarily for clients in the Middle...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "76dc78a8-249e-5ee6-abd8-1fa97e687547",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "STEP Oiltools",
-        "discovered": "2026-07-13 07:20:34.856667",
-        "description": "STEP Oiltools is a leading global provider of solids control and drilling waste management services, primarily serving the oil and gas and civil engineering ind...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7db2e8e4-673e-59bb-becc-89eeca907574",
-        "group_name": "dragonforce",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Casper Orthopedics",
-        "discovered": "2026-07-13 02:22:12.465541",
-        "description": "Orthopedic clinic patients' data and medical records exposed.",
-        "link": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/77UT3EWXbTB0nHfvdtUdeDOsA74auJ3+hVRWGfsKSFMchgeHKLaZOCHXxy3VBuIko5OnyQaJCXvjd26bbFn5204N1Z2YnhY",
-        "magnet": null,
-        "screen": "screenshots/anubis/Casper Orthopedics.png",
-        "misp_uuid": "977e1737-4595-5e1e-9ae5-eb440f1b45dd",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Surtifamiliar",
-        "discovered": "2026-07-13 02:22:11.549098",
-        "description": "Passports of supermarket chain employees.",
-        "link": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/iTve4Vf+bO7CI9bk64l7McBXH7GKwN81KARf81YUhRCh4FKG2Vkj6cicMZRtPq5eC6eQ0l5NuJmVKS+zK9wcqms5YnpBZnhk",
-        "magnet": null,
-        "screen": "screenshots/anubis/Surtifamiliar.png",
-        "misp_uuid": "fc3bc7ad-7484-5651-8cdb-026e430bfc96",
-        "group_name": "anubis",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Community Advocates",
-        "discovered": "2026-07-13 02:22:10.614916",
-        "description": "Law firm clients' personal data exposed.",
-        "link": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/vm2fx8VdMGXwQua1ov8WrfVuqoa2XOjrvvOmNkREr6bW2ww0CxltkJ4xHkF5gaElJmlWjCATF5H1HBg6XsZFlFZTJ5OGJG",
-        "magnet": null,
-        "screen": "screenshots/anubis/Community Advocates.png",
-        "misp_uuid": "badc3389-96b3-5d67-9381-bc83624af73b",
-        "group_name": "anubis",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Els for Autism",
-        "discovered": "2026-07-12 22:22:43.352327",
-        "description": "Els for Autism Foundation, founded by Liezl and Ernie Els, offers programs and resources for adults and children with autism spectrum disorder (ASD). The Els Center of Excellence campus is a world-class site hosting leading-edge programs and services for individuals with autism. Based in Jupiter, Florida, The Els Center of Excellence is on track to be a global leader in the field of autism and a leading example of what can be available to individuals on the spectrum.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "03e4e4ba-5d78-5537-bc08-8fb4d078e707",
-        "group_name": "cmd organization",
-        "sector": "Education"
     }
 ]
