@@ -1,5 +1,126 @@
 [
     {
+        "post_title": "PanasonicAero",
+        "discovered": "2026-07-15 11:54:04.498479",
+        "description": "Aerospace - $2.71 Billion",
+        "link": "/companies/panaaeroo",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/PanasonicAero.png",
+        "misp_uuid": "84b63bc3-6b11-5b81-a718-29d28537d9a6",
+        "group_name": "coinbase cartel",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Nihon Kotsu Co., Ltd.",
+        "discovered": "2026-07-15 11:54:00.770083",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5ef58b5d-c2cd-599d-8a4e-2e6e9ed77c2a",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Solid Advance Inc.",
+        "discovered": "2026-07-15 11:53:59.806790",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "26386bcf-1a9c-5b17-84af-c5455d516da9",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ferrovial",
+        "discovered": "2026-07-15 11:53:58.868488",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "4c5c6c51-231d-5163-90f6-c9d4120d6b5c",
+        "group_name": "ailock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Feliubadaló",
+        "discovered": "2026-07-15 10:55:42.521828",
+        "description": "Grocery Retail",
+        "link": "/site/blog?uuid=cd9a8829-4c6d-4835-82c5-58dedb507d9a",
+        "magnet": null,
+        "screen": "screenshots/qilin/Feliubadaló.png",
+        "misp_uuid": "cae370df-f778-5c5f-b6f5-a07bbd69ef55",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Levin Furniture",
+        "discovered": "2026-07-15 07:55:49.162118",
+        "description": "Furniture",
+        "link": "/site/blog?uuid=21fe1d79-9687-4b3e-8646-659c19380a51",
+        "magnet": null,
+        "screen": "screenshots/qilin/Levin Furniture.png",
+        "misp_uuid": "686c534c-b296-580f-8934-4ca9c56122c2",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "sanaa.center",
+        "discovered": "2026-07-15 05:59:23.785308",
+        "description": "<p>Sanaa Center for Strategic Studies (sanaa.center) is an independent research organization focused on Yemen and the surrounding Middle East, particularly politics, conflict, economics, governance, and regional security.</p>",
+        "link": "/target/6a4f4c560a8c566f0816d7e2",
+        "magnet": null,
+        "screen": "screenshots/black x/sanaacenter.png",
+        "misp_uuid": "1f3d5de1-aefb-5b98-b96d-26ea5465dfee",
+        "group_name": "black x",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "ProDirectional Drilling",
+        "discovered": "2026-07-15 04:58:16.238817",
+        "description": "If the company does not contact us before 25/07/2026, the data and proof of negligence will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "276fcd6b-72cf-5a72-aaf1-aa06e2c80f95",
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Axiom Global NEW",
+        "discovered": "2026-07-14 23:58:43.618900",
+        "description": "Business Services - $19.2 Million",
+        "link": "/companies/axiom",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Axiom Global NEW.png",
+        "misp_uuid": "897d341c-dee0-52e1-a917-1fc8a4c71162",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "sleemanbreweries.ca",
+        "discovered": "2026-07-14 22:47:28.087511",
+        "description": "Sleeman Breweries was founded in 1851 and headquartered in Guelph, Ontario. The company now markets and distributes world-class domestic and imported products.",
+        "link": "/R0byD7G28XKZ01jkwCt9ZUgufBzfVnTA/sleemanbreweries-ca",
+        "magnet": null,
+        "screen": "screenshots/chaos/sleemanbreweriesca.png",
+        "misp_uuid": "1e1cf828-bd64-56de-80f8-31cd1eac871b",
+        "group_name": "chaos",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "spectrumchemical.com",
+        "discovered": "2026-07-14 22:47:27.106101",
+        "description": "Public Notice: Final Ultimatum to Spectrum Chemical Management\n\nTo the Management of Spectrum Chemical:\n\nWe have provided you with sufficient time to engage in a productive dialogue regarding the security breach of your infrastructure. Your refusal to communicate and your attempt to ignore the sever…",
+        "link": "/l1eZXDggILANKP6kfYVDTjB2UsUTtnju/spectrumchemical-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/spectrumchemicalcom.png",
+        "misp_uuid": "56bb0a6d-2b4b-53d3-8234-9d31f57f2d4e",
+        "group_name": "chaos",
+        "sector": "Government"
+    },
+    {
         "post_title": "THL",
         "discovered": "2026-07-14 21:54:01.859414",
         "description": "Finance",
@@ -49,7 +170,7 @@
         "description": "",
         "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=734",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/arcus media/Perpustam.png",
         "misp_uuid": "306adedc-0660-572b-ba56-300adfe6e5c3",
         "group_name": "arcus media",
         "sector": "Unknown"
@@ -71,7 +192,7 @@
         "description": "",
         "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=745",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/arcus media/Distribox.png",
         "misp_uuid": "14543f76-b73b-5a65-8e0a-7a529817d936",
         "group_name": "arcus media",
         "sector": "Unknown"
@@ -93,7 +214,7 @@
         "description": "",
         "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=741",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/arcus media/COREBI(NowVertical).png",
         "misp_uuid": "f533de39-c229-597e-8566-d7866114dca8",
         "group_name": "arcus media",
         "sector": "Unknown"
@@ -251,137 +372,5 @@
         "misp_uuid": "786ced8f-484d-5541-a68a-4ae3a4015c04",
         "group_name": "dragonforce",
         "sector": "Services"
-    },
-    {
-        "post_title": "Target Energy Solutions",
-        "discovered": "2026-07-14 09:54:24.387078",
-        "description": "TARGET is a rapidly growing digital oilfield services and solutions company, providing advanced web-based visualization, collaboration and workflow tools to the petrotechnical community. The MEERA platform and its associated products set a new benchmark for the industry, giving teams the ability to work effectively together using the same data sources, regardless of their device, location or domain.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e63b1533-2231-5701-a1f3-a6c43e3e309b",
-        "group_name": "cmd organization",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Sedemi",
-        "discovered": "2026-07-14 05:54:44.203993",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=44c613b3-9f46-4e31-a76b-0af290178914",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sedemi.png",
-        "misp_uuid": "3803a5eb-e6ff-575a-91c1-2fb8177829e5",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "momenta.cn",
-        "discovered": "2026-07-14 02:54:00.500252",
-        "description": "Momenta is an AI and autonomous-driving company.\nAll source code, financial documents, configuration files, employee database, and more were stolen.\nServers and...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "80691a49-4337-5a0c-b878-9a8c15557acf",
-        "group_name": "dragonforce",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Cooperate consulting CZ s.r.o.",
-        "discovered": "2026-07-13 23:01:10.845592",
-        "description": "",
-        "link": "/post/cooperate-consulting-cz-s-r-o-ix05ayj8k5",
-        "magnet": null,
-        "screen": "screenshots/titan/Cooperate consulting CZ sro.png",
-        "misp_uuid": "80f61e51-3cca-5da8-8daf-cec962b2093c",
-        "group_name": "titan",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "DataOstrov s.r.o.",
-        "discovered": "2026-07-13 23:01:09.947761",
-        "description": "",
-        "link": "/post/dataostrov-s-r-o-ix0hs6pn4s",
-        "magnet": null,
-        "screen": "screenshots/titan/DataOstrov sro.png",
-        "misp_uuid": "27e592db-7af7-5ea7-a0b6-6c14ad39844f",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ozmit s.r.o.",
-        "discovered": "2026-07-13 23:01:09.010183",
-        "description": "",
-        "link": "/post/ozmit-s-r-o-ixx3ihniik",
-        "magnet": null,
-        "screen": "screenshots/titan/Ozmit sro.png",
-        "misp_uuid": "eb0de659-ae75-5830-80a7-d952452ca96c",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Busscar de Colombia",
-        "discovered": "2026-07-13 23:01:05.787997",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=739597b2-88ff-44af-aa22-97024c934e43",
-        "magnet": null,
-        "screen": "screenshots/qilin/Busscar de Colombia.png",
-        "misp_uuid": "5db2e80d-24d7-567c-b8a4-558d68dc3b03",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Counts & Dobyns",
-        "discovered": "2026-07-13 23:01:04.807680",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=b473596d-9864-4a3e-b518-848362cbcb4f",
-        "magnet": null,
-        "screen": "screenshots/qilin/Counts & Dobyns.png",
-        "misp_uuid": "aac65c4d-6fea-5f82-8e73-9bb7c783468a",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Centro Científico e Cultural de Macau",
-        "discovered": "2026-07-13 23:01:00.524814",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=0ed24c43-1ad9-440f-acb4-4e2703aa4523",
-        "magnet": null,
-        "screen": "screenshots/qilin/Centro Científico e Cultural de Macau.png",
-        "misp_uuid": "020c7b19-fd89-5e0d-a3e2-e284a5c18719",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Jakub A.S.",
-        "discovered": "2026-07-13 23:00:59.598377",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=95e521da-d152-4254-b3a5-d5446ff557c0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jakub AS.png",
-        "misp_uuid": "a80a7214-48f6-5b6d-9856-2af780142d67",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Cemoi",
-        "discovered": "2026-07-13 23:00:58.676555",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=e8b95ada-bcb2-4c2b-b537-2f74f12972bd",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cemoi.png",
-        "misp_uuid": "3cc65d41-330c-506c-a0d6-10513b1d9478",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Tangram Interiors",
-        "discovered": "2026-07-13 22:47:53.567714",
-        "description": "www.tangraminteriors.com Revenue $245.1 Million Founded in 1963, At Tangram Interiors, we've spent decades transforming spaces to inspire and empower. As industry leaders, our reputation stands on top-notch craftsmanship and innovative design. Tangram Interiors is a prominent commercial interior solutions provider and Steelcase dealer, specializing in integrated workspaces, including furniture, technology, and design. Serving Southern California, the Central Valley, and Texas, the firm offers comprehensive services ranging from space planning to custom, bespoke furniture solutions. Client pesonal data included. 400+gb",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "bf2b611f-bf41-541c-8592-3944a39663d5",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
     }
 ]
