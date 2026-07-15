@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Abbott owned Exact Sciences Corporation",
+        "discovered": "2026-07-15 17:50:33.668824",
+        "description": "You wouldn't want us to describe what was exfiltrated from you publicly.   This is a final warning to reach out by 18 July 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e40f831d-3a81-5680-bfb3-116f21aae013",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Heritage Mechanical LLC",
+        "discovered": "2026-07-15 16:51:22.976402",
+        "description": "Built on a family legacy of proud steamfitters dating back to over 100 years, Heritage Mechanical was established in 2012 to provide quality mechanical service ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5e1499d9-4554-529d-9d8e-be0c6a728fce",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Anglo Belgian Corp: NATO's Nightmare? 6TB of Submarine Secrets, Nuclear Plant Schematics, ",
+        "discovered": "2026-07-15 15:53:56.060955",
+        "description": "#Leaknet #CyberResilience #SecurityCulture #DigitalPrivacy #PasswordSecurity #CyberDefense #IdentityProtection #Infosecurity #abcengines #AngloBelgianCorporation #ABC #PrivateData #SystemCompromised",
+        "link": "view_article.php?article=2dkxq7VyWvQ1yQd6vL1W0Dyj16I7koRHJx00Zh6pm4TFfDVjWqz4Y53tou0ovYMH",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "c705f52f-e619-59bf-a276-f9f938fc22b2",
+        "group_name": "leaknet",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Isegen South Africa (Pty) Ltd",
+        "discovered": "2026-07-15 15:53:52.217783",
+        "description": "Isegen South Africa (Pty) Ltd is a South African chemical company founded in 1974. It is the sole producer of certain chemical products in South Africa.\nData th...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "4f8d468e-0574-56bb-9d55-25348b203615",
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hughes Atwood & Mullaly pllc",
+        "discovered": "2026-07-15 15:53:51.319461",
+        "description": "Hughes Atwood & Mullaly PLLC is a full-service law firm that offers professional legal services to individuals, businesses, and institutions in the Upper Valley...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5d76b5c6-1919-50eb-9821-d6d4b6f308bf",
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Shillen Mackall & Seldon",
+        "discovered": "2026-07-15 15:53:50.411037",
+        "description": "Shillen Mackall Seldon Spicer & Fraas is a law firm dedicated to representing personal injury victims primarily in Vermont, New Hampshire, and Florida since 198...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "8f44d649-85c3-5256-b61a-f37a7f3080f2",
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Stephens Precision",
+        "discovered": "2026-07-15 15:53:49.499975",
+        "description": "Stephens Precision, Inc. is a versatile HUBZone manufacturing facility in Vermont, specializing in the machining of mechanical assemblies, components, and tooli...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "9320cb19-52fe-5041-8202-2e734e565b99",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Pioneer Construction",
+        "discovered": "2026-07-15 15:53:44.997825",
+        "description": "Established in 1933, Pioneer Construction is headquartered in Grand Rapids, Michigan. They provide construction solutions throughout the United States including general contracting, crane services, program management, and more.We will upload 168gb of corporate data soon. Scanned employee personal documents (passports, DLs and other docs), projects information, detailed financials, client internal information, contracts and agreements, confidential correspondence and other files, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "82de88fa-005a-59a2-9797-7ccd8f1cd334",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Carient Heart & Vascular",
+        "discovered": "2026-07-15 13:52:50.527261",
+        "description": "Expert resource for heart and vascular care in Northern Virginia",
+        "link": "Companies/carient",
+        "magnet": null,
+        "screen": "screenshots/pear/Carient Heart & Vascular.png",
+        "misp_uuid": "7552d002-8fab-5c27-90ab-985c708e1d79",
+        "group_name": "pear",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "South Plains Rural Health Services, Inc.",
+        "discovered": "2026-07-15 13:52:49.600495",
+        "description": "Comprehensive and family care in West Texas",
+        "link": "Companies/sprhs",
+        "magnet": null,
+        "screen": "screenshots/pear/South Plains Rural Health Services, Inc.png",
+        "misp_uuid": "8e59ee3b-98e8-5176-8f09-dbeab8fc5e61",
+        "group_name": "pear",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "PanasonicAero",
         "discovered": "2026-07-15 11:54:04.498479",
         "description": "Aerospace - $2.71 Billion",
@@ -240,137 +350,5 @@
         "misp_uuid": "a9e24757-94d0-5bfb-9729-7878fd4c89aa",
         "group_name": "the gentlemen",
         "sector": "Education"
-    },
-    {
-        "post_title": "aphenapharma.com",
-        "discovered": "2026-07-14 17:52:56.397073",
-        "description": "Aphena Pharma Solutions\n\nWe have gained full access to your corporate infrastructure. During this operation, we stole 142 GB of your most critical corporate data.\n\nThe stolen data includes:\n\n    Financial statements: capital expenditures (CAPEX), fixed assets, accounts receivable and accounts payabl…",
-        "link": "/chSvrDZ6H4X7x4CIf4EweWaLEPLccdzH/aphenapharma-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/aphenapharmacom.png",
-        "misp_uuid": "faa019be-2819-5970-9d91-2ddc99f52f8b",
-        "group_name": "chaos",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Road Ahead Technologies Consultant",
-        "discovered": "2026-07-14 16:46:06.049334",
-        "description": "马路科技 specializes in advanced 3D scanning and measurement solutions, offering a range of products including GOM ATOS 3D scanners, industrial CT systems, and 3D p...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "fef96550-7a9a-575b-8134-58ee9cb5c05d",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Edison Global Networks Limited",
-        "discovered": "2026-07-14 16:46:05.129486",
-        "description": "Edison Global Networks Limited is a Hong Kong-based IT system integrator and managed service provider with regional offices in Shenzhen, Shanghai, and Beijing. ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5206b2e5-299c-5d09-9279-1af0dca8df83",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SITAV SpA",
-        "discovered": "2026-07-14 16:46:04.228104",
-        "description": "SITAV specializes in the construction, maintenance, revision, and restoration of trains and railway vehicles, ensuring maximum efficiency for high-speed trains,...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a7354e5e-95da-5f67-b408-e75b5001bf27",
-        "group_name": "dragonforce",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Graphic International Centre",
-        "discovered": "2026-07-14 16:46:01.305379",
-        "description": "Graphic International Centre LLC (GIC) has been providing top-tier printing solutions and office automation products in the UAE since 1982. The company speciali...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a80662ba-d27a-5c09-a6c3-650f9a191c40",
-        "group_name": "dragonforce",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "WBF Construction",
-        "discovered": "2026-07-14 16:45:56.753890",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c4c0c221-14aa-5f5f-9cd3-cc63bcfe7ade",
-        "group_name": "ailock",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Intron Technology Holdings",
-        "discovered": "2026-07-14 15:00:33.839698",
-        "description": "Intron Technology Holdings Limited is a fast-growing automotive electronics solutions provider in China focuses on providing solutions targeting critical automo...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "03e87bfc-83e2-58ec-812d-1fdb276ecca5",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Atcom",
-        "discovered": "2026-07-14 15:00:32.913512",
-        "description": "ATCOM Technology Co., LTD. specializes in manufacturing VoIP products, including various types of IP phones and IP PBX systems. They offer a range of solutions ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "bb9d8ae8-fa0b-5d02-a86d-007553ba685b",
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Midal Cables",
-        "discovered": "2026-07-14 15:00:31.997636",
-        "description": "Founded in 1977, Midal Cables manufactures alluminum rods and wires, overhead line conductors, aluminum clad steel and extruded products. Midal Cables has offic...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "bcb4cf44-cecb-51bd-95a2-d1acbfb249ca",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Omax Autos",
-        "discovered": "2026-07-14 15:00:31.059711",
-        "description": "OMAX Autos Limited is a leading manufacturer of sheet metal components, specializing in the production of auto and non-auto components. The company serves vario...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5de43b93-984f-508e-a968-90b3f63cdabb",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ifage",
-        "discovered": "2026-07-14 15:00:29.823233",
-        "description": "Ifage is a foundation based in Geneva dedicated to the continuous education and professional development of adults. It offers a wide range of courses in languag...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "17a274da-4f17-5512-b793-746b9c4b479c",
-        "group_name": "dragonforce",
-        "sector": "Education"
-    },
-    {
-        "post_title": "asimar.com",
-        "discovered": "2026-07-14 12:54:23.558163",
-        "description": "Asimar | Asian Marine Service PCL is a leading shipyard in Thailand with over 35 years of experience in the shipbuilding and repair industry. The company specia...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "786ced8f-484d-5541-a68a-4ae3a4015c04",
-        "group_name": "dragonforce",
-        "sector": "Services"
     }
 ]
