@@ -1,11 +1,99 @@
 [
     {
+        "post_title": "Boston Electric and Telephone",
+        "discovered": "2026-07-16 20:52:18.417611",
+        "description": "",
+        "link": "topic.php?id=I7dU5mZkuYuiVP",
+        "magnet": null,
+        "screen": "screenshots/play/Boston Electric and Telephone.png",
+        "misp_uuid": "b2c53612-1d5d-5c7c-85fb-51916edc577c",
+        "group_name": "play",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Wring Group",
+        "discovered": "2026-07-16 20:52:17.501052",
+        "description": "",
+        "link": "topic.php?id=os42vGw6zDhCvA",
+        "magnet": null,
+        "screen": "screenshots/play/Wring Group.png",
+        "misp_uuid": "cbffcc68-891a-50a0-bf5c-897cb2334a03",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AG Scholtes",
+        "discovered": "2026-07-16 20:52:16.575680",
+        "description": "",
+        "link": "topic.php?id=oecn6NG9SQYNLc",
+        "magnet": null,
+        "screen": "screenshots/play/AG Scholtes.png",
+        "misp_uuid": "c40b1661-eddd-5fbb-ab44-1d3c29b740ed",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Andorra Life",
+        "discovered": "2026-07-16 20:52:15.666206",
+        "description": "",
+        "link": "topic.php?id=MkNR4jZleHdlYc",
+        "magnet": null,
+        "screen": "screenshots/play/Andorra Life.png",
+        "misp_uuid": "4818f5d9-2c1e-53ac-8f7f-e80a375f803e",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Svensk Direktreklam",
+        "discovered": "2026-07-16 20:52:14.678389",
+        "description": "",
+        "link": "topic.php?id=bBS6iRxZWJNAUE",
+        "magnet": null,
+        "screen": "screenshots/play/Svensk Direktreklam.png",
+        "misp_uuid": "3a2e5513-5d28-54d2-b5a2-8f3788411a9d",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "asa-international.com",
+        "discovered": "2026-07-16 20:51:56.904046",
+        "description": "",
+        "link": "/blog/disclosures/6a59188d5ae71db30c8f3e00",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/asa-internationalcom.png",
+        "misp_uuid": "def4c5e7-3b88-57fc-a985-8e040f517ac0",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "radiax.com",
+        "discovered": "2026-07-16 19:49:23.511467",
+        "description": "NOTICE OF DATA BREACH: RADIAX.COM\n\nWe are officially announcing that we have gained full access to the internal network and sensitive data infrastructure of Radiax.com.\n\nTo prove the authenticity of our access, we have published an initial 5% of the total exfiltrated data. This is merely a sample. W…",
+        "link": "/rUuXIQjmaKAypDUHGeG179qxJI4cgXT3/radiax-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/radiaxcom.png",
+        "misp_uuid": "c1b32b01-4162-5113-b776-82c75db4acf4",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Megawork",
+        "discovered": "2026-07-16 18:49:57.392853",
+        "description": "",
+        "link": "/r/69ad488f2e74de300078537996a68d7be2a2ed58",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Megawork.png",
+        "misp_uuid": "1e5bfd71-3c1e-5278-994e-a6fea9a5adca",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Converting Equipment International",
         "discovered": "2026-07-16 17:48:06.702665",
         "description": "https://www.slitandrewind.com/\n\t\t\t\t\t\t\t\t\tCEI's mission is to produce high-quality equipment for the manufacturing industry through innovation, collaboration, and integrity. However, the company has a history of neglecting its own security, putting its customers and employees at risk. This negligence has resulted in the leakage of confidential information and personal data. We provide confidential information regarding equipment development, contracts, and customer relationships. We also have information about their subsidiaries and their entire financial structure.",
         "link": "http://zd4caqa225s2rs2nhst4y5nkt575ohdpfm6zwy6mug6js3izseli24qd.onion/index.php?p=",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/interlock/Converting Equipment International.png",
         "misp_uuid": "985b9790-526f-5026-b77c-92d857645d7e",
         "group_name": "interlock",
         "sector": "Technology"
@@ -361,16 +449,5 @@
         "misp_uuid": "504540f5-42e4-56d4-a061-96b2024696a1",
         "group_name": "ransomhouse",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Danone (International Delights)",
-        "discovered": "2026-07-15 20:50:04.961390",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=2a85afa5-7c66-4fe2-a552-df3f6954cb9c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Danone (International Delights).png",
-        "misp_uuid": "0e0a7531-0bcb-5934-b903-270b0ddd39a0",
-        "group_name": "qilin",
-        "sector": "Agriculture"
     }
 ]
