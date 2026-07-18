@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "v-silicon.com",
+        "discovered": "2026-07-18 04:53:24.601606",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad53a5ae71db30cbcbe61",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/v-siliconcom.png",
+        "misp_uuid": "274411a4-aebc-572c-aa32-c685ebcc0aa6",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "FAST.COM.PH",
+        "discovered": "2026-07-18 04:53:23.586610",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad58e5ae71db30cbcc904",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/FASTCOMPH.png",
+        "misp_uuid": "ec63b902-b2fa-5775-89fd-cb4f24d1f522",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "D.MAG New Material Technology Co., Ltd. Taiwan Giant",
+        "discovered": "2026-07-18 04:53:22.640464",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad5fc5ae71db30cbcd79c",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/DMAG New Material Technology Co, Ltd Taiwan Giant.png",
+        "misp_uuid": "36d38ba3-4066-5e3b-83f3-8c10c5591b17",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vedan corp",
+        "discovered": "2026-07-18 04:53:21.734632",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad67e5ae71db30cbce558",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/vedan corp.png",
+        "misp_uuid": "be35aa1b-c82e-5a98-b1c8-4684815ea806",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "pokka.co",
+        "discovered": "2026-07-18 04:53:20.773145",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad6bb5ae71db30cbcec59",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/pokkaco.png",
+        "misp_uuid": "2cc56dd6-54e6-5794-9225-8df8d11cf10a",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "reatile.co.za",
+        "discovered": "2026-07-18 04:53:19.098031",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad7205ae71db30cbcf9e2",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/reatilecoza.png",
+        "misp_uuid": "2feb45a0-73f1-5a27-b99a-c57f9aea66e3",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "V&P Nurseries",
+        "discovered": "2026-07-18 04:53:18.147861",
+        "description": "",
+        "link": "/blog/disclosures/6a5ad7a05ae71db30cbd0738",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/V&P Nurseries.png",
+        "misp_uuid": "bc7f610e-35aa-52b7-9d56-cb2319754cfa",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Droguería Martorani",
+        "discovered": "2026-07-18 01:53:52.485430",
+        "description": "Drug Stores & Pharmacies",
+        "link": "/site/blog?uuid=cddad5ee-72f3-48fd-9310-4858484d5f59",
+        "magnet": null,
+        "screen": "screenshots/qilin/Droguería Martorani.png",
+        "misp_uuid": "d511521a-c570-5bf0-a17d-e31af39203c6",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ecopetrol",
+        "discovered": "2026-07-18 00:53:20.118849",
+        "description": "$33.1 Billion www.ecopetrol.com.co ECOPETROL copetrol SA is a company organized as a public limited company, of national order, linked to the Ministry of Mines and Energy. It has operations located in the center, south, east and north of Colombia, as well as abroad. It has two refineries in Barrancabermeja and Cartagena. Through its subsidiary Cenit, specialized in hydrocarbon transportation and logistics, it owns three ports for the export and import of fuels and crude oil in Coveñas (Sucre) and Cartagena (Bolvar) with access to the Atlantic, and Tumaco (Nariño) on the Pacific. Cenit also owns most of the country's oil and multi-purpose pipelines that connect production systems with large consumption centers and maritime terminals. Ecopetrol also has a stake in the biofuels business and is present in Brazil, Mexico and the United States (Gulf of Mexico and Permian Texas). CHANGE NEGOTIATOR IMMEDIATLY. CONTACT - CONFIRM. Drop in stock - free gift. ",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "bf116eb8-6f0f-5b41-8f63-3fb4987cc6b8",
+        "group_name": "the gentlemen",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Powder River Heating & Air Conditioning",
+        "discovered": "2026-07-17 23:54:38.553472",
+        "description": "Construction",
+        "link": "/site/blog?uuid=7e150d05-bd34-404d-8824-a10358840d67",
+        "magnet": null,
+        "screen": "screenshots/qilin/Powder River Heating & Air Conditioning.png",
+        "misp_uuid": "9753dad7-76dc-5590-9f00-adcc0abce405",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "Cafar",
         "discovered": "2026-07-17 19:51:52.307525",
         "description": "Insurance",
@@ -130,93 +240,5 @@
         "misp_uuid": "997848f6-3708-5447-9743-3278e5c04218",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Phi",
-        "discovered": "2026-07-17 03:00:18.529928",
-        "description": "PHI Studio focuses its activities on the presentation and curation of immersive works in virtual reality (VR), augmented reality (AR) and extended reality (XR). Recognized locally and internationally for its innovative production approach, technical expertise and achievements in new forms of storytelling, PHI Studio collaborates with major global industry players and has worked on many award-winning projects, with international presentations in New York, Tokyo, Venice, Frankfurt, Luxembourg and Salt Lake City, among others. As a pioneer in interactive experiences, PHI Studio pushes the boundaries of immersive projects, with a focus on enhancing the visitor experience through a keen sense of detail and the elaboration of high-quality scenography. With a reputation for close collaborations with artists, creators, directors and producers from different backgrounds, PHI Studio aspires to be a catalyst of innovation, supporting the development of present and future talent - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "666d096c-54e9-526a-91cf-026706093287",
-        "group_name": "nova",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Digipro",
-        "discovered": "2026-07-17 03:00:17.510974",
-        "description": "digipro.com.vn appears to be the website of DIGIPRO TECH JSC (Công ty Cổ phần Phát triển Công nghệ DIGIPRO), a Vietnamese IT company. According to its own website, the company was established in 2020 and is based in Hanoi, Vietnam - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e843e7ab-e6f3-5630-963f-e3d0947d7af4",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Integrated Marketing Services",
-        "discovered": "2026-07-17 03:00:16.515647",
-        "description": "Integrated Marketing Services is a company that operates in the Commercial Printing industry. It employs 20to49 people and has 5Mto10M of revenue. The company is headquartered in Liverpool, New York - Nova Provide tree and samples from stolen data + decrypt sample to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c642adf8-46a3-5f59-891c-d0de0c01696c",
-        "group_name": "nova",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "eitzchaim.com",
-        "discovered": "2026-07-17 02:59:59.827928",
-        "description": "Eitz Chaim Schools (Hebrew: ישיבת עץ חיים — Yeshivas Eitz Chaim) is a private Orthodox Jewish elementary sc...",
-        "link": "/blog/e83ae42f72039def5cfd6f399fe5e431589b34af2c477b1c3e8c96fbdb8b2f9f/",
-        "magnet": null,
-        "screen": "screenshots/krybit/eitzchaimcom.png",
-        "misp_uuid": "6bc4cbf4-d920-51ee-a667-96b7078c2564",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "formasuniversales.com",
-        "discovered": "2026-07-17 02:59:58.887157",
-        "description": "Formas Universales, S.A. is a Panamanian company founded in 1985, specializing in the production and commercialization o...",
-        "link": "/blog/21a5e7905a0c2544593cc8856fc4190f3c5cd9dea2922b15adf9cc5582bde4b7/",
-        "magnet": null,
-        "screen": "screenshots/krybit/formasuniversalescom.png",
-        "misp_uuid": "921ab8e2-3ecd-5d9e-ad9c-520b6293abf8",
-        "group_name": "krybit",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "rehabmalaysia.com",
-        "discovered": "2026-07-17 02:59:57.937001",
-        "description": "Pusat Rehabilitasi PERKESO Tun Abdul Razak (PERKESO Rehabilitation Centre Malaysia) is a Malaysian government-linked reh...",
-        "link": "/blog/358c4d15c88f881a4fe9b4009fea92875bd9569160533db6cbea77d6fbdee3be/",
-        "magnet": null,
-        "screen": "screenshots/krybit/rehabmalaysiacom.png",
-        "misp_uuid": "0c2e85dc-a387-5483-be3d-965f1514182d",
-        "group_name": "krybit",
-        "sector": "Government"
-    },
-    {
-        "post_title": "www.lagus.cz",
-        "discovered": "2026-07-17 02:59:57.038620",
-        "description": "LAGUS s.r.o. is a genuine Czech manufacturing company established on April 21, 1998, headquartered in Hruškové Dvory (...",
-        "link": "/blog/5bce46da119b73d1ba3d82909cd88d658342a1fee85f82c5c5e2be35e2bd2494/",
-        "magnet": null,
-        "screen": "screenshots/krybit/wwwlaguscz.png",
-        "misp_uuid": "25c769a9-dcd8-5e72-8fe5-90b90f541a49",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "District of Columbia Housing Authority",
-        "discovered": "2026-07-17 02:59:55.446136",
-        "description": "https://www.dchousing.org/\n\t\t\t\t\t\t\t\t\tDC Housing, the organization entrusted with the powers of the District of Columbia Housing Authority, was completely compromised due to its negligence and greed in security, and all confidential information, databases, passports, and personal data of clients were stolen. We offer you 1.6 TB of confidential information, including all data of District residents and large databases.",
-        "link": "http://2gvprypcd3wemjghnnassqtro7nwhocr5ry4bngx7x7xhks7f7oillqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/District of Columbia Housing Authority.png",
-        "misp_uuid": "c3ecc371-d78c-57ff-bcfc-2ddf3d1d0163",
-        "group_name": "interlock",
-        "sector": "Technology"
     }
 ]
