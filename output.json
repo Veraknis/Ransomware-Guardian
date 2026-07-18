@@ -1,5 +1,27 @@
 [
     {
+        "post_title": "Dissinger and Dissinger Law Firm",
+        "discovered": "2026-07-18 21:56:59.652821",
+        "description": "",
+        "link": "/company/XwYyVrB5e4A2EnzYNBrYw",
+        "magnet": null,
+        "screen": "screenshots/gunra/Dissinger and Dissinger Law Firm.png",
+        "misp_uuid": "0de3668a-4ddf-518e-a2cb-8c772ecb63fc",
+        "group_name": "gunra",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "euroins.bg",
+        "discovered": "2026-07-18 18:55:04.164834",
+        "description": "Euroins Insurance Company AD (Застрахователна компания Евроинс АД) is one of the first a...",
+        "link": "/blog/168d441c086815fb0d0ce67b7bc405626f36a6e6bd85285420c98b85c2db571e/",
+        "magnet": null,
+        "screen": "screenshots/krybit/euroinsbg.png",
+        "misp_uuid": "1224b6f1-874b-550d-8134-9be69471d5ef",
+        "group_name": "krybit",
+        "sector": "Finance"
+    },
+    {
         "post_title": "The Nueva School",
         "discovered": "2026-07-18 16:00:28.322546",
         "description": "Education",
@@ -218,60 +240,5 @@
         "misp_uuid": "9753dad7-76dc-5590-9f00-adcc0abce405",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "Cafar",
-        "discovered": "2026-07-17 19:51:52.307525",
-        "description": "Insurance",
-        "link": "/site/blog?uuid=534f0ef4-d3fb-4650-ae42-445c281986c6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cafar.png",
-        "misp_uuid": "b2dcdbfc-8e9c-5930-9ee9-c16bb8dc7348",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Sunway Scientific",
-        "discovered": "2026-07-17 19:04:28.087684",
-        "description": "sun-way.com.tw zoominfo.com/c/sunway-scientific-corp/456158414 SUNWAY Co., Ltd., a leading Taiwanese distributor and exclusive agent for international scientific and laboratory equipment brands (such as HETTICH, EYELA, JASCO, and SHASHIN KAGAKU).\nThe company specializes in providing advanced laboratory solutions, including centrifuges, freeze dryers, spectrometers, and cell disruptors for research, biotech, and chemical industries.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a557169e-03cb-5d3b-9de4-8c5bb8111267",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Military Sealift Command",
-        "discovered": "2026-07-17 18:50:09.083990",
-        "description": "sealiftcommand.com zoominfo.com/c/military-sealift-command/149045906 ITAR documentation, personal data, cargo manifests—including ESSM shipments—vessel blueprints, and both disclosed and undisclosed information. U.S. Navy's Military Sealift Command (MSC).\nIt is the primary provider of ocean transportation and global logistics support for the U.S. military, operating approximately 125 ships daily worldwide.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "d74cc0cc-8f92-5e38-9bea-e32f2f47de50",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Advantage Home Health Care",
-        "discovered": "2026-07-17 18:50:08.072040",
-        "description": "advantagehhc.com zoominfo.com/c/advantage-home-health-care-inc/357944466 Advantage Home Health Care, a leading Indiana-owned provider of in-home care services with over 30 years of experience.The company operates multiple locations across Indiana, serving dozens of counties with post-procedure recovery and long-term home assistance.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "4e00ee0c-f25c-550e-bcc8-3fce40d48f4b",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Acosol",
-        "discovered": "2026-07-17 17:48:23.510051",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/blog?uuid=06db273a-dad1-49d1-98ea-f59c947de0b6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Acosol.png",
-        "misp_uuid": "373111fe-b7fb-506f-a055-425fd5060d92",
-        "group_name": "qilin",
-        "sector": "Energy"
     }
 ]
