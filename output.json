@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "The Nueva School",
+        "discovered": "2026-07-18 16:00:28.322546",
+        "description": "Education",
+        "link": "/site/blog?uuid=f5d63ec4-a191-4de4-a6d1-f0fa52fba59e",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Nueva School.png",
+        "misp_uuid": "2ec25d74-a638-5c43-8946-78b4ec76bb03",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "FMZ Tecnologia em Sistemas",
+        "discovered": "2026-07-18 16:00:26.836816",
+        "description": "FMZ Tecnologia em Sistemas is a Brazilian software company that develops solutions for the book industry. Its main product, HORUS, is an ERP system designed for publishers, bookstores, and distributors.\n\nThe system helps manage inventory, sales, royalties, and consignment operations. The company has over 15 years of experience and is based in São Paulo, Brazil.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a2d71b25-be04-587e-adf9-f355fe5a3ff4",
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "NewNet",
+        "discovered": "2026-07-18 16:00:06.465226",
+        "description": "NewNet S.A. is a Colombian company specializing in managing IT risks, offering advanced and personalized data protection services. Their extensive range of serv...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "c35715e9-451a-59f9-959b-b64f94db6290",
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "KLD Labs",
+        "discovered": "2026-07-18 14:00:05.541813",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=cfa5f026-202c-4710-b931-9633eeeabfa4",
+        "magnet": null,
+        "screen": "screenshots/qilin/KLD Labs.png",
+        "misp_uuid": "b7fb2ed7-d313-51e8-9f7e-d064569a7112",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Armara",
+        "discovered": "2026-07-18 14:00:04.130284",
+        "description": "Grocery Retail",
+        "link": "/site/blog?uuid=4443364d-63a1-4ce6-850b-8878556e9756",
+        "magnet": null,
+        "screen": "screenshots/qilin/Armara.png",
+        "misp_uuid": "252f6a24-c65b-5bef-901c-cac1274e060b",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Heartland Catfish",
+        "discovered": "2026-07-18 14:00:01.310785",
+        "description": "Agriculture",
+        "link": "/site/blog?uuid=f9340ec9-e2fc-4a39-9289-565a6b39daf5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Heartland Catfish.png",
+        "misp_uuid": "7be3c8af-09ed-5ff3-b4e7-884541b74028",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Salina Supply",
+        "discovered": "2026-07-18 14:00:00.382730",
+        "description": "Home Improvement & Hardware Retail",
+        "link": "/site/blog?uuid=336e1eea-cc38-4572-938d-8f80895e769e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Salina Supply.png",
+        "misp_uuid": "73bc3d7b-240f-5bd2-92d7-0c24faee36bf",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "St Martha Catholic Church",
+        "discovered": "2026-07-18 13:59:58.704293",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/blog?uuid=be920d01-1289-47d4-a4da-8ebf156a33ad",
+        "magnet": null,
+        "screen": "screenshots/qilin/St Martha Catholic Church.png",
+        "misp_uuid": "e814205d-02e0-5fa8-b7bd-3c3ed1eb7efe",
+        "group_name": "qilin",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "AK Preparedness",
+        "discovered": "2026-07-18 13:01:58.801745",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=ce1a0a64-9560-4bbf-8489-b0af28ec8fad",
+        "magnet": null,
+        "screen": "screenshots/qilin/AK Preparedness.png",
+        "misp_uuid": "e2cf2b12-6ed3-50c8-b903-cebbb13c865e",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Sicc",
+        "discovered": "2026-07-18 13:01:57.830359",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=8556bfe0-16bd-4415-825b-e8f5420d3416",
+        "magnet": null,
+        "screen": "screenshots/qilin/Sicc.png",
+        "misp_uuid": "b08ad326-714c-5c01-b9ee-40b64b15c854",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "v-silicon.com",
         "discovered": "2026-07-18 04:53:24.601606",
         "description": "",
@@ -163,82 +273,5 @@
         "misp_uuid": "373111fe-b7fb-506f-a055-425fd5060d92",
         "group_name": "qilin",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Centre for Newcomers",
-        "discovered": "2026-07-17 16:50:16.568545",
-        "description": "https://www.centrefornewcomers.ca/\n\t\t\t\t\t\t\t\t\tThe Newcomers Center provides immigration services aimed at supporting newcomers and creating a welcoming community. They maintain complete information about their clients in their databases, but they fail to ensure the security of this data. Due to their negligence toward their clients and employees, this data has been compromised. We offer you 380 GB of personal client data, company financial information, its current status and reporting, and human resources planning and policies.",
-        "link": "http://y2yplioc7ybrun2qb4opyc2vdt6lqtxvag3rocayyv2ekbtoa7kjo3qd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Centre for Newcomers.png",
-        "misp_uuid": "6d55d24f-fea5-5259-8d69-cabdf295e210",
-        "group_name": "interlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Paragon Store Fixtures",
-        "discovered": "2026-07-17 16:50:15.372319",
-        "description": "https://paragonstorefixtures.com/\n\t\t\t\t\t\t\t\t\tParagon Store Fixtures specializes in custom display cases, retail fixtures, and interior design elements for luxury stores, beauty salons, offices, restaurants, and entertainment venues. A security breach resulted in the breach of partnership agreements, resulting in the intellectual property of both the company and its clients. Internal design files were exposed, including work completed for clients in the high-end retail sector and luxury brands. Due to the company's negligence, contracts, architectural plans, and confidential design documentation became public. The identities of clients and projects have now been revealed.",
-        "link": "http://6p6fubv4udi7kzgh4jojcplujeogmacclxmskfb3y6bknkh7zh7hohyd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Paragon Store Fixtures.png",
-        "misp_uuid": "24582748-5bab-5348-a25b-120856b11dfa",
-        "group_name": "interlock",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Westcoast Communication Services",
-        "discovered": "2026-07-17 15:52:12.498008",
-        "description": "Westcoast Communication Services is a leading expert in low voltage and structured cabling, specializing in voice and data cabling solutions across Florida. They offer a range of services including network integration, telecommunication networks, and access control systems. We will upload 20gb of corporate data soon. Employee personal information (DL, passports, SS card scans and so on), contracts and agreements, customer info, financials, confidential agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e5d8b9f5-fa92-5638-92f5-19ad3391b9c4",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Nesco Bus Maintenance",
-        "discovered": "2026-07-17 14:51:36.888899",
-        "description": "Nesco Bus specializes in manufacturing and maintaining a wide range of buses, including school,childcare, activity, commercial, and specialty buses. With over three decades of experience, they are committed to providing exceptional customer support and ensuring the safety and comfortof their passengers.We will upload 26gb of corporate data soon. Employee personal information (DL scans and so on),contracts and agreements, customer info, payment details and other financial docs, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "dcf34e59-13ba-58ce-a8fb-2a02d93a6651",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "suppcentersa.com",
-        "discovered": "2026-07-17 12:52:04.297346",
-        "description": "+506 40003397. SuppCenter Global Services officially positions itself as one of the leading Xcitium solution partners and providers in the Latin America region. Xcitium is the new name of COMODO’s enterprise business. Their key cybersecurity specialization is based on a threat prevention architecture that uses Xcitium Zero Trust and ZeroDwell technologies. Official partnership: SuppCenter Global acts as a managed security service provider, or MSSP. They implement, configure, and support Xcitium/Comodo security solutions for large businesses, retail companies, and the public sector. Stolen: --",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c82fad97-e27c-59ce-8ffa-1fca4c998dec",
-        "group_name": "m3rx",
-        "sector": "Government"
-    },
-    {
-        "post_title": "arambol.co.uk",
-        "discovered": "2026-07-17 12:52:03.053467",
-        "description": "+44 2079276370 , Arambol LLP is a dynamic partnership of chartered surveyors and property consultants, recognized for their commitment to quality and professionalism in property services. They cater to a diverse clientele, including large property organizations, retailers, local authorities, and small residential developers. Their service offerings encompass property consultancy, project management, cost consultancy, building surveying, and construction management. Arambol operates across various sectors such as healthcare, industrial, commercial, public sector, education, and hospitality. Stolen: 922 GB 584,228 Files",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "1c7ef94a-5c0b-5d0a-abb4-0ca4ee5cabbe",
-        "group_name": "m3rx",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Kyokuto Kaihatsu Kogyo",
-        "discovered": "2026-07-17 12:51:46.473720",
-        "description": "",
-        "link": "/blog/disclosures/6a5984205ae71db30c99e780",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Kyokuto Kaihatsu Kogyo.png",
-        "misp_uuid": "997848f6-3708-5447-9743-3278e5c04218",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
