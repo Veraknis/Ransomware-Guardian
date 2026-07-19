@@ -1,5 +1,38 @@
 [
     {
+        "post_title": "Associated Theatrical Contractors",
+        "discovered": "2026-07-19 17:48:38.850579",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=d5df444b-e533-4535-9797-08f40baf4f0b",
+        "magnet": null,
+        "screen": "screenshots/qilin/Associated Theatrical Contractors.png",
+        "misp_uuid": "7ac3a97f-c0e8-5877-93d6-f56f3cf4113c",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Don Tortaco Mexican Grill",
+        "discovered": "2026-07-19 17:48:37.833974",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=41fcdb99-7cf5-4296-9690-fc9938f213c0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Don Tortaco Mexican Grill.png",
+        "misp_uuid": "d1145fe7-26e0-5028-862e-b1ce131d4bdd",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Dephub",
+        "discovered": "2026-07-19 17:48:36.302655",
+        "description": "Directorate of Shipping and Maritime Affairs Jl. Medan Merdeka Barat No. 8 Jakarta, Indonesia 10110",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "75851f5c-2257-538f-b921-3c773524ff74",
+        "group_name": "nova",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "meralmanisa",
         "discovered": "2026-07-19 16:51:52.432330",
         "description": "MER-AL was established in Turkey in 2005, but our experience in the automotive industry started in Germany in 1995. MER-AL started its activities with the production of cast filters, which are specifically used to produce aluminum wheels and components produced in low-pressure-casting. In addition, a significant part of the production department consists of “rim pallets” and “rim pallet covers.” As a result, MER-AL is now one of the world’s largest manufacturers of cast filters and rim pallet sets and a well-known brand in this field in many countries - 1.5 GB of sales data and secret documents, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
@@ -42,27 +75,5 @@
         "misp_uuid": "d154d585-a1c5-560b-aeed-cbd59fde33af",
         "group_name": "blackout",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Dissinger and Dissinger Law Firm",
-        "discovered": "2026-07-18 21:56:59.652821",
-        "description": "",
-        "link": "/company/XwYyVrB5e4A2EnzYNBrYw",
-        "magnet": null,
-        "screen": "screenshots/gunra/Dissinger and Dissinger Law Firm.png",
-        "misp_uuid": "0de3668a-4ddf-518e-a2cb-8c772ecb63fc",
-        "group_name": "gunra",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "euroins.bg",
-        "discovered": "2026-07-18 18:55:04.164834",
-        "description": "Euroins Insurance Company AD (Застрахователна компания Евроинс АД) is one of the first a...",
-        "link": "/blog/168d441c086815fb0d0ce67b7bc405626f36a6e6bd85285420c98b85c2db571e/",
-        "magnet": null,
-        "screen": "screenshots/krybit/euroinsbg.png",
-        "misp_uuid": "1224b6f1-874b-550d-8134-9be69471d5ef",
-        "group_name": "krybit",
-        "sector": "Finance"
     }
 ]
