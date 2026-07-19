@@ -1,5 +1,38 @@
 [
     {
+        "post_title": "meralmanisa",
+        "discovered": "2026-07-19 16:51:52.432330",
+        "description": "MER-AL was established in Turkey in 2005, but our experience in the automotive industry started in Germany in 1995. MER-AL started its activities with the production of cast filters, which are specifically used to produce aluminum wheels and components produced in low-pressure-casting. In addition, a significant part of the production department consists of “rim pallets” and “rim pallet covers.” As a result, MER-AL is now one of the world’s largest manufacturers of cast filters and rim pallet sets and a well-known brand in this field in many countries - 1.5 GB of sales data and secret documents, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "8dc3793f-194b-5729-807f-50c5a39b967d",
+        "group_name": "nova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "City Ambulance Service",
+        "discovered": "2026-07-19 15:58:57.750712",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=9a5b2562-d3a3-4b7a-b2fa-2624534ed258",
+        "magnet": null,
+        "screen": "screenshots/qilin/City Ambulance Service.png",
+        "misp_uuid": "f5ed8c96-5a17-524f-8745-a3220fbe182b",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Famesa",
+        "discovered": "2026-07-19 15:58:56.781988",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=319f4978-5d69-49df-a821-e9debceb58af",
+        "magnet": null,
+        "screen": "screenshots/qilin/Famesa.png",
+        "misp_uuid": "678ca9cb-0bd1-53db-942d-4b830e989a21",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "bluebellgroup.com",
         "discovered": "2026-07-18 22:56:15.561011",
         "description": "Bluebell Group is a Hong Kong-based, family-owned omnichannel brand curat...5",
@@ -31,115 +64,5 @@
         "misp_uuid": "1224b6f1-874b-550d-8134-9be69471d5ef",
         "group_name": "krybit",
         "sector": "Finance"
-    },
-    {
-        "post_title": "The Nueva School",
-        "discovered": "2026-07-18 16:00:28.322546",
-        "description": "Education",
-        "link": "/site/blog?uuid=f5d63ec4-a191-4de4-a6d1-f0fa52fba59e",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Nueva School.png",
-        "misp_uuid": "2ec25d74-a638-5c43-8946-78b4ec76bb03",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "FMZ Tecnologia em Sistemas",
-        "discovered": "2026-07-18 16:00:26.836816",
-        "description": "FMZ Tecnologia em Sistemas is a Brazilian software company that develops solutions for the book industry. Its main product, HORUS, is an ERP system designed for publishers, bookstores, and distributors.\n\nThe system helps manage inventory, sales, royalties, and consignment operations. The company has over 15 years of experience and is based in São Paulo, Brazil.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a2d71b25-be04-587e-adf9-f355fe5a3ff4",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "NewNet",
-        "discovered": "2026-07-18 16:00:06.465226",
-        "description": "NewNet S.A. is a Colombian company specializing in managing IT risks, offering advanced and personalized data protection services. Their extensive range of serv...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c35715e9-451a-59f9-959b-b64f94db6290",
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "KLD Labs",
-        "discovered": "2026-07-18 14:00:05.541813",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=cfa5f026-202c-4710-b931-9633eeeabfa4",
-        "magnet": null,
-        "screen": "screenshots/qilin/KLD Labs.png",
-        "misp_uuid": "b7fb2ed7-d313-51e8-9f7e-d064569a7112",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Armara",
-        "discovered": "2026-07-18 14:00:04.130284",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=4443364d-63a1-4ce6-850b-8878556e9756",
-        "magnet": null,
-        "screen": "screenshots/qilin/Armara.png",
-        "misp_uuid": "252f6a24-c65b-5bef-901c-cac1274e060b",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Heartland Catfish",
-        "discovered": "2026-07-18 14:00:01.310785",
-        "description": "Agriculture",
-        "link": "/site/blog?uuid=f9340ec9-e2fc-4a39-9289-565a6b39daf5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Heartland Catfish.png",
-        "misp_uuid": "7be3c8af-09ed-5ff3-b4e7-884541b74028",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Salina Supply",
-        "discovered": "2026-07-18 14:00:00.382730",
-        "description": "Home Improvement & Hardware Retail",
-        "link": "/site/blog?uuid=336e1eea-cc38-4572-938d-8f80895e769e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Salina Supply.png",
-        "misp_uuid": "73bc3d7b-240f-5bd2-92d7-0c24faee36bf",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "St Martha Catholic Church",
-        "discovered": "2026-07-18 13:59:58.704293",
-        "description": "Non-Profit & Charitable Organizations",
-        "link": "/site/blog?uuid=be920d01-1289-47d4-a4da-8ebf156a33ad",
-        "magnet": null,
-        "screen": "screenshots/qilin/St Martha Catholic Church.png",
-        "misp_uuid": "e814205d-02e0-5fa8-b7bd-3c3ed1eb7efe",
-        "group_name": "qilin",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "AK Preparedness",
-        "discovered": "2026-07-18 13:01:58.801745",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=ce1a0a64-9560-4bbf-8489-b0af28ec8fad",
-        "magnet": null,
-        "screen": "screenshots/qilin/AK Preparedness.png",
-        "misp_uuid": "e2cf2b12-6ed3-50c8-b903-cebbb13c865e",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Sicc",
-        "discovered": "2026-07-18 13:01:57.830359",
-        "description": "Building Materials",
-        "link": "/site/blog?uuid=8556bfe0-16bd-4415-825b-e8f5420d3416",
-        "magnet": null,
-        "screen": "screenshots/qilin/Sicc.png",
-        "misp_uuid": "b08ad326-714c-5c01-b9ee-40b64b15c854",
-        "group_name": "qilin",
-        "sector": "Real Estate"
     }
 ]
