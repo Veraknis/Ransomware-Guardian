@@ -64,16 +64,5 @@
         "misp_uuid": "678ca9cb-0bd1-53db-942d-4b830e989a21",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "bluebellgroup.com",
-        "discovered": "2026-07-18 22:56:15.561011",
-        "description": "Bluebell Group is a Hong Kong-based, family-owned omnichannel brand curat...5",
-        "link": "/post/354bae31-fd05-48e1-843f-56bfc524b438/",
-        "magnet": null,
-        "screen": "screenshots/blackout/bluebellgroupcom.png",
-        "misp_uuid": "d154d585-a1c5-560b-aeed-cbd59fde33af",
-        "group_name": "blackout",
-        "sector": "Unknown"
     }
 ]
