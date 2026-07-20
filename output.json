@@ -1,68 +1,24 @@
 [
     {
-        "post_title": "Associated Theatrical Contractors",
-        "discovered": "2026-07-19 17:48:38.850579",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=d5df444b-e533-4535-9797-08f40baf4f0b",
-        "magnet": null,
-        "screen": "screenshots/qilin/Associated Theatrical Contractors.png",
-        "misp_uuid": "7ac3a97f-c0e8-5877-93d6-f56f3cf4113c",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Don Tortaco Mexican Grill",
-        "discovered": "2026-07-19 17:48:37.833974",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=41fcdb99-7cf5-4296-9690-fc9938f213c0",
-        "magnet": null,
-        "screen": "screenshots/qilin/Don Tortaco Mexican Grill.png",
-        "misp_uuid": "d1145fe7-26e0-5028-862e-b1ce131d4bdd",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Dephub",
-        "discovered": "2026-07-19 17:48:36.302655",
-        "description": "Directorate of Shipping and Maritime Affairs Jl. Medan Merdeka Barat No. 8 Jakarta, Indonesia 10110",
-        "link": null,
+        "post_title": "Bath Fitter",
+        "discovered": "2026-07-20 16:22:09.861422",
+        "description": "Employee data breach at a major manufacturing company.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/frchTfEBkQQaPnMhpaeopD6ze2gTL23iASpFXPwiqGB9VGJYvyeQCb07vA4hqojkjXEg8x8ZXaMjX5cCWGZm2Z6UHV6SGxF",
         "magnet": null,
         "screen": null,
-        "misp_uuid": "75851f5c-2257-538f-b921-3c773524ff74",
-        "group_name": "nova",
-        "sector": "Transportation"
+        "misp_uuid": "08c1fe04-ba7c-5db1-987e-ea9f3b5cce1c",
+        "group_name": "anubis",
+        "sector": "Technology"
     },
     {
-        "post_title": "meralmanisa",
-        "discovered": "2026-07-19 16:51:52.432330",
-        "description": "MER-AL was established in Turkey in 2005, but our experience in the automotive industry started in Germany in 1995. MER-AL started its activities with the production of cast filters, which are specifically used to produce aluminum wheels and components produced in low-pressure-casting. In addition, a significant part of the production department consists of “rim pallets” and “rim pallet covers.” As a result, MER-AL is now one of the world’s largest manufacturers of cast filters and rim pallet sets and a well-known brand in this field in many countries - 1.5 GB of sales data and secret documents, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
+        "post_title": "Fairlife / Coca-Cola",
+        "discovered": "2026-07-20 16:22:08.892499",
+        "description": "www.fairlife.com",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/K4UCkEEitvD6UBuozkXtkvSG5WEhfS1vbUZ380n3s+txX0QKee4Pj69QFJf0brH94S49UGTyLiSVM+tpeeEswXE5NTFVc1cy",
         "magnet": null,
         "screen": null,
-        "misp_uuid": "8dc3793f-194b-5729-807f-50c5a39b967d",
-        "group_name": "nova",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "City Ambulance Service",
-        "discovered": "2026-07-19 15:58:57.750712",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=9a5b2562-d3a3-4b7a-b2fa-2624534ed258",
-        "magnet": null,
-        "screen": "screenshots/qilin/City Ambulance Service.png",
-        "misp_uuid": "f5ed8c96-5a17-524f-8745-a3220fbe182b",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Famesa",
-        "discovered": "2026-07-19 15:58:56.781988",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=319f4978-5d69-49df-a821-e9debceb58af",
-        "magnet": null,
-        "screen": "screenshots/qilin/Famesa.png",
-        "misp_uuid": "678ca9cb-0bd1-53db-942d-4b830e989a21",
-        "group_name": "qilin",
+        "misp_uuid": "1135aa51-5d9f-561f-87aa-cd3bd8bc63f7",
+        "group_name": "anubis",
         "sector": "Unknown"
     }
 ]
