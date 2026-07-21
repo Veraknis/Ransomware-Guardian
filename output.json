@@ -1,5 +1,115 @@
 [
     {
+        "post_title": "Ali-Monde",
+        "discovered": "2026-07-20 23:52:47.369226",
+        "description": "",
+        "link": "/blog/disclosures/6a5e5bba5ae71db30c1e8750",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Ali-Monde.png",
+        "misp_uuid": "d3032717-7cde-59de-ae06-8d3c043ab3e7",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "wdk.de",
+        "discovered": "2026-07-20 22:15:55.493562",
+        "description": "Founded in 1950 and headquartered in Frankfurt am Main, the organization serves as the central voice of German manufacturers of …",
+        "link": "/blog/post/wdkde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/wdkde.png",
+        "misp_uuid": "230bd666-a3ed-5e76-bcd1-4befc4555c62",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "jaecklin-industrial.de",
+        "discovered": "2026-07-20 22:15:54.466748",
+        "description": "Founded in 1935 by Julius Jäcklin, the company has developed from a regional machine repair workshop into a globally recognized …",
+        "link": "/blog/post/jaecklin-industrialde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/jaecklin-industrialde.png",
+        "misp_uuid": "26c57885-1c48-5975-9a04-234c8f7077e7",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "lbb-treuhand.de",
+        "discovered": "2026-07-20 22:15:53.561765",
+        "description": "The company specializes in tax consulting, auditing, accounting, payroll administration, financial reporting, and business advisory services for private individuals, self-employed …",
+        "link": "/blog/post/lbb-treuhandde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/lbb-treuhandde.png",
+        "misp_uuid": "43c58de6-e20c-568d-85d0-0809b311e7a5",
+        "group_name": "safepay",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "timetex.de",
+        "discovered": "2026-07-20 22:15:52.673623",
+        "description": "The company traces its origins to 1991, when the TimeTEX brand was acquired and expanded into a comprehensive supplier of …",
+        "link": "/blog/post/timetexde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/timetexde.png",
+        "misp_uuid": "6ac5724d-e7ab-5bd4-b648-e0894c0bf564",
+        "group_name": "safepay",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "stroebel-gruppe.de",
+        "discovered": "2026-07-20 22:15:51.766183",
+        "description": "Headquartered in Langenzenn, Bavaria, the company was founded in 1978 by Gerlinde and Gerhard Ströbel and has grown from a …",
+        "link": "/blog/post/stroebel-gruppede/",
+        "magnet": null,
+        "screen": "screenshots/safepay/stroebel-gruppede.png",
+        "misp_uuid": "b27561e4-ccdd-56c1-822d-a1f6b894cced",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "industriesjaro.com",
+        "discovered": "2026-07-20 22:15:50.837492",
+        "description": "Over several decades, Jaro has evolved from manufacturing telephone booths into a supplier of advanced outdoor enclosures, interactive kiosks, bus …",
+        "link": "/blog/post/industriesjarocom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/industriesjarocom.png",
+        "misp_uuid": "c499a55d-faa8-5144-84d1-67d1a68cc8c7",
+        "group_name": "safepay",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "cenesco.de",
+        "discovered": "2026-07-20 22:15:49.866724",
+        "description": "Founded in 1998, the company provides comprehensive information technology solutions for small and medium-sized enterprises (SMEs), helping organizations modernize their …",
+        "link": "/blog/post/cenescode/",
+        "magnet": null,
+        "screen": "screenshots/safepay/cenescode.png",
+        "misp_uuid": "ceb00781-3dcc-5caa-a9bf-8efdbc888bbf",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "acsmallmaxwell.com.au",
+        "discovered": "2026-07-20 22:15:48.916278",
+        "description": "Founded in 1916 by Ambrose Cecil Small, the firm has provided professional accounting and financial services to businesses and individuals …",
+        "link": "/blog/post/acsmallmaxwellcomau/",
+        "magnet": null,
+        "screen": "screenshots/safepay/acsmallmaxwellcomau.png",
+        "misp_uuid": "09f60468-d91e-5c85-a4f8-6d169138aa9e",
+        "group_name": "safepay",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "mende-grundbesitz.de",
+        "discovered": "2026-07-20 22:15:47.955643",
+        "description": "Founded in 1994, the company specializes in the professional administration of residential, commercial, and mixed-use real estate throughout the Berlin …",
+        "link": "/blog/post/mende-grundbesitzde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/mende-grundbesitzde.png",
+        "misp_uuid": "74da5f54-d8a3-58cb-b21f-2659af425215",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "PP+K",
         "discovered": "2026-07-20 20:56:45.533977",
         "description": "Advertising & Marketing",
