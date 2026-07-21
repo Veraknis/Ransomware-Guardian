@@ -317,27 +317,5 @@
         "misp_uuid": "5e259c0f-afe5-5263-b77b-aff48c6ce528",
         "group_name": "the gentlemen",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Bath Fitter",
-        "discovered": "2026-07-20 16:22:09.861422",
-        "description": "Employee data breach at a major manufacturing company.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/frchTfEBkQQaPnMhpaeopD6ze2gTL23iASpFXPwiqGB9VGJYvyeQCb07vA4hqojkjXEg8x8ZXaMjX5cCWGZm2Z6UHV6SGxF",
-        "magnet": null,
-        "screen": "screenshots/anubis/Bath Fitter.png",
-        "misp_uuid": "08c1fe04-ba7c-5db1-987e-ea9f3b5cce1c",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Fairlife / Coca-Cola",
-        "discovered": "2026-07-20 16:22:08.892499",
-        "description": "www.fairlife.com",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/K4UCkEEitvD6UBuozkXtkvSG5WEhfS1vbUZ380n3s+txX0QKee4Pj69QFJf0brH94S49UGTyLiSVM+tpeeEswXE5NTFVc1cy",
-        "magnet": null,
-        "screen": "screenshots/anubis/Fairlife  Coca-Cola.png",
-        "misp_uuid": "1135aa51-5d9f-561f-87aa-cd3bd8bc63f7",
-        "group_name": "anubis",
-        "sector": "Unknown"
     }
 ]
