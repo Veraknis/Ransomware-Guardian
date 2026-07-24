@@ -1,11 +1,99 @@
 [
     {
+        "post_title": "Metropolitan Construction Systems",
+        "discovered": "2026-07-24 14:49:45.423949",
+        "description": "Leading commercial roofing company based in New York City",
+        "link": "Companies/metropolitanroof",
+        "magnet": null,
+        "screen": "screenshots/pear/Metropolitan Construction Systems.png",
+        "misp_uuid": "b140a0b1-3b11-50ce-af9f-5182f5c649e3",
+        "group_name": "pear",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Emerge2 Digital",
+        "discovered": "2026-07-24 14:49:23.426400",
+        "description": "Emerge2 Digital specializes in providing digital marketing solutions tailored for dealer groups, retailers, distributors, and manufacturers. Since 1980, the company has been dedicated to helping clients enhance their digital presence and connect with more customers through turnkey solutions and managed services.We will upload 30gb of corporate data soon. Employee information (passports and other docs), detailed client information, financials, contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a8fc1cf5-fe90-5642-9589-f8c817118078",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Advanced Marketing",
+        "discovered": "2026-07-24 13:17:34.405556",
+        "description": "advmkt.com.mx zoominfo.com/c/advanced-marketing/546978407 Advanced Marketing is one of Mexico's largest book distribution and publishing companies, founded in 1994. It partners with around 70 national and international publishing houses to supply major retail chains like Gandhi and Porrúa. Additionally, it operates \"AMS Libros,\" an online store selling a wide variety of children's, art, culture, and health books.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "8a35ff5b-c761-5201-97db-1f943e031eca",
+        "group_name": "the gentlemen",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Ejército Argentino",
+        "discovered": "2026-07-24 12:59:54.604393",
+        "description": "Government",
+        "link": "/site/blog?uuid=757f6332-ec5a-48e7-8be4-25d31d651506",
+        "magnet": null,
+        "screen": "screenshots/qilin/Ejército Argentino.png",
+        "misp_uuid": "a16f4dc7-9ada-538e-a488-38885a8c9cbe",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Kean University",
+        "discovered": "2026-07-24 12:59:53.692793",
+        "description": "Education",
+        "link": "/site/blog?uuid=9f76650e-5eea-4165-9e20-b375488e9ec6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Kean University.png",
+        "misp_uuid": "5f61f144-64db-53e2-8683-262f4550e8d6",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Highline Community College",
+        "discovered": "2026-07-24 12:59:52.792930",
+        "description": "Education",
+        "link": "/site/blog?uuid=67e53658-cf53-4b9d-a2df-a6b7a9361416",
+        "magnet": null,
+        "screen": "screenshots/qilin/Highline Community College.png",
+        "misp_uuid": "f5006767-061e-524b-a6a1-6c5814f7fdc9",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Stryker",
+        "discovered": "2026-07-24 12:59:51.858019",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=9a5d858f-7849-458c-8762-abd073fbbb0c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Stryker.png",
+        "misp_uuid": "6f3c1d2e-373e-54e5-80b8-2a73df4ed4d5",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ID engineering",
+        "discovered": "2026-07-24 12:59:33.084921",
+        "description": "ID Engineering & Automated Systems is a machine builder and integrator with over 50 years of combined experience, established in 2002. The company specializes i...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "8267193c-c030-5ac6-80f8-2fdfef41e141",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "metrabyte.cloud",
         "discovered": "2026-07-24 11:59:48.788285",
         "description": "metrabyte.cloud is the website of Metrabyte Cloud Co., Ltd., a cloud service provider from Thaila...",
         "link": "/page_company.php?id=182",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/eraleign (apt73)/metrabytecloud.png",
         "misp_uuid": "63155ec7-a774-57ce-8848-3cd1fa9fdd07",
         "group_name": "eraleign (apt73)",
         "sector": "Technology"
@@ -86,126 +174,5 @@
         "misp_uuid": "440e86a9-517a-5d72-a363-c5bdac2c574a",
         "group_name": "cmd organization",
         "sector": "Government"
-    },
-    {
-        "post_title": "Machinerie P&W",
-        "discovered": "2026-07-23 17:51:31.757782",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=68dd90a8-fe7d-405a-87c8-b8d660c18154",
-        "magnet": null,
-        "screen": "screenshots/qilin/Machinerie P&W.png",
-        "misp_uuid": "5da1d582-6bbd-5e5a-88d5-0c4f22fdf59c",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "ABM Enviro",
-        "discovered": "2026-07-23 17:51:30.838133",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=9f71de4a-ee6f-4382-8148-85ab3c440fc4",
-        "magnet": null,
-        "screen": "screenshots/qilin/ABM Enviro.png",
-        "misp_uuid": "2beca2f0-4c8c-5022-b7fd-246bec65a799",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "nilepet.com",
-        "discovered": "2026-07-23 17:51:14.350763",
-        "description": "Nile Petroleum Corporation (NILEPET) is the state-owned national oil and gas company of the Republic of South Sudan, est...",
-        "link": "/blog/4023769a291fcd5f8df62b554766b76c0ee230fa38add89b95869d776bb96581/",
-        "magnet": null,
-        "screen": "screenshots/krybit/nilepetcom.png",
-        "misp_uuid": "f1ae75e9-6e5c-5768-95c2-ca2f5299a944",
-        "group_name": "krybit",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "laxai.com",
-        "discovered": "2026-07-23 16:51:06.963335",
-        "description": "LAXAI Life Sciences Pvt. Ltd. is an Indian Contract Research, Development, and Manufacturing Organization (CRDMO) founde...",
-        "link": "/blog/03c69f24329af5a2fe834c2f2d9fdc981af148ecae55cd29a50258d451cc0b80/",
-        "magnet": null,
-        "screen": "screenshots/krybit/laxaicom.png",
-        "misp_uuid": "e3233156-a39c-533d-ba06-3163b73c681e",
-        "group_name": "krybit",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "chkck.com",
-        "discovered": "2026-07-23 16:51:05.933603",
-        "description": "CH. Karnchang Public Company Limited (บริษัท ช.การช่าง จำกัด (มหาชน)) is...",
-        "link": "/blog/2479579f8137b048eb873c9b24defdef0ae1e7998cb040c294736c8df6d16d01/",
-        "magnet": null,
-        "screen": "screenshots/krybit/chkckcom.png",
-        "misp_uuid": "f892f9f5-4d37-57f6-a339-9333ee7bd014",
-        "group_name": "krybit",
-        "sector": "Government"
-    },
-    {
-        "post_title": "cashcowboy",
-        "discovered": "2026-07-23 16:51:04.650516",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a58c7172-5d41-51f3-8232-fed9d28e32e5",
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Bulwark Exterminating",
-        "discovered": "2026-07-23 16:51:01.295755",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "8b336b22-cd2e-51b1-9174-8993a0d14394",
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "origins ivf",
-        "discovered": "2026-07-23 16:51:00.379769",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "f96eeeb8-67f2-50f4-a9a8-05619c5bbcd5",
-        "group_name": "killsec3",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eagle Crest Communities",
-        "discovered": "2026-07-23 16:50:53.634237",
-        "description": "Patient and employee data breach at elderly care service.",
-        "link": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/pd6fbi+hxlHWHT9iyJvkoMfFPlamNFsA7TdiiwblLx1OL3o6UBAFJAoglUrOMSY3s2hiFkcQYnjcbuo6SgpBHFBN2l1aU96",
-        "magnet": null,
-        "screen": "screenshots/anubis/Eagle Crest Communities.png",
-        "misp_uuid": "deb5c575-dfcc-5b6b-955b-eb5dce43fc7a",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Auto Royal Company",
-        "discovered": "2026-07-23 13:54:11.880798",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "00e3c702-e0a4-5f04-9070-a5325756ef19",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Wunschkind Klinik Dr Brunbauer",
-        "discovered": "2026-07-23 12:40:26.110262",
-        "description": "wunschkind.at zoominfo.com/c/wunschkind-klinik-dr-brunbauer/1320140781 We have hundreds of gigabytes of your files, including database projects, client contracts, \npersonal data and documents, medical data, medical histories, treatment records, medical reports, and more—all of which constitute critically important information. \nIf you do not want to face the consequences of a data breach, please contact us; otherwise, everything will be published. fertility clinic in Vienna, Austria, led by Dr. Brunbauer. Located in the city center, the clinic specializes in fertility treatments including IVF, insemination, diagnostics, hormone therapy, egg donation, and cryopreservation. It is a recognized partner clinic of Austria's IVF-Fonds program.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "ed8a855f-6ec6-5d7f-a6e2-ca0dbce58a0f",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
     }
 ]
