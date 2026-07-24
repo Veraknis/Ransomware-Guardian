@@ -1,5 +1,60 @@
 [
     {
+        "post_title": "ausproof.com.au",
+        "discovered": "2026-07-24 22:00:07.398214",
+        "description": "+61 749784000 , AusProof is a leader in the design and manufacture of low and high voltage electrical cable couplers specifically for the mining and tunneling industries. Established in 1974, the company is committed to innovation and quality in its product offerings. AusProof serves clients globally, providing reliable solutions for electrical connectivity in challenging environments. Their extensive experience and dedication to research and development ensure that they meet the evolving needs of their customers. Stolen: 460 GB 373,495 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "652c046a-1009-5a78-96dc-95f6491b8ab4",
+        "group_name": "m3rx",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Vinilon",
+        "discovered": "2026-07-24 21:59:48.086181",
+        "description": "Vinilon Group one of the leading manufacturers and distributors of pipe systems in Indonesia.",
+        "link": "https://vinilon.com/",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "70e675d7-0206-5d58-b3f6-4847d8d1b512",
+        "group_name": "deadlock",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "T****r",
+        "discovered": "2026-07-24 19:58:22.281148",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5b3a18c2-c3ae-546b-aa10-04179dd72144",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Bank of Baroda bigest indian bank bankofbaroda.bank.in",
+        "discovered": "2026-07-24 19:00:28.223405",
+        "description": "1 terabytes of people's data https://bankofbaroda.bank.in/\nImagine I'm going to the bank to open an account. and due to the bank's weak password and mistake, my personal data should be leaked,\nand fraudsters should use my resources in scam people and verify exchangers shops and\nfraudulent schemes. How many years should I be held responsible to the\npolice and for complaints? its fair ?\nYes, approximately 100 to 300 thousand forms from people who had given their personal information/documents to the bank for opening accounts filled out forms and even photographs with their national ID cards all of it is downloadable for free.\nwhat data will leak ?\n-Personal Banking (Savings accounts, current accounts, etc.)\n-NetBanking (bob World Internet for corporate and retail users)\n-Loans (Personal, Home, Car, and Education loans)\n-NRI & Corporate Banking Services\n-Customer support and branch/ATM locator services.\nSapmle data (check what you will download) :\nDownload\nfew sample pics:\npic 1\npic 2\npic 3\npic 4\npic 5\npic 6\npic 7\n)\nFull download data link :\nDownload",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "d0f2c4cf-fdfe-56b8-bbf8-91addfaebd3e",
+        "group_name": "triple x",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Brooklyn Defender Services",
+        "discovered": "2026-07-24 19:00:07.582435",
+        "description": "Brooklyn Defender Services is a public defense office providing free, client-centered representation and advocacy in and out of court, protecting people from loss of freedom, family separation, and serious legal harm by unjust, racist systems.",
+        "link": "/Company/BDS/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Brooklyn Defender Services.png",
+        "misp_uuid": "b48869aa-d471-584b-8d35-eabc10cf8383",
+        "group_name": "insomnia",
+        "sector": "Legal"
+    },
+    {
         "post_title": "Metropolitan Construction Systems",
         "discovered": "2026-07-24 14:49:45.423949",
         "description": "Leading commercial roofing company based in New York City",
@@ -163,16 +218,5 @@
         "misp_uuid": "9994ad17-5fca-543a-bfc6-115063072745",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "T Simon Jewelers",
-        "discovered": "2026-07-23 19:50:56.484128",
-        "description": "T. Simon Jewelers is Door County's premier jeweler, known for its extensive collection of diamonds and gemstones, offering both traditional and contemporary designs. The store features exclusive designer lines and custom pieces crafted by the owner, catering to clients looking for unique jewelry experiences. Their services include custom jewelry design, repairs, and personalized consultations to b ring clients' visions to life. With a focus on craftsmanship and attention to detail, T. Simon Jewelers aims to provide exceptional quality and service to all jewelry enthusiasts.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "440e86a9-517a-5d72-a363-c5bdac2c574a",
-        "group_name": "cmd organization",
-        "sector": "Government"
     }
 ]
