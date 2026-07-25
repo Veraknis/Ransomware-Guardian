@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "[cdn] Notification",
+        "discovered": "2026-07-25 10:51:47.553426",
+        "description": "All CDN mirrors are currently experiencing a service disruption. All files are fully backed up and no data has been lost. At this time we do not have an estimated time of resolution.We are working to restore service promptly and will share updates as they become available.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5d8b1664-97bc-565b-9f4c-a148697dd5f9",
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Advantage Sintered Metals",
+        "discovered": "2026-07-25 06:48:46.956101",
+        "description": "If the company does not contact us before 02/08/2026, the data will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "7d2cf7c6-8b21-52d3-b3e8-7bb7aae82c2f",
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Center Of Information Technologies In Finance Public Institution",
+        "discovered": "2026-07-25 01:49:19.299473",
+        "description": "Centrul de Tehnologii Informaționale în Finanțe (CTIF) offers a wide range of services and products aimed at legal entities such as public authorities, budget institutions, and economic agents, as well as individuals interested in financial information technology. Their services primarily focus on the management, development, and operation of automated information systems in public finance, accounting, taxation, customs, and public procurement. CTIF also provides training courses for professionals in the field of public procurement. The center is committed to transparency and communication with its clients - Data officially taken from Minister Private Information Cloud, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "19fda960-51ec-571a-9bc2-fc29b9029bd4",
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "GOP",
+        "discovered": "2026-07-25 00:50:23.711595",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=bb832c6c-99a5-48b5-a604-526591d752bd",
+        "magnet": null,
+        "screen": "screenshots/qilin/GOP.png",
+        "misp_uuid": "ead13fc6-2ced-5f73-8931-57bfcb0959dc",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "upland.k12.ca.us",
+        "discovered": "2026-07-24 23:52:04.181215",
+        "description": "The district provides comprehensive education from kindergarten through twelfth grade and operates 14 schools, including elementary, junior high, and high …",
+        "link": "/blog/post/uplandk12caus/",
+        "magnet": null,
+        "screen": "screenshots/safepay/uplandk12caus.png",
+        "misp_uuid": "ee49643c-b364-5357-b1cd-3ebc3f8be551",
+        "group_name": "safepay",
+        "sector": "Education"
+    },
+    {
+        "post_title": "gvsurgicalarts.com",
+        "discovered": "2026-07-24 23:52:00.535434",
+        "description": "Founded in 2004 by Dr. Brian R. Chisdak, the practice has grown into one of Montana's leading surgical centers and …",
+        "link": "/blog/post/gvsurgicalartscom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/gvsurgicalartscom.png",
+        "misp_uuid": "81b0a8bc-51f6-5360-bdbf-7c602db115ad",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "ausproof.com.au",
         "discovered": "2026-07-24 22:00:07.398214",
         "description": "+61 749784000 , AusProof is a leader in the design and manufacture of low and high voltage electrical cable couplers specifically for the mining and tunneling industries. Established in 1974, the company is committed to innovation and quality in its product offerings. AusProof serves clients globally, providing reliable solutions for electrical connectivity in challenging environments. Their extensive experience and dedication to research and development ensure that they meet the evolving needs of their customers. Stolen: 460 GB 373,495 Files",
@@ -16,7 +82,7 @@
         "description": "Vinilon Group one of the leading manufacturers and distributors of pipe systems in Indonesia.",
         "link": "https://vinilon.com/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/deadlock/Vinilon.png",
         "misp_uuid": "70e675d7-0206-5d58-b3f6-4847d8d1b512",
         "group_name": "deadlock",
         "sector": "Technology"
@@ -152,71 +218,5 @@
         "misp_uuid": "63155ec7-a774-57ce-8848-3cd1fa9fdd07",
         "group_name": "eraleign (apt73)",
         "sector": "Technology"
-    },
-    {
-        "post_title": "autismuslink.ch",
-        "discovered": "2026-07-24 03:47:49.565372",
-        "description": "",
-        "link": "/blog/disclosures/6a6274345ae71db30c86536e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/autismuslinkch.png",
-        "misp_uuid": "c382c5fd-80a0-5a32-a08f-d750a5ca110b",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Digital Edge",
-        "discovered": "2026-07-24 02:52:14.211458",
-        "description": "Digital Edge is a Managed Services Provider, skilled and accredited with a proven track record for over 20 years, operating exclusively within prime data center facilities enabling Digital Edges Information Security Management System to deliver Enterprise level IT Services conforming with ISO 27001 Information Technology Security Management System Requirements, certified since May 1, 1996. In addition, the company troubleshoot, consult, prepare the company's clients for NIST CSF 800, ISO 27001, SSAE16/SOC2, PCI DDS compliant frameworks and/or legal regulations such as NYS DFS 500, HIPPA, GDPR, PIPEDA or Californias Data Privacy Act, as well as other frameworks, regulations, or contractual requirements. Cloud Engineering services including design, implementation and support for Dedicated Private and Hybrid Cloud environment, Full spectrum IT Support and Outsourcing, 24/7 NOC and SOC Operation, Security Incident Response Team Operation, Business Continuity and Disaster Recovery. Digital - sensitive reports and clients data in risk, reach us, we left note in encrypted devices - Nova Provide tree and samples from stolen data and decrypt sample to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6e815843-dcd3-5769-8dca-b092b90fd920",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Record Go Alquiler",
-        "discovered": "2026-07-23 22:54:31.936452",
-        "description": "",
-        "link": "topic.php?id=A7fY2IwrqDoX9Z",
-        "magnet": null,
-        "screen": "screenshots/play/Record Go Alquiler.png",
-        "misp_uuid": "5bc32694-17ce-5be6-bb44-e68184fca925",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Restaurant Depot",
-        "discovered": "2026-07-23 22:54:30.994419",
-        "description": "",
-        "link": "topic.php?id=nWEZHTyZGbUhJR",
-        "magnet": null,
-        "screen": "screenshots/play/Restaurant Depot.png",
-        "misp_uuid": "c15e9aa2-ba11-57e3-b580-fbade6c645f7",
-        "group_name": "play",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "The DeBruler",
-        "discovered": "2026-07-23 22:54:30.077533",
-        "description": "",
-        "link": "topic.php?id=04jvrERlbg1zWO",
-        "magnet": null,
-        "screen": "screenshots/play/The DeBruler.png",
-        "misp_uuid": "549be9f0-1728-589b-a84b-fbde0c5d1589",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cabincreekhealth.com",
-        "discovered": "2026-07-23 22:54:12.481386",
-        "description": "",
-        "link": "/blog/disclosures/6a62763d5ae71db30c869abb",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cabincreekhealthcom.png",
-        "misp_uuid": "9994ad17-5fca-543a-bfc6-115063072745",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
