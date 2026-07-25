@@ -1,5 +1,126 @@
 [
     {
+        "post_title": "Jubilee Jobs",
+        "discovered": "2026-07-25 15:51:49.265413",
+        "description": "Non-Profit & Charitable Organizations",
+        "link": "/site/blog?uuid=c9ce6a7a-10db-4411-b267-a236127da0e2",
+        "magnet": null,
+        "screen": "screenshots/qilin/Jubilee Jobs.png",
+        "misp_uuid": "c5d353ee-c199-5532-9856-e535ae4af31b",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Plitvička Jezera Nacionalni Park",
+        "discovered": "2026-07-25 15:51:48.353915",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=83576d2f-ca41-4813-bf3d-d8b1b521daf6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Plitvička Jezera Nacionalni Park.png",
+        "misp_uuid": "d8bd2d2d-ae51-5870-b6ac-8769c4f96a8e",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "The Myers Y Cooper",
+        "discovered": "2026-07-25 15:51:47.430459",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=b98eaa24-6c8f-42d6-995b-a76643ad14f8",
+        "magnet": null,
+        "screen": "screenshots/qilin/The Myers Y Cooper.png",
+        "misp_uuid": "f9b39893-e3c8-5009-8b43-9d2014d96560",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Thermalex Inc",
+        "discovered": "2026-07-25 15:51:30.336658",
+        "description": "Thermalex specializes in aluminum extrusion solutions, offering high-efficiency and corrosion-resistant products since 1985. Based in Montgomery, Alabama, the company serves various industries including HVAC, automotive, battery cooling, and industrial applications. With advanced manufacturing systems and a commitment to quality, Thermalex is recognized as a global leader in the aluminum extrusion industry. Their expertise includes the fabrication of microchannel tubes and complex extrusions tailored to meet diverse client needs.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "05d6f995-64ec-5d2b-a1f5-99c620d848dd",
+        "group_name": "kairos",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "A&A Safety 🇺🇸",
+        "discovered": "2026-07-25 15:51:24.849644",
+        "description": "Traffic Control and Road Safety Services.",
+        "link": "/blog/1bdf59dd-3b8b-4543-9d05-5abfb393a41c",
+        "magnet": null,
+        "screen": "screenshots/bravox/A&A Safety 🇺🇸.png",
+        "misp_uuid": "c803d847-7e4d-5244-957e-8ba74eb3b1c0",
+        "group_name": "bravox",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "msgas.com.br",
+        "discovered": "2026-07-25 15:51:23.781761",
+        "description": "customers' personal data, contract information, internal company data:\n http://ucfhnoihzgx4wz4beyzfxnh46cs37r4zbq627xyctykpatruvmghbyqd.onion/s/7f89713825a4376e/",
+        "link": "/blog?uuid=ee9130c7-6a54-352e-8fbe-6d1b882dc7d1",
+        "magnet": null,
+        "screen": "screenshots/blackwater/msgascombr.png",
+        "misp_uuid": "f50fffa4-e67a-5b0d-bdd3-fd3da4e671cb",
+        "group_name": "blackwater",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Principle Diagnostics Laboratory",
+        "discovered": "2026-07-25 14:54:25.707532",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=5179ba1b-2046-4654-854b-eafbce6e6029",
+        "magnet": null,
+        "screen": "screenshots/qilin/Principle Diagnostics Laboratory.png",
+        "misp_uuid": "10831140-3561-58a2-95cb-d164c5359068",
+        "group_name": "qilin",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Guntert & Zimmerman",
+        "discovered": "2026-07-25 13:54:30.423944",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=fe0866f0-5661-4013-be19-98c2a0c1dfc6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Guntert & Zimmerman.png",
+        "misp_uuid": "6e9ea201-7bef-5ef6-9488-5a442b055da8",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Yourway Transportation",
+        "discovered": "2026-07-25 13:54:28.025481",
+        "description": "",
+        "link": "/news.php?id=1",
+        "magnet": null,
+        "screen": "screenshots/money message/Yourway Transportation.png",
+        "misp_uuid": "971098ff-df9d-5a42-af48-5be783f5170f",
+        "group_name": "money message",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "GURR Abdichtungstechnik GmbH",
+        "discovered": "2026-07-25 12:51:43.419386",
+        "description": "Construction",
+        "link": "/site/blog?uuid=51da3302-0532-4b68-b3ba-e2e281c1f263",
+        "magnet": null,
+        "screen": "screenshots/qilin/GURR Abdichtungstechnik GmbH.png",
+        "misp_uuid": "bf1ea262-142c-5286-8130-53e9391d11ce",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "SistNet",
+        "discovered": "2026-07-25 11:52:19.305550",
+        "description": "Sistnet, a division of Sistemi Tre s.r.l., offers comprehensive solutions in Information and Communication Technology, focusing on transforming products into services. Their offerings include advanced security solutions like EDR-X antivirus, networking, unified communication, and internet services such as cloud backup and email. They aim to protect small and medium-sized enterprises from cyber threats, emphasizing the importance of cybersecurity. With a commitment to high-quality service and innovative partnerships, Sistnet provides tailored support and monitoring for their clients - Nova Provide tree and samples from stolen data and decrypt sample to the company when its get in touch with support department.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "bba9328f-147a-5d02-b8b1-0fe02bf9963c",
+        "group_name": "nova",
+        "sector": "Technology"
+    },
+    {
         "post_title": "[cdn] Notification",
         "discovered": "2026-07-25 10:51:47.553426",
         "description": "All CDN mirrors are currently experiencing a service disruption. All files are fully backed up and no data has been lost. At this time we do not have an estimated time of resolution.We are working to restore service promptly and will share updates as they become available.",
@@ -119,104 +240,5 @@
         "misp_uuid": "b48869aa-d471-584b-8d35-eabc10cf8383",
         "group_name": "insomnia",
         "sector": "Legal"
-    },
-    {
-        "post_title": "Metropolitan Construction Systems",
-        "discovered": "2026-07-24 14:49:45.423949",
-        "description": "Leading commercial roofing company based in New York City",
-        "link": "Companies/metropolitanroof",
-        "magnet": null,
-        "screen": "screenshots/pear/Metropolitan Construction Systems.png",
-        "misp_uuid": "b140a0b1-3b11-50ce-af9f-5182f5c649e3",
-        "group_name": "pear",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Emerge2 Digital",
-        "discovered": "2026-07-24 14:49:23.426400",
-        "description": "Emerge2 Digital specializes in providing digital marketing solutions tailored for dealer groups, retailers, distributors, and manufacturers. Since 1980, the company has been dedicated to helping clients enhance their digital presence and connect with more customers through turnkey solutions and managed services.We will upload 30gb of corporate data soon. Employee information (passports and other docs), detailed client information, financials, contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a8fc1cf5-fe90-5642-9589-f8c817118078",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Advanced Marketing",
-        "discovered": "2026-07-24 13:17:34.405556",
-        "description": "advmkt.com.mx zoominfo.com/c/advanced-marketing/546978407 Advanced Marketing is one of Mexico's largest book distribution and publishing companies, founded in 1994. It partners with around 70 national and international publishing houses to supply major retail chains like Gandhi and Porrúa. Additionally, it operates \"AMS Libros,\" an online store selling a wide variety of children's, art, culture, and health books.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "8a35ff5b-c761-5201-97db-1f943e031eca",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Ejército Argentino",
-        "discovered": "2026-07-24 12:59:54.604393",
-        "description": "Government",
-        "link": "/site/blog?uuid=757f6332-ec5a-48e7-8be4-25d31d651506",
-        "magnet": null,
-        "screen": "screenshots/qilin/Ejército Argentino.png",
-        "misp_uuid": "a16f4dc7-9ada-538e-a488-38885a8c9cbe",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Kean University",
-        "discovered": "2026-07-24 12:59:53.692793",
-        "description": "Education",
-        "link": "/site/blog?uuid=9f76650e-5eea-4165-9e20-b375488e9ec6",
-        "magnet": null,
-        "screen": "screenshots/qilin/Kean University.png",
-        "misp_uuid": "5f61f144-64db-53e2-8683-262f4550e8d6",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Highline Community College",
-        "discovered": "2026-07-24 12:59:52.792930",
-        "description": "Education",
-        "link": "/site/blog?uuid=67e53658-cf53-4b9d-a2df-a6b7a9361416",
-        "magnet": null,
-        "screen": "screenshots/qilin/Highline Community College.png",
-        "misp_uuid": "f5006767-061e-524b-a6a1-6c5814f7fdc9",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Stryker",
-        "discovered": "2026-07-24 12:59:51.858019",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=9a5d858f-7849-458c-8762-abd073fbbb0c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Stryker.png",
-        "misp_uuid": "6f3c1d2e-373e-54e5-80b8-2a73df4ed4d5",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ID engineering",
-        "discovered": "2026-07-24 12:59:33.084921",
-        "description": "ID Engineering & Automated Systems is a machine builder and integrator with over 50 years of combined experience, established in 2002. The company specializes i...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "8267193c-c030-5ac6-80f8-2fdfef41e141",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "metrabyte.cloud",
-        "discovered": "2026-07-24 11:59:48.788285",
-        "description": "metrabyte.cloud is the website of Metrabyte Cloud Co., Ltd., a cloud service provider from Thaila...",
-        "link": "/page_company.php?id=182",
-        "magnet": null,
-        "screen": "screenshots/eraleign (apt73)/metrabytecloud.png",
-        "misp_uuid": "63155ec7-a774-57ce-8848-3cd1fa9fdd07",
-        "group_name": "eraleign (apt73)",
-        "sector": "Technology"
     }
 ]
