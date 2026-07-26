@@ -1,5 +1,60 @@
 [
     {
+        "post_title": "West African Resources ltd",
+        "discovered": "2026-07-26 21:56:32.188892",
+        "description": "West African Resources Limited (ASX: WAF) isan Australia-based, mid-tier gold mining and exploration companywith its primary operations located in Burkina Faso, West Africa . Founded in 2006, the company is headquartered in Subiaco, Western Australia, and focuses on the acquisition, development, and mineral processing of high-grade gold assets.",
+        "link": "https://www.westafricanresources.com/",
+        "magnet": null,
+        "screen": "screenshots/deadlock/West African Resources ltd.png",
+        "misp_uuid": "37387d21-acb2-5632-a620-749fdb3c84cd",
+        "group_name": "deadlock",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Caspian One",
+        "discovered": "2026-07-26 21:56:31.236935",
+        "description": "Caspian One is an international provider of IT services and specialist talent for industries such as FinTech investment banking and broadcasting. Based in England the company offers professional recruitment and managed technology solutions and operates in Europe and North America.",
+        "link": "https://www.caspianone.com/",
+        "magnet": null,
+        "screen": "screenshots/deadlock/Caspian One.png",
+        "misp_uuid": "2be2bf16-ea9c-509e-8602-fc41005a221a",
+        "group_name": "deadlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Syntron Bioresearch",
+        "discovered": "2026-07-26 19:54:16.733639",
+        "description": "Syntron Bioresearch, Inc. specializes in manufacturing rapid in vitro diagnostic tests and detection readers, focusing on fertility and over-the-counter tests f...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "d1993a2b-7d53-5d9b-ba03-123103c6f27d",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Deluxe Medical Supply",
+        "discovered": "2026-07-26 19:54:15.807197",
+        "description": "Deluxe Medical Supply is a distributor of healthcare supplies that focuses on delivering quality home healthcare products and services. They provide a wide rang...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "36452b38-3468-5dd6-ad30-05ded03bf6de",
+        "group_name": "dragonforce",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "remco.ca",
+        "discovered": "2026-07-26 17:54:44.172290",
+        "description": "Founded in 1977 and headquartered in Quebec, Canada, Remco is an industry leader in warehousing, transportation and country-wide distribution for the retail industry",
+        "link": "/qWjKrX8C3lSx950XPqTFy6OQYPYPgsWg/remco-ca",
+        "magnet": null,
+        "screen": "screenshots/chaos/remcoca.png",
+        "misp_uuid": "742a1844-570d-5579-963c-78a3158647cf",
+        "group_name": "chaos",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Universitatea de Vest „Vasile Goldiș” din Arad",
         "discovered": "2026-07-26 17:01:16.700243",
         "description": "Education",
