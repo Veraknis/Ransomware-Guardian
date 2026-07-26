@@ -1,5 +1,38 @@
 [
     {
+        "post_title": "healthlawadvocates.org",
+        "discovered": "2026-07-26 04:45:38.404894",
+        "description": "",
+        "link": "/blog/disclosures/6a655dd45ae71db30cdbf8e4",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/healthlawadvocatesorg.png",
+        "misp_uuid": "45e48812-83bb-5e6b-bc80-7b2ef92d3d55",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Brazer Ingenierie",
+        "discovered": "2026-07-25 23:49:27.070015",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=784",
+        "magnet": null,
+        "screen": "screenshots/arcus media/Brazer Ingenierie.png",
+        "misp_uuid": "44e31d69-7404-5a3c-91a4-217bf7e16d41",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Power Moendas",
+        "discovered": "2026-07-25 23:49:26.103998",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=786",
+        "magnet": null,
+        "screen": "screenshots/arcus media/Power Moendas.png",
+        "misp_uuid": "2f7f8f77-19b2-5320-bb23-ee07d8375150",
+        "group_name": "arcus media",
+        "sector": "Energy"
+    },
+    {
         "post_title": "Jubilee Jobs",
         "discovered": "2026-07-25 15:51:49.265413",
         "description": "Non-Profit & Charitable Organizations",
@@ -108,82 +141,5 @@
         "misp_uuid": "bf1ea262-142c-5286-8130-53e9391d11ce",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "SistNet",
-        "discovered": "2026-07-25 11:52:19.305550",
-        "description": "Sistnet, a division of Sistemi Tre s.r.l., offers comprehensive solutions in Information and Communication Technology, focusing on transforming products into services. Their offerings include advanced security solutions like EDR-X antivirus, networking, unified communication, and internet services such as cloud backup and email. They aim to protect small and medium-sized enterprises from cyber threats, emphasizing the importance of cybersecurity. With a commitment to high-quality service and innovative partnerships, Sistnet provides tailored support and monitoring for their clients - Nova Provide tree and samples from stolen data and decrypt sample to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "bba9328f-147a-5d02-b8b1-0fe02bf9963c",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "[cdn] Notification",
-        "discovered": "2026-07-25 10:51:47.553426",
-        "description": "All CDN mirrors are currently experiencing a service disruption. All files are fully backed up and no data has been lost. At this time we do not have an estimated time of resolution.We are working to restore service promptly and will share updates as they become available.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5d8b1664-97bc-565b-9f4c-a148697dd5f9",
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Advantage Sintered Metals",
-        "discovered": "2026-07-25 06:48:46.956101",
-        "description": "If the company does not contact us before 02/08/2026, the data will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7d2cf7c6-8b21-52d3-b3e8-7bb7aae82c2f",
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Center Of Information Technologies In Finance Public Institution",
-        "discovered": "2026-07-25 01:49:19.299473",
-        "description": "Centrul de Tehnologii Informaționale în Finanțe (CTIF) offers a wide range of services and products aimed at legal entities such as public authorities, budget institutions, and economic agents, as well as individuals interested in financial information technology. Their services primarily focus on the management, development, and operation of automated information systems in public finance, accounting, taxation, customs, and public procurement. CTIF also provides training courses for professionals in the field of public procurement. The center is committed to transparency and communication with its clients - Data officially taken from Minister Private Information Cloud, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "19fda960-51ec-571a-9bc2-fc29b9029bd4",
-        "group_name": "nova",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "GOP",
-        "discovered": "2026-07-25 00:50:23.711595",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=bb832c6c-99a5-48b5-a604-526591d752bd",
-        "magnet": null,
-        "screen": "screenshots/qilin/GOP.png",
-        "misp_uuid": "ead13fc6-2ced-5f73-8931-57bfcb0959dc",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "upland.k12.ca.us",
-        "discovered": "2026-07-24 23:52:04.181215",
-        "description": "The district provides comprehensive education from kindergarten through twelfth grade and operates 14 schools, including elementary, junior high, and high …",
-        "link": "/blog/post/uplandk12caus/",
-        "magnet": null,
-        "screen": "screenshots/safepay/uplandk12caus.png",
-        "misp_uuid": "ee49643c-b364-5357-b1cd-3ebc3f8be551",
-        "group_name": "safepay",
-        "sector": "Education"
-    },
-    {
-        "post_title": "gvsurgicalarts.com",
-        "discovered": "2026-07-24 23:52:00.535434",
-        "description": "Founded in 2004 by Dr. Brian R. Chisdak, the practice has grown into one of Montana's leading surgical centers and …",
-        "link": "/blog/post/gvsurgicalartscom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/gvsurgicalartscom.png",
-        "misp_uuid": "81b0a8bc-51f6-5360-bdbf-7c602db115ad",
-        "group_name": "safepay",
-        "sector": "Unknown"
     }
 ]
