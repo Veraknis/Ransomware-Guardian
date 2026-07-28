@@ -1,5 +1,93 @@
 [
     {
+        "post_title": "https://affiniahealthcare.org/",
+        "discovered": "2026-07-28 04:54:35.344682",
+        "description": "Affinia Healthcare",
+        "link": "/post/6a67df3dfbf635b18142d5aa",
+        "magnet": null,
+        "screen": "screenshots/termite/affiniahealthcareorg.png",
+        "misp_uuid": "086ab02b-dad6-5778-b546-cff3717541cc",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "minigrip.com.mx",
+        "discovered": "2026-07-28 04:54:14.885966",
+        "description": "",
+        "link": "/blog/disclosures/6a631e935ae71db30c9b88ce",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/minigripcommx.png",
+        "misp_uuid": "e1a8a7cb-7bca-5327-89f3-f13aa9934fce",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DUCON",
+        "discovered": "2026-07-28 04:54:13.969649",
+        "description": "",
+        "link": "/blog/disclosures/6a6321575ae71db30c9bd08e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/DUCON.png",
+        "misp_uuid": "59182c04-e2ce-55b2-b7cc-48ce79c0ffb6",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "greenecountyga.gov",
+        "discovered": "2026-07-28 04:54:13.054503",
+        "description": "",
+        "link": "/blog/disclosures/6a653b8c5ae71db30cd8266a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/greenecountygagov.png",
+        "misp_uuid": "ad825e62-2aa4-549b-b346-b6fd7232dbcc",
+        "group_name": "inc ransom",
+        "sector": "Government"
+    },
+    {
+        "post_title": "foundationstofreedom.org",
+        "discovered": "2026-07-28 04:54:12.094221",
+        "description": "",
+        "link": "/blog/disclosures/6a65400c5ae71db30cd89b27",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/foundationstofreedomorg.png",
+        "misp_uuid": "5d04d489-ad6d-5b17-94c0-1b5cdd78b385",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Prelys Courtage",
+        "discovered": "2026-07-28 02:21:23.100238",
+        "description": "Client data breach at a major mortgage brokerage franchise.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/BOGek03huSzlB0TMCY82I66nKD5dRABnYIv5H36irQvLQZUKM0W2IQJ4ou2wlY3mgLTSOyJCbAVk4dtnUT6skHlmZThTSTNE",
+        "magnet": null,
+        "screen": "screenshots/anubis/Prelys Courtage.png",
+        "misp_uuid": "ea2e54fe-90cb-5fb2-a25d-827f93310898",
+        "group_name": "anubis",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "https://www.jdyoung.com/",
+        "discovered": "2026-07-28 01:56:21.837653",
+        "description": "JD Young",
+        "link": "/post/6a67df16fbf635b18142d544",
+        "magnet": null,
+        "screen": "screenshots/termite/wwwjdyoungcom.png",
+        "misp_uuid": "f7af8432-fd43-5e05-81bb-05497816d62a",
+        "group_name": "termite",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Coca-Cola / Fairlife",
+        "discovered": "2026-07-27 23:21:07.509001",
+        "description": "Major data breach at company owned by Coca Cola.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/edgdasNuBMBkI5IdPYPuITW13nYTLvxFjHTgv+O27ais7AJu8kddhxe8HSdukgUMxaRR5C7y+OxEqqFEYicS3ozaHdiak1F",
+        "magnet": null,
+        "screen": "screenshots/anubis/Coca-Cola  Fairlife.png",
+        "misp_uuid": "90f280f7-ec9b-53bb-8d2b-7c798f52129d",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
         "post_title": "haugbuersten.de",
         "discovered": "2026-07-27 21:59:04.359334",
         "description": "Although the company in its current industrial form was founded in 1962, its family-owned brush-making tradition dates back to 1836, …",
@@ -361,126 +449,5 @@
         "misp_uuid": "8004cc5b-40f4-5025-81e5-e8aa9bc93b65",
         "group_name": "qilin",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Katathani Phuket Beach Resort",
-        "discovered": "2026-07-27 07:46:50.962474",
-        "description": "Katathani Phuket Beach Resort is a luxury beachfront resort located on Kata Noi Beach in Phuket, Thailand, offering a range of accommodations from suites to fam...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "ffe5fad9-546c-5444-8024-df21406cbba6",
-        "group_name": "dragonforce",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Tesco Engineer",
-        "discovered": "2026-07-27 07:46:49.465277",
-        "description": "Tesco Engineer Co., Ltd. is a Thai construction and manufacturing company based in Bangkok, operating in civil engineering and industrial pipe manufacturing since 1976.",
-        "link": "https://tesco-engineers.com",
-        "magnet": null,
-        "screen": "screenshots/deadlock/Tesco Engineer.png",
-        "misp_uuid": "74b43d86-cd5b-56a7-87cb-43596247a5cf",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Hardware Asesorias Software Ltda",
-        "discovered": "2026-07-27 06:47:38.233514",
-        "description": "Hardware Asesorías Software Ltda (HAS Ltda) is a technology provider based in Bucaramanga, Colombia, specializing in the distribution of hardware and software licenses . The company acts as an official partner for brands such as Apple, Adobe, and HP, serving business customers, government agencies, and engineering firms.",
-        "link": "https://www.hasltda.com/",
-        "magnet": null,
-        "screen": "screenshots/deadlock/Hardware Asesorias Software Ltda.png",
-        "misp_uuid": "ea431890-4f16-5087-b9de-e9d5f9ec1dd3",
-        "group_name": "deadlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "takethehop.com",
-        "discovered": "2026-07-27 03:48:23.280496",
-        "description": "",
-        "link": "/blog/disclosures/6a6277ab5ae71db30c86ca0a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/takethehopcom.png",
-        "misp_uuid": "26603950-bb32-5e91-902c-5015f2b36088",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Williams Accounting Professional",
-        "discovered": "2026-07-27 00:51:11.354785",
-        "description": "A full service CPA firm",
-        "link": "/e1ce50a6e22290f40df6/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Williams Accounting Professional.png",
-        "misp_uuid": "8d20ef85-a4b1-56e9-acd3-42d90460a56a",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "JJP Slip Forming Inc.",
-        "discovered": "2026-07-27 00:51:10.435989",
-        "description": "A company that operates in the Restaurants industry",
-        "link": "/c69e194c2dc7ab12ef4e/",
-        "magnet": null,
-        "screen": "screenshots/genesis/JJP Slip Forming Inc.png",
-        "misp_uuid": "cf3b6719-c4b9-567c-8829-0b0fcc083a16",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Building Envelope Systems",
-        "discovered": "2026-07-27 00:51:09.546005",
-        "description": "A reputable construction company based in Plainville, MA",
-        "link": "/960b5c42eb664129c99d/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Building Envelope Systems.png",
-        "misp_uuid": "c6d3d6d9-d1d5-50ce-a2e3-9f4c5eec4671",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Westlake Realty Group, Inc.",
-        "discovered": "2026-07-27 00:51:08.670864",
-        "description": "A full-service real estate development company",
-        "link": "/8bac6cf38a5a125166bd/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Westlake Realty Group, Inc.png",
-        "misp_uuid": "82c887db-3732-51b4-b5ae-463977c64b46",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Servonix Technologies",
-        "discovered": "2026-07-27 00:51:07.762155",
-        "description": "A provider of IT services",
-        "link": "/326fec030728fd03a27f/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Servonix Technologies.png",
-        "misp_uuid": "80a5f98f-0b5a-5718-8185-f037ac6baff4",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Infinity Pipeline,Inc.",
-        "discovered": "2026-07-27 00:51:06.712643",
-        "description": "A family owned, local construction company.",
-        "link": "/30e4ada54a4c7c042993/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Infinity Pipeline,Inc.png",
-        "misp_uuid": "a8f12448-cf42-5fee-aa0f-5091b4ba3716",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "High Class Car Limo",
-        "discovered": "2026-07-26 22:54:54.478950",
-        "description": "High Class Limousine & Car Service Corp. is a licensed private passenger transportation service in New York City, founded in 1995, specializing in non-emergency medical transportation . The company provides rides to medical appointments, dialysis sessions, and rehabilitation facilities, and has locations in Manhattan and the Bronx.",
-        "link": "https://www.highclasscarlimo.com/",
-        "magnet": null,
-        "screen": "screenshots/deadlock/High Class Car Limo.png",
-        "misp_uuid": "a6069eca-7218-53d8-95db-680716675174",
-        "group_name": "deadlock",
-        "sector": "Healthcare"
     }
 ]
