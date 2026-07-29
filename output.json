@@ -1,5 +1,49 @@
 [
     {
+        "post_title": "Sky Solutions",
+        "discovered": "2026-07-29 17:55:19.511477",
+        "description": "Sky Solutions is a leading distribution company for Telecommunication products and services in Panamá. Currently serving 4 regions in Panama covering +4,000 points of sales; retail chains and supermarkets.",
+        "link": "/Company/SkySolutions/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Sky Solutions.png",
+        "misp_uuid": "40cc8312-1376-5441-9aee-6411101f29b6",
+        "group_name": "insomnia",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Northwood Country Club",
+        "discovered": "2026-07-29 16:54:42.819203",
+        "description": "Northwood Country Club is a private club located in Meridian, Mississippi, known for its beautiful facilities and convenient city location. The club offers a range of amenities including championship golf, clubhouse dining, swimming pool, tennis, and fitness services.We will upload corporate data soon. Employee information (name, home addresses, contacts (emergency ones) and so on), financials, contracts and agreements, etc.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "170d8077-9a93-5926-a30e-48e9a1ea0382",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "StellarRAD Systems",
+        "discovered": "2026-07-29 14:57:41.263733",
+        "description": "Since 1981, StellarRAD Systems exists to solve the critical issues facing our clients, both large and small. We provide a broad range of services and solutions to help telecommunications providers around the world facilitate change and achieve their vision while optimizing performance and productivity. Our unique, customer focused approach ensures a level of service that you will quickly come to appreciate.Our family of GIS products and conversion services provides an industry leading toolset for engineers managing fiber and copper networks, including the ability to import GPS data, manipulate coordinate systems, identify network components with physical and logical connectivity and much more. Do you need all of this information plus the associated subscriber data available to every employee in your organization via desktop, notebook, tablet and smartphone? Done.  -SQL Data-DWG plan-Personal information of employees and clients-Financial documents-APP files\nhttps://www.stellarrad.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/64/stellarrad-systems",
+        "magnet": null,
+        "screen": "screenshots/space bears/StellarRAD Systems.png",
+        "misp_uuid": "9e761cbb-d23e-5369-9b96-3ef46f0c407c",
+        "group_name": "space bears",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tong Kong E & E Sdn Bhd (95907X)",
+        "discovered": "2026-07-29 14:57:16.567346",
+        "description": "<p>It contains sensitive data, including customers and banking records.</p>",
+        "link": "/target/6a6398740a8c566f0817ec22",
+        "magnet": null,
+        "screen": "screenshots/black x/Tong Kong E & E Sdn Bhd (95907X).png",
+        "misp_uuid": "bcd15a3a-6977-5b69-94e5-4b49b78b5a79",
+        "group_name": "black x",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Bretford Manufacturing",
         "discovered": "2026-07-29 10:59:06.782610",
         "description": "Bretford Manufacturing, Inc. is a privately held manufacturer of charging solutions for mobile devices, founded in 1948 and headquartered in Franklin Park, Illinois. With ~60 employees and ~$10M annual revenue, it serves education, healthcare, retail, and government sectors.\n\nThe exposed material includes:\n\nSocial Security Numbers for the entire workforce (current + 200–400 historical employees + dependents) via ACA Census files, 1099 forms, and payroll records spanning 2010–2026.\nCorporate and vendor bank accounts — Bretford's own checking account (routing + account number) plus 26+ vendor bank accounts from NACHA ACH batch files.\nComplete network architecture — VPN gateway IP, internal topology diagram, IP allocation tables, infrastructure inventory, disaster recovery plan, and Active Directory domain name.\n20 years of HR records including medical leave, disability accommodations, drug tests, garnishments, pension, 401(k), insurance enrollment, and termination records.\nComplete product engineering library — SolidWorks CAD files for all products, CNC/laser programs, and manufacturing process documentation.",
