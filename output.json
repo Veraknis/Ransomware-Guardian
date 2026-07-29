@@ -1,5 +1,126 @@
 [
     {
+        "post_title": "Angel Hotel",
+        "discovered": "2026-07-29 22:01:04.893690",
+        "description": "angelpershore.co.uk zoominfo.com/c/angel-hotel/1153643926 The Angel, Pershore is a historic Tudor-origin hotel and restaurant located in the heart of the market town of Pershore, Worcestershire, near the River Avon. It serves as a premier venue offering farm-to-table dining with locally sourced produce, comfortable accommodation, and a charming atmosphere. Beyond hospitality, the establishment is a vibrant community hub, regularly hosting live music, festivals, and popular annual events like Bonfire Night fireworks.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "6426424a-de1d-5a31-b5e2-fe6b4e450a35",
+        "group_name": "the gentlemen",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "The Garfield County Sheriff Office",
+        "discovered": "2026-07-29 22:01:01.015507",
+        "description": "garcosheriff.com The Garfield County Sheriff's Office is the primary law enforcement agency serving Garfield County, Colorado. Its mission is to deliver exceptional service and problem-solving solutions to the community through professional, ethical, and compassionate conduct. The office provides comprehensive public safety services, including patrol, detentions, criminal investigations, and community outreach programs like \"Shop with a Cop\" and emergency mass notifications",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "75070068-7cfc-59ef-ada3-3093ac9c1d13",
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "ETA Technology Pvt",
+        "discovered": "2026-07-29 21:37:47.124352",
+        "description": "etatechnology.in zoominfo.com/c/eta-technology-pvt-ltd/432054929 ETA Technology is a Bangalore-based manufacturing company founded in 1991, specializing in the design and production of advanced welding and forging equipment. They build rotary friction welders, friction stir welding systems, electrical upsetters, and custom test rigs for critical industries like automotive, aerospace, and e-mobility. With over 1,300 machines delivered to more than 20 countries, the company is known for its engineering precision, minimal rejection rates, and reliable global support",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "0ce24eec-1b4a-5015-9d3d-f4b2a8f1a433",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Kontact Consortium India Pvt",
+        "discovered": "2026-07-29 21:37:46.164116",
+        "description": "kontact.in zoominfo.com/c/kontact-consortium-india-pvt-ltd/437934184 Kontact is an Indian engineering company with over 50 years of experience, specializing in electrical and mechanical solutions for the railway, infrastructure, and industrial sectors. They provide end-to-end services, including railway rolling stock supplies, LV/MV power distribution panels, and electrical contracting, backed by a 40,000+ sq. ft. manufacturing facility. The company is recognized for its reliability and quality, holding key international certifications such as ISO 9001, IRIS, and EN 15085-2",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "7ffb2541-93cf-54cd-9a58-0edd51a7a3fb",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Upanal CNC Solutions",
+        "discovered": "2026-07-29 21:37:45.226792",
+        "description": "upanalcnc.com zoominfo.com/c/upanal-cnc-solutions/370526030 Upanal CNC Solutions is an Indian company specializing in advanced metal cutting and metal forming technologies, particularly CNC machinery. Beyond supplying equipment, they provide comprehensive services including machine modernization, 24/7 technical support, and structured training programs for operators and engineers. Headquartered in Bangalore with a technical center in Chennai and an international office in Bahrain, the company serves a trusted network of over 500 clients across various manufacturing industries",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "71147422-8379-5331-8882-ef1879cd078f",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Indus Protech Solutions",
+        "discovered": "2026-07-29 21:37:44.267853",
+        "description": "indusprotech.com zoominfo.com/c/indus-protech-solutions-ltd/1323287130 Indus Protech Solutions is a Chennai-based company specializing in comprehensive bulk MRO (Maintenance, Repair, and Operations) and supply chain services for global trade. Acting as a one-stop sourcing partner, they provide access to over 1.5 million products across 50+ categories, serving diverse sectors like defense, energy, agriculture, and pharmaceuticals. The company connects businesses with global manufacturers, ensuring assured quality, competitive pricing, and streamlined procurement for Fortune 500 companies and large corporate networks",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "86740da9-c5ef-5f40-9d1a-470ea58c72bf",
+        "group_name": "the gentlemen",
+        "sector": "Services"
+    },
+    {
+        "post_title": "Promatrix",
+        "discovered": "2026-07-29 21:28:04.206851",
+        "description": "promatrixcorp.com zoominfo.com/c/promatrix-corp/347777611 Promatrix Corp is a rapidly growing IT consulting and outsourcing company based in New Jersey, USA. They deliver comprehensive global technology solutions, including web application development, managed IT services, and staff augmentation. The company also specializes in enterprise resource planning (SAP) support and HR outsourcing to help businesses optimize their operations and scale efficiently",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "b4ce4642-6018-5baf-8dbb-aacb315da739",
+        "group_name": "the gentlemen",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Malaysian Nuclear Agency",
+        "discovered": "2026-07-29 21:28:00.619915",
+        "description": "nuclearmalaysia.gov.my zoominfo.com/c/malaysian-nuclear-agency/459120141 The Malaysian Nuclear Agency (Nuklear Malaysia) is the leading government research and development organization in nuclear science and technology. It focuses on the peaceful application of nuclear innovations to support national development, including medical radiopharmaceuticals, food security, and industrial safety. Additionally, the agency plays a key role in radiation safety, human resource development, and the responsible management of radioactive waste in the country",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e1271889-0dc7-5579-a485-57282c6bece2",
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Delkart Industries Pvt",
+        "discovered": "2026-07-29 21:27:59.601113",
+        "description": "delkartindustries.com zoominfo.com/c/delkart-industries-pvt-ltd/471455561 Delkart Industries is an Indian manufacturing company established in 2017, specializing in custom felts, automobile carpets, and noise and thermal insulation parts. The company serves the automotive, home appliance, robotics, and industrial sectors with high-quality, customized solutions. With multiple manufacturing plants across India and IATF 16949 / ISO 9001 certifications, it ensures reliability, innovation, and trusted partnerships with leading global brands",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a43d9753-b372-54d8-8e76-188e8d427f74",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "NYC Health + Hospitals: Over 12 Million Patients. Lie to the Senate. Hospital and Mayor's ",
+        "discovered": "2026-07-29 20:59:29.301288",
+        "description": "#NYCHealthHospitals #HealthcareBreach #DataLeak #HIPAA #SenateHELP #Cassidy #Mamdani #CyberSecurity #DataBreach #PatientPrivacy #HIV #MedicalRecords #12MillionNot1Point8 #HealthcareSecurity #2026Breach #NYC #PublicHealth #SenateInvestigation #FalseStatemen",
+        "link": "view_article.php?article=6zd01CbX8MP7FoVPRXTG976JVWtlDsbzjLObbq6qXirDgAnr9Yjk6VEYnv4Urced",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "7e86a176-3400-5d59-997d-883c07d30ad2",
+        "group_name": "leaknet",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "harwal.net",
+        "discovered": "2026-07-29 19:57:32.609414",
+        "description": "",
+        "link": "/blog/disclosures/6a6a24085ae71db30c60bd45",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/harwalnet.png",
+        "misp_uuid": "eb0935ec-ff20-514c-95c1-496b85d03b24",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Sky Solutions",
         "discovered": "2026-07-29 17:55:19.511477",
         "description": "Sky Solutions is a leading distribution company for Telecommunication products and services in Panamá. Currently serving 4 regions in Panama covering +4,000 points of sales; retail chains and supermarkets.",
@@ -75,126 +196,5 @@
         "misp_uuid": "921e7786-4ea9-535a-beb8-8fa56a5ec15c",
         "group_name": "qilin",
         "sector": "Transportation"
-    },
-    {
-        "post_title": "Accesso NEW",
-        "discovered": "2026-07-28 20:51:15.127433",
-        "description": "Financial Software - $152.3 Million",
-        "link": "/companies/accesso",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Accesso NEW.png",
-        "misp_uuid": "0ffb1832-8d2b-5fba-a6e7-6ce050813966",
-        "group_name": "coinbase cartel",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "thecranewaregroup.com",
-        "discovered": "2026-07-28 19:44:10.553905",
-        "description": "Craneware’s Public Deception: The Reality Behind the 'Non-Sensitive' Data Breach\n\nRecent public statements and regulatory filings by UK health-tech firm Craneware claim that the massive cyber-attack they suffered only exposed \"non-sensitive or already public regulatory data.\" They would have the s…",
-        "link": "/Lnaz3mOuC1dFtiWC5q9mSzZLNPTEVysa/thecranewaregroup-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/thecranewaregroupcom.png",
-        "misp_uuid": "6bc5221d-32e0-5312-9c7a-178249022ba8",
-        "group_name": "chaos",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Buck Knives",
-        "discovered": "2026-07-28 19:26:03.300807",
-        "description": "buckknives.com zoominfo.com/c/buck-knives-inc/16223110 Buck Knives is a historic American knife manufacturer founded in 1947 by Hoyt Buck, originating from a family blacksmith business dedicated to superior steel tempering. The brand revolutionized the knife industry in 1964 with the introduction of the iconic Model 110 Folding Hunter. Now headquartered in Post Falls, Idaho, this four-generation family company is renowned for its rugged durability, traditional American craftsmanship, and a lifetime \"Forever Warranty\"",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5fa63003-00d8-5a50-89bf-55b4a11f9a0e",
-        "group_name": "the gentlemen",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gran valle negocios",
-        "discovered": "2026-07-28 19:01:10.249121",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=a830d214-9f13-4708-8f06-bf1c3021c973",
-        "magnet": null,
-        "screen": "screenshots/qilin/Gran valle negocios.png",
-        "misp_uuid": "05a7f714-b1f9-5a2f-9bf5-046402749168",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Della Casa Group AG",
-        "discovered": "2026-07-28 19:00:51.376526",
-        "description": "",
-        "link": "/blog/disclosures/6a6774db5ae71db30c14ce5b",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Della Casa Group AG.png",
-        "misp_uuid": "0a3bc46b-d100-5341-bd51-cda703f60086",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://eclmn.com/",
-        "discovered": "2026-07-28 19:00:50.454448",
-        "description": "",
-        "link": "/blog/disclosures/6a68b1555ae71db30c37c6c4",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/eclmncom.png",
-        "misp_uuid": "74cdd3fc-24c8-50ef-ac4c-72b5565b75f6",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Takis srl",
-        "discovered": "2026-07-28 19:00:47.738022",
-        "description": "Takis Biotech is an Italian biotechnology company founded in 2009 and headquartered in Rome. The company specializes in contract research (R&D services), preclinical immunology, and the development of genetic vaccines and therapeutic antibodies.",
-        "link": "",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "51ae3c4a-1cfc-5b1a-9191-daa79849934b",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DIATER",
-        "discovered": "2026-07-28 19:00:46.837048",
-        "description": "(Laboratorio de Diagnóstico y Aplicaciones Terapéuticas, SA), a Spanish biopharmaceutical company founded in 1999 and headquartered in Madrid.The company specializes in the research, development and manufacture of products for allergy diagnostics and allergen immunotherapy (ASIT).",
-        "link": "https://diater.com/en",
-        "magnet": null,
-        "screen": "screenshots/deadlock/DIATER.png",
-        "misp_uuid": "2666de3c-68c9-5fef-9e96-fe03e27caa39",
-        "group_name": "deadlock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Pasello",
-        "discovered": "2026-07-28 19:00:45.918992",
-        "description": "Pasello Trattamenti Termici Srl , an Italian specialist company for the heat treatment of metal alloys.",
-        "link": "",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7d51b9a0-68e8-5317-8b5b-1fd6403ad9c2",
-        "group_name": "deadlock",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "B-K Tool & Design",
-        "discovered": "2026-07-28 19:00:44.635198",
-        "description": "Founded in 1981, B-K Tool & Design has transformed from a small machine shop into a turn-key automation solutions provider, operating from an 80,000 square foot facility in Kalida, Ohio. The company specializes in designing and building cost-effective equipment to replace inefficient processes, offering a range of services including electrical and mechanical engineering, control integration, and custom machine fabrication. Their product lines feature hot plate welding, high-speed projection welding, and other custom machines tailored to client needs. B-K Tool & Design serves a diverse customer base that relies on their expertise for both new and existing designs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6e17d2ee-ee71-58dd-a446-abc0d540b7c3",
-        "group_name": "cmd organization",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Franz Krause artworksgroup",
-        "discovered": "2026-07-28 19:00:40.861119",
-        "description": "Franz Krause artworksgroup is a streamlined agency that leverages extensive experience in mediaand event management to deliver high-quality services while maintaining budget efficiency. Thecompany emphasizes strong relationships and a commitment to client satisfaction. We will upload 81gb of corporate data soon. Employee information, detailed client information, financials, contracts and agreements, NDAs, confidential files, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0f006d22-d2bd-58d2-973a-62f1464fe12d",
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
