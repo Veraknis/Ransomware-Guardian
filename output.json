@@ -1,5 +1,38 @@
 [
     {
+        "post_title": "Bretford Manufacturing",
+        "discovered": "2026-07-29 10:59:06.782610",
+        "description": "Bretford Manufacturing, Inc. is a privately held manufacturer of charging solutions for mobile devices, founded in 1948 and headquartered in Franklin Park, Illinois. With ~60 employees and ~$10M annual revenue, it serves education, healthcare, retail, and government sectors.\n\nThe exposed material includes:\n\nSocial Security Numbers for the entire workforce (current + 200–400 historical employees + dependents) via ACA Census files, 1099 forms, and payroll records spanning 2010–2026.\nCorporate and vendor bank accounts — Bretford's own checking account (routing + account number) plus 26+ vendor bank accounts from NACHA ACH batch files.\nComplete network architecture — VPN gateway IP, internal topology diagram, IP allocation tables, infrastructure inventory, disaster recovery plan, and Active Directory domain name.\n20 years of HR records including medical leave, disability accommodations, drug tests, garnishments, pension, 401(k), insurance enrollment, and termination records.\nComplete product engineering library — SolidWorks CAD files for all products, CNC/laser programs, and manufacturing process documentation.",
+        "link": "/blog/bretford-manufacturing-b4537780",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "3ee23dcc-8ff1-54d7-97ac-f75ddbf9166a",
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "AHENK lab",
+        "discovered": "2026-07-29 04:00:35.011579",
+        "description": "Ahenk Laboratuvarı is an ISO 15189-accredited medical laboratory in Turkey, founded in 1998 and located in Istanbul-Şişli. The company offers services in clinical biochemistry, microbiology, pathology, and genetics, and collaborates with Limbach Laboratories in Germany.",
+        "link": "https://www.ahenklab.com.tr/",
+        "magnet": null,
+        "screen": "screenshots/deadlock/AHENK lab.png",
+        "misp_uuid": "978b7ba6-689b-5bb5-b5f9-7b635ad92cb9",
+        "group_name": "deadlock",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Hoc",
+        "discovered": "2026-07-29 01:59:21.140185",
+        "description": "Freight & Logistics Services",
+        "link": "/site/blog?uuid=7c2d8a4e-d317-43bb-9d60-257266a55f49",
+        "magnet": null,
+        "screen": "screenshots/qilin/Hoc.png",
+        "misp_uuid": "921e7786-4ea9-535a-beb8-8fa56a5ec15c",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Accesso NEW",
         "discovered": "2026-07-28 20:51:15.127433",
         "description": "Financial Software - $152.3 Million",
@@ -118,94 +151,6 @@
         "screen": null,
         "misp_uuid": "0f006d22-d2bd-58d2-973a-62f1464fe12d",
         "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "https://affiniahealthcare.org/",
-        "discovered": "2026-07-28 04:54:35.344682",
-        "description": "Affinia Healthcare",
-        "link": "/post/6a67df3dfbf635b18142d5aa",
-        "magnet": null,
-        "screen": "screenshots/termite/affiniahealthcareorg.png",
-        "misp_uuid": "086ab02b-dad6-5778-b546-cff3717541cc",
-        "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "minigrip.com.mx",
-        "discovered": "2026-07-28 04:54:14.885966",
-        "description": "",
-        "link": "/blog/disclosures/6a631e935ae71db30c9b88ce",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/minigripcommx.png",
-        "misp_uuid": "e1a8a7cb-7bca-5327-89f3-f13aa9934fce",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DUCON",
-        "discovered": "2026-07-28 04:54:13.969649",
-        "description": "",
-        "link": "/blog/disclosures/6a6321575ae71db30c9bd08e",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/DUCON.png",
-        "misp_uuid": "59182c04-e2ce-55b2-b7cc-48ce79c0ffb6",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "greenecountyga.gov",
-        "discovered": "2026-07-28 04:54:13.054503",
-        "description": "",
-        "link": "/blog/disclosures/6a653b8c5ae71db30cd8266a",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/greenecountygagov.png",
-        "misp_uuid": "ad825e62-2aa4-549b-b346-b6fd7232dbcc",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "foundationstofreedom.org",
-        "discovered": "2026-07-28 04:54:12.094221",
-        "description": "",
-        "link": "/blog/disclosures/6a65400c5ae71db30cd89b27",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/foundationstofreedomorg.png",
-        "misp_uuid": "5d04d489-ad6d-5b17-94c0-1b5cdd78b385",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Prelys Courtage",
-        "discovered": "2026-07-28 02:21:23.100238",
-        "description": "Client data breach at a major mortgage brokerage franchise.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/BOGek03huSzlB0TMCY82I66nKD5dRABnYIv5H36irQvLQZUKM0W2IQJ4ou2wlY3mgLTSOyJCbAVk4dtnUT6skHlmZThTSTNE",
-        "magnet": null,
-        "screen": "screenshots/anubis/Prelys Courtage.png",
-        "misp_uuid": "ea2e54fe-90cb-5fb2-a25d-827f93310898",
-        "group_name": "anubis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "https://www.jdyoung.com/",
-        "discovered": "2026-07-28 01:56:21.837653",
-        "description": "JD Young",
-        "link": "/post/6a67df16fbf635b18142d544",
-        "magnet": null,
-        "screen": "screenshots/termite/wwwjdyoungcom.png",
-        "misp_uuid": "f7af8432-fd43-5e05-81bb-05497816d62a",
-        "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Coca-Cola / Fairlife",
-        "discovered": "2026-07-27 23:21:07.509001",
-        "description": "Major data breach at company owned by Coca Cola.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/edgdasNuBMBkI5IdPYPuITW13nYTLvxFjHTgv+O27ais7AJu8kddhxe8HSdukgUMxaRR5C7y+OxEqqFEYicS3ozaHdiak1F",
-        "magnet": null,
-        "screen": "screenshots/anubis/Coca-Cola  Fairlife.png",
-        "misp_uuid": "90f280f7-ec9b-53bb-8d2b-7c798f52129d",
-        "group_name": "anubis",
         "sector": "Technology"
     }
 ]
