@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "Sonitor Technologies",
+        "discovered": "2026-07-30 16:57:22.486191",
+        "description": "Sonitor’s platform and technologies deliver the accurate and reliable data required to optimize care delivery",
+        "link": "Companies/sonitor",
+        "magnet": null,
+        "screen": "screenshots/pear/Sonitor Technologies.png",
+        "misp_uuid": "e587721f-24d4-5edd-87b9-a0cc6edbfdc2",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Contact Group",
+        "discovered": "2026-07-30 16:57:02.513397",
+        "description": "Contact Group is a proudly Tasmanian company specializing in building services and multi-technology solutions. They offer award-winning services across various divisions, including electrical and communications, HVAC-R, infrastructure, fire, technology, security, plumbing, and facilities maintenance, ensuring a high-quality customer experience. Their intended clients span multiple sectors such as commercial, government, healthcare, education, and more. With over 35 years of experience, Contact Group is committed to excellence and sustainability in their operations.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "fbfa1f5e-dc7a-502d-9fd1-da0e47a27910",
+        "group_name": "cmd organization",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Cenizas",
+        "discovered": "2026-07-30 16:18:26.354648",
+        "description": "cenizas.cl zoominfo.com/c/cenizas/430439098 Grupo Minero Las Cenizas, a prominent medium-scale mining company in Chile with over four decades of industry experience. The company specializes in the production of copper fines and cathodes. Its main mining operations and facilities are strategically located in Cabildo, Taltal, and Franke, Chile",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "eaa83bde-fee2-5260-970e-d82e1e93e53f",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Db Tarimsal Enerji",
+        "discovered": "2026-07-30 14:52:04.181842",
+        "description": "Chemicals & Related Products",
+        "link": "/site/blog?uuid=307ffce1-021d-4e41-88d8-2e860203c0d0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Db Tarimsal Enerji.png",
+        "misp_uuid": "0f1ea123-2ec5-5a80-ab42-e864ce74e028",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TenSparrows",
+        "discovered": "2026-07-30 14:52:02.239318",
+        "description": "Software",
+        "link": "/site/blog?uuid=208dc842-462f-4698-8012-4c775d4230af",
+        "magnet": null,
+        "screen": "screenshots/qilin/TenSparrows.png",
+        "misp_uuid": "6e1b7859-c1ef-5c17-beca-13c27b41ebde",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "sslf.local",
+        "discovered": "2026-07-30 14:51:44.613658",
+        "description": "",
+        "link": "/blog/disclosures/6a6b426a5ae71db30c84c336",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/sslflocal.png",
+        "misp_uuid": "47630a4b-f961-53f9-84c6-28c062b1ea60",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Byonyks",
         "discovered": "2026-07-30 11:56:14.472503",
         "description": "Manufacturing",
@@ -555,49 +621,5 @@
         "misp_uuid": "eb0935ec-ff20-514c-95c1-496b85d03b24",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Sky Solutions",
-        "discovered": "2026-07-29 17:55:19.511477",
-        "description": "Sky Solutions is a leading distribution company for Telecommunication products and services in Panamá. Currently serving 4 regions in Panama covering +4,000 points of sales; retail chains and supermarkets.",
-        "link": "/Company/SkySolutions/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Sky Solutions.png",
-        "misp_uuid": "40cc8312-1376-5441-9aee-6411101f29b6",
-        "group_name": "insomnia",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Northwood Country Club",
-        "discovered": "2026-07-29 16:54:42.819203",
-        "description": "Northwood Country Club is a private club located in Meridian, Mississippi, known for its beautiful facilities and convenient city location. The club offers a range of amenities including championship golf, clubhouse dining, swimming pool, tennis, and fitness services.We will upload corporate data soon. Employee information (name, home addresses, contacts (emergency ones) and so on), financials, contracts and agreements, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "170d8077-9a93-5926-a30e-48e9a1ea0382",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "StellarRAD Systems",
-        "discovered": "2026-07-29 14:57:41.263733",
-        "description": "Since 1981, StellarRAD Systems exists to solve the critical issues facing our clients, both large and small. We provide a broad range of services and solutions to help telecommunications providers around the world facilitate change and achieve their vision while optimizing performance and productivity. Our unique, customer focused approach ensures a level of service that you will quickly come to appreciate.Our family of GIS products and conversion services provides an industry leading toolset for engineers managing fiber and copper networks, including the ability to import GPS data, manipulate coordinate systems, identify network components with physical and logical connectivity and much more. Do you need all of this information plus the associated subscriber data available to every employee in your organization via desktop, notebook, tablet and smartphone? Done.  -SQL Data-DWG plan-Personal information of employees and clients-Financial documents-APP files\nhttps://www.stellarrad.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/64/stellarrad-systems",
-        "magnet": null,
-        "screen": "screenshots/space bears/StellarRAD Systems.png",
-        "misp_uuid": "9e761cbb-d23e-5369-9b96-3ef46f0c407c",
-        "group_name": "space bears",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Tong Kong E & E Sdn Bhd (95907X)",
-        "discovered": "2026-07-29 14:57:16.567346",
-        "description": "<p>It contains sensitive data, including customers and banking records.</p>",
-        "link": "/target/6a6398740a8c566f0817ec22",
-        "magnet": null,
-        "screen": "screenshots/black x/Tong Kong E & E Sdn Bhd (95907X).png",
-        "misp_uuid": "bcd15a3a-6977-5b69-94e5-4b49b78b5a79",
-        "group_name": "black x",
-        "sector": "Technology"
     }
 ]
