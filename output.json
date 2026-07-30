@@ -1,5 +1,82 @@
 [
     {
+        "post_title": "MAG USA Inc",
+        "discovered": "2026-07-30 21:54:37.026402",
+        "description": "If the company does not contact us before 10/08/2026 the data will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "73c07115-fa7f-5319-a5d3-16033c37d0d3",
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "https://straightperformance.de/",
+        "discovered": "2026-07-30 19:34:48.913456",
+        "description": "Revenue: 2 million | Views: 16727 | Posted: 6/28/2026, 10:31:51 PM | Status: Leaked",
+        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a413e678b37a93648b56ce3?page=1",
+        "magnet": null,
+        "screen": "screenshots/unsafe/straightperformancede.png",
+        "misp_uuid": "351f07af-6162-50c7-a103-e8213c01fbb1",
+        "group_name": "unsafe",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Deutsche Bank",
+        "discovered": "2026-07-30 19:34:48.023598",
+        "description": "Revenue: 30 billion | Views: 17629 | Posted: 7/4/2026, 6:15:19 PM | Status: Leaked",
+        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a48eb478b37a93648b56d3e?page=1",
+        "magnet": null,
+        "screen": "screenshots/unsafe/Deutsche Bank.png",
+        "misp_uuid": "e9abf2ac-cbfd-5629-8508-dfd268fa8b7c",
+        "group_name": "unsafe",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "CCR Solutions",
+        "discovered": "2026-07-30 19:34:47.084901",
+        "description": "Revenue: 41 million | Views: 9012 | Posted: 7/20/2026, 2:30:10 AM | Status: Leaked",
+        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a5d25c28b37a93648b56e2a?page=1",
+        "magnet": null,
+        "screen": "screenshots/unsafe/CCR Solutions.png",
+        "misp_uuid": "1254411c-7f23-52c7-b1e5-bb76314fed87",
+        "group_name": "unsafe",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jiva Health",
+        "discovered": "2026-07-30 19:34:46.181149",
+        "description": "Revenue: 9 million | Views: 6037 | Posted: 7/25/2026, 4:21:02 AM | Status: Leaked",
+        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a63d73e8b37a93648b56ecc?page=1",
+        "magnet": null,
+        "screen": "screenshots/unsafe/Jiva Health.png",
+        "misp_uuid": "69ee9f02-f1dc-5545-baaa-147c7cc6efe4",
+        "group_name": "unsafe",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "PARTNERED HEALTH GROUP",
+        "discovered": "2026-07-30 19:00:12.288230",
+        "description": "",
+        "link": "/blog/disclosures/6a6b75a95ae71db30c8b0b19",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/PARTNERED HEALTH GROUP.png",
+        "misp_uuid": "4c7f2168-d69f-5524-a85b-f799c09459d2",
+        "group_name": "inc ransom",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Las Cenizas",
+        "discovered": "2026-07-30 18:15:13.451001",
+        "description": "cenizas.cl zoominfo.com/c/cenizas/430439098 Grupo Minero Las Cenizas, a prominent medium-scale mining company in Chile with over four decades of industry experience. The company specializes in the production of copper fines and cathodes. Its main mining operations and facilities are strategically located in Cabildo, Taltal, and Franke, Chile",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "019a7cfd-9120-5029-b7a9-abe5e5e57595",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Sonitor Technologies",
         "discovered": "2026-07-30 16:57:22.486191",
         "description": "Sonitor’s platform and technologies deliver the accurate and reliable data required to optimize care delivery",
@@ -500,126 +577,5 @@
         "misp_uuid": "55fe9b73-ac69-581b-b6f3-534c3338cc7b",
         "group_name": "morpheus",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Angel Hotel",
-        "discovered": "2026-07-29 22:01:04.893690",
-        "description": "angelpershore.co.uk zoominfo.com/c/angel-hotel/1153643926 The Angel, Pershore is a historic Tudor-origin hotel and restaurant located in the heart of the market town of Pershore, Worcestershire, near the River Avon. It serves as a premier venue offering farm-to-table dining with locally sourced produce, comfortable accommodation, and a charming atmosphere. Beyond hospitality, the establishment is a vibrant community hub, regularly hosting live music, festivals, and popular annual events like Bonfire Night fireworks.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6426424a-de1d-5a31-b5e2-fe6b4e450a35",
-        "group_name": "the gentlemen",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "The Garfield County Sheriff Office",
-        "discovered": "2026-07-29 22:01:01.015507",
-        "description": "garcosheriff.com The Garfield County Sheriff's Office is the primary law enforcement agency serving Garfield County, Colorado. Its mission is to deliver exceptional service and problem-solving solutions to the community through professional, ethical, and compassionate conduct. The office provides comprehensive public safety services, including patrol, detentions, criminal investigations, and community outreach programs like \"Shop with a Cop\" and emergency mass notifications",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "75070068-7cfc-59ef-ada3-3093ac9c1d13",
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "ETA Technology Pvt",
-        "discovered": "2026-07-29 21:37:47.124352",
-        "description": "etatechnology.in zoominfo.com/c/eta-technology-pvt-ltd/432054929 ETA Technology is a Bangalore-based manufacturing company founded in 1991, specializing in the design and production of advanced welding and forging equipment. They build rotary friction welders, friction stir welding systems, electrical upsetters, and custom test rigs for critical industries like automotive, aerospace, and e-mobility. With over 1,300 machines delivered to more than 20 countries, the company is known for its engineering precision, minimal rejection rates, and reliable global support",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0ce24eec-1b4a-5015-9d3d-f4b2a8f1a433",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Kontact Consortium India Pvt",
-        "discovered": "2026-07-29 21:37:46.164116",
-        "description": "kontact.in zoominfo.com/c/kontact-consortium-india-pvt-ltd/437934184 Kontact is an Indian engineering company with over 50 years of experience, specializing in electrical and mechanical solutions for the railway, infrastructure, and industrial sectors. They provide end-to-end services, including railway rolling stock supplies, LV/MV power distribution panels, and electrical contracting, backed by a 40,000+ sq. ft. manufacturing facility. The company is recognized for its reliability and quality, holding key international certifications such as ISO 9001, IRIS, and EN 15085-2",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7ffb2541-93cf-54cd-9a58-0edd51a7a3fb",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Upanal CNC Solutions",
-        "discovered": "2026-07-29 21:37:45.226792",
-        "description": "upanalcnc.com zoominfo.com/c/upanal-cnc-solutions/370526030 Upanal CNC Solutions is an Indian company specializing in advanced metal cutting and metal forming technologies, particularly CNC machinery. Beyond supplying equipment, they provide comprehensive services including machine modernization, 24/7 technical support, and structured training programs for operators and engineers. Headquartered in Bangalore with a technical center in Chennai and an international office in Bahrain, the company serves a trusted network of over 500 clients across various manufacturing industries",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "71147422-8379-5331-8882-ef1879cd078f",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Indus Protech Solutions",
-        "discovered": "2026-07-29 21:37:44.267853",
-        "description": "indusprotech.com zoominfo.com/c/indus-protech-solutions-ltd/1323287130 Indus Protech Solutions is a Chennai-based company specializing in comprehensive bulk MRO (Maintenance, Repair, and Operations) and supply chain services for global trade. Acting as a one-stop sourcing partner, they provide access to over 1.5 million products across 50+ categories, serving diverse sectors like defense, energy, agriculture, and pharmaceuticals. The company connects businesses with global manufacturers, ensuring assured quality, competitive pricing, and streamlined procurement for Fortune 500 companies and large corporate networks",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "86740da9-c5ef-5f40-9d1a-470ea58c72bf",
-        "group_name": "the gentlemen",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Promatrix",
-        "discovered": "2026-07-29 21:28:04.206851",
-        "description": "promatrixcorp.com zoominfo.com/c/promatrix-corp/347777611 Promatrix Corp is a rapidly growing IT consulting and outsourcing company based in New Jersey, USA. They deliver comprehensive global technology solutions, including web application development, managed IT services, and staff augmentation. The company also specializes in enterprise resource planning (SAP) support and HR outsourcing to help businesses optimize their operations and scale efficiently",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "b4ce4642-6018-5baf-8dbb-aacb315da739",
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Malaysian Nuclear Agency",
-        "discovered": "2026-07-29 21:28:00.619915",
-        "description": "nuclearmalaysia.gov.my zoominfo.com/c/malaysian-nuclear-agency/459120141 The Malaysian Nuclear Agency (Nuklear Malaysia) is the leading government research and development organization in nuclear science and technology. It focuses on the peaceful application of nuclear innovations to support national development, including medical radiopharmaceuticals, food security, and industrial safety. Additionally, the agency plays a key role in radiation safety, human resource development, and the responsible management of radioactive waste in the country",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e1271889-0dc7-5579-a485-57282c6bece2",
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Delkart Industries Pvt",
-        "discovered": "2026-07-29 21:27:59.601113",
-        "description": "delkartindustries.com zoominfo.com/c/delkart-industries-pvt-ltd/471455561 Delkart Industries is an Indian manufacturing company established in 2017, specializing in custom felts, automobile carpets, and noise and thermal insulation parts. The company serves the automotive, home appliance, robotics, and industrial sectors with high-quality, customized solutions. With multiple manufacturing plants across India and IATF 16949 / ISO 9001 certifications, it ensures reliability, innovation, and trusted partnerships with leading global brands",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a43d9753-b372-54d8-8e76-188e8d427f74",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "NYC Health + Hospitals: Over 12 Million Patients. Lie to the Senate. Hospital and Mayor's ",
-        "discovered": "2026-07-29 20:59:29.301288",
-        "description": "#NYCHealthHospitals #HealthcareBreach #DataLeak #HIPAA #SenateHELP #Cassidy #Mamdani #CyberSecurity #DataBreach #PatientPrivacy #HIV #MedicalRecords #12MillionNot1Point8 #HealthcareSecurity #2026Breach #NYC #PublicHealth #SenateInvestigation #FalseStatemen",
-        "link": "view_article.php?article=6zd01CbX8MP7FoVPRXTG976JVWtlDsbzjLObbq6qXirDgAnr9Yjk6VEYnv4Urced",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7e86a176-3400-5d59-997d-883c07d30ad2",
-        "group_name": "leaknet",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "harwal.net",
-        "discovered": "2026-07-29 19:57:32.609414",
-        "description": "",
-        "link": "/blog/disclosures/6a6a24085ae71db30c60bd45",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/harwalnet.png",
-        "misp_uuid": "eb0935ec-ff20-514c-95c1-496b85d03b24",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
