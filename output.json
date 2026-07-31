@@ -1,5 +1,27 @@
 [
     {
+        "post_title": "Community Management Associates",
+        "discovered": "2026-07-31 21:51:18.850489",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=f41423ae-b437-4003-b28f-3d40d41be288",
+        "magnet": null,
+        "screen": "screenshots/qilin/Community Management Associates.png",
+        "misp_uuid": "db05f7e5-e25a-5529-b562-93afaac1c4ae",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Lamont Pridmore",
+        "discovered": "2026-07-31 18:47:19.123071",
+        "description": "Lamont Pridmore is a leading independent chartered accountancy practice based in Carlisle, Cumbria, and Lancashire, offering a comprehensive range of accountanc...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "ff3a7934-3115-5b3a-adee-84ecaf914f5e",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Gardiner Family Chiropractic",
         "discovered": "2026-07-31 17:48:19.122658",
         "description": "https://www.gardinerfamilychiropractic.com/\n\t\t\t\t\t\t\t\t\tGardiner Family Chiropractic has been providing medical services to residents of Gardiner and the surrounding area since 1989. However, it is not responsible for its patients and makes no attempt to ensure the security of its stored information. Therefore, patient data, client records, medical histories, and internal company financial information have been compromised and are being made available to you.",
@@ -16,7 +38,7 @@
         "description": "A healthcare organization",
         "link": "/8134b54f8d2622fd7303/",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/genesis/****.png",
         "misp_uuid": "245c1ceb-b55d-5744-a68d-576b68773b26",
         "group_name": "genesis",
         "sector": "Nonprofit"
@@ -657,72 +679,6 @@
         "screen": "screenshots/gammax/AguAseo.png",
         "misp_uuid": "6a35872c-445d-555e-aaa0-e1346f7d0a15",
         "group_name": "gammax",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "MAG USA Inc",
-        "discovered": "2026-07-30 21:54:37.026402",
-        "description": "If the company does not contact us before 10/08/2026 the data will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "73c07115-fa7f-5319-a5d3-16033c37d0d3",
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "https://straightperformance.de/",
-        "discovered": "2026-07-30 19:34:48.913456",
-        "description": "Revenue: 2 million | Views: 16727 | Posted: 6/28/2026, 10:31:51 PM | Status: Leaked",
-        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a413e678b37a93648b56ce3?page=1",
-        "magnet": null,
-        "screen": "screenshots/unsafe/straightperformancede.png",
-        "misp_uuid": "351f07af-6162-50c7-a103-e8213c01fbb1",
-        "group_name": "unsafe",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Deutsche Bank",
-        "discovered": "2026-07-30 19:34:48.023598",
-        "description": "Revenue: 30 billion | Views: 17629 | Posted: 7/4/2026, 6:15:19 PM | Status: Leaked",
-        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a48eb478b37a93648b56d3e?page=1",
-        "magnet": null,
-        "screen": "screenshots/unsafe/Deutsche Bank.png",
-        "misp_uuid": "e9abf2ac-cbfd-5629-8508-dfd268fa8b7c",
-        "group_name": "unsafe",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CCR Solutions",
-        "discovered": "2026-07-30 19:34:47.084901",
-        "description": "Revenue: 41 million | Views: 9012 | Posted: 7/20/2026, 2:30:10 AM | Status: Leaked",
-        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a5d25c28b37a93648b56e2a?page=1",
-        "magnet": null,
-        "screen": "screenshots/unsafe/CCR Solutions.png",
-        "misp_uuid": "1254411c-7f23-52c7-b1e5-bb76314fed87",
-        "group_name": "unsafe",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Jiva Health",
-        "discovered": "2026-07-30 19:34:46.181149",
-        "description": "Revenue: 9 million | Views: 6037 | Posted: 7/25/2026, 4:21:02 AM | Status: Leaked",
-        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a63d73e8b37a93648b56ecc?page=1",
-        "magnet": null,
-        "screen": "screenshots/unsafe/Jiva Health.png",
-        "misp_uuid": "69ee9f02-f1dc-5545-baaa-147c7cc6efe4",
-        "group_name": "unsafe",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "PARTNERED HEALTH GROUP",
-        "discovered": "2026-07-30 19:00:12.288230",
-        "description": "",
-        "link": "/blog/disclosures/6a6b75a95ae71db30c8b0b19",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/PARTNERED HEALTH GROUP.png",
-        "misp_uuid": "4c7f2168-d69f-5524-a85b-f799c09459d2",
-        "group_name": "inc ransom",
         "sector": "Healthcare"
     }
 ]
