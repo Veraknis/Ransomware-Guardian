@@ -1,5 +1,27 @@
 [
     {
+        "post_title": "Merritt Woodwork",
+        "discovered": "2026-07-31 22:51:35.640051",
+        "description": "Merritt provides strategic interior solutions for global estates and superyachts, from concept to execution. With precision planning and careful craftsmanship, it partners with top designers and craftsmen to deliver unparalleled results for generations.",
+        "link": "/Company/Merrit/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Merritt Woodwork.png",
+        "misp_uuid": "707ce0e4-64be-5ea6-81a6-568a1b1717d3",
+        "group_name": "insomnia",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Laempe Reich",
+        "discovered": "2026-07-31 22:51:34.703304",
+        "description": "Laempe Reich is North America’s leading foundry core machine supplier, providing sand core equipment and technology for metal casting. As partner of Laempe Mössner Sinto, it serves the industry for over 80 years.",
+        "link": "/Company/Laempereich/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/Laempe Reich.png",
+        "misp_uuid": "4dcb769f-de25-5f13-b197-d09a26ac4758",
+        "group_name": "insomnia",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Community Management Associates",
         "discovered": "2026-07-31 21:51:18.850489",
         "description": "Real Estate",
@@ -614,71 +636,5 @@
         "misp_uuid": "70ef044c-f19c-5e5a-ba6b-373953db69e7",
         "group_name": "the gentlemen",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Audio Precision, Inc",
-        "discovered": "2026-07-31 01:59:36.912521",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=f37de6ed-24ab-4da1-b31f-9d1ea5fd2727",
-        "magnet": null,
-        "screen": "screenshots/qilin/Audio Precision, Inc.png",
-        "misp_uuid": "c7f4247e-2e01-5d24-9259-d7af5ca187e6",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Boyum IT Solutions (HOT!)",
-        "discovered": "2026-07-31 01:59:19.302689",
-        "description": "A provider of IT services",
-        "link": "/79f095d5b182ce93bae4/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Boyum IT Solutions (HOT!).png",
-        "misp_uuid": "efee2999-5350-5b94-8fb8-28deb3bb083d",
-        "group_name": "genesis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "C.A. Walker Construction",
-        "discovered": "2026-07-31 01:59:18.385446",
-        "description": "A construction management company",
-        "link": "/55f3f0d90d424055e955/",
-        "magnet": null,
-        "screen": "screenshots/genesis/CA Walker Construction.png",
-        "misp_uuid": "cb1c8cf2-84d4-54a4-a09c-ae2d73f614a1",
-        "group_name": "genesis",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "BLUEVISTALLC.COM",
-        "discovered": "2026-07-31 00:36:35.035587",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/clop/BLUEVISTALLCCOM.png",
-        "misp_uuid": "37f1cb8a-c1d4-5c4b-b332-c1fbd555be61",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "RE/MAX 1st Choice",
-        "discovered": "2026-07-30 23:38:24.479007",
-        "description": "RE/MAX 1st Choice Florida was established in 2005 and is managed by Katy and John Martinelli, who serve as the owners and operators and hold the company's shares. The owners, having worked extensively in the real estate industry and being deeply familiar with the South Florida market, have gained significant experience in residential and commercial property sales, client relations, and brokerage management. They have also collaborated with various agents, investors, and developers as both consultants and strategists. They have operated in the real estate sector, participating in numerous transactions and executing successful marketing and sales campaigns across Broward and Palm Beach counties.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/gammax/REMAX 1st Choice.png",
-        "misp_uuid": "c98ef6a2-24be-5776-b880-3c145bd722ac",
-        "group_name": "gammax",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AguAseo",
-        "discovered": "2026-07-30 23:37:59.221684",
-        "description": "AguAseo is a Panamanian organization dedicated to maintaining cleanliness in the province of Colón. It provides solid waste collection and cleaning of public spaces, serving the entire province through organized routes and established service schedules across all 15 corregimientos. The service focuses on efficiency and reliability, with accessible support for homes, businesses, and institutions. AguAseo operates with its own collection fleet and uses specialized equipment designed to handle different types of collection needs. With a close, service-oriented approach, AguAseo offers local customer attention and reinforces its ongoing commitment to community health and environmental care—positioning AguAseo as a dependable option for consistent waste collection and public-area cleaning.",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/gammax/AguAseo.png",
-        "misp_uuid": "6a35872c-445d-555e-aaa0-e1346f7d0a15",
-        "group_name": "gammax",
-        "sector": "Healthcare"
     }
 ]
