@@ -31,49 +31,5 @@
         "misp_uuid": "4dcb769f-de25-5f13-b197-d09a26ac4758",
         "group_name": "insomnia",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Community Management Associates",
-        "discovered": "2026-07-31 21:51:18.850489",
-        "description": "Real Estate",
-        "link": "/site/blog?uuid=f41423ae-b437-4003-b28f-3d40d41be288",
-        "magnet": null,
-        "screen": "screenshots/qilin/Community Management Associates.png",
-        "misp_uuid": "db05f7e5-e25a-5529-b562-93afaac1c4ae",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Lamont Pridmore",
-        "discovered": "2026-07-31 18:47:19.123071",
-        "description": "Lamont Pridmore is a leading independent chartered accountancy practice based in Carlisle, Cumbria, and Lancashire, offering a comprehensive range of accountanc...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "ff3a7934-3115-5b3a-adee-84ecaf914f5e",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Gardiner Family Chiropractic",
-        "discovered": "2026-07-31 17:48:19.122658",
-        "description": "https://www.gardinerfamilychiropractic.com/\n\t\t\t\t\t\t\t\t\tGardiner Family Chiropractic has been providing medical services to residents of Gardiner and the surrounding area since 1989. However, it is not responsible for its patients and makes no attempt to ensure the security of its stored information. Therefore, patient data, client records, medical histories, and internal company financial information have been compromised and are being made available to you.",
-        "link": "http://5igtvs225ikh2svqvf7zkanyica5jz5p5db44fg2rwj7ifyjipvyimid.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Gardiner Family Chiropractic.png",
-        "misp_uuid": "d693d023-bc77-537d-984c-0f63263ae231",
-        "group_name": "interlock",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "****",
-        "discovered": "2026-07-31 17:48:17.072049",
-        "description": "A healthcare organization",
-        "link": "/8134b54f8d2622fd7303/",
-        "magnet": null,
-        "screen": "screenshots/genesis/****.png",
-        "misp_uuid": "245c1ceb-b55d-5744-a68d-576b68773b26",
-        "group_name": "genesis",
-        "sector": "Nonprofit"
     }
 ]
