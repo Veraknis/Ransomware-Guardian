@@ -9,27 +9,5 @@
         "misp_uuid": "b01de84c-5c66-55ce-a57a-f1e07a198ea6",
         "group_name": "the gentlemen",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Merritt Woodwork",
-        "discovered": "2026-07-31 22:51:35.640051",
-        "description": "Merritt provides strategic interior solutions for global estates and superyachts, from concept to execution. With precision planning and careful craftsmanship, it partners with top designers and craftsmen to deliver unparalleled results for generations.",
-        "link": "/Company/Merrit/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Merritt Woodwork.png",
-        "misp_uuid": "707ce0e4-64be-5ea6-81a6-568a1b1717d3",
-        "group_name": "insomnia",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Laempe Reich",
-        "discovered": "2026-07-31 22:51:34.703304",
-        "description": "Laempe Reich is North America’s leading foundry core machine supplier, providing sand core equipment and technology for metal casting. As partner of Laempe Mössner Sinto, it serves the industry for over 80 years.",
-        "link": "/Company/Laempereich/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/Laempe Reich.png",
-        "misp_uuid": "4dcb769f-de25-5f13-b197-d09a26ac4758",
-        "group_name": "insomnia",
-        "sector": "Manufacturing"
     }
 ]
