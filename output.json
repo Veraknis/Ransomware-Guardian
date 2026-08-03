@@ -1,5 +1,38 @@
 [
     {
+        "post_title": "Winn-Dixie",
+        "discovered": "2026-08-03 21:21:46.351908",
+        "description": "Inside a multibillion-dollar retail giant.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/wvOEih7m+Tf599zsStaXU1yRskZw5HT6zjXXAUGJMYq20GkboGqr4On4jOxutE4Z8dg8RAN5Fhf2Mj1PdUTWRJRnJuYjJH",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "73f5b316-a4b4-56c7-a908-368fbbfbae9d",
+        "group_name": "anubis",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "BLACKBURN'S",
+        "discovered": "2026-08-03 21:21:45.416957",
+        "description": "Major home healthcare provider data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/hfDLeO6xZ4jmk5AWhpsnRrMuiPkYcZKs4htoe6Ho8pfKEQbLmAaM4ovMYFKh7sVffACO4H02oyhVuDd2sEGViM2dCSUx1",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a186873a-6988-5c2f-8dce-77abbcc47bb1",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cameron Regional Medical Center",
+        "discovered": "2026-08-03 21:21:44.475111",
+        "description": "Patient and employee data breach at a healthcare provider.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/usUR8TUlfLeHFYPPN5JwVWTYmPzxSTnEcXbNRRhwUUEirKTfvCinYbJW32928eNb6n7YzOIQ3b4KNa1+yq7dEVrcXFBcmox",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "f664ff6b-3240-5553-929d-2790698c6d71",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "PCL Holding",
         "discovered": "2026-08-03 17:33:21.660699",
         "description": "",
@@ -229,16 +262,5 @@
         "misp_uuid": "b8454a8c-dc8f-57bb-9af6-7ba9bb2feba5",
         "group_name": "inc ransom",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Mairie de Drancy",
-        "discovered": "2026-08-02 20:55:19.944305",
-        "description": "Government",
-        "link": "/site/blog?uuid=1277b405-d795-4d1d-bae9-7bd745f18c79",
-        "magnet": null,
-        "screen": "screenshots/qilin/Mairie de Drancy.png",
-        "misp_uuid": "aa2ffa6e-dc3c-5933-8e02-650071fbb223",
-        "group_name": "qilin",
-        "sector": "Government"
     }
 ]
