@@ -1,5 +1,203 @@
 [
     {
+        "post_title": "TopMark Funding",
+        "discovered": "2026-08-04 17:12:45.140262",
+        "description": "topmarkfunding.com zoominfo.com/c/topmark-funding-llc/368696312 TopMark Funding is a nationwide commercial financing company specializing in fast funding solutions for semi-trucks, trailers, and heavy construction equipment. Headquartered in California, they help trucking and construction businesses acquire machinery ranging from $25,000 to $500,000. The company is recognized for providing quick approvals, flexible terms, and risk-free quotes without impacting the client's credit score",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "fc659d02-521d-5553-a660-8456b24115cb",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Control Concepts Technology",
+        "discovered": "2026-08-04 17:12:44.131350",
+        "description": "controlconceptstexas.com zoominfo.com/c/control-concepts--technology/356919279 Control Concepts is a Texas-based industrial automation and electronics repair company established in 1984. They specialize in servicing, repairing, and installing AC/DC motor drives, PLCs, and industrial motor controls. Operating as a certified UL508a Panel Shop, the company also provides 24-hour emergency service, system upgrades, and custom automation solutions",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "2a9e9126-2880-5119-930e-69c6f789d1b5",
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Bjs Insurance & Financial",
+        "discovered": "2026-08-04 16:36:41.242438",
+        "description": "BJS Insurance Services, Inc. was established upon two underlying principles that continue to define the company today.... Integrity and Stability. We're all about Service, we just do what we say we're going to do. We listen to our clients and suggest what plans fit your needs and budget.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Bjs Insurance & Financial.png",
+        "misp_uuid": "89a51882-87ac-5063-9527-cdecc5afae28",
+        "group_name": "orova",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Wisdom Oral Surgery",
+        "discovered": "2026-08-04 16:34:48.012628",
+        "description": "Wisdom Oral Surgery, located in Fair Lawn, NJ, specializes in a wide range of oral surgery services including dental implants, wisdom teeth extractions, bone grafting, and facial trauma care. The clinic is dedicated to providing exceptional patient comfort and care, utilizing advanced technology for accurate diagnoses and treatments.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Wisdom Oral Surgery.png",
+        "misp_uuid": "c637abdf-4fe0-5c98-ae77-242830b6048f",
+        "group_name": "orova",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "SURE TRAVEL COMPANY",
+        "discovered": "2026-08-04 16:34:26.808783",
+        "description": "SURE TRAVEL COMPANY LIMITED was incorporated on 24-JAN-2000 as a Private company limited by shares registered in Hong Kong.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/SURE TRAVEL COMPANY.png",
+        "misp_uuid": "d354094f-0486-59f8-a271-a9fc39f3a9ad",
+        "group_name": "orova",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Cardiology Associates",
+        "discovered": "2026-08-04 16:33:49.485578",
+        "description": "Serving the community for over 45 years, Cardiology Associates of Port Huron, P.C. offers the latest in cardiac procedures and technology, helping our qualified physicians to detect and provide comprehensive treatment for a wide variety of adult heart and artery conditions.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Cardiology Associates.png",
+        "misp_uuid": "bb20cdc4-378d-577b-983d-6478c23675ea",
+        "group_name": "orova",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Yost Home Improvements",
+        "discovered": "2026-08-04 16:17:29.447335",
+        "description": "Yost Home Improvements is a family-owned exterior remodeling and construction company based in Waterford, Connecticut, serving the southeastern CT region for over 50 years. They specialize in installing vinyl siding, windows, doors, gutters, roofing, and sunrooms.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Yost Home Improvements.png",
+        "misp_uuid": "1b9f01f4-8587-5b8e-a526-218a3afb7626",
+        "group_name": "orova",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "KINGSSON",
+        "discovered": "2026-08-04 16:17:00.377156",
+        "description": "Manufacturing\r\nCompany URL\r\nOpen https://www.kingsson.com.tw/ in a new tab|\r\nJul 23, 2026\r\n9,851 files|\r\n12.30 GB|\r\nWatch Data\r\nOpen watch data link for KINGSSON in a new tab\r\n\r\nKINGSSON primarily operates as an OEM/ODM manufacturer, supplying customized security sealing products under customers' own brands. The company markets mainly to distributors and industrial customers rather than retail consumers.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/KINGSSON.png",
+        "misp_uuid": "11bba6d3-3766-541a-88e4-23ea2f398c44",
+        "group_name": "orova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SSI HOLDING (FAR EAST) LIMITED",
+        "discovered": "2026-08-04 16:16:14.492278",
+        "description": "AIMING at streamlining all aspects of business, procuring excellent quality of management and strengthening connexion of our well established affilated companies, S.S.I. Holding (Far East) Limited was found in November of 1995 with association of Simex Sport GmbH, a German base corporation of over 30 years experience in sport related business when inception.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/SSI HOLDING (FAR EAST) LIMITED.png",
+        "misp_uuid": "1c28064f-efd7-59bd-b9d2-9cd3c58817b7",
+        "group_name": "orova",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Sanrio Hong Kong Co., Ltd",
+        "discovered": "2026-08-04 16:15:01.431625",
+        "description": "Retail\r\nCompany URL\r\nOpen https://www.sanrio.com.hk/ in a new tab|\r\nJul 29, 2026\r\n19,610 files|\r\n42.00 GB|\r\nWatch Data\r\nOpen watch data link for Sanrio Hong Kong Co., Ltd in a new tab\r\n\r\nSanrio is the global lifestyle brand best known for Hello Kitty who was created in 1974, and home to many other beloved character brands such as My Melody, Kuromi, Little Twin Stars, Cinnamoroll, Pompompurin, gudetama, Aggretsuko, Chococat, Bad Badtz-Maru and Kerokerokeroppi.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Sanrio Hong Kong Co, Ltd.png",
+        "misp_uuid": "41ea54f2-3d90-5bf1-adea-6b61f36d5d2d",
+        "group_name": "orova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tat Fung Textile Co., Ltd.",
+        "discovered": "2026-08-04 16:14:07.273373",
+        "description": "Tat Fung Textile Co., Ltd.\r\nManufacturing\r\nCompany URL\r\nOpen https://www.tatfung-tex.com/ in a new tab|\r\nAug 1, 2026\r\n110,238 files|\r\n92.20 GB|\r\nWatch Data\r\nOpen watch data link for Tat Fung Textile Co., Ltd. in a new tab\r\n\r\nTat Fung & Panther Denim is a premium woven, denim, and print fabric mill established in 1986. The company specializes in producing high-quality denim and print fabrics, focusing on sustainability and innovation.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Tat Fung Textile Co, Ltd.png",
+        "misp_uuid": "3be2e93b-f6f8-5211-8b80-8f6c712a5a06",
+        "group_name": "orova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Integrated Site Management",
+        "discovered": "2026-08-04 16:13:36.018517",
+        "description": "Real Estate\r\nCompany URL\r\nOpen https://www.ism-sc.com/ in a new tab|\r\nAug 2, 2026\r\n76,758 files|\r\n15.90 GB|\r\nWatch Data\r\nOpen watch data link for Integrated Site Management in a new tab\r\n\r\nIntegrated Site Management is a full service site consulting company with our foundation reinforced by developing partnerships with clients, vendors & suppliers. Partnerships built from professionalism, honesty, integrity, respect, and open communication. Integrated Site Management listens, researches, identifies, and then provides solutions for our clients needs.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/orova/Integrated Site Management.png",
+        "misp_uuid": "9139f9dd-16c7-5f41-8ec4-f4f9c1e0337f",
+        "group_name": "orova",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Conceptual Designs, Inc.",
+        "discovered": "2026-08-04 16:11:18.208212",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/orova/Conceptual Designs, Inc.png",
+        "misp_uuid": "e8a18097-eacf-5df6-be78-2b05f7fe0bc2",
+        "group_name": "orova",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "JK Capital Management Limited",
+        "discovered": "2026-08-04 16:10:30.503221",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/orova/Hong Kong JK Capital Management Limited.png",
+        "misp_uuid": "f0bf57dd-f486-5481-bf15-11734a0619b4",
+        "group_name": "orova",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Global Friction Products, Inc",
+        "discovered": "2026-08-04 16:07:03.977521",
+        "description": "",
+        "link": "",
+        "magnet": "",
+        "screen": "screenshots/orova/United States Global Friction Products, Inc.png",
+        "misp_uuid": "90302708-5b16-5eae-920c-cc5279ef4490",
+        "group_name": "orova",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "WD Masonry & Concrete",
+        "discovered": "2026-08-04 15:32:17.287853",
+        "description": "Construction",
+        "link": "/site/blog?uuid=27ce89ea-880f-403b-b134-77994baad834",
+        "magnet": null,
+        "screen": "screenshots/qilin/WD Masonry & Concrete.png",
+        "misp_uuid": "6a8cd3d3-ee90-57f8-8b91-eca239ad07ef",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "US Installation Group, Inc.",
+        "discovered": "2026-08-04 13:46:04.201573",
+        "description": "Founded by Bruce DeLuca in Boca Raton, Florida, USIG operates through 15+ legal entities under MRS Holdings, performing over 100,000 installations annually across 33 markets in 14 states.",
+        "link": "/blog/us-installation-group-inc-c666ddd2",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "86e95af3-1729-57be-82f8-8dd994f8bc22",
+        "group_name": "aurora",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "GILDE Handwerk Macrander GmbH & Co. KG",
+        "discovered": "2026-08-04 13:46:01.419738",
+        "description": "GILDE Handwerk Macrander GmbH & Co. KG is a family-owned German Mittelstand group headquartered in Bocholt, Nordrhein-Westfalen. The GILDE Gruppe operates across wholesale trade in gifts, home accessories, and furniture through brands including GILDE Handwerk, Fink Living, and HAKU Möbel, with 50+ legal entities spanning Germany, Austria, the Netherlands, France, the UK, and Hong Kong.\n\nThe exposed material includes:\n\n<censored>\n148+ personal ID document scans — Personalausweise (national ID cards), Reispässe (passports), Führerscheine (driver's licences), and Heiratsurkunden (marriage certificates) for employees, directors, and family members. Names range from warehouse staff to the CEO.\nELSTER tax certificates for 50+ entities — the digital keys for filing tax returns with the German Finanzamt, plus personal certificates for directors and family members. Enables fraudulent VAT returns and income tax filings.\n<censored>\nFull employee payroll records (2006–2025) — tax IDs (Steuer-IDs), social security numbers, bank accounts, salary details, sick notes (Krankmeldungen), and disciplinary records for an estimated 200–400 current and 200–500 former employees across all entities.\n20 years of consolidated financial records — balance sheets, P&L statements, bank reconciliations, loan documentation, shareholder agreements, and capital contribution records for the entire group from 2004 to 2025.\n1,800+ Access databases — inventory valuations, customer lists, supplier terms, product pricing, and order history spanning the entire commercial operation.",
+        "link": "/blog/gilde-handwerk-macrander-gmbh-co-kg-bc41d805",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "6125b54a-c5ee-526e-ac1e-12d3eb7db9fc",
+        "group_name": "aurora",
+        "sector": "Finance"
+    },
+    {
         "post_title": "clintonhealthaccess.org",
         "discovered": "2026-08-04 05:45:55.736847",
         "description": "",
@@ -196,49 +394,5 @@
         "misp_uuid": "f664ff6b-3240-5553-929d-2790698c6d71",
         "group_name": "anubis",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "PCL Holding",
-        "discovered": "2026-08-03 17:33:21.660699",
-        "description": "",
-        "link": "/r/f6f65115ec051af06829450763071a69fb9c21c0",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/PCL Holding.png",
-        "misp_uuid": "db146519-8793-519b-8d97-ef04ca1bfdc8",
-        "group_name": "ransomhouse",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "[DISCLOSED]Fidelity Services Group",
-        "discovered": "2026-08-03 17:33:20.802948",
-        "description": "",
-        "link": "/r/06f7d45e0c97a87e0473d0f5a3eab706044f22b1",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]Fidelity Services Group.png",
-        "misp_uuid": "7da094bd-576f-59d0-a11f-48d3ad750731",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Belasco Electric",
-        "discovered": "2026-08-03 17:32:56.297791",
-        "description": "Belasco Electric is a reliable electrical service provider based in Muskegon, Michigan, catering to both residential and commercial clients. They offer a wide range of services including emergency generator systems, fire alarm security systems, HVAC wiring, and EV installation.We will upload 16gb corporate data soon. Employee information (name, home addresses, passport, SSN, DL numbers, photos, credit card scans and so on), financials, contracts and agreements, NDA, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5a854f18-90f4-5045-8f24-9b5767c10547",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Albers Mechanical Contractors",
-        "discovered": "2026-08-03 17:32:55.159073",
-        "description": "Albers Mechanical Contractors specializes in custom fabrication, welding, stainless steel fabrication, and dust collection HVAC solutions. With over 54 years of experience, they provide design and on-site consultations, positioning themselves as leaders in facility solutions.We will upload 30gb corporate data soon. Employee information, financials, contracts and agreements, NDA, customers information, etc.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "2c9b3abc-d8ca-574d-8379-9d166a783e30",
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
