@@ -1,5 +1,126 @@
 [
     {
+        "post_title": "lantisnet.com",
+        "discovered": "2026-08-05 03:29:44.005323",
+        "description": "",
+        "link": "/blog/disclosures/6a6fb5629cd108bf26e205ca",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/lantisnetcom.png",
+        "misp_uuid": "b18340c7-8ac0-575f-9b81-b976025fcccd",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Galvin Brothers",
+        "discovered": "2026-08-05 01:46:48.667164",
+        "description": "Civil Engineering Construction",
+        "link": "/site/blog?uuid=122f4c66-e1e6-4c10-b68b-4224681d3d8c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Galvin Brothers.png",
+        "misp_uuid": "6578fee7-aeb5-57f0-bb68-645a580f3384",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "RUPP Spritzguss",
+        "discovered": "2026-08-05 01:46:47.733998",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=7d3f7328-c23f-4a74-a9ec-35bfe6c4cfc7",
+        "magnet": null,
+        "screen": "screenshots/qilin/RUPP Spritzguss.png",
+        "misp_uuid": "1ec6284f-2a1f-558e-a562-fcbfcbdaa8f7",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "First Tek",
+        "discovered": "2026-08-05 01:46:46.499401",
+        "description": "",
+        "link": "topic.php?id=02Wdfxsv6gbx6",
+        "magnet": null,
+        "screen": "screenshots/play/First Tek.png",
+        "misp_uuid": "e296c416-0ab5-589e-a834-d6a1d417b870",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Preferred Financial Group",
+        "discovered": "2026-08-05 01:46:45.549474",
+        "description": "",
+        "link": "topic.php?id=viSDXILZNN4WA",
+        "magnet": null,
+        "screen": "screenshots/play/Preferred Financial Group.png",
+        "misp_uuid": "6d93e427-8238-5157-a359-7cee955c29fb",
+        "group_name": "play",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "H****r",
+        "discovered": "2026-08-05 01:46:44.423142",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "9a922afa-cdaf-5a64-bd8c-1f5052ebd016",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cesmac.edu.br",
+        "discovered": "2026-08-05 01:46:24.613766",
+        "description": "Centro Universitário CESMAC (CESMAC University Center) is the largest private higher education institution in the state...",
+        "link": "/blog/98034986f71e8a5131e7280b8b7c57546b838f6e5a11d9f1424929837cc56b23/",
+        "magnet": null,
+        "screen": "screenshots/krybit/cesmacedubr.png",
+        "misp_uuid": "40249722-e8d3-56b9-9e89-6b11f6868aa3",
+        "group_name": "krybit",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Loyalist College",
+        "discovered": "2026-08-05 01:46:21.642865",
+        "description": "",
+        "link": "/blog/disclosures/6a70f8179cd108bf2610d332",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Loyalist College.png",
+        "misp_uuid": "af073e7a-f55b-5312-9f0e-9f2e3024a717",
+        "group_name": "inc ransom",
+        "sector": "Education"
+    },
+    {
+        "post_title": "TRULITE GLASS & ALUMINUM SOLUTIONS",
+        "discovered": "2026-08-05 01:46:19.502198",
+        "description": "",
+        "link": "/blog/disclosures/6a72219f9cd108bf2638cb21",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/TRULITE GLASS & ALUMINUM SOLUTIONS.png",
+        "misp_uuid": "073ecf02-4396-505b-b15b-8193ee37362c",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Keysight",
+        "discovered": "2026-08-05 01:46:17.676665",
+        "description": "2 posts - 1h",
+        "link": "/news/keysight",
+        "magnet": null,
+        "screen": "screenshots/everest/Keysight.png",
+        "misp_uuid": "779e79b2-e56b-5120-82e1-0470ecc98867",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "healthcarehighways.com",
+        "discovered": "2026-08-05 01:46:11.317260",
+        "description": "WARNING / DATA LEAK NOTICE\n\n    Target: Healthcare Highways (healthcarehighways.com)\n    Countdown: 24 Hours\n\n    If corporate representatives do not establish contact via chat within the next 24 hours, a massive internal data cache comprising 235 GB of sensitive company and client records will be p…",
+        "link": "/NBZQmQoAPXmW7Qw5eSuW98OqyQAmLjgv/healthcarehighways-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/healthcarehighwayscom.png",
+        "misp_uuid": "88f0e360-fff4-5768-8cef-42948038d72c",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
         "post_title": "TopMark Funding",
         "discovered": "2026-08-04 17:12:45.140262",
         "description": "topmarkfunding.com zoominfo.com/c/topmark-funding-llc/368696312 TopMark Funding is a nationwide commercial financing company specializing in fast funding solutions for semi-trucks, trailers, and heavy construction equipment. Headquartered in California, they help trucking and construction businesses acquire machinery ranging from $25,000 to $500,000. The company is recognized for providing quick approvals, flexible terms, and risk-free quotes without impacting the client's credit score",
@@ -196,170 +317,5 @@
         "misp_uuid": "6125b54a-c5ee-526e-ac1e-12d3eb7db9fc",
         "group_name": "aurora",
         "sector": "Finance"
-    },
-    {
-        "post_title": "clintonhealthaccess.org",
-        "discovered": "2026-08-04 05:45:55.736847",
-        "description": "",
-        "link": "/blog/disclosures/6a713ccd9cd108bf261acf63",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/clintonhealthaccessorg.png",
-        "misp_uuid": "f25de3cb-0e72-5778-a3cc-3eb918b87b7a",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pushidrosal.id",
-        "discovered": "2026-08-04 05:45:55.730102",
-        "description": "",
-        "link": "/blog/disclosures/6a7152689cd108bf261e08da",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/pushidrosalid.png",
-        "misp_uuid": "bd5db22e-ecdc-5e36-8641-d406e12e48bf",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "lccgroup.com",
-        "discovered": "2026-08-04 05:45:54.829528",
-        "description": "",
-        "link": "/blog/disclosures/6a7152ea9cd108bf261e1d04",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/lccgroupcom.png",
-        "misp_uuid": "c8878b1e-7290-5edf-a295-8358a83573c5",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "https://geleximco.vn/",
-        "discovered": "2026-08-04 05:45:54.823981",
-        "description": "",
-        "link": "/blog/disclosures/6a7153669cd108bf261e30d1",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/geleximcovn.png",
-        "misp_uuid": "e5986969-ccb5-5c58-91ad-41346cff11ad",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "azn.co.jp",
-        "discovered": "2026-08-04 01:41:05.682392",
-        "description": "Founded in 1991, the company specializes in comprehensive asset management, inheritance planning, business succession consulting, real estate advisory services, and …",
-        "link": "/blog/post/azncojp/",
-        "magnet": null,
-        "screen": "screenshots/safepay/azncojp.png",
-        "misp_uuid": "8df9db60-0c12-58ef-9af7-7a7267de9f86",
-        "group_name": "safepay",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "southshorerecycling.com",
-        "discovered": "2026-08-04 01:41:04.907253",
-        "description": "The company specializes in metal recycling, concrete and asphalt recycling, aggregate production, and construction waste processing for commercial, industrial, and …",
-        "link": "/blog/post/southshorerecyclingcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/southshorerecyclingcom.png",
-        "misp_uuid": "c67bee84-b4a0-5bcd-9182-e2a830e5951e",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "cpu-ag.com",
-        "discovered": "2026-08-04 01:41:04.804666",
-        "description": "Founded in 1981 and headquartered in Friedberg, Bavaria, the company has more than four decades of experience developing specialized software …",
-        "link": "/blog/post/cpu-agcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/cpu-agcom.png",
-        "misp_uuid": "91e824de-a4ac-5f75-a74f-7c5d42abf54d",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "multiaqua.com",
-        "discovered": "2026-08-04 01:41:04.784926",
-        "description": "Founded in 1999, the company specializes in the design, engineering, and production of air-cooled water chillers, heat pump chillers, hydronic …",
-        "link": "/blog/post/multiaquacom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/multiaquacom.png",
-        "misp_uuid": "ccbd271e-d04e-55c7-8deb-0ac55cbec6ac",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "pradotuylaw.com",
-        "discovered": "2026-08-04 01:41:03.349390",
-        "description": "The firm focuses on practice areas including personal injury, wrongful death, workplace harassment, business litigation, civil settlements, and environmental litigation. …",
-        "link": "/blog/post/pradotuylawcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/pradotuylawcom.png",
-        "misp_uuid": "5c624130-d7ad-55f2-a832-e9dc5731de9e",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "naskdoorinc.com",
-        "discovered": "2026-08-04 01:41:02.681572",
-        "description": "Headquartered in West Chester, Pennsylvania, the company has served customers throughout southeastern Pennsylvania and northern Delaware for several decades. Although …",
-        "link": "/blog/post/naskdoorinccom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/naskdoorinccom.png",
-        "misp_uuid": "8e9cd3fd-60b3-5452-a272-e18277e13dc5",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "new-point.it",
-        "discovered": "2026-08-04 01:41:01.441727",
-        "description": "Headquartered in Signa, Florence, Italy, the company was founded in 2006 and has grown into one of Italy's established suppliers …",
-        "link": "/blog/post/new-pointit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/new-pointit.png",
-        "misp_uuid": "dd3f0f3a-bb50-5019-a79e-077171ea7ac5",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "simonrack.com",
-        "discovered": "2026-08-04 01:41:00.521308",
-        "description": "Headquartered in Alfamén, Zaragoza, Spain, the company has been manufacturing metal shelving since 1964 and has become one of Europe's …",
-        "link": "/blog/post/simonrackcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/simonrackcom.png",
-        "misp_uuid": "b4640526-4da0-5b3d-ac34-2f76b9c69f18",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "hanan-hov.co.il",
-        "discovered": "2026-08-04 01:40:59.653121",
-        "description": "Headquartered in Neve Yamin, Israel, the company provides comprehensive logistics support for construction, infrastructure, industrial, and commercial projects throughout the …",
-        "link": "/blog/post/hanan-hovcoil/",
-        "magnet": null,
-        "screen": "screenshots/safepay/hanan-hovcoil.png",
-        "misp_uuid": "44a044e8-d7f8-508e-8733-af0a2664923a",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Service Electric",
-        "discovered": "2026-08-04 01:40:56.764092",
-        "description": "Software",
-        "link": "/site/blog?uuid=066255b9-7ece-46f1-952d-b7d1c5cdb806",
-        "magnet": null,
-        "screen": "screenshots/qilin/Service Electric.png",
-        "misp_uuid": "baa6bbd9-d1c3-52bb-83f7-738c6b85d503",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Universitatea De Vest Vasile Goldi Din Arad",
-        "discovered": "2026-08-04 01:40:55.787639",
-        "description": "Education",
-        "link": "/site/blog?uuid=46c8aeeb-a905-4da9-a0ad-0401db795e12",
-        "magnet": null,
-        "screen": "screenshots/qilin/Universitatea De Vest Vasile Goldi Din Arad.png",
-        "misp_uuid": "74d3d5ac-6a5b-50f4-ba5d-9332c972b4c8",
-        "group_name": "qilin",
-        "sector": "Education"
     }
 ]
