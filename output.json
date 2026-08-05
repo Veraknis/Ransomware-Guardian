@@ -1,5 +1,82 @@
 [
     {
+        "post_title": "Mera Metal",
+        "discovered": "2026-08-05 20:35:35.244901",
+        "description": "Furniture",
+        "link": "/site/blog?uuid=02b04460-11bf-4f5e-b8a8-025127a60601",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mera Metal.png",
+        "misp_uuid": "3e88b9de-6557-592d-b1b4-c4b240dde47a",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "https://www.nitrex.in",
+        "discovered": "2026-08-05 20:35:33.845154",
+        "description": "",
+        "link": "https://mega.nz/folder/Kx03kYZK#l-XdZKHs9umPkRl5djB_xQ",
+        "magnet": null,
+        "screen": "screenshots/orion/wwwnitrexin.png",
+        "misp_uuid": "ae4b2847-8bca-52c9-964b-6d12670c81d3",
+        "group_name": "orion",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "briggsplc.com",
+        "discovered": "2026-08-05 20:35:31.055146",
+        "description": "Briggs began operations in 1740. As a well-known UK-based company in the engineering equipment indus...",
+        "link": "/post/cdb90636b6749657025c1dce3441180a",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/briggsplccom.png",
+        "misp_uuid": "690d35b3-3b49-5d0f-a14c-46ce17dbe718",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "P. A. Inc. (Performance Alloys)",
+        "discovered": "2026-08-05 20:35:13.525385",
+        "description": "P.A. Inc. is a leading distributor of high nickel alloy and specialty stainless steel piping products, based in Houston, Texas. The company offers a comprehensi...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "91b883c7-93a4-536a-8978-b7a23228ed8f",
+        "group_name": "dragonforce",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Mike Graham Heating And Air Conditioning",
+        "discovered": "2026-08-05 20:35:12.575368",
+        "description": "Mike Graham Heating, Air Conditioning & Plumbing is a trusted HVAC and plumbing service provider based in Wichita Falls, Texas, serving the local community sinc...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "c3f5923e-aa18-548a-8254-15f269aa4c7f",
+        "group_name": "dragonforce",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "STADLER Sensorik CNC-Technik",
+        "discovered": "2026-08-05 18:38:52.910615",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=5b9da671-b54b-4836-970a-d34ef5c6e054",
+        "magnet": null,
+        "screen": "screenshots/qilin/STADLER Sensorik CNC-Technik.png",
+        "misp_uuid": "460da530-fc8f-5eec-a44b-c61d18d7b0fe",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "tomorrowsoffice.com",
+        "discovered": "2026-08-05 18:38:30.399539",
+        "description": "URGENT DATA LEAK NOTICE: TOMORROW'S OFFICE\n\nTarget: Tomorrow’s Office (tomorrowsoffice.com)\n\nStatus: Ongoing Data Publication Countdown\n\nSecurity researchers have successfully exfiltrated 125 GB of critical and confidential data from the internal infrastructure of Tomorrow’s Office (tomorrowsoff…",
+        "link": "/SeL9gpPcxoqiuI6wlYlReBciNb1Mmk0v/tomorrowsoffice-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/tomorrowsofficecom.png",
+        "misp_uuid": "02525621-b4ac-56db-9dcc-159ecdcbdac6",
+        "group_name": "chaos",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Henshaw Law",
         "discovered": "2026-08-05 17:40:05.761232",
         "description": "1 terabytes of people's data https://henshawlawak.com/\nHenshaw Law,\nDespite repeated recommendations, no action was taken. The problem remains unresolved, the system is full of bugs, people's documents are at risk, and they won't take any responsibility.\nMultiple people could commit suicide, what important information has been leaked about them, and who is responsible for why the recommendations weren't taken seriously.\nwhat data will leak ?\n-Personal family files\n-Passports and licenses\n-Court ruling and public complaint forms\n-Documents scans\n-Forms and emails scans\nsample :\nFull download data link :\nDownload",
