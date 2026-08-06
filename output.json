@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "Bloom Financials",
+        "discovered": "2026-08-06 11:26:55.043324",
+        "description": "Accounting Services",
+        "link": "/site/blog?uuid=8c155e5e-9652-4932-bacf-267584f65001",
+        "magnet": null,
+        "screen": "screenshots/qilin/Bloom Financials.png",
+        "misp_uuid": "3d9bdb61-6924-5c24-87de-f3082064d284",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "PT All Cosmos Biotek",
+        "discovered": "2026-08-06 08:33:02.295744",
+        "description": "",
+        "link": "/company/-k1XLkgypy9wUc_fYb329",
+        "magnet": null,
+        "screen": "screenshots/gunra/PT All Cosmos Biotek.png",
+        "misp_uuid": "688c3137-78a0-590a-8c7d-108e5bd8473e",
+        "group_name": "gunra",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Data Exfiltration Diaries: The Shocking Stories Inside NYC Health + Hospitals",
+        "discovered": "2026-08-06 06:37:22.417058",
+        "description": "#NYCHealthHospitals #HealthcareBreach #DataLeak #HIPAA #SenateHELP #Cassidy #Mamdani #CyberSecurity #DataBreach #PatientPrivacy #HIV #MedicalRecords #12MillionNot1Point8 #HealthcareSecurity #2026Breach #NYC #PublicHealth #SenateInvestigation #FalseStatemen",
+        "link": "view_article.php?article=k3zGuSYcAYmOuMU8JceTxN8fD8wvuQWvKLjN5HvLpjl7T65wPh3UDAfZESTY5MhW",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Data Exfiltration Diaries: The Shocking Stories Inside NYC Health + Hospitals.png",
+        "misp_uuid": "9b61d4e5-d67b-58ba-87a1-3e5e2e8cdc1e",
+        "group_name": "leaknet",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "vprj.org",
+        "discovered": "2026-08-06 02:33:27.009594",
+        "description": "",
+        "link": "/blog/disclosures/6a6fb7ac9cd108bf26e25640",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/vprjorg.png",
+        "misp_uuid": "c556b39b-b9ba-5000-9339-1577de7d5a62",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "One Community FCU",
+        "discovered": "2026-08-05 22:48:07.062892",
+        "description": "(UPD: Added additional internal documentation and longer-term customer data. Also included data showing low network security against breaches.) One Community FC...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e5ad48bc-7d08-5bc8-b5aa-64baa610fd46",
+        "group_name": "dragonforce",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "clubonecasino.com",
+        "discovered": "2026-08-05 22:35:10.801157",
+        "description": "Club One Casino is the premier poker room in Central California, featuring 51 table games, a 24-hour restaurant, and extensive non-gaming entertainment options such as sporting events and e-Sports. Catering to both seasoned players and newcomers, | PUBLISHED 1% | Views: 18",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/clubonecasinocom.png",
+        "misp_uuid": "86855af6-8780-5c77-a644-c5d786d02978",
+        "group_name": "3am",
+        "sector": "Hospitality"
+    },
+    {
         "post_title": "Mera Metal",
         "discovered": "2026-08-05 20:35:35.244901",
         "description": "Furniture",
@@ -933,126 +999,5 @@
         "misp_uuid": "c68a14de-c86f-517b-9499-aae855384860",
         "group_name": "gunra",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "lantisnet.com",
-        "discovered": "2026-08-05 03:29:44.005323",
-        "description": "",
-        "link": "/blog/disclosures/6a6fb5629cd108bf26e205ca",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/lantisnetcom.png",
-        "misp_uuid": "b18340c7-8ac0-575f-9b81-b976025fcccd",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Galvin Brothers",
-        "discovered": "2026-08-05 01:46:48.667164",
-        "description": "Civil Engineering Construction",
-        "link": "/site/blog?uuid=122f4c66-e1e6-4c10-b68b-4224681d3d8c",
-        "magnet": null,
-        "screen": "screenshots/qilin/Galvin Brothers.png",
-        "misp_uuid": "6578fee7-aeb5-57f0-bb68-645a580f3384",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "RUPP Spritzguss",
-        "discovered": "2026-08-05 01:46:47.733998",
-        "description": "Manufacturing",
-        "link": "/site/blog?uuid=7d3f7328-c23f-4a74-a9ec-35bfe6c4cfc7",
-        "magnet": null,
-        "screen": "screenshots/qilin/RUPP Spritzguss.png",
-        "misp_uuid": "1ec6284f-2a1f-558e-a562-fcbfcbdaa8f7",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "First Tek",
-        "discovered": "2026-08-05 01:46:46.499401",
-        "description": "",
-        "link": "topic.php?id=02Wdfxsv6gbx6",
-        "magnet": null,
-        "screen": "screenshots/play/First Tek.png",
-        "misp_uuid": "e296c416-0ab5-589e-a834-d6a1d417b870",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Preferred Financial Group",
-        "discovered": "2026-08-05 01:46:45.549474",
-        "description": "",
-        "link": "topic.php?id=viSDXILZNN4WA",
-        "magnet": null,
-        "screen": "screenshots/play/Preferred Financial Group.png",
-        "misp_uuid": "6d93e427-8238-5157-a359-7cee955c29fb",
-        "group_name": "play",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "H****r",
-        "discovered": "2026-08-05 01:46:44.423142",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "9a922afa-cdaf-5a64-bd8c-1f5052ebd016",
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "cesmac.edu.br",
-        "discovered": "2026-08-05 01:46:24.613766",
-        "description": "Centro Universitário CESMAC (CESMAC University Center) is the largest private higher education institution in the state...",
-        "link": "/blog/98034986f71e8a5131e7280b8b7c57546b838f6e5a11d9f1424929837cc56b23/",
-        "magnet": null,
-        "screen": "screenshots/krybit/cesmacedubr.png",
-        "misp_uuid": "40249722-e8d3-56b9-9e89-6b11f6868aa3",
-        "group_name": "krybit",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Loyalist College",
-        "discovered": "2026-08-05 01:46:21.642865",
-        "description": "",
-        "link": "/blog/disclosures/6a70f8179cd108bf2610d332",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Loyalist College.png",
-        "misp_uuid": "af073e7a-f55b-5312-9f0e-9f2e3024a717",
-        "group_name": "inc ransom",
-        "sector": "Education"
-    },
-    {
-        "post_title": "TRULITE GLASS & ALUMINUM SOLUTIONS",
-        "discovered": "2026-08-05 01:46:19.502198",
-        "description": "",
-        "link": "/blog/disclosures/6a72219f9cd108bf2638cb21",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/TRULITE GLASS & ALUMINUM SOLUTIONS.png",
-        "misp_uuid": "073ecf02-4396-505b-b15b-8193ee37362c",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Keysight",
-        "discovered": "2026-08-05 01:46:17.676665",
-        "description": "2 posts - 1h",
-        "link": "/news/keysight",
-        "magnet": null,
-        "screen": "screenshots/everest/Keysight.png",
-        "misp_uuid": "779e79b2-e56b-5120-82e1-0470ecc98867",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "healthcarehighways.com",
-        "discovered": "2026-08-05 01:46:11.317260",
-        "description": "WARNING / DATA LEAK NOTICE\n\n    Target: Healthcare Highways (healthcarehighways.com)\n    Countdown: 24 Hours\n\n    If corporate representatives do not establish contact via chat within the next 24 hours, a massive internal data cache comprising 235 GB of sensitive company and client records will be p…",
-        "link": "/NBZQmQoAPXmW7Qw5eSuW98OqyQAmLjgv/healthcarehighways-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/healthcarehighwayscom.png",
-        "misp_uuid": "88f0e360-fff4-5768-8cef-42948038d72c",
-        "group_name": "chaos",
-        "sector": "Technology"
     }
 ]
