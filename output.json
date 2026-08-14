@@ -1,5 +1,27 @@
 [
     {
+        "post_title": "granjarinya.com",
+        "discovered": "2026-08-14 20:33:02.676497",
+        "description": "Headquartered in Albal, Valencia, the family-owned company traces its origins to three generations of livestock farming. What began as a …",
+        "link": "/blog/post/granjarinyacom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/granjarinyacom.png",
+        "misp_uuid": "7feb57ea-56a1-5648-ab3e-98b9d44e2e7e",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Columbia University Information (Dental)",
+        "discovered": "2026-08-14 18:34:36.997612",
+        "description": "Country: New York, US |\nWebsite: columbia.edu |\nRevenue: $6.6 Billion |\nIndustry: Colleges & Universities |\nEmployees: 20.000-25.000 |\nProperties: 296 GB (283,387 Files, 11,268 Folders)",
+        "link": "/project/40/",
+        "magnet": null,
+        "screen": "screenshots/global secret group/Columbia University Information (Dental).png",
+        "misp_uuid": "ada1c34a-3673-519d-8da5-96b5f7a109bb",
+        "group_name": "global secret group",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "FiferFox Minecraft Server",
         "discovered": "2026-08-14 16:43:25.326580",
         "description": "Minecraft Server • 10000 • 3\r\n\r\nThis is a basic Minecraft Server.",
@@ -27,7 +49,7 @@
         "description": "He performs system administration for domain networks but is unable to ensure his own security. As a result, his data was compromised, and he was caught distributing pornographic content, storing over 200 terabytes of pornographic data on his network-attached storage (NAS). He administers pornographic websites and publishes content there, creates content featuring real people and sells it for money, and engages in blackmail by generating pornographic content using artificial intelligence. He finds victims and demands money from them. Various victims, including minors, as well as prominent public figures and political figures, including President Donald Trump, have been discovered in his computer files. Law enforcement is advised to pay attention to this individual as he is a sexual predator and distributor of pornography. You can view his directory structure, browser profiles, and saved HTML pages, where you can read his 4chan correspondence and much more.",
         "link": "http://sq5gowklqcw4uqwzdsebnpxaynffzctjs6r5mmzzpn6jn76au7qwexid.onion/index.php?p=",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/interlock/Connell Enterprises LLC.png",
         "misp_uuid": "3965aa8d-10b7-5bc7-8769-415f9e55dcc8",
         "group_name": "interlock",
         "sector": "Technology"
@@ -426,28 +448,6 @@
         "screen": "screenshots/coinbase cartel/Hitachi High-Tech NEW.png",
         "misp_uuid": "cc043ec1-66c8-583c-ab02-d295356e4f08",
         "group_name": "coinbase cartel",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SIA Medical Centre",
-        "discovered": "2026-08-13 20:41:34.214668",
-        "description": "SIA Medical Centre\nSIA Medical was established in 1993 and was founded by Dr Martin Sia in Melbourne's northwest. 9 clinics - Box Hill, Burwood, Croydon, Essendon, Footscray, Moonee Ponds, Montrose, Mulgrave and Berwick.We are pleased to present:~20,000 patient medical records - names, dates of birth, Medicare numbers, clinical notes, insurance and work-cover files, full patient dossiersStaff identity documents - passports, driver's licenses, police checks, tax file declarations of doctors and employeesPlaintext credentials - logins and passwords for clinical systems (Synapse imaging, PRODA, terminal server, doctor accounts)HR records - signed employment contracts, staff incident reports, immunisation registersLegal & financial - subpoenas, complaints, Bupa contracts, bank details (BSB/ABN), provider payment forms\n\n\n\nMore",
-        "link": "archive.php?company=258",
-        "magnet": null,
-        "screen": "screenshots/rhysida/SIA Medical Centre.png",
-        "misp_uuid": "a7186ba0-6fdf-501d-ab98-a7bd7a3bbab0",
-        "group_name": "rhysida",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "ZEBRA.COM",
-        "discovered": "2026-08-13 20:21:51.852261",
-        "description": "Data exfiltrated included the following: Database, Project - files, CAD - files\r\nTotal size: 8Tb\r\nRevenue: $5,600,000,000",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5be490a5-fb53-5a31-9403-d37ae6064d28",
-        "group_name": "clop",
         "sector": "Technology"
     }
 ]
