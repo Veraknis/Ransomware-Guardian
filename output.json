@@ -1,5 +1,181 @@
 [
     {
+        "post_title": "FiferFox Minecraft Server",
+        "discovered": "2026-08-14 16:43:25.326580",
+        "description": "Minecraft Server • 10000 • 3\r\n\r\nThis is a basic Minecraft Server.",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/bluewhale/FiferFox Minecraft Server.png",
+        "misp_uuid": "dcfb13d9-3194-59ec-ac60-8d71967ef317",
+        "group_name": "bluewhale",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Satellite Developer Server",
+        "discovered": "2026-08-14 16:42:44.439512",
+        "description": "Developer • 20000 • 5\r\n\r\nA software developer at a company",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/bluewhale/Satellite Developer Server.png",
+        "misp_uuid": "9435fa73-db4c-5906-8ec7-d77bfb3f4d60",
+        "group_name": "bluewhale",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Connell Enterprises LLC",
+        "discovered": "2026-08-14 16:30:06.084280",
+        "description": "He performs system administration for domain networks but is unable to ensure his own security. As a result, his data was compromised, and he was caught distributing pornographic content, storing over 200 terabytes of pornographic data on his network-attached storage (NAS). He administers pornographic websites and publishes content there, creates content featuring real people and sells it for money, and engages in blackmail by generating pornographic content using artificial intelligence. He finds victims and demands money from them. Various victims, including minors, as well as prominent public figures and political figures, including President Donald Trump, have been discovered in his computer files. Law enforcement is advised to pay attention to this individual as he is a sexual predator and distributor of pornography. You can view his directory structure, browser profiles, and saved HTML pages, where you can read his 4chan correspondence and much more.",
+        "link": "http://sq5gowklqcw4uqwzdsebnpxaynffzctjs6r5mmzzpn6jn76au7qwexid.onion/index.php?p=",
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "3965aa8d-10b7-5bc7-8769-415f9e55dcc8",
+        "group_name": "interlock",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "cambrialawfirm.com",
+        "discovered": "2026-08-14 16:30:04.293575",
+        "description": "",
+        "link": "/blog/disclosures/6a7e49da9cd108bf269d76d0",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/cambrialawfirmcom.png",
+        "misp_uuid": "510aebde-6241-5465-9a1d-fdcf17ea1d7f",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "https://pacific-construction.com/",
+        "discovered": "2026-08-14 16:30:03.344203",
+        "description": "",
+        "link": "/blog/disclosures/6a7e4ea49cd108bf269e158e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/pacific-constructioncom.png",
+        "misp_uuid": "91381a23-c0b0-5ce8-8079-227a0e13d903",
+        "group_name": "inc ransom",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Turner and Townsend NEW",
+        "discovered": "2026-08-14 16:29:59.610930",
+        "description": "Engineering - $1,6 Billion",
+        "link": "/companies/tandt",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Turner and Townsend NEW.png",
+        "misp_uuid": "76d85888-17d7-56e0-acf0-4610432b6116",
+        "group_name": "coinbase cartel",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Serruya private equity NEW",
+        "discovered": "2026-08-14 16:29:58.688429",
+        "description": "Finance - $20 Million",
+        "link": "/companies/serruya",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Serruya private equity NEW.png",
+        "misp_uuid": "33498156-7c64-5ff2-9d4f-b4d9d1eabc81",
+        "group_name": "coinbase cartel",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Sweet Water Holdings NEW",
+        "discovered": "2026-08-14 16:29:57.765980",
+        "description": "Finance - Undisclosed",
+        "link": "/companies/sweet",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Sweet Water Holdings NEW.png",
+        "misp_uuid": "52c6301b-ed76-5b51-8c00-a95fafb6caa2",
+        "group_name": "coinbase cartel",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Keystops",
+        "discovered": "2026-08-14 16:29:53.990952",
+        "description": "Key Oil Company is the largest distributor of branded motor fuels for Marathon Petroleum Company and also holds contracts with major brands like ExxonMobil and ConocoPhillips. They provide awide range of products including lubricants, diesel exhaust fluid, antifreeze, and various fuel delivery solutions.We will upload 15gb corporate data soon. Employee and client personal information (NAME, PASSPORT, DL, SSN and so on), financials, payment details, contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "14e607a1-1611-51a4-852d-b39f610bc720",
+        "group_name": "akira",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "Cozad Asset Management",
+        "discovered": "2026-08-14 16:29:53.067205",
+        "description": "Cozad Asset Management, Inc. provides the highest quality professional and personalized financial services and advice to individuals, families and institutional investors throughout the country.We will upload 13gb corporate data soon. Employee personal information (passport, DLs, SSN), financials, confidential files, contracts and agreements, legal files and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "41b17e91-92c9-5198-a8ae-bce334c7f9ea",
+        "group_name": "akira",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Connections",
+        "discovered": "2026-08-14 15:48:36.623439",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=bd697a46-b40e-465b-bb87-3be33c8047e0",
+        "magnet": null,
+        "screen": "screenshots/qilin/Connections.png",
+        "misp_uuid": "21bf0a17-fde1-5523-954c-84af82ce6fb0",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Pierce Township",
+        "discovered": "2026-08-14 13:37:17.263580",
+        "description": "Pierce Township\nPierce Township is a growing community in Ohio that blends rural charm with suburban living, covering 23.5 square miles and home to over 16,000 residents.We are pleased to present:Judicial materials - Grand Jury subpoena response incl. hospital records (Mercy Hospital), public records requests, fire investigation reportsEmployee PII - Social Security numbers (SSA-1945, W-4, Ohio Tax forms), CDL licenses, health insurance waivers, new-hire packetsLegal settlements - Logan Creek v. Pierce Township, Purdue opioid settlement, easement and lease agreementsFinancial records - budgets, tax levies, appropriation reports, invoices, paymentsInternal email archives of township officials and administration\n\n\n\nMore",
+        "link": "archive.php?company=259",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Pierce Township.png",
+        "misp_uuid": "54f5df78-6161-5f80-a76c-73920218e87a",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "[DISCLOSED]PCL Holding",
+        "discovered": "2026-08-14 13:37:15.225401",
+        "description": "",
+        "link": "/r/90beb8a335c0d7625ee2d3a0f21b5eee7bd0fc9a",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]PCL Holding.png",
+        "misp_uuid": "486bf62c-9402-5fd3-a157-4c0ea923e124",
+        "group_name": "ransomhouse",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "tecnoabi.com",
+        "discovered": "2026-08-14 13:37:12.195206",
+        "description": "Tecnologías de Código Abierto S.L., trading as Tecnoabi, is a Málaga, Spain-based B2B software development firm registered in 2008 that specializes in Java, .NET, and proprietary solutions such as VirtRoom and CMMS software. Located in Málaga TechPark, the company maintains extensive expertise in after-sales management systems and is an official Google Play developer. For more details, visit the official website at tecnoabi.com. Stolen: 300 GB 63,434 Files",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5560d887-9e1f-51ac-bacd-13a226bc1ceb",
+        "group_name": "m3rx",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Radiant",
+        "discovered": "2026-08-14 12:37:30.575703",
+        "description": "Software",
+        "link": "/site/blog?uuid=cc2f4575-21b9-4a39-911f-ff46b675f64c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Radiant.png",
+        "misp_uuid": "ecf40ebc-c4f7-5887-ba11-5359f24bb335",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Aletex Group",
+        "discovered": "2026-08-14 12:37:29.653055",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=26737f12-4b99-468b-8106-1127bd7f98a5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Aletex Group.png",
+        "misp_uuid": "49858381-a290-5393-9e29-4a44622ad002",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Urban Worldwide",
         "discovered": "2026-08-14 10:48:38.021510",
         "description": "Business Services",
@@ -273,93 +449,5 @@
         "misp_uuid": "5be490a5-fb53-5a31-9403-d37ae6064d28",
         "group_name": "clop",
         "sector": "Technology"
-    },
-    {
-        "post_title": "D & J Beverage Service",
-        "discovered": "2026-08-13 16:35:13.159622",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=775c1b28-1eb6-4ee7-b14f-277932b229d4",
-        "magnet": null,
-        "screen": "screenshots/qilin/D & J Beverage Service.png",
-        "misp_uuid": "c65b1273-4fd1-533f-b03e-66227143f8fb",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Zara Investment Holding",
-        "discovered": "2026-08-13 16:35:11.618627",
-        "description": "Zara Investment Holding (zaraholding.com) is a leading Jordanian investment group established in 1994. The company specializes in the tourism and hospitality sector, serving as the largest owner of five-star hotels and luxury resorts in key destinations across the country, including Amman, Petra, and the Dead Sea. Playing a vital role in Jordan's economy, the holding provides approximately 30% of the nation's total five-star hotel capacity.",
-        "link": "/posts/d137bbd6-880d-4822-9520-80f60c037465",
-        "magnet": null,
-        "screen": "screenshots/payload/Zara Investment Holding.png",
-        "misp_uuid": "3a0866d4-7d0f-51ae-b954-ef7823bf7b5d",
-        "group_name": "payload",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "GB Group S.A",
-        "discovered": "2026-08-13 16:34:52.461497",
-        "description": "GB Group is one of Haiti’s largest private industrial and trading conglomerates. Headquartered in Port-au-Prince, it operates across nine core industries includ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "8bcc5bcc-ad23-5fcc-8eee-8c42fa009423",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "CF Supply",
-        "discovered": "2026-08-13 16:34:47.652424",
-        "description": "CF Supply is a Texas-based company that offers a wide range of construction products including drywall, metal framing, insulation, and door hardware. They provide services such as free estimates and 24-hour online account access, ensuring convenience for their clients.We will upload corporate data soon. Client information (projects, personal information and so on), contracts and agreements and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "eafe18cd-1d1e-53d3-b2bc-81ce98a40afc",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DAISEN",
-        "discovered": "2026-08-13 16:34:46.618524",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6de76671-947a-5fa9-b58e-57ede42babcb",
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Yaomasa",
-        "discovered": "2026-08-13 16:34:45.619753",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "85205335-0a4e-54eb-975d-0ae81ce9b8f3",
-        "group_name": "ailock",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "IPS",
-        "discovered": "2026-08-13 13:48:38.935949",
-        "description": "ipssrl.com zoominfo.com/c/ips-srl/372710487 I.P.S. Srl is an Italian company founded in 2005 that specializes in the recovery and recycling of inert waste from construction and demolition activities. They provide environmental services, supply recycled aggregates, and manufacture \"Wastile,\" a 100% ecological and infinitely recyclable thermoplastic tile. The company has received national awards for its rapid revenue growth and high financial reliability in the environmental sector.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a5fe26f9-9fb2-574f-be5e-11f035643a83",
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Gfeller Treuhand und Verwaltungs",
-        "discovered": "2026-08-13 13:48:37.970848",
-        "description": "gfeller-treuhand.ch zoominfo.com/c/gfeller-treuhand-und-verwaltungs-ag/372661395 Gfeller Treuhand und Verwaltungs AG is a Swiss real estate and fiduciary company based in Dübendorf, operating since 1980. They specialize in comprehensive property management, real estate sales, and leasing services. The firm provides professional administrative support, utilizing modern IT solutions to efficiently handle property maintenance and tenant relations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c09d89cd-165b-5143-bda1-8b789ddca4cb",
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
     }
 ]
