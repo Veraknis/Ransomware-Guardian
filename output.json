@@ -1,5 +1,49 @@
 [
     {
+        "post_title": "servmarmg.cl (Chile, Valparaíso)",
+        "discovered": "2026-08-15 20:32:11.009401",
+        "description": "Empresa con más de 25 años de experiencia en el rubro marítimo, orientada a ejecutar operaciones con estándares de calidad, control de riesgo y tiempos de respuesta consistentes...",
+        "link": "/MGS/index.html",
+        "magnet": null,
+        "screen": "screenshots/ms13-089/servmarmgcl (Chile, Valparaíso).png",
+        "misp_uuid": "09384a5d-33f8-5026-9445-0f0975836ec3",
+        "group_name": "ms13-089",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alpine Electronics Europe",
+        "discovered": "2026-08-15 19:24:37.628105",
+        "description": "Alpine Electronics Europe specializes in the distribution of automotive electronics and audio products. The company offers a range of products and support services tailored for various European markets. Their intended clients include automotive manufacturers and consumers seeking high-quality audio solutions. Alpine is committed to providing innovative technology and exceptional customer service across multiple countries in Europe.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "f41e8489-0dd1-5f03-8c5a-00e16925814a",
+        "group_name": "panzer",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "SEARS (Grupo Sanborns)",
+        "discovered": "2026-08-15 18:40:49.677853",
+        "description": "SEARS (Grupo Sanborns, S.A. de C.V.) is a leading Mexican retail company and a key subsidiary of Grupo Carso, owned by the Slim family.Founded in 1903 by the Sanborn brothers, the company has grown into one of the country’s most iconic and successful retail groups.It owns and operates two of Mexico’s most famous brands: Sears (mid-range department stores) and Sanborns (the signature “store + restaurant/cafe” format).Today, Grupo Sanborns manages more than 41,000 employees and hundreds of stores nationwide, with a strong focus on e-commerce and digital transformation.Website: www.sears.com.mx and www.sanborns.com.mx.AttentionDemo files will appear here in the coming days, ahead of the full-scale release.\nhttps://www.sears.com.mx/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/70/sears-grupo-sanborns",
+        "magnet": null,
+        "screen": "screenshots/space bears/SEARS (Grupo Sanborns).png",
+        "misp_uuid": "575d5865-7288-5525-8022-1cef79de058b",
+        "group_name": "space bears",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Lepi Enterprises",
+        "discovered": "2026-08-15 17:27:45.929588",
+        "description": "If the company does not contact us before 20/08/2026, the data will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "f4a47483-eddd-5802-834a-b943b1f2009b",
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
         "post_title": "VR Advogados",
         "discovered": "2026-08-15 14:27:17.327011",
         "description": "[upcoming] VR Advogados, a Brazilian law firm, neglected its clients’ personal data, violating laws regarding data storage and confidentiality—they posted and shared all of their clients’ documents, passport information, and powers of attorney via a Discord server. We hacked it. Now we have 3,000 documents belonging to all of their clients—passports, powers of attorney, declarations, personal and work-related correspondence, and more. The firm hasn’t responded to us for three days; if this continues, we’ll start selling the data.",
@@ -53,27 +97,5 @@
         "misp_uuid": "9554dd09-61bc-5de9-9135-03595c525fef",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "granjarinya.com",
-        "discovered": "2026-08-14 20:33:02.676497",
-        "description": "Headquartered in Albal, Valencia, the family-owned company traces its origins to three generations of livestock farming. What began as a …",
-        "link": "/blog/post/granjarinyacom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/granjarinyacom.png",
-        "misp_uuid": "7feb57ea-56a1-5648-ab3e-98b9d44e2e7e",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Columbia University Information (Dental)",
-        "discovered": "2026-08-14 18:34:36.997612",
-        "description": "Country: New York, US |\nWebsite: columbia.edu |\nRevenue: $6.6 Billion |\nIndustry: Colleges & Universities |\nEmployees: 20.000-25.000 |\nProperties: 296 GB (283,387 Files, 11,268 Folders)",
-        "link": "/project/40/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/Columbia University Information (Dental).png",
-        "misp_uuid": "ada1c34a-3673-519d-8da5-96b5f7a109bb",
-        "group_name": "global secret group",
-        "sector": "Healthcare"
     }
 ]
