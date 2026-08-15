@@ -1,5 +1,27 @@
 [
     {
+        "post_title": "Interim HealthCare",
+        "discovered": "2026-08-15 06:22:29.131114",
+        "description": "Home Healthcare Agency & Medical Staffing.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/xjzBCfUkCOzKIJhTh9nwY7NPbaLxJGgene7s3HohBcLhET3VwjRQ5Za64O19nnRB2nOWIYc0F5Y5ccdhMpg7XJLRVdOcTdh",
+        "magnet": null,
+        "screen": "screenshots/anubis/Interim HealthCare.png",
+        "misp_uuid": "f32c12b1-0a55-52c6-a763-debcf401c7dc",
+        "group_name": "anubis",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "FERRARI MANGIMI SRL",
+        "discovered": "2026-08-14 22:27:04.919076",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=20b0f435-7e06-4b3f-a805-8a8739b3eaab",
+        "magnet": null,
+        "screen": "screenshots/qilin/FERRARI MANGIMI SRL.png",
+        "misp_uuid": "9554dd09-61bc-5de9-9135-03595c525fef",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "granjarinya.com",
         "discovered": "2026-08-14 20:33:02.676497",
         "description": "Headquartered in Albal, Valencia, the family-owned company traces its origins to three generations of livestock farming. What began as a …",
@@ -207,247 +229,5 @@
         "misp_uuid": "ef6aa677-af4c-5c1c-b2ef-74d50c4652d7",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Lercher Werkzeugbau",
-        "discovered": "2026-08-14 09:50:07.390559",
-        "description": "Industrial Machinery & Equipment",
-        "link": "/site/blog?uuid=0a89537d-3153-43ab-818b-ea2994bb5459",
-        "magnet": null,
-        "screen": "screenshots/qilin/Lercher Werkzeugbau.png",
-        "misp_uuid": "b92fa73f-ff67-5633-9acf-a976021acfba",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "3f",
-        "discovered": "2026-08-14 09:50:06.483465",
-        "description": "Membership Organizations",
-        "link": "/site/blog?uuid=c80def38-53a7-49d1-9727-54c3a576330c",
-        "magnet": null,
-        "screen": "screenshots/qilin/3f.png",
-        "misp_uuid": "e222fd06-7d45-58b6-874c-41988032aa56",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PenLink",
-        "discovered": "2026-08-14 09:50:05.470194",
-        "description": "Software",
-        "link": "/site/blog?uuid=1fc225ea-e524-4f35-9a18-dfb1e1a6cefc",
-        "magnet": null,
-        "screen": "screenshots/qilin/PenLink.png",
-        "misp_uuid": "326bbf5b-a8ad-555a-86c6-a5b4489efe03",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Avanta Maroc Ex Adecco",
-        "discovered": "2026-08-14 07:24:49.755303",
-        "description": "avanta.ma rocketreach.co/avanta-maroc-ex-adecco-profile_b7352c87c4297b95 \nAvanta Maroc, formerly known as Adecco Maroc, is a prominent human resources and recruitment agency based in Casablanca, Morocco. The company specializes in connecting job seekers with top employers by offering tailored workforce solutions and staffing services. Their platform serves as a vital hub for career opportunities, professional development, and corporate HR management across various industries in the region.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0bf29df0-370d-5bd2-915b-f062e51e9ea4",
-        "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "EKEPIS",
-        "discovered": "2026-08-14 07:24:48.849574",
-        "description": "ekepis.gr rocketreach.co/ekepis-ethniko-kentro-pistopoiisis-domon-profile_b6d46b6ac7408ffe EKEPIS was Greece's National Centre for the Accreditation of Continuing Vocational Training, responsible for certifying adult educators and lifelong learning providers. The organization no longer exists, as its accreditation and certification duties were absorbed by EOPPEP (ΕΟΠΠΕΠ), the National Organisation for the Certification of Qualifications and Vocational Guidance. Today, anyone looking for their services must go through EOPPEP or the official Greek government portal, since the old ekepis.gr domain is no longer an official resource.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0525d3b8-1d07-5d2b-8de5-f477f6e01d39",
-        "group_name": "the gentlemen",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Megalaser Industria Metalurgica LTDA",
-        "discovered": "2026-08-14 07:24:47.889104",
-        "description": "megalaser.com.br zoominfo.com/c/megalaser-industria-metalúrgica-ltda/1315472404 \nMegalaser is a Brazilian metallurgical company based in São Paulo, specializing in advanced metalworking services like laser cutting, CNC bending, and robotic welding. Founded in 2006, the manufacturer provides high-quality machined components and assemblies for diverse industries, including renewable energy, mining, automotive, and oil and gas. Their platform highlights a strong commitment to precision engineering, integrated manufacturing solutions, and sustainable industrial practices.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6ca85616-b826-54ae-9a6c-7415d1373197",
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Community Connections",
-        "discovered": "2026-08-14 07:24:46.814296",
-        "description": "comconnections.org zoominfo.com/c/community-connections-inc/350834294 Community Connections is a non-profit organization based in Ketchikan, Alaska, dedicated to providing individualized support for children, seniors, and individuals with disabilities. Founded over 40 years ago, their core mission focuses on encouraging independence, community belonging, and improving the overall quality of life for those they serve. The organization offers a wide range of specialized programs, including early childhood learning, mental health support, and comprehensive disability services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "42abd997-67d1-53df-a596-51f21315b999",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Acli",
-        "discovered": "2026-08-14 07:24:45.895988",
-        "description": "acli.it zoominfo.com/c/acli/372618594 ACLI (Christian Associations of Italian Workers) is a major Italian Catholic social promotion organization founded in 1944 to advocate for labor rights and human dignity. Operating a vast network of local clubs, the association provides essential community services, including tax assistance, employment support, and vocational training. Today, it continues to champion social solidarity, democratic participation, and active citizenship across Italy and internationally.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "373fdd60-d480-58b7-b5a0-3d6abd97bd6f",
-        "group_name": "the gentlemen",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "Vector Two Technology",
-        "discovered": "2026-08-14 07:24:44.954674",
-        "description": "vtt.com.br zoominfo.com/c/vtt/372441609 VTT is a pioneering Brazilian technology company founded in 1996 that specializes in Digital Signage and Retail Media solutions. As a leading provider in Latin America, the company delivers innovative digital displays, menu boards, and interactive customer experience tools for the retail sector. Their platform also supports a robust channel partner program, helping businesses across the region modernize their visual communication and in-store marketing strategies.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "2e0bd938-4f6d-515e-8fa7-866f401fb06e",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "TOA",
-        "discovered": "2026-08-14 07:12:52.799742",
-        "description": "toa-const.co.jp zoominfo.com/c/toa-corp/425840057 TOA Corporation is a prominent Japanese general contractor specializing in marine civil engineering, land reclamation, and port infrastructure development. The company focuses on delivering high-quality, economically viable construction projects while prioritizing environmental sustainability and technological innovation. Through its corporate portal, stakeholders can access detailed information on their advanced engineering services, corporate philosophy, and investor relations.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "c8a02f73-9e2e-59cc-bacf-739c5b07ec2a",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Tempel",
-        "discovered": "2026-08-14 07:12:51.873906",
-        "description": "tempel.com zoominfo.com/c/tempel/87867666 Tempel Steel Company, a division of Worthington Steel, is a leading global manufacturer of high-precision electrical steel laminations. Established in 1945, the company provides essential components for motors, generators, and transformers used across the automotive, eMobility, and energy sectors. Their platform showcases advanced precision metal stamping and overmolding services designed to improve product performance and efficiency.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "1d31b277-fd8a-5293-9491-1c97840482b3",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Plaza Auto Mall",
-        "discovered": "2026-08-14 07:12:50.929539",
-        "description": "plazaautomall.com zoominfo.com/c/plaza-auto-mall/194512238 Plaza Auto Mall is a family-owned dealership group based in Brooklyn, New York, that has been serving local drivers since 1975. They offer an extensive inventory of over 1,000 new, used, and certified pre-owned vehicles across multiple automotive brands all in one location. The platform also provides comprehensive automotive services, including financing options, vehicle maintenance, parts sales, and a dedicated body shop.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "2d438620-c294-56b0-8edc-3e14df6f581a",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "The Coffee Bean",
-        "discovered": "2026-08-14 07:00:56.951825",
-        "description": "coffeebean.com.my zoominfo.com/c/the-coffee-bean/425047768 The Coffee Bean & Tea Leaf Malaysia is the official digital portal for the popular cafe chain, which currently operates over 150 locations across the country. The website allows customers to easily explore the full menu, access exclusive promotions, and manage their MyCBTL loyalty app rewards. It serves as a convenient central platform for ordering premium beverages, redeeming digital vouchers, and staying updated on seasonal cafe offerings.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "1f53f56a-bdfe-5378-b9d0-23a464531fac",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "KFC Kosova",
-        "discovered": "2026-08-14 07:00:56.046542",
-        "description": "kfckosova.com zoominfo.com/c/kfc-kosova/401225793 KFC Kosova is the official regional branch of the global fast-food chain, operating multiple restaurants across Kosovo, including a prominent location at the Albi Mall in Pristina. Their website serves as a central hub for customers to find nearby branches, check out menu options, and access delivery services. Additionally, the platform acts as a primary career portal for local job seekers to apply for various corporate and restaurant positions.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "fd6fd944-eb86-563a-a423-cfa81dc65162",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "First Coast Heart Vascular Center",
-        "discovered": "2026-08-14 07:00:55.153459",
-        "description": "firstcoastheart.com zoominfo.com/c/first-coast-heart--vascular-center/356606344 First Coast Heart & Vascular Center is a premier cardiovascular care provider serving patients across Northeast Florida. Their website highlights a comprehensive range of services, including expert cardiology, electrophysiology, advanced imaging, and vascular surgery. The medical center focuses on delivering innovative, evidence-based treatments and minimally invasive procedures to ensure the highest standard of heart health.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "b8f99745-c2f1-5442-865a-62b843aaeb60",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Cityside Homes",
-        "discovered": "2026-08-14 07:00:54.240784",
-        "description": "citysidehomes.com zoominfo.com/c/cityside-homes-llc/355153806 Cityside Homes is a new construction home builder based in Houston, Texas, specializing in developing homeowner-focused residential communities. Since 2011, the company has built over 100 distinct neighborhoods, offering modern living spaces tailored to local buyers. Their website serves as a primary resource for exploring floor plans, browsing model homes, and discovering available properties across the greater Houston area.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "48ae1f91-1382-5f21-9915-989ea986ae2f",
-        "group_name": "the gentlemen",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Retail Business Management Systems",
-        "discovered": "2026-08-14 07:00:53.312830",
-        "description": "rbms.com zoominfo.com/c/retail-business-management-systems-inc/101712744 Retail Business Management Systems (RBMS) is a specialized technology provider that has delivered Point of Sale and retail management solutions for over 25 years. Focusing heavily on NCR Counterpoint software and hardware integrations, the company supports retail businesses of all sizes primarily across the New York and New Jersey regions. Their platform serves as a central hub for merchants seeking comprehensive tools to optimize store operations, inventory tracking, and overall customer experience.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "80d6909b-051a-5812-ba69-6005a4d47439",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Gravity Coffee",
-        "discovered": "2026-08-14 06:51:44.961191",
-        "description": "gravitycoffee.com zoominfo.com/c/gravity-coffee-company-llc/373342412 Gravity Coffee is a premium coffee brand known for serving high-quality beverages in its physical cafes and through retail products. Their signature medium roast blends feature a bold, smooth flavor profile with popular notes of hazelnut and chocolate. The company operates multiple locations and focuses on providing an exceptional coffee experience for its customers",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "12b954e6-5a6c-565a-b7ae-b66dec20115d",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Ollies Place Kidswear",
-        "discovered": "2026-08-14 06:51:44.003648",
-        "description": "olliesplace.com.au zoominfo.com/c/ollies-place-kidswear/359503050 Ollie's Place is an Australian retail brand specializing in high-quality, trendy, and comfortable clothing for babies and children. The company offers a unique shopping experience both online and through physical stores across Australia, featuring vibrant prints and stylish designs. They focus on providing fashionable, value-for-money pieces for kids' everyday wear and special milestones.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5f93ba7c-5760-5bc2-bccf-fd792d7c5f02",
-        "group_name": "the gentlemen",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Reminger",
-        "discovered": "2026-08-14 01:47:11.165947",
-        "description": "Reminger Attorneys at Law is a law firm with a strong presence in Ohio, Kentucky, and Indiana, operati…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "954d8a87-fc98-52ef-87cd-5d02fdb88f23",
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "[DISCLOSED]TECHVENTURES BANK S.A.",
-        "discovered": "2026-08-13 23:40:41.604160",
-        "description": "",
-        "link": "/r/aad4bac321edc26a8cd977642358607beb7c7262",
-        "magnet": null,
-        "screen": "screenshots/ransomhouse/[DISCLOSED]TECHVENTURES BANK SA.png",
-        "misp_uuid": "57d0c48e-ae01-59ae-a987-a5d97026fb5e",
-        "group_name": "ransomhouse",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Hitachi High-Tech NEW",
-        "discovered": "2026-08-13 22:40:40.249362",
-        "description": "Industrial Automation & Materials - $4.7 Billion",
-        "link": "/companies/hitachi",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Hitachi High-Tech NEW.png",
-        "misp_uuid": "cc043ec1-66c8-583c-ab02-d295356e4f08",
-        "group_name": "coinbase cartel",
-        "sector": "Technology"
     }
 ]
