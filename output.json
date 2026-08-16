@@ -1,5 +1,71 @@
 [
     {
+        "post_title": "TOTVS",
+        "discovered": "2026-08-15 23:45:21.720120",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5ec60870-9955-52d3-87ad-1fe519b7418e",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Colla Health",
+        "discovered": "2026-08-15 23:45:19.988854",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "acb6f826-5676-5d0c-8fdf-1e5407f179c9",
+        "group_name": "direwolf",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "PayrHealth",
+        "discovered": "2026-08-15 23:45:19.077299",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "3c6a0575-557f-5130-8e26-3e1f4b73b463",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DXS International",
+        "discovered": "2026-08-15 23:45:18.110150",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "1a7bc8ab-40d1-535d-bf5d-4072e74ae58f",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "DodoPayments",
+        "discovered": "2026-08-15 22:27:34.330052",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "1754f260-c185-5b55-8e0c-607442ba3819",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AAM:HOA Management",
+        "discovered": "2026-08-15 22:27:33.358689",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "a6a47199-4a59-5c8d-abe1-b233cd0a47bc",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "servmarmg.cl (Chile, Valparaíso)",
         "discovered": "2026-08-15 20:32:11.009401",
         "description": "Empresa con más de 25 años de experiencia en el rubro marítimo, orientada a ejecutar operaciones con estándares de calidad, control de riesgo y tiempos de respuesta consistentes...",
@@ -75,27 +141,5 @@
         "misp_uuid": "701bf6f6-1fb0-5f29-8c2d-69f050acdb3b",
         "group_name": "blackwater",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Interim HealthCare",
-        "discovered": "2026-08-15 06:22:29.131114",
-        "description": "Home Healthcare Agency & Medical Staffing.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/xjzBCfUkCOzKIJhTh9nwY7NPbaLxJGgene7s3HohBcLhET3VwjRQ5Za64O19nnRB2nOWIYc0F5Y5ccdhMpg7XJLRVdOcTdh",
-        "magnet": null,
-        "screen": "screenshots/anubis/Interim HealthCare.png",
-        "misp_uuid": "f32c12b1-0a55-52c6-a763-debcf401c7dc",
-        "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "FERRARI MANGIMI SRL",
-        "discovered": "2026-08-14 22:27:04.919076",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=20b0f435-7e06-4b3f-a805-8a8739b3eaab",
-        "magnet": null,
-        "screen": "screenshots/qilin/FERRARI MANGIMI SRL.png",
-        "misp_uuid": "9554dd09-61bc-5de9-9135-03595c525fef",
-        "group_name": "qilin",
-        "sector": "Unknown"
     }
 ]
