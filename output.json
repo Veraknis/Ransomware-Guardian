@@ -1,5 +1,60 @@
 [
     {
+        "post_title": "Moores 🇬🇧",
+        "discovered": "2026-08-17 07:38:56.884391",
+        "description": "Kitchen solutions provider for housing developers.",
+        "link": "/blog/c24b4cd2-897f-403d-ade7-57251f96c6d9",
+        "magnet": null,
+        "screen": "screenshots/bravox/Moores 🇬🇧.png",
+        "misp_uuid": "b68af7ff-6aa1-582d-a47b-3a0f91adda21",
+        "group_name": "bravox",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Coface",
+        "discovered": "2026-08-16 21:49:23.352589",
+        "description": "Insurance",
+        "link": "/site/blog?uuid=6a247e78-b643-4a64-b2fb-c884d66e3249",
+        "magnet": null,
+        "screen": "screenshots/qilin/Coface.png",
+        "misp_uuid": "1b3b4ede-19ba-5e09-99d4-3cec8bad9fdb",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Spoonful of Comfort",
+        "discovered": "2026-08-16 21:49:22.263620",
+        "description": "Grocery Retail",
+        "link": "/site/blog?uuid=217d66b0-ffa4-4bf9-b90a-92571dd1ff70",
+        "magnet": null,
+        "screen": "screenshots/qilin/Spoonful of Comfort.png",
+        "misp_uuid": "03bdb6ca-102b-5b63-969d-ccc54c8802fe",
+        "group_name": "qilin",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Albania's official national teacher training portal.",
+        "discovered": "2026-08-16 21:31:00",
+        "description": "Albania’s official national teacher training portal provides centralized professional development resources and accredited programs for educators nationwide.\n\nThis leak include data such as;\nRoughly ~100k Full national ID numbers, full names and teacher certificates in PDF.\nPublication scheduled: 2026-08-30 21:31:58 UTC\nSize: 5.9 GB\nSectors: Education, Government",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/albanias-official-national-teacher-training-portal/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Albania's official national teacher training portal.png",
+        "misp_uuid": "451b3053-92f4-5cc8-a35d-1dc05ec6bedd",
+        "group_name": "emperador",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Albania's Official National Teacher Training Portal",
+        "discovered": "2026-08-16 21:31:00",
+        "description": "Albania’s official national teacher training portal provides centralized professional development resources and accredited programs for educators nationwide.\n\nThis leak include data such as;\nRoughly ~100k Full national ID numbers, full names and teacher certificates in PDF.\nPublication scheduled: 2026-08-30 21:33:40 UTC\nSize: 5.9 GB\nSectors: Education, Government",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/albanias-official-national-teacher-training-portal/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Albania's Official National Teacher Training Portal.png",
+        "misp_uuid": "bdc0fcff-863d-5adb-8df5-45e9cb1a2a29",
+        "group_name": "emperador",
+        "sector": "Education"
+    },
+    {
         "post_title": "Teikoku USA",
         "discovered": "2026-08-16 20:48:16.582639",
         "description": "Manufacturing",
@@ -295,71 +350,5 @@
         "misp_uuid": "816e2fcb-e9d3-529a-b306-7700509be533",
         "group_name": "lockbit5",
         "sector": "Government"
-    },
-    {
-        "post_title": "TOTVS",
-        "discovered": "2026-08-15 23:45:21.720120",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "5ec60870-9955-52d3-87ad-1fe519b7418e",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Colla Health",
-        "discovered": "2026-08-15 23:45:19.988854",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "acb6f826-5676-5d0c-8fdf-1e5407f179c9",
-        "group_name": "direwolf",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "PayrHealth",
-        "discovered": "2026-08-15 23:45:19.077299",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "3c6a0575-557f-5130-8e26-3e1f4b73b463",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DXS International",
-        "discovered": "2026-08-15 23:45:18.110150",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "1a7bc8ab-40d1-535d-bf5d-4072e74ae58f",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "DodoPayments",
-        "discovered": "2026-08-15 22:27:34.330052",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "1754f260-c185-5b55-8e0c-607442ba3819",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AAM:HOA Management",
-        "discovered": "2026-08-15 22:27:33.358689",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a6a47199-4a59-5c8d-abe1-b233cd0a47bc",
-        "group_name": "direwolf",
-        "sector": "Unknown"
     }
 ]
