@@ -1,5 +1,82 @@
 [
     {
+        "post_title": "R & D Machine and Engineering",
+        "discovered": "2026-08-18 20:27:36.624359",
+        "description": "&D Machine and Engineering, LLC specializes in CNC machining of precision metal components primarily for the aerospace, defense, and space industries. The compa...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "97d762a1-c83c-5d58-95ed-d9f9853b6bc3",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Coltrane Systems",
+        "discovered": "2026-08-18 19:34:54.877918",
+        "description": "",
+        "link": "topic.php?id=8hJaqxt2rAbAA5",
+        "magnet": null,
+        "screen": "screenshots/play/Coltrane Systems.png",
+        "misp_uuid": "478decd0-cbfc-54cf-b3af-31b9551a5466",
+        "group_name": "play",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Senvest Capital",
+        "discovered": "2026-08-18 18:49:54.850101",
+        "description": "senvest.com zoominfo.com/c/senvest-capital-inc/91423931 Senvest (including Senvest Capital and Senvest Management) is a major international investment firm and hedge fund sponsor managing billions of dollars in assets.\nFounded by Richard Mashaal, it specializes in contrarian value investing strategies across public equities, private markets, and real estate.\nHeadquartered in New York and Montreal, the firm focuses on discretionary investment advisory services and direct capital deployment for institutional clients.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "958c2b48-e561-552a-a50f-b809491c18d6",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Roadvision Systems",
+        "discovered": "2026-08-18 18:49:53.818102",
+        "description": "roadvision.com zoominfo.com/c/roadvision-systems-llc/358950436 Roadvision is a cloud-based trucking management software (TMS) designed to help logistics companies and carriers, particularly in the less-than-truckload (LTL) sector, operate more efficiently.\nHeadquartered in Hanover, New Hampshire, it provides an all-in-one platform to automate workflows, reduce operational costs, and modernize fleet management.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "427cecc9-eeb4-56c9-b249-887a504544dc",
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Logitech/ Streamlabs",
+        "discovered": "2026-08-18 18:30:17.278130",
+        "description": "This is a final warning to reach out by 21 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "6bef530a-72e8-587e-a5ac-90a41c60f360",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "[DISCLOSED]Alya Construtora",
+        "discovered": "2026-08-18 17:43:47.059712",
+        "description": "",
+        "link": "/r/57062565054198fe38b978e436e845577c1cb295",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/[DISCLOSED]Alya Construtora.png",
+        "misp_uuid": "4e33807a-b429-508e-aafe-ef2a047dd2af",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Borchert & LaSpina",
+        "discovered": "2026-08-18 17:43:22.482684",
+        "description": "Borchert & LaSpina, P.C. is a respected law firm located in Queens, New York, with a team of six experienced attorneys specializing in various areas of law including real estate, mortgage foreclosure, commercial litigation, personal injury, and elder law.We will upload corporate data soon. Client personal information (lots of passports, DLs, SSNs and other information), financials, confidential legal files, contracts and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "8e61be2d-d14e-591a-8d0f-81c8049ac18b",
+        "group_name": "akira",
+        "sector": "Legal"
+    },
+    {
         "post_title": "CRASL",
         "discovered": "2026-08-18 16:13:58.676124",
         "description": "crasl.co.uk zoominfo.com/c/crasl-accounting-services/355829364 CRASL Accounting Services is an approachable, user-friendly accounting firm based in Suffolk, UK, dedicated to supporting individuals, sole traders, and growing businesses.\nThey combine traditional financial values with modern efficiency, offering personalized bookkeeping, tax planning, and strategic business advice.\nTheir client-focused approach ensures you receive the clear insights and practical tools needed to make confident decisions and achieve your financial goals.",
@@ -361,148 +438,5 @@
         "misp_uuid": "4501d2c7-08ad-568a-83a5-a49f59639e8f",
         "group_name": "panzer",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Lansing Urgent Care",
-        "discovered": "2026-08-17 20:29:59.370733",
-        "description": "",
-        "link": "/blog/disclosures/6a834cdb9cd108bf263e89dd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Lansing Urgent Care.png",
-        "misp_uuid": "2ccd9fda-011f-504e-9ee7-d105711ff492",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "The Rubber Group",
-        "discovered": "2026-08-17 20:29:58.108062",
-        "description": "Country: New Hampshire,US |\nWebsite: www.rubber-group.com |\nRevenue: $19.4 Million |\nIndustry: Plastics Manufacturing, Tires & Rubber, Manufacturing |\nEmployees: 50-100 |\nProperties: 162 GB (207,203 Files, 21,624 Folders)",
-        "link": "/project/42/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/The Rubber Group.png",
-        "misp_uuid": "60dc392d-4388-5809-b7a7-8575d3e2333b",
-        "group_name": "global secret group",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "4M REALTY COMPANY",
-        "discovered": "2026-08-17 19:31:28.550135",
-        "description": "Country: Texas, US |\nWebsite: 4mrealty.com |\nRevenue: $5 Million |\nIndustry: Real Estate Brokerage, Real Estate Sales, Property Sales, Commercial Real Estate |\nEmployees: 20-50 |\nProperties: 237 GB (54,995 Files, 4,600 Folders)",
-        "link": "/project/41/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/4M REALTY COMPANY.png",
-        "misp_uuid": "101047b9-25d6-500d-ba4b-19369a7c3440",
-        "group_name": "global secret group",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Euroscreen",
-        "discovered": "2026-08-17 18:36:29.786169",
-        "description": "euroscreen.it zoominfo.com/c/euroscreen-srl/454657849 Euroscreen is a leading Italian company specializing in digital printing technologies and the manufacturing of high-quality projection screens. They design and produce a wide range of professional and home cinema screens entirely in Italy, including motorized models up to 12 meters wide and projector lifts. Their bespoke audio-visual and printing solutions are exported worldwide to serve both commercial and residential markets.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6c4dd9ee-31ab-506b-b52b-5ed97abf8062",
-        "group_name": "the gentlemen",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "terra-petra.com",
-        "discovered": "2026-08-17 18:35:02.185861",
-        "description": "Terra-Petra is an environmental engineering firm specializing in contaminated soil and groundwater c...",
-        "link": "/post/22d6afc5026ed606ba20dd5f2860e718",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/terra-petracom.png",
-        "misp_uuid": "f8e6993e-0b31-5479-97ee-1ce88104a045",
-        "group_name": "lockbit5",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Planungsgruppe M+M AG",
-        "discovered": "2026-08-17 18:34:39.947839",
-        "description": "Planungsgruppe M+M AG is a German Aktiengesellschaft headquartered in Böblingen, Baden-Württemberg, with approximately 432 employees across 10 offices (Böblingen, Stuttgart, München, Nürnberg, Regensburg, Ingolstadt, Augsburg, Esslingen, Mannheim, Frankfurt). Annual revenue: approximately €52 million. The firm provides architecture, urban planning, structural engineering, building physics, fire protection, BIM, landscape planning, and interior design services. Over 5,200 projects completed across decades of operation.\n\nThe exfiltrated dataset spans two complete file servers (MMBB04, MMBB05), plus the DATEV financial processing archives, SFirm banking software databases, the ELO document management system, Outlook email archives (PSTs), and payroll/HR data — a total of 268 GB across approximately 124,000 files, covering 2006 to 2026.",
-        "link": "/blog/planungsgruppe-mm-ag-3eb2a03f",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "34466679-f10b-5ce2-92c1-9868953aadfe",
-        "group_name": "aurora",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SAGASTA sro",
-        "discovered": "2026-08-17 17:25:27.599597",
-        "description": "SAGASTA is a design and engineering company specializing in modern construction, offering comprehensive design, engineering, and consulting services in the fields of railway, road, bridge, and water management construction.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "d19d47bf-324e-5c0f-9693-9ee3ad83502f",
-        "group_name": "panzer",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Castilla La Mancha",
-        "discovered": "2026-08-17 17:25:26.698654",
-        "description": "The Government of Castilla-La Mancha provides a wide range of services and information related to public administration, economy, education, health, and social services. It aims to support various sectors including agriculture, tourism, and employment, while also addressing issues like sustainability and equality. The intended clients include residents of Castilla-La Mancha, businesses, and individuals seeking assistance in various life situations. The government also promotes transparency and participation through its digital platforms.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "dc14caf6-1f67-5468-8b12-9cd3f3ca2f3b",
-        "group_name": "panzer",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Doimo Cucine",
-        "discovered": "2026-08-17 17:25:25.681408",
-        "description": "Doimo Cucine specializes in modern, customizable designer kitchens that blend beauty and harmony. The company emphasizes a holistic approach to kitchen design, offering a versatile system called All-arounD for creating personalized spaces. With a commitment to quality and innovation, all production is carried out in Italy, ensuring high standards and craftsmanship. Their target clients are those seeking stylish and functional kitchen solutions that nourish the soul.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "6d9525e0-279b-525b-9ccb-78f56b5b1821",
-        "group_name": "panzer",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Mighty Kingdom",
-        "discovered": "2026-08-17 17:25:05.831528",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "8fb0d807-fc4c-5110-ac8c-ed5f51c3367a",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Eva AI Limited",
-        "discovered": "2026-08-17 17:25:04.929475",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "b2303cae-a936-5b71-90b7-95810655ca2c",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Arizona State University (ASU)",
-        "discovered": "2026-08-17 17:25:04.048215",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "7f72e71e-3967-5a0f-808b-fced941fc307",
-        "group_name": "direwolf",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Wishfully Studios",
-        "discovered": "2026-08-17 17:25:03.062002",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "05214339-da0d-5801-9b1a-b1cfe5a80da2",
-        "group_name": "direwolf",
-        "sector": "Unknown"
     }
 ]
