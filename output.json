@@ -1,5 +1,104 @@
 [
     {
+        "post_title": "CRASL",
+        "discovered": "2026-08-18 16:13:58.676124",
+        "description": "crasl.co.uk zoominfo.com/c/crasl-accounting-services/355829364 CRASL Accounting Services is an approachable, user-friendly accounting firm based in Suffolk, UK, dedicated to supporting individuals, sole traders, and growing businesses.\nThey combine traditional financial values with modern efficiency, offering personalized bookkeeping, tax planning, and strategic business advice.\nTheir client-focused approach ensures you receive the clear insights and practical tools needed to make confident decisions and achieve your financial goals.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "1e65fbeb-7824-58e5-bb62-c9b0d139ea0a",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "SD Associates Sdn Bhd",
+        "discovered": "2026-08-18 15:30:17.102762",
+        "description": "",
+        "link": "/blog/disclosures/6a81fb7c9cd108bf2614728e",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/SD Associates Sdn Bhd.png",
+        "misp_uuid": "5c835802-3dce-5fe8-8a82-001bacf06220",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Third Coast Bancshares",
+        "discovered": "2026-08-18 15:30:16.208678",
+        "description": "",
+        "link": "/blog/disclosures/6a7c83d09cd108bf2661c096",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Third Coast Bancshares.png",
+        "misp_uuid": "b6d4bd6a-aa24-5ebc-88a4-cb74f3e9a827",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Foresee Pharmaceuticals",
+        "discovered": "2026-08-18 15:30:15.144292",
+        "description": "",
+        "link": "/blog/disclosures/6a8414a79cd108bf2657cdc6",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Foresee Pharmaceuticals.png",
+        "misp_uuid": "3b1ca593-e6cd-5249-9b7f-e344e03bf8f0",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SpearFin Ltd",
+        "discovered": "2026-08-18 15:30:14.240181",
+        "description": "",
+        "link": "/blog/disclosures/6a84277a9cd108bf265a45d9",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/SpearFin Ltd.png",
+        "misp_uuid": "2d960cb2-2a15-5a43-ae36-326d514d44b9",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ssf-int.com  ssf-ing.de",
+        "discovered": "2026-08-18 15:30:13.271087",
+        "description": "",
+        "link": "/blog/disclosures/6a842a739cd108bf265a9a4a",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/ssf-intcom  ssf-ingde.png",
+        "misp_uuid": "e0072206-b3c5-5cc6-8857-5c267a07e019",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "nyklawfirm.com nyk.ae",
+        "discovered": "2026-08-18 15:30:12.318184",
+        "description": "",
+        "link": "/blog/disclosures/6a842ea69cd108bf265b14cb",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/nyklawfirmcom nykae.png",
+        "misp_uuid": "0923cbd3-5cae-5560-a6c1-23e71d0faac8",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Berlin Brandenburgische Wohnungsbaugenossenschaft",
+        "discovered": "2026-08-18 14:36:40.177425",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=e32521d0-321e-4489-9db8-5a937a8d9fce",
+        "magnet": null,
+        "screen": "screenshots/qilin/Berlin Brandenburgische Wohnungsbaugenossenschaft.png",
+        "misp_uuid": "39613c2b-9388-5214-a2a1-8d7f19a52fd2",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "The 11TB NYC Health + Hospitals Archive is Now Public",
+        "discovered": "2026-08-18 14:36:23.113085",
+        "description": "#NYCHealthHospitals #HealthcareBreach #DataLeak #HIPAA #SenateHELP #Cassidy #Mamdani #CyberSecurity #DataBreach #PatientPrivacy #HIV #MedicalRecords #12MillionNot1Point8 #HealthcareSecurity #2026Breach #NYC #PublicHealth #SenateInvestigation",
+        "link": "view_article.php?article=ERObUYlNAfQxna1CreE3xlCxHeah2xleX0VhRy7ornAdQAz5HxIEGHuyeCCHMlRN",
+        "magnet": null,
+        "screen": "screenshots/leaknet/The 11TB NYC Health + Hospitals Archive is Now Public.png",
+        "misp_uuid": "51472792-7de0-5367-b294-df8fd8d7e992",
+        "group_name": "leaknet",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Brinks Home",
         "discovered": "2026-08-18 07:46:09.695287",
         "description": "Over 4.9 million Salesforce records containing some PII was compromised.  The Company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care.",
@@ -108,6 +207,17 @@
         "misp_uuid": "09e4242f-f0ce-56b9-b155-5e3518194fdf",
         "group_name": "shinyhunters",
         "sector": "Unknown"
+    },
+    {
+        "post_title": "Prefeitura Municipal de Arcos",
+        "discovered": "2026-08-18 07:24:00",
+        "description": "We hold complete, unrestricted access to your internal infrastructure. All servers, databases, emails, and admin credentials have been exfiltrated. Critical systems have been encrypted.\n\nWe have your data. You do not.\n\nYou have 14 days to respond. No response = data published + permanent loss.\n\nContact us through the provided channel. No third parties. No recovery attempts.\nPublication scheduled: 2026-09-01 07:24:09 UTC\nSize: 462.3 MB\nSectors: Government",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/prefeitura-municipal-de-arcos/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Prefeitura Municipal de Arcos.png",
+        "misp_uuid": "d74c1ea5-a9be-58b7-b8c8-02a0d58e1a0d",
+        "group_name": "emperador",
+        "sector": "Technology"
     },
     {
         "post_title": "T****w**x",
@@ -394,49 +504,5 @@
         "misp_uuid": "05214339-da0d-5801-9b1a-b1cfe5a80da2",
         "group_name": "direwolf",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Natco Home Group",
-        "discovered": "2026-08-17 16:45:11.358963",
-        "description": "Natco Home Group — a fourth-generation, family-owned home furnishings manufacturer headquartered in West Warwick, Rhode Island, with ~800 employees, ~$100M annual revenue, and facilities across seven US states.\n\nThe exfiltrated dataset spans the company's entire corporate history and includes:\n\nSocial Security numbers in plaintext for 100–120 legacy employees dating back to 1979 in an unencrypted PayUSA payroll database, plus 10 years of ADP payroll data (2017–2026) covering 700–1,000 current and former employees — pay stubs, W-2s, W-4s, 401k records, drug test results, background checks, and medical leave records.\n<censored>\n<censored>\n<censored>\n<censored>\nYears of divisional financial statements, income tax records, customer credit data for major retailers, 18 years of bad-debt reserve calculations, and acquisition-related materials.",
-        "link": "/blog/natco-home-group-77b27d0d",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0f4bc4e9-0229-5063-83f7-c542d6ae0809",
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Otter Tail County, Minnesota",
-        "discovered": "2026-08-17 14:36:21.412905",
-        "description": "",
-        "link": "/blog/disclosures/6a82d06d9cd108bf262ee4f8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Otter Tail County, Minnesota.png",
-        "misp_uuid": "386f123b-050f-5820-b30d-38b4c5ad0cfa",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Vermont XCenter",
-        "discovered": "2026-08-17 12:37:42.541140",
-        "description": "A Vermont coloca seus clientes estrategicamente no Centro das Decisões, pois entende que o cliente deve estar no Centro das Atenções. Com isso estabelecido, a c...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "17839bd2-f0f3-5ee8-9a97-be76ab942a49",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lloyd Coils Europe",
-        "discovered": "2026-08-17 12:37:38.229641",
-        "description": "4 Coils Technology s.r.o. (trading as Lloyd Coils Europe) is a Czech-headquartered manufacturer of custom heat exchangers for the HVAC&R industry, with offices in Germany, France, and the United Kingdom. They serve 200+ OEM customers across 39 countries — names like Carrier, Daikin, Trane, Systemair, Remak, GEA, Swegon, and VTS.\n\nTheir competitive advantage comes from two things: decades of thermodynamic engineering expertise embodied in their MyCoil selection software (licensed to OEM customers worldwide), and a manufacturing capability for custom heat exchangers. Approximately 200 employees work across four countries.",
-        "link": "/blog/lloyd-coils-europe-344e7910",
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "37219f3b-7f95-55d9-b830-89a84df65cb1",
-        "group_name": "aurora",
-        "sector": "Manufacturing"
     }
 ]
