@@ -1,5 +1,104 @@
 [
     {
+        "post_title": "Capgemini Engineering",
+        "discovered": "2026-08-20 06:27:43.000302",
+        "description": "2 posts - 1h",
+        "link": "/news/capgemini-engineering",
+        "magnet": null,
+        "screen": "screenshots/everest/Capgemini Engineering.png",
+        "misp_uuid": "e19b9ae2-0a9f-5675-b07b-e26b1aee53d1",
+        "group_name": "everest",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Grupo DT",
+        "discovered": "2026-08-20 06:27:41.049151",
+        "description": "2 posts - 1h",
+        "link": "/news/grupo-dt",
+        "magnet": null,
+        "screen": "screenshots/everest/Grupo DT.png",
+        "misp_uuid": "b0a8f49b-faf1-591e-840c-8b3cc1767401",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kingston Technology",
+        "discovered": "2026-08-20 06:27:40.163430",
+        "description": "2 posts - 1h",
+        "link": "/news/kingston-technology",
+        "magnet": null,
+        "screen": "screenshots/everest/Kingston Technology.png",
+        "misp_uuid": "4b356872-395b-51c2-aebd-31a6e77aa930",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Experts Entreprendre",
+        "discovered": "2026-08-20 06:27:39.238392",
+        "description": "2 posts - 1h",
+        "link": "/news/experts-entreprendre",
+        "magnet": null,
+        "screen": "screenshots/everest/Experts Entreprendre.png",
+        "misp_uuid": "1a545b92-e9e4-5836-967e-0980b287552c",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Target",
+        "discovered": "2026-08-20 02:32:02.706178",
+        "description": "General merchandise retail",
+        "link": "/company/target/",
+        "magnet": null,
+        "screen": "screenshots/xpl0itrs/Target.png",
+        "misp_uuid": "556c1cbc-6250-53d7-bf45-b35407ae5507",
+        "group_name": "xpl0itrs",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "usbank.com",
+        "discovered": "2026-08-20 01:40:00.500589",
+        "description": "U.S. Bank is a multinational financial institution that provides banking, lending, payment, and inve...",
+        "link": "/post/9d0b9595b62e70efa9c62d22143bcde3",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/usbankcom.png",
+        "misp_uuid": "9f763ccd-dd20-5ee8-b968-c196fdce3f9c",
+        "group_name": "lockbit5",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Grand Ion Delemen Hotel",
+        "discovered": "2026-08-20 00:49:10.204324",
+        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-08-26T16:34:00Z\nPackage: 4.0 GiB / 5045 files",
+        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-17",
+        "magnet": null,
+        "screen": "screenshots/majinahanashi/Grand Ion Delemen Hotel.png",
+        "misp_uuid": "8eeaee5c-7d0a-5807-b0b0-1c9133fe4755",
+        "group_name": "majinahanashi",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "The Margo Hotel",
+        "discovered": "2026-08-19 23:30:55.934129",
+        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-08-26T20:49:00Z\nPackage: 4.6 GiB / 8080 files",
+        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-18",
+        "magnet": null,
+        "screen": "screenshots/majinahanashi/The Margo Hotel.png",
+        "misp_uuid": "fb41a066-ac7c-55b3-95e1-dad009a41624",
+        "group_name": "majinahanashi",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Semana",
+        "discovered": "2026-08-19 22:44:48.868830",
+        "description": "Advertising & Marketing",
+        "link": "/site/blog?uuid=398be48d-63a4-4708-9788-1ff935ef6de5",
+        "magnet": null,
+        "screen": "screenshots/qilin/Semana.png",
+        "misp_uuid": "8b1f06b0-9ec7-5b78-9373-fd42be6dfc9e",
+        "group_name": "qilin",
+        "sector": "Professional Services"
+    },
+    {
         "post_title": "Mihuru",
         "discovered": "2026-08-19 20:49:43.510751",
         "description": "Consumer travel financing",
@@ -316,94 +415,6 @@
         "screen": null,
         "misp_uuid": "a82da34b-b18a-5503-a212-03bc9c72b472",
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Babcock",
-        "discovered": "2026-08-19 08:12:28.699553",
-        "description": "babcock.co.za rocketreach.co/babcock-international-group-africa-profile_b5cda591f42e0b42 Babcock Africa is a leading engineering and asset management company specializing in critical infrastructure and heavy equipment across the African continent. With over 130 years of experience, it provides lifetime engineering solutions, including industrial power systems, construction machinery, plant hire, and defense support. The company partners with demanding sectors such as energy, mining, transport, and manufacturing to ensure safe, reliable, and efficient operations. Its core focus is on designing, building, and sustaining complex assets through comprehensive maintenance and innovative technical services.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "2bc30e79-67e0-5ce6-9a5a-660c630c20ae",
-        "group_name": "the gentlemen",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Photon Health, Inc.",
-        "discovered": "2026-08-19 03:45:41.688579",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "4c454cc4-6f3d-5deb-be7d-a7666dfd425e",
-        "group_name": "direwolf",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "InfoFlo CRM",
-        "discovered": "2026-08-19 03:45:40.792738",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "3e6026f2-005f-5d9d-ad3f-ad6232f5da54",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PayUp",
-        "discovered": "2026-08-19 03:45:39.886911",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "10a74148-5949-5671-ba8e-e61764275a41",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lifesum",
-        "discovered": "2026-08-19 03:45:38.876846",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "a243cccd-9435-50b8-bc1d-4c267a78ff02",
-        "group_name": "direwolf",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Troutman Pepper Locke",
-        "discovered": "2026-08-18 23:26:36.455935",
-        "description": "The second time we attacked Troutman Pepper Locke in a year (first time through physical intrusion), w…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e6aad063-1da3-5c81-9e44-63c74e1a132e",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ADL Embedded Solutions",
-        "discovered": "2026-08-18 22:36:23.252352",
-        "description": "If the company does not contact us before 30/08/2026, the data will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "0bb35c68-b740-510d-9b4e-e2a453596893",
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "mecasem.org",
-        "discovered": "2026-08-18 22:35:15.502877",
-        "description": "The group gives quality and reliability the highest priority in the through execution of all its business activities. Therefore MECASEM provides a wide range of solutions ISO 17025 (COFRAC) accredited and EN 9100 and ISO 9001 certified. Since 2012 | PUBLISHED 1% | Views: 33",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/3am/mecasemorg.png",
-        "misp_uuid": "3942a543-7805-56f7-802f-c9e9366f7dd4",
-        "group_name": "3am",
         "sector": "Unknown"
     }
 ]
