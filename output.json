@@ -1,5 +1,93 @@
 [
     {
+        "post_title": "Gruppo Spaggiari Parma",
+        "discovered": "2026-08-20 20:33:29.138494",
+        "description": "School management software",
+        "link": "/company/spaggiari/",
+        "magnet": null,
+        "screen": "screenshots/xpl0itrs/Gruppo Spaggiari Parma.png",
+        "misp_uuid": "a3e98ae4-9885-5ea9-b1ed-2ed2022d62fa",
+        "group_name": "xpl0itrs",
+        "sector": "Education"
+    },
+    {
+        "post_title": "Be Media",
+        "discovered": "2026-08-20 20:33:24.777311",
+        "description": "",
+        "link": "topic.php?id=HnvwXHCG9p7DS",
+        "magnet": null,
+        "screen": "screenshots/play/Be Media.png",
+        "misp_uuid": "f7d16d9a-be79-5aa1-8f39-7c7a2eec675f",
+        "group_name": "play",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Latoplast",
+        "discovered": "2026-08-20 20:33:23.839443",
+        "description": "",
+        "link": "topic.php?id=4dYU8GZcqgxs1J",
+        "magnet": null,
+        "screen": "screenshots/play/Latoplast.png",
+        "misp_uuid": "1dd34e50-f14d-56d0-abf8-d681b47ae20a",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Qualiflex Datacenter | HWZ-Studiengnge (fh-hwz.ch), myenb.ch, etc",
+        "discovered": "2026-08-20 19:48:14.621895",
+        "description": "Qualiflex Datacenter - data from companies such as HWZ-Studiengänge (fh-hwz.ch), myenb.ch, schelling.ch, kaelteringag.ch & kaeltebucher.ch, cbmswiss.ch, vitabad.ch, ign8.ch, etc., was stolen",
+        "link": "/posts/33d6a45b-360e-4c37-b5dc-141a87b54a19",
+        "magnet": null,
+        "screen": "screenshots/payload/Qualiflex Datacenter | HWZ-Studiengnge (fh-hwzch), myenbch, etc.png",
+        "misp_uuid": "5556b47a-1710-5f6c-953a-1350a4cc466a",
+        "group_name": "payload",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Termotecnica Industriale S.r.l.",
+        "discovered": "2026-08-20 18:37:47.081286",
+        "description": "",
+        "link": "/post/termotecnica-industriale-s-r-l-fully-encrypted-nvq3vlm9az",
+        "magnet": null,
+        "screen": "screenshots/titan/Termotecnica Industriale Srl.png",
+        "misp_uuid": "a58eb2ef-edf8-5d46-bf60-af33072d14e0",
+        "group_name": "titan",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Deas Millwork",
+        "discovered": "2026-08-20 18:37:20.120744",
+        "description": "Deas Millwork specializes in architectural design elements, offering custom millwork solutions for various projects. They focus on creating high-quality craftsmanship that serves as the centerpiece of any design.We will upload corporate data soon. Employee personal information (passports, DLs, addresses, phones, emails and other information), financials, contracts and agreements and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "c3c61d86-987f-5f76-8f51-a3a97e1f8e8e",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cascade Coffee",
+        "discovered": "2026-08-20 18:37:19.176592",
+        "description": "Cascade Coffee is a premier gourmet coffee contract manufacturer based near Seattle, Washington, specializing in roasting, grinding, flavoring, and packaging coffee. The company caters to some of the world's finest coffee brands, providing a wide range of products including whole bean, ground, flavored coffees, and specialty blends.We will upload corporate data soon. Detailed personal employee information (passports, DLs, addresses, phones, car information), details, financials, contracts and agreements, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e62e5097-c4f9-53fc-be5e-f231a3651ece",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Cyrus******",
+        "discovered": "2026-08-20 17:35:35.311476",
+        "description": "This is a final warning to reach out by end of day 24 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "4eb03bd3-cfee-5a40-b8db-dd3d38aeb097",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "acima",
         "discovered": "2026-08-20 16:39:15.432179",
         "description": "download size\r\n2.1 TiB",
@@ -130,6 +218,17 @@
         "misp_uuid": "9cc25f08-55b2-5545-8a35-d270f41ca37d",
         "group_name": "everest",
         "sector": "Finance"
+    },
+    {
+        "post_title": "NetExam",
+        "discovered": "2026-08-20 15:42:00",
+        "description": "NetExam (netexam.com) — the website of NetExam LMS+, a US-based SaaS learning management system built for external audiences rather than internal employees. It helps companies train, certify, and enable their channel partners, customers, and association members, with features like certification tracking, self-paced and instructor-led courses, e-commerce, white-labeling, Salesforce integration, and AI-powered course authoring agents. Headquartered in Dallas, with clients including AMD, AT&T, Oracle, Trellix, and Sabre.\nPublication scheduled: 2026-09-09 17:06:52 UTC\nSize: 18.1 MB\nSectors: Education, Retail, Other",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/netexam/",
+        "magnet": null,
+        "screen": "screenshots/emperador/NetExam.png",
+        "misp_uuid": "9e7a91e5-26aa-5ed6-b65f-cdc35b0751f9",
+        "group_name": "emperador",
+        "sector": "Education"
     },
     {
         "post_title": "BioPharma",
@@ -361,71 +460,5 @@
         "misp_uuid": "8b1f06b0-9ec7-5b78-9373-fd42be6dfc9e",
         "group_name": "qilin",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "Mihuru",
-        "discovered": "2026-08-19 20:49:43.510751",
-        "description": "Consumer travel financing",
-        "link": "/company/mihuru/",
-        "magnet": null,
-        "screen": "screenshots/xpl0itrs/Mihuru.png",
-        "misp_uuid": "c95db5fe-d13e-5822-ac30-c1a22bb503c8",
-        "group_name": "xpl0itrs",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Ion Delemen Hospitality",
-        "discovered": "2026-08-19 19:39:13.919089",
-        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-08-26T16:34:00Z\nPackage: 4.0 GiB / 5045 files",
-        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-17",
-        "magnet": null,
-        "screen": "screenshots/majinahanashi/Ion Delemen Hospitality.png",
-        "misp_uuid": "78d928e0-6e19-59e5-8d62-e18fcf08d009",
-        "group_name": "majinahanashi",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "sunsea.co.th",
-        "discovered": "2026-08-19 18:33:47.677876",
-        "description": "Sunsea Plastics P.S. Co., Ltd. is a Thai family-owned company established in 1988, headquartered in Bang Na, Bangkok, Th...",
-        "link": "/blog/ce605d864c57ff747e7ecd30b1902f299173d3a000f157f0db042e5176388d4d/",
-        "magnet": null,
-        "screen": "screenshots/krybit/sunseacoth.png",
-        "misp_uuid": "1db59a37-2426-5251-bce7-b4294454bb0c",
-        "group_name": "krybit",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Crowe NEW",
-        "discovered": "2026-08-19 17:43:53.084242",
-        "description": "Accounting For Legal Practices - $1.3 Billion",
-        "link": "/companies/crowe",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Crowe NEW.png",
-        "misp_uuid": "68403846-6247-5c56-9c57-203f5cfff37d",
-        "group_name": "coinbase cartel",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Advanced Engineering Consultants NEW",
-        "discovered": "2026-08-19 17:43:52.174582",
-        "description": "Architecture, Engineering & Design - $14.8 Million",
-        "link": "/companies/aecmep",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Advanced Engineering Consultants NEW.png",
-        "misp_uuid": "af4b84cb-e73a-5fce-9590-7713f9eeb0d9",
-        "group_name": "coinbase cartel",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Ericksen Krentel",
-        "discovered": "2026-08-19 17:43:48.315732",
-        "description": "Ericksen Krentel CPAs and Consultants is a New Orleans-based CPA firm offering a wide range of services including tax, accounting, audit, advisory, and consulting for both businesses and individuals. Their expertise spans various industries such as construction, healthcare, hospitality, maritime, and nonprofit sectors.We will upload 30gb of corporate data soon. Detailed client and employee personal information (passports, DLs, SSNs, addresses and other information), detailed financials, confidential documents, contracts and agreements, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "bdecd819-4940-5ac3-914f-98a1a6ff141d",
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
