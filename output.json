@@ -1,5 +1,192 @@
 [
     {
+        "post_title": "Magdalena Grand Beach Golf Resort",
+        "discovered": "2026-08-21 10:13:23.513823",
+        "description": "magdalenagrand.com zoominfo.com/c/magdalena-grand-beach--golf-resort/348187300 Magdalena Grand Beach & Golf Resort is a luxury hotel and resort located in Lowlands on the beautiful island of Tobago.\nIt features premium oceanfront accommodations with access to a championship golf course, spa, pools, and tennis courts.\nThe property is also a popular destination for weddings, offering guests a variety of dining options and vibrant nightlife.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "26fa1138-9126-5746-9aa9-51b4e7d4ec46",
+        "group_name": "the gentlemen",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Akatake Engineering",
+        "discovered": "2026-08-21 10:13:22.585636",
+        "description": "akatake.co.jp crunchbase.com/organization/akatake-engineering-co-ltd Akatake Engineering Co., Ltd. is a Japanese manufacturing company based in Numazu, Shizuoka, established in 1971.\nThey specialize in powder handling technology, providing comprehensive solutions for the storage, feeding, weighing, and transportation of bulk powders.\nThe company designs and manufactures custom industrial equipment and container systems for various industries dealing with fine particulate materials.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "38338914-ba1b-5f09-af90-34b6f8fdbaf2",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "ESCON Group",
+        "discovered": "2026-08-21 10:13:21.339628",
+        "description": "escon.us zoominfo.com/c/escon-group/352605618 ESCON Group is a veteran-owned electrical contracting company based in Bay City, Michigan, with a history tracing back to 1907.\nThey specialize in providing comprehensive commercial and residential electrical services, low voltage solutions, and fiber optics.\nThe company also offers advanced security systems, smart integrations, and robust commercial generator installations to ensure reliable power.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "12817429-2323-5fa4-a691-8e00a4bd0547",
+        "group_name": "the gentlemen",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Almeer",
+        "discovered": "2026-08-21 10:13:20.397072",
+        "description": "al-meergroup.com  zoominfo.com/c/almeer/1326290906 Almeer General Contracting Establishment is a Saudi-owned company established in 2010 and headquartered in Jubail, Saudi Arabia.\nThey specialize in comprehensive electrical, civil construction, and mechanical erection services for industrial facilities.\nThe firm primarily serves large-scale sectors, including oil refineries and fertilizer plants, utilizing a team of qualified engineers.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "d642e9a2-6742-566e-bb12-441cf050e6df",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Geb Sas",
+        "discovered": "2026-08-21 10:13:19.486535",
+        "description": "geb.fr zoominfo.com/c/geb-sas/372743980 GEB SAS is a historic French chemical manufacturing company established in 1860.\nThey specialize in formulating and producing essential sealing solutions, adhesives, and PVC glues.\nThe family-owned business primarily provides high-quality maintenance and installation products for plumbing and heating professionals.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "e739068b-5759-5b36-be1f-9a1348fad384",
+        "group_name": "the gentlemen",
+        "sector": "Services"
+    },
+    {
+        "post_title": "ARBEITERKAMMERN",
+        "discovered": "2026-08-21 10:13:18.541362",
+        "description": "arbeiterkammer.at The Austrian Chamber of Labour is a statutory public organization dedicated to representing the interests of employees and consumers across Austria.\nIt provides its members with free legal advice on labor and social law, educational support, and strong consumer protection services.\nThe organization actively advocates for workers' rights, fair wages, and social justice through extensive research and political lobbying.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "5c00d4cc-3e93-554b-98ac-1e420f61b102",
+        "group_name": "the gentlemen",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "UOLconsult",
+        "discovered": "2026-08-21 09:48:46.724469",
+        "description": "uol-consult.com UOLconsult GmbH is a boutique management consulting firm based in Vienna, Austria, founded in 2015.\nThey specialize in strategic management, business development, and investment consulting.\n",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "3e9f6857-5c11-55e3-8cbc-52b737761518",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "dlp motive",
+        "discovered": "2026-08-21 09:48:45.734585",
+        "description": "dlp-motive.de dlp motive is a German full-service event technology provider founded in 2007, successfully realizing around 600 projects annually.\nThey offer comprehensive technical solutions including lighting, audio, video, kinetics, and rigging for corporate, e-sports, and public events.\nThe company handles the entire event lifecycle, providing everything from initial concept and design to logistics, on-site production, and equipment rental.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "ce683263-d63e-5156-9cd4-df4484a8dc28",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "AWJ Holding",
+        "discovered": "2026-08-21 09:48:44.761089",
+        "description": "awjholding.com zoominfo.com/c/awj-holding-co/448239448 AWJ Holding Company is a prominent Saudi-based single-family office and investment firm established in 2016.\nHeadquartered in Riyadh, the company specializes in real estate development, property management, and strategic investment management.\nIt focuses on high-impact developments and operates dynamic subsidiaries across retail, hospitality, and infrastructure sectors.\n",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "34bd7631-f61a-5223-8e17-d3c742d9d661",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Lexacaucho",
+        "discovered": "2026-08-21 09:48:43.852004",
+        "description": "lexacaucho.com zoominfo.com/c/lexacaucho--laminados-y-extruidos-de-caucho-sac/457170004  Lexacaucho is a Peruvian manufacturing company based in Lima with over 25 years of experience in the rubber and polymer industry.\nThey specialize in producing molded rubber sheets, profiles, linings, and custom parts using materials like natural rubber, SBR, and EPDM.\nThe company primarily serves the mining, fishing, and general industrial sectors by providing durable elastomer solutions.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "9c61ffea-59b7-51b2-935a-e1c8b1384020",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "LOG Systems",
+        "discovered": "2026-08-21 09:48:42.857536",
+        "description": "logsystem.pl zoominfo.com/c/log-systems/372786485 LOG Systems is a Polish software company based in Wrocław that develops comprehensive IT management and Helpdesk solutions.\nTheir flagship product, LOG Plus, is an advanced ITSM platform designed to streamline ticketing, incident management, and IT infrastructure monitoring.\nThe software also includes powerful Software Asset Management features to help organizations optimize licensing and ensure data security.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "3d369c36-2aea-59c0-8687-b1e31e0b20ee",
+        "group_name": "the gentlemen",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hogan Omidi P.C.",
+        "discovered": "2026-08-21 08:42:17.640669",
+        "description": "Hogan Omidi, P.C. is a boutique law firm specializing in family law, including divorce, child custody, and property division, with a focus on high-asset cases. ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "d19b6351-b1ed-5c7e-a857-3a07164d42b6",
+        "group_name": "dragonforce",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Interim HealthCare [Head office]",
+        "discovered": "2026-08-21 04:23:13.295124",
+        "description": "Data breach at a major healthcare franchise headquarters.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/qSyLjdjTxND8z6QcanI76118t3safzffkx25VyrsP8pRisU9uC3yns7FVVZTZ2KwlAv3deD5VCYDtdSoeUz2NJc1JRNFJi",
+        "magnet": null,
+        "screen": "screenshots/anubis/Interim HealthCare [Head office].png",
+        "misp_uuid": "f9531da0-4c5b-595c-9282-7dd48b88d60a",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hitachi High-Tech",
+        "discovered": "2026-08-21 00:38:11.998664",
+        "description": "Automation & Materials - $4.7 Billion",
+        "link": "/companies/hitachi",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Hitachi High-Tech.png",
+        "misp_uuid": "a600e7c4-f19a-526b-b64e-2f52c0f85d8d",
+        "group_name": "coinbase cartel",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "D...",
+        "discovered": "2026-08-20 22:32:15.741969",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "df73557c-7ed0-518e-b15b-fcefc3d3fae2",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Frisian Flag Indonesia",
+        "discovered": "2026-08-20 21:25:59.144877",
+        "description": "Frisian Flag Indonesia specializes in high-quality dairy products, including sweetened condensed milk, UHT milk, powdered milk for families, and cheese. The company aims to provide nutritious options that support the health and well-being of families, offering products enriched with vitamins and minerals. Their target clients include families, pregnant women, and children, focusing on delivering nutritional benefits through their diverse product range. Established in 1871, Frisian Flag is committed to building strong families by promoting healthy dietary habits.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "b4be1254-e440-5b21-822c-81099def8db2",
+        "group_name": "panzer",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Ayuntamiento de Velilla de San Antonio",
+        "discovered": "2026-08-20 21:25:41.728714",
+        "description": "El Ayuntamiento de Velilla de San Antonio es el organismo oficial de gobierno local y administración del municipio de Velilla de San Antonio, situado en la Comunidad de Madrid, España. Gestiona los servicios públicos, el padrón, los impuestos locales y la vida ciudadana de la localidad.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "misp_uuid": "1bc97590-a1d1-5f86-ade3-220bfa1da6b5",
+        "group_name": "kairos",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Gruppo Spaggiari Parma",
         "discovered": "2026-08-20 20:33:29.138494",
         "description": "School management software",
@@ -361,104 +548,5 @@
         "misp_uuid": "4ceaf654-82bd-5835-98a2-7f1ef0a809b1",
         "group_name": "qilin",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "Capgemini Engineering",
-        "discovered": "2026-08-20 06:27:43.000302",
-        "description": "2 posts - 1h",
-        "link": "/news/capgemini-engineering",
-        "magnet": null,
-        "screen": "screenshots/everest/Capgemini Engineering.png",
-        "misp_uuid": "e19b9ae2-0a9f-5675-b07b-e26b1aee53d1",
-        "group_name": "everest",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Grupo DT",
-        "discovered": "2026-08-20 06:27:41.049151",
-        "description": "2 posts - 1h",
-        "link": "/news/grupo-dt",
-        "magnet": null,
-        "screen": "screenshots/everest/Grupo DT.png",
-        "misp_uuid": "b0a8f49b-faf1-591e-840c-8b3cc1767401",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kingston Technology",
-        "discovered": "2026-08-20 06:27:40.163430",
-        "description": "2 posts - 1h",
-        "link": "/news/kingston-technology",
-        "magnet": null,
-        "screen": "screenshots/everest/Kingston Technology.png",
-        "misp_uuid": "4b356872-395b-51c2-aebd-31a6e77aa930",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Experts Entreprendre",
-        "discovered": "2026-08-20 06:27:39.238392",
-        "description": "2 posts - 1h",
-        "link": "/news/experts-entreprendre",
-        "magnet": null,
-        "screen": "screenshots/everest/Experts Entreprendre.png",
-        "misp_uuid": "1a545b92-e9e4-5836-967e-0980b287552c",
-        "group_name": "everest",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Target",
-        "discovered": "2026-08-20 02:32:02.706178",
-        "description": "General merchandise retail",
-        "link": "/company/target/",
-        "magnet": null,
-        "screen": "screenshots/xpl0itrs/Target.png",
-        "misp_uuid": "556c1cbc-6250-53d7-bf45-b35407ae5507",
-        "group_name": "xpl0itrs",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "usbank.com",
-        "discovered": "2026-08-20 01:40:00.500589",
-        "description": "U.S. Bank is a multinational financial institution that provides banking, lending, payment, and inve...",
-        "link": "/post/9d0b9595b62e70efa9c62d22143bcde3",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/usbankcom.png",
-        "misp_uuid": "9f763ccd-dd20-5ee8-b968-c196fdce3f9c",
-        "group_name": "lockbit5",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Grand Ion Delemen Hotel",
-        "discovered": "2026-08-20 00:49:10.204324",
-        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-08-26T16:34:00Z\nPackage: 4.0 GiB / 5045 files",
-        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-17",
-        "magnet": null,
-        "screen": "screenshots/majinahanashi/Grand Ion Delemen Hotel.png",
-        "misp_uuid": "8eeaee5c-7d0a-5807-b0b0-1c9133fe4755",
-        "group_name": "majinahanashi",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "The Margo Hotel",
-        "discovered": "2026-08-19 23:30:55.934129",
-        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-08-26T20:49:00Z\nPackage: 4.6 GiB / 8080 files",
-        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-18",
-        "magnet": null,
-        "screen": "screenshots/majinahanashi/The Margo Hotel.png",
-        "misp_uuid": "fb41a066-ac7c-55b3-95e1-dad009a41624",
-        "group_name": "majinahanashi",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "Semana",
-        "discovered": "2026-08-19 22:44:48.868830",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=398be48d-63a4-4708-9788-1ff935ef6de5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Semana.png",
-        "misp_uuid": "8b1f06b0-9ec7-5b78-9373-fd42be6dfc9e",
-        "group_name": "qilin",
-        "sector": "Professional Services"
     }
 ]
