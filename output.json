@@ -1,5 +1,16 @@
 [
     {
+        "post_title": "Vietnam Electricity(EVNHANOI)",
+        "discovered": "2026-08-22 15:32:00",
+        "description": "Vietnam Electricity (EVN), legally known as Tập đoàn Điện lực Việt Nam, is the largest power company and the sole national electric utility in Vietnam. Fully owned and controlled by the Vietnamese government since its inception in 1994, EVN operates as a vertically integrated monopoly responsible for the nationwide generation, transmission, and distribution of electricity, as well as international power exchanges. The group oversees all major power plants and regional distribution subsidiaries, including EVNHANOI. Serving as a crucial pillar for Vietnam's macroeconomic stability and industrial expansion, EVN is currently undertaking extensive grid digitalization and spearheading the national transition from coal dependency toward clean and renewable energy integration.\n\nThe data content exceeds 300GB, comprising 13.36 million rows of customer details, 6.99 million subscriptions, 2.26 million account records, and other miscellaneous data.The price is open to negotiation.\n\nSession:054e5b6edf03e8ba012626b5dcd83a7dd47a046760bcd9b9b32d02a039d24d9608\nTox:852E34CBEBA2D40FD21BAC9F9E588B5194DBA9F31CACF9ECE316403120BE18765D22A8A453C4\nSize: 300GB\nSectors: Government, Energy",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/vietnam-electricityevnhanoi/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Vietnam Electricity(EVNHANOI).png",
+        "misp_uuid": "fa12bdf3-e768-55fb-a43a-bd0322d29e8f",
+        "group_name": "emperador",
+        "sector": "Energy"
+    },
+    {
         "post_title": "NovoCure Limited",
         "discovered": "2026-08-22 15:22:36.171511",
         "description": "This is a final warning to reach out by end of day 24 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -800,39 +811,6 @@
         "screen": "screenshots/majinahanashi/PCA *****.png",
         "misp_uuid": "5ee69a8f-5832-5de2-80af-d988a5a9a5a0",
         "group_name": "majinahanashi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Nteitalia",
-        "discovered": "2026-08-21 20:21:35.472497",
-        "description": "NTE Italia, an engineering and telecommunications service provider based in Catanzaro, Italy. Sensitive thousands of documents are compromised.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "e03d2289-2696-579b-ae0d-1ddbaf2840fa",
-        "group_name": "panzer",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "iPic",
-        "discovered": "2026-08-21 17:26:53.050236",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=769179b7-db54-45e8-b3ba-9d7c94951e5d",
-        "magnet": null,
-        "screen": "screenshots/qilin/iPic.png",
-        "misp_uuid": "3580de7e-a491-5f6f-9d5b-daf67971d5c2",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "BIOPHARMA",
-        "discovered": "2026-08-21 17:14:13.829975",
-        "description": "BIOPHARMA is a global biopharmaceutical innovator founded in 2003 and headquartered in Taiwan. \nIt specializes in developing best-in-class therapies and biologics for blood disorders, hematologic cancers, and other serious diseases. \nThe company is fully integrated and operates internationally with a strong commercial and clinical presence in the U.S., Europe, and Japan.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "38fb8007-b16e-5e8c-a905-d8dbd13f0aaa",
-        "group_name": "the gentlemen",
         "sector": "Unknown"
     }
 ]
