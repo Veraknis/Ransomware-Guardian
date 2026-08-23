@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "S.E.M.P. s.r.l.",
+        "discovered": "2026-08-23 20:30:48.254951",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=8324d05a-396f-4f6f-8364-6458f90564f5",
+        "magnet": null,
+        "screen": "screenshots/qilin/SEMP srl.png",
+        "private": false,
+        "misp_uuid": "5a9230d7-7447-5876-921a-1e600dc6b8dc",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "adt.com",
+        "discovered": "2026-08-23 19:30:14.519572",
+        "description": "ADT is a security company that offers security systems, cameras, alarms ad home automation services....",
+        "link": "/post/7548bc0cc36f548dd1ea08ab886b3c22",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/adtcom.png",
+        "private": false,
+        "misp_uuid": "0af80fea-0711-5dea-9825-f3be32939162",
+        "group_name": "lockbit5",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Studio BOLDRIN PAOLO",
+        "discovered": "2026-08-23 18:28:12.618094",
+        "description": "Real Estate",
+        "link": "/site/blog?uuid=81079a29-ab55-4c4e-a6ce-317fca6ccb5c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Studio BOLDRIN PAOLO.png",
+        "private": false,
+        "misp_uuid": "7c8aa9e4-f0aa-5b19-b8f9-09392460fa2d",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Euroflora srl",
+        "discovered": "2026-08-23 18:28:11.598548",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=d84a7b03-b1cb-4442-998a-29759d96f560",
+        "magnet": null,
+        "screen": "screenshots/qilin/Euroflora srl.png",
+        "private": false,
+        "misp_uuid": "b6b9ef69-39f0-5ac7-91f7-22280413c960",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Tecnici Associati STP",
+        "discovered": "2026-08-23 18:28:10.607813",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=605bcb17-be93-4198-b9bd-989d66c1d7e9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Tecnici Associati STP.png",
+        "private": false,
+        "misp_uuid": "79727971-e34b-5edd-ae8c-7643da1c2265",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Aurore Development S.p.A.",
+        "discovered": "2026-08-23 17:32:15.729834",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=3f4a1190-8da1-4306-9b22-1bf89595987e",
+        "magnet": null,
+        "screen": "screenshots/qilin/Aurore Development SpA.png",
+        "private": false,
+        "misp_uuid": "c50bc10d-cb74-5e58-89f3-9067a8e6d6f2",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Clear Align",
         "discovered": "2026-08-23 15:31:43.846527",
         "description": "Manufacturing",
