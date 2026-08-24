@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "resi.com",
+        "discovered": "2026-08-24 03:33:49.573173",
+        "description": "Resi is a UK-based online architectural and home renovation platform founded in 2017 by Alexandra Depledge and Jules Col...",
+        "link": "/blog/94e954f9fa4095799dede0c689e6d6b51ddddaff16d44b75cf49ba265dc3a79a/",
+        "magnet": null,
+        "screen": "screenshots/krybit/resicom.png",
+        "private": false,
+        "misp_uuid": "a49073b5-376e-5d78-9ad3-d76f4c1e5839",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Private(Chat...)",
+        "discovered": "2026-08-24 03:33:39.767547",
+        "description": "",
+        "link": "/target/6a8432c0e803c3deeea2a6d6",
+        "magnet": null,
+        "screen": "screenshots/black x/Private(Chat).png",
+        "private": false,
+        "misp_uuid": "9adc315e-d251-5fc7-8099-8a794ea8c22e",
+        "group_name": "black x",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Westwing Group SE NEW",
+        "discovered": "2026-08-24 02:29:23.066983",
+        "description": "Furniture - $465.5 Million",
+        "link": "/companies/westwing-2",
+        "magnet": null,
+        "screen": "screenshots/coinbase cartel/Westwing Group SE NEW.png",
+        "private": false,
+        "misp_uuid": "c08f84fa-2b4d-513e-930e-337528dcfa03",
+        "group_name": "coinbase cartel",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CyrusOne, LLC.",
+        "discovered": "2026-08-23 23:31:53.834364",
+        "description": "Update 23 Aug: We are removing the clients name off this post. They are refusing to pay a $13 million demand. They have 24 hours left to engage with us. We hold 12.9 million Salesforce records along with:\nSharepoint:\n(369.6 GB Compressed / 645 GB Uncompressed)\n288,729 Files, 60,513 Folders\n\n- More than 182,000 rows of Customer data Extracted from the \"Contacts\" Salesforce Object. \n- Over 8,300 Rows of Employee PII (Full Name, Email, Job Title, Phone Number, ect.)\n- Thousands of executed contracts, MSAs, NDAs, amendments, leases, and SOWs\n- Extensive physical key inventory logs, verification photos, and contractor Green Badge audits\n- Large collection of data center drawings, floor plans, electrical one-line diagrams, security system drawings, and site schematics\n- Full CERM (Critical Environment Reliability Management) process library\n- Physical and information security policy suite plus governance materials\n- Regional security scorecards, KPI workbooks, GAM sheets, and signed performance packages\n- Credential and access-control artifacts (including PasswordList.xlsx, Okta SSC Access lists, active badge reports, and multiple Data Center Access Control forms)This is a final warning to reach out by end of day 24 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4b998f28-25d5-5510-9622-99e1267c07a6",
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Hospitality Health ER (Longview)",
+        "discovered": "2026-08-23 23:31:22.337689",
+        "description": "A healthcare organization",
+        "link": "/9e19757b54df85888c12/",
+        "magnet": null,
+        "screen": "screenshots/genesis/Hospitality Health ER (Longview).png",
+        "private": false,
+        "misp_uuid": "92c474f0-4168-58d2-83b0-addf3aba7e49",
+        "group_name": "genesis",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "S.E.M.P. s.r.l.",
         "discovered": "2026-08-23 20:30:48.254951",
         "description": "Business Services",
@@ -129,28 +189,6 @@
         "private": false,
         "misp_uuid": "6c1a92d0-c828-5428-af71-a583f82e6519",
         "group_name": "emperador",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ReliaQuest, LLC",
-        "discovered": "2026-08-23 04:31:28.913907",
-        "description": "This time the post is about you, not us. Let Mandiant report and advise on us accurately, go away.  DISCLAIMER: This information is being provided \"as is\" for informational purposes only. We do not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this post. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favour by us.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "misp_uuid": "44f3a24e-990f-5f55-80c6-a0501a7e4f39",
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "el-group",
-        "discovered": "2026-08-23 01:41:03.796124",
-        "description": "",
-        "link": "/blog/disclosures/6a8979d59cd108bf26069fa7",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/el-group.png",
-        "misp_uuid": "8716277c-c3b4-5c27-b98f-c1b17e6a1b88",
-        "group_name": "inc ransom",
         "sector": "Unknown"
     }
 ]
