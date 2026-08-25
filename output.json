@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Cosmon",
+        "discovered": "2026-08-25 08:26:26.109019",
+        "description": "Cosmon develops agentic artificial intelligence software for mechanical engineering workflows, centered on its Nexus product for CAD, CAE, simulation, and PLM tasks. Its website presents the company as a software provider whose platform automates drawing creation, simulation setup, troubleshooting, design validation, and product lifecycle data tasks while integrating directly with major engineering tools. Although the offering is deeply technical and tailored to engineering environments, the core business shown is the development and delivery of proprietary engineering software rather than providing outsourced engineering services or general consulting.",
+        "link": "/card/cosmon",
+        "magnet": null,
+        "screen": "screenshots/beast/Cosmon.png",
+        "private": false,
+        "misp_uuid": "e31479c1-4790-5833-a86b-b5e90d7ce25a",
+        "group_name": "beast",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Consultores de Seguros",
+        "discovered": "2026-08-25 00:27:55.375588",
+        "description": "Insurance",
+        "link": "/site/blog?uuid=3d339ba7-a05c-4817-aea1-650ff6ea3a3f",
+        "magnet": null,
+        "screen": "screenshots/qilin/Consultores de Seguros.png",
+        "private": false,
+        "misp_uuid": "7e4b7364-f626-5ec5-9b1b-8b6879f16b55",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "W****s",
+        "discovered": "2026-08-24 22:21:46.432472",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4158f1f3-3fc8-508d-9560-af26170c2c60",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Government of Vojvodina",
+        "discovered": "2026-08-24 22:21:45.343220",
+        "description": "The Provincial Government of Vojvodina is focused on enhancing economic and academic cooperation within the region and internationally. SENVIBE project is to improve and build national educational capacities, cooperation and competences in dealing with environmental and occupational noise and vibration (No&Vib) engineering issues in accordance with ongoing EU integration strategies and the needs identified in Serbia.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "7b1b27b3-9bc0-5ea0-bd88-c73281c6201a",
+        "group_name": "panzer",
+        "sector": "Government"
+    },
+    {
+        "post_title": "lagegepesca.it",
+        "discovered": "2026-08-24 21:28:04.260260",
+        "description": "Based in Lallio, near Bergamo in Lombardy, the company traces its origins to 1957, when Santo Gavazzi established a small …",
+        "link": "/blog/post/lagegepescait/",
+        "magnet": null,
+        "screen": "screenshots/safepay/lagegepescait.png",
+        "private": false,
+        "misp_uuid": "23abedb5-4f83-5375-8a0d-254f23a462e9",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Furnished Quarters",
         "discovered": "2026-08-24 20:31:05.428316",
         "description": "The company \"Furnished Quarters\" was the victim of a successful cyberattack, as a result of which the company’s confidential data was stolen. The volume of data stolen amounts to 155 GB. The data stolen included the company’s customer details, as well as documents containing banking and financial information. Currently, around 198,000 files are no longer under the control of \"Furnished Quarters\".",
@@ -442,65 +502,5 @@
         "misp_uuid": "14b1f8d7-4860-5fb4-baf3-e625841c3709",
         "group_name": "cyberleek",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "resi.com",
-        "discovered": "2026-08-24 03:33:49.573173",
-        "description": "Resi is a UK-based online architectural and home renovation platform founded in 2017 by Alexandra Depledge and Jules Col...",
-        "link": "/blog/94e954f9fa4095799dede0c689e6d6b51ddddaff16d44b75cf49ba265dc3a79a/",
-        "magnet": null,
-        "screen": "screenshots/krybit/resicom.png",
-        "private": false,
-        "misp_uuid": "a49073b5-376e-5d78-9ad3-d76f4c1e5839",
-        "group_name": "krybit",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Private(Chat...)",
-        "discovered": "2026-08-24 03:33:39.767547",
-        "description": "",
-        "link": "/target/6a8432c0e803c3deeea2a6d6",
-        "magnet": null,
-        "screen": "screenshots/black x/Private(Chat).png",
-        "private": false,
-        "misp_uuid": "9adc315e-d251-5fc7-8099-8a794ea8c22e",
-        "group_name": "black x",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Westwing Group SE NEW",
-        "discovered": "2026-08-24 02:29:23.066983",
-        "description": "Furniture - $465.5 Million",
-        "link": "/companies/westwing-2",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Westwing Group SE NEW.png",
-        "private": false,
-        "misp_uuid": "c08f84fa-2b4d-513e-930e-337528dcfa03",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CyrusOne, LLC.",
-        "discovered": "2026-08-23 23:31:53.834364",
-        "description": "Update 23 Aug: We are removing the clients name off this post. They are refusing to pay a $13 million demand. They have 24 hours left to engage with us. We hold 12.9 million Salesforce records along with:\nSharepoint:\n(369.6 GB Compressed / 645 GB Uncompressed)\n288,729 Files, 60,513 Folders\n\n- More than 182,000 rows of Customer data Extracted from the \"Contacts\" Salesforce Object. \n- Over 8,300 Rows of Employee PII (Full Name, Email, Job Title, Phone Number, ect.)\n- Thousands of executed contracts, MSAs, NDAs, amendments, leases, and SOWs\n- Extensive physical key inventory logs, verification photos, and contractor Green Badge audits\n- Large collection of data center drawings, floor plans, electrical one-line diagrams, security system drawings, and site schematics\n- Full CERM (Critical Environment Reliability Management) process library\n- Physical and information security policy suite plus governance materials\n- Regional security scorecards, KPI workbooks, GAM sheets, and signed performance packages\n- Credential and access-control artifacts (including PasswordList.xlsx, Okta SSC Access lists, active badge reports, and multiple Data Center Access Control forms)This is a final warning to reach out by end of day 24 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "4b998f28-25d5-5510-9622-99e1267c07a6",
-        "group_name": "shinyhunters",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Hospitality Health ER (Longview)",
-        "discovered": "2026-08-23 23:31:22.337689",
-        "description": "A healthcare organization",
-        "link": "/9e19757b54df85888c12/",
-        "magnet": null,
-        "screen": "screenshots/genesis/Hospitality Health ER (Longview).png",
-        "private": false,
-        "misp_uuid": "92c474f0-4168-58d2-83b0-addf3aba7e49",
-        "group_name": "genesis",
-        "sector": "Healthcare"
     }
 ]
