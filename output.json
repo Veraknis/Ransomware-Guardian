@@ -1,5 +1,101 @@
 [
     {
+        "post_title": "wmdn.net",
+        "discovered": "2026-08-29 01:35:13.341113",
+        "description": "Twin States News is a media organization that provides comprehensive coverage of local, state, national, and world news. Their services include reporting on various topics such as crime, education, health, politics, and community events. The inten | PUBLISHED 1% | Views: 43",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/3am/wmdnnet.png",
+        "private": false,
+        "misp_uuid": "ed92f6c5-33c4-5bf1-bce7-4d984c243cde",
+        "group_name": "3am",
+        "sector": "Media"
+    },
+    {
+        "post_title": "Elekta AB",
+        "discovered": "2026-08-29 01:30:36.087852",
+        "description": "This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "08d16c36-5a19-5d79-8d1d-ba9b7d95ca6f",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Jack Henry & Associates",
+        "discovered": "2026-08-29 01:30:35.131847",
+        "description": "This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "700479a6-d4e4-58a8-bb32-2973cfc44522",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "SITTNAK Lojistik A.Ş.",
+        "discovered": "2026-08-29 01:29:58.931485",
+        "description": "upcoming | — | 0 files",
+        "link": "/victim/sittnak-lojistik-a-ş-",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/SITTNAK Lojistik AŞ.png",
+        "private": false,
+        "misp_uuid": "a9643e3a-af33-554a-a005-b903edd0bfe4",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Akpera Gayrimenkul Yatırım A.Ş.",
+        "discovered": "2026-08-29 01:29:58.011626",
+        "description": "upcoming | — | 0 files",
+        "link": "/victim/akpera-gayrimenkul-yatırım-a-ş-",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/Akpera Gayrimenkul Yatırım AŞ.png",
+        "private": false,
+        "misp_uuid": "701adcdf-0dec-53fb-bafa-1aa83479c0b3",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "apatpa.com",
+        "discovered": "2026-08-29 00:28:27.695632",
+        "description": "American Plan Administrators offers smart self-funded healthcare solutions designed to maximize savi...",
+        "link": "/post/1f9182de04597cb54beb4537be5582aa",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/apatpacom.png",
+        "private": false,
+        "misp_uuid": "cf616242-63d4-5a63-a3ce-2aa126691154",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alter Consultores Legales",
+        "discovered": "2026-08-28 23:30:49.328566",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=f1ab8b65-49c7-48f8-896a-75042a82c095",
+        "magnet": null,
+        "screen": "screenshots/qilin/Alter Consultores Legales.png",
+        "private": false,
+        "misp_uuid": "89a2c1e6-13d5-532f-9961-ae7b87fb232a",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "H.W. Lochner",
+        "discovered": "2026-08-28 23:30:47.833597",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "97d7bf13-bcd4-5b3d-8874-fea545c880de",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "corematerials.com",
         "discovered": "2026-08-28 20:33:11.417194",
         "description": "Core Materials (corematerials.com) — Countdown to Publication\n\nManagement at Core Materials has chosen to completely ignore all attempts to establish a constructive dialogue regarding their security breach. Silence will not make this situation go away.\n\nSince leadership refuses to engage, we are m…",
@@ -226,41 +322,5 @@
         "misp_uuid": "a06d4a3e-8e32-5cc0-aec8-a6a0cc7f8eda",
         "group_name": "anubis",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Ne...n M...",
-        "discovered": "2026-08-27 22:30:34.553998",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "bdabbf3d-c539-57a6-8db7-6473787aaace",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ETNA Software",
-        "discovered": "2026-08-27 22:30:28.744038",
-        "description": "ETNA Software is a company that provides white-label online trading solutions for brokers and FinTech firms, including mobile and web trading platforms. Their products are designed to help retail broker-dealers launch trading capabilities efficiently and cost-effectively.",
-        "link": "/place/xbrtk1q9h46t78vv/",
-        "magnet": null,
-        "screen": "screenshots/eclipse/ETNA Software.png",
-        "private": false,
-        "misp_uuid": "410615a6-0b59-55f9-bffb-3a0ebf7e24f5",
-        "group_name": "eclipse",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "singleton.com",
-        "discovered": "2026-08-27 22:30:22.668550",
-        "description": "Founded in 1986, Singleton Reynolds is a law firm. They are headquartered in Vancouver, British Columbia.",
-        "link": "/vcn8Zx0x1GRAot9oXPRzGWlYNCwSXLLE/singleton-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/singletoncom.png",
-        "private": false,
-        "misp_uuid": "2b10e29b-6057-5750-af8d-2774dac05495",
-        "group_name": "chaos",
-        "sector": "Legal"
     }
 ]
