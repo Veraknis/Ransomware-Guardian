@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "TERRA*** & MON****",
+        "discovered": "2026-08-29 14:38:02.520233",
+        "description": "PUBLICATION SCHEDULED.\nPublication scheduled: 2026-09-05T08:08:00Z\nPackage: 896 MiB / 6341 files",
+        "link": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion/#post/blog-20",
+        "magnet": null,
+        "screen": "screenshots/majinahanashi/TERRA*** & MON****.png",
+        "private": false,
+        "misp_uuid": "b578a102-118e-506d-9edc-bb284dc818e4",
+        "group_name": "majinahanashi",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Oilquip Inc",
+        "discovered": "2026-08-29 06:36:34.631760",
+        "description": "",
+        "link": "/blog/disclosures/6a8f0c6c9cd108bf26a1bbe6",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Oilquip Inc.png",
+        "private": false,
+        "misp_uuid": "9fe5ed35-8756-512b-9ac2-fd34109d28d7",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "McKesson Corporation",
         "discovered": "2026-08-29 02:30:51.127402",
         "description": "Hundreds of millions of records/rows of data was compromised containing very sensitive information spanning from PII to PHI. We urge you to reach out. Read our emails. We will provide a substanial discount. Failure to engage with us will result in the full publication of data taken from you and we very much intend to carry that out if you do not engage with us. This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline.",
@@ -250,101 +274,5 @@
         "misp_uuid": "2484fb11-7cad-5dbf-9ba4-035b80ac8316",
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "DigiGround",
-        "discovered": "2026-08-28 14:43:42.579261",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=0cbc2586-f3cd-44fb-9de7-8867f181aac0",
-        "magnet": null,
-        "screen": "screenshots/qilin/DigiGround.png",
-        "private": false,
-        "misp_uuid": "aa89ea41-fbcf-588e-8e05-6808fd91cd02",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tramigo",
-        "discovered": "2026-08-28 14:43:41.664659",
-        "description": "Software",
-        "link": "/site/blog?uuid=8d83fa74-d33c-47dc-a5a6-c95d5fbabcd5",
-        "magnet": null,
-        "screen": "screenshots/qilin/Tramigo.png",
-        "private": false,
-        "misp_uuid": "b68c1909-90fc-5416-98bc-57ca5d25208f",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Cosmocolor SA de CV",
-        "discovered": "2026-08-28 14:43:40.727044",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=920d72a2-e450-4ab2-9540-9fef193bf438",
-        "magnet": null,
-        "screen": "screenshots/qilin/Cosmocolor SA de CV.png",
-        "private": false,
-        "misp_uuid": "c9bc42bf-d95b-5f70-8a86-83f81ca3532b",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "amzur.com",
-        "discovered": "2026-08-28 13:43:31.414685",
-        "description": "Revenue: $73.4 million | Views: 56 | Posted: 8/28/2026, 5:22:13 PM | Status: 4d 22h 50m 41s",
-        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a916155102e2455604e860b?page=1",
-        "magnet": null,
-        "screen": "screenshots/unsafe/amzurcom.png",
-        "private": false,
-        "misp_uuid": "15af406c-9d27-523c-8be2-13191ed70ec2",
-        "group_name": "unsafe",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hanwha Renewables",
-        "discovered": "2026-08-28 11:48:00",
-        "description": "The data contains really sensitive information from 4 PV projects looking for investment/financing of Hanwha.\n\nWe extracted around 12GB of highly sensitive information relating to the following projects:\n\n-   Bonanza Peak (3GB)\n-   Boulder Solar III (0.7GB)\n-   Obreron Portfolio (4.8GB)\n-   Project Sprout (3.7GB)\n\nIn the data we found highly sensitive information including:\n\n-   PPAs\n-   Financial models\n-   Interconnection agreements\n-   Engineering designs of the assets\n-   Personal identifiable information\n-   Sensitive reports, budgets, financial information\n\nReach out to prevent the leak.\n\nCost of litigation from counterparties for breach of confidentiality is way higher. Commercially, good luck negotiating after your practices and contracts are leak. Good luck looking for financing/investment for these assets with the data leaked.\nPublication scheduled: 2026-09-04 23:48:30 UTC\nSize: 12GB\nSectors: Energy",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/hanwha-renewables/",
-        "magnet": null,
-        "screen": "screenshots/emperador/Hanwha Renewables.png",
-        "private": false,
-        "misp_uuid": "76c39d87-f0ca-5976-afc8-684258181ffd",
-        "group_name": "emperador",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Infinnium",
-        "discovered": "2026-08-28 11:42:49.481530",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=3cdde6d5-319e-44d3-b122-150e36bab273",
-        "magnet": null,
-        "screen": "screenshots/qilin/Infinnium.png",
-        "private": false,
-        "misp_uuid": "0b2aa0cc-de25-51a6-a3d0-0bd5e22e654f",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Whitehouse",
-        "discovered": "2026-08-28 11:42:48.545853",
-        "description": "Accounting Services",
-        "link": "/site/blog?uuid=f570d277-341f-44c6-b130-aa34613d0869",
-        "magnet": null,
-        "screen": "screenshots/qilin/Whitehouse.png",
-        "private": false,
-        "misp_uuid": "8a0b08b0-737b-5f0f-a7bb-e91fc4c17d53",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Caduceus Medical Group",
-        "discovered": "2026-08-28 05:21:36.791324",
-        "description": "Predictable but dangerous data exposed in a healthcare company breach.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/utcvvd8rhaVCzPKqf1ylmVz1LyhWywYUkxqYGseRhSqlm3EeFK7OssDeLferXuiklk81a1a31PYgQ8ZN0FXU4ek5TV0lT",
-        "magnet": null,
-        "screen": "screenshots/anubis/Caduceus Medical Group.png",
-        "private": false,
-        "misp_uuid": "a06d4a3e-8e32-5cc0-aec8-a6a0cc7f8eda",
-        "group_name": "anubis",
-        "sector": "Healthcare"
     }
 ]
