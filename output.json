@@ -1,11 +1,59 @@
 [
     {
+        "post_title": "ahadandco.com",
+        "discovered": "2026-08-31 22:28:45.129811",
+        "description": "We have about 405,000(405k) documents and files of your company, with a total size of over 300 GB. This data contains a significant amount of banking information, as well as the pe...",
+        "link": "/n/ahadandco-com",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/ahadandcocom.png",
+        "private": false,
+        "misp_uuid": "c29b0265-76d1-5d0c-906a-375a96fb27c3",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "sago.com",
+        "discovered": "2026-08-31 22:28:44.236997",
+        "description": "We have approximately 56,000 (56k) documents and files belonging to your company, including data on business relationships with more than 800 clients; data on research participants...",
+        "link": "/n/sago-com",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/sagocom.png",
+        "private": false,
+        "misp_uuid": "a2c6ac84-caf6-5b02-9747-ed282265a6d6",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "crmeyer.com",
+        "discovered": "2026-08-31 22:28:43.337315",
+        "description": "We have about 275,000(275k) documents and files of your company, with a total size of over 330 GB.\nThe data includes a customer database (~250 customers) — the largest ones are:...",
+        "link": "/n/crmeyer-com",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/crmeyercom.png",
+        "private": false,
+        "misp_uuid": "0c8280b7-8948-5a72-b097-ab117b0761ff",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "ccsperfusion.com",
+        "discovered": "2026-08-31 22:28:42.415503",
+        "description": "We have approximately 306,000 (306k) documents and files belonging to your company, with a total size of over 200 GB. 160k files containing complete employee personnel files; 75k f...",
+        "link": "/n/ccsperfusion-com",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/ccsperfusioncom.png",
+        "private": false,
+        "misp_uuid": "a5b0c723-ca28-5006-ab83-20279a947714",
+        "group_name": "brain cipher",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Inmac",
         "discovered": "2026-08-31 21:39:29.574965",
         "description": "Architecture, Engineering & Design",
         "link": "/site/blog?uuid=e4d6313d-31ac-4c53-a057-78763996a847",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/qilin/Inmac.png",
         "private": false,
         "misp_uuid": "a1d0de29-7e82-5d78-b05c-80b440550b2d",
         "group_name": "qilin",
@@ -526,29 +574,5 @@
         "misp_uuid": "d56cd805-d6e2-52ee-81fa-5503d5095334",
         "group_name": "lockbit5",
         "sector": "Education"
-    },
-    {
-        "post_title": "Westwing Group SE",
-        "discovered": "2026-08-31 00:30:08.824729",
-        "description": "Furniture - $465.5 Million",
-        "link": "/companies/westwing-2",
-        "magnet": null,
-        "screen": "screenshots/coinbase cartel/Westwing Group SE.png",
-        "private": false,
-        "misp_uuid": "9ce997d4-2163-5538-8a0c-1808c2f9e793",
-        "group_name": "coinbase cartel",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Directorate-General for Education",
-        "discovered": "2026-08-30 22:25:24.561299",
-        "description": "The Direção-Geral de Estatísticas da Educação e Ciência (DGEEC) is a Portuguese government agency responsible for collecting, analyzing, and publishing official statistics on education, science, and technology.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c48e6d6c-3a92-509a-b7cd-b392744e3941",
-        "group_name": "panzer",
-        "sector": "Government"
     }
 ]
