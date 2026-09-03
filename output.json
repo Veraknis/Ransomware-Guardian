@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Engefitas",
+        "discovered": "2026-09-03 13:35:42.644177",
+        "description": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e2b4a542-d2ff-578c-a141-94c9fd18f292",
+        "group_name": "vexy",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Complete Packaging Solutions",
+        "discovered": "2026-09-03 12:33:42.647447",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=adec1c55-2d8f-4001-b107-5bc6e3433690",
+        "magnet": null,
+        "screen": "screenshots/qilin/Complete Packaging Solutions.png",
+        "private": false,
+        "misp_uuid": "62c933ca-ef01-5006-9e92-7b60a8654c34",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Greenberg Traurig",
+        "discovered": "2026-09-03 01:31:15.346692",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "3867ee34-bc30-58be-8619-232db9f67b51",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Tanner",
         "discovered": "2026-09-02 22:27:19.142306",
         "description": "Finance",
@@ -262,89 +298,5 @@
         "misp_uuid": "7f272700-1f09-5305-a1bc-dd55f22fc460",
         "group_name": "qilin",
         "sector": "Education"
-    },
-    {
-        "post_title": "Next Level Medical, LLC",
-        "discovered": "2026-09-02 13:41:47.332574",
-        "description": "Affordable urgent care across Texas",
-        "link": "Companies/nextlevelurgentcare",
-        "magnet": null,
-        "screen": "screenshots/pear/Next Level Medical, LLC.png",
-        "private": false,
-        "misp_uuid": "047daf17-ab13-58c7-bb92-38d3c226543f",
-        "group_name": "pear",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "specialtytextile.com",
-        "discovered": "2026-09-02 12:39:07.965667",
-        "description": "",
-        "link": "/blog/disclosures/6a97ed959cd108bf26aadc1c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/specialtytextilecom.png",
-        "private": false,
-        "misp_uuid": "c160da96-4ed6-5a49-a850-a2ff3c5799fa",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Chip 1 Exchange",
-        "discovered": "2026-09-02 09:38:44.932911",
-        "description": "Chip 1 Exchange — a global independent electronics distributor headquartered in Neu-Isenburg, Germany, with primary US operations in Laguna Hills, California.\n\nThe dataset spans 13 years (2013-2026) of corporate operations and encompasses:\n\n40+ passport photographs, I-9 forms with SSNs, W-4 tax forms, payroll registers.\n<redacted>\nComplete 2026 financial intelligence — P&L through July, executive financial health assessment, AR/AP aging, chart of accounts revealing all bank account numbers.\n15+ exclusive franchise manufacturer agreements with pricing terms, territory allocations, and per-customer gross profit margins.\nITAR registration and defense customer sales orders to Jabil Defense, Curtis-Wright, GEN3 Defense, and Cobham Remec.\n5.7 GB of Outlook PST email archives spanning years of C-suite and employee correspondence.",
-        "link": "/blog/chip-1-exchange-13b819b4",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "131a6abb-d972-55aa-828d-e60d872c36d0",
-        "group_name": "aurora",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Grayson Rural Electric Cooperative",
-        "discovered": "2026-09-02 06:42:56.172658",
-        "description": "Electricity, Oil & Gas",
-        "link": "/site/blog?uuid=678d1dd9-022a-4521-8317-67e56329d10e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Grayson Rural Electric Cooperative.png",
-        "private": false,
-        "misp_uuid": "438dcaa8-be5d-547d-9451-a1921daf290f",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Marlborough Partners",
-        "discovered": "2026-09-02 06:21:36.520930",
-        "description": "Major data breach at a capital solutions advisory firm.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5VYRngWB4RHGrQhum0wZh8OC72oO1g3GU++a70ZsZ6tkH4WMROBRx4tJXAXmdwAp3e0NJ5M+6ftohrSE8ypGt5MGR0ZWd4",
-        "magnet": null,
-        "screen": "screenshots/anubis/Marlborough Partners.png",
-        "private": false,
-        "misp_uuid": "501f6f47-b641-5833-bd62-faaa5aa28b36",
-        "group_name": "anubis",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Proliance Surgeons",
-        "discovered": "2026-09-02 03:49:44.793966",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "78add566-75c4-5023-a929-2f8926988ef4",
-        "group_name": "payoutsking",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quality Resource Pvt",
-        "discovered": "2026-09-02 00:42:42.343770",
-        "description": "Country: United States |\nWebsite: qualityresourcepvt.com |\nRevenue: $19 Million |\nIndustry: Advertising Networks |\nEmployees: 201–500 employees |\nProperties: 60.1 GB (170,436 Files, 88,440 Folders)",
-        "link": "/project/8tEkAvb4TaoYSH37/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/Quality Resource Pvt.png",
-        "private": false,
-        "misp_uuid": "4f8fe1ce-24ac-5e38-9d1d-5dc96772dee4",
-        "group_name": "global secret group",
-        "sector": "Unknown"
     }
 ]
