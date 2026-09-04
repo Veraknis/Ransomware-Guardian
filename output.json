@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Zdrowit",
+        "discovered": "2026-09-04 21:01:58.802460",
+        "description": "karierazdrowit.pl zoominfo.com/c/zdrowit/535531700  Zdrowit S.A. is a family-owned Polish pharmacy chain with 100% Polish capital, operating since 2004 and headquartered in Bytom, Silesia, with over 1,000 employees across 40+ cities in southern and central Poland, aiming to become the largest pharmacy network in the region. The business is growing extremely fast, with 2024 net sales revenue up +83.5%, though its net profit margin fell 10.3% due to the costs of rapid expansion. The company is structured as a holding: individual pharmacies operate as separate Sp. z o.o. entities under Zdrowit S.A., which is registered under KRS 0000704305 with a share capital of 1,197,432.00 PLN. Its core workforce consists of pharmacists and pharmacy technicians hired across dozens of locations, supported by a small modern HQ team in Bytom covering data, IT, controlling and marketing. A key strength is its internship pipeline, offering a 2-year program for technicians and a 6-month program for pharmacis",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "56027e3b-d1b7-5c7d-88bd-d5e9e7786621",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Veradigm",
+        "discovered": "2026-09-04 21:01:57.855135",
+        "description": "veradigm.com zoominfo.com/c/veradigm-llc/471134180 \n3.5+ million personal patient records with PII  full name, address, social security number, email, address, phone number,guarantors PII ,Score Veradigm Inc. is a publicly traded American healthcare technology and data analytics company (OTC: MDRX), the former Allscripts, founded in 1986 and renamed Veradigm in January 2023, headquartered in Chicago with about 2,300–2,600 employees. Its core asset is one of the largest multi-EHR data networks in US healthcare — over 450,000 connected providers and 200M+ patient records — which it monetizes through three segments: Provider (EHR, practice management, revenue cycle: $473M in 2024), Payer (quality and risk adjustment analytics: $67.3M) and Life Sciences (real-world data and AI-driven evidence: $54M). ",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4c6a70e8-4fce-5538-9058-198cc6615973",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Wolfram Research",
+        "discovered": "2026-09-04 20:30:08.918702",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "cba29c67-7a45-5874-95d8-4d61dc0ec075",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Sports Endeavors",
         "discovered": "2026-09-04 19:31:31.972467",
         "description": "Sports Endeavors is a North Carolina company founded in 1984 by brothers Mike and Brendan Moylan. It owns Soccer.com, WorldSoccerShop, and 431 Sports, selling uniforms, gear, and apparel for soccer, baseball, softball, and volleyball to teams, players, and fans. The company is known for a large selection from brands such as Nike, adidas, and Puma, plus custom team uniforms. In April 2026 it was acquired by Varsity Brands / BSN SPORTS.\nhttps://www.sportsendeavors.com/",
@@ -274,41 +310,5 @@
         "misp_uuid": "508770a6-5f35-55fe-9c81-ad17c46d847c",
         "group_name": "space bears",
         "sector": "Government"
-    },
-    {
-        "post_title": "P... S...",
-        "discovered": "2026-09-03 22:33:33.279310",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "df2969fd-5209-5fcd-9bf5-bd643b6ba1ba",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A...en",
-        "discovered": "2026-09-03 22:33:32.358300",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "fa4a5bac-817c-55d4-a9bd-049201b338bf",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "myglobal.com",
-        "discovered": "2026-09-03 20:31:59.201452",
-        "description": "",
-        "link": "/blog/disclosures/6a99ad6a9cd108bf26e7ee52",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/myglobalcom.png",
-        "private": false,
-        "misp_uuid": "ed3e4b16-3588-57e9-b794-85daab172a9d",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
