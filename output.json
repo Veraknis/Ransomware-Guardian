@@ -1,5 +1,101 @@
 [
     {
+        "post_title": "Commission de la construction du Quebec (CCQ)",
+        "discovered": "2026-09-04 13:48:28.214883",
+        "description": "Government",
+        "link": "/site/blog?uuid=a2710463-aa0e-4555-be9c-57188ff6434c",
+        "magnet": null,
+        "screen": "screenshots/qilin/Commission de la construction du Quebec (CCQ).png",
+        "private": false,
+        "misp_uuid": "c0bfc2c4-6507-5782-a518-06a935637bfe",
+        "group_name": "qilin",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Kovo Healthtech Corp",
+        "discovered": "2026-09-04 12:37:52.844721",
+        "description": "Versatile technology company leading the Charge in AI process automation initiatives to drive Impact and innovation across diverse industries",
+        "link": "Companies/kovoplus",
+        "magnet": null,
+        "screen": "screenshots/pear/Kovo Healthtech Corp.png",
+        "private": false,
+        "misp_uuid": "fd65ff96-3868-53b2-9c2e-d0f3959feca1",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Homewood Sales",
+        "discovered": "2026-09-04 11:35:25.780437",
+        "description": "Homewood Sales Corporation specializes in equipment life extension solutions, offering a wide range of products including automatic voltage regulators, control ...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ac91c355-f54c-5eb0-992a-2b242dfb4c5e",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Norwood Law Firm",
+        "discovered": "2026-09-04 11:35:24.832348",
+        "description": "Norwood Law is a Tulsa-based legal firm that specializes in personal injury law, criminal defense, business law, and family law. Founded by attorney Joe Norwood...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d86bb53e-0b3c-5606-879c-767451d77f21",
+        "group_name": "dragonforce",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "AUDIT ENTITY: mansurovogroup",
+        "discovered": "2026-09-04 05:34:53.153553",
+        "description": "AUDIT ID: DA68891EA2CD44B6 / DISCOVERY DATE: 2026-08-26",
+        "link": "/entity/17E19C9B6B41D33F",
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: mansurovogroup.png",
+        "private": false,
+        "misp_uuid": "870f503e-9b8e-543e-b829-50a01d1d02d8",
+        "group_name": "audit team",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "AUDIT ENTITY: PIT.local",
+        "discovered": "2026-09-04 05:34:52.178781",
+        "description": "AUDIT ID: 3382542458FC4332 / DISCOVERY DATE: 2026-08-27",
+        "link": "/entity/6B55D91EA16DCB48",
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: PITlocal.png",
+        "private": false,
+        "misp_uuid": "1944403d-3886-5f1f-bd3c-e0ca7b5ba03f",
+        "group_name": "audit team",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Studio Oculistico Ciraci",
+        "discovered": "2026-09-04 01:31:06.060720",
+        "description": "Studio Oculistico Ciraci - ophthalmology clinic based in Bari, Italy, \nthat opened in 1989 as a center accredited with the Italian National \nHealth Service (SSN).\nWith more than two decades of experience, it focuses on the prevention \nand treatment of major eye conditions using modern diagnostic \ntechnologies. Its main areas of expertise include glaucoma, \nvitreoretinal diseases (especially maculopathies), correction of \nrefractive errors (Excimer laser PRK and cataract surgery), strabismus, \nkeratoconus, and the renewal of special driving licenses.\nThe clinic is run by specialists Dr. Giuseppe Ciraci and Dr.ssa Lorenza \nCiraci and emphasizes high-quality, safe care supported by a \nprofessional team.\nhttps://www.oculisticaciraci.it/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/73/studio-oculistico-ciraci",
+        "magnet": null,
+        "screen": "screenshots/space bears/Studio Oculistico Ciraci.png",
+        "private": false,
+        "misp_uuid": "20e868f0-24b4-54d6-b693-24890091f21f",
+        "group_name": "space bears",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Schwartz, Giannini, Lantsberger & Adamson (SGLA)",
+        "discovered": "2026-09-04 01:31:05.025724",
+        "description": "Schwartz, Giannini, Lantsberger & Adamson (SGLA) Accountancy \nCorporation is a full-service certified public accounting firm based in \nStockton, California, founded in 1988. The firm provides tax planning \nand compliance, audits, reviews and compilations, bookkeeping, payroll, \noutsourced CFO support, and business consulting for individuals and \ncompanies. It has particular experience with real estate, healthcare, \nnonprofits, affordable housing, common-interest realty associations, and\n local government clients. SGLA positions itself as a hands-on local CPA\n practice that combines traditional accounting work with practical \nadvice to help clients stay compliant and grow.\nhttps://www.sglacpas.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/74/schwartz-giannini-lantsberger-adamson-sgla",
+        "magnet": null,
+        "screen": "screenshots/space bears/Schwartz, Giannini, Lantsberger & Adamson (SGLA).png",
+        "private": false,
+        "misp_uuid": "508770a6-5f35-55fe-9c81-ad17c46d847c",
+        "group_name": "space bears",
+        "sector": "Government"
+    },
+    {
         "post_title": "P... S...",
         "discovered": "2026-09-03 22:33:33.279310",
         "description": "To be announced...",
@@ -154,41 +250,5 @@
         "misp_uuid": "24bde814-1be8-5e82-b0b4-9c45c1ea9947",
         "group_name": "krybit",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Engefitas",
-        "discovered": "2026-09-03 13:35:42.644177",
-        "description": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "e2b4a542-d2ff-578c-a141-94c9fd18f292",
-        "group_name": "vexy",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Complete Packaging Solutions",
-        "discovered": "2026-09-03 12:33:42.647447",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=adec1c55-2d8f-4001-b107-5bc6e3433690",
-        "magnet": null,
-        "screen": "screenshots/qilin/Complete Packaging Solutions.png",
-        "private": false,
-        "misp_uuid": "62c933ca-ef01-5006-9e92-7b60a8654c34",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Greenberg Traurig",
-        "discovered": "2026-09-03 01:31:15.346692",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "3867ee34-bc30-58be-8619-232db9f67b51",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
     }
 ]
