@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "D-MAX Engineering, Inc",
+        "discovered": "2026-09-05 12:37:01.009706",
+        "description": "D‑MAX Engineering, Inc. is a San Diego-based environmental consulting firm specializing in storm water services, particularly for governmental agencies.  Our multidisciplinary team includes environmental scientists, engineers, chemists, and biologists. Our team is experienced with the National Pollutant Discharge Elimination System (NPDES) permit requirements in Southern California.Since 1996, when the company was founded, we have completed numerous storm water projects for 18 municipalities in San Diego, Orange, Imperial, and Riverside Counties. We have developed a reputation for practical solutions, cost-effectiveness, responsiveness, and flexibility.  D-MAX is recognized across the region for our expertise in jurisdictional storm water program development and reporting, water quality monitoring, Industrial General Permit compliance assistance, development and construction services, and inspections of businesses, municipal facilities, construction sites, and treatment control BMPs.Our experience has provided us with a comprehensive understanding of complex, countywide water quality issues and the ability to effectively address them. D-MAX adapts to our clients’ needs and provides a level of quality service that sets us apart. Our diverse team of professionals, central location, and familiarity with the region allows us to provide clients with a wide variety of services at affordable rates. We are a state-certified small business enterprise (SBE).-Personal information of employees and clients -Financial documents-Сommunications drawings\nhttps://www.dmaxinc.com/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/76/d-max-engineering-inc",
+        "magnet": null,
+        "screen": "screenshots/space bears/D-MAX Engineering, Inc.png",
+        "private": false,
+        "misp_uuid": "3d7105ac-5870-51cf-81dc-fce79ba0708c",
+        "group_name": "space bears",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Metrea LLC/Commuter Air Technology, Inc.",
+        "discovered": "2026-09-05 12:36:16.809898",
+        "description": "Metrea LLC (formerly Meta Special Aerospace, LLC) and its subsidiary Commuter Air Technology, Inc. (CAT) are US defense contractors providing Contractor Owned, Contractor Operated (COCO) ISR aircraft services to US Special Operations Command. They operate modified King Air 350 surveillance aircraft in Niger, East Africa, the Philippines, and other theaters.\n\n<redacted>\n339 MB of Harris PRC-117G military tactical radio firmware including compiled waveform binaries for SINCGARS, HAVEQUICK II, ROVER, and 10 other ITAR-controlled waveforms (USML Category XI).\nNamed deployment data for 14+ operators at Sable Spear sites in Niger and East Africa, with rotation schedules, SIPRNet access documentation, and divert airfield planning.\nComplete SOCOM contract pricing portfolios — labor rates, burn rates, TINA-certified cost data, and subcontractor pricing for SOCPAC C3PO, Sable Spear, and Sable Dagger programs.\n232 employee personnel files including resumes, W-9 forms (SSN), SERE training certificates, security clearances, expense reports, and deployment records.\nNSWDG (SEAL Team Six), MARSOC, and 75th Rangers training exercise documentation — 37 separately funded SOCOM training deliveries under the Alpha 28 program.\n<redacted>",
+        "link": "/blog/metrea-llc-77f4beea",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "bffa3b55-442e-5345-b5f2-ed77ecac4b7d",
+        "group_name": "aurora",
+        "sector": "Defense"
+    },
+    {
+        "post_title": "Hochschule Heilbronn Bildungscampus",
+        "discovered": "2026-09-05 06:36:02.337284",
+        "description": "AStA Hochschule Heilbronn is the general students' committee that represents student interests both within and outside the university in Heilbronn. The organization serves as a spokesperson for the student body and provides a variety of support services, including legal and tax counseling, a grievance box, and laptop rentals. Additionally, the committee organizes numerous events and manages the university sports program. It operates as a central point of contact for students facing problems and coordinates with various student parliaments and faculty representatives.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "c3188a64-eb9f-51af-a5f3-61b61a47c80e",
+        "group_name": "panzer",
+        "sector": "Education"
+    },
+    {
         "post_title": "Zdrowit",
         "discovered": "2026-09-04 21:01:58.802460",
         "description": "karierazdrowit.pl zoominfo.com/c/zdrowit/535531700  Zdrowit S.A. is a family-owned Polish pharmacy chain with 100% Polish capital, operating since 2004 and headquartered in Bytom, Silesia, with over 1,000 employees across 40+ cities in southern and central Poland, aiming to become the largest pharmacy network in the region. The business is growing extremely fast, with 2024 net sales revenue up +83.5%, though its net profit margin fell 10.3% due to the costs of rapid expansion. The company is structured as a holding: individual pharmacies operate as separate Sp. z o.o. entities under Zdrowit S.A., which is registered under KRS 0000704305 with a share capital of 1,197,432.00 PLN. Its core workforce consists of pharmacists and pharmacy technicians hired across dozens of locations, supported by a small modern HQ team in Bytom covering data, IT, controlling and marketing. A key strength is its internship pipeline, offering a 2-year program for technicians and a 6-month program for pharmacis",
@@ -101,7 +137,7 @@
         "description": "1 posts - 1h",
         "link": "/news/negotiation-rules",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/everest/Negotiation Rules.png",
         "private": false,
         "misp_uuid": "8bafc90e-3d42-5a5a-b7d2-25f8d89b86c7",
         "group_name": "everest",
@@ -225,90 +261,6 @@
         "private": false,
         "misp_uuid": "c0bfc2c4-6507-5782-a518-06a935637bfe",
         "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Kovo Healthtech Corp",
-        "discovered": "2026-09-04 12:37:52.844721",
-        "description": "Versatile technology company leading the Charge in AI process automation initiatives to drive Impact and innovation across diverse industries",
-        "link": "Companies/kovoplus",
-        "magnet": null,
-        "screen": "screenshots/pear/Kovo Healthtech Corp.png",
-        "private": false,
-        "misp_uuid": "fd65ff96-3868-53b2-9c2e-d0f3959feca1",
-        "group_name": "pear",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Homewood Sales",
-        "discovered": "2026-09-04 11:35:25.780437",
-        "description": "Homewood Sales Corporation specializes in equipment life extension solutions, offering a wide range of products including automatic voltage regulators, control ...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "ac91c355-f54c-5eb0-992a-2b242dfb4c5e",
-        "group_name": "dragonforce",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Norwood Law Firm",
-        "discovered": "2026-09-04 11:35:24.832348",
-        "description": "Norwood Law is a Tulsa-based legal firm that specializes in personal injury law, criminal defense, business law, and family law. Founded by attorney Joe Norwood...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d86bb53e-0b3c-5606-879c-767451d77f21",
-        "group_name": "dragonforce",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "AUDIT ENTITY: mansurovogroup",
-        "discovered": "2026-09-04 05:34:53.153553",
-        "description": "AUDIT ID: DA68891EA2CD44B6 / DISCOVERY DATE: 2026-08-26",
-        "link": "/entity/17E19C9B6B41D33F",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: mansurovogroup.png",
-        "private": false,
-        "misp_uuid": "870f503e-9b8e-543e-b829-50a01d1d02d8",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: PIT.local",
-        "discovered": "2026-09-04 05:34:52.178781",
-        "description": "AUDIT ID: 3382542458FC4332 / DISCOVERY DATE: 2026-08-27",
-        "link": "/entity/6B55D91EA16DCB48",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: PITlocal.png",
-        "private": false,
-        "misp_uuid": "1944403d-3886-5f1f-bd3c-e0ca7b5ba03f",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Studio Oculistico Ciraci",
-        "discovered": "2026-09-04 01:31:06.060720",
-        "description": "Studio Oculistico Ciraci - ophthalmology clinic based in Bari, Italy, \nthat opened in 1989 as a center accredited with the Italian National \nHealth Service (SSN).\nWith more than two decades of experience, it focuses on the prevention \nand treatment of major eye conditions using modern diagnostic \ntechnologies. Its main areas of expertise include glaucoma, \nvitreoretinal diseases (especially maculopathies), correction of \nrefractive errors (Excimer laser PRK and cataract surgery), strabismus, \nkeratoconus, and the renewal of special driving licenses.\nThe clinic is run by specialists Dr. Giuseppe Ciraci and Dr.ssa Lorenza \nCiraci and emphasizes high-quality, safe care supported by a \nprofessional team.\nhttps://www.oculisticaciraci.it/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/73/studio-oculistico-ciraci",
-        "magnet": null,
-        "screen": "screenshots/space bears/Studio Oculistico Ciraci.png",
-        "private": false,
-        "misp_uuid": "20e868f0-24b4-54d6-b693-24890091f21f",
-        "group_name": "space bears",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Schwartz, Giannini, Lantsberger & Adamson (SGLA)",
-        "discovered": "2026-09-04 01:31:05.025724",
-        "description": "Schwartz, Giannini, Lantsberger & Adamson (SGLA) Accountancy \nCorporation is a full-service certified public accounting firm based in \nStockton, California, founded in 1988. The firm provides tax planning \nand compliance, audits, reviews and compilations, bookkeeping, payroll, \noutsourced CFO support, and business consulting for individuals and \ncompanies. It has particular experience with real estate, healthcare, \nnonprofits, affordable housing, common-interest realty associations, and\n local government clients. SGLA positions itself as a hands-on local CPA\n practice that combines traditional accounting work with practical \nadvice to help clients stay compliant and grow.\nhttps://www.sglacpas.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/74/schwartz-giannini-lantsberger-adamson-sgla",
-        "magnet": null,
-        "screen": "screenshots/space bears/Schwartz, Giannini, Lantsberger & Adamson (SGLA).png",
-        "private": false,
-        "misp_uuid": "508770a6-5f35-55fe-9c81-ad17c46d847c",
-        "group_name": "space bears",
         "sector": "Government"
     }
 ]
