@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "eAssist Dental Solutions",
+        "discovered": "2026-09-06 18:38:33.005832",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "939bf55e-6960-5886-8d53-f238d66b74d8",
+        "group_name": "direwolf",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Sancity",
+        "discovered": "2026-09-06 17:36:08.555709",
+        "description": "An active, unlisted public company incorporated in 2012, operating in real estate/construction and real-estate marketing & sales",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "992c7d82-43a6-5830-9835-7995554f1e69",
+        "group_name": "vexy",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Mission Pet Health",
+        "discovered": "2026-09-06 17:35:31.675575",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "de04917b-0add-51e3-8602-dd0a401ce7a8",
+        "group_name": "direwolf",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "myLaurel",
+        "discovered": "2026-09-06 17:35:30.716904",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ef9eae47-bbff-5dce-a24f-92fbf4b6d597",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "evergenbio.com",
+        "discovered": "2026-09-06 16:39:48.932096",
+        "description": "Evergen is a leading Contract Development and Manufacturing Organization (CDMO) specializing in biomaterial solutions for regenerative medicine. We work closely with OEM partners to deliver customized biomaterial solutions that meet specific clinical needs",
+        "link": "/MU7nZVTkyUp3ngugKlwOnyVtxCATQdyB/evergenbio-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/evergenbiocom.png",
+        "private": false,
+        "misp_uuid": "fcf966e4-a918-588f-9425-4472701a9189",
+        "group_name": "chaos",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "McDonalds Ecuador",
+        "discovered": "2026-09-06 14:40:59.061866",
+        "description": "McDonalds Ecuador is the local franchise operation of the global McDonalds brand. The company operates fast-food restaurants across Ecuador, offering products such as burgers, fries, beverages, breakfast items, and childrens meals. It operates under the McDonalds franchise model through Arcos Dorados, the largest McDonalds franchise operator in Latin America and the Caribbean.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ded3bfd9-e519-586d-946a-0bf383612a7d",
+        "group_name": "vexy",
+        "sector": "Agriculture"
+    },
+    {
         "post_title": "Mega Velocity",
         "discovered": "2026-09-06 02:38:05.529129",
         "description": "New Delhi–based private technology company incorporated in 2013. Its registered business classification is software publishing, consultancy and supply, including software development, maintenance and web-page design. Its network records also identify MEGA VELOCITY PVT LTD as an Internet/hosting network operator.",
@@ -22,53 +94,5 @@
         "misp_uuid": "0e3ea89d-9884-5e3f-b41e-a1cbee874b4d",
         "group_name": "leaknet",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Lider Aviacao",
-        "discovered": "2026-09-05 18:50:34.518068",
-        "description": "lideraviacao.com.br zoominfo.com/c/líder-aviação/372493800 Líder Aviação is Latin America's largest business aviation company, founded in 1958 in Belo Horizonte, Brazil, as an air taxi with a single Cessna 170. Today: ~R$1.2B revenue, 1,300+ staff, 50+ aircraft, 22 own bases; 42.5% owned by US Bristow Group, run by the founder's third generation (President: Junia Hermont). A one-stop shop: charters (first booking app in Brazil), the region's largest FBO network, aircraft sales (exclusive HondaJet dealer, 1,000+ sold), a top MRO (authorized for Bell, HondaJet, Gulfstream) and offshore helicopter ops for Petrobras since 1973 (1M+ flight hours). Key edge: safety — the only Brazilian company with IS-BAO Stage 3, plus Argus Platinum and 5× Petrobras Peotram wins. First SAF flight in Brazilian business aviation (2024), now expanding into agribusiness and electric aviation. Bottom line: a 67-year-old family giant controlling South American business aviation end-to-end.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "2978d4ec-64b7-5be9-bd9e-1ecf09638e02",
-        "group_name": "the gentlemen",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Philippine Ports Authority",
-        "discovered": "2026-09-05 18:45:15.792367",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=65f2d9fb-d508-4c18-84e1-14defac537bb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Philippine Ports Authority.png",
-        "private": false,
-        "misp_uuid": "112bfd1f-84f4-52e2-86dd-304343efb5b3",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Bauman Law Group",
-        "discovered": "2026-09-05 18:45:14.870553",
-        "description": "Law Firms & Legal Services",
-        "link": "/site/blog?uuid=e46fa1b8-8412-4232-9d35-bec750d2f148",
-        "magnet": null,
-        "screen": "screenshots/qilin/Bauman Law Group.png",
-        "private": false,
-        "misp_uuid": "ea746c1f-991d-53dd-a310-a17988f18ace",
-        "group_name": "qilin",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "CitizensPay",
-        "discovered": "2026-09-05 18:44:45.611767",
-        "description": "Sector: Digital Wallet / Payment Platform | Country: 🇲🇲 Myanmar | Records: 30 GB | Countdown: 2d 12h 37m 53s | Citizens Pay (also known as CTZPay) is a mobile digital wallet and payment platform in Myanmar powered by Myanmar Citizens Bank (MCB) and Capital Connect Limited. Compromised agent user information — total data size 30 GB. Price range $7,000 to $25,000. Victim domain https://ctzpay.com. | CITIZENSPAY | CitizensPay Upcoming Critical 🇲🇲 Myanmar ID_CITIZENSPAY | Detected 2026 | Target // Digital Wallet / Payment Platform Description Citizens Pay (also known as CTZPay) is a mobile digital wallet and payment platform in Myanmar powered by Myanmar Citizens Bank (MCB) and Capital Connect Limited. Compromised agent user information — total data size 30 GB. Price range $7,000 to $25,000. Victim domain https://ctzpay.com. Infection Mechanism Exposed agent user info including business license, NRC pictures (front/back), selfie, shop pictures, and phone numbers from the CTZPay agent verification pipeline. Notable Attack Full agent user info dump from Citizens Pay (CTZPay) — 30 GB including KYC documents (NRC front/back), selfies, business license, shop pictures, and phone numbers. Example Compromised Example Data Include - business_picture - nrc_picture_front - nrc_picture_back - selfie_picture - shop_picture - Ph Number Evidence Images business_license_picture.jpg nrc_picture_front.jpg nrc_picture_back.jpg selfie_picture.jpg shop_picture.jpg Download Sample Contact Us On Session Close",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "418a75f4-f5f3-5d20-bad1-27dad35bbbe0",
-        "group_name": "dysphor1a",
-        "sector": "Finance"
     }
 ]
