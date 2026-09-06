@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Mega Velocity",
+        "discovered": "2026-09-06 02:38:05.529129",
+        "description": "New Delhi–based private technology company incorporated in 2013. Its registered business classification is software publishing, consultancy and supply, including software development, maintenance and web-page design. Its network records also identify MEGA VELOCITY PVT LTD as an Internet/hosting network operator.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "04f66029-df66-5f71-8d59-5cf9b3f74944",
+        "group_name": "vexy",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Will the Katecho,LLC be able to handle the hack and prevent a data breach in time?",
+        "discovered": "2026-09-06 01:41:57.355050",
+        "description": "#DataLeak #HIPAA  #CyberSecurity #DataBreach #MedicalRecords #HealthcareSecurity #2026Breach #PublicHealth",
+        "link": "view_article.php?article=oKcu3SSttlyF6q212cErhoSU0cSLdjicDyi4FQj420ZYPcZbAiP4XSH0bMxOICM9",
+        "magnet": null,
+        "screen": "screenshots/leaknet/Will the Katecho,LLC be able to handle the hack and prevent a data breach in time.png",
+        "private": false,
+        "misp_uuid": "0e3ea89d-9884-5e3f-b41e-a1cbee874b4d",
+        "group_name": "leaknet",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Lider Aviacao",
         "discovered": "2026-09-05 18:50:34.518068",
         "description": "lideraviacao.com.br zoominfo.com/c/líder-aviação/372493800 Líder Aviação is Latin America's largest business aviation company, founded in 1958 in Belo Horizonte, Brazil, as an air taxi with a single Cessna 170. Today: ~R$1.2B revenue, 1,300+ staff, 50+ aircraft, 22 own bases; 42.5% owned by US Bristow Group, run by the founder's third generation (President: Junia Hermont). A one-stop shop: charters (first booking app in Brazil), the region's largest FBO network, aircraft sales (exclusive HondaJet dealer, 1,000+ sold), a top MRO (authorized for Bell, HondaJet, Gulfstream) and offshore helicopter ops for Petrobras since 1973 (1M+ flight hours). Key edge: safety — the only Brazilian company with IS-BAO Stage 3, plus Argus Platinum and 5× Petrobras Peotram wins. First SAF flight in Brazilian business aviation (2024), now expanding into agribusiness and electric aviation. Bottom line: a 67-year-old family giant controlling South American business aviation end-to-end.",
@@ -46,113 +70,5 @@
         "misp_uuid": "418a75f4-f5f3-5d20-bad1-27dad35bbbe0",
         "group_name": "dysphor1a",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Jouvet SAS",
-        "discovered": "2026-09-05 13:44:14.091909",
-        "description": "Construction",
-        "link": "/site/blog?uuid=ee0464c8-913c-4fec-bf54-04737c76b065",
-        "magnet": null,
-        "screen": "screenshots/qilin/Jouvet SAS.png",
-        "private": false,
-        "misp_uuid": "b1c18496-65bc-59d8-94b6-19032837dba3",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "G&S Technologies",
-        "discovered": "2026-09-05 13:44:13.022025",
-        "description": "Energy, Utilities & Waste",
-        "link": "/site/blog?uuid=443343d0-78e2-4240-833c-478a6c9bc3c2",
-        "magnet": null,
-        "screen": "screenshots/qilin/G&S Technologies.png",
-        "private": false,
-        "misp_uuid": "4ed5df27-c074-50bf-bb72-7d0a3704d110",
-        "group_name": "qilin",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "Nolan Consulting Group",
-        "discovered": "2026-09-05 13:44:12.114370",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=407b8f19-2224-49bc-8b77-b75fc879d2eb",
-        "magnet": null,
-        "screen": "screenshots/qilin/Nolan Consulting Group.png",
-        "private": false,
-        "misp_uuid": "9945b7e7-7d14-5e6b-8f19-cd0640fd852a",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Colonial Hyundai",
-        "discovered": "2026-09-05 13:44:11.180058",
-        "description": "Automotive Parts",
-        "link": "/site/blog?uuid=05e13c6e-47a3-4022-abf1-06eae70f1662",
-        "magnet": null,
-        "screen": "screenshots/qilin/Colonial Hyundai.png",
-        "private": false,
-        "misp_uuid": "392d6986-a01c-530e-a7fe-063f5322fe76",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "The Big Table",
-        "discovered": "2026-09-05 13:44:09.421804",
-        "description": "Hospitality",
-        "link": "/site/blog?uuid=58349bee-bd7c-491c-ae26-f8d92e517b40",
-        "magnet": null,
-        "screen": "screenshots/qilin/The Big Table.png",
-        "private": false,
-        "misp_uuid": "ec8c779b-12dd-5239-bf07-cde2d69e92f3",
-        "group_name": "qilin",
-        "sector": "Hospitality"
-    },
-    {
-        "post_title": "D-MAX Engineering, Inc",
-        "discovered": "2026-09-05 12:37:01.009706",
-        "description": "D‑MAX Engineering, Inc. is a San Diego-based environmental consulting firm specializing in storm water services, particularly for governmental agencies.  Our multidisciplinary team includes environmental scientists, engineers, chemists, and biologists. Our team is experienced with the National Pollutant Discharge Elimination System (NPDES) permit requirements in Southern California.Since 1996, when the company was founded, we have completed numerous storm water projects for 18 municipalities in San Diego, Orange, Imperial, and Riverside Counties. We have developed a reputation for practical solutions, cost-effectiveness, responsiveness, and flexibility.  D-MAX is recognized across the region for our expertise in jurisdictional storm water program development and reporting, water quality monitoring, Industrial General Permit compliance assistance, development and construction services, and inspections of businesses, municipal facilities, construction sites, and treatment control BMPs.Our experience has provided us with a comprehensive understanding of complex, countywide water quality issues and the ability to effectively address them. D-MAX adapts to our clients’ needs and provides a level of quality service that sets us apart. Our diverse team of professionals, central location, and familiarity with the region allows us to provide clients with a wide variety of services at affordable rates. We are a state-certified small business enterprise (SBE).-Personal information of employees and clients -Financial documents-Сommunications drawings\nhttps://www.dmaxinc.com/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/76/d-max-engineering-inc",
-        "magnet": null,
-        "screen": "screenshots/space bears/D-MAX Engineering, Inc.png",
-        "private": false,
-        "misp_uuid": "3d7105ac-5870-51cf-81dc-fce79ba0708c",
-        "group_name": "space bears",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Metrea LLC/Commuter Air Technology, Inc.",
-        "discovered": "2026-09-05 12:36:16.809898",
-        "description": "Metrea LLC (formerly Meta Special Aerospace, LLC) and its subsidiary Commuter Air Technology, Inc. (CAT) are US defense contractors providing Contractor Owned, Contractor Operated (COCO) ISR aircraft services to US Special Operations Command. They operate modified King Air 350 surveillance aircraft in Niger, East Africa, the Philippines, and other theaters.\n\n<redacted>\n339 MB of Harris PRC-117G military tactical radio firmware including compiled waveform binaries for SINCGARS, HAVEQUICK II, ROVER, and 10 other ITAR-controlled waveforms (USML Category XI).\nNamed deployment data for 14+ operators at Sable Spear sites in Niger and East Africa, with rotation schedules, SIPRNet access documentation, and divert airfield planning.\nComplete SOCOM contract pricing portfolios — labor rates, burn rates, TINA-certified cost data, and subcontractor pricing for SOCPAC C3PO, Sable Spear, and Sable Dagger programs.\n232 employee personnel files including resumes, W-9 forms (SSN), SERE training certificates, security clearances, expense reports, and deployment records.\nNSWDG (SEAL Team Six), MARSOC, and 75th Rangers training exercise documentation — 37 separately funded SOCOM training deliveries under the Alpha 28 program.\n<redacted>",
-        "link": "/blog/metrea-llc-77f4beea",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "bffa3b55-442e-5345-b5f2-ed77ecac4b7d",
-        "group_name": "aurora",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Hochschule Heilbronn Bildungscampus",
-        "discovered": "2026-09-05 06:36:02.337284",
-        "description": "AStA Hochschule Heilbronn is the general students' committee that represents student interests both within and outside the university in Heilbronn. The organization serves as a spokesperson for the student body and provides a variety of support services, including legal and tax counseling, a grievance box, and laptop rentals. Additionally, the committee organizes numerous events and manages the university sports program. It operates as a central point of contact for students facing problems and coordinates with various student parliaments and faculty representatives.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c3188a64-eb9f-51af-a5f3-61b61a47c80e",
-        "group_name": "panzer",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Judicial Branch of the Province of Jujuy",
-        "discovered": "2026-09-05 01:47:00",
-        "description": "The official website of the Judicial Branch of Jujuy, Argentina. It provides court information, digital case management, mediation services, legal rulings, and judicial news for legal professionals and the public.\n\nNow i have your wordpress databases, login credentials to internal systems(thanks to marcos :)), as well as your email credentials\n\nRespond to us, pay the ransom.(Check your emails & check spam as well.)\nOR email me at : asojfdhaslkfjsasafyw@onionmail.org for instructions\nPublication scheduled: 2026-09-19 02:16:35 UTC\nSize: 4.2 GB\nSectors: Government, Law",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/judicial-branch-of-the-province-of-jujuy/",
-        "magnet": null,
-        "screen": "screenshots/emperador/Judicial Branch of the Province of Jujuy.png",
-        "private": false,
-        "misp_uuid": "953a46ea-49c1-5b2d-9338-a461c50deffa",
-        "group_name": "emperador",
-        "sector": "Government"
     }
 ]
