@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "RTAD GOV MM",
+        "discovered": "2026-09-06 20:42:48.062593",
+        "description": "Leaked: New | Sector: Government / Transport | Country: 🇲🇲 Myanmar | Records: 1.08 GB — full databases dump | Road Transport Administration Department (RTAD) — official government portal providing public transport services, driving license issuance, vehicle registration, and safety regulations. Full databases dump total 1.08 GB. Victim domain https://rtad.gov.mm. | Leaked | RTAD GOV MM Leaked New Critical 🇲🇲 Myanmar ID_RTAD-GOV-MM | Detected 2026 | Target // Government / Transport Description Road Transport Administration Department (RTAD) — official government portal providing public transport services, driving license issuance, vehicle registration, and safety regulations. Full databases dump total 1.08 GB. Victim domain https://rtad.gov.mm. Infection Mechanism Compromised RTAD government databases exposing vehicle registration records, owner PII, NRC numbers, addresses, vehicle details, and insurance premium data via internal API responses. Notable Attack Full databases dump — 1.08 GB from the Road Transport Administration Department (RTAD) of Myanmar, including owner names, NRC numbers, addresses, vehicle registration, branch, and premium payment records. Example Compromised {\"code\": 0, \"status\": \"OK\", \"message\": \"Success\", \"data\": {\"owner_name\": \"U SOE MYINT\", \"nrc_no\": \"8/KHAMANA(N)073033\", \"address\": \",,HTEIN SAN YWAR,CHAUK\", \"types\": \"T\", \"vehicle_no\": \"1A/1230\", \"book_no\": \"\", \"vehicle_name\": \"HINO TE11\", \"vehicle_type\": \"TRUCK_COMMERCIAL\", \"productType\": \"COMMERCIAL\", \"motorType\": \"TRUCK\", \"premiumYear\": 2, \"seating\": 0, \"weight\": 7, \"capacity\": \"7.0\", \"period_to\": \"2025-02-28\", \"premium_amount\": \"15000.0\", \"receipt_no\": \"\", \"receipt_date\": \"\", \"version\": 1, \"premiumTotalAmount\": 30000, \"total_month\": 24, \"rta_branch\": \"Regional Office(Magway)\", \"nextPremiumBuyDate\": \"2027-02-28\", \"isConvert\": false, \"penaltyFees\": 0, \"isDataValid\": true}, \"api_statuses\": {\"api_1\": \"false\", \"api_2\": \"success\"}, \"timestamp\": \"2026-01-24T18:19:18.162Z\"} Download Source https://anonfilesnew.com/s/QOAJZ9uVSza Download Data Contact Us On Session Close",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "da86a154-f6f4-5c71-8c38-0e3c91564dc4",
+        "group_name": "dysphor1a",
+        "sector": "Government"
+    },
+    {
         "post_title": "eAssist Dental Solutions",
         "discovered": "2026-09-06 18:38:33.005832",
         "description": "",
