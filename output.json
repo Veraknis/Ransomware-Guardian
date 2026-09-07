@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "Partners Group SK",
+        "discovered": "2026-09-07 23:40:02.339314",
+        "description": "Finance",
+        "link": "/site/blog?uuid=ec038569-39b2-414e-bd92-45f99e174f42",
+        "magnet": null,
+        "screen": "screenshots/qilin/Partners Group SK.png",
+        "private": false,
+        "misp_uuid": "5e9efb57-0029-56a1-9d36-4e2b00e0269f",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "State of Florida DMV",
+        "discovered": "2026-09-07 21:44:37.831194",
+        "description": "Contact us, you know how. or we will release the files. View download button below for proof (samples). Deadline : 9 11 2026",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9ef9acaf-e409-5b25-b319-a96fe471a103",
+        "group_name": "shinyhunters",
+        "sector": "Government"
+    },
+    {
+        "post_title": "NorthShore Health Centers",
+        "discovered": "2026-09-07 21:44:04.513129",
+        "description": "NorthShore Health Centers offers comprehensive care in Indiana, including behavioral health, dental, pediatrics, and women’s health. It runs multiple health centers and mobile units across Porter, Lake, La Porte, and Jasper counties.",
+        "link": "/Company/NorthShore/",
+        "magnet": null,
+        "screen": "screenshots/insomnia/NorthShore Health Centers.png",
+        "private": false,
+        "misp_uuid": "01a16442-aae9-535d-a8c7-d4cd2c2916da",
+        "group_name": "insomnia",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Wellness Partners network(combined revenue)",
+        "discovered": "2026-09-07 21:44:02.313249",
+        "description": "",
+        "link": "/blog/disclosures/6a9f08409cd108bf26a4f9bf",
+        "magnet": null,
+        "screen": "screenshots/inc ransom/Wellness Partners network(combined revenue).png",
+        "private": false,
+        "misp_uuid": "f0f16b1f-6c21-50b6-bea2-0f440b69087d",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Alurwalls",
         "discovered": "2026-09-07 20:42:56.833053",
         "description": "Alurwalls was attacked, resulting in the theft of approximately 17 GB of confidential data. The stolen information includes banking and other financial documents, client building plans, and other personal data belonging to the company and its partners. Currently, more than 16,000 files are no longer protected by Alurwalls.",
@@ -645,18 +693,6 @@
         "private": false,
         "misp_uuid": "7f2b114a-2e12-5e2d-92fd-973ae7acfdc0",
         "group_name": "panzer",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "광명산업(주)",
-        "discovered": "2026-09-06 23:43:20.208539",
-        "description": "URL:       \t\t  Kmin.co.kr\nCountry:   \t  South Korea\n\nDescription:\nKwangmyung Industry is a manufacturing company established in 1985 that produces automotive parts, including automotive seats, molds, and jigs.\nDomestic operations consist of the headquarters, the Cheonan Central Research Institute, Asan, Gwangju, and Gyeongju factories, as well as the Export Division and Kwangmyung Engineering.\nOverseas subsidiaries include facilities in Ramos, Mexico, and Alabama, USA.\n        \n\nDATA SIZE: 6TB",
-        "link": "/leaks/Z61IH585ezjN",
-        "magnet": null,
-        "screen": "screenshots/blacklocks/광명산업(주).png",
-        "private": false,
-        "misp_uuid": "ed114a53-a2ba-5b4b-8053-a5379c3e446d",
-        "group_name": "blacklocks",
         "sector": "Manufacturing"
     }
 ]
