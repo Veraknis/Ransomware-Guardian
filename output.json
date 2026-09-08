@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "recoverycafe.org",
+        "discovered": "2026-09-08 21:41:08.390462",
+        "description": "The organization was founded in 2003 and opened its first physical café in Seattle in 2004. Its approach is based …",
+        "link": "/blog/post/recoverycafeorg/",
+        "magnet": null,
+        "screen": "screenshots/safepay/recoverycafeorg.png",
+        "private": false,
+        "misp_uuid": "34391c7c-2b41-5dec-9296-64570e9feae1",
+        "group_name": "safepay",
+        "sector": "Nonprofit"
+    },
+    {
+        "post_title": "mcnishsteel.com",
+        "discovered": "2026-09-08 21:41:07.179551",
+        "description": "The company is headquartered in Edmonton, Alberta, and was founded in 1978 by William and Wallace McNish. It has developed …",
+        "link": "/blog/post/mcnishsteelcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/mcnishsteelcom.png",
+        "private": false,
+        "misp_uuid": "4a2d0129-ee92-5113-a587-752fee6b5aae",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "palmettoeyeinstitute.com",
+        "discovered": "2026-09-08 21:41:06.281567",
+        "description": "The practice was founded by Dr. Prat Itharat, a board-certified ophthalmologist who specializes in cataract surgery and comprehensive eye care. …",
+        "link": "/blog/post/palmettoeyeinstitutecom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/palmettoeyeinstitutecom.png",
+        "private": false,
+        "misp_uuid": "5147d6e8-9ad8-53f9-a7d1-8fe240ec650c",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "reichenau.at",
+        "discovered": "2026-09-08 21:41:05.360665",
+        "description": "The official website, reichenau.at, serves as the municipality's central digital information and service platform for residents, businesses, and visitors. The …",
+        "link": "/blog/post/reichenauat/",
+        "magnet": null,
+        "screen": "screenshots/safepay/reichenauat.png",
+        "private": false,
+        "misp_uuid": "4d89a75c-b808-5b45-a925-4fe893aec778",
+        "group_name": "safepay",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "cannonpuntana.com",
+        "discovered": "2026-09-08 21:41:04.470555",
+        "description": "The company operated in Argentina and was historically connected with the manufacture and distribution of fragrances, toiletries, and personal-care products. …",
+        "link": "/blog/post/cannonpuntanacom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/cannonpuntanacom.png",
+        "private": false,
+        "misp_uuid": "83e701c3-8cc1-53be-a4cc-319f57517c54",
+        "group_name": "safepay",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "assiprime.it",
+        "discovered": "2026-09-08 21:41:03.512284",
+        "description": "The company provides insurance brokerage, risk-management, financial consulting, and related assistance services to private individuals, businesses, professionals, artisans, and commercial …",
+        "link": "/blog/post/assiprimeit/",
+        "magnet": null,
+        "screen": "screenshots/safepay/assiprimeit.png",
+        "private": false,
+        "misp_uuid": "fa3942e0-01d4-5e47-8150-cf523db1ce3a",
+        "group_name": "safepay",
+        "sector": "Finance"
+    },
+    {
         "post_title": "EMS1R",
         "discovered": "2026-09-08 18:44:26.277904",
         "description": "",
@@ -178,65 +250,5 @@
         "misp_uuid": "5e9efb57-0029-56a1-9d36-4e2b00e0269f",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "State of Florida DMV",
-        "discovered": "2026-09-07 21:44:37.831194",
-        "description": "Contact us, you know how. or we will release the files. View download button below for proof (samples). Deadline : 9 11 2026",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "9ef9acaf-e409-5b25-b319-a96fe471a103",
-        "group_name": "shinyhunters",
-        "sector": "Government"
-    },
-    {
-        "post_title": "NorthShore Health Centers",
-        "discovered": "2026-09-07 21:44:04.513129",
-        "description": "NorthShore Health Centers offers comprehensive care in Indiana, including behavioral health, dental, pediatrics, and women’s health. It runs multiple health centers and mobile units across Porter, Lake, La Porte, and Jasper counties.",
-        "link": "/Company/NorthShore/",
-        "magnet": null,
-        "screen": "screenshots/insomnia/NorthShore Health Centers.png",
-        "private": false,
-        "misp_uuid": "01a16442-aae9-535d-a8c7-d4cd2c2916da",
-        "group_name": "insomnia",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Wellness Partners network(combined revenue)",
-        "discovered": "2026-09-07 21:44:02.313249",
-        "description": "",
-        "link": "/blog/disclosures/6a9f08409cd108bf26a4f9bf",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Wellness Partners network(combined revenue).png",
-        "private": false,
-        "misp_uuid": "f0f16b1f-6c21-50b6-bea2-0f440b69087d",
-        "group_name": "inc ransom",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Alurwalls",
-        "discovered": "2026-09-07 20:42:56.833053",
-        "description": "Alurwalls was attacked, resulting in the theft of approximately 17 GB of confidential data. The stolen information includes banking and other financial documents, client building plans, and other personal data belonging to the company and its partners. Currently, more than 16,000 files are no longer protected by Alurwalls.",
-        "link": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=alurwalls",
-        "magnet": null,
-        "screen": "screenshots/dark project/Alurwalls.png",
-        "private": false,
-        "misp_uuid": "cad44c7d-4ad9-528a-b982-63e13c6c8ffa",
-        "group_name": "dark project",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Master Manufacturing Co., Inc.",
-        "discovered": "2026-09-07 20:42:55.850911",
-        "description": "Master Manufacturing Co specializing in custom metal stamping and production services has fallen victim to a significant cyberattack. Hackers reportedly exfiltrated 36 gigabytes of sensitive data from the company’s servers. The stolen information includes SQL databases containing personal data, as well as technical plans and schematics for custom metal parts. The breach raises serious concerns regarding intellectual property theft and potential privacy violations for employees and clients.",
-        "link": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=master-manufacturing-co-inc",
-        "magnet": null,
-        "screen": "screenshots/dark project/Master Manufacturing Co, Inc.png",
-        "private": false,
-        "misp_uuid": "cb880813-d0cf-5072-afc4-82f0838abca0",
-        "group_name": "dark project",
-        "sector": "Manufacturing"
     }
 ]
