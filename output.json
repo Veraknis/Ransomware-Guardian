@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "Mitsuwa Trading Co., Ltd",
+        "discovered": "2026-09-09 22:45:45.670128",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=84596ac3-df07-4e54-9c58-c25effad7e42",
+        "magnet": null,
+        "screen": "screenshots/qilin/Mitsuwa Trading Co, Ltd.png",
+        "private": false,
+        "misp_uuid": "09e1cfce-121f-50ae-b286-dd8ad8092f6e",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Logar Network Solutions",
         "discovered": "2026-09-09 18:40:32.837704",
         "description": "Logar Network Solutions is a Brazilian managed IT services provider (MSP) that delivers outsourced IT management, cybersecurity, cloud infrastructure, backup and disaster recovery, software licensing, hardware lifecycle management, and custom software development. The company primarily serves medium-sized businesses across multiple industries, offering 24/7 IT monitoring and support. It has served more than 500 companies and operates across six Brazilian states.",
@@ -934,77 +946,5 @@
         "misp_uuid": "4d0e2638-b079-5437-8609-d11dd62e02bb",
         "group_name": "audit team",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "recoverycafe.org",
-        "discovered": "2026-09-08 21:41:08.390462",
-        "description": "The organization was founded in 2003 and opened its first physical café in Seattle in 2004. Its approach is based …",
-        "link": "/blog/post/recoverycafeorg/",
-        "magnet": null,
-        "screen": "screenshots/safepay/recoverycafeorg.png",
-        "private": false,
-        "misp_uuid": "34391c7c-2b41-5dec-9296-64570e9feae1",
-        "group_name": "safepay",
-        "sector": "Nonprofit"
-    },
-    {
-        "post_title": "mcnishsteel.com",
-        "discovered": "2026-09-08 21:41:07.179551",
-        "description": "The company is headquartered in Edmonton, Alberta, and was founded in 1978 by William and Wallace McNish. It has developed …",
-        "link": "/blog/post/mcnishsteelcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/mcnishsteelcom.png",
-        "private": false,
-        "misp_uuid": "4a2d0129-ee92-5113-a587-752fee6b5aae",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "palmettoeyeinstitute.com",
-        "discovered": "2026-09-08 21:41:06.281567",
-        "description": "The practice was founded by Dr. Prat Itharat, a board-certified ophthalmologist who specializes in cataract surgery and comprehensive eye care. …",
-        "link": "/blog/post/palmettoeyeinstitutecom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/palmettoeyeinstitutecom.png",
-        "private": false,
-        "misp_uuid": "5147d6e8-9ad8-53f9-a7d1-8fe240ec650c",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "reichenau.at",
-        "discovered": "2026-09-08 21:41:05.360665",
-        "description": "The official website, reichenau.at, serves as the municipality's central digital information and service platform for residents, businesses, and visitors. The …",
-        "link": "/blog/post/reichenauat/",
-        "magnet": null,
-        "screen": "screenshots/safepay/reichenauat.png",
-        "private": false,
-        "misp_uuid": "4d89a75c-b808-5b45-a925-4fe893aec778",
-        "group_name": "safepay",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "cannonpuntana.com",
-        "discovered": "2026-09-08 21:41:04.470555",
-        "description": "The company operated in Argentina and was historically connected with the manufacture and distribution of fragrances, toiletries, and personal-care products. …",
-        "link": "/blog/post/cannonpuntanacom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/cannonpuntanacom.png",
-        "private": false,
-        "misp_uuid": "83e701c3-8cc1-53be-a4cc-319f57517c54",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "assiprime.it",
-        "discovered": "2026-09-08 21:41:03.512284",
-        "description": "The company provides insurance brokerage, risk-management, financial consulting, and related assistance services to private individuals, businesses, professionals, artisans, and commercial …",
-        "link": "/blog/post/assiprimeit/",
-        "magnet": null,
-        "screen": "screenshots/safepay/assiprimeit.png",
-        "private": false,
-        "misp_uuid": "fa3942e0-01d4-5e47-8150-cf523db1ce3a",
-        "group_name": "safepay",
-        "sector": "Finance"
     }
 ]
