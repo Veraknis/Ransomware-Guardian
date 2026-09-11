@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Dustin Group",
+        "discovered": "2026-09-11 12:40:23.290234",
+        "description": "",
+        "link": "/dustin/",
+        "magnet": null,
+        "screen": "screenshots/fulcrumsec/Dustin Group.png",
+        "private": false,
+        "misp_uuid": "857b623a-a083-575b-aee7-03a2c79b6f39",
+        "group_name": "fulcrumsec",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "CO-OP URBAN BANK LTD",
+        "discovered": "2026-09-11 00:43:25.075211",
+        "description": "Country: India |\nWebsite: https://indialei.in/detailed-information/353561/335800GR1DJMM8YD7J14/the-gudivada-co-op-urban-bank-limited/ |\nRevenue: $50 Million |\nIndustry: Bank, Finance |\nEmployees: 25-50 |\nProperties: 41.3 GB (125,988 Files, 14,641 Folders)",
+        "link": "/project/mEMbPCoMYCBhYvwy/",
+        "magnet": null,
+        "screen": "screenshots/global secret group/CO-OP URBAN BANK LTD.png",
+        "private": false,
+        "misp_uuid": "942f5072-87d3-557a-98cf-ff8d53bc53c6",
+        "group_name": "global secret group",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "i2k2 Networks",
+        "discovered": "2026-09-10 23:43:42.734855",
+        "description": "i2k2 Networks Pvt. Ltd., established in 1999, is a leading Indian provider of cloud computing, web hosting, managed IT, data center, backup, disaster recovery, and DevOps solutions. With 25+ years of experience, 4,000+ customers, Tier III-compliant data centers, and 24/7 support, i2k2 delivers secure, scalable, and reliable IT solutions worldwide.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "a54eb23a-f7d7-5f01-8974-21908040d5bb",
+        "group_name": "vexy",
+        "sector": "Technology"
+    },
+    {
         "post_title": "M800 and CINNOX",
         "discovered": "2026-09-10 22:46:51.388901",
         "description": "M800 helps businesses connect globally with virtual numbers, SMS, voice calls, CINNOX, and AI-powered call solutions. Reach and engage customers worldwide.",
@@ -214,101 +250,5 @@
         "misp_uuid": "06df4c0d-c94d-5f12-9eda-cd6c60de359a",
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "EASY JOB S.A.S.",
-        "discovered": "2026-09-10 10:21:00",
-        "description": "Colombian Company.\nAudit and Tax Audit with more than 5 years of experience\nCalle 17 sur 44 - 159 Oficina 1501 EDIFICIO CLAROSCURO, Medellín Colombia.\nLlámanos o escríbenos: 310 447 2013 - 313 796 9917\nThe archives contain personal data of employees and customers of the company, tax documents, databases and other important documents\n17000 documents\nPublication scheduled: 2026-09-20 10:21:04 UTC\nSize: 2.7 GB\nSectors: Finance",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/easy-job-sas/",
-        "magnet": null,
-        "screen": "screenshots/emperador/EASY JOB SAS.png",
-        "private": false,
-        "misp_uuid": "9ae9129f-59d0-5cd6-bd48-4f996158537f",
-        "group_name": "emperador",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "amorsaude.com.br",
-        "discovered": "2026-09-10 09:42:22.548881",
-        "description": "AmorSaúde is a rapidly growing network of popular clinics in Brazil that offers medical, dental, and...",
-        "link": "/post/c582d78870d0815a9f37d2ee92981af3",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/amorsaudecombr.png",
-        "private": false,
-        "misp_uuid": "3e056b16-0bb6-5915-8877-5e55a1b86f34",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "cullottalaw.com",
-        "discovered": "2026-09-10 09:41:56.675108",
-        "description": "",
-        "link": "/blog/disclosures/6aa1b4799cd108bf26fb4634",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/cullottalawcom.png",
-        "private": false,
-        "misp_uuid": "2fe733ab-0526-5633-8165-ea1399b4f1f3",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Mesan USA",
-        "discovered": "2026-09-10 08:36:41.788186",
-        "description": "Country: Miami, Florida 33166, US |\nWebsite: mesanusa.com |\nRevenue: $5.4 Million |\nIndustry: Industrial Machinery & Equipment, Manufacturing |\nEmployees: 10-20 |\nProperties: 184 GB (188,562 Files, 26,169 Folders)",
-        "link": "/project/SyR7gg8M68RCbyjA/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/Mesan USA.png",
-        "private": false,
-        "misp_uuid": "3c225067-5e62-5dc6-8fcc-15039b8c0fce",
-        "group_name": "global secret group",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "gardensalive.com, bitsandpieces.com, iselinursery.local, weeksroses.org, esm.local",
-        "discovered": "2026-09-10 03:38:33.926985",
-        "description": "Gardens Alive, Inc. is a privately held U.S. consumer goods company specializing in direct-to-consumer gardening products, plants, seeds, nursery stock, fertili...",
-        "link": "/#/post/b44446de-514b-4c36-a5b2-8f893733fc3d",
-        "magnet": null,
-        "screen": "screenshots/embargo/gardensalivecom, bitsandpiecescom, iselinurserylocal, weeksrosesorg, esmlocal.png",
-        "private": false,
-        "misp_uuid": "94d3602e-d28a-5003-8060-baae3d13bc34",
-        "group_name": "embargo",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HENRYPRATT.COM",
-        "discovered": "2026-09-10 01:43:34.593080",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "da4900d4-85d0-5689-880b-7e400c15d80b",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "HARLEY-DAVIDSON.COM",
-        "discovered": "2026-09-10 01:43:33.670203",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "498500f2-14bd-5527-b0a2-ad59d94f006e",
-        "group_name": "clop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: mo***al",
-        "discovered": "2026-09-10 01:43:27.141111",
-        "description": "AUDIT ID: 2431ED9F65ADD5B1 / DISCOVERY DATE: 2026-09-10",
-        "link": "/entity/FDC699DE3A112669",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: mo***al.png",
-        "private": false,
-        "misp_uuid": "526176ba-c7fb-5fd7-94ab-18dd8e2d4e29",
-        "group_name": "audit team",
-        "sector": "Unknown"
     }
 ]
