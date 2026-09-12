@@ -1,5 +1,89 @@
 [
     {
+        "post_title": "Shelco Filters",
+        "discovered": "2026-09-12 08:45:42.707138",
+        "description": "If the company does not contact us before 20/09/2026, the data will be published.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "efa613bb-d573-58e7-964c-3d0f16326418",
+        "group_name": "securotrop",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "DiamondLease",
+        "discovered": "2026-09-12 07:42:53.767857",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4a9d1a84-a64e-5346-b048-3bf0377372dd",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Perimetral Oriental de Bogotá S.A.S.",
+        "discovered": "2026-09-12 07:42:52.853817",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "56c376f0-7c21-5a8b-966a-b0ae7a265cfd",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Ozel & Ozel Laws Office",
+        "discovered": "2026-09-12 07:42:51.944556",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "1e00d5b9-9f45-52ba-bb8b-0cb13c54e7b2",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "compunnel.com",
+        "discovered": "2026-09-12 06:40:21.054672",
+        "description": "The company provides a combination of talent acquisition, IT consulting, digital engineering, artificial intelligence, cybersecurity, and workforce management services to …",
+        "link": "/blog/post/compunnelcom/",
+        "magnet": null,
+        "screen": "screenshots/safepay/compunnelcom.png",
+        "private": false,
+        "misp_uuid": "5c6192ef-9923-572a-89a0-6e0e481b0900",
+        "group_name": "safepay",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Imperial Healthcare Solutions",
+        "discovered": "2026-09-12 02:50:04.931110",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=c696224e-7b55-42fd-975d-523482859420",
+        "magnet": null,
+        "screen": "screenshots/qilin/Imperial Healthcare Solutions.png",
+        "private": false,
+        "misp_uuid": "76227d59-2f57-52f2-ade2-1a59414a24c7",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Port of Tanjung Pelepas",
+        "discovered": "2026-09-11 23:43:50.548461",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "772e0de6-8d02-56c4-b5ca-e3eace332aee",
+        "group_name": "direwolf",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "Tuboaços da Amazônia Ltda.",
         "discovered": "2026-09-11 17:46:30.077873",
         "description": "",
@@ -34,41 +118,5 @@
         "misp_uuid": "33c52f8c-39b7-57d0-9508-26542a00614a",
         "group_name": "pear",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Dustin Group",
-        "discovered": "2026-09-11 12:40:23.290234",
-        "description": "",
-        "link": "/dustin/",
-        "magnet": null,
-        "screen": "screenshots/fulcrumsec/Dustin Group.png",
-        "private": false,
-        "misp_uuid": "857b623a-a083-575b-aee7-03a2c79b6f39",
-        "group_name": "fulcrumsec",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "CO-OP URBAN BANK LTD",
-        "discovered": "2026-09-11 00:43:25.075211",
-        "description": "Country: India |\nWebsite: https://indialei.in/detailed-information/353561/335800GR1DJMM8YD7J14/the-gudivada-co-op-urban-bank-limited/ |\nRevenue: $50 Million |\nIndustry: Bank, Finance |\nEmployees: 25-50 |\nProperties: 41.3 GB (125,988 Files, 14,641 Folders)",
-        "link": "/project/mEMbPCoMYCBhYvwy/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/CO-OP URBAN BANK LTD.png",
-        "private": false,
-        "misp_uuid": "942f5072-87d3-557a-98cf-ff8d53bc53c6",
-        "group_name": "global secret group",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "i2k2 Networks",
-        "discovered": "2026-09-10 23:43:42.734855",
-        "description": "i2k2 Networks Pvt. Ltd., established in 1999, is a leading Indian provider of cloud computing, web hosting, managed IT, data center, backup, disaster recovery, and DevOps solutions. With 25+ years of experience, 4,000+ customers, Tier III-compliant data centers, and 24/7 support, i2k2 delivers secure, scalable, and reliable IT solutions worldwide.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "a54eb23a-f7d7-5f01-8974-21908040d5bb",
-        "group_name": "vexy",
-        "sector": "Technology"
     }
 ]
