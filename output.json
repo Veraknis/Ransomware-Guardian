@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "www.kashkha.com",
+        "discovered": "2026-09-13 14:48:38.060639",
+        "description": "Kashkha is a multinational modest fashion brand founded three decades ago in Dubai, UAE, specializing in designing, manu...",
+        "link": "/blog/f80863cff7bd3f7607c6486f3615c67a133e57a0cd5f4b6d749c3f1f3c3a1a9e/",
+        "magnet": null,
+        "screen": "screenshots/krybit/wwwkashkhacom.png",
+        "private": false,
+        "misp_uuid": "7007a018-f25f-528d-8c8b-579d5746fa81",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Strad Solutions",
+        "discovered": "2026-09-13 12:42:35.875597",
+        "description": "Strad Solutions provides cloud hosting, dedicated servers, managed IT, cybersecurity, and disaster recovery services for businesses worldwide.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4e482f1d-5e33-5cfc-b88e-b859250c24ff",
+        "group_name": "vexy",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "AUDIT ENTITY: vi***in",
+        "discovered": "2026-09-13 11:44:24.910503",
+        "description": "AUDIT ID: 5DC9129A6EA7F384 / DISCOVERY DATE: 2026-09-13",
+        "link": "/entity/4AB39A256B7A31D5",
+        "magnet": null,
+        "screen": "screenshots/audit team/AUDIT ENTITY: vi***in.png",
+        "private": false,
+        "misp_uuid": "884a5874-c0e0-5380-af53-994327f02e91",
+        "group_name": "audit team",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "INCOR Group",
+        "discovered": "2026-09-13 06:44:50.719718",
+        "description": "upcoming | — | 0 files",
+        "link": "/victim/incor-group",
+        "magnet": null,
+        "screen": "screenshots/doommageddon/INCOR Group.png",
+        "private": false,
+        "misp_uuid": "c25bb228-a99a-563f-9eb8-643c5bbcbcbb",
+        "group_name": "doommageddon",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Canadian Mental Health Association",
+        "discovered": "2026-09-13 06:15:14.953807",
+        "description": "Healthcare | Toronto, Ontario, Canada | The Canadian Mental Health Association provides mental health services and support. The Association offers advocacy, education, research, and services to persons experiencing mental illness throughout Canada and is headquartered in Toronto, Ontario. \nThe company headquarters is located in 595 Montreal Road, Suite 303, Ottawa, ON K1K 4L2 Canada and 250 Dundas Street West, Suite 401, Toronto, ON, M5T 2Z5 Canada. 5K - 10K Employees | Deadline: 2026-09-20T13:21:48.000Z",
+        "link": null,
+        "magnet": null,
+        "screen": "screenshots/storm/Canadian Mental Health Association.png",
+        "private": false,
+        "misp_uuid": "deed2c07-86d4-566e-85c9-36c2e19dceb6",
+        "group_name": "storm",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "watchops.com",
         "discovered": "2026-09-12 16:40:54.683718",
         "description": "Revenue: $1.3 million | Views: 209 | Posted: 9/12/2026, 6:51:26 PM | Status: 4d 21h 37m 52s",
@@ -178,89 +238,5 @@
         "misp_uuid": "8aecb9a7-1245-5ef4-8379-af737fb0debf",
         "group_name": "rhysida",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Shelco Filters",
-        "discovered": "2026-09-12 08:45:42.707138",
-        "description": "If the company does not contact us before 20/09/2026, the data will be published.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "efa613bb-d573-58e7-964c-3d0f16326418",
-        "group_name": "securotrop",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "DiamondLease",
-        "discovered": "2026-09-12 07:42:53.767857",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "4a9d1a84-a64e-5346-b048-3bf0377372dd",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Perimetral Oriental de Bogotá S.A.S.",
-        "discovered": "2026-09-12 07:42:52.853817",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "56c376f0-7c21-5a8b-966a-b0ae7a265cfd",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Ozel & Ozel Laws Office",
-        "discovered": "2026-09-12 07:42:51.944556",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "1e00d5b9-9f45-52ba-bb8b-0cb13c54e7b2",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "compunnel.com",
-        "discovered": "2026-09-12 06:40:21.054672",
-        "description": "The company provides a combination of talent acquisition, IT consulting, digital engineering, artificial intelligence, cybersecurity, and workforce management services to …",
-        "link": "/blog/post/compunnelcom/",
-        "magnet": null,
-        "screen": "screenshots/safepay/compunnelcom.png",
-        "private": false,
-        "misp_uuid": "5c6192ef-9923-572a-89a0-6e0e481b0900",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Imperial Healthcare Solutions",
-        "discovered": "2026-09-12 02:50:04.931110",
-        "description": "Healthcare Services",
-        "link": "/site/blog?uuid=c696224e-7b55-42fd-975d-523482859420",
-        "magnet": null,
-        "screen": "screenshots/qilin/Imperial Healthcare Solutions.png",
-        "private": false,
-        "misp_uuid": "76227d59-2f57-52f2-ade2-1a59414a24c7",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Port of Tanjung Pelepas",
-        "discovered": "2026-09-11 23:43:50.548461",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "772e0de6-8d02-56c4-b5ca-e3eace332aee",
-        "group_name": "direwolf",
-        "sector": "Transportation"
     }
 ]
