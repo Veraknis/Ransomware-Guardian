@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "STP Fashion Lab",
+        "discovered": "2026-09-17 12:44:20.706894",
+        "description": "stpfashionlab.it is the website of STP Fashion Lab, a Tuscan company that has specialized in making Made in Italy womenswear for over twenty years. It produces the FRIVOLITÉ brand, founded in 2019, which targets independent, sensitive, and playful women.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "35df18c8-ee2a-5690-9ef4-64d6ca299718",
+        "group_name": "vexy",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "hygear.com",
+        "discovered": "2026-09-17 09:44:00.619753",
+        "description": "yGear specializes in providing reliable and affordable on-site and on-demand hydrogen and industrial...",
+        "link": "/post/46963a87c3396e773aa56818c0faa510",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/hygearcom.png",
+        "private": false,
+        "misp_uuid": "3eac6899-ad1f-5b29-84b7-56102ed944a5",
+        "group_name": "lockbit5",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Optimum First Mortgage (Pear's acting group's promotional blog)",
+        "discovered": "2026-09-17 01:41:16.499433",
+        "description": "",
+        "link": "/d7ba2a3f-0d92-4bc9-b30d-6f0edbeaf54b",
+        "magnet": null,
+        "screen": "screenshots/black nevas/Optimum First Mortgage (Pear's acting group's promotional blog).png",
+        "private": false,
+        "misp_uuid": "0afc73ae-9fee-5b1f-97f5-1b4882df9516",
+        "group_name": "black nevas",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Namibian Defence Force",
+        "discovered": "2026-09-17 00:46:15.505967",
+        "description": "",
+        "link": "/r/ff25a287bc20a4e75b96f0946d09be7555ad7af0",
+        "magnet": null,
+        "screen": "screenshots/ransomhouse/Namibian Defence Force.png",
+        "private": false,
+        "misp_uuid": "30e5e05f-8d68-50e7-a6ac-b0e791a29123",
+        "group_name": "ransomhouse",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "AUDIT ENTITY: palletshop",
         "discovered": "2026-09-16 20:49:17.922102",
         "description": "AUDIT ID: 13FE12E3FD98828D / DISCOVERY DATE: 2026-09-08",
@@ -70,6 +118,18 @@
         "misp_uuid": "7b05feac-f1ea-5c25-a440-9e519b56e00e",
         "group_name": "audit team",
         "sector": "Unknown"
+    },
+    {
+        "post_title": "RDA MOTORS S.P.A.",
+        "discovered": "2026-09-16 20:26:00",
+        "description": "is an Italian company engaged in premium cars. There are many customer documents and employee data\nPublication scheduled: 2026-09-26 20:26:23 UTC\nSize: 7.3 GB\nSectors: Technology, Other",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/rda-motors-spa/",
+        "magnet": null,
+        "screen": "screenshots/emperador/RDA MOTORS SPA.png",
+        "private": false,
+        "misp_uuid": "fbda9d50-1a80-5ef8-8e58-826a3f5cd9d1",
+        "group_name": "emperador",
+        "sector": "Technology"
     },
     {
         "post_title": "Leisure Coast Kitchens",
@@ -298,41 +358,5 @@
         "misp_uuid": "69152513-3915-5bc9-ae00-f85db08e52d1",
         "group_name": "panzer",
         "sector": "Professional Services"
-    },
-    {
-        "post_title": "Aarsleff",
-        "discovered": "2026-09-16 06:36:03.582138",
-        "description": "Construction",
-        "link": "/site/blog?uuid=6670e26d-3391-43e8-bcb6-f00c2ba10bc7",
-        "magnet": null,
-        "screen": "screenshots/qilin/Aarsleff.png",
-        "private": false,
-        "misp_uuid": "7e21cac5-99d1-5400-9256-27f3dde40145",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "Community Property Management",
-        "discovered": "2026-09-16 06:35:31.875324",
-        "description": "full data 200 GB+ \n\nWe have been in business since 1978 as a management firm specializing in the management of common interest developments including condominiu...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "7a759c22-c2c2-564c-a128-2b671d735285",
-        "group_name": "dragonforce",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Owen Leigh Optometry",
-        "discovered": "2026-09-16 06:35:30.941612",
-        "description": "Full DATA 400 GB+\n\nThe brain uses the eyes to gather information about our surroundings. The brain cannot process all our view so it must first decide what to l...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "f21132b9-88d3-5e64-8018-f2f7ab16650c",
-        "group_name": "dragonforce",
-        "sector": "Technology"
     }
 ]
