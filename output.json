@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "Vigatec",
+        "discovered": "2026-09-17 23:46:46.229516",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=17c492a1-01f4-417a-a5b2-054009087ccb",
+        "magnet": null,
+        "screen": "screenshots/qilin/Vigatec.png",
+        "private": false,
+        "misp_uuid": "5bb0d82b-f6f0-59be-aaa0-d297f86f0473",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Invincible GG",
+        "discovered": "2026-09-17 21:48:27.898757",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=b134bc7a-1f8f-4ef3-8397-df4f5fc37d50",
+        "magnet": null,
+        "screen": "screenshots/qilin/Invincible GG.png",
+        "private": false,
+        "misp_uuid": "513b7817-5690-58e3-8555-b836a52f40e3",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "W... B...",
+        "discovered": "2026-09-17 20:42:20.111111",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9184f1c6-a42f-5878-899d-6cad4f245651",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "expresspros.com",
+        "discovered": "2026-09-17 20:42:10.474478",
+        "description": "Express Employment Professionals — Data Breach Notification & Public Disclosure\n\nWe have officially initiated the public release phase regarding expresspros.com.\n\nDespite our direct attempts to establish communication, company leadership and their representatives have chosen a strategy of silence…",
+        "link": "/mFUAsV9Nk0iS2j0zwsyTIswYOdzplru9/expresspros-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/expressproscom.png",
+        "private": false,
+        "misp_uuid": "f4644bb0-f052-53d6-ac1d-4e9f6496c186",
+        "group_name": "chaos",
+        "sector": "Government"
+    },
+    {
         "post_title": "Pertamina",
         "discovered": "2026-09-17 19:40:27.039477",
         "description": "",
@@ -213,78 +261,6 @@
         "private": false,
         "misp_uuid": "30e5e05f-8d68-50e7-a6ac-b0e791a29123",
         "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: palletshop",
-        "discovered": "2026-09-16 20:49:17.922102",
-        "description": "AUDIT ID: 13FE12E3FD98828D / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/276BEA45DB484D8E",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: palletshop.png",
-        "private": false,
-        "misp_uuid": "187f709b-4306-54c8-bd6a-f903923e2afa",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: Wise IT",
-        "discovered": "2026-09-16 20:49:16.992630",
-        "description": "AUDIT ID: 2567E8139A6D7753 / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/DD843CB564F9724E",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: Wise IT.png",
-        "private": false,
-        "misp_uuid": "eba5fc17-b943-573c-b6c8-e7980d3180ca",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: buben",
-        "discovered": "2026-09-16 20:49:16.093629",
-        "description": "AUDIT ID: 3A8CF838E9FD17A1 / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/1F9FDF1A9BCD9BB3",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: buben.png",
-        "private": false,
-        "misp_uuid": "794be3b9-69b8-5fed-a0fd-3cdaea934f5d",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: dg.ac.kr",
-        "discovered": "2026-09-16 20:49:15.177028",
-        "description": "AUDIT ID: 4FEC5C192A8A6AC3 / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/E412B2E7E3ED1A93",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: dgackr.png",
-        "private": false,
-        "misp_uuid": "5a8a70ea-4538-57e9-8bc5-b4ab89f9e38b",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: gownet.net",
-        "discovered": "2026-09-16 20:49:14.261687",
-        "description": "AUDIT ID: D4AF665C36E15B6C / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/484EC15733A3F216",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: gownetnet.png",
-        "private": false,
-        "misp_uuid": "43baf612-2e00-5b77-aa31-6a56b6d7bdda",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "AUDIT ENTITY: krimax.org",
-        "discovered": "2026-09-16 20:49:13.198761",
-        "description": "AUDIT ID: FFFEE8E6DD3445AD / DISCOVERY DATE: 2026-09-08",
-        "link": "/entity/CE33F39DA84768CA",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: krimaxorg.png",
-        "private": false,
-        "misp_uuid": "7b05feac-f1ea-5c25-a440-9e519b56e00e",
-        "group_name": "audit team",
         "sector": "Unknown"
     }
 ]
