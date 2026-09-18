@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "Vista Plastic Solutions",
+        "discovered": "2026-09-18 22:50:32.704975",
+        "description": "",
+        "link": "topic.php?id=GEK3Hk0FkaPAwQ",
+        "magnet": null,
+        "screen": "screenshots/play/Vista Plastic Solutions.png",
+        "private": false,
+        "misp_uuid": "a9c1d4d8-b1e1-5c7f-bc17-0bd71b0f30b3",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Inglewood Golf",
+        "discovered": "2026-09-18 22:50:31.654409",
+        "description": "",
+        "link": "topic.php?id=30nnxBd36EMmja",
+        "magnet": null,
+        "screen": "screenshots/play/Inglewood Golf.png",
+        "private": false,
+        "misp_uuid": "8112edd5-a242-566e-971e-f4c3c97e9fc9",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Barrett Mahony Consulting Engineers",
+        "discovered": "2026-09-18 22:50:30.576652",
+        "description": "",
+        "link": "topic.php?id=zd7L3yfXL6YNRC",
+        "magnet": null,
+        "screen": "screenshots/play/Barrett Mahony Consulting Engineers.png",
+        "private": false,
+        "misp_uuid": "e923ab35-6afd-5259-a475-af96c700f9a9",
+        "group_name": "play",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Quest Group",
+        "discovered": "2026-09-18 22:23:24.775233",
+        "description": "Employee data, internal files, and a few unexpected discoveries.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ZxMuptij8OrXtBb4TyaPrfDFsvfmfD4otvTwmnvCXIBU5W+YfSjke0DNnrdrCPDPvRWvmCkwFFbjgtFGU3mvjEl1dFI5V3NB",
+        "magnet": null,
+        "screen": "screenshots/anubis/Quest Group.png",
+        "private": false,
+        "misp_uuid": "2e4b971b-ab80-5f5f-aa46-edf4cf9af328",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Premier Lighting & Controls",
         "discovered": "2026-09-18 19:40:53.766896",
         "description": "Premier Lighting & Controls is a full-service commercial lighting agency. It serves architects, contractors, distributors, building owners, and en...",
@@ -394,41 +442,5 @@
         "misp_uuid": "5bb0d82b-f6f0-59be-aaa0-d297f86f0473",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Invincible GG",
-        "discovered": "2026-09-17 21:48:27.898757",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=b134bc7a-1f8f-4ef3-8397-df4f5fc37d50",
-        "magnet": null,
-        "screen": "screenshots/qilin/Invincible GG.png",
-        "private": false,
-        "misp_uuid": "513b7817-5690-58e3-8555-b836a52f40e3",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "W... B...",
-        "discovered": "2026-09-17 20:42:20.111111",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "9184f1c6-a42f-5878-899d-6cad4f245651",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "expresspros.com",
-        "discovered": "2026-09-17 20:42:10.474478",
-        "description": "Express Employment Professionals — Data Breach Notification & Public Disclosure\n\nWe have officially initiated the public release phase regarding expresspros.com.\n\nDespite our direct attempts to establish communication, company leadership and their representatives have chosen a strategy of silence…",
-        "link": "/mFUAsV9Nk0iS2j0zwsyTIswYOdzplru9/expresspros-com",
-        "magnet": null,
-        "screen": "screenshots/chaos/expressproscom.png",
-        "private": false,
-        "misp_uuid": "f4644bb0-f052-53d6-ac1d-4e9f6496c186",
-        "group_name": "chaos",
-        "sector": "Government"
     }
 ]
