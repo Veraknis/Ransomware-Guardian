@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Company ID : bgsedfhgsbdfs",
+        "discovered": "2026-09-19 20:45:42.325076",
+        "description": "country: France | fileSize: 36908810351 | UNPUBLISHED",
+        "link": "index.html?indexId=bgsedfhgsbdfs",
+        "magnet": null,
+        "screen": "screenshots/zawoo/Company ID : bgsedfhgsbdfs.png",
+        "private": false,
+        "misp_uuid": "b631b41b-9c24-552d-a8c0-a29f2748cbca",
+        "group_name": "zawoo",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company ID : vdssdcnhuysdz",
+        "discovered": "2026-09-19 20:45:41.466523",
+        "description": "country: France | fileSize: 21463370041 | UNPUBLISHED",
+        "link": "index.html?indexId=vdssdcnhuysdz",
+        "magnet": null,
+        "screen": "screenshots/zawoo/Company ID : vdssdcnhuysdz.png",
+        "private": false,
+        "misp_uuid": "19a18e15-fc1a-528a-b36f-8e82c4189ee5",
+        "group_name": "zawoo",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company ID : daszxvbgfnczm",
+        "discovered": "2026-09-19 20:45:40.576412",
+        "description": "country: France | fileSize: 64294792565 | UNPUBLISHED",
+        "link": "index.html?indexId=daszxvbgfnczm",
+        "magnet": null,
+        "screen": "screenshots/zawoo/Company ID : daszxvbgfnczm.png",
+        "private": false,
+        "misp_uuid": "34868c08-75fe-5238-95b8-f2c6e1bef8e2",
+        "group_name": "zawoo",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "voltgames.io",
         "discovered": "2026-09-19 18:36:12.421292",
         "description": "Revenue: $1.5 milion | Views: 35 | Posted: 9/19/2026, 10:42:49 PM | Status: 4d 23h 29m 4s",
@@ -94,65 +130,5 @@
         "misp_uuid": "1a92c80a-1787-5034-abef-a71f1b457bb9",
         "group_name": "emperador",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Vista Plastic Solutions",
-        "discovered": "2026-09-18 22:50:32.704975",
-        "description": "",
-        "link": "topic.php?id=GEK3Hk0FkaPAwQ",
-        "magnet": null,
-        "screen": "screenshots/play/Vista Plastic Solutions.png",
-        "private": false,
-        "misp_uuid": "a9c1d4d8-b1e1-5c7f-bc17-0bd71b0f30b3",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Inglewood Golf",
-        "discovered": "2026-09-18 22:50:31.654409",
-        "description": "",
-        "link": "topic.php?id=30nnxBd36EMmja",
-        "magnet": null,
-        "screen": "screenshots/play/Inglewood Golf.png",
-        "private": false,
-        "misp_uuid": "8112edd5-a242-566e-971e-f4c3c97e9fc9",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Barrett Mahony Consulting Engineers",
-        "discovered": "2026-09-18 22:50:30.576652",
-        "description": "",
-        "link": "topic.php?id=zd7L3yfXL6YNRC",
-        "magnet": null,
-        "screen": "screenshots/play/Barrett Mahony Consulting Engineers.png",
-        "private": false,
-        "misp_uuid": "e923ab35-6afd-5259-a475-af96c700f9a9",
-        "group_name": "play",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "Quest Group",
-        "discovered": "2026-09-18 22:23:24.775233",
-        "description": "Employee data, internal files, and a few unexpected discoveries.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ZxMuptij8OrXtBb4TyaPrfDFsvfmfD4otvTwmnvCXIBU5W+YfSjke0DNnrdrCPDPvRWvmCkwFFbjgtFGU3mvjEl1dFI5V3NB",
-        "magnet": null,
-        "screen": "screenshots/anubis/Quest Group.png",
-        "private": false,
-        "misp_uuid": "2e4b971b-ab80-5f5f-aa46-edf4cf9af328",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Premier Lighting & Controls",
-        "discovered": "2026-09-18 19:40:53.766896",
-        "description": "Premier Lighting & Controls is a full-service commercial lighting agency. It serves architects, contractors, distributors, building owners, and en...",
-        "link": "/post/HGvxCUBphjeJKnWK1EVU0CE0x7gVH6YJ",
-        "magnet": null,
-        "screen": "screenshots/gammax/Premier Lighting & Controls.png",
-        "private": false,
-        "misp_uuid": "ac646cd8-9bb5-50eb-aace-cb1a9d71cb2b",
-        "group_name": "gammax",
-        "sector": "Government"
     }
 ]
