@@ -1,5 +1,89 @@
 [
     {
+        "post_title": "Zorlu Holding",
+        "discovered": "2026-09-20 14:47:19.318208",
+        "description": "Holding Companies & Conglomerates",
+        "link": "/site/blog?uuid=51f10216-38bf-4521-a65e-4d8e1cad8cd6",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "f495cbb2-1157-577a-9c8e-0a44e5f343d4",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "ShopDunk",
+        "discovered": "2026-09-20 14:47:18.410676",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=283a4d27-c413-4819-9937-3ea8ec6725c7",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "89e02b61-370c-5b46-9711-c303eae3860c",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "KMLS",
+        "discovered": "2026-09-20 14:47:17.475884",
+        "description": "Construction",
+        "link": "/site/blog?uuid=7daa7895-84f8-4fbd-8985-f6edc7e64dc5",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d74e847a-2a8b-50ef-bbef-2d107c0b8a45",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Touring Club Suisse",
+        "discovered": "2026-09-20 14:47:16.494027",
+        "description": "Hospitality",
+        "link": "/site/blog?uuid=e220ce0a-da54-4c3e-84ef-163069506fd3",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "a80e908c-a448-57e7-b79f-5a23ed910c9e",
+        "group_name": "qilin",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Great Bay Bio",
+        "discovered": "2026-09-20 12:48:11.987278",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d869117d-42b0-52cf-81ac-9e0587cdd528",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TOWILL 🇺🇸",
+        "discovered": "2026-09-20 08:41:18.999127",
+        "description": "A geomatics veteran since 1955, providing surveying, LiDAR, photogrammetry, and GIS services primarily for U.S. federal agencies, including the Army Corps of Engineers and the Department of Defense.",
+        "link": "/blog/0b9cd65a-d90a-4a98-9cb8-4f3289fecdb8",
+        "magnet": null,
+        "screen": "screenshots/bravox/TOWILL 🇺🇸.png",
+        "private": false,
+        "misp_uuid": "51cbf0ab-ebf8-542f-b020-d7f7d5fd8352",
+        "group_name": "bravox",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Note to Cl0p-_-",
+        "discovered": "2026-09-20 05:40:34.832584",
+        "description": "IF YOU WANT TO SAVE YOUR BRAND AND NOT DIE BY MY HANDS: Email us from your official email at shinygroup@onionmail.com and lets see how rich you really are. 2.333% of my networth is a 8 figure amount, I hope you can pay that much because that is the demand, negotiable. Get your bosses in front of the white board in the war room. Clock is ticking moron. Kindly excuse our unprofessionalism.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "21c5fe82-c32e-51ad-afac-7f7b7e1177ee",
+        "group_name": "shinyhunters",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Company ID : bgsedfhgsbdfs",
         "discovered": "2026-09-19 20:45:42.325076",
         "description": "country: France | fileSize: 36908810351 | UNPUBLISHED",
@@ -94,41 +178,5 @@
         "misp_uuid": "af7a94ed-29ef-5e01-9398-7b42f8870762",
         "group_name": "cry0",
         "sector": "Legal"
-    },
-    {
-        "post_title": "AUDIT ENTITY: td***up",
-        "discovered": "2026-09-19 12:51:26.218374",
-        "description": "AUDIT ID: AB8A1616FC11F818 / DISCOVERY DATE: 2026-09-19",
-        "link": "/entity/32373FFB7AF7E725",
-        "magnet": null,
-        "screen": "screenshots/audit team/AUDIT ENTITY: td***up.png",
-        "private": false,
-        "misp_uuid": "f2766c5b-a1aa-5e2c-889f-cb333e2cbbed",
-        "group_name": "audit team",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Quy Nhon University",
-        "discovered": "2026-09-19 09:50:19.629721",
-        "description": "Quy Nhon University (QNU) is a public, multidisciplinary university located in Quy Nhon City, Binh Dinh Province, Vietnam. Established in 1977, the university has a long-standing tradition in teacher education and has developed into a comprehensive institution offering a wide range of academic programs.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "5c7f969e-6ac1-551e-96ea-56edab82f831",
-        "group_name": "vexy",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Cassias MG Government",
-        "discovered": "2026-09-19 07:14:00",
-        "description": "network commitment, from government credentials to justice panels, such as access to the financial sector, police, personal data, medical (SUS), RG(CIN), BIRTH CERTIFICATE, CPF (identity number in Brazil) among other data from CASSIAS.MG.GOV departments, we will give you a deadline to negotiate with us!\nPublication scheduled: 2026-09-29 07:21:56 UTC\nSize: 720.0 MB\nSectors: Medical, Government, Finance",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/cassias-mg-government/",
-        "magnet": null,
-        "screen": "screenshots/emperador/Cassias MG Government.png",
-        "private": false,
-        "misp_uuid": "1a92c80a-1787-5034-abef-a71f1b457bb9",
-        "group_name": "emperador",
-        "sector": "Finance"
     }
 ]
