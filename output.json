@@ -166,41 +166,5 @@
         "misp_uuid": "21c5fe82-c32e-51ad-afac-7f7b7e1177ee",
         "group_name": "shinyhunters",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Company ID : bgsedfhgsbdfs",
-        "discovered": "2026-09-19 20:45:42.325076",
-        "description": "country: France | fileSize: 36908810351 | UNPUBLISHED",
-        "link": "index.html?indexId=bgsedfhgsbdfs",
-        "magnet": null,
-        "screen": "screenshots/zawoo/Company ID : bgsedfhgsbdfs.png",
-        "private": false,
-        "misp_uuid": "b631b41b-9c24-552d-a8c0-a29f2748cbca",
-        "group_name": "zawoo",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Company ID : vdssdcnhuysdz",
-        "discovered": "2026-09-19 20:45:41.466523",
-        "description": "country: France | fileSize: 21463370041 | UNPUBLISHED",
-        "link": "index.html?indexId=vdssdcnhuysdz",
-        "magnet": null,
-        "screen": "screenshots/zawoo/Company ID : vdssdcnhuysdz.png",
-        "private": false,
-        "misp_uuid": "19a18e15-fc1a-528a-b36f-8e82c4189ee5",
-        "group_name": "zawoo",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Company ID : daszxvbgfnczm",
-        "discovered": "2026-09-19 20:45:40.576412",
-        "description": "country: France | fileSize: 64294792565 | UNPUBLISHED",
-        "link": "index.html?indexId=daszxvbgfnczm",
-        "magnet": null,
-        "screen": "screenshots/zawoo/Company ID : daszxvbgfnczm.png",
-        "private": false,
-        "misp_uuid": "34868c08-75fe-5238-95b8-f2c6e1bef8e2",
-        "group_name": "zawoo",
-        "sector": "Unknown"
     }
 ]
