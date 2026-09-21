@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "kyyba.com",
+        "discovered": "2026-09-21 23:42:13.675211",
+        "description": "Revenue: $53.1 million | Views: 155 | Posted: 9/22/2026, 1:41:07 AM | Status: 4d 21h 36m 16s",
+        "link": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6ab17a43102e2455604e8859?page=1",
+        "magnet": null,
+        "screen": "screenshots/unsafe/kyybacom.png",
+        "private": false,
+        "misp_uuid": "97b67699-597b-5eab-8a47-3ccd7d11526b",
+        "group_name": "unsafe",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Metallco",
+        "discovered": "2026-09-21 23:42:08.024204",
+        "description": "",
+        "link": "topic.php?id=C3pnt8lMDNeWgr",
+        "magnet": null,
+        "screen": "screenshots/play/Metallco.png",
+        "private": false,
+        "misp_uuid": "89b43b42-8e67-5076-8cc2-4187f9971e9c",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hurley",
+        "discovered": "2026-09-21 23:42:07.122229",
+        "description": "",
+        "link": "topic.php?id=6OXTc9QPXZtxgk",
+        "magnet": null,
+        "screen": "screenshots/play/Hurley.png",
+        "private": false,
+        "misp_uuid": "cc7a0556-841e-58b1-9eb2-2d81f2014c5a",
+        "group_name": "play",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hogan Lovells Cadwalader",
+        "discovered": "2026-09-21 23:41:39.779365",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "687e9f41-2677-53ac-8ef9-b86296107e63",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Telrad Networks",
         "discovered": "2026-09-21 20:43:17.628591",
         "description": "Manufacturing",
