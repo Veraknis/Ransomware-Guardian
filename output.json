@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Columbus Informatica",
+        "discovered": "2026-09-22 11:41:44.805339",
+        "description": "Software",
+        "link": "/site/blog?uuid=e2830711-e339-4a2b-8f79-8dfdeef6dce9",
+        "magnet": null,
+        "screen": "screenshots/qilin/Columbus Informatica.png",
+        "private": false,
+        "misp_uuid": "2abbe046-3ef9-521a-a491-2b822f280f7a",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Leak: NAI Earle Furman",
+        "discovered": "2026-09-22 05:43:26.017983",
+        "description": "The reviewed dataset is a single-snapshot, single-volume file-server tree (E:/Shares, 1.36M paths) covering NAI Earle Furman's brokerage deals, property-management portfolio (MRI accounting), broker commissions, employee home directories, and the absorbed Croxton Gray firm's data... Open post",
+        "link": "/post/8629429a76e88003/index.html",
+        "magnet": null,
+        "screen": "screenshots/secp0/ NAI Earle Furman.png",
+        "private": false,
+        "misp_uuid": "0346b375-027a-5a42-b2b8-535b81e7a127",
+        "group_name": "secp0",
+        "sector": "Finance"
+    },
+    {
         "post_title": "kyyba.com",
         "discovered": "2026-09-21 23:42:13.675211",
         "description": "Revenue: $53.1 million | Views: 155 | Posted: 9/22/2026, 1:41:07 AM | Status: 4d 21h 36m 16s",
@@ -418,113 +442,5 @@
         "misp_uuid": "992bd874-6b28-5947-b9de-0141e503a240",
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Charlottesville Police Department",
-        "discovered": "2026-09-21 11:41:18.806649",
-        "description": "upcoming | — | 0 files",
-        "link": "/victim/charlottesville-police-department",
-        "magnet": null,
-        "screen": "screenshots/doommageddon/Charlottesville Police Department.png",
-        "private": false,
-        "misp_uuid": "50388284-7dc3-5634-9f28-b95606a5345b",
-        "group_name": "doommageddon",
-        "sector": "Government"
-    },
-    {
-        "post_title": "The Money Store",
-        "discovered": "2026-09-21 10:16:12.365252",
-        "description": "FinTech | Florham Park, New Jersey, United States | The Money Store is a local mortgage lender based in Hamilton, NJ, specializing in home financing solutions. They offer a variety of loan products including home purchase, refinance, construction, renovation, and home equity loans to cater to diverse client needs. Their services are designed for individuals looking to buy, build, renovate, or refinance their homes. The company aims to simplify the home financing journey with a user-friendly application process and dedicated team support. \nThe company headquarters is located in 30B Vreeland Road, Suite 200, Florham Park, NJ 07932, United States.\n201-500 Employees\n | Deadline: 2026-10-07T07:49:02.000Z",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/storm/The Money Store.png",
-        "private": false,
-        "misp_uuid": "51e7c8fa-f9f8-55df-9e71-e7e9dfebbea0",
-        "group_name": "storm",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "TrueCore Behavioral Solutions",
-        "discovered": "2026-09-21 10:16:11.394218",
-        "description": "Healthcare | Tampa, Florida, United States | TrueCore Behavioral Solutions is a behavioral treatment provider located in Tampa, FL, specializing in services for at-risk adjudicated youth aged 13-21. Established in 2001, the company is committed to empowering individuals, families, and communities to discover their true potential through quality behavioral health services. They offer residential and outpatient treatment programs that utilize a strength-based approach and evidence-based interventions tailored to the needs of the youth they serve. TrueCore is recognized for its unmatched commitment to helping youth improve their quality of life and achieve personal success. \nThe company headquarters is located in 1907 US-301, Building C, Suite C150, Tampa, FL 33619, United States. 51-200 Employees | Deadline: 2026-10-06T07:41:27.000Z",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/storm/TrueCore Behavioral Solutions.png",
-        "private": false,
-        "misp_uuid": "77dc60b7-e30f-5eab-930f-ced3b43c5951",
-        "group_name": "storm",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Manroc Developments",
-        "discovered": "2026-09-21 10:16:10.362073",
-        "description": "Manufacturing | Manitouwadge, Ontario, Canada | Manroc Developments Inc. is a leading full-service mining contractor specializing in the Alimak Raise Mining process, with over 30 years of experience in the industry. The company serves the international mining community, having completed over 70 projects across four continents and driven more than 65,000 lateral development meters. Headquartered in Manitouwadge, Ontario, Manroc is committed to building long-term relationships with clients by delivering on promises and ensuring project success through experienced personnel. They also offer a comprehensive training program to support career development in the mining sector. \nThe company headquarters is located in 7 Black Road, Manitouwadge, ON P0T 2C0, Canada. 201-500 Employees\n | Deadline: 2026-10-06T07:18:52.000Z",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/storm/Manroc Developments.png",
-        "private": false,
-        "misp_uuid": "3bebd791-f15e-59d7-8da5-9f4e1569d49a",
-        "group_name": "storm",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Grupolider",
-        "discovered": "2026-09-21 10:00:50.424182",
-        "description": "grupolider-ao.com zoominfo.com/c/grupolider/429885445 Grupolider is an Angolan diversified holding company founded in 1999, headquartered in Catete (Luanda province). The group operates in agriculture, logistics, freight forwarding, construction, and furniture manufacturing, with its flagship business being Novagrolider — the largest agricultural producer in Angola. Novagrolider farms around 20,000 hectares of land and produces roughly 150,000 tons of food per year (bananas, vegetables, fruit, and dairy), while the group employs over 3,200 direct staff. The company exports to Portugal, Spain, France, Belgium, Russia, South Africa, and Morocco, and was the first farm in Africa to receive GlobalGAP certification. Estimated annual revenue is around USD 13–15 million (Novagrolider alone), though reliable consolidated figures for the private group are not publicly disclosed. Since 2021, after the death of co-founder João Macedo, the group has been led by his brother and partner José Macedo.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "2c11e563-d0eb-5b1e-acf7-87b11173dee5",
-        "group_name": "the gentlemen",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "IKEGAMI TSUSHINKI COMPANY LIMITED",
-        "discovered": "2026-09-21 09:44:03.222106",
-        "description": "Electronics",
-        "link": "/site/blog?uuid=337a2e3e-edbf-4a8e-9b75-157296837da2",
-        "magnet": null,
-        "screen": "screenshots/qilin/IKEGAMI TSUSHINKI COMPANY LIMITED.png",
-        "private": false,
-        "misp_uuid": "5367d5c9-4c64-5d8f-a56a-05b6c029423a",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "newmantractor.com",
-        "discovered": "2026-09-21 02:35:11.546221",
-        "description": "Since 1976, Newman Tractor has been serving the heavy equipment industry both domestically, and internationally. Originally founded as a farm equipment business in Boone County, Kentucky, Newman Tractor has transformed into one of this country's m | PUBLISHED 100% | Views: 106",
-        "link": null,
-        "magnet": null,
-        "screen": "screenshots/3am/newmantractorcom.png",
-        "private": false,
-        "misp_uuid": "1a6ff84e-6709-54c7-99ae-799b1e53c4d9",
-        "group_name": "3am",
-        "sector": "Government"
-    },
-    {
-        "post_title": "siinqeebank.com",
-        "discovered": "2026-09-21 01:44:27.860227",
-        "description": "Siinqee Bank is a licensed Ethiopian financial institution that offers inclusive and innovative bank...",
-        "link": "/post/372f446d3ff50dd1ca3aecc6066687e5",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/siinqeebankcom.png",
-        "private": false,
-        "misp_uuid": "60e1ab9d-4a16-58a7-9db4-04f4d7816041",
-        "group_name": "lockbit5",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "arsrenacer.com",
-        "discovered": "2026-09-21 00:41:37.562203",
-        "description": "ARS RENACER, S.A. DUMP: ANALYSIS OF A HEALTH INSURANCE COMPANY LEAK\n\n═══════════════════════════════════════════════════\nARS Renacer, S.A. (Dominican Republic...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "97b7c40b-94b1-5b9e-8ecb-8334491d3716",
-        "group_name": "dragonforce",
-        "sector": "Healthcare"
     }
 ]
