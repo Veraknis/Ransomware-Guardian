@@ -1,5 +1,137 @@
 [
     {
+        "post_title": "HIT dd",
+        "discovered": "2026-09-23 14:45:21.492731",
+        "description": "HIT d.d. is a prominent entertainment and gaming provider based in Nova Gorica, Slovenia, offering a diverse range of services including hotels, casinos, wellness centers, and dining options. With over 40 years of experience, the company operates multiple resorts and entertainment venues across Slovenia and Bosnia and Herzegovina, catering to both local and international clients.We will upload 367gb of corporate data soon. Detailed employee personal information (passports,licenses, names, addresses, phones, email and so on), financials, confidential agreements, client data, interesting casino files, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "305a12ee-b34f-5cbf-ac35-6689a15368a7",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Inkript",
+        "discovered": "2026-09-23 13:43:29.082728",
+        "description": "Software",
+        "link": "/site/blog?uuid=c00850af-26d2-4aa1-b166-27dba50087a6",
+        "magnet": null,
+        "screen": "screenshots/qilin/Inkript.png",
+        "private": false,
+        "misp_uuid": "27b0a95e-e304-5f51-a0ee-0188ba9a3715",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "COSEF - Consorzio di Sviluppo Economico del Friuli",
+        "discovered": "2026-09-23 12:52:54.046473",
+        "description": "Facilities Services\nWebsite: cosef.fvg.it\nStolen data: 200 GB.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "cd6fb32f-fe68-512d-99db-7b9adb922f6c",
+        "group_name": "booba team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "The Merrimack County",
+        "discovered": "2026-09-23 12:52:53.103442",
+        "description": "Government Administration\nWebsite:\nwww.merrimackcounty.net\nStolen data: 3 GB.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "074dee8d-30b6-5b55-933c-413a0a4a9275",
+        "group_name": "booba team",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Smart Eye Care",
+        "discovered": "2026-09-23 12:52:52.191756",
+        "description": "Optometrists\nWebsite:\nwww.smarteyecare.com\nStolen data: 7 GB.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "21972329-de8a-5d7e-93fc-ef1bf71d7b4d",
+        "group_name": "booba team",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Washington County",
+        "discovered": "2026-09-23 12:52:51.255586",
+        "description": "Government Administration\nWebsite: washingtoncountymaine.com\nStolen data: 2 GB.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "97480829-1342-56c9-8db0-103d90246f40",
+        "group_name": "booba team",
+        "sector": "Government"
+    },
+    {
+        "post_title": "AGROFRUTO SAC",
+        "discovered": "2026-09-23 12:52:49.068370",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=816",
+        "magnet": null,
+        "screen": "screenshots/arcus media/AGROFRUTO SAC.png",
+        "private": false,
+        "misp_uuid": "1a9e255f-5361-5a1e-845c-fc05d489f051",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "RECEITA FEDERAL DO BRASIL",
+        "discovered": "2026-09-23 07:57:00",
+        "description": "MINISTÉRIO DA FAZENDA\nSECRETARIA DA RECEITA FEDERAL DO BRASIL\nThe archives contain several thousand documents with personnel and customer data,\nas well as all user date on gov.br with passwords.\nPublication scheduled: 2026-10-13 07:57:23 UTC\nSize: 6.3 GB\nSectors: Finance",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/receita-federal-do-brasil/",
+        "magnet": null,
+        "screen": "screenshots/emperador/RECEITA FEDERAL DO BRASIL.png",
+        "private": false,
+        "misp_uuid": "f132f046-1923-5311-bedc-bde0ef38a06d",
+        "group_name": "emperador",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Fresenius Medical Care",
+        "discovered": "2026-09-23 03:45:53.087362",
+        "description": "You have exactly two days to contact us to prevent publication of all your data containing sensitive information. Deadline: Sep 25, 2026",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9519e122-275c-56ea-a0d9-7a9d13f60f85",
+        "group_name": "shinyhunters",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Clark Hill",
+        "discovered": "2026-09-23 00:47:34.873324",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5cf853fb-427a-5a94-80a8-73affa9dd892",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "taspenlife.com",
+        "discovered": "2026-09-22 23:45:15.593801",
+        "description": "Taspen Life offers a range of insurance products including health protection, group protection, and...",
+        "link": "/post/195498561d52c4af388d8e9929d36a9a",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/taspenlifecom.png",
+        "private": false,
+        "misp_uuid": "e6e44921-1d83-55b6-93b7-16e5e952a56c",
+        "group_name": "lockbit5",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Grupo Hospifar S.R.L.",
         "discovered": "2026-09-22 21:34:41.122978",
         "description": "",
@@ -250,29 +382,5 @@
         "misp_uuid": "c3db00a8-663c-5b55-a817-14fe6a295001",
         "group_name": "akira",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Columbus Informatica",
-        "discovered": "2026-09-22 11:41:44.805339",
-        "description": "Software",
-        "link": "/site/blog?uuid=e2830711-e339-4a2b-8f79-8dfdeef6dce9",
-        "magnet": null,
-        "screen": "screenshots/qilin/Columbus Informatica.png",
-        "private": false,
-        "misp_uuid": "2abbe046-3ef9-521a-a491-2b822f280f7a",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Leak: NAI Earle Furman",
-        "discovered": "2026-09-22 05:43:26.017983",
-        "description": "The reviewed dataset is a single-snapshot, single-volume file-server tree (E:/Shares, 1.36M paths) covering NAI Earle Furman's brokerage deals, property-management portfolio (MRI accounting), broker commissions, employee home directories, and the absorbed Croxton Gray firm's data... Open post",
-        "link": "/post/8629429a76e88003/index.html",
-        "magnet": null,
-        "screen": "screenshots/secp0/ NAI Earle Furman.png",
-        "private": false,
-        "misp_uuid": "0346b375-027a-5a42-b2b8-535b81e7a127",
-        "group_name": "secp0",
-        "sector": "Finance"
     }
 ]
