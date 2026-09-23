@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Tomix / Grupo JOPER",
+        "discovered": "2026-09-23 20:38:03.152917",
+        "description": "Tomix – Indústria de Equipamentos Agrícolas e Industriais, Lda. is a Portuguese manufacturer of crop-protection equipment, best known for agricultural sprayers, atomizers, dusters and related machinery. Founded in 1924 near Torres Vedras by Francisco Xavier Damião, it grew into a market leader in Portugal for plant-treatment equipment, including rotomoulded tanks and high-pressure washers. Since 1997 Tomix has been majority-owned by JOPER – Indústria de Equipamentos Agrícolas, S.A., and today it operates as part of the family-run JOPER Group alongside JOPER and Ribatejo. Together they supply complementary agricultural machinery for transport, soil tillage and crop treatment across Iberia and export markets\nhttps://tomix.com.pt/",
+        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/77/tomix-grupo-joper",
+        "magnet": null,
+        "screen": "screenshots/space bears/Tomix  Grupo JOPER.png",
+        "private": false,
+        "misp_uuid": "f9bfad2a-9d30-51c1-be6a-0bf914ef1b9e",
+        "group_name": "space bears",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "goldstarfinancial.com",
+        "discovered": "2026-09-23 20:37:18.634539",
+        "description": "We have approximately 10,300 (10.3k) documents from this company, with a total size of over 10.5 GB. Contents: Lead Sheets; Credit Reports; Tax Documents; Income Documents; Documen...",
+        "link": "/n/goldstarfinancial",
+        "magnet": null,
+        "screen": "screenshots/brain cipher/goldstarfinancialcom.png",
+        "private": false,
+        "misp_uuid": "8957dd81-c787-5c71-9321-f1c1ca3c994e",
+        "group_name": "brain cipher",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "OnTrac",
+        "discovered": "2026-09-23 20:07:00",
+        "description": "OnTrac is a major last-mile e-commerce delivery company formed by the 2021 merger of LaserShip and OnTrac. It positions itself as a direct alternative to FedEx and UPS, offering coast-to-coast coverage, 7-day-a-week operations, and competitive rates to reach over 75% of the U.S. population.\n\nWe hold your full employee database, 197k records of employee PII:\n\nemployeeNumber,xrefCode,firstName,middleName,lastName,loginId,employeeId,hireDate,originalHireDate,startDate,terminated,roles,legalEntity,legalEntityAddress,homePhone,mobilePhone,businessPhone,businessMobile,pager,personalFax,personalEmail,businessEmail,facebook,linkedin,addressPrimary1,addressPrimary2,addressMailing1,addressMailing2,userApproved,nativeAuth,culture\n\nWe demand an amount of 1 million, otherwise your data WILL be publicly posted.\n\nInstructions will be emailed to you shortly.\n\nIf you do not receive them, contact me on session, or email me.\n\nSession: 05651c7323273b723588d47455471ee9e27feb5187a30f2933554a705aacb38358\nEmail: xdlmfao@morke.ru, kajsdsalkufsaoiuairw7@outlook.com\n\n(I prefer session.)\n\nIf you do not cooperate, your partners and employees will be targeted.\n\nEmails were sent to: webcustomerservice@ontrac.com, customerservice@ontrac.com, softwaresupport@ontrac.com, softwaresupport@ontrac.com, apisupport@ontrac.com, RSaiz@OnTrac.com, scorral@ontrac.com, SMcCandless@OnTrac.com\nPublication scheduled: 2026-10-21 20:10:47 UTC\nSize: 44.4 MB\nSectors: Retail, Transportation",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/ontrac/",
+        "magnet": null,
+        "screen": "screenshots/emperador/OnTrac.png",
+        "private": false,
+        "misp_uuid": "47c98f7f-e106-5472-9d65-bff8ae765897",
+        "group_name": "emperador",
+        "sector": "Transportation"
+    },
+    {
         "post_title": "M****n",
         "discovered": "2026-09-23 19:35:54.489518",
         "description": "",
@@ -488,66 +524,6 @@
         "screen": null,
         "private": false,
         "misp_uuid": "5cf853fb-427a-5a94-80a8-73affa9dd892",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "taspenlife.com",
-        "discovered": "2026-09-22 23:45:15.593801",
-        "description": "Taspen Life offers a range of insurance products including health protection, group protection, and...",
-        "link": "/post/195498561d52c4af388d8e9929d36a9a",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/taspenlifecom.png",
-        "private": false,
-        "misp_uuid": "e6e44921-1d83-55b6-93b7-16e5e952a56c",
-        "group_name": "lockbit5",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Grupo Hospifar S.R.L.",
-        "discovered": "2026-09-22 21:34:41.122978",
-        "description": "",
-        "link": "/post/grupo-hospifar-s-r-l-data-400gb-0b2q7e7nx5",
-        "magnet": null,
-        "screen": "screenshots/titan/Grupo Hospifar SRL.png",
-        "private": false,
-        "misp_uuid": "581ede10-f9bb-58e6-abce-70b7684ecbdb",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Sherman Chan, DDS, Inc.",
-        "discovered": "2026-09-22 21:34:40.221143",
-        "description": "",
-        "link": "/post/sherman-chan-dds-inc-data-160gb-0b7pcxph5q",
-        "magnet": null,
-        "screen": "screenshots/titan/Sherman Chan, DDS, Inc.png",
-        "private": false,
-        "misp_uuid": "f6b5a320-65db-5b23-9006-1905c223fa8c",
-        "group_name": "titan",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "PSA - READ THIS NOW",
-        "discovered": "2026-09-22 21:34:38.502837",
-        "description": "Dear Assistant Director Brett Leatherman of the FBI Cyber Division & Director Kash Patel of the FBI,\n\nDuring Quarter Two of this year the Federal Bureau of Investigation (FBI) made substantial false allegations regarding our organisation in a FLASH report. We have been severely offended.\n\nWe were very disappointed to see an agency of your standing would resort to such circulation of disinformation in an attempt to \"disrupt\" our operations, an effort that ultimately proved unsuccessful. \n\nFor us to properly address and correct these unfounded allegations, we were compelled to adopt a forceful and assertive posture to ensure our response was fully acknowledged. This PSA today does just that.\n \nOur PSA today works to address these allegations and correct them. \n\nWe have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job. Whether it be a Special Agent or any other role within your agency. The following FBI services were compromised: Criminal Justice (CJ), HR, Medlink, and more.\n\nWe are willing to allow you a time of 1 week to correct or simply REMOVE the 2026 Quarter 2 FLASH report on us that includes several FALSE allegations:\n\n- \"Threat actors often use their real or exaggerated claims of access to sensitive or personal information to prompt payment from victims. \"\n\n- \"To exert pressure on victims[1], SH actors commonly use harassment strategies, sending threatening text messages and phone calls to victims and their family members, and in some cases, swatting\"\n\n- \" Threat actors may falsely claim to have sensitive or compromising information, including embarrassing photographs or videos of victims, which frequently do not exist.\"\n \n\nWe wish to state unequivocally our threats and claims are very real. Not exaggerated and never a bluff. This PSA today is living evidence of that. \nWe wish to state unequivocally we have NEVER conducted swatting attacks against corporate victims personnel nor have we ever texted victims personnel family members any threats.\nWe wish to state unequivocally we have NEVER claimed to have sensitive or compromising information, including embarrassing photographs and videos of victims. WE ARE NOT SEXTORTIONISTS. \nFinally, we wish to STATE UNEQUIVOCALLY we are NOT apart of \"The Com\". We have NEVER been apart of \"The Com\". \"The Com\" is a propaganda started by the Information Security Industry which has brainwashed past FBI and DOJ officials into formalising this nonsense.\n\nAs a big believer and supporter of the U.S. Constitution - we are exercising the First Amendment and actively combating disinformation. This is not a ransom, coercion, or extortion. Your federal policies do not apply here. This PSA is NOT financially motivated.\n\nWe recognise that certain statements within your FLASH report appear to stem from biased public reporting by certain journalists who have previously and intentionally propagated false narratives about our organisation in an attempt to \"disrupt\" our operations and hinder clients trust in our organisation hoping nobody pays us. Should those certain journalists and you know very well who you are, continue these unwarranted attacks and defamatory statements, we will be forced to respond in a civil manner with a commensurate and forceful defence of our reputation. As any human being would do.\n\nWe welcome any and all journalists to inquire us at shinygroup@onionmail.com to hear our side of the story.\n\nMake the right decision, don't be the next headline.\n\nThank you for your attention to this matter. -SH",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "8125a2d3-9d6e-598e-a95c-89a038bcf952",
-        "group_name": "shinyhunters",
-        "sector": "Government"
-    },
-    {
-        "post_title": "B...",
-        "discovered": "2026-09-22 20:41:18.037425",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "5644a1cb-8ba3-5527-9d0f-5cd57fe69e79",
         "group_name": "leakeddata",
         "sector": "Unknown"
     }
