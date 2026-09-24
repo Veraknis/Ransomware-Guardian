@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "efada.sa",
+        "discovered": "2026-09-24 21:44:56.051844",
+        "description": "efada.sa...",
+        "link": "/blog/pending-6ab577d1234c6-1790277585/",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "55072fac-da16-5c87-b134-5b1bf9c39e26",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "NEAD Pro",
         "discovered": "2026-09-24 19:38:57.219355",
         "description": "NEAD Pro\nNead Pro is a professional multidisciplinary firm based in Gorizia and Udine, Italy, that provides legal, tax, bankruptcy, and accounting consulting services.\n\n\n\nMore",
@@ -430,29 +442,5 @@
         "misp_uuid": "4fab2176-7f07-58ee-9fcb-93009e9648ad",
         "group_name": "the gentlemen",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Tomix / Grupo JOPER",
-        "discovered": "2026-09-23 20:38:03.152917",
-        "description": "Tomix – Indústria de Equipamentos Agrícolas e Industriais, Lda. is a Portuguese manufacturer of crop-protection equipment, best known for agricultural sprayers, atomizers, dusters and related machinery. Founded in 1924 near Torres Vedras by Francisco Xavier Damião, it grew into a market leader in Portugal for plant-treatment equipment, including rotomoulded tanks and high-pressure washers. Since 1997 Tomix has been majority-owned by JOPER – Indústria de Equipamentos Agrícolas, S.A., and today it operates as part of the family-run JOPER Group alongside JOPER and Ribatejo. Together they supply complementary agricultural machinery for transport, soil tillage and crop treatment across Iberia and export markets\nhttps://tomix.com.pt/",
-        "link": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/77/tomix-grupo-joper",
-        "magnet": null,
-        "screen": "screenshots/space bears/Tomix  Grupo JOPER.png",
-        "private": false,
-        "misp_uuid": "f9bfad2a-9d30-51c1-be6a-0bf914ef1b9e",
-        "group_name": "space bears",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "goldstarfinancial.com",
-        "discovered": "2026-09-23 20:37:18.634539",
-        "description": "We have approximately 10,300 (10.3k) documents from this company, with a total size of over 10.5 GB. Contents: Lead Sheets; Credit Reports; Tax Documents; Income Documents; Documen...",
-        "link": "/n/goldstarfinancial",
-        "magnet": null,
-        "screen": "screenshots/brain cipher/goldstarfinancialcom.png",
-        "private": false,
-        "misp_uuid": "8957dd81-c787-5c71-9321-f1c1ca3c994e",
-        "group_name": "brain cipher",
-        "sector": "Finance"
     }
 ]
