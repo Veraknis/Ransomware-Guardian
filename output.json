@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "N...",
+        "discovered": "2026-09-25 21:44:01.351268",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "1be2f6da-ff7f-5d0d-9db2-3afcc6d476d3",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Tobin & Company",
         "discovered": "2026-09-25 18:38:39.020711",
         "description": "Tobin & Company, CPA’s is a small accounting firm based in Harrison, New York, providing accounting, tax, auditing, and business consulting services, with a particular focus on nonprofit organizations.",
@@ -190,17 +202,5 @@
         "misp_uuid": "6814778c-ca5a-5338-9ee5-1bbb027c5ad2",
         "group_name": "the gentlemen",
         "sector": "Technology"
-    },
-    {
-        "post_title": "efada.sa",
-        "discovered": "2026-09-24 21:44:56.051844",
-        "description": "efada.sa...",
-        "link": "/blog/pending-6ab577d1234c6-1790277585/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "55072fac-da16-5c87-b134-5b1bf9c39e26",
-        "group_name": "krybit",
-        "sector": "Unknown"
     }
 ]
