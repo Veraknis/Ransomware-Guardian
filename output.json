@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "cipher.systems",
+        "discovered": "2026-09-26 20:42:30.580740",
+        "description": "+1 703-672-0051 , At Cipher Systems, we specialize in delivering enterprise-grade IT solutions designed to help businesses evolve, secure, and scale in a rapidly changing digital world. From future-proof cloud infrastructures to next-gen cybersecurity and AI-powered intelligence, our solutions are engineered for performance and built for growth. With deep expertise in software engineering, IT consulting, and data science, we turn complex challenges into streamlined outcomes—ensuring that your systems are secure, your data is insightful, and your technology is always a step ahead. Stolen: --",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "fce2f90b-eb53-56c7-959d-1a0c09bc6c47",
+        "group_name": "m3rx",
+        "sector": "Technology"
+    },
+    {
         "post_title": "ARCA UNLIMITED Architects",
         "discovered": "2026-09-26 17:42:28.394590",
         "description": "URL:       \t\thttps://arcaunlimited.com\nCountry:   \t\tSouth Africa\n\nDescription:\nARCA Unlimited, is a award winning multidisciplinary South-African firm providing a variety of built environment services. \nOur expertise include architecture, interior design, brand environments, object design, project management and procurement services.\nFrom our base in Pretoria, we passionately deliver expert consultancy throughout Africa and further abroad. Our business is structured to be adaptable and flexible to meet the needs of diverse clients and projects of any scale.\nOur team of professional architects, interior architects, technologist and project managers represent the best talent available. Every project is led by an individual responsible for all aspects of the project. This approach ensures consistency in service and attention to detail. \nArca Unlimited Architects is a member of the South African Council for the Architectural Profession (SACAP), South African Institute of Architects (SAIA), South African Property Owners Association (SAPOA), Pretoria Institute of Architects (PIA) and the Green Building Council of South Africa (GBCSA).    \n\nDATA SIZE: 400G",
@@ -297,18 +309,6 @@
         "private": false,
         "misp_uuid": "ce4acc9c-1ab1-5950-87ad-8ba3f3048f8c",
         "group_name": "termite",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "N...",
-        "discovered": "2026-09-25 21:44:01.351268",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "1be2f6da-ff7f-5d0d-9db2-3afcc6d476d3",
-        "group_name": "leakeddata",
         "sector": "Unknown"
     }
 ]
