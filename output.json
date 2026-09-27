@@ -634,17 +634,5 @@
         "misp_uuid": "b2cb2885-8d61-5b28-82f6-fed2311343f7",
         "group_name": "killsec3",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "cipher.systems",
-        "discovered": "2026-09-26 20:42:30.580740",
-        "description": "+1 703-672-0051 , At Cipher Systems, we specialize in delivering enterprise-grade IT solutions designed to help businesses evolve, secure, and scale in a rapidly changing digital world. From future-proof cloud infrastructures to next-gen cybersecurity and AI-powered intelligence, our solutions are engineered for performance and built for growth. With deep expertise in software engineering, IT consulting, and data science, we turn complex challenges into streamlined outcomes—ensuring that your systems are secure, your data is insightful, and your technology is always a step ahead. Stolen: --",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "fce2f90b-eb53-56c7-959d-1a0c09bc6c47",
-        "group_name": "m3rx",
-        "sector": "Technology"
     }
 ]
