@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "XICO",
+        "discovered": "2026-09-27 18:36:20.197608",
+        "description": "Building Materials",
+        "link": "/site/blog?uuid=dc126a0f-d8c2-4bee-84ac-31e60c0d895f",
+        "magnet": null,
+        "screen": "screenshots/qilin/XICO.png",
+        "private": false,
+        "misp_uuid": "4554a17a-dffa-5e24-947e-0fe9ef390a44",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Island",
+        "discovered": "2026-09-27 18:36:19.213395",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=507b6770-93b2-456b-bc96-6e4b2bb9ce72",
+        "magnet": null,
+        "screen": "screenshots/qilin/Island.png",
+        "private": false,
+        "misp_uuid": "d8af9cb5-97a3-57ec-b193-67355fe9c3ff",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Revenga Smart Solutions",
+        "discovered": "2026-09-27 17:36:05.099613",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=afd7850c-c193-4be3-86d1-cac552d102cd",
+        "magnet": null,
+        "screen": "screenshots/qilin/Revenga Smart Solutions.png",
+        "private": false,
+        "misp_uuid": "44b2901b-ec8c-55e7-a83c-bf214c61e48b",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Willatt & Flickinger",
+        "discovered": "2026-09-27 17:36:04.144288",
+        "description": "Law Firms & Legal Services",
+        "link": "/site/blog?uuid=e61f21e4-4a24-4e6a-8cea-19b6a71f4156",
+        "magnet": null,
+        "screen": "screenshots/qilin/Willatt & Flickinger.png",
+        "private": false,
+        "misp_uuid": "8699e0c4-cf80-5937-925c-0606369d0d9e",
+        "group_name": "qilin",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "Pantaneiro Capas",
+        "discovered": "2026-09-27 15:44:52.823071",
+        "description": "",
+        "link": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=822",
+        "magnet": null,
+        "screen": "screenshots/arcus media/Pantaneiro Capas.png",
+        "private": false,
+        "misp_uuid": "a9ab6d35-f0a0-5808-9fdb-cbc9ba885927",
+        "group_name": "arcus media",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Car Service Abschlepp",
         "discovered": "2026-09-27 09:14:00",
         "description": "CSA Car Service Abschlepp- & Bergungsdienst GmbH\nGenslerstraße 72, 13055 Berlin\nArchived personal and corporate data of employees and customers\nHere are the most important documents\nPublication scheduled: 2026-10-07 09:14:06 UTC\nSize: 2.8 GB\nSectors: Transportation",
@@ -586,17 +646,5 @@
         "misp_uuid": "fce2f90b-eb53-56c7-959d-1a0c09bc6c47",
         "group_name": "m3rx",
         "sector": "Technology"
-    },
-    {
-        "post_title": "ARCA UNLIMITED Architects",
-        "discovered": "2026-09-26 17:42:28.394590",
-        "description": "URL:       \t\thttps://arcaunlimited.com\nCountry:   \t\tSouth Africa\n\nDescription:\nARCA Unlimited, is a award winning multidisciplinary South-African firm providing a variety of built environment services. \nOur expertise include architecture, interior design, brand environments, object design, project management and procurement services.\nFrom our base in Pretoria, we passionately deliver expert consultancy throughout Africa and further abroad. Our business is structured to be adaptable and flexible to meet the needs of diverse clients and projects of any scale.\nOur team of professional architects, interior architects, technologist and project managers represent the best talent available. Every project is led by an individual responsible for all aspects of the project. This approach ensures consistency in service and attention to detail. \nArca Unlimited Architects is a member of the South African Council for the Architectural Profession (SACAP), South African Institute of Architects (SAIA), South African Property Owners Association (SAPOA), Pretoria Institute of Architects (PIA) and the Green Building Council of South Africa (GBCSA).    \n\nDATA SIZE: 400G",
-        "link": "/leaks/l7DvVNvBWRpz",
-        "magnet": null,
-        "screen": "screenshots/blacklocks/ARCA UNLIMITED Architects.png",
-        "private": false,
-        "misp_uuid": "8d6c6c40-1a01-5905-aced-6f54dfb72486",
-        "group_name": "blacklocks",
-        "sector": "Real Estate"
     }
 ]
