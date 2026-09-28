@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "camorim.com.br",
+        "discovered": "2026-09-28 23:41:33.011524",
+        "description": "Camorim Serviços Marítimos has over 30 years of expertise in the maritime sector, providing a range...",
+        "link": "/post/30c6cb9f5d80f0e5bdc2a414552bea98",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/camorimcombr.png",
+        "private": false,
+        "misp_uuid": "f9985057-33c1-5127-a20e-68d0d4943080",
+        "group_name": "lockbit5",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Arnold Center",
+        "discovered": "2026-09-28 22:47:45.524433",
+        "description": "Education",
+        "link": "/site/blog?uuid=d771352d-1892-4420-9c89-4c7858283780",
+        "magnet": null,
+        "screen": "screenshots/qilin/Arnold Center.png",
+        "private": false,
+        "misp_uuid": "6afa8552-5729-5a0c-922e-3fa76e91dcdd",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
         "post_title": "bakemyday.se",
         "discovered": "2026-09-28 21:49:50.376610",
         "description": "",
@@ -742,17 +766,5 @@
         "misp_uuid": "1ba68011-4155-555a-a9c9-43ac312c4113",
         "group_name": "emperador",
         "sector": "Technology"
-    },
-    {
-        "post_title": "SiteProRentals",
-        "discovered": "2026-09-28 01:27:00",
-        "description": "SitePro Rentals is a Texas-based construction and industrial equipment rental company founded in 2021. A subsidiary of Sammons Industrial, it rents aerial lifts, forklifts, and earthmoving equipment, serving contractors across the U.S. from over 30 locations.\n\nWe have every employee's Social Security number. Home addresses. Birth dates. Salaries. We know who's sick, who's on leave, who got fired and why. We also have 338,000 pay records....\n\nShortly, you will receive an email containing the instructions on how to proceed with this situation.\n\nThe ransom is relatively small, just $150k USD in XMR...\n\nIf you do not receive the email, contact us at:\nEmail: xdlmfao@morke.ru\nSession: 05651c7323273b723588d47455471ee9e27feb5187a30f2933554a705aacb38358\nPublication scheduled: 2026-10-12 01:27:34 UTC\nSize: 6.2 MB\nSectors: Construction",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/siteprorentals/",
-        "magnet": null,
-        "screen": "screenshots/emperador/SiteProRentals.png",
-        "private": false,
-        "misp_uuid": "8b1bd747-ff8f-501f-9455-931c901a1dcd",
-        "group_name": "emperador",
-        "sector": "Manufacturing"
     }
 ]
