@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "intense.pl",
+        "discovered": "2026-09-29 23:28:45.728150",
+        "description": "+48 124200150 , NTENSE Group is a Polish software development and IT consulting company founded in 2006. The company specializes in delivering highly customizable digital transformation enterprise software designed to optimize operational efficiency, automate workflows, and reduce corporate expenditures. Stolen: --",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "55304fc2-23f9-5c16-ac2e-93bf2e3dc56e",
+        "group_name": "m3rx",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Corswarem Group",
+        "discovered": "2026-09-29 22:49:28.415831",
+        "description": "corswarem.eu Corswarem Group (founded 1957, Tongeren, Belgium) is a family-owned manufacturer and installer of aluminium windows, doors, curtain-wall facades, terraces and solar panels, with 65+ years of expertise and 18–20 employees across five legal entities (Ramenconstructie Corswarem NV as the main operating company, plus Alu Design, Window Creations, Solar Solutions and holding Groep ADC BV with €18M in assets). It is a Schüco Premium Partner (30+ years exclusive) and Renson Ambassador, delivering full turnkey projects from design through production to installation — landmark works include BASF Antwerpen, Posthofbrug Berchem (17,000 m² offices), DronePort Brustem, CM Limburg HQ and the first ASE 80 HI DesignLine installation in Belgium. Led by the Corswarem family (Dirk, An, Jolien), the group booked a gross margin of €5.3M at its 2023 peak but saw profit fall 64% in 2025 to €691K amid Belgium's construction slowdown — though equity rose 44% and debt dropped 30%.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ea5e4ce2-5f23-589a-a6d9-30ddca399ec2",
+        "group_name": "the gentlemen",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Pulmonary Services Group",
+        "discovered": "2026-09-29 22:49:27.427976",
+        "description": "pulmonaryservicesgrouppr.com zoominfo.com/c/pulmonary-services-group/442368923 Pulmonary Services Group (Medicare-enrolled since 1998, pulmonaryservicesgrouppr.com, Santurce/San Juan + Mayagüez, Puerto Rico) is a three-company group — Respiratory Equipment Leasing and Sales Services Corp., Mayagüez Alquiler y Venta, and Pulmonary Equipment Corp — providing home medical equipment and respiratory therapy services across the island and hospital equipment distribution to Puerto Rico and the Caribbean. Its specialty is home mechanical ventilation for ventilator-dependent patients (neonates to elderly), plus CPAP/BiPAP for sleep apnea, oxygen concentrators, speaking valves, enteral feeding and home-care gear (hospital beds, lifts, mattresses). The company holds JCAHO accreditation since 1998 in respiratory therapy and durable medical equipment, accepts Medicare and most local health plans, and offers 24/7 delivery, installation, training and technical support.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "488d9af5-7e72-5097-8425-8b89bc3f56d2",
+        "group_name": "the gentlemen",
+        "sector": "Healthcare"
+    },
+    {
         "post_title": "Unique Repair Services",
         "discovered": "2026-09-29 20:26:59.418908",
         "description": "Unique Repair Services specializes in fast and reliable appliance repair and maintenance in Des Plaines, IL, and surrounding areas. They offer a wide range of services including repairs for refrigerators, washers, dryers, dishwashers, and HVAC systems, with a focus on customer satisfaction and same-day service. The company employs factory-authorized technicians trained in major brands like Samsung, Electrolux, and Frigidaire, ensuring high-quality repairs backed by a 90-day guarantee. Their intended clients are homeowners seeking dependable and professional appliance repair solutions.",
@@ -634,41 +670,5 @@
         "misp_uuid": "c01d3a45-87d5-59e7-9077-f23b66ca5cd8",
         "group_name": "storm",
         "sector": "Finance"
-    },
-    {
-        "post_title": "camorim.com.br",
-        "discovered": "2026-09-28 23:41:33.011524",
-        "description": "Camorim Serviços Marítimos has over 30 years of expertise in the maritime sector, providing a range...",
-        "link": "/post/30c6cb9f5d80f0e5bdc2a414552bea98",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/camorimcombr.png",
-        "private": false,
-        "misp_uuid": "f9985057-33c1-5127-a20e-68d0d4943080",
-        "group_name": "lockbit5",
-        "sector": "Transportation"
-    },
-    {
-        "post_title": "Arnold Center",
-        "discovered": "2026-09-28 22:47:45.524433",
-        "description": "Education",
-        "link": "/site/blog?uuid=d771352d-1892-4420-9c89-4c7858283780",
-        "magnet": null,
-        "screen": "screenshots/qilin/Arnold Center.png",
-        "private": false,
-        "misp_uuid": "6afa8552-5729-5a0c-922e-3fa76e91dcdd",
-        "group_name": "qilin",
-        "sector": "Education"
-    },
-    {
-        "post_title": "bakemyday.se",
-        "discovered": "2026-09-28 21:49:50.376610",
-        "description": "",
-        "link": "/blog/disclosures/6abab9929cd108bf261f2fdd",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/bakemydayse.png",
-        "private": false,
-        "misp_uuid": "7a2b0e75-8e6a-5c6e-b9d1-c13eef044182",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
     }
 ]
