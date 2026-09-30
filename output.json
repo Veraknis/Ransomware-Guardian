@@ -1,5 +1,89 @@
 [
     {
+        "post_title": "Zelham",
+        "discovered": "2026-10-01 00:37:20.228765",
+        "description": "zelham.com rocketreach.co/zelham-inc-profile_b580fe5ef66e1a3f Zelham, Inc. is a U.S. hospitality renovation general contractor headquartered in Boise, Idaho, founded in 2000 and owned since 2023 by President & CEO Stephen Horel. The company specializes in hotel remodeling, rebranding, and ADA conversions, with 500+ completed projects and licenses in 47 states. It employs approximately 55–57 people across 15 states, generating an estimated annual revenue of $9.6M–$41.6M (sources vary). Zelham works with 20+ major hotel brands (Marriott, Hilton, IHG, Sonesta, Four Seasons), offering pre-construction planning, free estimates, and turnkey project management.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "35471f45-2d7d-568e-823a-dcb2b1883e93",
+        "group_name": "the gentlemen",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "Software Answers, a Banyan Software Company",
+        "discovered": "2026-10-01 00:32:24.207132",
+        "description": "Software company serving the long-term stay accommodation industry, including corporate housing and serviced apartments",
+        "link": "Companies/softwareanswers",
+        "magnet": null,
+        "screen": "screenshots/pear/Software Answers, a Banyan Software Company.png",
+        "private": false,
+        "misp_uuid": "825e6ab2-26ac-5d47-9820-1d7158b7da4b",
+        "group_name": "pear",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Houston Thyroid & Endocrine Specialists",
+        "discovered": "2026-10-01 00:32:20.724639",
+        "description": "Healthcare - Endocrinology (US) · Houston, Texas",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d930b41c-eec1-58a0-920b-6d1b910e8d07",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Japan Times",
+        "discovered": "2026-09-30 23:28:32.370553",
+        "description": "The Japan Times is a leading English-language news outlet that provides comprehensive coverage of Japan's business, politics, culture, sports, and entertainment. It offers various subscription options, including digital and print formats, catering to a diverse audience interested in Japanese news and insights. The company also features specialized services such as academic and business subscriptions, as well as access to its digital archives. Its intended clients include local and international readers seeking reliable information about Japan and its global interactions.",
+        "link": "/place/65t5yth9vh3smlon/",
+        "magnet": null,
+        "screen": "screenshots/eclipse/The Japan Times.png",
+        "private": false,
+        "misp_uuid": "901e7929-b504-594b-8eb2-0c76b52c988b",
+        "group_name": "eclipse",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Summit Electric Supply",
+        "discovered": "2026-09-30 22:32:51.675170",
+        "description": "Summit Electric Supply supplies electrical products and solutions for commercial, industrial, construction, OEM, institutional, and marine applications. Its website allows customers to browse products, check availability, manage orders, view invoices, and purchase online.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5a12a65c-77e4-5b54-887c-326f491afbbe",
+        "group_name": "vexy",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "wolfusofsky.de",
+        "discovered": "2026-09-30 22:32:49.470400",
+        "description": "The group provides a broad range of construction and infrastructure services to public and private clients in Rhineland-Palatinate, Saarland, neighboring …",
+        "link": "/blog/post/wolfusofskyde/",
+        "magnet": null,
+        "screen": "screenshots/safepay/wolfusofskyde.png",
+        "private": false,
+        "misp_uuid": "f6d6bf8c-2477-5607-9753-bf7bb9fa408c",
+        "group_name": "safepay",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Le Centre National de l'Expertise Hospitalière (CNEH)",
+        "discovered": "2026-09-30 21:34:58.345955",
+        "description": "Le Centre National de l'Expertise Hospitalière (CNEH) est une école de référence et un organisme français fondé en 1974 qui accompagne les professionnels de santé et les établissements sanitaires et médico-sociaux.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5a545fe5-514e-541e-bf32-46aea2f61ed0",
+        "group_name": "kairos",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Titus",
         "discovered": "2026-09-30 19:32:11.669067",
         "description": "",
@@ -370,41 +454,5 @@
         "misp_uuid": "88be6ee6-d061-5362-8054-c99053e7cd55",
         "group_name": "shinyhunters",
         "sector": "Technology"
-    },
-    {
-        "post_title": "intense.pl",
-        "discovered": "2026-09-29 23:28:45.728150",
-        "description": "+48 124200150 , NTENSE Group is a Polish software development and IT consulting company founded in 2006. The company specializes in delivering highly customizable digital transformation enterprise software designed to optimize operational efficiency, automate workflows, and reduce corporate expenditures. Stolen: --",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "55304fc2-23f9-5c16-ac2e-93bf2e3dc56e",
-        "group_name": "m3rx",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Corswarem Group",
-        "discovered": "2026-09-29 22:49:28.415831",
-        "description": "corswarem.eu Corswarem Group (founded 1957, Tongeren, Belgium) is a family-owned manufacturer and installer of aluminium windows, doors, curtain-wall facades, terraces and solar panels, with 65+ years of expertise and 18–20 employees across five legal entities (Ramenconstructie Corswarem NV as the main operating company, plus Alu Design, Window Creations, Solar Solutions and holding Groep ADC BV with €18M in assets). It is a Schüco Premium Partner (30+ years exclusive) and Renson Ambassador, delivering full turnkey projects from design through production to installation — landmark works include BASF Antwerpen, Posthofbrug Berchem (17,000 m² offices), DronePort Brustem, CM Limburg HQ and the first ASE 80 HI DesignLine installation in Belgium. Led by the Corswarem family (Dirk, An, Jolien), the group booked a gross margin of €5.3M at its 2023 peak but saw profit fall 64% in 2025 to €691K amid Belgium's construction slowdown — though equity rose 44% and debt dropped 30%.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "ea5e4ce2-5f23-589a-a6d9-30ddca399ec2",
-        "group_name": "the gentlemen",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "Pulmonary Services Group",
-        "discovered": "2026-09-29 22:49:27.427976",
-        "description": "pulmonaryservicesgrouppr.com zoominfo.com/c/pulmonary-services-group/442368923 Pulmonary Services Group (Medicare-enrolled since 1998, pulmonaryservicesgrouppr.com, Santurce/San Juan + Mayagüez, Puerto Rico) is a three-company group — Respiratory Equipment Leasing and Sales Services Corp., Mayagüez Alquiler y Venta, and Pulmonary Equipment Corp — providing home medical equipment and respiratory therapy services across the island and hospital equipment distribution to Puerto Rico and the Caribbean. Its specialty is home mechanical ventilation for ventilator-dependent patients (neonates to elderly), plus CPAP/BiPAP for sleep apnea, oxygen concentrators, speaking valves, enteral feeding and home-care gear (hospital beds, lifts, mattresses). The company holds JCAHO accreditation since 1998 in respiratory therapy and durable medical equipment, accepts Medicare and most local health plans, and offers 24/7 delivery, installation, training and technical support.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "488d9af5-7e72-5097-8425-8b89bc3f56d2",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
     }
 ]
