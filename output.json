@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "euroditel.com",
+        "discovered": "2026-10-04 14:48:50.216179",
+        "description": "Groupe Euroditel is a French telecommunications and IT systems integrator founded in 1966, headquartered in Bagneux, Îl...",
+        "link": "/blog/27493989ead6f1ebaa7f57d106ce8fc61e1d15cbee51562d9af6a683fe544f53/",
+        "magnet": null,
+        "screen": "screenshots/krybit/euroditelcom.png",
+        "private": false,
+        "misp_uuid": "7d9a1485-ada5-56b4-9ec9-82f488a5edd1",
+        "group_name": "krybit",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "superpack.com.co",
+        "discovered": "2026-10-04 14:48:49.298039",
+        "description": "Empaques y Servicios Superiores S.A.S. (SUPERPACK) is a Colombian medium-sized company founded on January 12, 1999, head...",
+        "link": "/blog/a3ddb365f1307e9df5b9e0c16ceaf025b9af209f95465f95fba9f0f11ee65962/",
+        "magnet": null,
+        "screen": "screenshots/krybit/superpackcomco.png",
+        "private": false,
+        "misp_uuid": "4c0a2c0b-93ba-5f5a-acbc-1e1ecf0898b5",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "daralteb.com",
+        "discovered": "2026-10-04 14:48:48.366118",
+        "description": "Dar Al-Tib is one of Egypt's and the Middle East's first and leading centers specializing in infertility treatment and a...",
+        "link": "/blog/aca6f28085ad9c62056267f1ed82b5ae0da3a3b9ef4d30654028306e7ae7892d/",
+        "magnet": null,
+        "screen": "screenshots/krybit/daraltebcom.png",
+        "private": false,
+        "misp_uuid": "1b60cfc7-e5d7-5fb8-88e3-e7340a961009",
+        "group_name": "krybit",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Center State Engineering",
         "discovered": "2026-10-03 18:02:09.080320",
         "description": "centerstateengineering.com zoominfo.com/c/center-state-engineering/368448599 340GB Center State Engineering is a privately held civil engineering consultancy founded in 1997 and based in Monroe Township, New Jersey.\nIt serves municipal and private clients with engineering, surveying, land planning, inspection, and construction management.\nIts work includes roads, drainage, stormwater systems, utilities, parks, public facilities, and land development.\nPublic records show recurring municipal assignments in Monroe Township, South Plainfield, and South Brunswick.\nThird-party company profiles estimate its workforce at approximately 15–16 employees; the company does not publish an official headcount.\nDatanyze estimates annual revenue at about $7.4 million, but this is an unverified estimate, not company-reported financial data.\nIts strongest publicly documented experience is municipal infrastructure and public-facility work in central New Jersey.",
@@ -70,41 +106,5 @@
         "misp_uuid": "e16dc5ad-d9c2-5707-bc29-1df171d2e141",
         "group_name": "qilin",
         "sector": "Finance"
-    },
-    {
-        "post_title": "SEVEN SEAS GROUP",
-        "discovered": "2026-10-03 04:47:07.015605",
-        "description": "https://sevenseasgroup.com/ Seven Seas is a global maritime services group that specializes in providing general ship supplies, stores, spare parts & leading technical maritime brands through its extensive global network.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "f2a1094b-4894-5abd-a29c-58dd1b6a507c",
-        "group_name": "spirals",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Forma Therapeutics Holdings, Inc.",
-        "discovered": "2026-10-03 03:46:45.424992",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c47e6b16-7c50-5db7-8f94-2beeb78f0627",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Paessolucoes",
-        "discovered": "2026-10-03 01:32:36.834423",
-        "description": "paessolucoes.com.br is the website of Paes Soluções, a Brazilian IT company offering business software, hosting, cloud backup, VPS, and technical support, based in Campo Mourão, Paraná.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "9e1fafcd-dc9a-561c-a8f4-bdbad04648b2",
-        "group_name": "panzer",
-        "sector": "Technology"
     }
 ]
