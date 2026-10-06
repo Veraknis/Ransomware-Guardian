@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "A...n",
+        "discovered": "2026-10-06 01:37:34.299641",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "8ca977a5-28fc-513a-9c81-a111ed14e540",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Global Security Concepts",
+        "discovered": "2026-10-05 23:38:07.840478",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=29f4c51d-3bbe-4203-b415-0c6f3964dd58",
+        "magnet": null,
+        "screen": "screenshots/qilin/Global Security Concepts.png",
+        "private": false,
+        "misp_uuid": "b908ef22-503a-5ede-9255-f564908c905e",
+        "group_name": "qilin",
+        "sector": "Defense"
+    },
+    {
         "post_title": "dd-automation.ch",
         "discovered": "2026-10-05 22:34:03.686978",
         "description": "The company was entered into the Swiss commercial register in 1997 and specializes in electrical engineering, automation systems, conveyor technology, …",
