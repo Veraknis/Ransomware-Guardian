@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Boullard Musique",
+        "discovered": "2026-10-08 21:27:43.863521",
+        "description": "Boullard Musique (boullard.ch) is one of Switzerland's premier specialty retailers of musical instruments and audio gear, founded in Morges in 1979. The company operates a dedicated physical showroom alongside an extensive e-commerce platform offering acoustic instruments, electronic gear, and accessories. Beyond retail, they provide comprehensive instrument rentals, maintenance, and expert repair services through their on-site workshops.",
+        "link": "/posts/c76973f9-dba2-4851-87b0-0c26fd6192f1",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ba9ef7f2-5918-5b38-8e8d-2368a73d4536",
+        "group_name": "payload",
+        "sector": "Services"
+    },
+    {
+        "post_title": "Andersen Group Inc.",
+        "discovered": "2026-10-08 17:31:23.815494",
+        "description": "(NYSE: ANDG) reported $217.7 million in revenue for the second quarter of 2026 and $838.7 million in f…",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "feecb223-00d8-5d4f-9b53-3b02a1541e5b",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "DIPECARR",
         "discovered": "2026-10-08 16:24:29.507818",
         "description": "Dipecarr is Brazil's top truck parts distributor, founded in 1994 by Adilson José de Almeida. With over 10,000 items ready to ship and partnerships with world-known brands, they serve 80,000 customers across seven branches in key Brazilian states. The company offers everything a truck owner needs, focusing on quality service and continuous growth.",
@@ -286,113 +310,5 @@
         "misp_uuid": "96184f88-5c72-5258-8e7b-87df7ed85b5a",
         "group_name": "vypr",
         "sector": "Education"
-    },
-    {
-        "post_title": "Qatar National Import & Export",
-        "discovered": "2026-10-07 21:37:08.440700",
-        "description": "Grocery Retail",
-        "link": "/site/blog?uuid=c2d1bd63-c776-4fe4-bf99-7626626f457e",
-        "magnet": null,
-        "screen": "screenshots/qilin/Qatar National Import & Export.png",
-        "private": false,
-        "misp_uuid": "c4aead14-5fd7-5f43-be0f-09b8bcf3afec",
-        "group_name": "qilin",
-        "sector": "Retail"
-    },
-    {
-        "post_title": "Matadero Frigorífico Avinyó",
-        "discovered": "2026-10-07 21:37:07.287644",
-        "description": "Food & Beverage",
-        "link": "/site/blog?uuid=d9ccbd6a-765e-4a6d-9076-5f62521f8b63",
-        "magnet": null,
-        "screen": "screenshots/qilin/Matadero Frigorífico Avinyó.png",
-        "private": false,
-        "misp_uuid": "83e499ff-ed7a-577f-acca-4fbc3dbbf949",
-        "group_name": "qilin",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Riviera Healthcare Center",
-        "discovered": "2026-10-07 19:39:04.101337",
-        "description": "https://rivierahealthcare.com/\n\t\t\t\t\t\t\t\t\tRiviera Healthcare Center is a for-profit skilled nursing facility in operation for over 50 years. It provides 24-hour nursing and rehabilitation services. Due to negligence and poor security practices, confidential data was exposed, including patient protected health information (PHI)names, diagnoses, medical histories, fall/fracture and treatment information, payment records, and employee/HR data. This breach violates HIPAA and the California CMIA (and potentially the CCPA/CPRA) and will result in mandatory breach notification, federal and state fines, civil lawsuits, corrective action plans, and significant reputational and financial damage.",
-        "link": "http://puvoz5h52oepibye5hqzvfyhqhsfxzmzkr7v4tjtioxe3qaao2b6faqd.onion/index.php?p=",
-        "magnet": null,
-        "screen": "screenshots/interlock/Riviera Healthcare Center.png",
-        "private": false,
-        "misp_uuid": "ad09a394-49ee-5c8d-9b54-4e856e31cb7e",
-        "group_name": "interlock",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Wavecrest HFA",
-        "discovered": "2026-10-07 18:35:53.682037",
-        "description": "",
-        "link": "/blog/disclosures/6ac663d99cd108bf26a55b7c",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Wavecrest HFA.png",
-        "private": false,
-        "misp_uuid": "3c579858-443e-523d-a019-5781b7635998",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Tec Imports",
-        "discovered": "2026-10-07 18:35:52.759616",
-        "description": "",
-        "link": "/blog/disclosures/6ac665c09cd108bf26a588a8",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/Tec Imports.png",
-        "private": false,
-        "misp_uuid": "6e06eac7-8c49-5552-a6d3-db50bb5d4e08",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "UAE Pro League",
-        "discovered": "2026-10-07 18:35:51.882528",
-        "description": "",
-        "link": "/blog/disclosures/6ac667559cd108bf26a5ba4f",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/UAE Pro League.png",
-        "private": false,
-        "misp_uuid": "db3a0a50-2760-5ed2-be7b-df0214954f42",
-        "group_name": "inc ransom",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "City of Cloverdale",
-        "discovered": "2026-10-07 18:35:50.974401",
-        "description": "",
-        "link": "/blog/disclosures/6ac6695d9cd108bf26a5f871",
-        "magnet": null,
-        "screen": "screenshots/inc ransom/City of Cloverdale.png",
-        "private": false,
-        "misp_uuid": "f885f3a3-cfee-565a-accd-47dcebd14342",
-        "group_name": "inc ransom",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Leadec",
-        "discovered": "2026-10-07 18:22:43.501802",
-        "description": "Will they allow this leak to happen?",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/N9iIpU5tDIONod1DeEhnG7tFYVvb8zDS8onTPemObvntF+SeLe5ICK+alJdZuXdC7iXweDBd2bKQTpsgLmG81G5td1U1UmJE",
-        "magnet": null,
-        "screen": "screenshots/anubis/Leadec.png",
-        "private": false,
-        "misp_uuid": "d0d4c155-1ec2-5525-ae17-5c9012be2633",
-        "group_name": "anubis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "North Philadelphia Health System",
-        "discovered": "2026-10-07 18:02:09.697248",
-        "description": "bewellctr.org zoominfo.com/c/north-philadelphia-health-system/27968159 The Behavioral Wellness Center at Girard (\"Be Well\") is a nonprofit addiction and psychiatric treatment provider at 801 W. Girard Ave, Philadelphia, with revenue growing from $38.8M (FY2019) to a record $63.4M (FY2025, 95% from program services), though it posted a $4.4M loss in FY2024 and carries $68.7M in liabilities. Tracing its roots to the 1896 Philadelphia Children's Homeopathic Hospital, it survived a 1990 merger of two bankrupt hospitals, closed St. Joseph's in 2016, filed Chapter 11 that December, and emerged in 2018 after selling its real estate ($8.45M Girard campus sale to Iron Stone) while saving ~500 jobs. Today it employs ~480 staff and runs one of Philadelphia's oldest and largest methadone programs (Goldman Clinic, ~600 clients/day, ~217,000 visits/year), plus detox, residential, and 85 extended-acute psychiatric beds.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "0319fa40-e3c8-56bc-b3b6-cfca50f26a2b",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
     }
 ]
