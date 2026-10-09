@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "hoteldelfinolugano.ch",
+        "discovered": "2026-10-10 00:25:12.161551",
+        "description": "The hotel was founded in 1972 and has been managed directly by the Haas family for four generations. Since 2001, …",
+        "link": "/blog/post/hoteldelfinoluganoch/",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "f3d83593-b3f5-5219-b0bd-7c40d948ccae",
+        "group_name": "safepay",
+        "sector": "Hospitality"
+    },
+    {
+        "post_title": "dwi-bau.de",
+        "discovered": "2026-10-10 00:25:11.198874",
+        "description": "The company specializes in building systems for metal roofs and facades, serving customers in the construction and building sectors. Its …",
+        "link": "/blog/post/dwi-baude/",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "0df2bfc9-77ae-5fce-a55b-a07d6366e725",
+        "group_name": "safepay",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "astranahealth.com",
+        "discovered": "2026-10-10 00:24:34.766047",
+        "description": "The company's management decided to pull out of the deal with us in order to save money. The data and diagnoses of millions of patients have been published in their entirety. The total data volume is 1,500 GB.\n\nAstrana Health, Inc. is a physician-centric, technology-powered healthcare company headqu…",
+        "link": "/muD7fMKCPXbTHnMGyneANdl2ggqWdslj/astranahealth-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/astranahealthcom.png",
+        "private": false,
+        "misp_uuid": "c7c770cc-390a-59d6-a21d-b22d8ab0333d",
+        "group_name": "chaos",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Anne Arundel County",
+        "discovered": "2026-10-09 22:22:59.871286",
+        "description": "Anne Arundel County\nEstablished in 1964, Anne Arundel County is a governmental body, consisting of numerous departments, services and sections all working together to serve the residents. This company is headquartered in Anne Arundel County, Maryland.814,500 files, 2.6 TB721 background-check dossiers with full SSNs in filenames, including 2026 records.Tens of thousands of medical faxes, 2022 to 2026, with patient names and diagnoses.Methadone clinic records under 42 CFR Part 2, the strictest US confidentiality regime.47,602 medical-assistance files with driver licenses, Green Cards, SSN cards, tax forms and bank data.County payroll registers with all salaries, HR memos, contracts, pension and discipline databases.Jail gang-intelligence files with a gang-member master list.\n\n\n\nMore",
+        "link": "archive.php?company=281",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Anne Arundel County.png",
+        "private": false,
+        "misp_uuid": "74e7f154-813d-58d4-9bd7-9cf6fe94afff",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Vadeto Group",
+        "discovered": "2026-10-09 22:22:56.511164",
+        "description": "Electronics",
+        "link": "/site/blog?uuid=45bf5b10-ebf4-4c21-b7f3-d67531a86863",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "a118de22-fde7-5236-ad34-2666bca2c587",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
         "post_title": "huntcompanies.com",
         "discovered": "2026-10-09 20:25:49.016270",
         "description": "We have 80 GB of data. The data includes: military facilities, the military housing program, and information on service members and their families, including personal data on senio...",
@@ -417,90 +477,6 @@
         "private": false,
         "misp_uuid": "6d3a3053-9e85-556a-8883-7cc80da0f9c9",
         "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "O'Hagan Meyer",
-        "discovered": "2026-10-09 00:20:35.937198",
-        "description": "U.S. national law firm focused primarily on business litigation and labor & employment law. It was fou…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c3aa30e9-0c83-55a9-8a36-1e3d7ed64b31",
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "MCM Telecom",
-        "discovered": "2026-10-08 23:24:53.228849",
-        "description": "Business Services",
-        "link": "/site/blog?uuid=145417bb-37b7-4537-af14-4c1bff717df3",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "db238425-38a7-5995-92d1-0e62dc26ece4",
-        "group_name": "qilin",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SOCOCO",
-        "discovered": "2026-10-08 22:26:04.619394",
-        "description": "[PSA] SOCOCO — A Brazilian mid-sized food company with 40 employees, blending tradition and modern marketing through WordPress-driven platforms. | Updated on 2026-10-08 | REVENUE: $12M | SIZE: 174GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "746ac7db-6da4-5952-9528-3c29ca8f9cd0",
-        "group_name": "umbra",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Manipal Academy of Higher Edu",
-        "discovered": "2026-10-08 22:26:01.188730",
-        "description": "[PSA] MAHE — India’s global private university excelling in Medicine, Engineering, Business, and Research with 28,000+ students from 57 nations. | Updated on 2026-10-08 | REVENUE: $250M | SIZE: 734.4GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "488f4fd3-aa4f-5997-a6b0-91fa5defba1a",
-        "group_name": "umbra",
-        "sector": "Education"
-    },
-    {
-        "post_title": "IIT Roorkee",
-        "discovered": "2026-10-08 22:25:59.495670",
-        "description": "[PSA] IIT Roorkee — India’s oldest institute excelling in Engineering, Architecture, Computer Science, Water Resources, Energy, and Applied Sciences since 1847. | Updated on 2026-10-08 | REVENUE: $157M | SIZE: 3.7TB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "5a1e63a3-e98b-5223-9d35-5fd027daf1de",
-        "group_name": "umbra",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "FSE, Cairo University",
-        "discovered": "2026-10-08 22:25:58.578733",
-        "description": "[PSA] FSE, Cairo University — Leading Egypt’s future in arts, music, media, and creative education excellence. | Updated on 2026-10-08 | REVENUE: $4.5M | SIZE: 163GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "08d98963-1f09-5ca5-8867-6bf7d74aa2e4",
-        "group_name": "umbra",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Baker McKenzie",
-        "discovered": "2026-10-08 22:25:28.127093",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "8ac6fa62-d860-5966-bd37-0c33c3e34474",
-        "group_name": "leakeddata",
         "sector": "Unknown"
     }
 ]
