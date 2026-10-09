@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "huntcompanies.com",
+        "discovered": "2026-10-09 20:25:49.016270",
+        "description": "We have 80 GB of data. The data includes: military facilities, the military housing program, and information on service members and their families, including personal data on senio...",
+        "link": "/n/huntcompanies",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "24ac3b07-0770-53e1-9d96-3c11e6b81851",
+        "group_name": "brain cipher",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Tepcomp",
+        "discovered": "2026-10-09 19:23:19.276878",
+        "description": "Electronics",
+        "link": "/site/blog?uuid=2c77552f-9b72-4958-b644-d9aa697380d3",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "fe7a0c03-8fb0-5b48-897e-d4a93cc1fc5d",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Mynd",
+        "discovered": "2026-10-09 19:22:57.270721",
+        "description": "Property owners’ personal data.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/YCPIrn+gKQU5fApLYhqeuR7sko8OodBRK+atohofjQQGM1g3QrZSPuAlcj4xbB7PtIJF5ptwSf4gHZQ+hxecclp6ZnBIaU1r",
+        "magnet": null,
+        "screen": "screenshots/anubis/Mynd.png",
+        "private": false,
+        "misp_uuid": "cc6c27b8-b880-5129-9cf2-27d77bf48e00",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Shalom Christian Academy",
+        "discovered": "2026-10-09 19:22:49.127337",
+        "description": "https://www.shalomca.com/\n\t\t\t\t\t\t\t\t\tAs a school, Shalom Christian Academy is legally and ethically obligated to maintain a wide range of confidential information. However, they are grossly negligent in protecting their own security and that of their students and staff. Consequently, we provide you with student grades, disciplinary and special education records, health and immunization records, financial aid and tuition information, donation history, employee background checks, salary data, and internal security documents. This leak into the public domain constitutes an unacceptable betrayal that can lead to identity theft, financial fraud, extortion, harassment, and devastating harm to children and families. The school is culpable for this act and must be held accountable to the fullest extent of the law.",
+        "link": "http://mqiq3x2ghaoy4w36gqk6bqgta5y6x4bchf5ejh5ytsekug7c46rryxyd.onion/index.php?p=",
+        "magnet": null,
+        "screen": "screenshots/interlock/Shalom Christian Academy.png",
+        "private": false,
+        "misp_uuid": "3abb26dd-7e03-5133-abcf-0799205a64df",
+        "group_name": "interlock",
+        "sector": "Education"
+    },
+    {
+        "post_title": "enTouch",
+        "discovered": "2026-10-09 19:22:38.875324",
+        "description": "<p>enTouch is a Japanese IT company specializing in the medical and pharmaceutical sectors, providing services for online consultations, sales activities, and customer data management between pharmaceutical companies and medical institutions.<br>We possess the entire database from data.entouch.jp, the data analysis system used by enTouch.<br>The database contains sensitive customer information, including names, contact details, consultation schedules and records, and sales activity data categorized by pharmaceutical company.</p>",
+        "link": "/target/6ac8f325698707a00251b3ee",
+        "magnet": null,
+        "screen": "screenshots/black x/enTouch.png",
+        "private": false,
+        "misp_uuid": "16c24587-ee7e-58e5-b6f7-e06add54d4fe",
+        "group_name": "black x",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "lopay",
+        "discovered": "2026-10-09 19:22:37.920910",
+        "description": "<p>Lopay is a UK-based fintech company that provides a payment platform enabling small and medium-sized enterprises (SMEs) and sole traders to accept credit card and mobile payments, as well as manage their sales and settlements.<br>This includes financial information belonging to client companies, such as customer payment details, card information, banking data, transaction history, and payment terminal information.</p>",
+        "link": "/target/6ac90f73698707a00251b714",
+        "magnet": null,
+        "screen": "screenshots/black x/lopay.png",
+        "private": false,
+        "misp_uuid": "f5932976-a8ea-56bf-91b8-6c19eba88c48",
+        "group_name": "black x",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Deloitte",
         "discovered": "2026-10-09 16:37:13.083029",
         "description": "www.deloitte.com https://www.zoominfo.com/c/deloitte/14812699 Revenue\n$74.5 Billion Deloitte is a global professional services organization providing audit and assurance, consulting, financial advisory, risk advisory, tax, legal and related services. Its capabilities also span cybersecurity, AI and data, enterprise technology, human capital and business process solutions. Deloitte serves organizations across a wide range of industries, helping clients manage complex challenges, transform operations, navigate risks, and drive sustainable growth. \nData info - soon ",
@@ -22,6 +94,18 @@
         "misp_uuid": "2a4411e8-8ac7-54a3-9abf-71b5d47932f6",
         "group_name": "black x",
         "sector": "Unknown"
+    },
+    {
+        "post_title": "Imperial Diamond Jewellery",
+        "discovered": "2026-10-09 15:52:00",
+        "description": "Engaged in the sale of jewelry made of precious metals, \ndiamond jewelry and the manufacture of custom jewelry.\nCountry: Hong Kong, China. Year of foundation: 2011\nFinancial documents, personal and customer data.\nPublication scheduled: 2026-10-23 15:52:47 UTC\nSize: 3.1 GB\nSectors: Manufacturing, Finance",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/imperial-diamond-jewellery/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Imperial Diamond Jewellery.png",
+        "private": false,
+        "misp_uuid": "ac1dd497-d160-5732-becd-c8483f70cbd5",
+        "group_name": "emperador",
+        "sector": "Finance"
     },
     {
         "post_title": "https://www.identalsoft.com/",
@@ -416,30 +500,6 @@
         "screen": null,
         "private": false,
         "misp_uuid": "8ac6fa62-d860-5966-bd37-0c33c3e34474",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Boullard Musique",
-        "discovered": "2026-10-08 21:27:43.863521",
-        "description": "Boullard Musique (boullard.ch) is one of Switzerland's premier specialty retailers of musical instruments and audio gear, founded in Morges in 1979. The company operates a dedicated physical showroom alongside an extensive e-commerce platform offering acoustic instruments, electronic gear, and accessories. Beyond retail, they provide comprehensive instrument rentals, maintenance, and expert repair services through their on-site workshops.",
-        "link": "/posts/c76973f9-dba2-4851-87b0-0c26fd6192f1",
-        "magnet": null,
-        "screen": "screenshots/payload/Boullard Musique.png",
-        "private": false,
-        "misp_uuid": "ba9ef7f2-5918-5b38-8e8d-2368a73d4536",
-        "group_name": "payload",
-        "sector": "Services"
-    },
-    {
-        "post_title": "Andersen Group Inc.",
-        "discovered": "2026-10-08 17:31:23.815494",
-        "description": "(NYSE: ANDG) reported $217.7 million in revenue for the second quarter of 2026 and $838.7 million in f…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "feecb223-00d8-5d4f-9b53-3b02a1541e5b",
         "group_name": "leakeddata",
         "sector": "Unknown"
     }
