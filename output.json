@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "Reed & Giordano PA",
+        "discovered": "2026-10-11 17:27:51.464848",
+        "description": "Reed & Giordano PA\n94,604 files / ~51.3 GBACH instructions for the firm's client trust account (IOLTA) with complete account details; clients' wire-transfer details.PII: W-9/W-2 forms with SSNs, Massachusetts driver's licenses, birth certificate, personal UBS documents of a financial advisor.Client money flows (incoming/outgoing funds by case).Signed conflict-of-interest letter (matter - Alhassan) - a direct written admission of an internal firm problem.\n\n\n\nMore",
+        "link": "archive.php?company=283",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Reed & Giordano PA.png",
+        "private": false,
+        "misp_uuid": "5c6526f1-74b3-52ea-bcb7-bbdbc1fbc3b3",
+        "group_name": "rhysida",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Kookabarra Juice",
         "discovered": "2026-10-11 16:27:30.407639",
         "description": "French manufacturer specializing in fresh-pressed fruit juices, detox juices, smoothies, nectars and other fresh fruit products, serving both professionals and consumers.",
@@ -274,89 +286,5 @@
         "misp_uuid": "dc0cd6e3-61c8-51e1-9d49-c2d1ddc59ecd",
         "group_name": "dragonforce",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Royal Thai Air Force",
-        "discovered": "2026-10-10 20:12:34.321902",
-        "description": "rtaf.mi.th is the official portal of the Royal Thai Air Force, one of Asia's oldest air forces (founded November 2, 1913; independent since 1937), with ~46,000 personnel and 11 combat wings, now running a modern Odoo-based portal publishing financial reports, procurement plans, and White Papers on its \"Unbeatable Air Force\" roadmap to 2037. Its fleet spans 46 F-16s, 11 Gripen C/D, 13 F-5TH Super Tigris, Saab 340 Erieye AEW&C, C-130s, and a VIP fleet including an ex-Thai Airways A340-500. In July 2025 the RTAF fought its first combat since 1988 in the Thai-Cambodian border conflict, with its Gripens achieving the type's first-ever combat weapons launch. The centerpiece modernization is the Gripen E/F program: Thailand signed the $550M \"Peace Burapha 1\" contract in August 2025 — first in APAC — with deliveries from 2029 and 8 more jets sought toward a 12-aircraft squadron by 2037. Air Chief Marshal Seksan Kantha, the 31st commander since October 2025",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d758de0a-e29d-5f0d-8469-7b0db74544e8",
-        "group_name": "the gentlemen",
-        "sector": "Defense"
-    },
-    {
-        "post_title": "Helwan University (HITU)",
-        "discovered": "2026-10-10 19:28:29.973625",
-        "description": "Helwan International Technological University — a pioneering Egyptian institution offering cutting-edge programs in Cybersecurity, Data Science, Artificial Intelligence, and Mechatronics, equipped with advanced labs and strong industry partnerships to prepare students for the digital future. | Updated on 2026-10-10 | REVENUE: $41M | SIZE: 481GB",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "3d206bc5-ace6-57bc-9d52-648293ff0aea",
-        "group_name": "umbra",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Glenhardie Country Club",
-        "discovered": "2026-10-10 19:28:24.618558",
-        "description": "Advertising & Marketing",
-        "link": "/site/blog?uuid=64c96687-0ac2-4814-927a-9a898e162e7b",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "070bab9c-1e10-58d0-91e5-3b6789abb694",
-        "group_name": "qilin",
-        "sector": "Professional Services"
-    },
-    {
-        "post_title": "LD Constructora",
-        "discovered": "2026-10-10 19:28:23.720146",
-        "description": "Construction",
-        "link": "/site/blog?uuid=6a330232-150f-4da4-a303-01abb01bd7eb",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "dde8c2cd-aa50-5f46-8d01-e77601d2681d",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "ACI Proyectos SAS",
-        "discovered": "2026-10-10 19:28:22.751826",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=6e8bbd6e-69b7-4987-bf25-f6957818db17",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "9ff6ffd4-592a-56f8-855f-b16de44edd2b",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Secretaría de Modernización e Innovación del Municipio",
-        "discovered": "2026-10-10 19:28:21.592935",
-        "description": "Government",
-        "link": "/site/blog?uuid=8eed0cb1-bd62-4bb5-99c6-3b1e5ab44f7e",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d65ccc38-f897-5267-8a50-d6b244437a6d",
-        "group_name": "qilin",
-        "sector": "Government"
-    },
-    {
-        "post_title": "DexCom",
-        "discovered": "2026-10-10 18:26:21.908102",
-        "description": "Revenue: $4.97B USD | Sector: Medical Equipment | Stock Ticker: NYSE:DXCM | Data Size: 3.3 TB | Files: 358,695",
-        "link": "http://ursba4dbibo27dtwtgy3l2pc3ekut7helebvmy7ny3b2s3mbzph4qdad.onion/dexcom/",
-        "magnet": null,
-        "screen": "screenshots/redact/DexCom.png",
-        "private": false,
-        "misp_uuid": "f8e96a1e-e9c8-5ccb-9870-24f93d2634b5",
-        "group_name": "redact",
-        "sector": "Healthcare"
     }
 ]
