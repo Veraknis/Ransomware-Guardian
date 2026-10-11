@@ -1,5 +1,89 @@
 [
     {
+        "post_title": "Company #24",
+        "discovered": "2026-10-12 00:30:24.678167",
+        "description": "smart building & surveillance integration · California, USA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "16d09323-9d5e-5ffa-a419-ef23021ff0c9",
+        "group_name": "n0n",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Company #23",
+        "discovered": "2026-10-11 21:27:21.543832",
+        "description": "smart building & surveillance integration · California, USA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "170b0e2e-0ad2-58d0-be8f-5521aed5ae1e",
+        "group_name": "n0n",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Company #22",
+        "discovered": "2026-10-11 21:27:20.647501",
+        "description": "architecture & design · Florida, USA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "013264f2-3572-5aae-a05f-b9fe5780a545",
+        "group_name": "n0n",
+        "sector": "Professional Services"
+    },
+    {
+        "post_title": "Company #21",
+        "discovered": "2026-10-11 21:27:19.736641",
+        "description": "neurology practice · New South Wales, Australia",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "6d9b2b41-178b-5910-824d-0e3d4b91b379",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company #20",
+        "discovered": "2026-10-11 21:27:18.637284",
+        "description": "cannabis operator · Michigan, USA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "05eb5387-0811-5ea9-8a6f-867dac3da57f",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company #19",
+        "discovered": "2026-10-11 21:27:17.727500",
+        "description": "confectionery & telehealth · New York, USA",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "56451efa-2ad3-518d-b03b-1353197a1ea6",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company #14",
+        "discovered": "2026-10-11 21:27:16.739541",
+        "description": "Financial services · Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "2347b736-5fa5-531f-a822-10fd144684de",
+        "group_name": "n0n",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Reed & Giordano PA",
         "discovered": "2026-10-11 17:27:51.464848",
         "description": "Reed & Giordano PA\n94,604 files / ~51.3 GBACH instructions for the firm's client trust account (IOLTA) with complete account details; clients' wire-transfer details.PII: W-9/W-2 forms with SSNs, Massachusetts driver's licenses, birth certificate, personal UBS documents of a financial advisor.Client money flows (incoming/outgoing funds by case).Signed conflict-of-interest letter (matter - Alhassan) - a direct written admission of an internal firm problem.\n\n\n\nMore",
@@ -214,77 +298,5 @@
         "misp_uuid": "36251ad8-56c7-5710-9521-beb7c4795348",
         "group_name": "shiba",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "BigID",
-        "discovered": "2026-10-11 00:25:57.930670",
-        "description": "bigid.com Revenue $100 Million BigID is the enterprise data security platform that finds and classifies sensitive data across cloud apps, databases and files, showing where private data lives and who can access it. It now focuses on AI, spotting shadow AI tools and checking what data Copilots and agents reach, and in September 2026 launched AgentIQ letting AI assistants trigger data cleanup and access reviews from Claude, Copilot or ChatGPT. It serves hundreds of enterprise clients like Telenor and Fiserv, one of which deleted 27,000 sensitive records from 2.5 petabytes of storage. Money comes from enterprise subscriptions priced per data source, with $175K as one AWS Marketplace benchmark. Around 600 employees work there after cutting 150 roles in May 2026 to go AI-first. It raised $320M at a $1B+ valuation and owns no factories or stores.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "e04d0d7a-e755-5672-9fed-ceaa8a2a1e0b",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Confluent",
-        "discovered": "2026-10-11 00:12:56.235563",
-        "description": "confluent.io Revenue $1.16 Billion Confluent is the enterprise data streaming platform built on Apache Kafka that lets companies process live events like payments, orders and sensor data in real time, and it is now owned by IBM which bought it for about $11 billion in March 2026. It ended 2025 with 6,690 customers including roughly 40% of the Fortune 500 and grew revenue 21% with its cloud segment alone growing 27%. Customers include BMW, L'Oreal, Michelin and Ticketmaster and the platform runs across 60+ cloud regions on AWS, Azure and Google Cloud. Money comes from cloud usage and software subscriptions, about 96% of revenue, paid for compute and data transfer rather than per-seat fees. Around 3,241 employees worked at Confluent across 27 countries before the IBM deal and it owns no factories or stores because its product is pure software and cloud. Confluent was still unprofitable with a $295 million loss in 2025 though it earned positive operating income excluding stock pay.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "39524965-a89b-5f50-8812-2611ca304ab5",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "MoneyGram",
-        "discovered": "2026-10-11 00:02:35.867403",
-        "description": "moneygram.com Revenue $1.24 Billion MoneyGram global money transfer network moving nearly $200 billion a year through almost 500,000 retail agent locations in 200+ countries and serving 60 million+ active customers, with over 70% of transactions now digital. It earns mainly from transfer fees plus currency exchange spreads, not from owning stores, since almost all locations are partner agents like post offices and grocery chains. In 2025 it cut 449 jobs to speed up digital growth and in 2026 launched its own MGUSD dollar stablecoin and a Visa card that spends digital dollars anywhere Visa works. MoneyGram owns no factories or stores, it is a licensed money transmitter with 75+ regulatory approvals, around 2,000 employees in 36 countries, and was taken private in 2023 for $1.8 billion.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "8fdb001c-b7db-57c4-af76-a68130b59185",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Placer AI",
-        "discovered": "2026-10-10 23:49:45.723259",
-        "description": "placer.ai Revenue $136.5 Million private US company valued at $1.5 billion that sells foot traffic analytics for physical locations, estimating visits to stores, malls and offices from anonymized data on tens of millions of mobile phones with 92%+ claimed accuracy. It hit $100 million annual recurring revenue in 2024 after growing 80% in a year and serves 4,000+ customers including Sony, Wegmans, BJ's Wholesale, SeaWorld and Bloomberg, which puts Placer data into its Terminal so investors can track company performance before earnings. Money comes from SaaS subscriptions starting around $12,000 a year, API data feeds and add-on datasets, and it has raised $268 million in total funding. Around 630 employees work at Placer.ai after 150 layoffs in January 2025 aimed at reaching profitability, and it owns no factories or stores because its product is pure software and data.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "4a036031-f54e-5ccc-9212-a0e264018b29",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "KFC",
-        "discovered": "2026-10-10 23:36:54.200557",
-        "description": "kfc.com Revenue $36.4 Billion KFC runs 34,747 restaurants across 150+ countries and about 99% are franchised, run by local partners, serving roughly 1 billion chickens every year. Its restaurants sold $36.4 billion of food in 2025 with $1.5 billion in operating profit, earned mainly from 4-6% sales royalties paid by franchisees, not from selling chicken. 2025 was a record year with nearly 3,000 new restaurants opened across 105 countries, roughly one new KFC every 3 hours and 10,000 stores added in the last 5 years. KFC owns zero chicken farms or factories and buys from suppliers like Tyson Foods and Pilgrim's Pride with fresh deliveries up to 3 times a week. Around 30,000 corporate employees work for KFC worldwide while over 1 million people work across its franchise restaurants and supply network. A new U.S. KFC does about $1.5 million in average annual sales per restaurant and KFC is the world's #1 chicken chain by locations and sales.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "f10b5582-a9b4-57bb-9f85-20ee8c6f45ed",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "TEXMA International Co., Ltd",
-        "discovered": "2026-10-10 22:26:30.388249",
-        "description": "TEXMA International Co., Ltd. is a leading Taiwanese apparel manufacturer specializing in high-quality women's woven apparel, activewear, and sportswear. Founde...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "dc0cd6e3-61c8-51e1-9d49-c2d1ddc59ecd",
-        "group_name": "dragonforce",
-        "sector": "Unknown"
     }
 ]
