@@ -982,17 +982,5 @@
         "misp_uuid": "749331b6-7e24-59ab-9e4b-d30e1462c093",
         "group_name": "nightspire",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Company #24",
-        "discovered": "2026-10-12 00:30:24.678167",
-        "description": "smart building & surveillance integration · California, USA",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "16d09323-9d5e-5ffa-a419-ef23021ff0c9",
-        "group_name": "n0n",
-        "sector": "Real Estate"
     }
 ]
