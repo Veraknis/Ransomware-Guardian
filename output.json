@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "The Golden Legacy Financing",
+        "discovered": "2026-10-13 23:18:33.059239",
+        "description": "Banking",
+        "link": "/site/blog?uuid=1bfb7b37-625a-40a4-bf5c-11ff2028ddad",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "8aaeac41-740e-5482-ad88-8c0984080f25",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "[DISCLOSED]Terca",
         "discovered": "2026-10-13 20:23:11.219141",
         "description": "",
@@ -682,29 +694,5 @@
         "misp_uuid": "23cdcd31-50c9-5948-bec9-694fde02ac10",
         "group_name": "emperador",
         "sector": "Finance"
-    },
-    {
-        "post_title": "hiqbio.com",
-        "discovered": "2026-10-12 22:26:39.804319",
-        "description": "The company focuses on applying marine biotechnology to human health, animal health, functional foods and sustainable aquaculture. Its official website …",
-        "link": "/blog/post/hiqbiocom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "bb1b6f76-ea0c-59b1-85b7-db09a85db74c",
-        "group_name": "safepay",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Trailerbridge.com",
-        "discovered": "2026-10-12 22:26:03.610946",
-        "description": "76200 files containing customer data: invoices, remittances, commercial relations with major chains (Walmart, Baxter, Cardinal); customs documents (declarations, EEI, Schedule B); ...",
-        "link": "/n/Trailerbridge",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "99278f7f-1c36-514b-86de-5857753fa9c8",
-        "group_name": "brain cipher",
-        "sector": "Technology"
     }
 ]
