@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "Colorado Texas",
+        "discovered": "2026-10-14 12:32:20.594907",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5e3eb1ea-50b9-57d7-b425-bd0f913d1182",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "***o* **s**e** Solutions",
+        "discovered": "2026-10-14 12:32:19.608733",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "b5e4fe30-3912-58da-a608-20613f42a122",
+        "group_name": "nightspire",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Lane Equipment",
+        "discovered": "2026-10-14 10:31:44.826905",
+        "description": "Lane Equipment Company has been a trusted food service partner in Texas since 1966, specializing in the sales, leasing, repairs, and parts for commercial kitche...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "bb038e12-13c8-5d41-b6ab-031d0a7f6bb3",
+        "group_name": "dragonforce",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Bright Property Service",
+        "discovered": "2026-10-14 09:33:04.212680",
+        "description": "We are managing strata/individual residential landed/apartment, commercial office building, mixed development and gated & guarded communities.",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5d23bbbc-b9fe-5eb3-b400-b869fa3c696b",
+        "group_name": "orova",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Orient Corporation",
+        "discovered": "2026-10-14 09:33:02.171211",
+        "description": "Orient stands as a global leader in fire suppression solutions, offering unparalleled expertise and innovative technologies. With a commitment to environmental sustainability and cutting-edge engineering.",
+        "link": "",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "068540d0-e24d-5683-a998-90b1e6bcbcad",
+        "group_name": "orova",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Company #65",
+        "discovered": "2026-10-14 01:16:52.974158",
+        "description": "packaging manufacturing (extrusion) · Brazil",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9f108829-2a06-57d5-b2d4-ac052919ca8f",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "The Golden Legacy Financing",
         "discovered": "2026-10-13 23:18:33.059239",
         "description": "Banking",
@@ -681,18 +753,6 @@
         "private": false,
         "misp_uuid": "c973ea11-c32e-5b33-88f5-87c9e994a924",
         "group_name": "hyflock",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "CMC AUDITORES SRL",
-        "discovered": "2026-10-13 09:46:00",
-        "description": "An Argentine auditing and accounting consulting \ncompany that works with businesses in the field of accounting,\ntaxes and financial audit.\nThe archives contain several thousand documents with \npersonnel and customer data.\nPublication scheduled: 2026-10-27 09:46:53 UTC\nSize: 925.0 MB\nSectors: Finance",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/cmc-auditores-srl/",
-        "magnet": null,
-        "screen": "screenshots/emperador/CMC AUDITORES SRL.png",
-        "private": false,
-        "misp_uuid": "23cdcd31-50c9-5948-bec9-694fde02ac10",
-        "group_name": "emperador",
         "sector": "Finance"
     }
 ]
