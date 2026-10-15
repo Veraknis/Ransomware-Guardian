@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "Keio Corporation",
+        "discovered": "2026-10-15 23:15:59.426534",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=09d2df3d-43e6-4548-9df6-d318272878e0",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "c30eb123-a51b-5ac3-9439-a6b1c1797c57",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Kemlows Diecasting Products Limited",
+        "discovered": "2026-10-15 23:15:58.491183",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=4a91246b-aea6-4278-be5c-8a55947c0bd6",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "781df134-4e14-5796-b0b7-bd40e5424fd3",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "TGM Manufacturing, Inc",
+        "discovered": "2026-10-15 22:16:31.693102",
+        "description": "TGM Manufacturing provides machining services, including automobile machine-shop work.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "32a9a5d5-f600-561e-8063-65fb13ea034f",
+        "group_name": "wallstreet",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Telcoe Federal Credit Union",
+        "discovered": "2026-10-15 22:16:26.418394",
+        "description": "Banking",
+        "link": "/site/blog?uuid=73b16550-d65c-4aba-a3ee-88b2b44452ca",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e5a3f664-8714-5089-8992-2dae1323159f",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Segres Systec",
         "discovered": "2026-10-15 18:16:30.176289",
         "description": "Office Products Retail & Distribution",
@@ -574,17 +622,5 @@
         "misp_uuid": "425e59a8-238c-59a6-a4d5-3acdb651c2f3",
         "group_name": "n0n",
         "sector": "Real Estate"
-    },
-    {
-        "post_title": "P****y",
-        "discovered": "2026-10-14 21:29:36.565091",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "f8197e7c-be25-5669-92d7-73970eb62691",
-        "group_name": "payoutsking",
-        "sector": "Unknown"
     }
 ]
