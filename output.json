@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "Telecom Egypt",
+        "discovered": "2026-10-18 19:34:40.492971",
+        "description": "computer training academy · Egypt",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "2a1a348b-871b-5042-9bb6-ac562f61d1c6",
+        "group_name": "n0n",
+        "sector": "Education"
+    },
+    {
         "post_title": "All Business Technologies (Fox Hill bookkeeping and tax practice)",
         "discovered": "2026-10-18 18:32:25.753415",
         "description": "Accounting & Tax Preparation (US) · Massachusetts, USA",
@@ -274,17 +286,5 @@
         "misp_uuid": "6d2320af-0af3-555e-a9ef-d91318a37992",
         "group_name": "vexy",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Decorolala - 500 Line Sample",
-        "discovered": "2026-10-17 21:34:57.902087",
-        "description": "Canaidan based home essentials, 60,544 customers, Home addresses + ZIP Code, longitude + latitude, Phone Numbers, Emails, First Name, Last Name, UPS Tracking Number & URL (includes photos of outside house), Total Price at Checkout, Device Used at Checkout, Prodcut ID ordered, Time ordered, you get the idea as we go along. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours. Reach out to us, first warning. | Updated on 2026-10-17",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "b5761243-ddfb-51c7-9970-d14e853f120f",
-        "group_name": "byod",
-        "sector": "Unknown"
     }
 ]
