@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Whirlpool",
+        "discovered": "2026-10-21 23:25:48.512990",
+        "description": "Whirlpool is a global home appliance manufacturer (NYSE: WHR) making washers, fridges, and cooking appliances under brands like KitchenAid and Maytag. Its 2025 annual revenue was about $15.52 billion.\n\nWe hold 4,577 Whirlpool employee records across three plants, names, AD-style usernames, managers, cost centers, shifts, along with 374 corporate emails, ~22,000 SAP invoice records, and the full plant contact infrastructure. Pay, and this stays quiet. Don't, and the data goes public.\n\nWe want $140,000 in BTC or XMR. You will receive an email containing instructions on how to proceed.\n\nSamples:\nhttps://biteblob.com/Information/mNTP6w0lBW8P9l/#samples.zip\n\nContact:\nwhitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
+        "link": "/post/whirlpool",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/Whirlpool.png",
+        "private": false,
+        "misp_uuid": "e2d3e80d-77e6-5c99-ba22-12b299075f11",
+        "group_name": "whitearmor",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "K.r.. ...s",
+        "discovered": "2026-10-21 23:25:22.551698",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9daa35e9-06e4-5c68-b291-b5126bda97bd",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Hanjin Information Systems & Telecommunication Co., Ltd.",
+        "discovered": "2026-10-21 22:25:19.648003",
+        "description": "IT services · South Korea",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5e265750-ae2b-5288-8f98-45c49bf73fcb",
+        "group_name": "n0n",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "K.r.. ...",
+        "discovered": "2026-10-21 22:24:58.313260",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5cf38871-0b52-5fc8-9b2f-102ae13963cd",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "i****g",
+        "discovered": "2026-10-21 21:25:56.060659",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "b34718a6-bdad-5def-8d78-230924c1909a",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Porter Hedges LLP",
         "discovered": "2026-10-21 20:26:03.286776",
         "description": "To be announced...",
@@ -502,41 +562,5 @@
         "misp_uuid": "38b8636e-30f3-5a33-99bf-50a6495fa401",
         "group_name": "emperador",
         "sector": "Technology"
-    },
-    {
-        "post_title": "M... M...",
-        "discovered": "2026-10-20 22:21:43.885434",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d845cbfc-eb04-5e3a-a92b-6e30b6749140",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "P... H...",
-        "discovered": "2026-10-20 21:26:25.872782",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "1c1b87db-fd5d-59cd-a48e-8da9514270d7",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Graves Fireplaces, Inc.",
-        "discovered": "2026-10-20 21:26:21.780337",
-        "description": "Country: Cumming, Georgia, US |\nWebsite: www.gravesfireplaces.com |\nRevenue: $5.3 Million |\nIndustry: Hearth Products, Fireplace Sales and Installation |\nEmployees: 20-50 |\nProperties: 76.1 GB (77,117 Files, 5,170 Folders)",
-        "link": "/project/a239gXcMizrSgN8t/",
-        "magnet": null,
-        "screen": "screenshots/global secret group/Graves Fireplaces, Inc.png",
-        "private": false,
-        "misp_uuid": "6f8f10f4-f48d-5bf1-8b30-01edf7e4160f",
-        "group_name": "global secret group",
-        "sector": "Unknown"
     }
 ]
