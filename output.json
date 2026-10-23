@@ -1,5 +1,137 @@
 [
     {
+        "post_title": "Sanders Law Group",
+        "discovered": "2026-10-23 22:22:46.670998",
+        "description": "Sanders Law Group\nDATA SALE LISTING - Sanders Law Group / Sanders Law Firm, PLLC (Uniondale, NY)Target: Sanders Law Firm, PLLC (d/b/a Sanders Law Group; former brands - Barshay Sanders PLLC, Baker Sanders) Addresses: 333 Earle Ovington Blvd, Suite 402, Uniondale, NY 11553 � 100 Garden City Plaza, Garden City, NY 11530 Phone: (516) 203-7600 � Owner: Craig B. Sanders, Esq. (founding partner) Size: ~8 TB � 4.5 million files � 2005�2026, history through most recent Format: full file-server clones + 2 dumps of the firm's ARES case-management DB + mail archives (33 PST, ~120 GB + 2,479 mailbox dumps)Who they are and who they work withA high-volume litigation factory out of Long Island, NY, running three conveyor-belt practices:FDCPA mill - 9,332 mass cases against banks and collectors. Their evidence pipeline: 1,144 audio recordings of their own clients' calls with banksCopyright machine - ~17,000 'photo-enforcement' suits. In January 2022 Sanders bought the entire practice of Richard Liebowitz � the most-sanctioned copyright attorney in U.S. history (discredited, bar-suspended). Included: the executed Asset Purchase Agreement, a confidential WZMP settlement (7 versions incl. redlines), the acquired book of cases and clients, and solicitation letters to poach his client listFCRA litigation vs Equifax, Experian, TransUnion � 953 cases. Plus a dedicated Equifax SRAs folder: executed settlements with Equifax LLC, named client by client, alongside their full credit disclosuresCorporate clients/partners in the files: The Mega Agency, Pixsy (exclusive enforcement deals), Signature Health Center / CareHealth (healthcare), Chase debt-buyer packages, Esquire Funding (litigation finance - loan agreements, commission invoices). Case-management dev outsourced to an Indian shop (neuralit.com).Active matters right now: 6,098 (of 30,671 total in the DB).What's inside - value breakdownPractice-side (the firm's jugular)Full ARES DB (2 dumps) - all 30,671 cases with settlement offers/demand ceilings in 13,413 files (up to $4,000,000 per case), statuses, internal notes, deadlines. Publication - burned negotiation positions across every active case at once2,342 executed CONFIDENTIAL settlement agreements (e.g., NationalPhoto v. Entravision + dozens more) - bearing secrecy clauses the firm itself is liable for1,315 documents of the firm's own sanctions and discipline: court orders on sanctions motions, a DFS Disciplinary Stipulation, 6� 'Notice of Attorney Sanction' filings, public discipline ordersBanking & trusts11 accounts, 562 statements, incl. attorney trust accounts IOLTA NY (�9068) and IOLTA NJ (�2302) - bar-mandated audit territory = direct license threat for every named attorneyWire instructions for the client fund �6327 (JPMorgan Chase)Partnership tax returns 2015�2020 (Form 1065, TurboTax source files), payroll, full HR (I-9s, staff employment contracts, employee handbook)Client PII � industrial scale12,803 full credit reports of the firm's own plaintiff-clients20,106 W-9/1099 forms, 520 files: SSN cards / passports / driver licenses / birth certificates1,471+ medical records (named patients, incl. NYUI files)CRM: 5,352 clients + 13,178 leads with phones/emails32,816 executed retainer agreementsOwner-level leverage (Craig B. Sanders)His 2022 divorce: Judgment of Divorce (Michelle Sanders v. Craig Sanders) + settlement stipulation + sworn Net Worth Statement + brokerage/bank statementsBonus: the firm's 78-page FBI IC3 criminal complaint dated 08/22/2026Email � 20 years33 legacy PSTs (~120 GB) + 2,479 mailbox dumps + daily email backups (2013�2014)Freebies: office password lists in plaintext, owner's Chrome password export, court ECF login sheets.\n\n\n\nMore",
+        "link": "archive.php?company=286",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Sanders Law Group.png",
+        "private": false,
+        "misp_uuid": "ab9363e9-4cac-52b8-897c-93b11cd8e282",
+        "group_name": "rhysida",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Company #110",
+        "discovered": "2026-10-23 22:22:42.072314",
+        "description": "smart grid engineering firm · Spain",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "a278f453-c537-51b9-ad03-1a668e7a9ba4",
+        "group_name": "n0n",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Madison Honda",
+        "discovered": "2026-10-23 22:22:21.065483",
+        "description": "http://www.madisonhonda.com/\n\t\t\t\t\t\t\t\t\tMadison Honda, located in Madison, New Jersey, offers a wide selection of new and used vehicles, as well as flexible financing options.They are negligent when it comes to their own security and that of their customers, which is why we disclose non-public personal information (NPI) and personally identifiable information (PII) protected by laws such as the Gramm-Leach-Bliley Act (GLBA).This includes transaction data, vehicle purchase records, lease agreements and financing terms, credit reports, income information, loan balances, and banking information. We also store transaction files (these documents contain both personal customer information and the dealership's pricing and negotiation strategies, customer orders, sales contracts, lease agreements, financing documents, and title deeds), documents containing the dealership's internal pricing policies or financing strategies, and internal operational data.",
+        "link": "http://madisonhonda.ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/",
+        "magnet": null,
+        "screen": "screenshots/interlock/Madison Honda.png",
+        "private": false,
+        "misp_uuid": "6743a673-6752-504e-bd9a-314d2996d07b",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Custom Floors Unlimited",
+        "discovered": "2026-10-23 22:22:20.145665",
+        "description": "https://customfloorsunlimited.com/\n\t\t\t\t\t\t\t\t\tCustom Floors Unlimited designs and installs high-quality, custom-made solid wood flooring. They specialize in creating unique designs. However, they do not specialize in ensuring their own security or the security of their customers' data. Therefore, we provide you with confidential HR/payroll documents, financial/tax documents, customer contracts and commercial transactions, supplier/legal/insurance files, and IT credentials. A data breach can lead to identity theft, financial fraud, loss of trade secrets and customer trust, regulatory/law enforcement fines, litigation, and reputational damage.",
+        "link": "http://customfloorsunlimited.ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/",
+        "magnet": null,
+        "screen": "screenshots/interlock/Custom Floors Unlimited.png",
+        "private": false,
+        "misp_uuid": "899aad2e-6479-56f2-8986-3c88943d0427",
+        "group_name": "interlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "whitearmor.cc",
+        "discovered": "2026-10-23 21:29:57.321281",
+        "description": "Hi! \n\nWe now have a clearnet domain for easy-access.\n\nWhiteArmor.cc",
+        "link": "/post/whitearmor-cc",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/whitearmorcc.png",
+        "private": false,
+        "misp_uuid": "b2b8db1d-142f-5d9d-8aa1-a37911f76dda",
+        "group_name": "whitearmor",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "vinsolutions.com",
+        "discovered": "2026-10-23 21:29:54.599241",
+        "description": "VinSolutions is an automotive CRM platform that helps car dealerships manage leads, track sales, and improve customer relationships.",
+        "link": "/breaches#43314a0f08009baccb",
+        "magnet": null,
+        "screen": "screenshots/scarlettgroup/vinsolutionscom.png",
+        "private": false,
+        "misp_uuid": "3173c617-c752-5ca1-98e7-ee24e9fa340d",
+        "group_name": "scarlettgroup",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "von Schaewen",
+        "discovered": "2026-10-23 21:29:51.099878",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=aafbe9f6-de87-410b-a943-ba532627bcb4",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "6474d021-4fee-533d-8018-a195f793ae10",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Tamponnt",
+        "discovered": "2026-10-23 21:29:50.175300",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=67a1ef97-2d85-4129-a249-c324edbba74a",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ce7b9fdf-f93e-5290-a8b7-1fa614c8c288",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "zelsior.es",
+        "discovered": "2026-10-23 21:29:45.539233",
+        "description": "Founded in 2015, we have become the leading firm in comprehensive, technology-driven legal debt reco...",
+        "link": "/post/fdb5a095bea4087c5b7c06fcc21c5c4b",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/zelsiores.png",
+        "private": false,
+        "misp_uuid": "ddaebb31-0518-5d1c-894b-d73d820d57c2",
+        "group_name": "lockbit5",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "mickeybody.com",
+        "discovered": "2026-10-23 21:29:16.096877",
+        "description": "Mickey Truck Bodies has been family owned and operated since the company was started in High Point, NC in 1904. Today Mickey manufactures all-aluminum beverage bodies and beverage trailers, dry freight and refrigerated van bodies, emergency vehicles and specially engineered equipment for customers t…",
+        "link": "/8wJ9fvDbIuCiZclLki6ykBu0KHqsHNWU/mickeybody-com",
+        "magnet": null,
+        "screen": "screenshots/chaos/mickeybodycom.png",
+        "private": false,
+        "misp_uuid": "29a717c8-3341-52e7-9799-b9cfd0d9b8e2",
+        "group_name": "chaos",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "ARX Group SA",
+        "discovered": "2026-10-23 21:29:13.766373",
+        "description": "ARX Group SA — one of Switzerland's premier engineering consultancies, with 25+ offices in 17+ countries, known for iconic projects including the Ceneri Base Tunnel and dozens of USTRA/SBB federal infrastructure contracts.\n\nThe exposed material includes:\n\n<redacted>\n<redacted>\n9,510 project fee structures with internal/external billing rates for every engineer — the complete pricing intelligence for one of Switzerland's largest infrastructure consultancies.\n<redacted>\n<redacted>\n8 GB of Ceneri Base Tunnel documentation — as-built engineering records for Swiss national critical infrastructure.\n881,205 time entries spanning years of daily work activity for every employee, with task descriptions and project assignments.",
+        "link": "/blog/arx-group-sa-28b9fe22",
+        "magnet": null,
+        "screen": "screenshots/aurora/ARX Group SA.png",
+        "private": false,
+        "misp_uuid": "e1ab6811-d449-5141-bebe-d879c8796dfa",
+        "group_name": "aurora",
+        "sector": "Government"
+    },
+    {
         "post_title": "Bravilor Bonamat",
         "discovered": "2026-10-23 20:32:10.637339",
         "description": "Bravilor Bonamat is a family-owned manufacturer of professional coffee machines and hot water dispensers. The company offers espresso, filter, fresh brew, instant coffee, and bulk brewing solutions designed for offices, restaurants, hotels, retail locations, and other commercial environments.We will upload 100gb of corporate data soon. Employee personal information (passports, drivers licenses and so on), customer information, contracts and agreements, confidential information (partners personal documents), lots of NDAs and so on.",
@@ -214,6 +346,18 @@
         "misp_uuid": "d0224bb0-02bd-5f12-a2b5-d2030b9bcfa7",
         "group_name": "lockbit5",
         "sector": "Retail"
+    },
+    {
+        "post_title": "JS Constructor, INC",
+        "discovered": "2026-10-23 16:32:00",
+        "description": "JS Contractor Inc. is a Philippine recruitment and manpower agency that specializes in recruiting, screening, processing, and deploying Filipino workers for overseas employment. Established in 1977, the company connects qualified applicants with international employers across industries such as manufacturing, engineering, technical services, and skilled labor. Through its website, applicants can explore job opportunities, submit applications, and access information about overseas employment.\n\nWe have all your critical files, encrypted with the strongest encryption, along with over 150,000 resumes and applicants' vaccination records. This includes 3.5 GB of your databases containing sensitive applicant information. PI and SPI data. A total of millions.\n\nContact us, or we will publish your applicants' data and critical files. Other threat actors will use it for identity theft and other crimes. We will ensure your company's reputation will be in hell. Your business integrity will be compromised. Loss of stakeholders will follow. And the company's credibility will be damaged. This will be your downfall. \n\nsession: 05690c095fbbc61a04e6bdb09d92c535f4866f571db2e2d54e31bbb245ac886d43\nHomepage: emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion\nClient: emprdrcfhpvym7uwqvxky6ympquibzxfxuor6qeexk7lz3sxz5t2ubqd.onion/client\nPublication scheduled: 2026-11-12 16:32:02 UTC\nSize: 3.5 GB\nSectors: Other",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/js-constructor-inc/",
+        "magnet": null,
+        "screen": "screenshots/emperador/JS Constructor, INC.png",
+        "private": false,
+        "misp_uuid": "839245dd-28e9-5ba3-b9d8-ef923777902f",
+        "group_name": "emperador",
+        "sector": "Technology"
     },
     {
         "post_title": "Wah Chan Consolidated Sdn Bhd",
@@ -453,18 +597,6 @@
         "private": false,
         "misp_uuid": "ff31bf83-5f94-5ca5-a2c1-46557da50528",
         "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "M... C...",
-        "discovered": "2026-10-22 22:32:17.602882",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "428af776-a7f0-519e-b41f-10c05ba69d13",
-        "group_name": "leakeddata",
         "sector": "Unknown"
     }
 ]
