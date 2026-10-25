@@ -310,29 +310,5 @@
         "misp_uuid": "807d809b-7070-57dc-a8b8-b2f74014c313",
         "group_name": "cloak",
         "sector": "Government"
-    },
-    {
-        "post_title": "Synergy Engeneering",
-        "discovered": "2026-10-24 21:22:55.238869",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c6a1d499-5dde-52e6-bb33-ee1997ea63fa",
-        "group_name": "securotrop",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Vins Viallet",
-        "discovered": "2026-10-24 19:20:38.756718",
-        "description": "vins-viallet.com - Vins Viallet is a French family-owned wine producer and distributor based in the Savoie region. Founded in 1966, the company produces and markets a range of wines, including white, red, rosé and sparkling varieties, serving retail and wholesale",
-        "link": "/post/ad10729196bfae1e58eb75aa8ae7536f",
-        "magnet": null,
-        "screen": "screenshots/lamashtu/Vins Viallet.png",
-        "private": false,
-        "misp_uuid": "304c13de-ad8c-507f-aaa3-b01a61c106db",
-        "group_name": "lamashtu",
-        "sector": "Retail"
     }
 ]
