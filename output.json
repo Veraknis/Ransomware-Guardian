@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Morrison Cohen",
+        "discovered": "2026-10-26 22:23:54.863724",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "926863eb-8c3d-5f74-8354-bb7818abeebd",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "University of New Mexico",
+        "discovered": "2026-10-26 21:23:23.996029",
+        "description": "[PSA] 36,000 Machines Compromised, both AD forests (Main Campus + Hospital Sector(with appointments, patient information + research)) With GPOs, Two Oracle databases, every student + employee PII (including SSNs), research information, entire Entra Tenant, Oracle HR + Payroll + Banner Student Records, Internal Emails, Cerner EHR rosters. This is your entire network and infrastructure compromised, the entire university COMPLETELY. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours. | Updated on 2026-10-26",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "7b9fc84f-a8c4-549e-9de1-fe27455091e3",
+        "group_name": "byod",
+        "sector": "Education"
+    },
+    {
         "post_title": "MISC Group",
         "discovered": "2026-10-26 20:25:45.050272",
         "description": "MISC Group\nIncorporated in 1968, MISC Group is a world leading provider of international energy-related maritime solutions and services.29,841 files , 28.4 GBComplete command workstations: Master, Chief Officer and Bridge user folders - 16,918 files / 15.5 GB, including PST mail archives;Crew personal data (PDPA breach): IMO FAL Form 5 crew lists for ~30 seafarers with passport numbers (Malaysia/Philippines/Indonesia/India), Seafarer Employment Agreements with DOB, home addresses and salaries, a full scan of the 4th Officer's PRC passport;Every ship's password: ECDIS, CCTV, AIS, fire & gas alarm panels, door access codes, the Ship Security Plan (ISPS) password, NS5/Dualog mail accounts, domain admin credentials, OCIMF/SIRE web account;Internal investigations: complaint against the Chief Engineer (on-board assault/harassment, 25.08.2026), FR-HR25 investigative report;Incidents: vessel listing during (de-)ballasting - twice, one incident not reported to the flag state; a series of near-misses (VDR sensor failure, radar misuse during collision avoidance);Compliance gap: ~20 internal ISM non-conformities (rusted cargo pipelines, HV gloves expired since 2021) vs 'clean' statutory ABS audits of 17.10.2025; Japan PSC deficiency (Himeji, 09.12.2025) + Statements of Fact from 4 officers;Drydock & charter documentation: repair specs (SQLite MSL), ExxonMobil/APLNG delivery & redelivery certificates, CTMS custody-transfer data, full e-docs and ship plans\n\n\n\nMore",
@@ -10,6 +34,18 @@
         "misp_uuid": "c03f329a-0054-5a14-a824-5b970834087e",
         "group_name": "rhysida",
         "sector": "Energy"
+    },
+    {
+        "post_title": "Afflelou",
+        "discovered": "2026-10-26 20:14:00",
+        "description": "Alain Afflelou is a leading European franchisor of optical and hearing aid products, founded in France in 1972. The company operates a robust network of over 1,500 stores across 20 countries, driven by aggressive marketing innovations like its famous \"Tchin-Tchin\" multi-pair offer.\n\nKey Figures\n\n• Network Revenue: €1.13 billion (TTC) for the fiscal year ending July 2025\n• Corporate Revenue: €447.3 million (excl. taxes), generated from corporate stores and franchise fees.\n• Core Segments: Eyewear and audioprosthetics.\nPublication scheduled: 2026-11-03 20:19:23 UTC\nSize: 11.1 MB\nSectors: Retail",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/afflelou/",
+        "magnet": null,
+        "screen": "screenshots/emperador/Afflelou.png",
+        "private": false,
+        "misp_uuid": "b7dee50a-5547-5eee-8f46-fafdcb25ed47",
+        "group_name": "emperador",
+        "sector": "Technology"
     },
     {
         "post_title": "Ingelectus Innovative Electrical Solutions S.L.",
@@ -802,17 +838,5 @@
         "misp_uuid": "3747e0a6-1c5b-5de9-9ddd-5fd278342ce5",
         "group_name": "payload",
         "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Advantage Sintered Metals ",
-        "discovered": "2026-10-25 22:24:26.396556",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "2b8ebaba-d8b3-566e-9d69-23051a94ce7b",
-        "group_name": "securotrop",
-        "sector": "Unknown"
     }
 ]
