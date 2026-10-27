@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "https://t.me/whitearmorxd",
+        "discovered": "2026-10-27 23:25:07.781221",
+        "description": "Hi, join our telegram channel for fun.. i guess\n\nhttps://t.me/whitearmorxd",
+        "link": "/post/https-t-me-whitearmorxd",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/tmewhitearmorxd.png",
+        "private": false,
+        "misp_uuid": "82cb7c62-b85b-58f3-a5c2-7b662b7412c6",
+        "group_name": "whitearmor",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Machelen (Belgium)",
+        "discovered": "2026-10-27 23:25:05.080685",
+        "description": "Machelen (Belgium)\nMachelen (Belgium) - municipal and social welfare (OCMW) file servers1.3 million files, ~2.9 TB. Working copy + backup copy (lawer2/lawer3). Language: Dutch, partly French.Contents:Social welfare and migration service client files: passports, ID cards, residence permits, sick notes.WZC nursing home: medical files, staff HR dossiers, workplace accidents.Civil status records (births, marriages) with national register numbers (NISS/RRN).Payslips, financial data.Correspondence (~23k messages), employee home folders.Databases and backups: full OCMW database backup (6 GB, 09/2026), 645 .mdb databases, 12,873 .dbf, 110 .bak (17 GB).Verified: 13,319 files with personal data. Among them - a valid Belgian ID card (expiry 02/2029), Belgian and Moroccan passports, national register numbers (RRN), sick notes with patient addresses, medical documents (GDPR Art. 9 special categories).\n\n\n\nMore",
+        "link": "archive.php?company=288",
+        "magnet": null,
+        "screen": "screenshots/rhysida/Machelen (Belgium).png",
+        "private": false,
+        "misp_uuid": "919a70ea-be3c-5735-9b25-2d419e4c9aac",
+        "group_name": "rhysida",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Bi Link",
+        "discovered": "2026-10-27 22:00:50.505130",
+        "description": "bi-link.com Revenue $380.2 Million  Bi-Link US precision manufacturer founded in 1961 (HQ Bloomingdale, IL), making metal stampings and injection-molded plastics with in-house tooling and assembly for automotive, medical, wireless, and consumer electronics OEMs. It owns plants in Shanghai, Nanning, Mexico (Juárez), and a new Vietnam site (2024), offering prototype-to-production under one roof. Revenue isn't reliably public — broker estimates range wildly from ~$10M to $50M, but a TaiPEX filing suggests ~$5M+/month after consolidation. The critical development: in October 2025 family owners agreed to sell the company to Taiwan-listed Donpon Precision, closed and consolidated from Jan 2026. Despite the site still claiming \"family-owned\", control is now Donpon's, and long-time CEO Tom Harris has exited. Certifications (ISO 9001, ISO 13485, IATF 16949) support real OEM work (e.g. Teleflex via a 3D Systems case)",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "02709916-76d6-55e5-9925-6ba6dceb7007",
+        "group_name": "the gentlemen",
+        "sector": "Manufacturing"
+    },
+    {
         "post_title": "Natsoft Corporation: 618 GB Gone, Silence Kept",
         "discovered": "2026-10-27 20:18:42.937350",
         "description": "#CyberSecurity #DataBreach #Natsoft #LeakNet #ITcompanybreach",
@@ -10,6 +46,18 @@
         "misp_uuid": "9dcf8cb2-9d81-571f-b57b-735357bb8713",
         "group_name": "leaknet",
         "sector": "Unknown"
+    },
+    {
+        "post_title": "TWICE SRL",
+        "discovered": "2026-10-27 20:12:00",
+        "description": "Сompany from the Republic of San Marino,\nassociated with the production and sale of fashion clothing and accessories.\nArchived personal and corporate data of employees and customers.\nPublication scheduled: 2026-11-10 20:12:23 UTC\nSize: 560.0 MB\nSectors: Manufacturing, Finance",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/twice-srl/",
+        "magnet": null,
+        "screen": "screenshots/emperador/TWICE SRL.png",
+        "private": false,
+        "misp_uuid": "dc3c8d25-fc1a-5e40-82ce-2df398ccb633",
+        "group_name": "emperador",
+        "sector": "Finance"
     },
     {
         "post_title": "Kucoin",
@@ -526,29 +574,5 @@
         "misp_uuid": "12267f13-b66e-5d94-b4c1-007c4599d835",
         "group_name": "the gentlemen",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Morrison Cohen",
-        "discovered": "2026-10-26 22:23:54.863724",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "926863eb-8c3d-5f74-8354-bb7818abeebd",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "University of New Mexico",
-        "discovered": "2026-10-26 21:23:23.996029",
-        "description": "[PSA] 36,000 Machines Compromised, both AD forests (Main Campus + Hospital Sector(with appointments, patient information + research)) With GPOs, Two Oracle databases, every student + employee PII (including SSNs), research information, entire Entra Tenant, Oracle HR + Payroll + Banner Student Records, Internal Emails, Cerner EHR rosters. This is your entire network and infrastructure compromised, the entire university COMPLETELY. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours. | Updated on 2026-10-26",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "7b9fc84f-a8c4-549e-9de1-fe27455091e3",
-        "group_name": "byod",
-        "sector": "Education"
     }
 ]
