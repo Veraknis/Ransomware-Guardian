@@ -1,5 +1,89 @@
 [
     {
+        "post_title": "rolly.io",
+        "discovered": "2026-10-29 19:38:39.505134",
+        "description": "Rolly.io is an on-chain crypto casino on Arbitrum featuring a public bankroll, transparent bonus formulas (rakeback, weekly bonuses), and active player reward systems.\n\nWe hold 1,364 rolly.gg player PII records with linked on-chain wallets, 430K+ ledger transactions, 11,442 wallet addresses, 155 whale payout maps, 299 deanonymized staff/CTO emails, and 313 internal chat messages.\n\nWe aren't asking for any ransom, we just thought it was funny to hack a casino that made a joke about Gamdom.",
+        "link": "/post/rolly-io",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/rollyio.png",
+        "private": false,
+        "misp_uuid": "f51cc402-68c8-5e36-907c-657d308a7526",
+        "group_name": "whitearmor",
+        "sector": "Government"
+    },
+    {
+        "post_title": "Southwest Orthopedic & Reconstructive Specialists",
+        "discovered": "2026-10-29 18:27:11.507236",
+        "description": "https://www.southwestortho.com/\n\t\t\t\t\t\t\t\t\tSouthwest Orthopedic & Reconstructive Specialists, a clinic located in Oklahoma, is required by law to maintain protected health information (PHI) as a healthcare facility. However, due to its negligent attitude toward security and unwillingness to resolve the incident, we are disclosing this confidential information, which includes databases containing more than 150,000 SSNs with patient names and addresses, as well as medical records and billing data. This violates the federal HIPAA privacy and security regulations for this clinic, as well as the Oklahoma Security Breach Notification Act.",
+        "link": "http://southwestorthopedicreconstructivespecialists.ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/",
+        "magnet": null,
+        "screen": "screenshots/interlock/Southwest Orthopedic & Reconstructive Specialists.png",
+        "private": false,
+        "misp_uuid": "71439d09-e6cc-514b-8cb0-9d1a8f66ca70",
+        "group_name": "interlock",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Antwerp House Dentistry",
+        "discovered": "2026-10-29 17:32:12.389515",
+        "description": "Healthcare Services - United Kingdom\nLocal dentist clinic based in Cambridge, London",
+        "link": "http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion/?company=af3a55e6-4185-4a98-bdd7-f79e900f1829",
+        "magnet": null,
+        "screen": "screenshots/shiba/Antwerp House Dentistry.png",
+        "private": false,
+        "misp_uuid": "fc9a6363-da73-55d0-afff-929c2a00323f",
+        "group_name": "shiba",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Y****s",
+        "discovered": "2026-10-29 17:32:07.986361",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "77525cff-57d6-54f6-a170-41be010ef73e",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "The Anglican International School",
+        "discovered": "2026-10-29 17:31:38.670676",
+        "description": "Country: Grenada.Spain |\nWebsite: aisj.co.il |\nRevenue: $11.1 Million |\nIndustry: Primary and Secondary Education |\nEmployees: 50-100 |\nProperties: 218 GB (257,960 Files, 28,378 Folders)",
+        "link": "/project/7Q5RjYTfKXnj5nth/",
+        "magnet": null,
+        "screen": "screenshots/global secret group/The Anglican International School.png",
+        "private": false,
+        "misp_uuid": "97386caa-ce4a-517b-a967-729e82dbbcc5",
+        "group_name": "global secret group",
+        "sector": "Education"
+    },
+    {
+        "post_title": "USClaims",
+        "discovered": "2026-10-29 17:31:35.616949",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "82d6be1b-f404-5c1b-9e7a-43e5547448ec",
+        "group_name": "direwolf",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "LA PROFUMERIA SRL",
+        "discovered": "2026-10-29 16:24:00",
+        "description": "Italian company working with perfumes and cosmetics.\nArchived personal and corporate data of employees and customers.\nPublication scheduled: 2026-11-12 16:24:49 UTC\nSize: 246.0 MB\nSectors: Manufacturing",
+        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/la-profumeria-srl/",
+        "magnet": null,
+        "screen": "screenshots/emperador/LA PROFUMERIA SRL.png",
+        "private": false,
+        "misp_uuid": "cec71b39-765b-5da0-b515-b85872b1e796",
+        "group_name": "emperador",
+        "sector": "Technology"
+    },
+    {
         "post_title": "as***g.com",
         "discovered": "2026-10-29 15:31:13.049115",
         "description": "Category: HR, Staffing, & Recruiting | Size: 1.35 Tb | Release: 2026-11-07T23:30:00+00:00 | Status: Scheduled",
@@ -346,77 +430,5 @@
         "misp_uuid": "66f63952-f99a-5d5a-b5db-b065dc460877",
         "group_name": "genesis",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "PQE Group",
-        "discovered": "2026-10-28 19:18:19.088066",
-        "description": "Founded in 1998, PQE Group provides technology solutions and compliance consulting services to the Life Sciences industry. The company is headquartered in Reggello, Florence.\n\nNote : The Full Data volume is coming as duplicati (dindex.zip.aes), Our Team with our Affiliates will try to enum the PassPhrase From the Target Network and Crack it with a Custom Pass lists and custom tools, We Also Gonna Share the Guide to how you as a hacker can get the hash with aescrypt2hashcat.pl and Crack it using hashcat, The Rest will depend on your Crack process to see the full data volume, We also available to Recover the data to the company when they contact us via official channels and stop the leak process, Thank you.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "e23c162f-4925-5b0b-8e90-7060842c78ae",
-        "group_name": "panzer",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Coming Soon",
-        "discovered": "2026-10-28 18:19:04.665699",
-        "description": "Coming Soon\nLOT DESCRIPTION (brief) - U.S. municipal dump: police + 911 + production SQLWhat is for sale. Municipal government of a U.S. city (California): police department, 911 dispatch center (joint authority), fire/EMS, all city services, ~1,100+ employees. ~7.8M files / ~7.8 TB. Content current through late September 2026 - SQL backups, payroll runs and 911 logs up to the final days. Live dump, not an archive. Full snapshot: entire file server, restricted police shares, the 911 center, production databases, workstation backups and terminal-server profiles.Contents. Employee home profiles �195 (~800 GB) � department shares - HR/city attorney/finance/council (~1.3 TB) � public works + utility billing for ~250K accounts (~1.3 TB) � citywide share with W-2s for all employees (~2.4 TB) � restricted police archive (~1.7 TB) � 911 center: ~6.3M call recordings over ~3 years + caller phone/address/GPS metadata (~380 GB) � SQL backups (~440 GB: dispatch CAD 17+ GB, evidence vault, crime lab, RMS, access control, MFA server).Credentials and access (sells first). Bank ACH private key + passphrase, state treasury pool PINs, corporate cards with PAN+CVV+PIN � root/enable on the network core (incl. traffic lights) � government accounts (FBI, DEA, state DOJ, CJIS, LiveScan) + 111 officer passcodes to the narcotics system � DMV certificate + password � MFA server dump (TOTP secrets, hardware-token seeds, VPN) � password templates/defaults, vendor ERP backdoor � cameras on public IPs � 13� .pfx signing certs, OAuth secrets, door/access control, map of 401 cameras, gate codes.Personal data. W-2s for all ~1,100 employees (SSN+salary+address) � applicant SSN sets � thousands of EMS patient records with SSN � 337 DMV records � credit dossiers with IRS transcripts � home addresses of the mayor and council � 911 caller GPS metadata (above) � production CAD: ~89K incidents, ~3.9K arrests, 941 warrants, 8.3K SSNs.Police kompromat. Internal Affairs master tracker (1,016 rows / ~10 years, named: use of force �239, pursuits �172, claims �223) + 25-year legacy archive (force �998, complaints �2,612) � DA 'untruthful officers' list � registry of 691 destroyed discipline files + litigation hold list � officer DUI/DV (arrests; victim of an untaken DV call later killed) � fresh 2025�26 cases (negligent discharge + lies � 58-min discipline audio included; fabricated pursuit; theft during arrest) � undercover unit rosters, named + informants (names/DLs/phones) � cold cases (suspects/witnesses) � SWAT callout sheets with personal cell phones � 81 real warrant templates with witnesses � CI/surveillance playbooks � 911 data fed to federal immigration agencies + active court fight with the state AG over surveillance data sharing � county election-office correspondence, PRA packages, protest recordings with caller numbers.Finance/mail. ~77 GB of email archives (HR investigations ~37 GB) � 13 years of payroll � grants � 4 layoff waves � asset forfeiture case files � GIS/document-system credentials.Buyers. Extortion crews (headline-ready topics already in the news cycle) � fraud (W-2/SSN/medical) � IABs (live access to a city 911/CAD is a rare lot) � plaintiffs' attorneys (new suits, case reviews) � media (ready stories) � intelligence services (undercover rosters, informants, LE-systems access) � criminals (sources and witnesses).Deal formats. Full lot exclusive � credentials package (<1 GB, samples before deal) � PII packs by class � police package for media/negotiation � first-publication rights. Freshness: A=2026 (live data), B=2024�25 (active cases), C=25+ year legacy (pattern proof).Limitations. Some containers are encrypted (passwords not recovered), video archives unreviewed; the data contains live police sources - handle with care.\n\n\n\nMore",
-        "link": "archive.php?company=291",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Coming Soon.png",
-        "private": false,
-        "misp_uuid": "6835607a-97db-5877-ba90-ba9ffff70d2a",
-        "group_name": "rhysida",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Noelker and Hull",
-        "discovered": "2026-10-28 17:18:42.658825",
-        "description": "Noelker and Hull\nNHA-FULL � US ARCHITECTURE FIRM (est. 1971) - HEALTHCARE / SENIOR-LIVING DESIGN - COMPLETE INTERNAL FILE-SERVER - FRESH TO 2026No credentials in this lot (excluded by decision). Focus: identity and familypackages, payroll SQL, tax/bank pipes, litigation, seals & signatures, 26 GB mail.SUBJECT - Noelker and Hull Associates, Inc. (Chambersburg PA, est. 1971) + KAPClegacy (Frederick MD). ~41 employees, 9 shareholders. Revenue $8.56M -> $7.01M.~990 delivered projects: Penn State Health, WellSpan, Meritus, UPMC, SelectMedical, Tower Health, Holland America, Hershey, Gettysburg College - incl.hospital & crisis-center plans.KEY NUMBERS: 990 project folders | 30+ healthcare clients | 26 GB mail |60+ SSN rows | exec passports+DL x4 | edge 2026.INVENTORY - raw files from the firm's servers, values masked, full set on close.[1] IDENTITY & FAMILY PACKAGES - FULLZ - ~80-100 PA residentsPassports+DL of the President and VP (x4); W-2 with full SSN (SSA TY2024),pay stubs (VP, YTD ~$116K, 07/2026), 401(k) x2, I-9; background checks -MD Criminal History + FBI Identity History + fingerprints.'Kennedy': SSN, mortgage 03/2024, 3 child birth certs, child medical.'Karpowicz' (employee's mother, dementia): Medicare MBI, bank accounts,Morgan Stanley check $86,650.68, returns 2022-2025, IRS POA.'Hoffman': UPMC/WellSpan medical, custody. + ~62 resumes, phones ~45.Below PA AG >500 bar - but every name is a plaintiff (Dittman) + a victim.[2] PAYROLL - Ajera ERP SQL backups, 140 tablesSSN x61+ | Salary x459 | W-2 x1151 | 1099 x991 | DirectDeposit x176 |BankAccount x1503. Full compensation/bank anatomy for payroll-diversion.[3] TAX & FINANCE - Form 1120 x4 yrs, QuickBooks (KAPC); PPP $802,480 +$803,347.83 forgiven; IRS audit TY2020 closed no-change; BlueRidge acct104729, positive-pay exports. Fraud precedent: forged checks $45.5K (2022)+ fraudulent SBA EIDL #7672918108 in the firm's name - scheme proven.[4] LITIGATION - ACTIVE: PJ Dick v. Lehigh No. 2026-C-2439, $13M+, 'designerrors, omissions' against NHA � internal assessments, stop-work, delayclaims. Fleet Landing demand ~$1.41M. Vincentian 'DO NOT MOVE OR DELETE'hold; SpiriTrust privileged folder; CIA subpoena response.[5] FORGERY KIT - signatures of 14 employees + architect seals (MD/PA); ~140Certificates of Insurance; license keys (Autodesk/Adobe) bonus.[6] COMMERCIAL SECRETS - fee pipeline 2010-2026 (5.00-8.50%, markup 10%,Hourly Rates, Past-Due notices); Meritus master specs; CAD Standards37.7 GB; aborted Olsen merger docs.[7] MAIL - ~26 GB, into 2026. Indexed sample: 6,195 msgs - 401(k)/ERISA/PHI.Rest as-is, unprobed.[+] AS-IS - encrypted browser stores x3 (OWA/banks/PayPal/USCIS listed),Credential Manager x91, .pfx, ACT! DB. Unproven, not in the price.FRESHNESS - A�live: pay stubs 07/2026, COI to 05/2027, case 2026-C-2439, mail.B�recent: Ajera, pipeline, returns 2022-25, litigation. C�archival (KAPC2009-14): W-2, background - SSN/biometrics don't expire.BUYERS - elder-fraud/fullz (1); BEC/payroll-diversion (2+3); competitor AEC (6);PA/MD plaintiff bar (1+4); contractor scams (5).DEAL - mockup only. 1. Sample: masked docs, table-list screenshot, watermarkedseal, SHA-256 manifest. 2. Escrow, multi-sig; whole lot or per-section split.3. Dead-drop container, hash check vs. manifest, proof-of-deletion on exclusive.DISCLAIMER - HYPOTHETICAL RED-TEAM SCENARIO from a confirmed forensic inventory(60 findings). Nothing is offered for sale. Credential rotation = UNVERIFIEDassumption (artifacts dated 2026). '~' = enumerated; unparsed = unproven.\n\n\n\nMore",
-        "link": "archive.php?company=290",
-        "magnet": null,
-        "screen": "screenshots/rhysida/Noelker and Hull.png",
-        "private": false,
-        "misp_uuid": "8a4a98f3-cbae-59f6-9f0a-0095e063ced5",
-        "group_name": "rhysida",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "L...",
-        "discovered": "2026-10-28 17:18:13.423229",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "cc4a1a30-b95b-5f6a-8268-2642ca435bc8",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Hauhinco",
-        "discovered": "2026-10-28 16:25:26.511243",
-        "description": "Hauhinco is a German manufacturer of high-pressure water hydraulics. The company produces plunger pumps, valves, and pump stations for mining and industry. It also develops rail-bound shunting systems for automated material handling.",
-        "link": "/posts/553c19b7-b089-4b2c-af38-c5d755cb32af",
-        "magnet": null,
-        "screen": "screenshots/payload/Hauhinco.png",
-        "private": false,
-        "misp_uuid": "14e38149-dae2-5828-a549-5504e25dc77e",
-        "group_name": "payload",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Marbre Design",
-        "discovered": "2026-10-28 16:25:25.681478",
-        "description": "Marbre Design is a French company specializing in the processing of natural stone, marble, granite, and composite materials. The enterprise custom-manufactures kitchen countertops, bathroom fixtures, fireplace surrounds, and interior architectural elements. Its core operations focus on precision cutting, slab polishing, and the on-site installation of finished products.",
-        "link": "/posts/9dc5e696-700c-4c5d-88b7-396487d81128",
-        "magnet": null,
-        "screen": "screenshots/payload/Marbre Design.png",
-        "private": false,
-        "misp_uuid": "f948a263-e71f-5520-a553-b8ed5955f529",
-        "group_name": "payload",
-        "sector": "Professional Services"
     }
 ]
