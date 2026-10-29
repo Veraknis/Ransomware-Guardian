@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Susman Godfrey LLP",
+        "discovered": "2026-10-29 23:39:46.167207",
+        "description": "Susman Godfrey L.L.P. is a premier litigation firm recognized for its exceptional courtroom talent and…",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "1b7bb489-1b17-5f6b-b99d-415746b0647d",
+        "group_name": "leakeddata",
+        "sector": "Legal"
+    },
+    {
+        "post_title": "TDS Telecommunications LLC.",
+        "discovered": "2026-10-29 22:32:13.944206",
+        "description": "Country: Madison, Wisconsin, US |\nWebsite: tdstelecom.com |\nRevenue: $1.30 Billion |\nIndustry: Telecommunications, Internet Service Providers |\nEmployees: 3,000-5,000 |\nProperties: 27.4 GB (79,679 Files, 1,943 Folders)",
+        "link": "/project/peKL2tmrm6MUe6WN/",
+        "magnet": null,
+        "screen": "screenshots/global secret group/TDS Telecommunications LLC.png",
+        "private": false,
+        "misp_uuid": "07e4b7fe-f9f9-50c5-8525-4c0394c805a1",
+        "group_name": "global secret group",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "rolly.io",
         "discovered": "2026-10-29 19:38:39.505134",
         "description": "Rolly.io is an on-chain crypto casino on Arbitrum featuring a public bankroll, transparent bonus formulas (rakeback, weekly bonuses), and active player reward systems.\n\nWe hold 1,364 rolly.gg player PII records with linked on-chain wallets, 430K+ ledger transactions, 11,442 wallet addresses, 155 whale payout maps, 299 deanonymized staff/CTO emails, and 313 internal chat messages.\n\nWe aren't asking for any ransom, we just thought it was funny to hack a casino that made a joke about Gamdom.",
@@ -321,114 +345,6 @@
         "private": false,
         "misp_uuid": "275a8733-8d5f-5ebb-8d45-78c9717214a0",
         "group_name": "anubis",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "xspringcapital.com",
-        "discovered": "2026-10-28 23:28:44.937546",
-        "description": "XSpring Capital Public Company Limited is a company that operates in the business of investing in va...",
-        "link": "/post/ed9b39cc52e5ab03735c34039a652f5d",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/xspringcapitalcom.png",
-        "private": false,
-        "misp_uuid": "3885e377-60d3-5bbc-a114-be5b261a24db",
-        "group_name": "lockbit5",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "susannecerda.com",
-        "discovered": "2026-10-28 23:28:44.115519",
-        "description": "Die Unternehmensgruppe Susanne Cerdá bietet nicht nur Dienstleistungen im Bereich Unternehmensgründu...",
-        "link": "/post/98851f019da8167a79f7e392f513b5a4",
-        "magnet": null,
-        "screen": "screenshots/lockbit5/susannecerdacom.png",
-        "private": false,
-        "misp_uuid": "1895d772-50ec-5c2a-935b-f73c634875b6",
-        "group_name": "lockbit5",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Lowenstein Sandler LLP",
-        "discovered": "2026-10-28 23:28:15.368463",
-        "description": "Founded in 1961 and headquartered in New York City, New York, Lowenstein Sandler is a national law fir…",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "dacfcec5-3ddc-5c8d-bbe7-6ff096914dd9",
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Fortrex",
-        "discovered": "2026-10-28 22:22:03.986573",
-        "description": "Fortrex is the premier provider of food safety solutions in North America, offering comprehensive sanitation services, chemical products and intervention solutions for food processing facilities. Our team of skilled food sanitors, microbiologists, technical experts and engineers are committed to keeping USDA, FDA, and CFIA processing facilities clean, safe, and audit-ready",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "459057eb-30a7-584a-b484-21b532c46c1b",
-        "group_name": "wallstreet",
-        "sector": "Agriculture"
-    },
-    {
-        "post_title": "Cyrious Software",
-        "discovered": "2026-10-28 22:21:57.668792",
-        "description": "Specialized business management software designed for sign, graphics, and print providers",
-        "link": "Companies/cyrious",
-        "magnet": null,
-        "screen": "screenshots/pear/Cyrious Software.png",
-        "private": false,
-        "misp_uuid": "28cc0b1c-76e4-5b10-b39e-f2e54f1715cd",
-        "group_name": "pear",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Morrison Foerster",
-        "discovered": "2026-10-28 21:21:54.395692",
-        "description": "Morrison Foerster is a leading international law firm with a presence in the United States, Asia, and …",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "893d60cd-39e7-5179-a9c9-007c4aa8bb7b",
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "T... E...",
-        "discovered": "2026-10-28 21:21:53.567842",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "867fa99c-b66d-5b9a-a971-1d2835dbc478",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "S... H...",
-        "discovered": "2026-10-28 21:21:52.732536",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "05a71828-0542-59cf-924a-4acda866e9d8",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "A&B Lab",
-        "discovered": "2026-10-28 21:21:47.923142",
-        "description": "Provides Laboratory Services.",
-        "link": "/588a61e90b5fb4080fb6/",
-        "magnet": null,
-        "screen": "screenshots/genesis/A&B Lab.png",
-        "private": false,
-        "misp_uuid": "66f63952-f99a-5d5a-b5db-b065dc460877",
-        "group_name": "genesis",
         "sector": "Healthcare"
     }
 ]
