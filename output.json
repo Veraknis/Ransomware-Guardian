@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "Tema Hwt",
+        "discovered": "2026-11-01 18:25:30.792812",
+        "description": "Construction - Germany\nTEMA Heizung Berlin is a company that provides heating services in Berlin. They offer a range of heating options including heating pumps, maintenance, and optimization. They also provide services for existing oil/gas heating.",
+        "link": "http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion/?company=509ad6b7-1ba2-4191-812e-c55f216203b1",
+        "magnet": null,
+        "screen": "screenshots/shiba/Tema Hwt.png",
+        "private": false,
+        "misp_uuid": "ab534642-879e-537f-ba8a-e3bbbd476b60",
+        "group_name": "shiba",
+        "sector": "Energy"
+    },
+    {
+        "post_title": "fzmb GmbH, Forschungszentrum für Medizintechnik und Biotechnologie",
+        "discovered": "2026-11-01 18:25:26.944723",
+        "description": "Healthcare Services",
+        "link": "/site/blog?uuid=f918b640-c055-4fcc-b9b3-7390a58342b0",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "005f0179-ef2a-5ec8-8bf3-0f2de1f8f68a",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Global Holding",
+        "discovered": "2026-11-01 16:25:21.570864",
+        "description": "Freight & Logistics Services",
+        "link": "/site/blog?uuid=f798ff42-e5ce-4083-aa53-6970b95c2e94",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "2801db4c-52d5-5504-96cf-7ab1b441ec9f",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "synergy.co.id",
+        "discovered": "2026-11-01 16:25:16.785551",
+        "description": "PT Synergy Risk Management Consultants (“SYNERGY”), an independent company, established in  London,...",
+        "link": "/post/4dd29260c09708342891c8d4ea0c79bd",
+        "magnet": null,
+        "screen": "screenshots/lockbit5/synergycoid.png",
+        "private": false,
+        "misp_uuid": "0d302a66-d75b-5415-bc23-1b21bc465e24",
+        "group_name": "lockbit5",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Highland Mountain Bike Park",
         "discovered": "2026-11-01 15:27:36.355240",
         "description": "http://www.highlandmountain.com/\n\t\t\t\t\t\t\t\t\tHighland Mountain Bike Park, located in Northfield, New Hampshire, USA, was founded in 2003. It bills itself as \"America's Bike Park\" and as a park 100% dedicated to mountain biking. However, its security lapses led to the compromise of customer and employee data, including contracts, and the leak of all accounting records and invoices.",
@@ -166,89 +214,5 @@
         "misp_uuid": "64d36814-4bb9-5ffc-b449-485ffe31cebd",
         "group_name": "vexy",
         "sector": "Technology"
-    },
-    {
-        "post_title": "Community Medical Center, Falls City Nebraska",
-        "discovered": "2026-10-31 18:27:36.667112",
-        "description": "0",
-        "link": "/site/blog?uuid=769ab6ef-0999-44e0-8cf6-cb9498a66da8",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "8f8aacab-4d1c-514d-b801-273fe9299a9b",
-        "group_name": "qilin",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Punta Shopping",
-        "discovered": "2026-10-31 17:31:00",
-        "description": "Commercial organization in Uruguay, located in the city of Punta del Este\nField of activity: shopping center management, rental of commercial space, retail trade and services.\nThe archive contains the most important personal data and customer data.\nPublication scheduled: 2026-11-14 17:31:34 UTC\nSize: 1.6 GB\nSectors: Finance",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/punta-shopping/",
-        "magnet": null,
-        "screen": "screenshots/emperador/Punta Shopping.png",
-        "private": false,
-        "misp_uuid": "434383fc-6c47-5b73-bf7d-5f2182803ca8",
-        "group_name": "emperador",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "**F*A *.A",
-        "discovered": "2026-10-31 17:25:57.401320",
-        "description": "",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "a39978be-6273-5abd-b3a0-4f18f38dad8e",
-        "group_name": "nightspire",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Kraft Lernen",
-        "discovered": "2026-10-31 16:24:04.552301",
-        "description": "Kraft Lernen is a German company that specializes in supplying didactic and developmental materials for kindergartens, schools, and therapeutic institutions. Its product catalog includes educational aids, Montessori materials, board games, and supplies for motor skills, creative arts, and inclusive learning. Based in Germany, the company primarily targets educators, childcare professionals, and institutional procurement for educational centers.",
-        "link": "/posts/8617c7b3-94eb-433d-b213-a1732b2f081b",
-        "magnet": null,
-        "screen": "screenshots/payload/Kraft Lernen.png",
-        "private": false,
-        "misp_uuid": "df190292-6940-5afe-b028-6aebbf9770a2",
-        "group_name": "payload",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH)",
-        "discovered": "2026-10-31 16:24:03.060035",
-        "description": "SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) is a state-owned land development company belonging to the German federal state of Saxony-Anhalt. The organization specializes in urban and regional planning, brownfield redevelopment, land resource management, and the support of infrastructure projects. It operates as a service partner for local municipalities, coordinating and implementing spatial development programs in the interests of the public sector.",
-        "link": "/posts/9c941b48-cc0f-4d2f-830c-e18b6fee3156",
-        "magnet": null,
-        "screen": "screenshots/payload/SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH).png",
-        "private": false,
-        "misp_uuid": "817e6e21-21ee-527f-a77b-a43ccd52073d",
-        "group_name": "payload",
-        "sector": "Government"
-    },
-    {
-        "post_title": "Meadows Valley School District",
-        "discovered": "2026-10-31 16:23:38.005457",
-        "description": "https://www.mvsd11.org/\n\t\t\t\t\t\t\t\t\tThe Meadows Valley School District strives to prepare all students for life's demands, adventures, and challenges. While the district offers educational services designed to foster student growth and development, its negligence in security has exposed its staff and students to the compromise of personal information. Therefore, we are providing you with confidential district documents, including student education records, protected health information, employee personnel files, Social Security numbers, payment card information, student lists, residential addresses, and phone numbers.",
-        "link": "http://meadowsvalleyschooldistrict.ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/",
-        "magnet": null,
-        "screen": "screenshots/interlock/Meadows Valley School District.png",
-        "private": false,
-        "misp_uuid": "5183d688-3bf6-58ec-bf46-c5d1612debcb",
-        "group_name": "interlock",
-        "sector": "Education"
-    },
-    {
-        "post_title": "Ridgway High School",
-        "discovered": "2026-10-31 16:23:37.162948",
-        "description": "https://www.ridgway.k12.co.us/\n\t\t\t\t\t\t\t\t\tRidgeway R-2 School District states its commitment to providing a safe and inclusive learning environment for students, however, their failure to secure your data and their failure to address this issue resulted in a breach of student and employee personal data (Social Security numbers, medical and disciplinary records) in violation of FERPA, the Colorado Student Data Transparency and Security Act (CRS 22-16-101 et seq.), the Colorado Data Breach Notification Act (CRS 6-1-716), CORA privacy exceptions, and possibly HIPAA.",
-        "link": "http://ridgwayhighschool.ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/",
-        "magnet": null,
-        "screen": "screenshots/interlock/Ridgway High School.png",
-        "private": false,
-        "misp_uuid": "4e9764b3-fe08-5467-93be-eeba4ce9bf9f",
-        "group_name": "interlock",
-        "sector": "Education"
     }
 ]
