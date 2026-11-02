@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Isapre Consalud",
+        "discovered": "2026-11-02 21:24:24.919766",
+        "description": "Insurance",
+        "link": "/site/blog?uuid=5992ae5d-a2e1-44b8-bb65-625c6e5d1777",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d54d1184-ac8c-5bad-bb24-07d087dad0f8",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "S... G...",
+        "discovered": "2026-11-02 21:23:58.073342",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "34f4c765-d256-5a59-8eb2-91a19028d968",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "[DISCLOSED]Namibian Defence Force",
         "discovered": "2026-11-02 17:26:19.556755",
         "description": "",
@@ -586,17 +610,5 @@
         "misp_uuid": "ac92c989-98b3-5c23-ad1e-652261de0133",
         "group_name": "byod",
         "sector": "Education"
-    },
-    {
-        "post_title": "PLAINTEXT PANIC: Patients SSNs Just Dropped in the Wild",
-        "discovered": "2026-11-01 22:23:27.296309",
-        "description": "#CyberSecurity #DataBreach #HealthSource",
-        "link": "view_article.php?article=5BWAluIctDaOBRNHK3tv1CQmdGQpjDrjb5Ii0bhW0BrkSj4cWBT3ZaAmU35yIZft",
-        "magnet": null,
-        "screen": "screenshots/leaknet/PLAINTEXT PANIC: Patients SSNs Just Dropped in the Wild.png",
-        "private": false,
-        "misp_uuid": "ef6ca392-3409-5db0-9446-78760f849a18",
-        "group_name": "leaknet",
-        "sector": "Unknown"
     }
 ]
