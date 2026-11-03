@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "Project Trojan Horse",
+        "discovered": "2026-11-03 21:24:00.041609",
+        "description": "DM us to sell your IA on $/%, working with all kinds of accesses depending on said target. \n\nRules :\n- No companies under $500kk\n- No companies in the CIS conglomerate \n- Okta, Azure, IAM Root, CRM tools , Jenkins & VPN access (Forti, Anyconnect, Citrix, Sonicwall)\n\n\nWe are also recruiting employees/insiders at various companies!\n\nIf you work at a company in the following sectors, please inquire us : \n- Education (Technology/Software, EdTech platforms, K-12 Management)\n- Software (Entreprise-grade, CRM, SaaS, HR Software, CyberSec, Productivity)\n- Insurance (Globally)\n- Hotels (Worldwide hotel groups, operators, luxury)\n- Telecommunications (Major global telecommunication companies) \n- Finance (Banking, Private equity, fintech)\n- Retail (Global retailers, supermarkets, fashion, electronics, furniture, luxury)\n- Motor (Car manufacturers, Luxury automotive brands, etc.)\n- Transportation (Aviation, Shipping, Railways/Public transportation, Mobility)\n- Logistics (Supply chain, global companies)\n\nPlease only inquiry us if you work/have access to companies that are med/largely sized from these industries/sectors.\n\nYou will be paid if you like depending on what you have; Contact us in order to discuss about rates (%) based deals or $ ones. Escrow is always accepted.\n\nt.me/whitearmorsupp / @whitearmorsupp on Telegram.\n\n\"Every collectivist revolution rides in on a Trojan horse of EMERGENCY.\" - Herbert Hoover (1952). “Memoirs: The great depression, 1929-1941”",
+        "link": "/post/project-trojan-horse",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/Project Trojan Horse.png",
+        "private": false,
+        "misp_uuid": "e83c9afb-fbb5-522a-9993-5fec82f382f4",
+        "group_name": "whitearmor",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Buchanan Ingersoll & Rooney PC",
+        "discovered": "2026-11-03 21:23:22.959553",
+        "description": "182 GB compressed · 260 GB uncompressed",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "bce023fd-9827-51e4-9143-4d37e4144987",
+        "group_name": "falcon",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Arthur Chapman Kettering Smetak Pikala PA",
         "discovered": "2026-11-03 16:21:54.945296",
         "description": "Law Firms & Legal Services",
@@ -274,65 +298,5 @@
         "misp_uuid": "0db79851-91e0-5aa0-95db-d107c261dd04",
         "group_name": "n0n",
         "sector": "Retail"
-    },
-    {
-        "post_title": "Isapre Consalud",
-        "discovered": "2026-11-02 21:24:24.919766",
-        "description": "Insurance",
-        "link": "/site/blog?uuid=5992ae5d-a2e1-44b8-bb65-625c6e5d1777",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d54d1184-ac8c-5bad-bb24-07d087dad0f8",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "S... G...",
-        "discovered": "2026-11-02 21:23:58.073342",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "34f4c765-d256-5a59-8eb2-91a19028d968",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "[DISCLOSED]Namibian Defence Force",
-        "discovered": "2026-11-02 17:26:19.556755",
-        "description": "",
-        "link": "/r/ed8ed842c88f8af1b3edb6e59a2a650d7f339f25",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "18912cf0-4e61-59bf-aca8-80c77f1309c3",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "da***t.com",
-        "discovered": "2026-11-02 17:25:47.236513",
-        "description": "Category: Logistics | Size: 473.05 Gb | Release: 2026-11-12T15:23:00+00:00 | Status: Scheduled",
-        "link": "/about/announcement/40ebf2c6-42b5-4739-ab66-5bfab11e1f88/",
-        "magnet": null,
-        "screen": "screenshots/everstake/da***tcom.png",
-        "private": false,
-        "misp_uuid": "d135b835-8670-58ed-a266-998ded8b5217",
-        "group_name": "everstake",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "ra***g.com",
-        "discovered": "2026-11-02 17:25:46.345004",
-        "description": "Category: Manufacturing | Size: 582.69 Gb | Release: 2026-11-10T15:10:00+00:00 | Status: Scheduled",
-        "link": "/about/announcement/9a36132a-0135-4295-9c73-79bdf2b0140a/",
-        "magnet": null,
-        "screen": "screenshots/everstake/ra***gcom.png",
-        "private": false,
-        "misp_uuid": "b213e0a8-55fd-5e23-9fb3-b2b33ba95379",
-        "group_name": "everstake",
-        "sector": "Unknown"
     }
 ]
