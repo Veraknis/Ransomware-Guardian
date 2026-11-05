@@ -1,5 +1,29 @@
 [
     {
+        "post_title": "ZipAI",
+        "discovered": "2026-11-06 00:23:49.712808",
+        "description": "ZipAI is a Vietnam-based AI technology platform providing artificial intelligence solutions for image generation, image editing, voice generation, video personalization and chatbot development. Its services include AI-powered photo restoration, face swapping, virtual clothing changes, product image background editing, image enhancement and automated customer communication. The company also provides AI training and personalized AI solutions for businesses and content creators.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "404d830a-467b-56da-a1ba-873c56302a1b",
+        "group_name": "vexy",
+        "sector": "Education"
+    },
+    {
+        "post_title": "W... R...",
+        "discovered": "2026-11-05 23:22:34.104024",
+        "description": "To be announced...",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ee16d68e-3f32-5809-a117-4de57607508c",
+        "group_name": "leakeddata",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Insurance Audit Services",
         "discovered": "2026-11-05 21:22:40.039653",
         "description": "Insurance",
@@ -261,78 +285,6 @@
         "private": false,
         "misp_uuid": "ddd33bf1-bc43-55e2-b4f3-372d271e9ac4",
         "group_name": "majinahanashi",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "TFG London",
-        "discovered": "2026-11-04 23:23:21.195785",
-        "description": "",
-        "link": "/r/c49641cd660fad465281e26e0734481866f38458",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "3dd7e58a-3c61-529f-a85a-40be3d8e214a",
-        "group_name": "ransomhouse",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "K... R...",
-        "discovered": "2026-11-04 23:22:51.685179",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "b12d5bb9-e146-528e-90b2-dd633020f53c",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Aripack",
-        "discovered": "2026-11-04 22:26:17.081500",
-        "description": "",
-        "link": "topic.php?id=e6Z2hYmCZ6UnEl",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "7f1311c1-080a-55bc-a5a8-c1dc4aeaabec",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "StrucSure Home Warranty",
-        "discovered": "2026-11-04 22:26:16.236858",
-        "description": "",
-        "link": "topic.php?id=9DQxUu6f9HjEe2",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "afb95650-82f1-5dfb-ad12-5fa45ebd9b73",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Standard Sand & Silica",
-        "discovered": "2026-11-04 22:26:15.414061",
-        "description": "",
-        "link": "topic.php?id=cfqLpRcmr3oVuB",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "0b77d72e-1c2d-5b2e-a9b0-b968b6da24ee",
-        "group_name": "play",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Misura",
-        "discovered": "2026-11-04 22:26:14.552996",
-        "description": "",
-        "link": "topic.php?id=8VcHhQHZNW4A8T",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "733b5a98-54f9-55e2-94d2-ff4f55c97d9b",
-        "group_name": "play",
         "sector": "Unknown"
     }
 ]
