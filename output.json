@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "Acondistec",
+        "discovered": "2026-11-07 00:28:57.671952",
+        "description": "Software",
+        "link": "/site/blog?uuid=dd396ba1-b73b-42e2-b53e-ef86e2ba1351",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e7ce9045-68ef-52ec-8163-4b3a7d69242e",
+        "group_name": "qilin",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Xinos Construction",
         "discovered": "2026-11-06 21:25:18.275383",
         "description": "A construction management company.",
@@ -262,29 +274,5 @@
         "misp_uuid": "a1a66250-0873-529c-98df-4f46e8c690a7",
         "group_name": "n0n",
         "sector": "Technology"
-    },
-    {
-        "post_title": "ZipAI",
-        "discovered": "2026-11-06 00:23:49.712808",
-        "description": "ZipAI is a Vietnam-based AI technology platform providing artificial intelligence solutions for image generation, image editing, voice generation, video personalization and chatbot development. Its services include AI-powered photo restoration, face swapping, virtual clothing changes, product image background editing, image enhancement and automated customer communication. The company also provides AI training and personalized AI solutions for businesses and content creators.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "404d830a-467b-56da-a1ba-873c56302a1b",
-        "group_name": "vexy",
-        "sector": "Education"
-    },
-    {
-        "post_title": "W... R...",
-        "discovered": "2026-11-05 23:22:34.104024",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "ee16d68e-3f32-5809-a117-4de57607508c",
-        "group_name": "leakeddata",
-        "sector": "Unknown"
     }
 ]
