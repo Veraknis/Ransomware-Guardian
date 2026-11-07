@@ -1,5 +1,53 @@
 [
     {
+        "post_title": "BOSH Engineering Private Limited",
+        "discovered": "2026-11-07 19:27:55.761436",
+        "description": "Architecture, Engineering & Design",
+        "link": "/site/blog?uuid=83aea337-6e5a-4c9e-bfdf-569ef6fa582a",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "96e39f57-41aa-553d-9d61-9c4addb7087a",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "J. J. Louro Pereira",
+        "discovered": "2026-11-07 19:27:54.967828",
+        "description": "Furniture",
+        "link": "/site/blog?uuid=0c4a0ad4-d59f-4e9e-8010-6cbdfbc4de6b",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "753851d9-2b8b-501d-a2c3-1a8364e556de",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Simply UK",
+        "discovered": "2026-11-07 19:27:54.120087",
+        "description": "Construction",
+        "link": "/site/blog?uuid=b3d57d7b-a41a-4d24-8bad-f86bcb6609e4",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "296193f4-2af9-52f7-a2d7-e8512b5484cf",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "AXE - EXPERTS",
+        "discovered": "2026-11-07 18:30:47.066908",
+        "description": "Finance",
+        "link": "/site/blog?uuid=ad19ac70-c97e-4b6d-b610-829af43b6896",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "8b520d0d-964a-5d48-98ca-311678d053d3",
+        "group_name": "qilin",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Tribunal de Justica do Estado de Minas Gerais",
         "discovered": "2026-11-07 13:30:50.822086",
         "description": "Tribunal de Justica do Estado de Minas Gerais\nTJMG provides judicial services and information to citizens and legal professionals in Minas Gerais.\n\n\n\nMore",
@@ -394,41 +442,5 @@
         "misp_uuid": "bda92dce-13f8-5356-b33c-dc2af831e348",
         "group_name": "leakeddata",
         "sector": "Government"
-    },
-    {
-        "post_title": "B... law",
-        "discovered": "2026-11-06 17:25:08.155268",
-        "description": "To be announced...",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "375348b3-493e-5ce8-83ad-4db45c8ee93e",
-        "group_name": "leakeddata",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "Ligne Roset",
-        "discovered": "2026-11-06 16:25:00.026168",
-        "description": "Since 1973, Ligne Roset has stood by these intrinsic values and has worked with only the most exciting and talented designers.We will upload 150gb of corporate data soon. Employee personal information (passport, DLs), contracts and agreements, financial, confidential files, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c67eb035-cf56-5d4e-ba36-1dbf15e475a5",
-        "group_name": "akira",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Houston Machine and Thread",
-        "discovered": "2026-11-06 16:24:59.156609",
-        "description": "Houston Machine and Thread was founded by industry veterans in 2024 to bring a simplified, highquality experience to the procurement and manufacturing of studs, tap ends, and machined parts.We will upload 10gb of corporate data soon. Employee personal information (passport, DLs, SSNs,I9  complete forms and so on), contracts and agreements, financial, confidential agreement, NDAs and so on.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "d7fd2107-a40d-577a-a801-21e4aecffeda",
-        "group_name": "akira",
-        "sector": "Technology"
     }
 ]
