@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Coopebis",
+        "discovered": "2026-11-08 19:27:07.471588",
+        "description": "Coopebis is a Colombian savings and credit cooperative (Cooperativa de Ahorro y Crédito) providing financial services and social benefits to its members. The organization offers loans, savings accounts (including specialized plans for children), and various welfare benefits.",
+        "link": "https://coopebis.coop/",
+        "magnet": null,
+        "screen": "screenshots/deadlock/Coopebis.png",
+        "private": false,
+        "misp_uuid": "8ec4540f-53a8-5cce-b28c-c06b7ab9c023",
+        "group_name": "deadlock",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Calmont Wire & Cable",
+        "discovered": "2026-11-08 19:27:02.493924",
+        "description": "Calmont Wire & Cable is a leading custom wire and cable manufacturer known for its innovative solutions in medical, robotics, aerospace, military, and sensor applications. The company offersa wide range of products including completely custom cables, ultraflexible wires, and high-temperature cables, as well as services such as custom design, prototyping, and testing.We will upload 10gb of corporate data soon. Employee personal information (passport, DLs, SSNs), contracts, customer information, financial, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4370725d-0b82-502e-833f-28dce02a4e08",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Trinity Custom Homes - USA",
+        "discovered": "2026-11-08 16:25:14.953995",
+        "description": "Trinity Custom Homes is a custom home builder that specializes in building 100% custom, solid wood homes directly on the customer’s land across several states in the Southeast, including Georgia, Alabama, North Carolina, South Carolina, and Tennessee.",
+        "link": "https://trinitycustom.com/",
+        "magnet": null,
+        "screen": "screenshots/deadlock/Trinity Custom Homes - USA.png",
+        "private": false,
+        "misp_uuid": "f0816a1f-d0c7-52a1-a6b9-37c67127c756",
+        "group_name": "deadlock",
+        "sector": "Real Estate"
+    },
+    {
         "post_title": "IE & E Industries",
         "discovered": "2026-11-08 15:25:34.827204",
         "description": "At IE & E, we are committed to providing our customers with the best mechanical and electromechanical engineering services, advanced metrology services for all industries, and standard optical comparator charts and screens.",
@@ -274,53 +310,5 @@
         "misp_uuid": "750f2a55-d44c-5c61-9fab-d3755acb8614",
         "group_name": "qilin",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "BOSH Engineering Private Limited",
-        "discovered": "2026-11-07 19:27:55.761436",
-        "description": "Architecture, Engineering & Design",
-        "link": "/site/blog?uuid=83aea337-6e5a-4c9e-bfdf-569ef6fa582a",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "96e39f57-41aa-553d-9d61-9c4addb7087a",
-        "group_name": "qilin",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "J. J. Louro Pereira",
-        "discovered": "2026-11-07 19:27:54.967828",
-        "description": "Furniture",
-        "link": "/site/blog?uuid=0c4a0ad4-d59f-4e9e-8010-6cbdfbc4de6b",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "753851d9-2b8b-501d-a2c3-1a8364e556de",
-        "group_name": "qilin",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "Simply UK",
-        "discovered": "2026-11-07 19:27:54.120087",
-        "description": "Construction",
-        "link": "/site/blog?uuid=b3d57d7b-a41a-4d24-8bad-f86bcb6609e4",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "296193f4-2af9-52f7-a2d7-e8512b5484cf",
-        "group_name": "qilin",
-        "sector": "Real Estate"
-    },
-    {
-        "post_title": "AXE - EXPERTS",
-        "discovered": "2026-11-07 18:30:47.066908",
-        "description": "Finance",
-        "link": "/site/blog?uuid=ad19ac70-c97e-4b6d-b610-829af43b6896",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "8b520d0d-964a-5d48-98ca-311678d053d3",
-        "group_name": "qilin",
-        "sector": "Finance"
     }
 ]
