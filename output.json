@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "Galorath",
+        "discovered": "2026-11-14 08:24:26.041676",
+        "description": "Galorath Incorporated has invested more than two decades developing solutions to help government and commercial organizations plan and manage complex software, hardware, electronics, manufacturing and IT projects. Its suite of SEER productivity development applications is the most comprehensive estimation and management solution in the industry.We will upload 12gb of corporate data soon. Employee personal information (passport, DLs and other HR files), payment details, contracts and agreements with NASA, Airbus, Lockheed Martin, Boeing and others,  financials, NDAs and so on.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "7625f1b7-5bb4-54cc-92e9-a6b3e80a54f0",
+        "group_name": "akira",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Grundbaulabor Trier GmbH",
+        "discovered": "2026-11-14 07:23:44.026662",
+        "description": "2 posts - 5h",
+        "link": "/news/grundbaulabor-trier-gmbh",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "66084bca-3e8b-5263-9663-73d827487157",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Professional baseball club Wisconsin Timber Rattlers",
+        "discovered": "2026-11-14 04:27:07.704611",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=428f4f77-1218-460f-86da-5fe9bb0f6160",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "8044f60c-f9c9-55a4-8939-2889763f6a14",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Leonard's Express",
+        "discovered": "2026-11-14 04:27:06.719381",
+        "description": "Freight & Logistics Services",
+        "link": "/site/blog?uuid=b3ef65c4-0937-4ef2-820c-cb356a5cf9a3",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "34812c1b-4049-598f-95da-ce8629e3f454",
+        "group_name": "qilin",
+        "sector": "Transportation"
+    },
+    {
+        "post_title": "Oral Roberts University",
+        "discovered": "2026-11-14 04:27:05.789581",
+        "description": "Education",
+        "link": "/site/blog?uuid=8717c6b6-4a56-4b8a-9f2b-c9d0947e1b2a",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "039227e6-1041-5f3e-8db0-b6f8949170f5",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "The University of Texas at Arlington",
+        "discovered": "2026-11-14 04:27:04.845532",
+        "description": "Education",
+        "link": "/site/blog?uuid=7db2e6af-50c9-462d-a356-becefce791de",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "b2e889e6-5e1e-5fd1-a24a-72d5ce291c7a",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "York University",
+        "discovered": "2026-11-14 04:27:03.781911",
+        "description": "Education",
+        "link": "/site/blog?uuid=25d8b15b-b00a-4600-89fc-593ab3ee1b11",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "aeacdbbc-0405-5b74-85ef-2af9e662abd3",
+        "group_name": "qilin",
+        "sector": "Education"
+    },
+    {
+        "post_title": "VHV Company",
+        "discovered": "2026-11-14 04:22:28.174240",
+        "description": "Building plans exposed in data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/2xU6GOe9NUi64dKEwMrlnExISlpjs3n0GUucoFG+3loDV1dc28QJ7X4mc7QRtLml5AbK7D3Xmg0Rcb9Q0QVFGNSOGUwZDBN",
+        "magnet": null,
+        "screen": "screenshots/anubis/VHV Company.png",
+        "private": false,
+        "misp_uuid": "246ed849-8958-5d85-9449-1ebcdb11d60c",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Huangshi Medical Laboratory (黄石医养医学检验) / Ezong Medical Group x Getein JV",
+        "discovered": "2026-11-14 02:27:12.232006",
+        "description": "Medical laboratory / IVD supply chain (healthcare) · China\nFull data leak: 2026-11-17 20:37 UTC\nThis disclosure concerns a verified set of records from an organization in the Medical laboratory / IVD supply chain (healthcare) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, and client material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Huangshi%20Medical%20Laboratory%20%28%E9%BB%84%E7%9F%B3%E5%8C%BB%E5%85%BB%E5%8C%BB%E5%AD%A6%E6%A3%80%E9%AA%8C%29%20/%20Ezong%20Medical%20Group%20x%20Getein%20JV",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Huangshi Medical Laboratory (黄石医养医学检验)  Ezong Medical Group x Getein JV.png",
+        "private": false,
+        "misp_uuid": "00baaeaa-0538-5a00-84df-f79c23f1f814",
+        "group_name": "pixelleaks",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "Washington Mills",
+        "discovered": "2026-11-14 02:27:11.183700",
+        "description": "",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e7d93830-71db-5d63-8465-7d4d7e93e73c",
+        "group_name": "payoutsking",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Toyota",
         "discovered": "2026-11-14 00:27:16.894196",
         "description": "[PSA] Full Names, Emails, Addresses, Phone Numbers DOB, & Kiosk Devices. A lot was actually isolated, good job, however there was a few cracks we managed to slip through. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours. | Updated on 2026-11-10",
@@ -562,29 +682,5 @@
         "misp_uuid": "21c63dcd-1fa3-5ab9-8a19-8f0a46439179",
         "group_name": "pixelleaks",
         "sector": "Finance"
-    },
-    {
-        "post_title": "cey-tech.com",
-        "discovered": "2026-11-13 07:21:09.400335",
-        "description": "Ceytech Makina Sanayi ve Ticaret A.Ş. is a Turkish manufacturer of industrial machinery and equipment, established on A...",
-        "link": "/blog/045c0a8453ce102e458e3a150f2eb7fbc86185bd40c0c22be5763681d2b02dc7/",
-        "magnet": null,
-        "screen": "screenshots/krybit/cey-techcom.png",
-        "private": false,
-        "misp_uuid": "48fbb08c-5764-5903-bd59-cee3bdbc3abe",
-        "group_name": "krybit",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "Carsem",
-        "discovered": "2026-11-13 06:26:00",
-        "description": "Carsem is a leading provider of turnkey packaging and test services to the semiconductor industry, and offers one of the largest package and test portfolios in the world.\n\nSome samples of the leaked data will be made public in three days.\nPublication scheduled: 2026-11-16 06:28:42 UTC\nSize: 65.1 MB\nSectors: Manufacturing",
-        "link": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/carsem/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "7f355bf0-c844-5f9a-a2d5-d2c51441404f",
-        "group_name": "emperador",
-        "sector": "Government"
     }
 ]
