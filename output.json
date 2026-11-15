@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "Oregon Linen",
+        "discovered": "2026-11-15 22:25:25.245176",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=fef2b031-44a1-4eac-b4d1-d5f6455c4ef8",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4f6bd8f5-aef8-5d88-afe1-c571e030d644",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cole Manufacturing",
+        "discovered": "2026-11-15 22:25:24.292058",
+        "description": "Industrial Machinery & Equipment",
+        "link": "/site/blog?uuid=053e5dc0-51ba-4189-9c8c-98208fcd967d",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "050d1d40-6d0b-5aeb-bdf8-d4fbb5cd03f6",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "Kessler Soils Engineering Products",
+        "discovered": "2026-11-15 22:25:23.339845",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=de568e3d-da5f-44b5-baed-976bb2023784",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "1e605977-bb27-548e-b171-15cd5c2852cc",
+        "group_name": "qilin",
+        "sector": "Manufacturing"
+    },
+    {
+        "post_title": "The Heartland Construction Group",
+        "discovered": "2026-11-15 22:25:22.311288",
+        "description": "Construction",
+        "link": "/site/blog?uuid=4d147cdc-96ab-43e4-9f6c-e14cd1ad2188",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "15113769-721e-5ecb-ae9e-683a89ad1b0f",
+        "group_name": "qilin",
+        "sector": "Real Estate"
+    },
+    {
+        "post_title": "Atlas Evaluation & Inspection Services",
+        "discovered": "2026-11-15 22:25:21.376991",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=68cc0482-5671-49c6-ae15-4896aa624a8d",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "3b488105-fc5c-576d-8104-fd97602e2782",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Apex",
+        "discovered": "2026-11-15 22:25:20.362872",
+        "description": "Manufacturing",
+        "link": "/site/blog?uuid=51458adf-da0b-413f-bcf9-9e9b34767bad",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "09b32163-b2e3-528b-a3a4-cdb21b8b72e5",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "Starbucks",
         "discovered": "2026-11-15 20:25:59.086707",
         "description": "coffee retail · United States",
@@ -166,41 +238,5 @@
         "misp_uuid": "b9171075-ae6d-5606-9f73-f816602ba0ca",
         "group_name": "lockbit5",
         "sector": "Healthcare"
-    },
-    {
-        "post_title": "Promantra, Inc.",
-        "discovered": "2026-11-14 23:26:08.067634",
-        "description": "ProMantra, Inc. is a US-based healthcare IT and business process outsourcing (BPO) company founded in 2003 and headquartered in Somerset, New Jersey. The company specializes in Revenue Cycle Management (RCM), medical billing, medical coding, claims processing, and healthcare administrative services. It serves hospitals, physician groups, medical practices, and other healthcare organizations, primarily in the US, with operational delivery centers in India.",
-        "link": "/0AFC:a5040ee8eb8414ce81c899ea11f34187ad5add5a962e987be29450a7991192bb/0AFC:dc0b56eef20eef04159001c88eadfa5b9c21280e234c2dd4ebbd11c0068b2f1ac670aa40eeaa4d030b1166ea1a0c28b3",
-        "magnet": null,
-        "screen": "screenshots/metaencryptor/Promantra, Inc.png",
-        "private": false,
-        "misp_uuid": "a6148bdd-2d93-58a9-ae48-5ad378bac474",
-        "group_name": "metaencryptor",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Momentum Telecom",
-        "discovered": "2026-11-14 21:24:31.547221",
-        "description": "Momentum is a telecommunications company founded in 2001 that provides cloud-based communication solutions for businesses, specializing in cloud voice services, managed networks, SD-WAN solutions, and Microsoft Teams Phone integration. We gained access to a diagnostic and provisioning tool used by Momentum through a compromised Multi-Service Operator (MSO). Upon reconnaissance, we identified multiple critical vulnerabilities throughout the system. This tool controls internet and voice services for millions of users across global markets. We successfully accessed user data for every MSO, exposing personally identifiable information (PII) for over 7.5 million users. They didn't notice the prolonged access or the customer data dump for a while, but when we started deleting modems they noticed. They kept burning access and we gained it back, they'd burn it again. We have caused widespread outages (https://www.abc4.com/news/wasatch-front/eagle-mountain-internet-outage-cyberattack/). We now have had over 100,000 packages successfully deleted. That's 100,000+ people without internet service right now. Families, businesses, students all cut off from the digital world. This is the direct result of their negligence and failure to secure their systems. These services can be restored immediately with the click of a button on our tool but you must reach out. Click \"View Affected MSOs\" below to see the full list of compromised providers. Momentum management should contact us to discuss resolution. Affected MSOs can also contact us to have their users' data deleted from our database.",
-        "link": "#gomomentum_com-sample",
-        "magnet": null,
-        "screen": "screenshots/endzone/Momentum Telecom.png",
-        "private": false,
-        "misp_uuid": "762284f5-89a2-5cfe-b737-c33d44446c74",
-        "group_name": "endzone",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Absolute Bail Bonds",
-        "discovered": "2026-11-14 21:24:30.566778",
-        "description": "Absolute Bail Bonds is a surety bail bond agency that has provided 24/7 pretrial release services across California since 1987. Founded in Lancaster and headquartered in Los Angeles, the company operates statewide through a network of local branch offices and licensed bail agents. We successfully exfiltrated 5GB of Database Files and Source Code plus 3.5TB encrypted on the DC including backups.",
-        "link": "#absolute-bail-bonds-sample",
-        "magnet": null,
-        "screen": "screenshots/endzone/Absolute Bail Bonds.png",
-        "private": false,
-        "misp_uuid": "63ab27ae-a157-5e4b-821d-ce56484c4c4d",
-        "group_name": "endzone",
-        "sector": "Government"
     }
 ]
