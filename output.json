@@ -1,5 +1,137 @@
 [
     {
+        "post_title": "Starbucks",
+        "discovered": "2026-11-15 20:25:59.086707",
+        "description": "coffee retail · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "7e3d4458-205f-53fb-aa6b-107e8e3a0feb",
+        "group_name": "n0n",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Airport Appliance, Inc.",
+        "discovered": "2026-11-15 20:25:58.136686",
+        "description": "appliance and electronics retail · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "b1bbe066-16a3-5a17-af6c-1dacd12fcd92",
+        "group_name": "n0n",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Timberland",
+        "discovered": "2026-11-15 20:25:57.190411",
+        "description": "outdoor footwear and apparel · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "9404b527-d743-5b87-b2ec-57ef5b5fb589",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alo Yoga",
+        "discovered": "2026-11-15 20:25:56.182115",
+        "description": "athleisure and sportswear retail · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "39fe3177-8842-5d8d-840f-134e5dfe76a1",
+        "group_name": "n0n",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Gap Inc.",
+        "discovered": "2026-11-15 20:25:55.229621",
+        "description": "apparel retail · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ad91ad7d-498c-59da-9193-1430b09ef7de",
+        "group_name": "n0n",
+        "sector": "Retail"
+    },
+    {
+        "post_title": "Samsung Electronics Co., Ltd.",
+        "discovered": "2026-11-15 20:25:54.277837",
+        "description": "consumer electronics, smart TV advertising data · South Korea",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "84f073c3-12c7-5bd5-a0e0-06b4927bc24e",
+        "group_name": "n0n",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "VF Corporation",
+        "discovered": "2026-11-15 20:25:53.328748",
+        "description": "apparel and footwear group · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "d202a49b-1cb9-5aea-b5ef-6377d5789122",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Steeden Financial",
+        "discovered": "2026-11-15 20:25:52.376851",
+        "description": "financial planning and insurance · Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "2ab4660e-0332-5845-a327-9d69cf1438c5",
+        "group_name": "n0n",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Pollstar",
+        "discovered": "2026-11-15 20:25:51.428420",
+        "description": "live entertainment industry data and publishing · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "a0f0b207-992c-55c7-be5e-1192e532bba0",
+        "group_name": "n0n",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "MM Insurance Agency",
+        "discovered": "2026-11-15 20:25:50.464111",
+        "description": "financial advisory · Canada",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "db290af0-9bf2-5bce-8fd0-dd0bfbbc8556",
+        "group_name": "n0n",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Sarimelati Kencana Tbk PT",
+        "discovered": "2026-11-15 16:27:09.956342",
+        "description": "PT Sarimelati Kencana Tbk is a subsidiary of PT Sriboga Raturaya and serves as the franchisee for YUM! International, holding the Pizza Hut brand for Indonesia. The company operates Pizza Hut restaurants and delivery services, catering to a wide range of customers seeking dining and takeaway options. Additionally, PT Sarimelati Kencana Tbk is involved in corporate social responsibility initiatives, contributing to humanitarian efforts in the community.",
+        "link": "/post/?id=e3c90ead-be4e-4404-9ccc-26f6f831c9ee",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e3519262-34a3-5af7-8b22-598f04def071",
+        "group_name": "inc ransom",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Kayaku Safety Systems Malaysia Sdn Bhd",
         "discovered": "2026-11-15 08:24:00.719343",
         "description": "Automotive Parts",
@@ -70,29 +202,5 @@
         "misp_uuid": "63ab27ae-a157-5e4b-821d-ce56484c4c4d",
         "group_name": "endzone",
         "sector": "Government"
-    },
-    {
-        "post_title": "Home Instead",
-        "discovered": "2026-11-14 20:21:20.651263",
-        "description": "Behind the home care standards.",
-        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/dSLuICdP6LA4fCcAA5rSvjFhrZYoPwtj+x2Ujxfcv5j8Jmf6XJVVEYJB8o3kHQOMm7fUKgH6XGRALzTvpeKL9HBrMjY3VUE3",
-        "magnet": null,
-        "screen": "screenshots/anubis/Home Instead.png",
-        "private": false,
-        "misp_uuid": "0540f5af-904a-591c-a462-67356f1df742",
-        "group_name": "anubis",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "toyokiki-thailand.com",
-        "discovered": "2026-11-14 17:31:08.599011",
-        "description": "Established in 2013 as a subsidiary of Toyokiki Industrial Co., Ltd. of Japan, the company specializes in manufacturing and processing …",
-        "link": "/blog/post/toyokiki-thailandcom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "9f342c21-6b2f-5b8b-a625-1c535245cdf3",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
     }
 ]
