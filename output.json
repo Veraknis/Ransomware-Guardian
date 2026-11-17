@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "First Choice Seafood",
+        "discovered": "2026-11-17 01:14:06.861995",
+        "description": "Sector: Food Supplier | Website: https://firstchoiceseafood.com/",
+        "link": "/p/7f80efc9-0f8a-44ff-8321-58a506f3d2b7/",
+        "magnet": null,
+        "screen": "screenshots/climax/First Choice Seafood.png",
+        "private": false,
+        "misp_uuid": "5de4ae21-fb1b-5476-a806-f3b44034f7f5",
+        "group_name": "climax",
+        "sector": "Agriculture"
+    },
+    {
+        "post_title": "Peerless Hospital",
+        "discovered": "2026-11-17 01:14:05.888862",
+        "description": "Sector: Medical | Website: https://peerlesshospital.com/",
+        "link": "/p/6a8c1c79-8fca-4e45-8f93-6921494e7247/",
+        "magnet": null,
+        "screen": "screenshots/climax/Peerless Hospital.png",
+        "private": false,
+        "misp_uuid": "9d051371-8911-5c5a-9248-06268098ed65",
+        "group_name": "climax",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "DIRECTV Latin America",
+        "discovered": "2026-11-17 00:36:16.927705",
+        "description": "directvla.com Revenue $770.9 Million DIRECTV Latin America, operating under Vrio Corp. and owned by Argentine conglomerate Grupo Werthein since its 2021 buyout from AT&T, is a major satellite TV, streaming and telecom operator serving roughly 10 million subscribers across 11 South American and Caribbean markets. Generating about 771 million dollars in revenue in its regional corporate unit, it leads across Argentina, Colombia, Chile, Peru, Ecuador, Uruguay and the Caribbean through postpaid and cash-prepaid TV models. Beyond satellite broadcasting, it runs the DGO streaming platform, owns DSports holding premier FIFA World Cup and CONMEBOL football rights, and operates the 24/7 news channel DNews. Under Grupo Werthein it has expanded rapidly into fiber broadband via DFibra across five countries. In June 2024 it became Amazon Project Kuiper's exclusive satellite internet distributor in seven South American nations to rival Starlink, while bundling Max, Disney+ and Prime Video.",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "fc906764-4c03-5a8d-a1c2-41bdf8cfcbe7",
+        "group_name": "the gentlemen",
+        "sector": "Media"
+    },
+    {
         "post_title": "SUNNIER HOMES",
         "discovered": "2026-11-17 00:16:11.571844",
         "description": "Sunnier Homes es una inmobiliaria internacional con sede en Torrevieja (Alicante) que tiene como propósito cumplir el sueño de todas las personas que buscan un hogar para residir o invertir en el Mediterráneo. Con una larga trayectoria en la construcción y promoción de proyectos inmobiliarios de alta calidad en la Costa Blanca y Costa Cálida, Sunnier homes es conocedora del sector en todas las etapas del proceso ofreciendo un servicio integral. Experiencia, innovación y adaptación son los principios que marcan la relación con clientes, colaboradores y grupos de interés. Todo ello gracias a un equipo humano que acompaña y asesora a cada persona de forma individual para conseguir el hogar ideal.",
