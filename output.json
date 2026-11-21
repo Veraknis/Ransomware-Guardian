@@ -1,5 +1,125 @@
 [
     {
+        "post_title": "DROP 1 — CASANARE, PAJONAL, PUTUMAYO AND URUS — 8,000 PATIENTS, 4,000 INVOICES, 7,733 CRED",
+        "discovered": "2026-11-21 01:17:24.728417",
+        "description": "24 HOURS. NOT A SINGLE MESSAGE.\n\nLet us be clear about who this is, because apparently it was not clear.\n\nCLINICA CASANARE — Yopal, Casanare\nCLINICA PAJONAL — Neiva, Huila\nHOSPITAL DE ALTA COMPLEJIDAD DEL PUTUMAYO (HAC PUTUMAYO) — Puerto Asis, Putumayo\nCLINICA UROS — Neiva, Huila\n\nFour private clinics in Colombia, medium and high complexity, part of\nMoMentum Holding (former Grupo Empresarial Uros): MoMentum Salud Renal,\nMoMentum Clinicas and MoMentum CFIM. All of them running the same in-house\nUROSOFT platform built and operated by ICT ZOMAC.\n\nCasanare and Pajonal were redeployed. Urus is still out. Putumayo is still\ndown, exactly as we left it. None of you wrote.\n\nPUBLISHED NOW:\n\nCLINICA CASANARE   2,000 patients | 1,000 invoices | 500 third parties | 100 histories | 1,357 accounts\nCLINICA PAJONAL    2,000 patients | 1,000 invoices | 500 third parties | 837 accounts\nHAC PUTUMAYO       2,000 patients | 1,000 invoices | 500 third parties | 100 histories | 15 CUFE | 2,297 accounts\nCLINICA UROS       2,000 patients | 1,000 invoices | 500 third parties | 3,242 accounts\n\nTOTAL: 8,000 patients with names and national IDs. 4,000 invoices with\namounts and CUFE. 2,000 third parties. 200 scanned clinical histories,\nincluding HIV and mental health. 7,733 staff accounts with unsalted MD5.\n\n\nEvery folder has README, counts and SHA256SUMS. Check them.\n\nSame five mistakes in all four: unauthenticated download.php, SQL injection\nin login and reports, COPY TO PROGRAM straight to the postgres user,\nunsalted MD5, backups on the same server. No zero-day. Your own application,\nread back to you.\n\nThe private channel and session are the same sent to you.\n\nEmail: whitearmorxd@onionmail.org\n\nDROP 2 IN 24 HOURS IF THE SILENCE CONTINUES.\n\nWE ARE NOT PLAYING.\n\nEmail: whitearmorxd@onionmail.org\nhttp://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion/\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
+        "link": "/post/drop-1-casanare-pajonal-putumayo-and-urus-8-000-patients-4-000-invoices-7-733-cr",
+        "magnet": null,
+        "screen": "screenshots/whitearmor/DROP 1 — CASANARE, PAJONAL, PUTUMAYO AND URUS — 8,000 PATIENTS, 4,000 INVOICES, 7,733 CRED.png",
+        "private": false,
+        "misp_uuid": "e661246b-36b3-50f5-af3d-6e01de4719c9",
+        "group_name": "whitearmor",
+        "sector": "Healthcare"
+    },
+    {
+        "post_title": "bastion.internal domain controller (GCP, GRATEFUL-V1)",
+        "discovered": "2026-11-20 23:18:05.552123",
+        "description": "IT infrastructure (Active Directory domain controller) · USA\nFull data leak: 2026-11-24 22:09 UTC\nThis disclosure concerns a verified set of records from an organization in the IT infrastructure (Active Directory domain controller) sector. The material scheduled for publication comprises a set of business records, including operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#bastion.internal%20domain%20controller%20%28GCP%2C%20GRATEFUL-V1%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/bastioninternal domain controller (GCP, GRATEFUL-V1).png",
+        "private": false,
+        "misp_uuid": "25dbaca2-161b-527c-8b7b-ecfe85e6b4ad",
+        "group_name": "pixelleaks",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Aixia Group AB (Nasdaq-listed AI/IT, Sweden)",
+        "discovered": "2026-11-20 23:18:04.629673",
+        "description": "AI/IT infrastructure · Sweden\nFull data leak: 2026-11-24 21:21 UTC\nThis disclosure concerns a verified set of records from an organization in the AI/IT infrastructure sector. The material scheduled for publication comprises a set of business records, including financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Aixia%20Group%20AB%20%28Nasdaq-listed%20AI/IT%2C%20Sweden%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Aixia Group AB (Nasdaq-listed AIIT, Sweden).png",
+        "private": false,
+        "misp_uuid": "7cf56a21-f416-56dd-8560-b57b7edfc838",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Kingsport Cargo (logistics, Laravel intranet)",
+        "discovered": "2026-11-20 23:18:03.698893",
+        "description": "Logistics SME · Poland\nFull data leak: 2026-11-24 21:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Logistics SME sector. The material scheduled for publication comprises a set of business records, including financial and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Kingsport%20Cargo%20%28logistics%2C%20Laravel%20intranet%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Kingsport Cargo (logistics, Laravel intranet).png",
+        "private": false,
+        "misp_uuid": "d677255b-03c9-57f4-ac81-b58c4a5f1a6d",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Arab Software Computer / ASCON (Oracle ERP hosting, Alexandria)",
+        "discovered": "2026-11-20 23:18:02.763129",
+        "description": "Oracle ERP vendor (Saudi client hosting) · Egypt\nFull data leak: 2026-11-24 21:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Oracle ERP vendor (Saudi client hosting) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Arab%20Software%20Computer%20/%20ASCON%20%28Oracle%20ERP%20hosting%2C%20Alexandria%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Arab Software Computer  ASCON (Oracle ERP hosting, Alexandria).png",
+        "private": false,
+        "misp_uuid": "dc99247e-d2b7-5cf9-bd81-e3a5be70758c",
+        "group_name": "pixelleaks",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "FAST ČR",
+        "discovered": "2026-11-20 23:17:40.586945",
+        "description": "2 posts - 1h",
+        "link": "/news/fast-cr",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "f0fc0fb0-a8b9-5813-8c11-8a4c4a41ad8d",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Alla France",
+        "discovered": "2026-11-20 23:17:39.654679",
+        "description": "2 posts - 1h",
+        "link": "/news/alla-france",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "5fffccdc-24cc-5361-96b6-1f5ddf31c1cf",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ABL Bio",
+        "discovered": "2026-11-20 23:17:38.661106",
+        "description": "2 posts - 1h",
+        "link": "/news/abl-bio",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "e4b0b105-0ab1-539a-b1f4-9bdadc569279",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Vizrt",
+        "discovered": "2026-11-20 23:17:37.669405",
+        "description": "2 posts - 1h",
+        "link": "/news/vizrt",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "ece7820e-0c5e-57a3-92a5-3f92edc406b4",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "ALKF",
+        "discovered": "2026-11-20 23:17:36.463159",
+        "description": "2 posts - 1h",
+        "link": "/news/alkf",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "77eebf98-10f1-5493-8556-cc10392f05de",
+        "group_name": "everest",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "DROP 1 — ALL FOUR CLINICS — 8,000 PATIENTS, 4,000 INVOICES, 7,733 CREDENTIALS",
         "discovered": "2026-11-20 22:18:08.209062",
         "description": "So the first batch is public. Not samples. Real files.\nCasanare was redeployed. Pajonal was redeployed. Urus is still out.\nPutumayo is still down, exactly as we left it. None of you wrote.\nPUBLISHED NOW:\nCASANARE   2,000 patients | 1,000 invoices | 500 third parties | 100 histories | 1,357 accounts\nPAJONAL    2,000 patients | 1,000 invoices | 500 third parties | 837 accounts\nPUTUMAYO   2,000 patients | 1,000 invoices | 500 third parties | 100 histories | 15 CUFE | 2,297 accounts\nURUS       2,000 patients | 1,000 invoices | 500 third parties | 3,242 accounts\nTOTAL: 8,000 patients with names and national IDs. 4,000 invoices with\namounts and CUFE. 2,000 third parties. 200 scanned clinical histories,\nincluding HIV and mental health. 7,733 staff accounts with unsalted MD5.\n\nEvery folder has README, counts and SHA256SUMS. Check them.\nSame five mistakes in all four: unauthenticated download.php, SQL injection\nin login and reports, COPY TO PROGRAM straight to the postgres user,\nunsalted MD5, backups on the same server. No zero-day. Your own application,\nread back to you.\nThe private channel and session are the same sent to you.\nEmail: whitearmorxd@onionmail.org\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67\nDROP 2 IN 24 HOURS IF THE SILENCE CONTINUES.\nWE ARE NOT PLAYING.",
@@ -394,41 +514,5 @@
         "misp_uuid": "9480482f-ddfb-530f-8a9e-a82f629a69a7",
         "group_name": "n0n",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Smith & Wesson",
-        "discovered": "2026-11-19 23:05:24",
-        "description": "Smith & Wesson is an American company founded in 1852, best known for manufacturing firearms, including handguns, revolvers, and rifles. Headquartered in Maryville, Tennessee, the company is one of the oldest and most recognized firearms manufacturers in the United States. Smith & Wesson serves law enforcement, military, civilian, and sporting markets worldwide.",
-        "link": "http://copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion/",
-        "magnet": null,
-        "screen": "screenshots/handsome boy hacking club/Smith & Wesson.png",
-        "private": false,
-        "misp_uuid": "855107b7-1649-5501-9a10-7da58994e05f",
-        "group_name": "handsome boy hacking club",
-        "sector": "Legal"
-    },
-    {
-        "post_title": "UCHealth",
-        "discovered": "2026-11-19 23:05:24",
-        "description": "UCHealth, trade name for University of Colorado Health, is a not-for-profit health care system, headquartered in Aurora, Colorado. The system includes hospitals and facilities throughout Colorado, along with affiliated hospitals in Wyoming and Nebraska. The system includes an academic medical center, UCHealth University of Colorado Hospital, which is closely affiliated with the University of Colorado School of Medicine. It is a joint operating company between the University of Colorado Hospital Authority and Poudre Valley Health.",
-        "link": "http://copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion/",
-        "magnet": null,
-        "screen": "screenshots/handsome boy hacking club/UCHealth.png",
-        "private": false,
-        "misp_uuid": "73a45fab-d8c7-53e3-a3f2-dba64eff2069",
-        "group_name": "handsome boy hacking club",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Frontier Communications",
-        "discovered": "2026-11-19 23:05:24",
-        "description": "Frontier Communications - a major internet service, mobile & email provider in the United States has recently been compromised by HBHC. We hold over 25,000+ of their most confidential documents. Data includes millions of lines of customer PII (retail, business & enterprise), employee records, contracts, financial records, and internal logs.",
-        "link": "http://copqdofcqjngdtugmxpannsh277t4pyngqkrcja636tnyhqbhucxnmid.onion/",
-        "magnet": null,
-        "screen": "screenshots/handsome boy hacking club/Frontier Communications.png",
-        "private": false,
-        "misp_uuid": "3bedb3a1-0c34-5804-be38-2dc122db60f6",
-        "group_name": "handsome boy hacking club",
-        "sector": "Technology"
     }
 ]
