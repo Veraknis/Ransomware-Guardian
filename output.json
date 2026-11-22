@@ -1,5 +1,77 @@
 [
     {
+        "post_title": "Company #243",
+        "discovered": "2026-11-23 00:17:00.954738",
+        "description": "healthcare · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "98733626-1fcb-533f-a2cf-888d61c45166",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Company #242",
+        "discovered": "2026-11-23 00:17:00.024746",
+        "description": "healthcare · United States",
+        "link": null,
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "b27bd06e-f1d9-54d3-b383-a7cc34f9fc7e",
+        "group_name": "n0n",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "cybage-software-pvt-ltd",
+        "discovered": "2026-11-23 00:16:38.601016",
+        "description": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential",
+        "link": "/post/?id=64d28f37-3610-4d7e-a66d-19136068a2e1",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "7c256622-0212-55c6-809d-806ad903ab60",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "East Jerusalem food distribution firm (AlArabi InterBase accounting estate)",
+        "discovered": "2026-11-22 23:16:52.113168",
+        "description": "Food and confectionery distribution · Israel\nFull data leak: 2026-11-26 16:23 UTC\nThis disclosure concerns a verified set of records from an organization in the Food and confectionery distribution sector. The material scheduled for publication comprises a set of business records, including financial, client, legal, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#East%20Jerusalem%20food%20distribution%20firm%20%28AlArabi%20InterBase%20accounting%20estate%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/East Jerusalem food distribution firm (AlArabi InterBase accounting estate).png",
+        "private": false,
+        "misp_uuid": "cb265e8d-3aa4-51b4-a93c-9d5dc1dfd9c1",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "Indian railway Tatkal booking agency (licensed booking bot operator)",
+        "discovered": "2026-11-22 23:16:51.147890",
+        "description": "Railway ticket booking services (Tatkal agency) · India\nFull data leak: 2026-11-26 12:42 UTC\nThis disclosure concerns a verified set of records from an operator in the railway ticket booking services sector in India. The material scheduled for publication comprises the booking database with four railway booking accounts and payment collection accounts, browser profiles with the live booking site sessions, and complete booking logs with seven passengers' personal records including names, ages, gender and berth and food preferences, three client mobile numbers, trains, routes and fares. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory and reputational consequences for the operator and privacy consequences for the passengers.",
+        "link": "#Indian%20railway%20Tatkal%20booking%20agency%20%28licensed%20booking%20bot%20operator%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Indian railway Tatkal booking agency (licensed booking bot operator).png",
+        "private": false,
+        "misp_uuid": "fc8c2e43-1629-52b3-b3fe-6bcd3e666b08",
+        "group_name": "pixelleaks",
+        "sector": "Government"
+    },
+    {
+        "post_title": "L&T Technology Services",
+        "discovered": "2026-11-22 23:16:29.725502",
+        "description": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential",
+        "link": "/post/?id=7c372645-99ee-40ae-91ac-b12e8dbb42e7",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "4eb63d21-c627-540c-814a-13a868051fbc",
+        "group_name": "inc ransom",
+        "sector": "Technology"
+    },
+    {
         "post_title": "Viapan Group",
         "discovered": "2026-11-22 20:16:53.680138",
         "description": "Business Services",
