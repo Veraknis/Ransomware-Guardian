@@ -1,5 +1,17 @@
 [
     {
+        "post_title": "Viapan Group",
+        "discovered": "2026-11-22 20:16:53.680138",
+        "description": "Business Services",
+        "link": "/site/blog?uuid=df657794-7b5e-4842-8cb5-060200451e12",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "61e53384-a535-5db2-aa17-da47286d12f1",
+        "group_name": "qilin",
+        "sector": "Unknown"
+    },
+    {
         "post_title": "persistent.com",
         "discovered": "2026-11-22 16:16:44.920148",
         "description": "tens of thousands of confidential and mission-critical data items",
@@ -117,150 +129,6 @@
         "private": false,
         "misp_uuid": "404fa369-6b54-53de-b58c-bd1403329004",
         "group_name": "the gentlemen",
-        "sector": "Government"
-    },
-    {
-        "post_title": "ION Asset Architecture UK LTD",
-        "discovered": "2026-11-21 21:16:27.090511",
-        "description": "Software",
-        "link": "/site/blog?uuid=ff31f83b-985f-4d90-9b8b-8a6850f59630",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "e5e67fa8-23d9-57a7-bf5b-773a59935108",
-        "group_name": "qilin",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "tiic.com.ph",
-        "discovered": "2026-11-21 19:16:36.237954",
-        "description": "Established in the 1950s, the company has developed into an established manufacturer and supplier of industrial chemicals, paints, construction materials, …",
-        "link": "/blog/post/tiiccomph/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "15333d6d-6e7f-570c-910f-c11d3f827393",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "threeroyal.com",
-        "discovered": "2026-11-21 19:16:35.295906",
-        "description": "The company specializes in the chemical manufacturing industry, particularly in the development and production of UV-curable materials, adhesives, coatings, and …",
-        "link": "/blog/post/threeroyalcom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "b8921726-3214-5d8c-bc8d-1518371555a7",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "factotal.com",
-        "discovered": "2026-11-21 19:16:34.335561",
-        "description": "The company specializes in providing financing solutions to small and medium-sized enterprises (SMEs), helping businesses improve their cash flow and …",
-        "link": "/blog/post/factotalcom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "151310f0-d3c3-5ba8-b4c3-a49b0ba6b1de",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "offshore-ocs.com",
-        "discovered": "2026-11-21 19:16:33.382222",
-        "description": "The company specializes in providing engineering, construction management, project consultancy, and marine installation services, primarily for the offshore oil and …",
-        "link": "/blog/post/offshore-ocscom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "47fc321a-6cf0-517a-a7ae-1734fc9f04bb",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "relax.es",
-        "discovered": "2026-11-21 19:16:32.417501",
-        "description": "The company's origins date back to 1907, when a small workshop was established in Zaragoza for manufacturing and repairing bed …",
-        "link": "/blog/post/relaxes/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "cd5c05d5-d9c5-55de-997e-658596f8f434",
-        "group_name": "safepay",
-        "sector": "Unknown"
-    },
-    {
-        "post_title": "pacifico.com.ar",
-        "discovered": "2026-11-21 19:16:31.450970",
-        "description": "The company specializes in the national and international supply, distribution, and logistics of industrial raw materials, chemical products, and finished …",
-        "link": "/blog/post/pacificocomar/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "7fe57b53-3c42-5659-addc-977b514b882a",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "qrc-solutions.com",
-        "discovered": "2026-11-21 19:16:30.521957",
-        "description": "The company specializes in financial support services, debt collection, administrative management, and telemarketing solutions for businesses operating in different industries. …",
-        "link": "/blog/post/qrc-solutionscom/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "bcb61d1f-972a-565c-9906-5593dcecd3a0",
-        "group_name": "safepay",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "santak.com.sg",
-        "discovered": "2026-11-21 19:16:29.577686",
-        "description": "The company specializes in precision engineering, the production of custom-made machined components, and the distribution of electronic, electrical, and mechanical …",
-        "link": "/blog/post/santakcomsg/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "50f623a2-bd6f-5023-b54c-afe6f1c5e487",
-        "group_name": "safepay",
-        "sector": "Manufacturing"
-    },
-    {
-        "post_title": "themedical.co.il",
-        "discovered": "2026-11-21 19:16:28.572386",
-        "description": "The platform primarily serves physicians, healthcare professionals, medical researchers, and other members of the healthcare industry. Its activities include publishing …",
-        "link": "/blog/post/themedicalcoil/",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "38f071aa-0dbb-53a1-acb2-aa4cf1e5663f",
-        "group_name": "safepay",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Regions Behavioral Hospital",
-        "discovered": "2026-11-21 18:21:26.936182",
-        "description": "Regions Behavioral Hospital is dedicated to providing a full range of mental health and substance abuse services. Our inpatient psychiatric treatment facilities and intensive outpatient programs (IOP), located in Baton Rouge, Louisiana, are designed to support stabilization, recovery, and long-term wellness in order to help patients develop strategies to manage behavioral health and substance use challenges while providing structured clinical support in a therapeutic environment.",
-        "link": "/post/?id=83a6fdf9-8138-469d-ae27-a05f0952a90f",
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c11e16a0-bad9-5f0a-9433-db280f275f54",
-        "group_name": "inc ransom",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "County government within a U.S. state",
-        "discovered": "2026-11-21 17:17:05.855403",
-        "description": "Sector: Government Administration | Location: United States | Employees: unknown | Revenue: tax revenue: $44.85 million | Deadline: 2026-11-24 15:30 UTC\nThis government provides access to county government services, departmental information, public records, tax-related materials, and community news.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "c5c03cf3-a914-5828-b5de-8eec3df4a3c8",
-        "group_name": "soul",
         "sector": "Government"
     }
 ]
