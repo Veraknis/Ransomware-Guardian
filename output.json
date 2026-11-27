@@ -1,5 +1,41 @@
 [
     {
+        "post_title": "Delco Trailers",
+        "discovered": "2026-11-27 23:21:36.569147",
+        "description": "Steel trailer manufacturer data breach.",
+        "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/pUHgjlGfUSvZ8DTOteDEWPhG8ONsqyTc6PFe34EgzLzbSsgsIXS5X6TVeASqjL6jXgW8sUReyGNyiOAyVfDGJQN3NvNks1",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "dfb9d0f7-3e0c-57ff-acca-b16a2700c6a3",
+        "group_name": "anubis",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Samlut and Company, P.A.",
+        "discovered": "2026-11-27 23:16:58.202098",
+        "description": "Samlut & Company, PA is an American accounting and auditing firm founded in 1997.",
+        "link": "/post/?id=96b53edf-a441-45a7-938b-e5dbb72afef3",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "68442f13-6410-5117-b8b5-d100f6f1b5b4",
+        "group_name": "inc ransom",
+        "sector": "Unknown"
+    },
+    {
+        "post_title": "Cinelandia S.p.A",
+        "discovered": "2026-11-27 22:21:50.114609",
+        "description": "Cinelandia S.p.A. is an Italian company that owns a large chain of modern multiplex cinemas and entertainment centers.",
+        "link": "/post/?id=f6918b84-38b7-482a-b009-74bbb49017ef",
+        "magnet": null,
+        "screen": null,
+        "private": false,
+        "misp_uuid": "f98485a8-6d8d-570d-bef4-87fb2e33d88f",
+        "group_name": "inc ransom",
+        "sector": "Retail"
+    },
+    {
         "post_title": "Brit Ltd / Brit Insurance (britinsurance.com)",
         "discovered": "2026-11-27 17:26:22.286794",
         "description": "Brit Group Holdings Limited is a large international group operating in the commercial insurance and reinsurance sector, with its headquarters in London, United Kingdom.",
@@ -286,65 +322,5 @@
         "misp_uuid": "47d3a12f-4367-59b4-a38c-50f771bd5b51",
         "group_name": "pixelleaks",
         "sector": "Finance"
-    },
-    {
-        "post_title": "Eversource",
-        "discovered": "2026-11-26 23:16:54.363265",
-        "description": "Greetings,\n\nEversource is a regulated electric, natural gas, and water utility serving Connecticut, Massachusetts, and New Hampshire. Its 2025 annual revenue was $13.55 billion, a 13.8% year-over-year increase.\n\nWe hold 54,557 named Eversource customers and landowners across CT/MA/NH, addresses, phone numbers, consent and payment records, plus 97,000 GPS-tagged field photos, 16 million grid-infrastructure records, and Eversource's full dev/staging ArcGIS environments.\n\nOur ransom demand is $10,000,000 in BTC. Instructions to follow by email.\n\nIf you do not receive them, you can find our contact information below:\n\nSESSION ID: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67\nEmail: whitearmorrxd@proton.me",
-        "link": "/post/eversource",
-        "magnet": null,
-        "screen": "screenshots/whitearmor/Eversource.png",
-        "private": false,
-        "misp_uuid": "c358e890-fe6f-56c5-88c4-37804ac22892",
-        "group_name": "whitearmor",
-        "sector": "Energy"
-    },
-    {
-        "post_title": "FYE",
-        "discovered": "2026-11-26 21:23:08.642133",
-        "description": "Pokémon cards, anime figures, and a data breach.",
-        "link": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/MSID4D6ytvVlF6Q+nISxmQXEgUInKV7evtFEYeOx+vSuCFciqEz3jKHus6iapOZeiGggvGAnpgaazXMrq2GH3N0MDlDVlRa",
-        "magnet": null,
-        "screen": "screenshots/anubis/FYE.png",
-        "private": false,
-        "misp_uuid": "2427e324-1dc7-54c8-9ed6-4ca690753c77",
-        "group_name": "anubis",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "SynCardia Systems",
-        "discovered": "2026-11-26 21:12:32.123677",
-        "description": "syncardia.com 1.5 TB Private Finance, Regulatory, Clinical Research, Engineering, Manufacturing and other sensetive data SynCardia Systems, LLC (parent: Picard Medical, NYSE American: PMI) — Tucson-based medtech founded 2001, manufactures the world's only FDA & Health Canada approved Total Artificial Heart (TAH): complete biventricular replacement as bridge-to-transplant. 2,100+ implants, 27 countries, 120+ centers; sizes 70cc adult + 50cc for women/pediatric; portable Freedom Driver (FDA 2014) lets patients go home; next-gen fully implantable driverless Emperor TAH in development. 86% reach transplant (UNOS), 80% post-HT 1-yr survival. Revenue tiny $4.94M (2025, +12.5%) vs net loss $27M; going-concern warning, $77M accumulated deficit; CE mark lost 2022, Europe collapsing. IPO Sept 2025 at $4/share, $19.6M gross on NYSE American. Owned 85% by Hunniwell Lake/Picard (2021) after Versa Capital bought it from Chapter 11 (2016). Jarvik-7 roots (1985, Symbion/CardioWest).",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "0c57571e-a123-5ea4-9162-d5c83db5204a",
-        "group_name": "the gentlemen",
-        "sector": "Healthcare"
-    },
-    {
-        "post_title": "Aptean",
-        "discovered": "2026-11-26 21:00:42.277017",
-        "description": "aptean.com Many terabytes of data and also your clients Aptean, Inc. — private PE-backed global ERP software vendor founded 2012 in Alpharetta, GA (merger of CDC Software + Consona), ~$945M revenue (ZoomInfo est., $804M UK group accounts 2025), 3-5K employees, 10,000+ customers in 80+ countries. Owned by TA Associates (lead), Insight Partners, Charlesbank, Clearlake Capital after Vista's 2022 exit; valued $3.55B (2022). Buys vertical software companies aggressively — 60+ acquisitions since 2015 ($2B spent 2019-2025), including Logility (Nasdaq take-private, $14.30/share, 2025), Germanedge, JobRouter, Momentis, SSG Insight, Indigo. Portfolio: industry-specific ERP (food & beverage, discrete/process manufacturing, fashion, distribution), SCM, WMS, TMS, EAM, dealer management, on the AI-native AppCentral platform. CEO TVN Reddy (ex-ADP, Wharton MBA) since 2018. ",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "ec982e40-ec75-5469-80bb-26c0631d8b15",
-        "group_name": "the gentlemen",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "GoDaddy",
-        "discovered": "2026-11-26 19:16:21.486268",
-        "description": "Size: 37.5 GB | Files: 10,783 | Status: leaked\n~37.5 GB / ~10,800 files, dominated by meeting and all-hands videos (~25 GB), plus Office documents, PDFs, and internal data-lake configs/docs with a small amount of Go/TypeScript code (~570 files). It also contains ~9.6 GB of personal photos and videos. Some files hold PII (employee names, chats, comp data), and most Office documents are IRM-encrypted.",
-        "link": null,
-        "magnet": null,
-        "screen": null,
-        "private": false,
-        "misp_uuid": "67f7ece0-f25e-5daa-8ee1-f0a6eeb22f98",
-        "group_name": "inception",
-        "sector": "Technology"
     }
 ]
