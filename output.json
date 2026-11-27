@@ -1,5 +1,65 @@
 [
     {
+        "post_title": "Monolithic Power Systems (NASDAQ: MPWR, mps.com)",
+        "discovered": "2026-11-27 00:17:02.118304",
+        "description": "Power semiconductors (channel sales) · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Power semiconductors (channel sales) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, client, intellectual property, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Monolithic%20Power%20Systems%20%28NASDAQ%3A%20MPWR%2C%20mps.com%29",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Monolithic Power Systems (NASDAQ: MPWR, mpscom).png",
+        "private": false,
+        "misp_uuid": "95f8baa7-893f-5050-a248-8c8ff2118edf",
+        "group_name": "pixelleaks",
+        "sector": "Technology"
+    },
+    {
+        "post_title": "Keyes Financial Strategies Inc.",
+        "discovered": "2026-11-27 00:17:01.143301",
+        "description": "Financial advisory practice (Manulife Wealth dealer representative) · Canada\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial advisory practice (Manulife Wealth dealer representative) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, client, legal, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#Keyes%20Financial%20Strategies%20Inc.",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/Keyes Financial Strategies Inc.png",
+        "private": false,
+        "misp_uuid": "d2b5027d-82e2-5f26-aecd-74e3211bc8ab",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "The Law Firm of Kavesh, Minor & Otis, Inc.",
+        "discovered": "2026-11-27 00:17:00.197352",
+        "description": "Estate planning, trust administration and probate law firm · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Estate planning, trust administration and probate law firm sector. The material scheduled for publication comprises a set of business records, including financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#The%20Law%20Firm%20of%20Kavesh%2C%20Minor%20%26%20Otis%2C%20Inc.",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/The Law Firm of Kavesh, Minor & Otis, Inc.png",
+        "private": false,
+        "misp_uuid": "e5df2499-95f2-5c59-9f41-c40b14be1599",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "MHC Financial Inc",
+        "discovered": "2026-11-27 00:16:59.225287",
+        "description": "Financial services (independent financial advisory) · Canada\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial services (independent financial advisory) sector. The material scheduled for publication comprises a set of business records, including financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#MHC%20Financial%20Inc",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/MHC Financial Inc.png",
+        "private": false,
+        "misp_uuid": "4ec24b50-0fc3-5c5e-b68f-8b1dc23b8115",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
+        "post_title": "LockeBridge Capital Partners",
+        "discovered": "2026-11-27 00:16:58.223806",
+        "description": "Financial services (middle-market M&A investment banking) · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial services (middle-market M&A investment banking) sector. The material scheduled for publication comprises a set of business records, including financial, client, legal, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
+        "link": "#LockeBridge%20Capital%20Partners",
+        "magnet": null,
+        "screen": "screenshots/pixelleaks/LockeBridge Capital Partners.png",
+        "private": false,
+        "misp_uuid": "47d3a12f-4367-59b4-a38c-50f771bd5b51",
+        "group_name": "pixelleaks",
+        "sector": "Finance"
+    },
+    {
         "post_title": "Eversource",
         "discovered": "2026-11-26 23:16:54.363265",
         "description": "Greetings,\n\nEversource is a regulated electric, natural gas, and water utility serving Connecticut, Massachusetts, and New Hampshire. Its 2025 annual revenue was $13.55 billion, a 13.8% year-over-year increase.\n\nWe hold 54,557 named Eversource customers and landowners across CT/MA/NH, addresses, phone numbers, consent and payment records, plus 97,000 GPS-tagged field photos, 16 million grid-infrastructure records, and Eversource's full dev/staging ArcGIS environments.\n\nOur ransom demand is $10,000,000 in BTC. Instructions to follow by email.\n\nIf you do not receive them, you can find our contact information below:\n\nSESSION ID: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67\nEmail: whitearmorrxd@proton.me",
@@ -382,29 +442,5 @@
         "misp_uuid": "f64e54b8-1bc2-523f-8d46-52d34423b830",
         "group_name": "everest",
         "sector": "Unknown"
-    },
-    {
-        "post_title": "Golden State College & Milan Institute",
-        "discovered": "2026-11-26 01:17:41.583688",
-        "description": "Golden State College & Milan Institute fell victim to a cyberattack, resulting in the theft of more than 420 GB of confidential data. The stolen data includes documents containing correspondence with clients, financial information, personal data of employees and clients, as well as other important information about the company.",
-        "link": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=golden-state-college-milan-institute",
-        "magnet": null,
-        "screen": "screenshots/dark project/Golden State College & Milan Institute.png",
-        "private": false,
-        "misp_uuid": "58b07b7f-059b-53c7-8ec0-588b2d28a55a",
-        "group_name": "dark project",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Reflex Electromechanical & Trade Co. Ltd. (Nablus pumps and elevators engineering house)",
-        "discovered": "2026-11-26 00:17:44.287345",
-        "description": "Engineering services and trading (pumps, elevators, water projects) · Palestine\nFull data leak: 2026-11-29 22:41 UTC\nThis disclosure concerns a verified set of records from an organization in the engineering and trading sector. The material scheduled for publication comprises business records, including financial, client, contract, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#Reflex%20Electromechanical%20%26%20Trade%20Co.%20Ltd.%20%28Nablus%20pumps%20and%20elevators%20engineering%20house%29",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/Reflex Electromechanical & Trade Co Ltd (Nablus pumps and elevators engineering house).png",
-        "private": false,
-        "misp_uuid": "518dd230-59c5-52e0-8280-7b7372b483a0",
-        "group_name": "pixelleaks",
-        "sector": "Finance"
     }
 ]
