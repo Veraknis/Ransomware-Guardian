@@ -5,7 +5,7 @@
         "description": "Steel trailer manufacturer data breach.",
         "link": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/pUHgjlGfUSvZ8DTOteDEWPhG8ONsqyTc6PFe34EgzLzbSsgsIXS5X6TVeASqjL6jXgW8sUReyGNyiOAyVfDGJQN3NvNks1",
         "magnet": null,
-        "screen": null,
+        "screen": "screenshots/anubis/Delco Trailers.png",
         "private": false,
         "misp_uuid": "dfb9d0f7-3e0c-57ff-acca-b16a2700c6a3",
         "group_name": "anubis",
@@ -262,65 +262,5 @@
         "misp_uuid": "45789658-a6cd-5930-b991-ecd52a13a151",
         "group_name": "bravox",
         "sector": "Energy"
-    },
-    {
-        "post_title": "Monolithic Power Systems (NASDAQ: MPWR, mps.com)",
-        "discovered": "2026-11-27 00:17:02.118304",
-        "description": "Power semiconductors (channel sales) · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Power semiconductors (channel sales) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, client, intellectual property, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#Monolithic%20Power%20Systems%20%28NASDAQ%3A%20MPWR%2C%20mps.com%29",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/Monolithic Power Systems (NASDAQ: MPWR, mpscom).png",
-        "private": false,
-        "misp_uuid": "95f8baa7-893f-5050-a248-8c8ff2118edf",
-        "group_name": "pixelleaks",
-        "sector": "Technology"
-    },
-    {
-        "post_title": "Keyes Financial Strategies Inc.",
-        "discovered": "2026-11-27 00:17:01.143301",
-        "description": "Financial advisory practice (Manulife Wealth dealer representative) · Canada\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial advisory practice (Manulife Wealth dealer representative) sector. The material scheduled for publication comprises a set of business records, including personnel, financial, client, legal, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#Keyes%20Financial%20Strategies%20Inc.",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/Keyes Financial Strategies Inc.png",
-        "private": false,
-        "misp_uuid": "d2b5027d-82e2-5f26-aecd-74e3211bc8ab",
-        "group_name": "pixelleaks",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "The Law Firm of Kavesh, Minor & Otis, Inc.",
-        "discovered": "2026-11-27 00:17:00.197352",
-        "description": "Estate planning, trust administration and probate law firm · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Estate planning, trust administration and probate law firm sector. The material scheduled for publication comprises a set of business records, including financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#The%20Law%20Firm%20of%20Kavesh%2C%20Minor%20%26%20Otis%2C%20Inc.",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/The Law Firm of Kavesh, Minor & Otis, Inc.png",
-        "private": false,
-        "misp_uuid": "e5df2499-95f2-5c59-9f41-c40b14be1599",
-        "group_name": "pixelleaks",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "MHC Financial Inc",
-        "discovered": "2026-11-27 00:16:59.225287",
-        "description": "Financial services (independent financial advisory) · Canada\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial services (independent financial advisory) sector. The material scheduled for publication comprises a set of business records, including financial, client, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#MHC%20Financial%20Inc",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/MHC Financial Inc.png",
-        "private": false,
-        "misp_uuid": "4ec24b50-0fc3-5c5e-b68f-8b1dc23b8115",
-        "group_name": "pixelleaks",
-        "sector": "Finance"
-    },
-    {
-        "post_title": "LockeBridge Capital Partners",
-        "discovered": "2026-11-27 00:16:58.223806",
-        "description": "Financial services (middle-market M&A investment banking) · USA\nFull data leak: 2026-11-30 22:21 UTC\nThis disclosure concerns a verified set of records from an organization in the Financial services (middle-market M&A investment banking) sector. The material scheduled for publication comprises a set of business records, including financial, client, legal, and operational material. Representative records have been examined and verified as genuine. Publication would make the records publicly available and would carry regulatory, competitive, and reputational consequences for the organization. Once published, the complete data set can be examined, downloaded, and redistributed without restriction.",
-        "link": "#LockeBridge%20Capital%20Partners",
-        "magnet": null,
-        "screen": "screenshots/pixelleaks/LockeBridge Capital Partners.png",
-        "private": false,
-        "misp_uuid": "47d3a12f-4367-59b4-a38c-50f771bd5b51",
-        "group_name": "pixelleaks",
-        "sector": "Finance"
     }
 ]
